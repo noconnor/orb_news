@@ -19,5 +19,5 @@ title: Orb News — Archive
 ### {{ year }}-{{ month }}
 
   {% endif %}
-- [{{ digest.name | replace: ".md", "" }}]({{ digest.url }})
+- [{{ digest.name | replace: ".md", "" }}]({{ site.baseurl }}{{ digest.url }})
 {% endfor %}
