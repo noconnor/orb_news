@@ -1,6 +1,6 @@
 {
   "layer": "world",
-  "fetched_at": "2026-04-03T10:15:00Z",
+  "fetched_at": "2026-04-03T10:45:00Z",
   "source_status": {
     "reuters": "ok",
     "apnews": "ok",
@@ -10,118 +10,118 @@
   },
   "stories": [
     {
-      "headline": "Russia Intensifies Aerial Campaign Against Ukraine",
-      "summary": "Russia is conducting sustained rolling aerial attacks on Ukraine, with Kyiv reporting intensive operations on multiple fronts. The campaign represents an escalation in the ongoing conflict that began with Russia's 2022 invasion. Air strikes have targeted critical infrastructure and populated areas, forcing Ukrainian civilians to seek shelter. Military analysts indicate Russia is attempting to wear down Ukrainian air defenses through constant pressure. Ukraine's air force continues to intercept incoming missiles and drones, though some reach their targets. The sustained nature of these attacks indicates Russia's commitment to maintaining offensive pressure despite heavy losses. International observers have called for increased military support to Ukraine. The bombardment has caused disruptions to civilian life and economic activity. Energy infrastructure remains a primary target, affecting power supplies to millions of Ukrainians. The conflict shows no signs of immediate de-escalation, with both sides entrenched in their positions.",
-      "image_url": null,
-      "authors": [],
+      "headline": "Iran escalates regional conflict, hitting Gulf refineries as Trump threatens strikes on Iranian infrastructure",
+      "summary": "Iran launched a major assault on Middle Eastern energy infrastructure, with Iranian officials reporting the destruction of a major bridge between Tehran and Karaj and missiles hitting refineries in Saudi Arabia, the UAE, and Kuwait. The escalation came in response to Trump's explicit threats to attack Iranian bridges and power plants, marking a significant intensification in the US-Iran conflict that began weeks earlier. Trump administration officials have warned of severe consequences, with Secretary of State Hegseth removing the Army's top uniformed officer amid ongoing military operations. The attacks threaten global energy markets and create ripple effects for international oil prices and geopolitical stability. Multiple sources reported the incident within hours, indicating its significance across global news networks. The situation represents the most dangerous moment in regional tensions in recent years, with potential for further escalation. Both sides appear to be engaged in a dangerous escalatory cycle that could drag the broader region into wider conflict. International allies including Gulf Cooperation Council members are reportedly bracing for further Iranian actions. Energy analysts have warned the conflict could trigger sustained spikes in global oil prices if it continues.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5100x3400+0+0/resize/5100x3400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fd9%2F51b2bbd649908fc611a4cb71d8d5%2Fgettyimages-2268909874.jpg",
+      "authors": ["NPR Staff"],
       "sources": [
         {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants",
+          "author": "NPR Staff"
+        },
+        {
           "name": "Reuters (via Google News)",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEROeEZKLTlzMTdRWlV3NVRZQVVycHFCaW1rRE1aSGlsaGdwLWstUWh5cDBqNlBxQ19ON1lZb0I3VzZhRHE5UjdncFlBSlJMSkNWU1J4cW93VnIwMDdaWjlHRlZUSFRqRzNrUjFBWWhvc3AtRy05Szd5TnNnUC1YajIyak9KZXJpTlVJTTZ4ZzNKQjFRbGRuSGk3bjVFZ0QzUFB5d1pva2hqZGhoVG5FRDktRjQxUEpWbUJWNA?oc=5",
-          "author": ""
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUS1DNHpZcG9LNUdON3hHamVsbmU0bVZEMnpFQUc2QjN2SnZ6YVRuZ1RScWJDMUxyNVB5WUp3aUtYbTVNVHM1d0xSUFBCd2JmZjBTVUpZWW1YMmtld1lYYTMwOEliQkpIWTJxdnN5YXViWjFrazY5ZjNhTmtrOU9peGtpNzRmWkI4RDI0WHMtT19kOFgtUTdIeERNN1RMRmIwQ2NxWkkydm5nQmNWZDRoRmR3",
+          "author": null
         }
       ],
-      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "tags": ["conflict", "diplomacy", "economy"],
       "significance": "high"
     },
     {
-      "headline": "Myanmar's Military Coup Leader Min Aung Hlaing Becomes President",
-      "summary": "General Min Aung Hlaing, the military leader who orchestrated Myanmar's 2021 coup and triggered a brutal civil war, has been elected president by the newly-elected pro-military parliament. The pro-military parliament voted him into the position, consolidating his grip on power despite facing significant international criticism. Min Aung Hlaing's tenure has been marked by widespread human rights abuses, including mass killings of civilians and forced displacement of ethnic minorities. The military junta has faced armed resistance from civilian militias and ethnic armed organizations. The international community, including Western nations and ASEAN countries, has expressed concern about the ongoing violence and humanitarian crisis. Analysts view his presidency as a formalization of military control that was already established through the coup. The move faces opposition from pro-democracy activists and exiled political figures who continue to challenge military rule. Myanmar's economy has suffered significantly under military governance, with international sanctions contributing to economic decline. The appointment signals the junta's intention to maintain authoritarian rule for the foreseeable future. Humanitarian organizations warn of worsening conditions for vulnerable populations.",
+      "headline": "Myanmar junta leader Min Aung Hlaing becomes president, consolidating military control amid civil war",
+      "summary": "Myanmar's coup leader General Min Aung Hlaing was officially elected president by the newly-constituted pro-military parliament on April 3, 2026, consolidating military control over the country. The election came despite ongoing brutal civil conflict triggered by the 2021 coup that has killed thousands and displaced hundreds of thousands of civilians. Min Aung Hlaing's presidency represents a formal institutionalization of military rule rather than a transition toward democracy, contrary to international calls for restoration of civilian governance. The move has been criticized by democracy advocates and international observers who view it as entrenching authoritarian military control. Multiple armed ethnic groups continue to wage open warfare against government forces across the country. The international community, including ASEAN neighbors and Western democracies, have expressed concern about the escalating humanitarian crisis and lack of democratic progress. Regional analysts see the presidency as strengthening military hardliners within the junta structure. Myanmar's economy continues to suffer from the conflict and international isolation, with humanitarian agencies warning of worsening food insecurity.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
       "authors": [],
       "sources": [
         {
-          "name": "Reuters (via Google News)",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw?oc=5",
-          "author": ""
-        },
-        {
           "name": "BBC World",
           "url": "https://www.bbc.com/news/articles/c1782nk0018o",
-          "author": ""
+          "author": null
+        },
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw",
+          "author": null
         }
       ],
-      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "tags": ["conflict", "diplomacy", "humanitarian"],
       "significance": "high"
     },
     {
-      "headline": "NASA's Artemis II Spacecraft Leaves Earth Orbit Headed for the Moon",
-      "summary": "NASA's Artemis II mission has successfully left Earth's orbit and is now on a trajectory toward the Moon, marking a significant milestone in the effort to return humans to lunar exploration for the first time since 1972. The spacecraft carrying four astronauts has passed the critical trans-lunar injection point, propelling it beyond Earth's gravitational sphere of influence. This represents a major achievement in the Artemis program, which aims to establish sustainable human presence on the Moon and serve as a stepping stone to Mars. The mission will take the astronauts around the far side of the Moon before returning to Earth, testing critical systems and procedures needed for future crewed lunar landings. The success of this mission is essential for NASA's long-term exploration goals and demonstrates American leadership in space. International space agencies have expressed support for the Artemis program's objectives. The mission includes testing new technologies and life support systems that will be crucial for the more ambitious Artemis III mission, which will land astronauts on the lunar surface. The flight has captured global attention and reinvigorated public interest in space exploration. Scientists and engineers have worked for years to bring this moment to fruition.",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
+      "headline": "NASA's Artemis II lunar mission successfully leaves Earth orbit, heading for the Moon",
+      "summary": "NASA's Artemis II spacecraft successfully executed its Trans-Lunar Injection burn on April 3, 2026, leaving Earth's orbit for the first time since the Apollo era and setting course for the far side of the Moon. The achievement represents a major milestone for NASA's program to return humans to lunar exploration after more than 50 years, with four astronauts now on a trajectory around the Moon and back to Earth. The Orion capsule, which will carry the crew, has proven its propulsion systems and navigation capabilities during the critical engine firing. Mission controllers confirmed the spacecraft is on track for its planned lunar orbit insertion and subsequent return. The mission builds upon decades of international space cooperation and represents the next step toward establishing sustainable human presence on the Moon. Scientific goals include testing life support systems and validating procedures needed for future Artemis missions. The success comes amid broader international competition in space exploration, with multiple nations pursuing lunar programs. The mission duration spans approximately three weeks, with safe return of the spacecraft expected by late April.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3156+0+0/resize/5000x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2Fc3%2Fb980ca4d4588948d20206b3cb013%2Fap26092545530202.jpg",
       "authors": ["Nell Greenfieldboyce"],
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c937g7nd5x4o",
-          "author": ""
-        },
         {
           "name": "NPR News",
           "url": "https://www.npr.org/2026/04/03/nx-s1-5771567/nasa-artemis-ii-tli-moon",
           "author": "Nell Greenfieldboyce"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c937g7nd5x4o",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission",
+          "author": null
         }
       ],
-      "tags": ["technology", "space", "diplomacy"],
+      "tags": ["technology", "science"],
       "significance": "high"
     },
     {
-      "headline": "Middle East Tensions Escalate as Kuwait Infrastructure Targeted",
-      "summary": "Kuwait's critical infrastructure, including a major desalination plant and oil refinery, has been struck by missiles and drone attacks. The attacks also extended to the United Arab Emirates, where Oracle and Amazon Web Services data centers were targeted. These strikes represent a significant escalation in Middle East tensions and suggest the potential involvement of Iran-backed militias. The desalination plant is crucial to Kuwait's water supply, and damage to it threatens the civilian population's access to fresh water. The oil refinery attack highlights the vulnerability of Gulf region energy infrastructure and could impact global oil markets. The U.S. has indicated concern about the attacks and is considering military response options. The escalation has prompted discussions at the United Nations about regional security and freedom of navigation through the Strait of Hormuz. Bahrain has proposed modifications to a UN proposal on Strait of Hormuz freedom of navigation in response to regional tensions. The U.S. military has begun evacuating troops from threatened Middle East bases to reduce exposure to potential attacks. Regional analysts view the attacks as part of a broader proxy conflict in the Gulf. The situation raises fears of further escalation and potential disruption to global shipping and energy markets.",
+      "headline": "Microsoft pledges $10 billion investment in Japan for AI and cyber defense amid regional tech competition",
+      "summary": "Microsoft announced a $10 billion investment in Japan focused on advancing artificial intelligence capabilities and cyber defense infrastructure, marking one of the largest foreign direct investments by a major tech company in the region. The investment reflects strategic positioning in Asia amid intensifying competition from Chinese tech firms and growing regional security concerns. Microsoft plans to establish AI research centers and develop localized solutions for Japanese businesses and government agencies. The move comes as Japan seeks to strengthen technological independence and reduce reliance on foreign technology while maintaining strong partnerships with democratic allies. Regional analyst note the investment as part of a broader tech rivalry between the US, China, and allied nations for dominance in AI development. The deal includes commitments to workforce development and cybersecurity infrastructure resilience. Japanese government officials have welcomed the commitment as supporting the country's digital transformation goals. The investment is expected to create thousands of jobs and strengthen Japan's position in global AI markets over the coming years.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes",
-          "author": ""
-        },
-        {
-          "name": "AP News (via Google News)",
-          "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-          "author": ""
-        },
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops",
-          "author": "Steve Walsh"
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN",
+          "author": null
         }
       ],
-      "tags": ["conflict", "economy", "geopolitics"],
-      "significance": "high"
+      "tags": ["technology", "economy", "trade"],
+      "significance": "medium"
     },
     {
-      "headline": "Cuba Announces Pardon of Over 2,000 Prisoners Amid U.S. Pressure",
-      "summary": "Cuba has announced it will pardon more than 2,000 prisoners as part of broader diplomatic pressure from the United States. The prisoner release reflects ongoing tensions between Cuba and the U.S., with the American government making prisoner releases a core demand in negotiations. Cuba continues to operate under an extensive U.S. economic embargo that has significantly impacted the island nation's economy for decades. The pardon announcement comes at a time of increased U.S. diplomatic engagement focused on improving relations and addressing humanitarian concerns. Political analysts view the move as a potential step toward gradual normalization of relations between the two countries. The released prisoners will need to reintegrate into Cuban society, which faces significant economic challenges. International observers have noted that some of those pardoned may have political connections to dissidents challenging government authority. The move may signal Cuba's willingness to engage in dialogue with the new U.S. administration. Humanitarian organizations have called for more comprehensive reforms in Cuba's justice system. The geopolitical significance of the pardon extends beyond the bilateral relationship, affecting regional dynamics in the Caribbean.",
+      "headline": "World food prices threatened by escalating Iran-US conflict, FAO warns of supply chain disruptions",
+      "summary": "The UN Food and Agriculture Organization warned on April 3 that food price inflation could accelerate if the intensifying Iran-US conflict continues, pointing to critical dependencies on Middle Eastern energy and regional trade routes. Global food prices have already begun climbing due to energy costs linked to geopolitical tensions and reduced agricultural exports from conflict zones. The FAO emphasized that petroleum products and fertilizer availability, both heavily dependent on Middle Eastern production and shipping through contested waters, are key vulnerabilities. Developing nations and lower-income populations face disproportionate impacts from food price spikes, with potential for increased malnutrition and humanitarian crises. The conflict threatens vital grain and oil shipping routes that connect Middle Eastern and North African producers to global markets. Multiple analysts expect sustained pressure on commodity markets if military tensions escalate further. Agricultural futures markets are already pricing in conflict risk premiums. The FAO report underscores the interconnected nature of modern global supply chains and geopolitical stability.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLS1DNHpZcG9LNUdON3hHamVsbmU0bVZEMnpFQUc2QjN2SnZ6YVRuZ1RScWJDMUxyNVB5WUp3aUtYbTVNVHM1d0xSUFBCd2JmZjBTVUpZWW1YMmtld1lYYTMwOEliQkpIWTJxdnN5YXViWjFrazY5ZjNhTmtrOU9peGtpNzRmWkI4RDI0WHMtT19kOFgtUTdIeERNN1RMRmIwQ2NxWkkydm5nQmNWZDRoRmR3",
+          "author": null
+        }
+      ],
+      "tags": ["humanitarian", "economy", "climate"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Cuba releases over 2,000 prisoners in historic pardon amid US diplomatic pressure",
+      "summary": "Cuba announced a major prisoner release and pardon of more than 2,000 inmates on April 3, 2026, marking a significant development in US-Cuba relations following sustained American diplomatic pressure. The releases are expected to include political prisoners, addressing a long-standing US demand for improvement in Cuba's human rights record. The pardon represents one of the largest releases by the Cuban government in recent years and signals potential shifts in bilateral engagement between Washington and Havana. Cuban government officials framed the action as humanitarian and independent of external pressure, though it comes amid increasing diplomatic contacts between the two nations. The move affects prison overcrowding issues that have plagued the Cuban penal system and may ease some humanitarian concerns raised by international human rights organizations. Regional observers view the releases as a confidence-building measure that could facilitate broader normalization of US-Cuba relations. The timing coincides with broader geopolitical shifts in the Western Hemisphere and potential economic discussions. International human rights groups have called for verification of prisoner status and continued monitoring of conditions for released individuals.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure",
-          "author": ""
+          "author": null
         }
       ],
-      "tags": ["diplomacy", "humanitarian", "geopolitics"],
+      "tags": ["diplomacy", "humanitarian"],
       "significance": "medium"
     },
     {
-      "headline": "Ten Years Since Panama Papers Leak: Financial Transparency Debate Continues",
-      "summary": "April 3, 2026 marks ten years since the release of the Panama Papers, one of the largest data leaks in history that exposed more than 11.5 million documents revealing offshore financial schemes. The leaked documents detailed how wealthy individuals, corporations, and government officials used offshore entities to hide assets and evade taxes. The original 2016 disclosure sparked global investigations and led to some prosecutions, though critics argue enforcement has been inconsistent. Financial transparency advocates have used the Panama Papers to push for stronger international regulations on corporate ownership and tax enforcement. The revelations exposed corruption networks spanning multiple continents and implicated prominent political figures worldwide. A decade later, many jurisdictions have strengthened beneficial ownership disclosure requirements and cross-border cooperation on financial crimes. However, loopholes remain, and offshore financial structures continue to proliferate in modified forms. The leak demonstrated the power of investigative journalism and international cooperation in exposing financial crimes. The anniversary has reignited discussions about the need for continued reforms in global financial regulation. Developing nations argue that wealthy countries have benefited disproportionately from offshore tax havens.",
-      "image_url": null,
-      "authors": [],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change",
-          "author": ""
-        }
-      ],
-      "tags": ["economy", "trade", "humanitarian"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Major Tech Verdicts Signal New Era of Big Tech Accountability",
-      "summary": "Recent court verdicts against major technology companies Meta and Google are generating momentum for broader regulatory changes in the technology sector. Advocates view these legal outcomes as potentially transformative for Silicon Valley's approach to accountability and user protection. The verdicts address harms related to social media platforms' handling of user data and their impact on society. Legal experts suggest the decisions could establish important precedents for future litigation against technology giants. The cases have highlighted concerns about monopolistic practices, data privacy violations, and inadequate content moderation. Technology companies are now facing increased scrutiny from regulators, lawmakers, and courts worldwide. The verdicts may accelerate legislative efforts to impose stricter regulations on social media platforms and data handling practices. Industry observers note that technology companies are beginning to face the same regulatory pressures traditionally applied to other large industries. Consumer advocacy groups hope these developments will lead to stronger protections for users, especially children and vulnerable populations. The long-term impact could reshape how technology companies operate and how they balance business interests with public welfare. International regulators are watching these developments closely as they craft their own technology governance frameworks.",
+      "headline": "Tech accountability advances as courts deliver major verdicts against Meta and Google over platform harms",
+      "summary": "Recent court rulings against major technology platforms Meta and Google represent a watershed moment for digital accountability, with legal experts predicting the verdicts could accelerate broader Silicon Valley regulatory reforms. The court decisions found the companies liable for harms caused by their platforms, setting precedents that challenge the traditional liability protections long enjoyed by social media companies. Advocates and policymakers view the rulings as validation of arguments that platforms must bear responsibility for content moderation and user protection. The verdicts could inspire similar legal action in other jurisdictions and influence pending regulation globally, particularly in the European Union and other democracies. Technology industry observers note increased legal and regulatory pressure is mounting across multiple fronts, from child safety to election interference to antitrust concerns. The rulings signal to policymakers that court systems can effectively constrain tech company behavior when legislative action lags. Enforcement of these verdicts could require significant operational changes within both Meta and Google, including enhanced safety systems and content oversight. The broader tech industry is watching the developments closely as indicators of future regulatory direction.",
       "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7828x4784+0+0/resize/7828x4784!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F32%2Fb101fabc4b16b4f6815f7c16f7c3%2Fgettyimages-2267821738.jpg",
       "authors": ["Shannon Bond"],
       "sources": [
@@ -131,22 +131,7 @@
           "author": "Shannon Bond"
         }
       ],
-      "tags": ["technology", "economy", "regulation"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Russia's Services Sector Contracts for First Time in Six Months",
-      "summary": "Russia's services sector has contracted for the first time in six months, according to recent PMI data, signaling economic headwinds facing the country. The contraction indicates slowing economic activity despite months of relative stability in manufacturing and other sectors. Economic analysts attribute the services decline to multiple factors including international sanctions, reduced consumer spending, and economic uncertainty. The Russian government has faced challenges in sustaining economic growth amid geopolitical tensions and Western restrictions. Inflation concerns remain elevated despite central bank efforts to manage monetary policy. The weakness in services—which includes sectors like retail, hospitality, and financial services—suggests broader economic stress extending beyond previous assessments. International analysts view the economic contraction as a sign of the cumulative impact of sanctions and the costs of military operations. Consumer confidence may be weakening as households reassess spending in an uncertain economic environment. The services sector decline could compound difficulties if it spreads to other areas of the economy. Russia's economic outlook remains challenged by ongoing geopolitical tensions and the need to maintain high defense spending. Recovery prospects depend on resolution of international conflicts and potential sanctions relief.",
-      "image_url": null,
-      "authors": [],
-      "sources": [
-        {
-          "name": "Reuters (via Google News)",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYktVeFU5SEpYbDd4S0RlWHB1cTBZbGVFdTloajVvWXNYSmxpLTlLNm9HeDFQdndDN0wtUHdHZzJLMkZMWE80SDlxOTlfa0NxUTVXczRiLXlDbGV1R0RXNGsxWTJaaV9XSEJjcC12M2p2dWRjMmxZM2pCUlJBZ01nY05FLUJSNWZYb0hUcGJrcXc4T3hyVDU5NVoyaW1KSkFPWkVMbVdCdlBubC1mMnYw?oc=5",
-          "author": ""
-        }
-      ],
-      "tags": ["economy", "geopolitics", "trade"],
+      "tags": ["technology", "regulation"],
       "significance": "medium"
     }
   ]

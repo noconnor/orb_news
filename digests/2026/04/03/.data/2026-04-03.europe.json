@@ -1,19 +1,19 @@
 {
   "layer": "europe",
-  "fetched_at": "2026-04-03T13:00:00Z",
+  "fetched_at": "2026-04-03T10:30:00Z",
   "source_status": {
     "bbc": "ok",
     "guardian": "rss_failed_used_websearch",
     "dw": "rss_failed_used_websearch",
     "france24": "ok",
-    "euronews": "ok"
+    "euronews": "rss_failed_used_websearch"
   },
   "stories": [
     {
-      "headline": "Russia intensifies aerial bombardment of Ukraine as military campaign stalls",
-      "summary": "Russia has launched massive rolling aerial attacks across Ukraine, combining overnight drone barrages with daytime missile strikes in a continuation of its ongoing military campaign. For the first time in over two years, Russia has failed to make significant territorial gains, marking a significant shift in the conflict dynamics. The Ukrainian military and EU leaders have responded to these attacks while pursuing diplomatic initiatives, with President Zelenskyy expressing readiness for an Easter truce that Russia has rejected. The bombardment reflects Russian frustration with military stagnation and suggests intensified efforts to overcome Ukrainian resistance. EU foreign ministers visited Kyiv on April 3 to mark the fourth anniversary of the Bucha massacre and reaffirm European support for Ukraine's defense. This development underscores the critical role of European military and financial support as the conflict enters a new phase with uncertain trajectory. The stalled Russian offensive and continued European commitment indicate a prolonged struggle ahead, with implications for broader European security architecture and NATO's credibility.",
+      "headline": "Russia conducts massive rolling aerial attacks on Ukraine as military advance stalls",
+      "summary": "Russia launched extensive coordinated aerial assaults across Ukraine on April 3, combining overnight drone barrages with daytime missile strikes. This marks a significant escalation despite Russia's military campaign stalling in March, the first time in over two years that Russian forces have not made territorial gains. The intensive attacks represent Moscow's response to the operational pause, focusing on attrition against Ukrainian defensive positions and civilian infrastructure. Ukraine has been bolstering its air defence capabilities through new defence agreements signed with Gulf nations seeking to leverage Ukrainian drone-fighting expertise. The EU has reinforced its support for Ukraine, with foreign ministers visiting Kyiv to commemorate the fourth anniversary of the Bucha massacre and discuss ongoing military and financial assistance. European NATO members are simultaneously reassessing their defence posture and reducing reliance on US weapons systems, signalling a strategic pivot toward European self-sufficiency. The situation underscores the central challenge facing Europe: maintaining support for Ukraine while adapting to shifting geopolitical security dynamics.",
       "image_url": "https://s.france24.com/media/display/c850bd60-2f3d-11f1-8be9-005056bf30b7/w:1024/p:16x9/000-A6KQ7C2.jpg",
-      "authors": ["FRANCE 24"],
+      "authors": [],
       "sources": [
         {
           "name": "France24",
@@ -24,41 +24,31 @@
           "name": "France24",
           "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
           "author": "FRANCE 24"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://euronews.com/2026/04/03/kyiv-region-under-massive-daytime-drone-and-missile-attack",
-          "author": ""
         }
       ],
       "tags": ["conflict", "defence", "EU"],
       "significance": "high"
     },
     {
-      "headline": "EU diplomats mark Bucha massacre anniversary and reaffirm support for Ukraine",
-      "summary": "European Union foreign ministers gathered in Kyiv on March 31-April 3 to commemorate the fourth anniversary of the Bucha massacre, a defining atrocity in the Russia-Ukraine conflict that claimed hundreds of civilian lives in April 2022. The visit, led by EU foreign policy chief Kaja Kallas and Romanian Foreign Minister include, represents a powerful statement of European solidarity with Ukraine at a critical moment. EU officials characterized the Bucha killings as part of a deliberate campaign to pave a road of destruction to Kyiv, emphasizing that the crimes were not isolated incidents but systematic attacks. The commemoration focuses on justice for crimes committed, with EU institutions working toward accountability mechanisms. This visit occurs as Ukraine faces intensified Russian bombardment and struggles with delayed EU financial support, particularly the blocked €90 billion loan delayed by Hungary. The EU's presence in Kyiv demonstrates Europe's commitment to supporting Ukraine's sovereignty and pursuit of justice, even as geopolitical tensions with the United States and internal EU divisions complicate the security landscape.",
-      "image_url": "https://s.france24.com/media/display/44b2077c-2ce8-11f1-b96c-005056bf30b7/w:1024/p:16x9/EN-20260331-110729-110949-CS.jpg",
-      "authors": ["FRANCE24"],
+      "headline": "European NATO members reassess US defence dependency amid geopolitical tensions",
+      "summary": "European NATO countries are fundamentally reassessing their defence strategy, with defence experts warning that reliance on US military hardware represents a strategic liability. This pivotal shift comes as European defence spending surges significantly in response to the Russia-Ukraine conflict and perceived US isolationism under the Trump administration. NATO's integrity itself has come under question, with expert commentary suggesting the alliance has become primarily a 'paper tiger' following Trump's threats to withdraw US membership. UK Prime Minister Keir Starmer has announced Britain's pivot toward closer economic and defence ties with Europe rather than reliance on the traditional US 'special relationship.' Multiple European nations are simultaneously increasing defence budgets while reducing US weapons imports, signalling a coordinated move toward European strategic autonomy. This strategic reorientation represents one of the most significant shifts in post-Cold War European security policy. The transition presents both opportunities for European defence industrial consolidation and risks of fragmentation if coordination mechanisms falter.",
+      "image_url": "https://s.france24.com/media/display/bc7771da-2ed6-11f1-9507-005056bfb2b6/w:1024/p:16x9/EN-20260402-223115-224401-CS.jpg",
+      "authors": [],
       "sources": [
         {
           "name": "France24",
-          "url": "https://www.france24.com/en/eu-ministers-commemorate-bucha-massacre-and-reaffirm-support-to-ukraine",
+          "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
           "author": "FRANCE24"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://euronews.com/my-europe/2026/04/03/romanian-foreign-minister-in-kyiv-on-bucha-anniversary",
-          "author": ""
         }
       ],
-      "tags": ["EU", "defence", "diplomacy"],
+      "tags": ["defence", "EU", "governance"],
       "significance": "high"
     },
     {
-      "headline": "EU report finds five countries 'deliberately eroding' rule of law",
-      "summary": "A recent European Union report has identified five member states—Bulgaria, Croatia, Hungary, Italy, and Slovakia—as deliberately eroding rule of law within the bloc, marking a significant governance crisis within European institutions. The findings highlight systemic threats to democratic principles including judicial independence, freedom of expression, and institutional accountability across diverse regions of the EU. These allegations reflect broader concerns about democratic backsliding in Central and Eastern Europe as well as Italy, challenging the EU's foundational values and cohesion. The report comes amid tensions between these countries and other EU institutions over various policy issues, including Hungary's blocking of Ukraine aid and Italy's immigration policies. EU institutions have previously warned about these trends, but the explicit characterization of deliberate erosion represents an escalation in official concern. The report underscores internal EU divisions that complicate unified responses to external threats, including Russia's military actions in Ukraine. These governance challenges weaken the EU's ability to project unity and strength in its dealings with external actors, requiring remedial action from Brussels to reinforce democratic standards across member states.",
+      "headline": "Five EU countries facing rule of law crisis, report reveals deliberate erosion of democratic standards",
+      "summary": "A comprehensive report has identified five European Union member states as deliberately eroding democratic rule of law standards: Bulgaria, Croatia, Hungary, Italy, and Slovakia. These findings raise serious concerns about the integrity of EU governance and democratic accountability across the bloc. The erosion involves systematic attacks on judicial independence, media freedom, and anti-corruption mechanisms within these nations. Hungary has faced particular scrutiny, with reports indicating the foreign minister may have passed strategic information to Russian counterparts—allegations the government has dismissed as 'foreign interference.' The political situation in Hungary reflects broader concerns about some EU members' alignment with Western strategic interests. These rule of law violations contradict fundamental EU values and have triggered debates about enforcement mechanisms and potential consequences for non-compliant member states. The situation puts pressure on EU leadership to develop effective responses that preserve the union's foundational democratic principles while addressing deep internal divisions.",
       "image_url": "https://s.france24.com/media/display/cb42fa56-2d3a-11f1-a31a-005056a90284/w:1024/p:16x9/EN-20260331-213116-214013-CS.jpg",
-      "authors": ["FRANCE24"],
+      "authors": [],
       "sources": [
         {
           "name": "France24",
@@ -70,25 +60,25 @@
       "significance": "high"
     },
     {
-      "headline": "European shipping faces unprecedented disruption amid Hormuz crisis and Iranian tensions",
-      "summary": "European shipping companies and maritime nations face their worst crisis in recent memory as geopolitical tensions in the Middle East create massive supply chain disruptions. Greece, with over 75 stranded ships, is among the European countries most severely affected by instability in the Hormuz Strait and broader Iranian-Israeli escalation. The disruption threatens critical supply routes that European economies depend on for energy, manufactured goods, and trade, with implications for inflation and economic growth across the continent. France24 has warned of the largest oil supply disruption in European history, with energy experts highlighting the continent's vulnerability to Middle Eastern volatility. The crisis underscores Europe's strategic vulnerability and energy dependence, forcing EU policymakers to reconsider supply chain resilience and energy policy. This disruption occurs alongside other pressures on European economies, including defense spending increases and uncertainty over US trade and security commitments. The shipping crisis demands immediate EU coordination to protect maritime commerce, diversify energy sources, and establish contingency protocols for future disruptions.",
-      "image_url": null,
+      "headline": "EU confronts largest oil supply disruption in history amid Iran war consequences",
+      "summary": "The ongoing Iran-US-Israel conflict has triggered what energy experts characterise as 'the largest oil supply disruption in history,' creating severe economic pressures across the European Union. Oil and gas prices have surged to their steepest monthly rise since Russia's 2022 invasion of Ukraine, according to Eurostat data. The disruption stems from multiple factors: direct impacts on Middle Eastern production and shipping routes, broader geopolitical instability, and unilateral government actions restricting oil supply. European energy security, already fragile following the loss of Russian supplies in 2022, now faces acute vulnerabilities. The price spike threatens to reignite inflation across the EU economy at a moment when member states are already struggling with affordability crises, particularly in housing and essential services. Russia's strategic response has included sending oil tankers to Cuba as an alternative market, highlighting how the conflict reshapes global energy trade patterns. European policymakers are under pressure to develop coordinated responses balancing energy security, climate commitments, and economic stability.",
+      "image_url": "https://s.france24.com/media/display/ef9aa566-2d44-11f1-8484-005056a97e36/w:1024/p:16x9/capture-94646662569cc3668331268-46796288.jpg",
       "authors": [],
       "sources": [
         {
-          "name": "Euronews",
-          "url": "https://euronews.com/business/2026/04/03/which-european-countries-ships-are-most-hit-by-the-hormuz-crisis",
-          "author": ""
+          "name": "France24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
+          "author": "Sharon GAFFNEY"
         }
       ],
-      "tags": ["economy", "trade", "energy"],
+      "tags": ["economy", "climate", "EU"],
       "significance": "high"
     },
     {
-      "headline": "German Chancellor pushes for Syrian immigrant repatriation amid integration debates",
-      "summary": "German Chancellor Friedrich Merz has announced that 80 percent of Syrian immigrants should return home, aligning with Syrian President Bashar al-Assad's government on repatriation goals. The statement signals a shift in German immigration policy toward repatriation rather than integration, reflecting growing political pressure over immigration and integration challenges within Germany. Merz's position represents a hardening stance that contrasts with Germany's traditional role as a refuge for displaced persons and suggests broader European debates about immigration are shifting toward repatriation models. The announcement comes amid regional tensions and Assad regime normalization with some countries, though international human rights organizations express concerns about Syrian safety. Germany's immigration policy carries significant weight in EU discussions about migration, integration, and asylum, influencing policy discussions across the bloc. The repatriation goal reflects domestic political pressures and security concerns but raises questions about feasibility, international law compliance, and humanitarian implications. This development illustrates how European countries are grappling with long-term consequences of Syrian displacement and seeking new approaches to managing large displaced populations.",
+      "headline": "Germany accelerates Syrian refugee repatriation, targets 80 percent return within three years",
+      "summary": "German Chancellor Friedrich Merz has announced an ambitious agreement with Syrian leadership to facilitate the repatriation of Syrian refugees, targeting an 80 percent return rate within a three-year timeframe. The initiative responds to significant domestic political pressure around migration policy and integration. Germany hosts one of Europe's largest Syrian refugee populations following the 2011-2015 civil war displacement crisis. The agreement represents a significant shift in European migration policy, moving from indefinite asylum-based models toward structured repatriation frameworks. This development carries implications across the EU, as other nations may adopt similar approaches or face pressure to do so. The feasibility and humanitarian implications of large-scale repatriation remain contested, with questions about security conditions in Syria and whether returning refugees face persecution. The move reflects broader European political movements toward stricter migration controls. International observers will monitor implementation closely to assess whether repatriation proves sustainable and whether returning populations can safely reintegrate into Syria's still-unstable post-civil war environment.",
       "image_url": "https://s.france24.com/media/display/a1565706-2c72-11f1-abb0-005056a97e36/w:1024/p:16x9/2026-03-30T124605Z-358270693-RC20FKA8B7DW-RTRMADP-3-GERMANY-SYRIA.jpg",
-      "authors": ["FRANCE 24"],
+      "authors": [],
       "sources": [
         {
           "name": "France24",
@@ -100,40 +90,25 @@
       "significance": "medium"
     },
     {
-      "headline": "Paris police arrest suspects in attempted attack on Bank of America headquarters",
-      "summary": "French law enforcement arrested at least two suspects in connection with an attempted explosive device attack on the Bank of America headquarters in Paris, bringing the total number of arrests to five. The incident represents a security threat within a major European capital and raises concerns about extremist activity targeting American institutions in France. The attempted attack reflects ongoing tensions related to US foreign policy and geopolitical conflicts, including the Iran-Iraq war situation affecting European interests. Security at diplomatic and corporate facilities in major European cities remains heightened as intelligence services monitor potential threats. The investigation into the motives and network behind the attempted attack continues, with authorities determining whether the suspects acted independently or as part of a larger network. The incident underscores the security challenges facing European capitals hosting major international institutions and corporate headquarters. This attack demonstrates the intersection of geopolitical tensions, extremism, and security concerns affecting daily life in European cities.",
-      "image_url": "https://s.france24.com/media/display/04024d54-2c66-11f1-b77a-005056a90284/w:1024/p:16x9/EN-20260330-201909-202048-CS.jpg",
-      "authors": ["FRANCE24"],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris",
-          "author": "FRANCE24"
-        }
-      ],
-      "tags": ["security", "governance", "EU"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Greek government faces subsidy fraud scandal with three ministers resigning",
-      "summary": "Three Greek government ministers have resigned following revelations of fraudulent subsidies concentrated on the island of Crete, marking a significant political crisis for the administration. The scandal involves misallocation of government funds intended for legitimate purposes, with investigations focused on Crete's regional network and beneficiaries. The resignations reflect the serious nature of the fraud and government accountability to Greek citizens over financial integrity. The incident raises questions about financial controls within Greek public administration and the effectiveness of oversight mechanisms within the EU framework. Greece's vulnerability to internal corruption challenges the broader EU governance agenda and adds to internal tensions within the bloc. The scandal occurs amid Greece's recovery from previous financial crises and broader European economic uncertainties, complicating the government's ability to focus on other priorities. This development illustrates ongoing challenges with governance and financial accountability across different EU member states.",
-      "image_url": null,
+      "headline": "Valuable paintings stolen from Italian museum in sophisticated art heist",
+      "summary": "Three French masterworks—paintings by Pierre-Auguste Renoir, Paul Cézanne, and Henri Matisse—were stolen from a museum in northern Italy in a sophisticated heist. The three paintings are estimated to be worth approximately $10 million collectively. The theft represents a significant loss to European cultural heritage and raises questions about museum security protocols across the continent. Art theft of this magnitude typically involves professional criminal networks with international connections and access to secure distribution channels. Italian law enforcement has launched an investigation into the circumstances of the theft and the identities of those responsible. The incident highlights ongoing vulnerabilities in European art security, despite improvements in cataloguing and protection measures in recent decades. Recovery of high-profile stolen artworks often takes years or remains unresolved, with pieces sometimes entering illegal private collections. This theft underscores the persistent challenges museums face in balancing public access with adequate security measures.",
+      "image_url": "https://s.france24.com/media/display/e37f9c38-2c44-11f1-8c46-005056bfb2b6/w:1024/p:16x9/mini-paintings.jpg",
       "authors": [],
       "sources": [
         {
-          "name": "Euronews",
-          "url": "https://euronews.com/2026/04/03/three-members-of-greek-government-quit-over-subsidy-scandal",
-          "author": ""
+          "name": "France24",
+          "url": "https://www.france24.com/en/video/20260330-paintings-by-renoir-c%C3%A9zanne-and-matisse-stolen-from-italian-museum",
+          "author": "FRANCE24"
         }
       ],
-      "tags": ["governance", "economy", "EU"],
+      "tags": ["governance", "EU", "trade"],
       "significance": "medium"
     },
     {
-      "headline": "France sentences Russian shadow fleet tanker captain for oil sanctions violations",
-      "summary": "A French court has sentenced the captain of a suspected Russian shadow fleet tanker to one year in jail, convicted in absentia for violating international oil sanctions targeting Russia. The conviction reflects France's enforcement of EU and international sanctions against Russia's circumvention of oil embargoes through the use of aging, unregulated tanker ships. Shadow fleet operations represent a significant sanctions-busting mechanism that Russia uses to export oil despite international restrictions, undermining the effectiveness of economic pressure on Moscow. The sentencing demonstrates European commitment to enforcing sanctions integrity and combating illegal circumvention networks. French maritime authorities continue to monitor and interdict suspected shadow fleet vessels operating in European waters, with multiple investigations ongoing. The case highlights the broader challenge European governments face in enforcing sanctions as Russia adapts its operations to evade restrictions. This conviction sends a message that individuals and entities facilitating Russian sanctions violations face prosecution in European jurisdictions, though challenges remain in apprehending fugitive defendants.",
+      "headline": "France intercepts suspected Russian 'shadow fleet' tanker, sentences captain in absentia",
+      "summary": "A French court has handed down a one-year jail sentence to the captain of a suspected Russian oil tanker implicated in sanctions-evasion activity. The captain was sentenced in absentia, reflecting the vessel's status as part of Russia's 'shadow fleet'—unregistered or re-registered vessels used to circumvent Western sanctions on Russian oil exports. The case demonstrates France's active enforcement of EU energy sanctions against Russia despite the geopolitical complexities surrounding enforcement. Shadow fleet operations represent a sophisticated evasion strategy, with vessels operating outside traditional maritime registries and insurance frameworks. The sentencing sends a signal about Western determination to maintain sanctions pressure on Russia, though enforcement remains challenging given the decentralised nature of shipping operations. France's action reflects broader European efforts to disrupt Russian revenue streams financing the Ukraine conflict. However, the persistence of shadow fleet operations indicates that sanctions face significant implementation challenges as Russia continually adapts evasion tactics.",
       "image_url": "https://s.france24.com/media/display/975759e4-2c45-11f1-8d80-005056bf30b7/w:1024/p:16x9/AP25275543568748.jpg",
-      "authors": ["FRANCE 24"],
+      "authors": [],
       "sources": [
         {
           "name": "France24",
@@ -141,7 +116,7 @@
           "author": "FRANCE 24"
         }
       ],
-      "tags": ["regulation", "defence", "trade"],
+      "tags": ["defence", "trade", "regulation"],
       "significance": "medium"
     }
   ]

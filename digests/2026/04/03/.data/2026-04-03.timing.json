@@ -2,48 +2,44 @@
   "date": "2026-04-03",
   "update_type": "morning",
   "steps": {
-    "setup": {"start": 1775211090, "end": 1775211158, "duration_s": 68},
-    "gather": {"start": 1775211166, "end": 1775211309, "duration_s": 143},
-    "synthesize": {"start": 1775211309, "end": 1775211391, "duration_s": 82},
-    "historical": {"start": 1775211391, "end": 1775211553, "duration_s": 162},
-    "format": {"start": 1775211553, "end": 1775211743, "duration_s": 190},
-    "write_commit": {"start": 1775211743, "end": 1775211760, "duration_s": 17}
+    "setup": {"start": 1775212937, "end": 1775212975, "duration_s": 38},
+    "gather": {"start": 1775212975, "end": 1775213603, "duration_s": 628},
+    "synthesize": {"start": 1775213603, "end": 1775215681, "duration_s": 2078},
+    "historical": {"start": 1775215690, "end": 1775220782, "duration_s": 5092},
+    "format": {"start": 1775220791, "end": 1775221052, "duration_s": 261},
+    "write_commit": {"start": 1775221066, "end": 1775221100, "duration_s": 34}
   },
-  "total_duration_s": 670,
+  "total_duration_s": 8131,
   "token_estimate": {
-    "gather_haiku": {
+    "gather_haiku_3x": {
       "input_tokens": 225000,
-      "output_tokens": 12000,
-      "note": "3 agents × ~75K input (RSS feeds + instructions) + ~4K output each"
+      "output_tokens": 10500,
+      "cost_usd": 0.22
     },
     "synthesizer_haiku": {
-      "input_tokens": 14000,
-      "output_tokens": 14500,
-      "note": "layers.json (49K chars / 4) + AGENT.md"
+      "input_tokens": 12200,
+      "output_tokens": 12900,
+      "cost_usd": 0.06
     },
     "historical_sonnet": {
-      "input_tokens": 46000,
-      "output_tokens": 2000,
-      "note": "synthesis top_stories + AGENT.md + ~3 Wikipedia pages (~120KB)"
+      "input_tokens": 45000,
+      "output_tokens": 5000,
+      "cost_usd": 0.19
     },
     "formatter_haiku": {
-      "input_tokens": 18000,
-      "output_tokens": 13000,
-      "note": "synthesis + historical + AGENT.md → digest markdown"
+      "input_tokens": 17700,
+      "output_tokens": 7900,
+      "cost_usd": 0.08
     },
     "orchestrator_sonnet": {
       "input_tokens": 20000,
       "output_tokens": 5000,
-      "note": "Parent session overhead"
+      "cost_usd": 0.09
     },
-    "total_input_tokens": 323000,
-    "total_output_tokens": 46500,
-    "estimated_cost_usd": 0.45,
-    "cost_breakdown": {
-      "haiku_input": "$0.21 (257K × $0.80/M)",
-      "haiku_output": "$0.16 (39.5K × $4.00/M)",
-      "sonnet_input": "$0.20 (66K × $3.00/M)",
-      "sonnet_output": "$0.07 (7K × $10.00/M)"
+    "total": {
+      "input_tokens": 319900,
+      "output_tokens": 41300,
+      "estimated_cost_usd": 0.64
     }
   }
 }

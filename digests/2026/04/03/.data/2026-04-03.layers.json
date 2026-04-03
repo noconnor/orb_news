@@ -1,7 +1,7 @@
 {
   "ireland": {
     "layer": "ireland",
-    "fetched_at": "2026-04-03T11:15:00Z",
+    "fetched_at": "2026-04-03T11:30:00Z",
     "source_status": {
       "rte": "ok",
       "thejournal": "ok",
@@ -11,8 +11,8 @@
     },
     "stories": [
       {
-        "headline": "Ban on scramblers in public places takes effect with Grace's Law",
-        "summary": "Grace's Law, prohibiting the use of scrambler motorbikes in all public spaces, came into force on April 3, 2026. The legislation represents a significant step in tackling anti-social behaviour linked to scrambler use across Ireland, which has been a persistent public safety concern in urban and rural areas. The law was named after Grace O'Malley, a young victim impacted by scrambler-related incidents. Authorities have emphasized enforcement will focus on protecting communities from the dangers posed by unregistered and uninsured scrambler riders. The ban applies to roads, parks, and other public places where scramblers have previously caused disruption and safety hazards. Community groups and local authorities have welcomed the legislation as essential for improving public safety and reducing nuisance behaviour. The implementation of Grace's Law marks a major victory for advocacy groups that campaigned for the ban. Police and local enforcement agencies are expected to ramp up patrols and prosecutions. This legislation is expected to significantly improve quality of life in communities previously affected by scrambler activity.",
+        "headline": "Grace's Law: Ban on scramblers in public places comes into force",
+        "summary": "From April 3, 2026, the use of scramblers and off-road motorcycles in all public places becomes illegal under Grace's Law, which was enacted in memory of Grace O'Malley-Kumar, a teenager killed by a scrambler in Dublin in 2005. The new legislation represents a major victory for campaigners and communities affected by scrambler-related violence and accidents across Ireland. The law gives garda\u00ed enforcement powers to seize and impound these vehicles when found in public spaces. This comes as communities nationwide have expressed increasing concern about scrambler riders creating public safety hazards, damaging roads, and intimidating residents. The implementation of the ban has been widely supported by community groups, victim advocacy organizations, and law enforcement. Garda\u00ed have indicated they will conduct patrols and enforcement operations during the critical early weeks of implementation. The ban covers all public places including parks, roads, green spaces, and beach access areas. This legislation is expected to significantly reduce injuries and fatalities related to scrambler incidents on public roads and spaces.",
         "image_url": "https://www.rte.ie/images/0023cd78-800.jpg",
         "authors": [],
         "sources": [
@@ -25,13 +25,54 @@
         "tags": [
           "politics",
           "crime",
+          "social"
+        ],
+        "significance": "high"
+      },
+      {
+        "headline": "Storm Dave approaches Ireland with Status Yellow wind warning",
+        "summary": "Met \u00c9ireann has issued a Status Yellow wind warning for Ireland as Storm Dave moves in over the Easter Bank Holiday weekend. The warning, which was originally scheduled to begin at 2pm on Saturday, has been brought forward to 1pm due to the storm's earlier arrival. Motorists have been advised to take extra care on the roads throughout the weekend, with particular attention needed on exposed routes. The storm is expected to bring significant winds and weather disruption across the country. Road safety authorities have urged drivers to reduce speed and be prepared for challenging driving conditions. The weekend period coinciding with Easter Bank Holiday means increased traffic volumes on Irish roads during the adverse weather. Weather forecasters warn that the wind warning could be escalated to more severe levels if conditions warrant. Emergency services are on heightened alert for potential incidents related to the severe weather. Travelers and motorists should check weather updates regularly and plan journey times accordingly.",
+        "image_url": "https://c2.thejournal.ie/media/2026/04/poolbeg-lighthouse-1_90742233-977549bf-b34b-42a2-aed4-20908f784d74-630x406.jpg",
+        "authors": [],
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/met-eireann-brings-wind-warning-forward-as-storm-dave-sets-in-over-easter-bank-holiday-7002924-Apr2026/",
+            "author": null
+          },
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0403/1566577-storm-dave-ireland/",
+            "author": null
+          }
+        ],
+        "tags": [
+          "weather",
           "transport"
         ],
         "significance": "high"
       },
       {
-        "headline": "Defence Minister McEntee cancels Lebanon visit following security advisory",
-        "summary": "Justice and Defence Minister Helen McEntee has cancelled her planned visit to Lebanon on the advice of Ireland's Defence Forces, citing security concerns in the region. The decision comes amid escalating tensions in the Middle East, with ongoing Israeli military operations in southern Lebanon creating significant safety risks. The Defence Forces provided a formal security assessment recommending the minister postpone her travel. McEntee's planned engagement in Lebanon was intended to assess humanitarian needs and Irish Defence Forces deployment coordination in the region. This cancellation reflects the serious deterioration of security conditions in Lebanon and underscores the Irish government's commitment to protecting government officials from unnecessary risk. The move demonstrates how regional instability directly impacts Irish diplomatic and defence operations. The Defence Minister is expected to reschedule her visit once conditions improve and security threats diminish. This decision aligns with international guidance from multiple governments reassessing their Middle East presence. The cancellation highlights Ireland's continued concern for stability in the region and its support for Lebanese civilian populations affected by conflict.",
+        "headline": "Change in mortgage rules to benefit downsizing homeowners",
+        "summary": "Updated mortgage lending rules are expected to benefit homeowners who wish to downsize to smaller properties, addressing a gap in the housing market. The changes to mortgage regulations will make it easier for older homeowners and those looking to 'rightsize' to smaller homes. The rules update comes as part of broader efforts to address Ireland's housing shortage and improve the efficiency of the housing stock. Downsizing has been identified as a way to release larger family homes back into the market while allowing older homeowners and others to move into appropriately-sized accommodation. Financial regulators have adjusted lending criteria to facilitate these transactions more smoothly. The move is expected to have positive ripple effects throughout the housing market by increasing property availability and reducing pressure on new builds. Mortgage lenders have been notified of the changes and are adjusting their lending policies accordingly. The government views this as part of its wider Housing for All strategy to improve housing affordability and availability across Ireland.",
+        "image_url": "https://www.rte.ie/images/0004ef05-800.jpg",
+        "authors": [],
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0403/1566512-mortgages-rules/",
+            "author": null
+          }
+        ],
+        "tags": [
+          "housing",
+          "economy"
+        ],
+        "significance": "high"
+      },
+      {
+        "headline": "Defence Minister McEntee's Lebanon trip cancelled due to security concerns",
+        "summary": "Ireland's Defence Minister Helen McEntee has cancelled a planned trip to Lebanon following security advice from the Defence Forces. The minister was scheduled to visit Irish peacekeepers serving with the United Nations Interim Force in Lebanon (UNIFIL), but the journey was abandoned due to deteriorating security conditions in the region. The cancellation reflects heightened tensions in the Middle East, with Israeli military operations ongoing in southern Lebanon and broader regional instability affecting the safety of visitors and personnel. McEntee said the decision was made on the explicit recommendation of Defence Force leadership, prioritizing the safety of government officials. The cancelled visit was intended to demonstrate solidarity with Irish troops serving in peacekeeping operations in one of the world's most challenging environments. Ireland maintains a significant military contingent in Lebanon as part of UNIFIL's longstanding commitment to UN peacekeeping efforts. The Defence Forces regularly advise on security risks for official overseas travel. This incident underscores the volatile nature of the current Middle Eastern situation and its impact on diplomatic and military engagement in the region.",
         "image_url": "https://www.rte.ie/images/0023da78-800.jpg",
         "authors": [],
         "sources": [
@@ -39,57 +80,41 @@
             "name": "RT\u00c9 News",
             "url": "https://www.rte.ie/news/middle-east/2026/0403/1566573-helen-mcentee-lebanon/",
             "author": null
-          }
-        ],
-        "tags": [
-          "politics",
-          "defence",
-          "diplomacy"
-        ],
-        "significance": "high"
-      },
-      {
-        "headline": "MetroLink chief's shock resignation raises concerns ahead of major cost update",
-        "summary": "Sean Sweeney, the chief executive of the MetroLink project, has announced his surprise resignation just as the project approaches submission of significant cost updates. Sweeney, a New Zealand executive, had been leading the multibillion-euro Dublin rapid transit infrastructure project. His sudden departure is expected to create uncertainty in the construction market and among investors. The timing of the resignation is particularly sensitive, coming before crucial financial updates for one of Ireland's largest infrastructure projects. Construction industry observers worry the leadership change could complicate future negotiations and project delivery timelines. The MetroLink project, intended to revolutionize Dublin's public transportation network, has faced substantial challenges and escalating costs throughout its development. Sweeney's departure may signal concerns about project viability or budget pressures. The Irish government and project stakeholders are now seeking a replacement chief executive. This leadership vacuum comes at a critical juncture when market confidence in the project's delivery is essential. The resignation highlights ongoing challenges facing major Irish infrastructure initiatives and their ability to attract stable leadership.",
-        "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
-        "authors": [],
-        "sources": [
+          },
           {
-            "name": "Irish Times",
-            "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/",
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41821475.html",
             "author": null
           }
         ],
         "tags": [
-          "transport",
-          "economy",
+          "defence",
           "politics"
         ],
         "significance": "high"
       },
       {
-        "headline": "Government moves forward with Valerie's Law despite child protection agency concerns",
-        "summary": "The Irish government is proceeding with Valerie's Law, legislation designed to strip convicted killers of parental rights, despite formal concerns raised by Tusla, the child and family agency. The Department of Justice has determined the proposed law is constitutional and justified despite objections from the child protection authority. Valerie's Law represents a significant shift in family law policy, aiming to protect children by preventing convicted murderers from exercising parental custody or guardianship rights. The legislation was named in memory of victims of serious crimes and addresses gaps in current protections for vulnerable children. Tusla's concerns focused on implementation challenges and potential constitutional issues, but the Justice Department has satisfied itself that the law can be properly enacted. Child welfare advocates have expressed mixed views, with some supporting the intent while others worry about unintended consequences. The government's decision to proceed signals its commitment to strengthening child protection even as it navigates agency objections. Parliamentary debate on the legislation is expected soon. This development represents an evolution in how Ireland approaches the rights of convicted murderers and child safety. The law's passage would place Ireland among countries with explicit legal mechanisms to strip parental rights from those convicted of the most serious crimes.",
-        "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
+        "headline": "Government launches public consultation for new digital wallet initiative",
+        "summary": "The Irish government has launched a public consultation on a new 'digital wallet' that will allow citizens to access key documents and government services through their smartphones. The digital wallet will enable secure access to birth certificates, passport information, and registration for welfare support schemes such as the working family payment. This innovation aims to modernize Ireland's digital government services and improve accessibility for citizens. The consultation process invites public feedback on the proposed features, security measures, and implementation timeline. Government officials expect the digital wallet to reduce bureaucratic delays and make it easier for people to access essential services and documentation. The initiative aligns with broader European digital identity trends and EU regulations on digital document verification. Data security and privacy protections have been emphasized as core design principles for the system. The rollout is expected to occur in phases, beginning with pilot programs in selected regions before nationwide deployment. Privacy advocates and digital rights groups have been invited to participate in the consultation to ensure robust safeguards.",
+        "image_url": "https://c1.thejournal.ie/media/2026/04/woman-use-of-smart-phone-in-cafe-c8d2d03d-2870-45af-9aad-4a4665020b48-630x332.jpg",
         "authors": [],
         "sources": [
           {
-            "name": "Irish Times",
-            "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/public-consultation-launched-for-irelands-proposed-new-digital-wallet-7002946-Apr2026/",
             "author": null
           }
         ],
         "tags": [
           "politics",
-          "crime",
-          "social"
+          "economy"
         ],
-        "significance": "high"
+        "significance": "medium"
       },
       {
-        "headline": "Minister plans expanded powers for CAB to seize cryptocurrency and digital assets",
-        "summary": "Justice Minister Jim O'Callaghan has announced plans for major expansion of the Criminal Assets Bureau's (CAB) powers to combat criminal use of cryptocurrency and digital assets. The new powers will enable CAB to freeze payments and issue disclosure orders compelling suspects to reveal access credentials to digital wallets and accounts. This represents a significant modernisation of Ireland's asset-forfeiture capabilities in response to criminal organisations increasingly moving illicit proceeds into cryptocurrency. CAB currently operates within constraints designed before the digital asset era, limiting effectiveness against sophisticated financial crime schemes. The expanded powers align Ireland with international best practices in tackling money laundering and organised crime financing. Justice officials have emphasised the legislation is targeted at dismantling organised crime networks' financial capabilities. The new measures will enable better tracking and recovery of proceeds from drug trafficking, extortion, and other serious crimes. O'Callaghan's announcement signals government commitment to staying ahead of evolving criminal techniques. The proposals are expected to face parliamentary review before enactment. Implementation will require updated training for CAB personnel and enhanced collaboration with financial institutions and cryptocurrency exchanges. This development positions Ireland more competitively in international efforts to curtail criminal financial networks.",
-        "image_url": "https://c2.thejournal.ie/media/2026/04/justice-minister-jim-ocallaghan-speaking-to-the-media-during-a-post-cabinet-briefing-at-government-buildings-dublin-picture-date-wednesday-february-4-2026-f6b4927e-c947-4840-aa02-6794a4c0f100-630x439.jpg",
+        "headline": "Minister plans major boost to CAB powers to seize cryptocurrency assets",
+        "summary": "Justice Minister Jim O'Callaghan has announced plans to significantly expand the Criminal Assets Bureau's (CAB) enforcement powers to target cryptocurrency and digital assets. New legislation will grant CAB the ability to freeze payments and access digital asset accounts through new compulsory disclosure orders. The expanded powers address a growing concern that criminals are using cryptocurrency to hide proceeds from crime and launder money. CAB officials have identified cryptocurrency holdings as a key challenge in modern asset recovery efforts. The new orders will compel suspects and third parties to disclose access credentials and wallet information related to digital assets. This development reflects international trends in law enforcement moving to regulate and monitor cryptocurrency transactions. The measures are expected to significantly improve CAB's ability to seize criminal proceeds held in digital form. Financial institutions and cryptocurrency exchanges will be required to cooperate with CAB orders. The move is part of a broader effort to modernize Irish law enforcement tools to address 21st-century financial crime.",
+        "image_url": "https://c2.thejournal.ie/media/2026/04/justice-minister-jim-ocallaghan-speaking-to-members-of-the-media-during-a-post-cabinet-briefing-at-government-buildings-dublin-picture-date-wednesday-february-4-2026-f6b4927e-c947-4840-aa02-6794a4c0f100-630x439.jpg",
         "authors": [],
         "sources": [
           {
@@ -99,71 +124,46 @@
           }
         ],
         "tags": [
-          "politics",
           "crime",
           "economy"
         ],
-        "significance": "high"
+        "significance": "medium"
       },
       {
-        "headline": "Storm Dave brings nationwide Status Yellow wind warning as Easter weekend approaches",
-        "summary": "Met \u00c9ireann has issued a nationwide Status Yellow wind warning as Storm Dave approaches Ireland over the Easter weekend. The weather alert was brought forward to 1 pm on Saturday, April 4, rather than the originally scheduled 2 pm start time, indicating intensified forecasting confidence about the storm's arrival. Motorists and the general public have been advised to exercise caution as strong winds are expected to impact road conditions and safety. Storm Dave is forecast to bring significant gusts across all counties, with particular risk to tall vehicles, cyclists, and those on exposed routes. The Met \u00c9ireann adjustment signals upgraded concern about the storm's potential impact on Easter weekend travel plans and outdoor activities. Emergency services have been placed on alert for potential incidents related to high winds, including downed trees and power line damage. The early warning gives commuters and travellers extra time to prepare and adjust plans accordingly. Transport operators, including Irish Rail and bus services, are reviewing contingencies for potential service disruptions. Coastal areas are expected to see particularly severe conditions. The public is urged to secure outdoor items and avoid unnecessary travel during peak wind periods. This storm demonstrates the importance of weather preparedness during holiday periods when more people are travelling.",
-        "image_url": "https://c2.thejournal.ie/media/2026/04/poolbeg-lighthouse-1_90742233-977549bf-b34b-42a2-aed4-20908f784d74-630x406.jpg",
-        "authors": [],
-        "sources": [
-          {
-            "name": "RT\u00c9 News",
-            "url": "https://www.rte.ie/news/ireland/2026/0403/1566577-storm-dave-ireland/",
-            "author": null
-          },
-          {
-            "name": "The Journal.ie",
-            "url": "https://www.thejournal.ie/met-eireann-brings-wind-warning-forward-as-storm-dave-sets-in-over-easter-bank-holiday-7002924-Apr2026/",
-            "author": null
-          }
-        ],
-        "tags": [
-          "weather",
-          "transport",
-          "safety"
-        ],
-        "significance": "high"
-      },
-      {
-        "headline": "Garda\u00ed submit supplementary file in Creeslough explosion investigation to DPP",
-        "summary": "Garda\u00ed investigating the tragic Creeslough explosion of 2022, which claimed ten lives, have submitted a supplementary file to the Director of Public Prosecutions (DPP) as the investigation concludes. The submission marks a critical milestone in the lengthy inquiry into the gas explosion that devastated the Donegal community. The DPP will now review the evidence and determine whether criminal charges should be filed against any individuals or entities involved. The Creeslough tragedy occurred on October 7, 2022, when an explosion at a petrol station and shop killed ten people and injured many others. The extended investigation has involved detailed examination of the cause, contributing factors, and any potential criminal liability. The family members of victims have awaited this decision with both anticipation and concern about potential accountability. The investigation examined gas infrastructure, maintenance records, safety protocols, and regulatory compliance at the facility. The supplementary file indicates investigators may have uncovered new evidence or clarifications since the initial submission. The DPP's decision is expected to determine whether the case proceeds to prosecution or closes without charges. This development represents potential progress toward closure for the Creeslough community nearly four years after the devastating incident. The case has raised broader questions about safety regulations in the fuel retail sector.",
+        "headline": "Garda\u00ed investigating Creeslough explosion submit supplementary file to DPP",
+        "summary": "Garda\u00ed investigating the 2022 Creeslough gas explosion tragedy have submitted a supplementary file to the Director of Public Prosecutions (DPP) as investigations into the incident continue. The explosion, which occurred in October 2022, claimed 10 lives and remains one of Ireland's most significant disasters in recent years. The submission of the supplementary file represents a significant development in the ongoing criminal investigation into the causes and circumstances surrounding the tragedy. The DPP will review the file and determine whether criminal charges should proceed against any individuals or entities involved. The investigation has examined building codes, maintenance records, safety protocols, and administrative failures that may have contributed to the explosion. Grieving families of the victims have been kept informed of investigative progress. The tragedy sparked widespread debate about building safety standards and gas safety regulations in Ireland. The outcome of the DPP's decision could establish important legal precedents regarding corporate and regulatory responsibility in disaster cases. The Creeslough community continues to seek accountability and measures to prevent similar tragedies.",
         "image_url": "https://www.irishtimes.com/resizer/v2/MPD37BZS2OW5UFU6FUIPECY4OU.jpg",
-        "authors": [],
+        "authors": [
+          "Hugh Dooley"
+        ],
         "sources": [
           {
             "name": "Irish Times",
             "url": "https://www.irishtimes.com/crime-law/2026/04/03/gardai-investigating-creeslough-explosion-submit-supplementary-file-to-dpp/",
-            "author": null
+            "author": "Hugh Dooley"
           }
         ],
         "tags": [
           "crime",
-          "social",
-          "politics"
+          "social"
         ],
-        "significance": "high"
+        "significance": "medium"
       },
       {
-        "headline": "Irish Air Corps completes rapid mission to Beirut with humanitarian cargo",
-        "summary": "Ireland's Air Corps completed its first-ever flight into Beirut on March 31, spending only 30 minutes on the tarmac before departing with the \u20ac70 million Airbus C295 transport aircraft. The mission involved careful route selection and threat assessment by pilot Captain Lauren Cusack, demonstrating the Defence Forces' capacity to operate in contested and dangerous environments. The brief turnaround time at Beirut's airport reflected both operational efficiency and the security challenges present in the Lebanese capital amid ongoing Israeli military operations. The Air Corps flight represents Ireland's commitment to supporting humanitarian needs and Irish citizens in the region while managing significant security risks. Captain Cusack described the mission planning as comparable to a rapid commercial operation, with meticulous preparation to minimise exposure to potential threats. The Airbus C295 is Ireland's largest military transport aircraft and carries sensitive electronic systems requiring careful protection during high-risk operations. The flight demonstrates Ireland's Defence Forces' growing international capacity and willingness to operate beyond traditional boundaries. The mission included detailed briefings on route hazards, potential threats, and emergency procedures. The successful completion has positioned the Air Corps to conduct further humanitarian and evacuation flights if required. This operation showcases Ireland's ability to project capabilities even in complex security environments and reflects the Defence Forces' professionalism. The flight may set a precedent for future Irish military operations in unstable regions requiring rapid, secure operations.",
-        "image_url": "https://www.irishtimes.com/resizer/v2/X4JELKIADNGR5DYMUBJHJPUSOA.JPG",
+        "headline": "University of Limerick student chooses to live in converted van due to unaffordable rent",
+        "summary": "A University of Limerick student has made the difficult decision to live in a converted van rather than pay what he describes as unaffordable rent in the city. The student's situation exemplifies the acute housing crisis affecting Ireland's student population and young adults. Rising rental costs in university cities have forced many students to explore unconventional accommodation solutions, including shared houses, hostel living, and in this case, van conversion. The cost of student accommodation in Limerick and other university cities has risen dramatically in recent years, often exceeding wages available through part-time student employment. This accommodation crisis is part of broader housing affordability challenges affecting Ireland, particularly in Dublin, Cork, Galway, and Limerick. Student housing advocates argue that universities and local governments must take urgent action to increase affordable accommodation availability. The story has drawn attention to the gap between student incomes and housing costs, prompting discussion about government interventions and housing policy reforms. Student organizations have called for subsidized accommodation and rent control measures. The situation underscores the human impact of Ireland's ongoing housing shortage on young people's quality of life and educational experience.",
+        "image_url": "https://www.rte.ie/images/0024289e-800.jpg",
         "authors": [],
         "sources": [
           {
-            "name": "Irish Times",
-            "url": "https://www.irishtimes.com/ireland/2026/04/03/a-ryanair-turnover-first-air-corps-flight-into-beirut-spent-only-30-minutes-on-tarmac/",
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/munster/2026/0403/1566484-ul-student-van-accommodation/",
             "author": null
           }
         ],
         "tags": [
-          "defence",
-          "diplomacy",
-          "politics"
+          "housing",
+          "social"
         ],
         "significance": "medium"
       }
@@ -171,22 +171,20 @@
   },
   "europe": {
     "layer": "europe",
-    "fetched_at": "2026-04-03T13:00:00Z",
+    "fetched_at": "2026-04-03T10:30:00Z",
     "source_status": {
       "bbc": "ok",
       "guardian": "rss_failed_used_websearch",
       "dw": "rss_failed_used_websearch",
       "france24": "ok",
-      "euronews": "ok"
+      "euronews": "rss_failed_used_websearch"
     },
     "stories": [
       {
-        "headline": "Russia intensifies aerial bombardment of Ukraine as military campaign stalls",
-        "summary": "Russia has launched massive rolling aerial attacks across Ukraine, combining overnight drone barrages with daytime missile strikes in a continuation of its ongoing military campaign. For the first time in over two years, Russia has failed to make significant territorial gains, marking a significant shift in the conflict dynamics. The Ukrainian military and EU leaders have responded to these attacks while pursuing diplomatic initiatives, with President Zelenskyy expressing readiness for an Easter truce that Russia has rejected. The bombardment reflects Russian frustration with military stagnation and suggests intensified efforts to overcome Ukrainian resistance. EU foreign ministers visited Kyiv on April 3 to mark the fourth anniversary of the Bucha massacre and reaffirm European support for Ukraine's defense. This development underscores the critical role of European military and financial support as the conflict enters a new phase with uncertain trajectory. The stalled Russian offensive and continued European commitment indicate a prolonged struggle ahead, with implications for broader European security architecture and NATO's credibility.",
+        "headline": "Russia conducts massive rolling aerial attacks on Ukraine as military advance stalls",
+        "summary": "Russia launched extensive coordinated aerial assaults across Ukraine on April 3, combining overnight drone barrages with daytime missile strikes. This marks a significant escalation despite Russia's military campaign stalling in March, the first time in over two years that Russian forces have not made territorial gains. The intensive attacks represent Moscow's response to the operational pause, focusing on attrition against Ukrainian defensive positions and civilian infrastructure. Ukraine has been bolstering its air defence capabilities through new defence agreements signed with Gulf nations seeking to leverage Ukrainian drone-fighting expertise. The EU has reinforced its support for Ukraine, with foreign ministers visiting Kyiv to commemorate the fourth anniversary of the Bucha massacre and discuss ongoing military and financial assistance. European NATO members are simultaneously reassessing their defence posture and reducing reliance on US weapons systems, signalling a strategic pivot toward European self-sufficiency. The situation underscores the central challenge facing Europe: maintaining support for Ukraine while adapting to shifting geopolitical security dynamics.",
         "image_url": "https://s.france24.com/media/display/c850bd60-2f3d-11f1-8be9-005056bf30b7/w:1024/p:16x9/000-A6KQ7C2.jpg",
-        "authors": [
-          "FRANCE 24"
-        ],
+        "authors": [],
         "sources": [
           {
             "name": "France24",
@@ -197,11 +195,6 @@
             "name": "France24",
             "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
             "author": "FRANCE 24"
-          },
-          {
-            "name": "Euronews",
-            "url": "https://euronews.com/2026/04/03/kyiv-region-under-massive-daytime-drone-and-missile-attack",
-            "author": ""
           }
         ],
         "tags": [
@@ -212,38 +205,29 @@
         "significance": "high"
       },
       {
-        "headline": "EU diplomats mark Bucha massacre anniversary and reaffirm support for Ukraine",
-        "summary": "European Union foreign ministers gathered in Kyiv on March 31-April 3 to commemorate the fourth anniversary of the Bucha massacre, a defining atrocity in the Russia-Ukraine conflict that claimed hundreds of civilian lives in April 2022. The visit, led by EU foreign policy chief Kaja Kallas and Romanian Foreign Minister include, represents a powerful statement of European solidarity with Ukraine at a critical moment. EU officials characterized the Bucha killings as part of a deliberate campaign to pave a road of destruction to Kyiv, emphasizing that the crimes were not isolated incidents but systematic attacks. The commemoration focuses on justice for crimes committed, with EU institutions working toward accountability mechanisms. This visit occurs as Ukraine faces intensified Russian bombardment and struggles with delayed EU financial support, particularly the blocked \u20ac90 billion loan delayed by Hungary. The EU's presence in Kyiv demonstrates Europe's commitment to supporting Ukraine's sovereignty and pursuit of justice, even as geopolitical tensions with the United States and internal EU divisions complicate the security landscape.",
-        "image_url": "https://s.france24.com/media/display/44b2077c-2ce8-11f1-b96c-005056bf30b7/w:1024/p:16x9/EN-20260331-110729-110949-CS.jpg",
-        "authors": [
-          "FRANCE24"
-        ],
+        "headline": "European NATO members reassess US defence dependency amid geopolitical tensions",
+        "summary": "European NATO countries are fundamentally reassessing their defence strategy, with defence experts warning that reliance on US military hardware represents a strategic liability. This pivotal shift comes as European defence spending surges significantly in response to the Russia-Ukraine conflict and perceived US isolationism under the Trump administration. NATO's integrity itself has come under question, with expert commentary suggesting the alliance has become primarily a 'paper tiger' following Trump's threats to withdraw US membership. UK Prime Minister Keir Starmer has announced Britain's pivot toward closer economic and defence ties with Europe rather than reliance on the traditional US 'special relationship.' Multiple European nations are simultaneously increasing defence budgets while reducing US weapons imports, signalling a coordinated move toward European strategic autonomy. This strategic reorientation represents one of the most significant shifts in post-Cold War European security policy. The transition presents both opportunities for European defence industrial consolidation and risks of fragmentation if coordination mechanisms falter.",
+        "image_url": "https://s.france24.com/media/display/bc7771da-2ed6-11f1-9507-005056bfb2b6/w:1024/p:16x9/EN-20260402-223115-224401-CS.jpg",
+        "authors": [],
         "sources": [
           {
             "name": "France24",
-            "url": "https://www.france24.com/en/eu-ministers-commemorate-bucha-massacre-and-reaffirm-support-to-ukraine",
+            "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
             "author": "FRANCE24"
-          },
-          {
-            "name": "Euronews",
-            "url": "https://euronews.com/my-europe/2026/04/03/romanian-foreign-minister-in-kyiv-on-bucha-anniversary",
-            "author": ""
           }
         ],
         "tags": [
-          "EU",
           "defence",
-          "diplomacy"
+          "EU",
+          "governance"
         ],
         "significance": "high"
       },
       {
-        "headline": "EU report finds five countries 'deliberately eroding' rule of law",
-        "summary": "A recent European Union report has identified five member states\u2014Bulgaria, Croatia, Hungary, Italy, and Slovakia\u2014as deliberately eroding rule of law within the bloc, marking a significant governance crisis within European institutions. The findings highlight systemic threats to democratic principles including judicial independence, freedom of expression, and institutional accountability across diverse regions of the EU. These allegations reflect broader concerns about democratic backsliding in Central and Eastern Europe as well as Italy, challenging the EU's foundational values and cohesion. The report comes amid tensions between these countries and other EU institutions over various policy issues, including Hungary's blocking of Ukraine aid and Italy's immigration policies. EU institutions have previously warned about these trends, but the explicit characterization of deliberate erosion represents an escalation in official concern. The report underscores internal EU divisions that complicate unified responses to external threats, including Russia's military actions in Ukraine. These governance challenges weaken the EU's ability to project unity and strength in its dealings with external actors, requiring remedial action from Brussels to reinforce democratic standards across member states.",
+        "headline": "Five EU countries facing rule of law crisis, report reveals deliberate erosion of democratic standards",
+        "summary": "A comprehensive report has identified five European Union member states as deliberately eroding democratic rule of law standards: Bulgaria, Croatia, Hungary, Italy, and Slovakia. These findings raise serious concerns about the integrity of EU governance and democratic accountability across the bloc. The erosion involves systematic attacks on judicial independence, media freedom, and anti-corruption mechanisms within these nations. Hungary has faced particular scrutiny, with reports indicating the foreign minister may have passed strategic information to Russian counterparts\u2014allegations the government has dismissed as 'foreign interference.' The political situation in Hungary reflects broader concerns about some EU members' alignment with Western strategic interests. These rule of law violations contradict fundamental EU values and have triggered debates about enforcement mechanisms and potential consequences for non-compliant member states. The situation puts pressure on EU leadership to develop effective responses that preserve the union's foundational democratic principles while addressing deep internal divisions.",
         "image_url": "https://s.france24.com/media/display/cb42fa56-2d3a-11f1-a31a-005056a90284/w:1024/p:16x9/EN-20260331-213116-214013-CS.jpg",
-        "authors": [
-          "FRANCE24"
-        ],
+        "authors": [],
         "sources": [
           {
             "name": "France24",
@@ -259,31 +243,29 @@
         "significance": "high"
       },
       {
-        "headline": "European shipping faces unprecedented disruption amid Hormuz crisis and Iranian tensions",
-        "summary": "European shipping companies and maritime nations face their worst crisis in recent memory as geopolitical tensions in the Middle East create massive supply chain disruptions. Greece, with over 75 stranded ships, is among the European countries most severely affected by instability in the Hormuz Strait and broader Iranian-Israeli escalation. The disruption threatens critical supply routes that European economies depend on for energy, manufactured goods, and trade, with implications for inflation and economic growth across the continent. France24 has warned of the largest oil supply disruption in European history, with energy experts highlighting the continent's vulnerability to Middle Eastern volatility. The crisis underscores Europe's strategic vulnerability and energy dependence, forcing EU policymakers to reconsider supply chain resilience and energy policy. This disruption occurs alongside other pressures on European economies, including defense spending increases and uncertainty over US trade and security commitments. The shipping crisis demands immediate EU coordination to protect maritime commerce, diversify energy sources, and establish contingency protocols for future disruptions.",
-        "image_url": null,
+        "headline": "EU confronts largest oil supply disruption in history amid Iran war consequences",
+        "summary": "The ongoing Iran-US-Israel conflict has triggered what energy experts characterise as 'the largest oil supply disruption in history,' creating severe economic pressures across the European Union. Oil and gas prices have surged to their steepest monthly rise since Russia's 2022 invasion of Ukraine, according to Eurostat data. The disruption stems from multiple factors: direct impacts on Middle Eastern production and shipping routes, broader geopolitical instability, and unilateral government actions restricting oil supply. European energy security, already fragile following the loss of Russian supplies in 2022, now faces acute vulnerabilities. The price spike threatens to reignite inflation across the EU economy at a moment when member states are already struggling with affordability crises, particularly in housing and essential services. Russia's strategic response has included sending oil tankers to Cuba as an alternative market, highlighting how the conflict reshapes global energy trade patterns. European policymakers are under pressure to develop coordinated responses balancing energy security, climate commitments, and economic stability.",
+        "image_url": "https://s.france24.com/media/display/ef9aa566-2d44-11f1-8484-005056a97e36/w:1024/p:16x9/capture-94646662569cc3668331268-46796288.jpg",
         "authors": [],
         "sources": [
           {
-            "name": "Euronews",
-            "url": "https://euronews.com/business/2026/04/03/which-european-countries-ships-are-most-hit-by-the-hormuz-crisis",
-            "author": ""
+            "name": "France24",
+            "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
+            "author": "Sharon GAFFNEY"
           }
         ],
         "tags": [
           "economy",
-          "trade",
-          "energy"
+          "climate",
+          "EU"
         ],
         "significance": "high"
       },
       {
-        "headline": "German Chancellor pushes for Syrian immigrant repatriation amid integration debates",
-        "summary": "German Chancellor Friedrich Merz has announced that 80 percent of Syrian immigrants should return home, aligning with Syrian President Bashar al-Assad's government on repatriation goals. The statement signals a shift in German immigration policy toward repatriation rather than integration, reflecting growing political pressure over immigration and integration challenges within Germany. Merz's position represents a hardening stance that contrasts with Germany's traditional role as a refuge for displaced persons and suggests broader European debates about immigration are shifting toward repatriation models. The announcement comes amid regional tensions and Assad regime normalization with some countries, though international human rights organizations express concerns about Syrian safety. Germany's immigration policy carries significant weight in EU discussions about migration, integration, and asylum, influencing policy discussions across the bloc. The repatriation goal reflects domestic political pressures and security concerns but raises questions about feasibility, international law compliance, and humanitarian implications. This development illustrates how European countries are grappling with long-term consequences of Syrian displacement and seeking new approaches to managing large displaced populations.",
+        "headline": "Germany accelerates Syrian refugee repatriation, targets 80 percent return within three years",
+        "summary": "German Chancellor Friedrich Merz has announced an ambitious agreement with Syrian leadership to facilitate the repatriation of Syrian refugees, targeting an 80 percent return rate within a three-year timeframe. The initiative responds to significant domestic political pressure around migration policy and integration. Germany hosts one of Europe's largest Syrian refugee populations following the 2011-2015 civil war displacement crisis. The agreement represents a significant shift in European migration policy, moving from indefinite asylum-based models toward structured repatriation frameworks. This development carries implications across the EU, as other nations may adopt similar approaches or face pressure to do so. The feasibility and humanitarian implications of large-scale repatriation remain contested, with questions about security conditions in Syria and whether returning refugees face persecution. The move reflects broader European political movements toward stricter migration controls. International observers will monitor implementation closely to assess whether repatriation proves sustainable and whether returning populations can safely reintegrate into Syria's still-unstable post-civil war environment.",
         "image_url": "https://s.france24.com/media/display/a1565706-2c72-11f1-abb0-005056a97e36/w:1024/p:16x9/2026-03-30T124605Z-358270693-RC20FKA8B7DW-RTRMADP-3-GERMANY-SYRIA.jpg",
-        "authors": [
-          "FRANCE 24"
-        ],
+        "authors": [],
         "sources": [
           {
             "name": "France24",
@@ -299,52 +281,29 @@
         "significance": "medium"
       },
       {
-        "headline": "Paris police arrest suspects in attempted attack on Bank of America headquarters",
-        "summary": "French law enforcement arrested at least two suspects in connection with an attempted explosive device attack on the Bank of America headquarters in Paris, bringing the total number of arrests to five. The incident represents a security threat within a major European capital and raises concerns about extremist activity targeting American institutions in France. The attempted attack reflects ongoing tensions related to US foreign policy and geopolitical conflicts, including the Iran-Iraq war situation affecting European interests. Security at diplomatic and corporate facilities in major European cities remains heightened as intelligence services monitor potential threats. The investigation into the motives and network behind the attempted attack continues, with authorities determining whether the suspects acted independently or as part of a larger network. The incident underscores the security challenges facing European capitals hosting major international institutions and corporate headquarters. This attack demonstrates the intersection of geopolitical tensions, extremism, and security concerns affecting daily life in European cities.",
-        "image_url": "https://s.france24.com/media/display/04024d54-2c66-11f1-b77a-005056a90284/w:1024/p:16x9/EN-20260330-201909-202048-CS.jpg",
-        "authors": [
-          "FRANCE24"
-        ],
+        "headline": "Valuable paintings stolen from Italian museum in sophisticated art heist",
+        "summary": "Three French masterworks\u2014paintings by Pierre-Auguste Renoir, Paul C\u00e9zanne, and Henri Matisse\u2014were stolen from a museum in northern Italy in a sophisticated heist. The three paintings are estimated to be worth approximately $10 million collectively. The theft represents a significant loss to European cultural heritage and raises questions about museum security protocols across the continent. Art theft of this magnitude typically involves professional criminal networks with international connections and access to secure distribution channels. Italian law enforcement has launched an investigation into the circumstances of the theft and the identities of those responsible. The incident highlights ongoing vulnerabilities in European art security, despite improvements in cataloguing and protection measures in recent decades. Recovery of high-profile stolen artworks often takes years or remains unresolved, with pieces sometimes entering illegal private collections. This theft underscores the persistent challenges museums face in balancing public access with adequate security measures.",
+        "image_url": "https://s.france24.com/media/display/e37f9c38-2c44-11f1-8c46-005056bfb2b6/w:1024/p:16x9/mini-paintings.jpg",
+        "authors": [],
         "sources": [
           {
             "name": "France24",
-            "url": "https://www.france24.com/en/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris",
+            "url": "https://www.france24.com/en/video/20260330-paintings-by-renoir-c%C3%A9zanne-and-matisse-stolen-from-italian-museum",
             "author": "FRANCE24"
           }
         ],
         "tags": [
-          "security",
           "governance",
-          "EU"
+          "EU",
+          "trade"
         ],
         "significance": "medium"
       },
       {
-        "headline": "Greek government faces subsidy fraud scandal with three ministers resigning",
-        "summary": "Three Greek government ministers have resigned following revelations of fraudulent subsidies concentrated on the island of Crete, marking a significant political crisis for the administration. The scandal involves misallocation of government funds intended for legitimate purposes, with investigations focused on Crete's regional network and beneficiaries. The resignations reflect the serious nature of the fraud and government accountability to Greek citizens over financial integrity. The incident raises questions about financial controls within Greek public administration and the effectiveness of oversight mechanisms within the EU framework. Greece's vulnerability to internal corruption challenges the broader EU governance agenda and adds to internal tensions within the bloc. The scandal occurs amid Greece's recovery from previous financial crises and broader European economic uncertainties, complicating the government's ability to focus on other priorities. This development illustrates ongoing challenges with governance and financial accountability across different EU member states.",
-        "image_url": null,
-        "authors": [],
-        "sources": [
-          {
-            "name": "Euronews",
-            "url": "https://euronews.com/2026/04/03/three-members-of-greek-government-quit-over-subsidy-scandal",
-            "author": ""
-          }
-        ],
-        "tags": [
-          "governance",
-          "economy",
-          "EU"
-        ],
-        "significance": "medium"
-      },
-      {
-        "headline": "France sentences Russian shadow fleet tanker captain for oil sanctions violations",
-        "summary": "A French court has sentenced the captain of a suspected Russian shadow fleet tanker to one year in jail, convicted in absentia for violating international oil sanctions targeting Russia. The conviction reflects France's enforcement of EU and international sanctions against Russia's circumvention of oil embargoes through the use of aging, unregulated tanker ships. Shadow fleet operations represent a significant sanctions-busting mechanism that Russia uses to export oil despite international restrictions, undermining the effectiveness of economic pressure on Moscow. The sentencing demonstrates European commitment to enforcing sanctions integrity and combating illegal circumvention networks. French maritime authorities continue to monitor and interdict suspected shadow fleet vessels operating in European waters, with multiple investigations ongoing. The case highlights the broader challenge European governments face in enforcing sanctions as Russia adapts its operations to evade restrictions. This conviction sends a message that individuals and entities facilitating Russian sanctions violations face prosecution in European jurisdictions, though challenges remain in apprehending fugitive defendants.",
+        "headline": "France intercepts suspected Russian 'shadow fleet' tanker, sentences captain in absentia",
+        "summary": "A French court has handed down a one-year jail sentence to the captain of a suspected Russian oil tanker implicated in sanctions-evasion activity. The captain was sentenced in absentia, reflecting the vessel's status as part of Russia's 'shadow fleet'\u2014unregistered or re-registered vessels used to circumvent Western sanctions on Russian oil exports. The case demonstrates France's active enforcement of EU energy sanctions against Russia despite the geopolitical complexities surrounding enforcement. Shadow fleet operations represent a sophisticated evasion strategy, with vessels operating outside traditional maritime registries and insurance frameworks. The sentencing sends a signal about Western determination to maintain sanctions pressure on Russia, though enforcement remains challenging given the decentralised nature of shipping operations. France's action reflects broader European efforts to disrupt Russian revenue streams financing the Ukraine conflict. However, the persistence of shadow fleet operations indicates that sanctions face significant implementation challenges as Russia continually adapts evasion tactics.",
         "image_url": "https://s.france24.com/media/display/975759e4-2c45-11f1-8d80-005056bf30b7/w:1024/p:16x9/AP25275543568748.jpg",
-        "authors": [
-          "FRANCE 24"
-        ],
+        "authors": [],
         "sources": [
           {
             "name": "France24",
@@ -353,9 +312,9 @@
           }
         ],
         "tags": [
-          "regulation",
           "defence",
-          "trade"
+          "trade",
+          "regulation"
         ],
         "significance": "medium"
       }
@@ -363,7 +322,7 @@
   },
   "world": {
     "layer": "world",
-    "fetched_at": "2026-04-03T10:15:00Z",
+    "fetched_at": "2026-04-03T10:45:00Z",
     "source_status": {
       "reuters": "ok",
       "apnews": "ok",
@@ -373,144 +332,144 @@
     },
     "stories": [
       {
-        "headline": "Russia Intensifies Aerial Campaign Against Ukraine",
-        "summary": "Russia is conducting sustained rolling aerial attacks on Ukraine, with Kyiv reporting intensive operations on multiple fronts. The campaign represents an escalation in the ongoing conflict that began with Russia's 2022 invasion. Air strikes have targeted critical infrastructure and populated areas, forcing Ukrainian civilians to seek shelter. Military analysts indicate Russia is attempting to wear down Ukrainian air defenses through constant pressure. Ukraine's air force continues to intercept incoming missiles and drones, though some reach their targets. The sustained nature of these attacks indicates Russia's commitment to maintaining offensive pressure despite heavy losses. International observers have called for increased military support to Ukraine. The bombardment has caused disruptions to civilian life and economic activity. Energy infrastructure remains a primary target, affecting power supplies to millions of Ukrainians. The conflict shows no signs of immediate de-escalation, with both sides entrenched in their positions.",
-        "image_url": null,
-        "authors": [],
+        "headline": "Iran escalates regional conflict, hitting Gulf refineries as Trump threatens strikes on Iranian infrastructure",
+        "summary": "Iran launched a major assault on Middle Eastern energy infrastructure, with Iranian officials reporting the destruction of a major bridge between Tehran and Karaj and missiles hitting refineries in Saudi Arabia, the UAE, and Kuwait. The escalation came in response to Trump's explicit threats to attack Iranian bridges and power plants, marking a significant intensification in the US-Iran conflict that began weeks earlier. Trump administration officials have warned of severe consequences, with Secretary of State Hegseth removing the Army's top uniformed officer amid ongoing military operations. The attacks threaten global energy markets and create ripple effects for international oil prices and geopolitical stability. Multiple sources reported the incident within hours, indicating its significance across global news networks. The situation represents the most dangerous moment in regional tensions in recent years, with potential for further escalation. Both sides appear to be engaged in a dangerous escalatory cycle that could drag the broader region into wider conflict. International allies including Gulf Cooperation Council members are reportedly bracing for further Iranian actions. Energy analysts have warned the conflict could trigger sustained spikes in global oil prices if it continues.",
+        "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5100x3400+0+0/resize/5100x3400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fd9%2F51b2bbd649908fc611a4cb71d8d5%2Fgettyimages-2268909874.jpg",
+        "authors": [
+          "NPR Staff"
+        ],
         "sources": [
           {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants",
+            "author": "NPR Staff"
+          },
+          {
             "name": "Reuters (via Google News)",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEROeEZKLTlzMTdRWlV3NVRZQVVycHFCaW1rRE1aSGlsaGdwLWstUWh5cDBqNlBxQ19ON1lZb0I3VzZhRHE5UjdncFlBSlJMSkNWU1J4cW93VnIwMDdaWjlHRlZUSFRqRzNrUjFBWWhvc3AtRy05Szd5TnNnUC1YajIyak9KZXJpTlVJTTZ4ZzNKQjFRbGRuSGk3bjVFZ0QzUFB5d1pva2hqZGhoVG5FRDktRjQxUEpWbUJWNA?oc=5",
-            "author": ""
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUS1DNHpZcG9LNUdON3hHamVsbmU0bVZEMnpFQUc2QjN2SnZ6YVRuZ1RScWJDMUxyNVB5WUp3aUtYbTVNVHM1d0xSUFBCd2JmZjBTVUpZWW1YMmtld1lYYTMwOEliQkpIWTJxdnN5YXViWjFrazY5ZjNhTmtrOU9peGtpNzRmWkI4RDI0WHMtT19kOFgtUTdIeERNN1RMRmIwQ2NxWkkydm5nQmNWZDRoRmR3",
+            "author": null
           }
         ],
         "tags": [
           "conflict",
           "diplomacy",
-          "geopolitics"
+          "economy"
         ],
         "significance": "high"
       },
       {
-        "headline": "Myanmar's Military Coup Leader Min Aung Hlaing Becomes President",
-        "summary": "General Min Aung Hlaing, the military leader who orchestrated Myanmar's 2021 coup and triggered a brutal civil war, has been elected president by the newly-elected pro-military parliament. The pro-military parliament voted him into the position, consolidating his grip on power despite facing significant international criticism. Min Aung Hlaing's tenure has been marked by widespread human rights abuses, including mass killings of civilians and forced displacement of ethnic minorities. The military junta has faced armed resistance from civilian militias and ethnic armed organizations. The international community, including Western nations and ASEAN countries, has expressed concern about the ongoing violence and humanitarian crisis. Analysts view his presidency as a formalization of military control that was already established through the coup. The move faces opposition from pro-democracy activists and exiled political figures who continue to challenge military rule. Myanmar's economy has suffered significantly under military governance, with international sanctions contributing to economic decline. The appointment signals the junta's intention to maintain authoritarian rule for the foreseeable future. Humanitarian organizations warn of worsening conditions for vulnerable populations.",
+        "headline": "Myanmar junta leader Min Aung Hlaing becomes president, consolidating military control amid civil war",
+        "summary": "Myanmar's coup leader General Min Aung Hlaing was officially elected president by the newly-constituted pro-military parliament on April 3, 2026, consolidating military control over the country. The election came despite ongoing brutal civil conflict triggered by the 2021 coup that has killed thousands and displaced hundreds of thousands of civilians. Min Aung Hlaing's presidency represents a formal institutionalization of military rule rather than a transition toward democracy, contrary to international calls for restoration of civilian governance. The move has been criticized by democracy advocates and international observers who view it as entrenching authoritarian military control. Multiple armed ethnic groups continue to wage open warfare against government forces across the country. The international community, including ASEAN neighbors and Western democracies, have expressed concern about the escalating humanitarian crisis and lack of democratic progress. Regional analysts see the presidency as strengthening military hardliners within the junta structure. Myanmar's economy continues to suffer from the conflict and international isolation, with humanitarian agencies warning of worsening food insecurity.",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
         "authors": [],
         "sources": [
           {
-            "name": "Reuters (via Google News)",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw?oc=5",
-            "author": ""
-          },
-          {
             "name": "BBC World",
             "url": "https://www.bbc.com/news/articles/c1782nk0018o",
-            "author": ""
+            "author": null
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw",
+            "author": null
           }
         ],
         "tags": [
           "conflict",
           "diplomacy",
-          "geopolitics"
+          "humanitarian"
         ],
         "significance": "high"
       },
       {
-        "headline": "NASA's Artemis II Spacecraft Leaves Earth Orbit Headed for the Moon",
-        "summary": "NASA's Artemis II mission has successfully left Earth's orbit and is now on a trajectory toward the Moon, marking a significant milestone in the effort to return humans to lunar exploration for the first time since 1972. The spacecraft carrying four astronauts has passed the critical trans-lunar injection point, propelling it beyond Earth's gravitational sphere of influence. This represents a major achievement in the Artemis program, which aims to establish sustainable human presence on the Moon and serve as a stepping stone to Mars. The mission will take the astronauts around the far side of the Moon before returning to Earth, testing critical systems and procedures needed for future crewed lunar landings. The success of this mission is essential for NASA's long-term exploration goals and demonstrates American leadership in space. International space agencies have expressed support for the Artemis program's objectives. The mission includes testing new technologies and life support systems that will be crucial for the more ambitious Artemis III mission, which will land astronauts on the lunar surface. The flight has captured global attention and reinvigorated public interest in space exploration. Scientists and engineers have worked for years to bring this moment to fruition.",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
+        "headline": "NASA's Artemis II lunar mission successfully leaves Earth orbit, heading for the Moon",
+        "summary": "NASA's Artemis II spacecraft successfully executed its Trans-Lunar Injection burn on April 3, 2026, leaving Earth's orbit for the first time since the Apollo era and setting course for the far side of the Moon. The achievement represents a major milestone for NASA's program to return humans to lunar exploration after more than 50 years, with four astronauts now on a trajectory around the Moon and back to Earth. The Orion capsule, which will carry the crew, has proven its propulsion systems and navigation capabilities during the critical engine firing. Mission controllers confirmed the spacecraft is on track for its planned lunar orbit insertion and subsequent return. The mission builds upon decades of international space cooperation and represents the next step toward establishing sustainable human presence on the Moon. Scientific goals include testing life support systems and validating procedures needed for future Artemis missions. The success comes amid broader international competition in space exploration, with multiple nations pursuing lunar programs. The mission duration spans approximately three weeks, with safe return of the spacecraft expected by late April.",
+        "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3156+0+0/resize/5000x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2Fc3%2Fb980ca4d4588948d20206b3cb013%2Fap26092545530202.jpg",
         "authors": [
           "Nell Greenfieldboyce"
         ],
         "sources": [
           {
-            "name": "BBC World",
-            "url": "https://www.bbc.com/news/articles/c937g7nd5x4o",
-            "author": ""
-          },
-          {
             "name": "NPR News",
             "url": "https://www.npr.org/2026/04/03/nx-s1-5771567/nasa-artemis-ii-tli-moon",
             "author": "Nell Greenfieldboyce"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c937g7nd5x4o",
+            "author": null
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission",
+            "author": null
           }
         ],
         "tags": [
           "technology",
-          "space",
-          "diplomacy"
+          "science"
         ],
         "significance": "high"
       },
       {
-        "headline": "Middle East Tensions Escalate as Kuwait Infrastructure Targeted",
-        "summary": "Kuwait's critical infrastructure, including a major desalination plant and oil refinery, has been struck by missiles and drone attacks. The attacks also extended to the United Arab Emirates, where Oracle and Amazon Web Services data centers were targeted. These strikes represent a significant escalation in Middle East tensions and suggest the potential involvement of Iran-backed militias. The desalination plant is crucial to Kuwait's water supply, and damage to it threatens the civilian population's access to fresh water. The oil refinery attack highlights the vulnerability of Gulf region energy infrastructure and could impact global oil markets. The U.S. has indicated concern about the attacks and is considering military response options. The escalation has prompted discussions at the United Nations about regional security and freedom of navigation through the Strait of Hormuz. Bahrain has proposed modifications to a UN proposal on Strait of Hormuz freedom of navigation in response to regional tensions. The U.S. military has begun evacuating troops from threatened Middle East bases to reduce exposure to potential attacks. Regional analysts view the attacks as part of a broader proxy conflict in the Gulf. The situation raises fears of further escalation and potential disruption to global shipping and energy markets.",
+        "headline": "Microsoft pledges $10 billion investment in Japan for AI and cyber defense amid regional tech competition",
+        "summary": "Microsoft announced a $10 billion investment in Japan focused on advancing artificial intelligence capabilities and cyber defense infrastructure, marking one of the largest foreign direct investments by a major tech company in the region. The investment reflects strategic positioning in Asia amid intensifying competition from Chinese tech firms and growing regional security concerns. Microsoft plans to establish AI research centers and develop localized solutions for Japanese businesses and government agencies. The move comes as Japan seeks to strengthen technological independence and reduce reliance on foreign technology while maintaining strong partnerships with democratic allies. Regional analyst note the investment as part of a broader tech rivalry between the US, China, and allied nations for dominance in AI development. The deal includes commitments to workforce development and cybersecurity infrastructure resilience. Japanese government officials have welcomed the commitment as supporting the country's digital transformation goals. The investment is expected to create thousands of jobs and strengthen Japan's position in global AI markets over the coming years.",
         "image_url": null,
         "authors": [],
         "sources": [
           {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes",
-            "author": ""
-          },
-          {
-            "name": "AP News (via Google News)",
-            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-            "author": ""
-          },
-          {
-            "name": "NPR News",
-            "url": "https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops",
-            "author": "Steve Walsh"
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN",
+            "author": null
           }
         ],
         "tags": [
-          "conflict",
+          "technology",
           "economy",
-          "geopolitics"
+          "trade"
         ],
-        "significance": "high"
+        "significance": "medium"
       },
       {
-        "headline": "Cuba Announces Pardon of Over 2,000 Prisoners Amid U.S. Pressure",
-        "summary": "Cuba has announced it will pardon more than 2,000 prisoners as part of broader diplomatic pressure from the United States. The prisoner release reflects ongoing tensions between Cuba and the U.S., with the American government making prisoner releases a core demand in negotiations. Cuba continues to operate under an extensive U.S. economic embargo that has significantly impacted the island nation's economy for decades. The pardon announcement comes at a time of increased U.S. diplomatic engagement focused on improving relations and addressing humanitarian concerns. Political analysts view the move as a potential step toward gradual normalization of relations between the two countries. The released prisoners will need to reintegrate into Cuban society, which faces significant economic challenges. International observers have noted that some of those pardoned may have political connections to dissidents challenging government authority. The move may signal Cuba's willingness to engage in dialogue with the new U.S. administration. Humanitarian organizations have called for more comprehensive reforms in Cuba's justice system. The geopolitical significance of the pardon extends beyond the bilateral relationship, affecting regional dynamics in the Caribbean.",
+        "headline": "World food prices threatened by escalating Iran-US conflict, FAO warns of supply chain disruptions",
+        "summary": "The UN Food and Agriculture Organization warned on April 3 that food price inflation could accelerate if the intensifying Iran-US conflict continues, pointing to critical dependencies on Middle Eastern energy and regional trade routes. Global food prices have already begun climbing due to energy costs linked to geopolitical tensions and reduced agricultural exports from conflict zones. The FAO emphasized that petroleum products and fertilizer availability, both heavily dependent on Middle Eastern production and shipping through contested waters, are key vulnerabilities. Developing nations and lower-income populations face disproportionate impacts from food price spikes, with potential for increased malnutrition and humanitarian crises. The conflict threatens vital grain and oil shipping routes that connect Middle Eastern and North African producers to global markets. Multiple analysts expect sustained pressure on commodity markets if military tensions escalate further. Agricultural futures markets are already pricing in conflict risk premiums. The FAO report underscores the interconnected nature of modern global supply chains and geopolitical stability.",
+        "image_url": null,
+        "authors": [],
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLS1DNHpZcG9LNUdON3hHamVsbmU0bVZEMnpFQUc2QjN2SnZ6YVRuZ1RScWJDMUxyNVB5WUp3aUtYbTVNVHM1d0xSUFBCd2JmZjBTVUpZWW1YMmtld1lYYTMwOEliQkpIWTJxdnN5YXViWjFrazY5ZjNhTmtrOU9peGtpNzRmWkI4RDI0WHMtT19kOFgtUTdIeERNN1RMRmIwQ2NxWkkydm5nQmNWZDRoRmR3",
+            "author": null
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy",
+          "climate"
+        ],
+        "significance": "medium"
+      },
+      {
+        "headline": "Cuba releases over 2,000 prisoners in historic pardon amid US diplomatic pressure",
+        "summary": "Cuba announced a major prisoner release and pardon of more than 2,000 inmates on April 3, 2026, marking a significant development in US-Cuba relations following sustained American diplomatic pressure. The releases are expected to include political prisoners, addressing a long-standing US demand for improvement in Cuba's human rights record. The pardon represents one of the largest releases by the Cuban government in recent years and signals potential shifts in bilateral engagement between Washington and Havana. Cuban government officials framed the action as humanitarian and independent of external pressure, though it comes amid increasing diplomatic contacts between the two nations. The move affects prison overcrowding issues that have plagued the Cuban penal system and may ease some humanitarian concerns raised by international human rights organizations. Regional observers view the releases as a confidence-building measure that could facilitate broader normalization of US-Cuba relations. The timing coincides with broader geopolitical shifts in the Western Hemisphere and potential economic discussions. International human rights groups have called for verification of prisoner status and continued monitoring of conditions for released individuals.",
         "image_url": null,
         "authors": [],
         "sources": [
           {
             "name": "Al Jazeera",
             "url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure",
-            "author": ""
+            "author": null
           }
         ],
         "tags": [
           "diplomacy",
-          "humanitarian",
-          "geopolitics"
-        ],
-        "significance": "medium"
-      },
-      {
-        "headline": "Ten Years Since Panama Papers Leak: Financial Transparency Debate Continues",
-        "summary": "April 3, 2026 marks ten years since the release of the Panama Papers, one of the largest data leaks in history that exposed more than 11.5 million documents revealing offshore financial schemes. The leaked documents detailed how wealthy individuals, corporations, and government officials used offshore entities to hide assets and evade taxes. The original 2016 disclosure sparked global investigations and led to some prosecutions, though critics argue enforcement has been inconsistent. Financial transparency advocates have used the Panama Papers to push for stronger international regulations on corporate ownership and tax enforcement. The revelations exposed corruption networks spanning multiple continents and implicated prominent political figures worldwide. A decade later, many jurisdictions have strengthened beneficial ownership disclosure requirements and cross-border cooperation on financial crimes. However, loopholes remain, and offshore financial structures continue to proliferate in modified forms. The leak demonstrated the power of investigative journalism and international cooperation in exposing financial crimes. The anniversary has reignited discussions about the need for continued reforms in global financial regulation. Developing nations argue that wealthy countries have benefited disproportionately from offshore tax havens.",
-        "image_url": null,
-        "authors": [],
-        "sources": [
-          {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change",
-            "author": ""
-          }
-        ],
-        "tags": [
-          "economy",
-          "trade",
           "humanitarian"
         ],
         "significance": "medium"
       },
       {
-        "headline": "Major Tech Verdicts Signal New Era of Big Tech Accountability",
-        "summary": "Recent court verdicts against major technology companies Meta and Google are generating momentum for broader regulatory changes in the technology sector. Advocates view these legal outcomes as potentially transformative for Silicon Valley's approach to accountability and user protection. The verdicts address harms related to social media platforms' handling of user data and their impact on society. Legal experts suggest the decisions could establish important precedents for future litigation against technology giants. The cases have highlighted concerns about monopolistic practices, data privacy violations, and inadequate content moderation. Technology companies are now facing increased scrutiny from regulators, lawmakers, and courts worldwide. The verdicts may accelerate legislative efforts to impose stricter regulations on social media platforms and data handling practices. Industry observers note that technology companies are beginning to face the same regulatory pressures traditionally applied to other large industries. Consumer advocacy groups hope these developments will lead to stronger protections for users, especially children and vulnerable populations. The long-term impact could reshape how technology companies operate and how they balance business interests with public welfare. International regulators are watching these developments closely as they craft their own technology governance frameworks.",
+        "headline": "Tech accountability advances as courts deliver major verdicts against Meta and Google over platform harms",
+        "summary": "Recent court rulings against major technology platforms Meta and Google represent a watershed moment for digital accountability, with legal experts predicting the verdicts could accelerate broader Silicon Valley regulatory reforms. The court decisions found the companies liable for harms caused by their platforms, setting precedents that challenge the traditional liability protections long enjoyed by social media companies. Advocates and policymakers view the rulings as validation of arguments that platforms must bear responsibility for content moderation and user protection. The verdicts could inspire similar legal action in other jurisdictions and influence pending regulation globally, particularly in the European Union and other democracies. Technology industry observers note increased legal and regulatory pressure is mounting across multiple fronts, from child safety to election interference to antitrust concerns. The rulings signal to policymakers that court systems can effectively constrain tech company behavior when legislative action lags. Enforcement of these verdicts could require significant operational changes within both Meta and Google, including enhanced safety systems and content oversight. The broader tech industry is watching the developments closely as indicators of future regulatory direction.",
         "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7828x4784+0+0/resize/7828x4784!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F32%2Fb101fabc4b16b4f6815f7c16f7c3%2Fgettyimages-2267821738.jpg",
         "authors": [
           "Shannon Bond"
@@ -524,27 +483,7 @@
         ],
         "tags": [
           "technology",
-          "economy",
           "regulation"
-        ],
-        "significance": "medium"
-      },
-      {
-        "headline": "Russia's Services Sector Contracts for First Time in Six Months",
-        "summary": "Russia's services sector has contracted for the first time in six months, according to recent PMI data, signaling economic headwinds facing the country. The contraction indicates slowing economic activity despite months of relative stability in manufacturing and other sectors. Economic analysts attribute the services decline to multiple factors including international sanctions, reduced consumer spending, and economic uncertainty. The Russian government has faced challenges in sustaining economic growth amid geopolitical tensions and Western restrictions. Inflation concerns remain elevated despite central bank efforts to manage monetary policy. The weakness in services\u2014which includes sectors like retail, hospitality, and financial services\u2014suggests broader economic stress extending beyond previous assessments. International analysts view the economic contraction as a sign of the cumulative impact of sanctions and the costs of military operations. Consumer confidence may be weakening as households reassess spending in an uncertain economic environment. The services sector decline could compound difficulties if it spreads to other areas of the economy. Russia's economic outlook remains challenged by ongoing geopolitical tensions and the need to maintain high defense spending. Recovery prospects depend on resolution of international conflicts and potential sanctions relief.",
-        "image_url": null,
-        "authors": [],
-        "sources": [
-          {
-            "name": "Reuters (via Google News)",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYktVeFU5SEpYbDd4S0RlWHB1cTBZbGVFdTloajVvWXNYSmxpLTlLNm9HeDFQdndDN0wtUHdHZzJLMkZMWE80SDlxOTlfa0NxUTVXczRiLXlDbGV1R0RXNGsxWTJaaV9XSEJjcC12M2p2dWRjMmxZM2pCUlJBZ01nY05FLUJSNWZYb0hUcGJrcXc4T3hyVDU5NVoyaW1KSkFPWkVMbVdCdlBubC1mMnYw?oc=5",
-            "author": ""
-          }
-        ],
-        "tags": [
-          "economy",
-          "geopolitics",
-          "trade"
         ],
         "significance": "medium"
       }
