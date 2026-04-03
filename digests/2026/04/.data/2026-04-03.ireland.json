@@ -1,0 +1,118 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-03T06:30:00Z",
+  "source_status": {
+    "rte": "rss_failed_used_websearch",
+    "thejournal": "rss_timeout_used_websearch",
+    "irishtimes": "ok",
+    "irishexaminer": "rss_failed_used_websearch",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "MetroLink director steps down amid multibillion-euro Dublin rail project delays",
+      "summary": "Sean Sweeney, the chief of the MetroLink project, has resigned from his position leading the long-delayed Dublin rail link. Sweeney earned €550,000 annually during his tenure of less than two years. His departure occurs as updated cost estimates are being prepared for government submission, with concerns that the shock resignation could affect market confidence in the major construction project. The MetroLink is one of Ireland's most significant infrastructure initiatives, aimed at connecting Dublin airport to the city centre and beyond. The project has faced multiple delays and cost escalations over recent years. Sweeney's exit raises questions about the project's management and timeline going forward. The government will need to appoint a replacement to lead the initiative through its critical next phase. Industry analysts have expressed concern that leadership instability could further spook an already volatile construction market. The departure is also notable given the substantial salary and the relatively brief period Sweeney spent in the role. Construction market observers will be watching closely for how quickly the project stabilizes under new leadership.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
+      "authors": ["Olivia Kelly"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/",
+          "author": "Olivia Kelly"
+        }
+      ],
+      "tags": ["transport", "politics", "economy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Government to proceed with Valerie's Law stripping convicted killers of parental rights",
+      "summary": "The Irish government has confirmed its intention to proceed with legislation stripping convicted killers of parental rights, despite concerns raised by Tusla, the child and family agency. The Department of Justice has stated it is satisfied the legislation is constitutional in all respects, clearing a major hurdle for the controversial bill. The law, named Valerie's Law in reference to a significant case, aims to protect children from being raised by parents convicted of murder. Tusla had raised concerns about the implementation and practical implications of the legislation. The government's decision to proceed signals confidence in the legal framework protecting constitutional rights while advancing child protection objectives. The law represents a significant shift in Irish family law and child protection policy. It reflects ongoing public concern about the welfare of children in custody disputes involving convicted murderers. The legislation is expected to face further scrutiny during parliamentary debate. Child protection advocates have generally supported the measure as a necessary safeguard for vulnerable children.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
+      "authors": ["Ellen Coyne"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
+          "author": "Ellen Coyne"
+        }
+      ],
+      "tags": ["politics", "crime", "social"],
+      "significance": "high"
+    },
+    {
+      "headline": "Air Corps completes first flight to Beirut with €70 million Airbus C295 aircraft",
+      "summary": "The Irish Air Corps has successfully completed its inaugural flight to Beirut using the newly acquired €70 million Airbus C295 aircraft. Pilot Captain Lauren Cusack discussed the mission, emphasizing careful attention to route planning and comprehensive security assessments conducted before the departure. The relatively brief 30-minute turnaround on the tarmac highlighted the operational efficiency of the mission despite the complex geopolitical situation in Lebanon. The C295 represents a significant upgrade to the Air Corps' transport and reconnaissance capabilities, marking an important milestone in Ireland's defence and humanitarian operations capacity. The successful flight demonstrates the aircraft's readiness for complex international missions. Air Corps personnel and government officials view the deployment as validation of Ireland's commitment to international stability and humanitarian assistance. The mission involved coordination with various government departments and international partners given the security context of the region. The deployment also reflects Ireland's broader engagement in Middle Eastern peace and stability efforts. The aircraft's advanced capabilities will enable the Air Corps to undertake more sophisticated operations across varied geographical and security environments.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/X4JELKIADNGR5DYMUBJHJPUSOA.JPG",
+      "authors": ["Conor Lally"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/a-ryanair-turnover-first-air-corps-flight-into-beirut-spent-only-30-minutes-on-tarmac/",
+          "author": "Conor Lally"
+        }
+      ],
+      "tags": ["defence", "politics"],
+      "significance": "high"
+    },
+    {
+      "headline": "Met Éireann forecasts stormy Easter weekend with coastal gales and weather warnings",
+      "summary": "Met Éireann has issued forecasts predicting severe weather conditions over the Easter weekend, with strong winds bringing coastal gales and the issuance of weather warnings expected across Ireland. The forecast indicates windy conditions will dominate Saturday before the weather clears somewhat on Easter Sunday, though conditions will remain breezy throughout the period. Status Yellow wind warnings have been issued by the meteorological service for the entire country as Storm Dave approaches. The severe weather poses risks to coastal areas and elevated regions where gusts are expected to be particularly strong. Communities along the Irish coast are being advised to take appropriate precautions for the anticipated high winds. The weather system will affect travel and outdoor activities during the Easter weekend period. Schools and public institutions may need to implement contingency plans given the expected severe conditions. Residents have been warned to secure loose outdoor items and avoid exposed coastal areas during peak wind periods. Farmers and those engaged in outdoor work have been advised to postpone non-essential activities during the warning periods. The forecast represents typical spring weather variability for Ireland but underscores the need for public preparedness during holiday weekends.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/MAV2YQXZZFAXPK2A2AXM43TNKY.jpg",
+      "authors": ["Glen Murphy", "Ronan McGreevy"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/met-eireann-set-to-issue-weather-warnings-ahead-of-stormy-easter-weekend/",
+          "author": "Glen Murphy, Ronan McGreevy"
+        }
+      ],
+      "tags": ["weather", "social"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Gardaí to enforce Grace's Law on scrambler bike age restrictions with adequate resources",
+      "summary": "The Justice Minister has assured that gardaí have sufficient resources to enforce Grace's Law, which implements age restrictions on scrambler bikes, and should not fear prosecution for enforcing the new regulations. Grace Lynch's mother has urged the Justice Minister to ensure proper implementation of the law, which she views as more effective than an outright ban on the vehicles. The legislation represents a significant shift in tackling antisocial behaviour associated with scrambler bikes, which have been a persistent nuisance in many Irish communities. Gardaí had expressed concerns about potential legal challenges to enforcement, but the ministerial assurance provides clarity on government backing. The age restriction approach targets younger riders while allowing adults to continue using the bikes legally if they meet licensing requirements. Community groups and parents have supported the measure as a necessary intervention to reduce dangerous driving behaviour in residential areas. The law also includes provisions for vehicle seizure and penalties for non-compliance. Enforcement will require coordination between gardaí, transport authorities, and community policing initiatives. The measure has been praised as a pragmatic approach that balances civil liberties with public safety concerns. Implementation will be monitored closely to assess effectiveness in reducing scrambler-related incidents.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/RNAQ7EP6R6LFFY45IQDCKJGWEU.jpg",
+      "authors": ["Andrew Hamilton", "Vivienne Clarke"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/age-restriction-on-scramblers-more-effective-than-ban-says-grace-lynchs-mother/",
+          "author": "Andrew Hamilton, Vivienne Clarke"
+        }
+      ],
+      "tags": ["crime", "politics", "social"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Man arrested in connection with murder of Robbie Lawlor in Belfast",
+      "summary": "A man in his 40s has been arrested in the Republic of Ireland based on an extradition warrant in connection with the murder of Robbie Lawlor in Belfast. The arrest represents a significant development in a case that crossed the border between Irish and Northern Irish jurisdictions. Gardaí executed the warrant, bringing the suspect into custody for proceedings related to the Belfast murder investigation. The extradition process will proceed according to legal frameworks governing cross-border criminal justice between the Irish and UK authorities. Robbie Lawlor's case had attracted significant attention in both the North and South of Ireland given its implications for cross-border law enforcement cooperation. The arrest demonstrates the effectiveness of international police and judicial cooperation mechanisms between the two jurisdictions. Extradition proceedings are expected to take place in the coming weeks, with legal arguments likely from both the prosecution and defence. The case highlights the complexity of addressing serious crimes in border regions where suspects may flee across jurisdictional lines. Success in this case may strengthen cooperation frameworks for future cross-border extraditions. The outcome will be closely watched by law enforcement and judicial authorities in both jurisdictions.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/IRZYL3TFDLXK2VB22BXRPJK6GM.jpg",
+      "authors": ["Glen Murphy"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/02/man-arrested-in-connection-with-murder-of-robbie-lawlor-in-belfast/",
+          "author": "Glen Murphy"
+        }
+      ],
+      "tags": ["crime", "defence"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Gardaí seize cannabis worth €7 million in Co Kildare operation",
+      "summary": "An Irish police operation in Co Kildare has resulted in the seizure of cannabis valued at €7 million, continuing an intensive crackdown on drug trafficking networks. The seizure represents part of ongoing investigations conducted under Operation Tara, a multi-agency initiative targeting organized crime groups involved in drug distribution. The scale of the seizure underscores the significant volume of illegal drugs being trafficked through Irish territory. Operation Tara has become a flagship initiative in combating serious and organized crime, with coordinated efforts across multiple gardaí divisions and supporting agencies. The operation has yielded numerous major drug seizures over recent months, demonstrating sustained pressure on criminal networks. Organized crime groups continue to attempt trafficking despite increased enforcement efforts and intelligence gathering. The €7 million valuation reflects both the quantity and street value of the seized drugs. Such operations require detailed intelligence work, surveillance, and coordination with international partners given the cross-border nature of drug trafficking. The seizure disrupts supply chains and reduces the availability of illegal substances in Irish communities. Gardaí have indicated their commitment to sustained enforcement against drug trafficking as part of broader public safety priorities.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/XCIFJORLM5HQ7PCHMTDEJ27DZQ.jpg",
+      "authors": ["Hugh Dooley"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/gardai-seize-cannabis-worth-7-million-in-co-kildare/",
+          "author": "Hugh Dooley"
+        }
+      ],
+      "tags": ["crime", "economy"],
+      "significance": "medium"
+    }
+  ]
+}

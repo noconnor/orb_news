@@ -1,0 +1,433 @@
+{
+  "generated_at": "2026-04-03T09:15:00Z",
+  "update_type": "morning",
+  "source_summary": {
+    "total_feeds": 15,
+    "successful": 12,
+    "failed": ["rte", "thejournal", "irishexaminer", "breakingnews", "guardian", "dw", "reuters", "apnews"]
+  },
+  "top_stories": [
+    {
+      "headline": "Iran-US-Israel war enters critical phase on day 34 as strikes escalate and oil prices surge",
+      "summary": "The armed conflict between US-Israeli forces and Iran has entered a deeply alarming phase on its 34th day, with both sides significantly escalating military operations and civilian casualties mounting across the region. President Trump announced that US forces have destroyed major Iranian military infrastructure, including a century-old medical research centre in Tehran and a major bridge near the capital, and warned that infrastructure assaults have 'not even started.' In response, Iran launched new waves of missiles targeting Israel, Kuwait, and Bahrain, with preliminary figures showing at least 1,937 dead in Iran, 24 in Israel, 13 US soldiers, and 27 killed in Gulf states. Iran's Foreign Minister Abbas Araghchi stated that while his government is receiving US messages, trust remains 'at zero' for any negotiations, suggesting a diplomatic off-ramp remains distant. The conflict's economic ripple effects are already being felt globally, with West Texas Intermediate crude futures rising 7.9% to $107.98 a barrel and Brent crude up 7.3% to $108.59, reflecting severe anxiety in energy markets. The World Bank has expressed extreme concern about the conflict's impact on global inflation, jobs, and food security, underscoring the war's potential to trigger a broader economic crisis. Pakistan is already experiencing acute consequences, with its liquefied natural gas supply chains collapsing as shipping routes through the region are disrupted, threatening the country's electricity generation and industrial output. China, by contrast, is using its network of independent 'teapot' refineries to continue importing Iranian oil, cushioning its economy from the worst disruptions and illustrating the divergent impacts of the conflict across different nations. European governments are monitoring the situation with deep concern given the implications for energy supplies, global trade, and the stability of the broader Middle East. The conflict is now the defining global news event of the day, touching every major dimension of international affairs from military operations and diplomacy to energy markets and humanitarian conditions.",
+      "image_url": null,
+      "authors": ["Apps Support", "The Associated Press"],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/sections/world/",
+          "author": "The Associated Press"
+        }
+      ],
+      "layers": ["world"],
+      "tags": ["conflict", "diplomacy", "geopolitics", "economy", "energy"]
+    },
+    {
+      "headline": "Russia's Ukraine advance stalls for first time in two years as European rearmament debate intensifies",
+      "summary": "Russia's military campaign in Ukraine has halted in March 2026 with no territorial gains reported since 2024, marking the longest pause in offensive operations since the full-scale invasion began, according to the Institute for the Study of War. Ukrainian forces have even managed to regain small areas of territory, signaling a potential shift in battlefield momentum after months of continued Russian advances. NATO and EU allies view this development as a critical juncture that could influence both ongoing peace negotiations and the long-term security architecture of Europe. The stalled advance reflects the impact of sustained Ukrainian defensive efforts, challenges to Russian supply lines, and the continued flow of Western military assistance to Kyiv. Against this backdrop, a deepening debate has emerged within Europe about strategic autonomy and the risks of dependence on US weapons systems, with rearmament experts warning that 'any weapon we buy as Europeans from the United States is a liability both in terms of technology dependence but also in terms of missing growth.' NATO members are simultaneously raising defence budgets while developing independent European military procurement strategies and investing in indigenous industrial capacity. European diplomatic sources have also expressed growing anxiety about NATO's operational effectiveness amid uncertainty about US commitment to European security, with some assessments describing the alliance as temporarily 'paralyzed' in its ability to coordinate responses to emerging threats. Defence analysts warn that Russia could potentially reconstitute forces for a regional conflict in the Baltic Sea area within two years of any Ukrainian ceasefire, creating urgency for NATO contingency planning. French military assessments suggest Russia might test NATO's cohesion between 2028 and 2029, driving calls from Poland and frontline states for strengthened independent European defence capabilities. These converging pressures — a potentially shifting Ukraine battlefield, European rearmament debates, and NATO cohesion concerns — together constitute Europe's defining security story as it navigates a period of profound strategic uncertainty.",
+      "image_url": "https://s.france24.com/media/display/d2c52e1a-2ed0-11f1-93ac-005056bf30b7/w:1024/p:16x9/AP26027415283060.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+          "author": null
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
+          "author": null
+        },
+        {
+          "name": "Pravda NATO",
+          "url": "https://nato.news-pravda.com/world/2026/04/01/97983.html",
+          "author": null
+        }
+      ],
+      "layers": ["europe"],
+      "tags": ["defence", "EU", "conflict", "governance", "trade"]
+    },
+    {
+      "headline": "MetroLink director steps down amid multibillion-euro Dublin rail project delays",
+      "summary": "Sean Sweeney, the director leading Dublin's long-delayed MetroLink rail project, has resigned from his role after less than two years in the position, earning €550,000 annually during his tenure. His departure comes at a particularly sensitive moment, as updated cost estimates are being prepared for government submission and the project faces renewed scrutiny over delays and escalating costs. Industry observers have expressed concern that the shock resignation could undermine market confidence in the major infrastructure initiative, which represents one of the most significant construction projects in the history of the Irish state. MetroLink is designed to connect Dublin airport to the city centre and beyond, and has been in various stages of planning and development for decades, making its repeated setbacks a source of ongoing public frustration. The government will now need to appoint a new director to steer the project through its critical next phase at a time when cost estimation and stakeholder confidence are particularly fragile. Leadership instability in large infrastructure projects can have cascading effects on contractor relationships, financing conditions, and public trust in delivery timelines. The circumstances of Sweeney's departure have not been fully disclosed, leaving open questions about the internal management of the project and the nature of any disagreements with government or the project board. The MetroLink saga reflects broader challenges Ireland faces in delivering large public infrastructure projects within budget and on schedule. The construction market will be watching closely to see how the project stabilises and whether a credible replacement can be found quickly. For commuters and communities along the proposed route, the resignation is a further setback in a long wait for transformative public transport infrastructure in the greater Dublin area.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
+      "authors": ["Olivia Kelly"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/",
+          "author": "Olivia Kelly"
+        }
+      ],
+      "layers": ["ireland"],
+      "tags": ["transport", "politics", "economy"]
+    }
+  ],
+  "ireland": [
+    {
+      "headline": "MetroLink director steps down amid multibillion-euro Dublin rail project delays",
+      "summary": "Sean Sweeney, the director of the MetroLink project, has resigned after less than two years leading the long-delayed Dublin rail link, earning €550,000 annually. His departure comes as updated cost estimates are being prepared for government submission, raising concerns about market confidence in the project.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
+      "authors": ["Olivia Kelly"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/",
+          "author": "Olivia Kelly"
+        }
+      ],
+      "tags": ["transport", "politics", "economy"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Government to proceed with Valerie's Law stripping convicted killers of parental rights",
+      "summary": "The Irish government has confirmed its intention to proceed with legislation stripping convicted killers of parental rights, despite concerns raised by Tusla, the child and family agency. The Department of Justice has stated it is satisfied the legislation is constitutional in all respects, clearing a major hurdle for the controversial bill. The law, named Valerie's Law in reference to a significant case, aims to protect children from being raised by parents convicted of murder. Tusla had raised concerns about the implementation and practical implications of the legislation. The government's decision to proceed signals confidence in the legal framework protecting constitutional rights while advancing child protection objectives. The law represents a significant shift in Irish family law and child protection policy. It reflects ongoing public concern about the welfare of children in custody disputes involving convicted murderers. The legislation is expected to face further scrutiny during parliamentary debate. Child protection advocates have generally supported the measure as a necessary safeguard for vulnerable children.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
+      "authors": ["Ellen Coyne"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
+          "author": "Ellen Coyne"
+        }
+      ],
+      "tags": ["politics", "crime", "social"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Air Corps completes first flight to Beirut with €70 million Airbus C295 aircraft",
+      "summary": "The Irish Air Corps has successfully completed its inaugural flight to Beirut using the newly acquired €70 million Airbus C295 aircraft. Pilot Captain Lauren Cusack discussed the mission, emphasizing careful attention to route planning and comprehensive security assessments conducted before the departure. The relatively brief 30-minute turnaround on the tarmac highlighted the operational efficiency of the mission despite the complex geopolitical situation in Lebanon. The C295 represents a significant upgrade to the Air Corps' transport and reconnaissance capabilities, marking an important milestone in Ireland's defence and humanitarian operations capacity. The successful flight demonstrates the aircraft's readiness for complex international missions. Air Corps personnel and government officials view the deployment as validation of Ireland's commitment to international stability and humanitarian assistance. The mission involved coordination with various government departments and international partners given the security context of the region. The deployment also reflects Ireland's broader engagement in Middle Eastern peace and stability efforts. The aircraft's advanced capabilities will enable the Air Corps to undertake more sophisticated operations across varied geographical and security environments.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/X4JELKIADNGR5DYMUBJHJPUSOA.JPG",
+      "authors": ["Conor Lally"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/a-ryanair-turnover-first-air-corps-flight-into-beirut-spent-only-30-minutes-on-tarmac/",
+          "author": "Conor Lally"
+        }
+      ],
+      "tags": ["defence", "politics"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Met Éireann forecasts stormy Easter weekend with coastal gales and weather warnings",
+      "summary": "Met Éireann has issued forecasts predicting severe weather conditions over the Easter weekend, with strong winds bringing coastal gales and weather warnings expected across Ireland. The forecast indicates windy conditions will dominate Saturday before the weather clears somewhat on Easter Sunday, though conditions will remain breezy throughout the period. Status Yellow wind warnings have been issued by the meteorological service for the entire country as Storm Dave approaches. The severe weather poses risks to coastal areas and elevated regions where gusts are expected to be particularly strong. Communities along the Irish coast are being advised to take appropriate precautions for the anticipated high winds. The weather system will affect travel and outdoor activities during the Easter weekend period. Residents have been warned to secure loose outdoor items and avoid exposed coastal areas during peak wind periods. Farmers and those engaged in outdoor work have been advised to postpone non-essential activities during the warning periods. The forecast represents typical spring weather variability for Ireland but underscores the need for public preparedness during holiday weekends.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/MAV2YQXZZFAXPK2A2AXM43TNKY.jpg",
+      "authors": ["Glen Murphy", "Ronan McGreevy"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/met-eireann-set-to-issue-weather-warnings-ahead-of-stormy-easter-weekend/",
+          "author": "Glen Murphy, Ronan McGreevy"
+        }
+      ],
+      "tags": ["weather", "social"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Gardaí to enforce Grace's Law on scrambler bike age restrictions with adequate resources",
+      "summary": "The Justice Minister has assured that gardaí have sufficient resources to enforce Grace's Law, which implements age restrictions on scrambler bikes, and should not fear prosecution for enforcing the new regulations. Grace Lynch's mother has urged the Justice Minister to ensure proper implementation of the law, which she views as more effective than an outright ban on the vehicles. The legislation represents a significant shift in tackling antisocial behaviour associated with scrambler bikes, which have been a persistent nuisance in many Irish communities. Gardaí had expressed concerns about potential legal challenges to enforcement, but the ministerial assurance provides clarity on government backing. The age restriction approach targets younger riders while allowing adults to continue using the bikes legally if they meet licensing requirements. Community groups and parents have supported the measure as a necessary intervention to reduce dangerous driving behaviour in residential areas. The law also includes provisions for vehicle seizure and penalties for non-compliance. Enforcement will require coordination between gardaí, transport authorities, and community policing initiatives. The measure has been praised as a pragmatic approach that balances civil liberties with public safety concerns. Implementation will be monitored closely to assess effectiveness in reducing scrambler-related incidents.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/RNAQ7EP6R6LFFY45IQDCKJGWEU.jpg",
+      "authors": ["Andrew Hamilton", "Vivienne Clarke"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/age-restriction-on-scramblers-more-effective-than-ban-says-grace-lynchs-mother/",
+          "author": "Andrew Hamilton, Vivienne Clarke"
+        }
+      ],
+      "tags": ["crime", "politics", "social"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Man arrested in connection with murder of Robbie Lawlor in Belfast",
+      "summary": "A man in his 40s has been arrested in the Republic of Ireland based on an extradition warrant in connection with the murder of Robbie Lawlor in Belfast. The arrest represents a significant development in a case that crossed the border between Irish and Northern Irish jurisdictions. Gardaí executed the warrant, bringing the suspect into custody for proceedings related to the Belfast murder investigation. The extradition process will proceed according to legal frameworks governing cross-border criminal justice between the Irish and UK authorities. Robbie Lawlor's case had attracted significant attention in both the North and South of Ireland given its implications for cross-border law enforcement cooperation. The arrest demonstrates the effectiveness of international police and judicial cooperation mechanisms between the two jurisdictions. Extradition proceedings are expected to take place in the coming weeks, with legal arguments likely from both the prosecution and defence. The case highlights the complexity of addressing serious crimes in border regions where suspects may flee across jurisdictional lines. Success in this case may strengthen cooperation frameworks for future cross-border extraditions. The outcome will be closely watched by law enforcement and judicial authorities in both jurisdictions.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/IRZYL3TFDLXK2VB22BXRPJK6GM.jpg",
+      "authors": ["Glen Murphy"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/02/man-arrested-in-connection-with-murder-of-robbie-lawlor-in-belfast/",
+          "author": "Glen Murphy"
+        }
+      ],
+      "tags": ["crime", "defence"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Gardaí seize cannabis worth €7 million in Co Kildare operation",
+      "summary": "An Irish police operation in Co Kildare has resulted in the seizure of cannabis valued at €7 million, continuing an intensive crackdown on drug trafficking networks. The seizure represents part of ongoing investigations conducted under Operation Tara, a multi-agency initiative targeting organized crime groups involved in drug distribution. The scale of the seizure underscores the significant volume of illegal drugs being trafficked through Irish territory. Operation Tara has become a flagship initiative in combating serious and organized crime, with coordinated efforts across multiple gardaí divisions and supporting agencies. The operation has yielded numerous major drug seizures over recent months, demonstrating sustained pressure on criminal networks. Organized crime groups continue to attempt trafficking despite increased enforcement efforts and intelligence gathering. The €7 million valuation reflects both the quantity and street value of the seized drugs. Such operations require detailed intelligence work, surveillance, and coordination with international partners given the cross-border nature of drug trafficking. The seizure disrupts supply chains and reduces the availability of illegal substances in Irish communities. Gardaí have indicated their commitment to sustained enforcement against drug trafficking as part of broader public safety priorities.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/XCIFJORLM5HQ7PCHMTDEJ27DZQ.jpg",
+      "authors": ["Hugh Dooley"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/gardai-seize-cannabis-worth-7-million-in-co-kildare/",
+          "author": "Hugh Dooley"
+        }
+      ],
+      "tags": ["crime", "economy"],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ],
+  "europe": [
+    {
+      "headline": "Russia's military campaign in Ukraine stalls for first time in over two years",
+      "summary": "Moscow's military advance in Ukraine has halted in March 2026 with no territorial gains reported since 2024, marking the longest pause in offensive operations since the full-scale invasion began. Ukrainian forces have managed to regain small areas of territory, signaling a potential shift in momentum.",
+      "image_url": "https://s.france24.com/media/display/d2c52e1a-2ed0-11f1-93ac-005056bf30b7/w:1024/p:16x9/AP26027415283060.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "EU", "conflict"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "European weapons policy under scrutiny as rearmament expert warns US military sales pose technology liability",
+      "summary": "NATO members are reducing their reliance on American weapons systems while simultaneously raising defence budgets across the continent in response to evolving security threats. A rearmament expert highlighted concerns that European acquisition of US military technology creates strategic vulnerabilities, noting that 'any weapon we buy as Europeans from the United States is a liability both in terms of technology dependence but also in terms of missing growth.' This statement reflects growing European debates about strategic autonomy and reducing dependence on Washington for defence capabilities. EU countries are increasingly developing independent military procurement strategies and investing in European defence industrial capacity. The discussion underscores tensions between NATO alliance commitments and the EU's broader push for strategic independence in security matters. France, Germany, and other major European powers are accelerating investments in indigenous weapons development and European defence partnerships. The shift represents a fundamental recalibration of European defence policy away from Cold War-era frameworks. These developments have implications for transatlantic relations and the future structure of European security architecture.",
+      "image_url": "https://s.france24.com/media/display/bc7771da-2ed6-11f1-9507-005056bfb2b6/w:1024/p:16x9/EN-20260402-223115-224401-CS.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "EU", "trade"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "European Union adopts ambitious reforms to customs code, child protection, and banking regulations",
+      "summary": "The European Parliament and Council have reached a landmark agreement on a comprehensive reform of the EU Customs Code addressing critical issues in e-commerce, goods safety, and operational efficiency across the single market. This major legislative achievement aims to streamline border procedures and enhance regulatory oversight of goods moving within the EU and from third countries. Simultaneously, Parliament voted to discontinue an interim derogation from e-Privacy rules that had permitted service providers to voluntarily detect child sexual abuse online in private communications, strengthening data protection standards. In parallel, MEPs adopted new rules expanding EU frameworks for the orderly resolution of failed banks to minimize economic disruption and better protect depositors. These three regulatory moves represent significant EU governance initiatives addressing commerce, data protection, and financial stability. The reforms reflect the EU's ongoing efforts to balance economic efficiency with protection of fundamental rights and financial stability. Implementation will require coordination across member states and significant compliance efforts from businesses. These changes signal the EU's commitment to modernizing regulatory frameworks in response to evolving market conditions and security threats.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "European Union",
+          "url": "https://european-union.europa.eu/news-and-events_en",
+          "author": null
+        }
+      ],
+      "tags": ["regulation", "governance", "EU"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "NATO cohesion faces challenges as European leaders voice concerns about alliance paralysis and US strategic uncertainty",
+      "summary": "European diplomatic sources report growing anxiety about NATO's strategic posture and operational effectiveness amid broader uncertainty about US commitment to European security. Some assessments suggest that NATO faces periods of reduced functional capability, with diplomats characterizing the alliance as 'paralyzed' and unable to effectively hold meetings and coordinate responses to emerging threats. Defense analysts indicate that Russia could potentially reconstitute military forces for a 'regional war' scenario in the Baltic Sea area within two years of a Ukrainian ceasefire, creating urgency for NATO contingency planning. European military leaders, including French Air Force officers, have assessed that Russia might test NATO's strength and cohesion between 2028 and 2029, requiring enhanced forward defense postures and interoperability. Poland and other frontline NATO states have intensified calls for strengthened European defense capabilities independent of Washington, reflecting concerns about long-term US strategic commitment. Economic growth in Western Europe and normalization in major cities contrasts sharply with underlying security anxieties about future Russian intentions and NATO unity. Intelligence assessments suggest various scenarios for potential escalation, including hypothetical conflicts in the Baltic region or Eastern Europe. These developments underscore the EU's parallel efforts to develop independent strategic autonomy in defense matters.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Pravda NATO",
+          "url": "https://nato.news-pravda.com/world/2026/04/01/97983.html",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "EU", "governance"],
+      "significance": "medium",
+      "also_in_top": true
+    },
+    {
+      "headline": "European Union launches affordable housing initiative with dedicated commissioner as rental crisis escalates",
+      "summary": "The European Union has adopted a comprehensive affordable housing plan and appointed a dedicated housing commissioner to address the escalating crisis of soaring house prices and rents across member states. This initiative represents a significant EU-level response to one of Europe's most pressing social and economic challenges affecting millions of citizens. The housing crisis has created severe hardship for young people, families, and vulnerable populations across virtually all EU member states, with affordability metrics reaching critical levels in major urban centers. The appointment of a housing commissioner signals the EU's commitment to treating housing as a strategic priority requiring coordinated action and policy innovation. Member states will be expected to implement complementary policies aligned with EU objectives and funding mechanisms. The plan likely includes provisions for affordable housing development, rental market regulation, and financial support mechanisms for vulnerable populations. Urban planning reforms and sustainable housing development are expected to feature prominently in implementation strategies. The initiative reflects growing political pressure from civil society and member state governments to address housing insecurity as a fundamental social and economic issue.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "European Union",
+          "url": "https://european-union.europa.eu/news-and-events_en",
+          "author": null
+        }
+      ],
+      "tags": ["EU", "economy", "regulation"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "EU implements stricter corporate sustainability reporting requirements amid climate transition push",
+      "summary": "The European Union has formally enacted the Omnibus Directive 2026/470, which entered into force on March 18, 2026, significantly expanding corporate sustainability reporting and due diligence requirements across the continent. The directive now applies to EU companies with more than 1,000 employees and over €450 million net turnover, as well as non-EU companies operating in EU markets with substantial revenue thresholds. This regulatory framework requires corporations to provide detailed information about their environmental, social, and governance practices, supply chain impacts, and climate transition strategies. The updated requirements also extend to non-EU multinational corporations meeting specific turnover thresholds, reflecting the EU's extraterritorial approach to environmental and social governance standards. Companies must now conduct and report on sustainability due diligence across their operations and supply chains, creating significant compliance obligations and transparency demands. The directive supports the EU's broader climate targets, including the ambitious 2040 goal of 90% greenhouse gas emissions reduction compared to 1990 levels. Business groups have expressed concerns about compliance costs, while civil society organizations view the measures as essential for accountability. Implementation is expected to drive significant shifts in corporate strategy, investment, and reporting practices across Europe.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Cleary Gottlieb",
+          "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-04-01",
+          "author": null
+        }
+      ],
+      "tags": ["regulation", "climate", "governance"],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran-US-Israel conflict escalates with unprecedented military strikes and threats",
+      "summary": "The war between the US-Israel alliance and Iran has entered a critical phase on day 34, with President Trump announcing destruction of major Iranian military infrastructure and threatening further escalation. Iran has launched new missile waves targeting Israel, Kuwait, and Bahrain, with over 2,000 killed across all sides and global oil prices surging past $108 per barrel.",
+      "image_url": null,
+      "authors": ["Apps Support", "The Associated Press"],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/sections/world/",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Myanmar's coup leader Min Aung Hlaing elected president by military-aligned parliament",
+      "summary": "General Min Aung Hlaing, the coup leader who triggered Myanmar's brutal civil war, has been formally elected as the country's next president by the newly-elected military-aligned parliament after receiving enough votes to pass the required majority threshold. This development consolidates military control over Myanmar's political future following the 2021 coup that ousted the democratically elected Aung San Suu Kyi government. Min Aung Hlaing's presidency represents a significant turning point in Myanmar's trajectory, locking in military rule through the electoral process. The appointment demonstrates how the military junta has used controlled elections to legitimize its grip on power while maintaining democratic facades. The broader context includes the ongoing civil war that has intensified since the coup, with armed resistance movements continuing to challenge military authority across the country. This electoral consolidation may further destabilize the region, particularly affecting neighboring countries dealing with refugee flows and cross-border tensions. International observers view this as a troubling setback for Myanmar's path toward genuine democratization and respect for human rights.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
+      "authors": ["Apps Support"],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "governance", "geopolitics"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Pakistan and Afghanistan hold major peace talks in China to end months of fighting",
+      "summary": "Pakistan and Afghanistan have initiated a new round of peace talks in China's northwestern city of Urumqi, representing a significant diplomatic effort to end the worst conflict between the South Asian neighbors since the Taliban's return to power in 2021. Senior officials from both countries are participating in the talks, with China actively brokering discussions aimed at achieving a lasting ceasefire after weeks of intensive fighting that has destabilized the region. The involvement of China as mediator underscores the broader geopolitical significance of the Pakistan-Afghanistan dispute, as stability in the region has implications for Central Asian security and China's Belt and Road Initiative. Pakistan's decision to engage in formal peace talks suggests growing recognition of the conflict's unsustainability and economic costs to both nations. The talks come amid mounting humanitarian concerns about civilian casualties and displacement from the fighting. Afghanistan's Taliban government and Pakistan's military leadership represent historically contentious actors, making these negotiations particularly delicate. The outcome could significantly impact regional stability and potentially reshape the geopolitical balance in South and Central Asia. China's mediation role demonstrates its increasing influence in resolving regional conflicts as part of its broader strategic interests.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fef%2F408c450e48308dd8b3b0b703ab1a%2Fap26091088420099.jpg",
+      "authors": ["The Associated Press"],
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/03/g-s1-116299/pakistan-says-a-new-round-of-peace-talks-with-afghanistan-is-underway-in-china",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["diplomacy", "conflict", "geopolitics"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "NASA's Artemis II astronauts fire engines for translunar injection, heading toward moon",
+      "summary": "NASA's Artemis II mission has successfully conducted a translunar injection burn approximately 25 hours after launch, setting the spacecraft on course for a lunar fly-around early next week. The mission carries three American astronauts and one Canadian astronaut toward the far side of the moon, marking the first time humans have ventured outside Earth's orbit since 1972. This translunar injection represents a critical milestone in the Artemis program's goal of establishing sustained human presence on the moon and eventually supporting missions to Mars. The successful engine burn demonstrates the functionality of the spacecraft's propulsion systems and paves the way for the planned lunar fly-by, which will test critical systems and procedures for eventual moon landings. The mission's international participation, including Canadian astronauts, highlights the collaborative nature of modern space exploration. Artemis II serves as a validation mission for the Space Launch System and Orion spacecraft technologies before subsequent missions attempt actual lunar landings. The mission's success is significant not only for NASA but for global space exploration efforts and humanity's long-term ambitions to establish a permanent presence on the moon. The mission represents a historic return to lunar exploration after more than five decades.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": ["technology", "diplomacy", "space"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Pakistan faces looming natural gas shortage as LNG supplies collapse amid Iran conflict",
+      "summary": "Pakistan is bracing for a severe energy crisis as liquefied natural gas supply chains have collapsed in the wake of the escalating Iran-US-Israel conflict. The country, which had previously enjoyed a surplus of LNG supplies, now faces a critical shortage that threatens to disrupt energy availability and economic stability. The collapse of LNG supplies directly stems from the broader Middle Eastern conflict, as shipping routes and supply chains have been disrupted by military activity and regional instability. Pakistan's energy crisis exemplifies how the Iran conflict extends beyond direct military participants, creating cascading economic impacts across the region and beyond. The shortage threatens Pakistan's electricity generation, heating, and industrial operations, potentially triggering economic contraction and social hardship. This energy crisis adds significant pressure on Pakistan's already strained economy and could complicate the country's simultaneous efforts to engage in peace talks with Afghanistan. The situation underscores the global interconnectedness of energy markets and how regional conflicts rapidly translate into widespread economic consequences for nations far from the epicenter of fighting.",
+      "image_url": null,
+      "authors": ["Apps Support"],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+          "author": "Apps Support"
+        }
+      ],
+      "tags": ["economy", "energy", "conflict"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "China's independent refineries provide economic buffer against Iran oil supply disruptions",
+      "summary": "China's network of small independent refineries, colloquially known as 'teapot' refineries, are playing a crucial role in cushioning the country from potential oil supply disruptions caused by the Iran-US-Israel conflict. These refineries are enabling China to continue importing Iranian oil despite the escalating military tensions and geopolitical pressures surrounding Iran. The 'teapot' refineries operate with flexibility and fewer regulatory constraints than state-owned enterprises, allowing them to source oil from various suppliers and adjust to market disruptions rapidly. China's ability to maintain Iranian oil imports through these independent operators demonstrates Beijing's strategic planning for energy security in volatile geopolitical environments. The arrangement also illustrates China's complex balancing act between maintaining its energy needs and navigating international pressure regarding Iran sanctions. This strategy helps insulate China's economy from the worst effects of Middle Eastern instability, providing a competitive advantage over other nations facing energy supply constraints. The situation highlights how China's unique economic structure and government coordination with private actors creates strategic advantages in global commodity markets.",
+      "image_url": null,
+      "authors": ["Apps Support"],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/how-chinas-teapot-refineries-are-cushioning-it-from-iran-war-oil-crisis?traffic_source=rss",
+          "author": "Apps Support"
+        }
+      ],
+      "tags": ["economy", "trade", "geopolitics"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Cuba releases 2,010 prisoners amid US pressure on island government",
+      "summary": "Cuba's government has announced a pardon and release of 2,010 prisoners, stating the decision was a 'humanitarian gesture' made in connection with Holy Week religious observances. However, observers note the Cuban government notably did not mention mounting pressures from the United States as a factor in the decision, despite the clear timing coinciding with increased US diplomatic and economic pressure on the island nation. The prisoner releases may represent a calculated diplomatic response designed to ease tensions with Washington while maintaining the appearance of autonomous humanitarian decision-making. The scale of the release — over 2,000 prisoners — suggests either significant capacity reduction needs in the prison system or a deliberate political gesture intended to improve Cuba's international image. The move comes as the US has increased pressure on Cuba across multiple policy areas, suggesting potential diplomatic negotiations or confidence-building measures between the two historically adversarial nations. Cuba's framing of the releases as religiously motivated rather than politically motivated suggests careful navigation of both domestic and international audiences. The prisoner releases could signal broader shifts in US-Cuba relations or preparation for potential diplomatic engagement.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7989x5326+0+0/resize/7989x5326!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F20%2Fe5472e3642d8add7551098878c7b%2Fap26091673998047.jpg",
+      "authors": ["The Associated Press"],
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/03/g-s1-116297/cuba-releasing-2-010-prisoners-as-the-us-pressures-the-islands-government",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["diplomacy", "humanitarian", "governance"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "SpaceX files for IPO in blockbuster Wall Street offering expected to be historic",
+      "summary": "Elon Musk's SpaceX has filed preliminary paperwork to conduct an initial public offering, with the offering expected to rank as one of the largest Wall Street transactions on record. Multiple major investment banks are competing to help raise tens of billions of dollars for the space exploration company's public debut. SpaceX's IPO represents a transformational moment for the commercial space industry, as one of the sector's most prominent and innovative companies opens itself to public market capital and scrutiny. The company has grown from a startup to a major player in space launch, satellite communications, and space exploration, with plans for both Earth-orbit operations and Mars missions. The IPO valuation and structure will significantly impact the broader space industry, potentially spurring additional investments and competition. SpaceX's public listing comes amid growing commercial interest in space-related businesses, from satellite communications to space tourism. The offering is likely to attract both traditional investors seeking exposure to the space economy and tech-focused investors betting on long-term ambitions in space. The transaction's success would represent a major milestone in the commercialization of space and the maturation of the commercial space industry as an investment category.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://www.apnews.com/",
+          "author": null
+        }
+      ],
+      "tags": ["technology", "economy", "space"],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ]
+}

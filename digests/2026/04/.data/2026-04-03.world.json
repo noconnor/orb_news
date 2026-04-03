@@ -1,0 +1,148 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-03T07:15:00Z",
+  "source_status": {
+    "reuters": "rss_failed_used_websearch",
+    "apnews": "rss_failed_used_websearch",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran-US-Israel conflict escalates with unprecedented military strikes and threats",
+      "summary": "The war between the US-Israel alliance and Iran has entered a critical phase on day 34 of the conflict, with both sides significantly escalating military operations. President Trump has announced that US forces have destroyed major Iranian military infrastructure and threatened to hit Iranian targets even harder in the coming weeks, specifically stating plans to bomb Iran back to 'the stone ages.' In response, Iran launched new waves of missiles targeting Israel, Kuwait, and Bahrain, with preliminary casualty figures showing 1,937 dead in Iran, at least 24 in Israel, 13 US soldiers, and 27 killed in Gulf states. US and Israeli forces have struck critical infrastructure including a century-old medical research centre in Tehran, a major bridge near the capital, and steel plants. Trump warned that infrastructure assaults 'haven't even started,' escalating tensions further. Iran's Foreign Minister Abbas Araghchi stated that while receiving US messages, trust remains 'at zero' for negotiations. The World Bank expressed extreme concern about the conflict's impact on global inflation, jobs, and food security. Oil markets have responded sharply with West Texas Intermediate futures up 7.9% to $107.98 a barrel and Brent crude up 7.3% to $108.59, reflecting global economic anxiety about the expanding conflict.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/sections/world/",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "significance": "high"
+    },
+    {
+      "headline": "Myanmar's coup leader Min Aung Hlaing elected president by military-aligned parliament",
+      "summary": "General Min Aung Hlaing, the coup leader who triggered Myanmar's brutal civil war, has been formally elected as the country's next president by the newly-elected military-aligned parliament after receiving enough votes to pass the required majority threshold. This development consolidates military control over Myanmar's political future following the 2021 coup that ousted the democratically elected Aung San Suu Kyi government. Min Aung Hlaing's presidency represents a significant turning point in Myanmar's trajectory, locking in military rule through the electoral process. The appointment is particularly significant as it demonstrates how the military junta has used controlled elections to legitimize its grip on power while maintaining democratic facades. The broader context includes the ongoing civil war that has intensified since the coup, with armed resistance movements continuing to challenge military authority across the country. This electoral consolidation may further destabilize the region, particularly affecting neighboring countries dealing with refugee flows and cross-border tensions. International observers view this as a troubling setback for Myanmar's path toward genuine democratization and respect for human rights.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "governance", "geopolitics"],
+      "significance": "high"
+    },
+    {
+      "headline": "Pakistan and Afghanistan hold major peace talks in China to end months of fighting",
+      "summary": "Pakistan and Afghanistan have initiated a new round of peace talks in China's northwestern city of Urumqi, representing a significant diplomatic effort to end the worst conflict between the South Asian neighbors since the Taliban's return to power in 2021. Senior officials from both countries are participating in the talks, with China actively brokering discussions aimed at achieving a lasting ceasefire after weeks of intensive fighting that has destabilized the region. The involvement of China as mediator underscores the broader geopolitical significance of the Pakistan-Afghanistan dispute, as stability in the region has implications for Central Asian security and China's Belt and Road Initiative. Pakistan's decision to engage in formal peace talks suggests growing recognition of the conflict's unsustainability and economic costs to both nations. The talks come amid mounting humanitarian concerns about civilian casualties and displacement from the fighting. Afghanistan's Taliban government and Pakistan's military leadership represent historically contentious actors, making these negotiations particularly delicate. The outcome could significantly impact regional stability and potentially reshape the geopolitical balance in South and Central Asia. China's mediation role demonstrates its increasing influence in resolving regional conflicts as part of its broader strategic interests.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fef%2F408c450e48308dd8b3b0b703ab1a%2Fap26091088420099.jpg",
+      "authors": ["The Associated Press"],
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/03/g-s1-116299/pakistan-says-a-new-round-of-peace-talks-with-afghanistan-is-underway-in-china",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["diplomacy", "conflict", "geopolitics"],
+      "significance": "high"
+    },
+    {
+      "headline": "Pakistan faces looming natural gas shortage as LNG supplies collapse amid Iran conflict",
+      "summary": "Pakistan is bracing for a severe energy crisis as liquefied natural gas (LNG) supply chains have collapsed in the wake of the escalating Iran-US-Israel conflict. The country, which had previously enjoyed a surplus of LNG supplies, now faces a critical shortage that threatens to disrupt energy availability and economic stability. The collapse of LNG supplies directly stems from the broader Middle Eastern conflict, as shipping routes and supply chains have been disrupted by military activity and regional instability. Pakistan's energy crisis exemplifies how the Iran conflict extends beyond direct military participants, creating cascading economic impacts across the region and beyond. The shortage threatens Pakistan's electricity generation, heating, and industrial operations, potentially triggering economic contraction and social hardship. This energy crisis adds significant pressure on Pakistan's already strained economy and could complicate the country's simultaneous efforts to engage in peace talks with Afghanistan. The situation underscores the global interconnectedness of energy markets and how regional conflicts rapidly translate into widespread economic consequences for nations far from the epicenter of fighting.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+          "author": "Apps Support"
+        }
+      ],
+      "tags": ["economy", "energy", "conflict"],
+      "significance": "medium"
+    },
+    {
+      "headline": "China's independent refineries provide economic buffer against Iran oil supply disruptions",
+      "summary": "China's network of small independent refineries, colloquially known as 'teapot' refineries, are playing a crucial role in cushioning the country from potential oil supply disruptions caused by the Iran-US-Israel conflict. These refineries are enabling China to continue importing Iranian oil despite the escalating military tensions and geopolitical pressures surrounding Iran. The 'teapot' refineries operate with flexibility and fewer regulatory constraints than state-owned enterprises, allowing them to source oil from various suppliers and adjust to market disruptions rapidly. China's ability to maintain Iranian oil imports through these independent operators demonstrates Beijing's strategic planning for energy security in volatile geopolitical environments. The arrangement also illustrates China's complex balancing act between maintaining its energy needs and navigating international pressure regarding Iran sanctions. This strategy helps insulate China's economy from the worst effects of Middle Eastern instability, providing a competitive advantage over other nations facing energy supply constraints. The situation highlights how China's unique economic structure and government coordination with private actors creates strategic advantages in global commodity markets. The continued flow of Iranian oil to China through these channels could help stabilize global crude prices and prevent further economic disruption.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/how-chinas-teapot-refineries-are-cushioning-it-from-iran-war-oil-crisis?traffic_source=rss",
+          "author": "Apps Support"
+        }
+      ],
+      "tags": ["economy", "trade", "geopolitics"],
+      "significance": "medium"
+    },
+    {
+      "headline": "NASA's Artemis II astronauts fire engines for translunar injection, heading toward moon",
+      "summary": "NASA's Artemis II mission has successfully conducted a translunar injection burn approximately 25 hours after launch, setting the spacecraft on course for a lunar fly-around early next week. The mission carries three American astronauts and one Canadian astronaut toward the far side of the moon, marking the first time humans have ventured outside Earth's orbit since 1972. This translunar injection represents a critical milestone in the Artemis program's goal of establishing sustained human presence on the moon and eventually supporting missions to Mars. The successful engine burn demonstrates the functionality of the spacecraft's propulsion systems and paves the way for the planned lunar fly-by, which will test critical systems and procedures for eventual moon landings. The mission's international participation, including Canadian astronauts, highlights the collaborative nature of modern space exploration. Artemis II serves as a validation mission for the Space Launch System (SLS) and Orion spacecraft technologies before subsequent missions attempt actual lunar landings. The mission's success is significant not only for NASA but for global space exploration efforts and humanity's long-term ambitions to establish a permanent presence on the moon. The mission represents a historic return to lunar exploration after more than five decades.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": ["technology", "diplomacy", "space"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Cuba releases 2,010 prisoners amid US pressure on island government",
+      "summary": "Cuba's government has announced a pardon and release of 2,010 prisoners, stating the decision was a 'humanitarian gesture' made in connection with Holy Week religious observances. However, observers note the Cuban government notably did not mention mounting pressures from the United States as a factor in the decision, despite the clear timing coinciding with increased US diplomatic and economic pressure on the island nation. The prisoner releases may represent a calculated diplomatic response designed to ease tensions with Washington while maintaining the appearance of autonomous humanitarian decision-making. The scale of the release—over 2,000 prisoners—suggests either significant capacity reduction needs in the prison system or a deliberate political gesture intended to improve Cuba's international image. The move comes as the US has increased pressure on Cuba across multiple policy areas, suggesting potential diplomatic negotiations or confidence-building measures between the two historically adversarial nations. Cuba's framing of the releases as religiously motivated rather than politically motivated suggests careful navigation of both domestic and international audiences. The prisoner releases could signal broader shifts in US-Cuba relations or preparation for potential diplomatic engagement. International observers view the action as noteworthy given the fraught history of US-Cuba relations and the significance of prisoner issues in bilateral negotiations.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7989x5326+0+0/resize/7989x5326!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F20%2Fe5472e3642d8add7551098878c7b%2Fap26091673998047.jpg",
+      "authors": ["The Associated Press"],
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/03/g-s1-116297/cuba-releasing-2-010-prisoners-as-the-us-pressures-the-islands-government",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["diplomacy", "humanitarian", "governance"],
+      "significance": "medium"
+    },
+    {
+      "headline": "SpaceX files for IPO in blockbuster Wall Street offering expected to be historic",
+      "summary": "Elon Musk's SpaceX has filed preliminary paperwork to conduct an initial public offering (IPO), with the offering expected to rank as one of the largest Wall Street transactions on record. Multiple major investment banks are competing to help raise tens of billions of dollars for the space exploration company's public debut. SpaceX's IPO represents a transformational moment for the commercial space industry, as one of the sector's most prominent and innovative companies opens itself to public market capital and scrutiny. The company has grown from a startup to a major player in space launch, satellite communications, and space exploration, with plans for both Earth-orbit operations and Mars missions. The IPO valuation and structure will significantly impact the broader space industry, potentially spurring additional investments and competition. SpaceX's public listing comes amid growing commercial interest in space-related businesses, from satellite communications to space tourism. The offering is likely to attract both traditional investors seeking exposure to the space economy and tech-focused investors betting on Musk's visionary ambitions. The IPO process will require detailed disclosure of SpaceX's financial operations, customer contracts, and long-term business strategy previously kept private. The transaction's success would represent a major milestone in the commercialization of space and the maturation of the commercial space industry as an investment category.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://www.apnews.com/",
+          "author": null
+        }
+      ],
+      "tags": ["technology", "economy", "space"],
+      "significance": "medium"
+    }
+  ]
+}
