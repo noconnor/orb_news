@@ -2,22 +2,41 @@
   "date": "2026-04-03",
   "update_type": "morning",
   "steps": {
-    "setup": {"start": 1775203774, "end": 1775203809, "duration_s": 35},
-    "gather": {"start": 1775203809, "end": 1775203937, "duration_s": 128},
-    "synthesize": {"start": 1775203951, "end": 1775204189, "duration_s": 238},
-    "historical": {"start": 1775204189, "end": 1775204334, "duration_s": 145},
-    "format": {"start": 1775204334, "end": 1775204531, "duration_s": 197},
-    "write_commit": {"start": 1775204531, "end": 1775204540, "duration_s": 9}
+    "setup": {
+      "start": 1775205322,
+      "end": 1775205357,
+      "duration_s": 35
+    },
+    "gather": {
+      "start": 1775205357,
+      "end": 1775205517,
+      "duration_s": 160
+    },
+    "synthesize": {
+      "start": 1775205719,
+      "end": 1775205796,
+      "duration_s": 77
+    },
+    "historical": {
+      "start": 1775205801,
+      "end": 1775206074,
+      "duration_s": 273
+    },
+    "format": {
+      "start": 1775206077,
+      "end": 1775206166,
+      "duration_s": 89
+    },
+    "write_commit": {
+      "start": 1775206175,
+      "end": 0,
+      "duration_s": 0
+    }
   },
-  "total_duration_s": 766,
+  "total_duration_s": 853,
   "token_estimate": {
-    "gather_haiku": {"input": 225000, "output": 12000},
-    "synthesizer_haiku": {"input": 13000, "output": 12000},
-    "historical_sonnet": {"input": 43000, "output": 2100},
-    "formatter_haiku": {"input": 15000, "output": 9300},
-    "orchestrator_opus": {"input": 20000, "output": 5000},
-    "total_input_tokens": 316000,
-    "total_output_tokens": 40400,
-    "estimated_cost_usd": 0.63
+    "input_tokens": 319673,
+    "output_tokens": 43881,
+    "estimated_cost_usd": 1.18
   }
 }
