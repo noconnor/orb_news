@@ -1,0 +1,17 @@
+title: Orb News
+description: A daily layered news digest — World, Europe, Ireland
+url: https://noconnor.github.io
+baseurl: /orb_news
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+defaults:
+  - scope:
+      path: "digests"
+    values:
+      layout: digest
