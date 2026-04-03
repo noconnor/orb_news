@@ -1,6 +1,6 @@
 {
   "layer": "europe",
-  "fetched_at": "2026-04-03T08:15:00Z",
+  "fetched_at": "2026-04-03T12:00:00Z",
   "source_status": {
     "bbc": "ok",
     "guardian": "rss_failed_used_websearch",
@@ -10,138 +10,148 @@
   },
   "stories": [
     {
-      "headline": "NATO credibility crisis as Trump dismisses alliance as 'paper tiger'",
-      "summary": "President Trump has renewed criticism of NATO, describing it as non-functional and expressing reluctance to defend European allies if invaded by Russia. Experts warn this marks a fundamental challenge to the alliance that has underpinned European security for 75 years. The comments reflect Trump's broader isolationist approach to US military commitments abroad. France24 reported that analysts now question whether NATO 'really exists anymore other than on paper.' European leaders, particularly in Central and Eastern Europe, view these statements with alarm given ongoing Russian military pressure on Ukraine. The remarks coincide with rising defense spending across Europe as nations seek to reduce reliance on US weapons and build independent security capabilities. UK Prime Minister Keir Starmer is reportedly repositioning Britain toward stronger European ties amid the deteriorating US relationship. This crisis of confidence threatens to accelerate European military integration but also creates uncertainty about collective defense obligations. NATO members are considering enhanced mutual defense arrangements independent of US guarantees.",
+      "headline": "Iran intensifies military strikes as European shipping faces Strait of Hormuz blockade",
+      "summary": "Iran launched a new wave of missile and drone attacks on Israel on April 3, with explosions reported across central Iran including strikes on the B1 bridge near Tehran killing at least eight civilians. The escalation follows threats from US President Trump to continue military operations. France and South Korea announced coordinated efforts to reopen the Strait of Hormuz, a critical shipping route for global energy supplies. Over 40 countries launched a multinational coalition to secure safe passage through the strategic waterway. The conflict directly threatens European energy security, with the strait serving as a vital chokepoint for oil and gas supplies to the EU. A French ship became the first Western European vessel to transit the strait since the Iran conflict began in late February, signaling mounting pressure on European maritime commerce. Energy experts warn the EU faces its largest oil supply disruption in history if the crisis persists. European governments are accelerating renewable energy projects as an alternative to Middle Eastern oil dependency. The escalating tensions with Iran and US military involvement raise questions about European strategic autonomy and energy independence. The blockade represents a critical test of EU geopolitical influence in a multipolar world.",
+      "image_url": "https://s.france24.com/media/display/d2c52e1a-2ed0-11f1-93ac-005056bf30b7/w:1024/p:16x9/AP26027415283060.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/tehran-fires-at-israel-as-trump-warns-us-has-not-started-destroying-what-is-left-in-iran",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/video/2026/04/03/watch-strike-hits-major-iranian-bridge-near-tehran-killing-at-least-8-civilians",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/03/french-and-south-korean-leaders-say-theyll-work-together-to-reopen-strait-of-hormuz",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/02/over-40-countries-launch-coalition-to-secure-strait-of-hormuz-after-the-war",
+          "author": ""
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+          "author": ""
+        }
+      ],
+      "tags": ["conflict", "energy", "trade", "diplomacy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Russia's military campaign in Ukraine stalls after two years of advances, as momentum shifts",
+      "summary": "Russia halted its territorial advancement in Ukraine for the first time in over two years during March 2026, marking a significant shift in the conflict's trajectory. Ukrainian forces capitalized on the pause to regain positions previously lost, demonstrating improved defensive capabilities and tactical coordination. Military analysts attribute the stall to Ukrainian defensive strengthening, supply line difficulties, and weather conditions limiting Russian operations. The development is particularly significant as Russia has sustained nearly continuous territorial gains since its 2022 invasion. Ukraine's successful counteroffensive efforts have bolstered morale and Western support for continued aid. Kyiv has simultaneously diversified its defense partnerships, signing historic defense agreements with Gulf states to secure advanced air defense systems against Iranian drone attacks. European countries have reiterated commitment to Ukraine's sovereignty and territorial integrity. The shifting military balance suggests the conflict may be entering a new phase where neither side can achieve decisive victory through conventional means. International diplomacy around a potential settlement may gain traction if the stalemate persists. The stalled Russian advance raises questions about the sustainability of Moscow's military objectives.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
           "name": "France24",
-          "url": "https://www.france24.com/en/nato-doesn-t-really-exist-anymore-other-than-on-paper-experts-say",
-          "author": "FRANCE24"
-        }
-      ],
-      "tags": ["defence", "governance", "diplomacy"],
-      "significance": "high"
-    },
-    {
-      "headline": "Russia's military advance in Ukraine halts for first time in over two years",
-      "summary": "Russia's military campaign in Ukraine stalled in March 2026, marking the first cessation of territorial gains in more than two years according to the Institute for the Study of War. The halt in Russian offensives represents a significant shift in the war's trajectory after months of steady Russian advances. Analysts attribute the stall to Ukrainian defensive positions, Western military aid, and the strain on Russian logistics and personnel. The development comes as Ukraine continues to demonstrate unexpected resilience and battlefield effectiveness. EU foreign policy chief Kaja Kallas visited Kyiv on March 31st to commemorate the fourth anniversary of the Bucha massacre and reaffirm EU support for Ukraine. European ministers are examining accountability mechanisms for war crimes committed during the invasion. The stalled offensive may indicate changing dynamics in the conflict, though neither side shows signs of seeking negotiated settlement. This development has significant implications for European security and the duration of the war. The EU is examining how to sustain long-term military and financial support for Ukraine.",
-      "image_url": "https://s.france24.com/media/display/d2c52e1a-2ed0-11f1-93ac-005056bf30b7/w:1024/p:16x9/AP26027415283060.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
           "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
-          "author": "FRANCE 24"
+          "author": ""
         }
       ],
-      "tags": ["conflict", "defence", "EU"],
+      "tags": ["conflict", "defence", "diplomacy"],
       "significance": "high"
     },
     {
-      "headline": "EU faces unprecedented oil crisis as Iran-US conflict disrupts global energy supplies",
-      "summary": "Europe faces the largest oil supply disruption in history due to ongoing conflict between the US and Iran, according to energy experts cited by France24. The Iran war is creating a critical energy security crisis for European nations dependent on oil imports. Multiple nations may unilaterally subsidize energy costs to protect their economies, which would raise prices across Europe and inflate public budgets. France and South Korea announced coordination efforts to reopen the Strait of Hormuz, one of the world's most critical shipping lanes currently threatened by the conflict. Russia is capitalizing on the situation by sending oil tankers to Cuba and other nations seeking alternative energy sources. The crisis underscores Europe's vulnerability to geopolitical disruptions in distant regions and the limits of European energy independence. Higher energy costs threaten European competitiveness and could worsen inflation across the continent. EU leadership is considering coordinated responses to secure alternative energy sources and buffer against price spikes. This energy crisis may become the most economically damaging consequence of the Iran-US conflict for Europe.",
-      "image_url": "https://s.france24.com/media/display/ef9aa566-2d44-11f1-8484-005056a97e36/w:1024/p:16x9/capture-94646662569cc3668331268-46796288.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
-          "author": "Sharon GAFFNEY"
-        },
-        {
-          "name": "Euronews",
-          "url": "http://www.euronews.com/business/2026/04/03/french-and-south-korean-leaders-say-theyll-work-together-to-reopen-strait-of-hormuz",
-          "author": null
-        }
-      ],
-      "tags": ["economy", "energy", "diplomacy"],
-      "significance": "high"
-    },
-    {
-      "headline": "Five EU countries deliberately undermining rule of law, report shows",
-      "summary": "A Civil Liberties Union report has identified Bulgaria, Croatia, Hungary, Italy, and Slovakia as countries deliberately eroding rule of law within the EU, marking a serious governance crisis within the bloc. The findings indicate systematic weakening of judicial independence and democratic institutions in multiple member states. Hungary continues to face particular scrutiny, with Foreign Minister Peter Szijjarto denying allegations that he passed strategic information to Russia, dismissing the reports as 'foreign interference.' These governance failures threaten the EU's foundational principles and create security vulnerabilities, particularly given Hungary's historical alignment with Russian interests. The revelations coincide with mounting evidence of Russian efforts to penetrate EU decision-making through sympathetic member states. EU leadership is considering enforcement mechanisms to ensure compliance with democratic standards. The rule of law crisis threatens the EU's ability to function effectively and maintain internal cohesion. European Parliament members are demanding stronger action against countries undermining democratic institutions. This internal weakness could undermine EU responses to external threats like Russian aggression.",
-      "image_url": "https://s.france24.com/media/display/cb42fa56-2d3a-11f1-a31a-005056a90284/w:1024/p:16x9/EN-20260331-213116-214013-CS.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/five-eu-countries-deliberately-eroding-rule-of-law-report-shows",
-          "author": "FRANCE24"
-        },
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/europe/20260331-hungarian-fm-says-reports-he-passed-information-to-russia-are-foreign-interference",
-          "author": "FRANCE 24"
-        }
-      ],
-      "tags": ["governance", "EU", "defence"],
-      "significance": "high"
-    },
-    {
-      "headline": "EU launches housing crisis action plan amid soaring property costs",
-      "summary": "The European Union is taking direct action on Europe's housing crisis by adopting an affordable housing plan and appointing a dedicated commissioner to address the issue. Property purchase and rental prices have surged significantly since 2013, creating a major challenge for European citizens and economies. The EU initiative aims to increase affordable housing supply, regulate rental markets, and prevent speculation. Housing affordability has become a critical political issue across Europe, fueling populist movements and social discontent. The initiative reflects recognition that the housing crisis threatens social cohesion and economic stability across the continent. Multiple EU nations have already implemented national programs, but the bloc-wide coordination aims for greater impact and policy harmonization. The commissioner role will coordinate member state efforts and direct EU funding toward housing development. Young Europeans and low-income families have been particularly affected by skyrocketing housing costs. The plan represents one of the EU's broadest social policy interventions in recent years, addressing a crisis that affects all member states. Success could demonstrate the EU's capacity to address citizens' everyday concerns alongside geopolitical challenges.",
-      "image_url": "https://s.france24.com/media/display/2105d68e-2c0f-11f1-a321-005056a97e36/w:1024/p:16x9/PHOTO-BARCELONE-2.png",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/europe/20260330-eu-tackles-europe-s-housing-crisis",
-          "author": "Oihana ALMANDOZ"
-        }
-      ],
-      "tags": ["EU", "economy", "regulation"],
-      "significance": "high"
-    },
-    {
-      "headline": "Germany and Syria negotiate mass repatriation of Syrian refugees",
-      "summary": "German Chancellor Friedrich Merz has negotiated an agreement with Syrian President Bashar al-Assad for the repatriation of approximately 80 percent of Syrian immigrants currently in Germany, with the process expected to occur over three years. The agreement represents a major shift in German immigration policy and one of the largest repatriation programs for a displaced population. The initiative addresses the political pressure on Merz from far-right parties and portions of the German electorate demanding reduced immigration. The repatriation plan assumes improving conditions in Syria sufficient for safe return of refugees, an assumption contested by human rights organizations. It raises complex questions about refugee protection standards and international obligations during ongoing regional instability. Other EU nations may face pressure to adopt similar repatriation policies, potentially triggering policy changes across the bloc. The Syria-Germany agreement requires coordination with other Syrian neighbors, including Turkey and Lebanon, which host larger Syrian refugee populations. Implementation faces practical challenges in vetting, transport, and integration in Syria. The policy shift signals changing attitudes toward Syrian displacement within Europe despite ongoing regional instability. Human rights advocates worry the plan prioritizes political expediency over refugee safety and international legal obligations.",
-      "image_url": "https://s.france24.com/media/display/a1565706-2c72-11f1-abb0-005056a97e36/w:1024/p:16x9/2026-03-30T124605Z-358270693-RC20FKA8B7DW-RTRMADP-3-GERMANY-SYRIA.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/europe/20260330-germany-s-merz-says-80-percent-of-syrian-immigrants-should-return-home",
-          "author": "FRANCE 24"
-        }
-      ],
-      "tags": ["migration", "governance", "EU"],
-      "significance": "high"
-    },
-    {
-      "headline": "Massive Europe-wide renewable energy project faces significant delays",
-      "summary": "Europe's largest solar farm project, valued at 916 million euros, is experiencing significant construction delays despite strong political support for renewable energy development. The renewable energy initiative was designed to accelerate Europe's transition away from fossil fuels and reduce energy dependency. However, the project has encountered resistance from local communities, environmental assessments, and permitting challenges typical of major infrastructure projects across Europe. Delays in renewable energy deployment threaten the EU's climate targets and energy independence objectives, particularly urgent given the current energy crisis caused by geopolitical disruptions. Similar projects across Europe face comparable obstacles, suggesting systemic challenges in scaling renewable energy infrastructure. The project's struggles highlight the gap between political climate commitments and practical implementation. Stakeholders are examining ways to streamline permitting processes while maintaining environmental protections. European nations are seeking to balance rapid renewable deployment with community consultation and environmental stewardship. The delays underscore the complexity of achieving Europe's 2030 and 2050 climate goals. Success of this flagship project could establish templates for accelerating renewable deployment across the continent.",
+      "headline": "Europe accelerates renewable energy transition amid Iran war oil supply crisis",
+      "summary": "European countries are rapidly pivoting toward renewable energy sources as the Iran-Israel conflict threatens Middle Eastern oil supplies and disrupts global energy markets. Italy, despite EU climate commitments, announced it could reactivate four coal-powered plants on standby if natural gas and oil shortages escalate due to regional tensions. The paradox highlights the energy security dilemma facing the EU as geopolitical crises collide with climate goals. A massive European solar farm project, valued at 916 million euros, is proceeding despite delays, serving as a flagship renewable infrastructure initiative. Experts emphasize that renewables must play a central role in strengthening European energy independence and reducing reliance on volatile Middle Eastern suppliers. The EU's internal energy policies are diverging, with different member states adopting different risk mitigation strategies. Austria declined US requests to allow American military aircraft to overfly its territory for Iran operations, reaffirming its official neutrality policy. Energy security has become a central EU policy concern alongside climate targets and geopolitical alignment with NATO. The crisis demonstrates the interconnection between defense, energy, and climate policy in shaping European strategic autonomy. Long-term EU energy planning must balance immediate security needs with climate commitments.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
           "name": "Euronews",
           "url": "http://www.euronews.com/2026/04/03/inside-the-struggle-to-build-europes-largest-solar-farm-as-916-million-project-hit-with-de",
-          "author": null
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/italy-clings-to-coal-powered-plants-as-eu-countries-shield-from-iran-war-with-renewables",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/02/austria-refuses-us-requests-to-overfly-its-territory-citing-its-neutrality-policy",
+          "author": ""
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
+          "author": ""
         }
       ],
-      "tags": ["climate", "economy", "EU"],
-      "significance": "medium"
+      "tags": ["energy", "climate", "EU", "regulation"],
+      "significance": "high"
     },
     {
-      "headline": "Paris bank attack and financial sector security heightened across Europe",
-      "summary": "French police have arrested five people in connection with a foiled explosive device attack on the Bank of America headquarters near the Champs-Élysées in Paris, with additional security measures now in place at major financial institutions. The failed attack represents a significant security threat to European financial infrastructure in the heart of Paris's business district. In response, US investment bank Goldman Sachs has been placed under police surveillance in Paris as authorities heighten protective measures. The incident raises concerns about potential coordinated attacks on financial institutions and reflects broader security tensions across major European cities. French counterterrorism units moved quickly to prevent the attack from occurring, averting potential loss of life. The security measures underscore the balance between maintaining open public spaces and protecting critical infrastructure in European capitals. Financial institutions across Europe are reviewing security protocols and coordinating with law enforcement. The attack highlights vulnerability of major commercial centers in Paris and other major European cities. Authorities are investigating connections between the suspects and potential extremist networks. The incident could trigger broader European security reviews of financial sector protection.",
-      "image_url": "https://s.france24.com/media/display/04024d54-2c66-11f1-b77a-005056a90284/w:1024/p:16x9/EN-20260330-201909-202048-CS.jpg",
+      "headline": "Hungary's pivotal April 12 election set to reshape EU governance as US Vice President visits",
+      "summary": "Hungarian Prime Minister Viktor Orbán faces his most significant political challenge in 16 years as the country prepares for parliamentary elections on April 12, 2026. Opposition leader Péter Magyar has emerged as a formidable challenger to Orbán's long-standing dominance. US Vice President JD Vance announced he will visit Budapest just days before the election, signaling American interest in Hungary's political direction. The timing of Vance's visit underscores growing geopolitical tensions within NATO regarding Hungarian government policies and EU integration. Orbán's government has faced sustained criticism from EU institutions for alleged rule of law violations and erosion of democratic standards. Hungary has also blocked EU military aid to Ukraine, creating friction with other member states and raising questions about NATO cohesion. International observers view the election as a referendum on Orbán's 16-year tenure and EU relations. The outcome could reshape Hungary's European alignment and influence EU decision-making on Ukraine support and broader foreign policy. Domestic issues including inflation and economic management are also central to voter concerns. The election represents a critical moment for European democratic consolidation and the balance of power within EU institutions.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/03/podcast-everything-you-need-to-know-about-the-hungarian-elections",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/03/us-vice-president-vance-to-visit-hungary-days-before-key-election",
+          "author": ""
+        }
+      ],
+      "tags": ["elections", "governance", "EU", "politics"],
+      "significance": "high"
+    },
+    {
+      "headline": "European defense experts warn US weapons dependency undermines military sovereignty as rearmament accelerates",
+      "summary": "European defense experts are raising concerns that accelerating EU rearmament plans risk deepening technological and strategic dependence on American defense contractors and military systems. A prominent rearmament expert warned that every weapon Europe purchases from the United States creates a liability that hampers European industrial development and operational autonomy. The comment highlights a fundamental dilemma in European defense policy as NATO members increase military spending in response to Russian aggression and broader geopolitical tensions. Germany, France, and other EU nations are rapidly expanding defense budgets, but procurement decisions often favor established US suppliers due to NATO interoperability requirements. European defense industries argue for stronger support and coordinated procurement policies to build indigenous capacity. The debate reflects broader concerns about EU strategic autonomy and the balance between NATO alliance commitments and European self-reliance. Trump's recent tariff announcements on pharmaceutical imports from EU countries have raised additional tensions regarding US-European economic relations. Some EU officials worry that excessive military dependency on the US could undermine European negotiating position on other policy issues. The tension between NATO obligations and European sovereignty has become increasingly salient in European foreign policy debates. Long-term European defense planning must balance immediate security needs with building indigenous defense capabilities.",
+      "image_url": "https://s.france24.com/media/display/bc7771da-2ed6-11f1-9507-005056bfb2b6/w:1024/p:16x9/EN-20260402-223115-224401-CS.jpg",
       "authors": [],
       "sources": [
         {
           "name": "France24",
-          "url": "https://www.france24.com/en/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris",
-          "author": "FRANCE24"
-        },
-        {
-          "name": "Euronews",
-          "url": "http://www.euronews.com/business/2026/04/03/us-bank-goldman-sachs-placed-under-police-surveillance-in-paris",
-          "author": null
+          "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
+          "author": ""
         }
       ],
-      "tags": ["defence", "economy", "security"],
+      "tags": ["defence", "EU", "trade", "governance"],
+      "significance": "medium"
+    },
+    {
+      "headline": "European rule of law under pressure as five EU member states accused of deliberate democratic erosion",
+      "summary": "A new report from civil liberties organizations identifies five EU member states as deliberately eroding rule of law and democratic standards, marking a troubling trend in European governance. Bulgaria, Croatia, Hungary, Italy, and Slovakia face accusations of systemic undermining of judicial independence, press freedom, and accountability mechanisms. The report emphasizes that these erosions are not incidental shortcomings but coordinated policy choices by national governments. EU institutions have limited enforcement mechanisms to compel compliance with foundational democratic values without triggering broader geopolitical consequences. Hungary's government has been particularly vocal in defending its policies, with Foreign Minister claiming external interference in domestic affairs while simultaneously facing EU scrutiny. The rule of law concerns intersect with Hungary's resistance to Ukraine aid and evolving relationships with Russia, raising geopolitical implications. Other nations including France are experiencing their own democratic challenges, including allegations of foreign interference in municipal elections. The European Commission has initiated formal proceedings against multiple member states for rule of law violations. Democratic backsliding within the EU has prompted discussions about strengthening accountability mechanisms and consequences for non-compliance. The integrity of European democratic institutions remains under significant pressure from both external authoritarian actors and internal erosion by member governments.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/five-eu-countries-deliberately-eroding-rule-of-law-report-shows",
+          "author": ""
+        }
+      ],
+      "tags": ["governance", "EU", "politics"],
+      "significance": "medium"
+    },
+    {
+      "headline": "France sentences captain of Russian shadow fleet tanker amid oil sanctions enforcement campaign",
+      "summary": "A French court sentenced the captain of a Russian-operated tanker to one year imprisonment for operating as part of Russia's shadow fleet, which is used to circumvent international oil sanctions. The vessel was identified as conducting illegal transportation of sanctioned Russian oil in violation of EU and international regulations. Shadow fleet operations have become a key mechanism for Russia to maintain oil exports and generate revenue despite western sanctions imposed following the 2022 invasion of Ukraine. The captain's conviction represents part of a broader EU enforcement campaign against sanctions evasion in maritime commerce. European countries have intensified scrutiny of suspicious tanker movements, particularly those lacking transparency regarding ownership and cargo origins. The Russian government has protested the prosecution, arguing European countries are overstepping jurisdictional boundaries in maritime law enforcement. Russia continues to develop alternative export routes and phantom fleet tactics to avoid detection and enforcement actions. The sentence signals European determination to enforce sanctions despite challenges in monitoring global maritime commerce. Additional arrests and prosecutions of shadow fleet operators are anticipated as enforcement mechanisms improve. The broader shadow fleet problem remains significant, with estimates suggesting hundreds of vessels operating outside normal regulatory frameworks to support Russian commerce.",
+      "image_url": "https://s.france24.com/media/display/975759e4-2c45-11f1-8d80-005056bf30b7/w:1024/p:16x9/AP25275543568748.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260330-france-hands-captain-of-suspected-russian-shadow-fleet-tanker-one-year-jail-sentence",
+          "author": ""
+        }
+      ],
+      "tags": ["trade", "regulation", "defence"],
       "significance": "medium"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T09:36:00Z",
+  "generated_at": "2026-04-03T09:49:16Z",
   "update_type": "morning",
   "source_summary": {
     "total_feeds": 15,
@@ -10,147 +10,223 @@
   },
   "top_stories": [
     {
-      "headline": "Storm Dave brings Status Yellow wind warning across Ireland this weekend",
-      "summary": "A Status Yellow wind warning has been issued for the entire country, coming into effect on Saturday as Storm Dave sweeps across Ireland. Road users and the public have been advised to exercise caution throughout the weekend as the storm brings significant wind conditions. The warning will remain in place as the weather system moves across the country, with meteorological authorities indicating potentially hazardous conditions. This is a developing weather event that is expected to impact transport and outdoor activities across all regions. Emergency services are on alert for potential incidents related to the severe weather. The public is advised to secure loose items and avoid unnecessary travel during peak wind conditions. Local authorities have activated contingency plans for weather-related emergencies. Transport operators are preparing revised schedules to accommodate the expected disruptions. The storm is part of a broader weather pattern moving across Europe at the start of April. Communities are urged to monitor official weather updates throughout the weekend.",
-      "image_url": "https://c0.thejournal.ie/media/2026/04/3dna8gy-0b761173-4da1-480d-994d-d9a5018ca760-630x472.jpg",
+      "headline": "US-Iran war reshapes global economy as oil prices surge and markets roil",
+      "summary": "The escalating US-Iran military conflict is fundamentally reshaping the global economy as oil prices surge and financial markets experience significant volatility. From a geopolitical standpoint, Iran has intensified military strikes that directly threaten European shipping in the Strait of Hormuz, creating critical supply chain risks for European commerce and energy security. Oil markets are reacting sharply to the conflict, with crude prices climbing as investors fear sustained disruptions to global energy supplies from the world's major oil-producing regions. The economic ripple effects extend across multiple continents, affecting everything from transportation costs to manufacturing supply chains, as businesses worldwide adjust to heightened geopolitical uncertainty. Energy companies are reassessing their Middle Eastern operations and investment strategies in light of the escalating military tensions. The conflict represents one of the most significant geopolitical-economic flashpoints in recent years, with implications for global trade flows, inflation trajectories, and central bank policy decisions. Financial markets are pricing in extended uncertainty, with commodity traders particularly concerned about sustained supply disruptions. The intersection of military escalation and economic impact makes this the leading global story with consequences spanning from financial markets to consumer prices across Europe, the Americas, and Asia.",
+      "image_url": null,
       "authors": [],
       "sources": [
         {
-          "name": "RT\u00c9 News",
-          "url": "https://www.rte.ie/news/ireland/2026/0403/1566577-storm-dave-ireland/",
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "Reuters"
+        },
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "AP News"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         },
         {
-          "name": "The Journal.ie",
-          "url": "https://www.thejournal.ie/wind-warning-storm-dave-country-7001760-Apr2026/",
-          "author": null
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "author": "Steve Walsh"
         }
       ],
       "layers": [
-        "ireland"
+        "world",
+        "europe"
       ],
       "tags": [
-        "safety",
-        "transport",
-        "weather"
+        "diplomacy",
+        "geopolitics",
+        "conflict",
+        "energy",
+        "trade",
+        "economy"
       ]
     },
     {
-      "headline": "Government proceeds with Valerie's Law despite concerns over stripping convicted killers of parental rights",
-      "summary": "The Irish government is moving forward with Valerie's Law, legislation designed to strip convicted killers of parental rights, despite objections raised by Tusla, the Child and Family Agency. The Department of Justice has confirmed it is satisfied that the proposed legislation remains constitutionally sound and can proceed as planned. Tusla expressed concerns about the implementation and potential impacts on child welfare procedures, but these concerns have not deterred the government's commitment to the measure. The law represents a significant shift in how Irish courts can handle parental rights in cases involving parents convicted of serious crimes. This legislation follows years of campaigning by advocates who argue that convicted murderers should not retain custody or guardianship rights. The government's decision to proceed suggests parliamentary passage is likely in the coming weeks or months. The measure has broad public support, reflecting societal consensus on protecting children from potentially dangerous parents. Legal experts have reviewed the constitutional implications and provided guidance to the Department of Justice. The implementation of Valerie's Law would modernize Irish family law in this area. Civil rights groups have engaged in the consultation process to ensure safeguards are properly included.",
-      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
-      "authors": [
-        "Ellen Coyne"
-      ],
-      "sources": [
-        {
-          "name": "Irish Times",
-          "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
-          "author": "Ellen Coyne"
-        }
-      ],
-      "layers": [
-        "ireland"
-      ],
-      "tags": [
-        "crime",
-        "politics",
-        "social"
-      ]
-    },
-    {
-      "headline": "Minister plans major boost to Criminal Assets Bureau powers to seize cryptocurrency",
-      "summary": "Justice Minister Jim O'Callaghan has announced plans to significantly expand the Criminal Assets Bureau (CAB) powers, enabling the agency to seize cryptocurrency assets and access new enforcement tools. The legislative measures will grant the CAB authority to freeze payments and issue disclosure orders targeting digital currency holdings. This represents a major enhancement to Ireland's capacity to combat organized crime and money laundering in the digital economy. The new powers recognize the growing use of cryptocurrency by criminal organizations to launder proceeds and evade traditional financial oversight. The CAB has identified cryptocurrency as a critical gap in its enforcement capabilities, with criminals increasingly moving illicit funds through blockchain networks. The proposed legislation includes provisions for civil recovery of digital assets and mechanisms to cooperate with international law enforcement agencies. This move aligns Ireland with international efforts to regulate cryptocurrency and combat financial crime. The government expects the measure to significantly disrupt criminal financing networks operating within Ireland. Industry stakeholders and financial regulators have been consulted during the drafting process. The enhanced CAB powers are expected to be enacted within the coming months.",
-      "image_url": "https://c2.thejournal.ie/media/2026/04/justice-minister-jim-ocallaghan-speaking-to-members-of-the-media-during-a-post-cabinet-briefing-at-government-buildings-dublin-picture-date-wednesday-february-4-2026-f6b4927e-c947-4840-aa02-6794a4c0f100-630x439.jpg",
+      "headline": "Iran intensifies military strikes as European shipping faces Strait of Hormuz blockade",
+      "summary": "Iran's intensification of military strikes has created an immediate crisis for European maritime commerce, with shipping companies facing blockade threats in the critical Strait of Hormuz that controls roughly one-third of global maritime oil trade. European shipping companies are adjusting routes and implementing enhanced security protocols to protect vessels transiting this volatile region, adding significant costs and delays to European supply chains. The geopolitical dimension reflects broader tensions between Iran and Western powers, with European nations caught between their economic interests and diplomatic considerations. The blockade threat to the Strait of Hormuz represents one of the most direct challenges to European energy security and commerce in recent years, forcing policy discussions at the EU level about strategic autonomy and energy alternatives. Insurance premiums for European shipping companies operating in the region have spiked, reflecting the elevated risk calculus. This development directly connects to Europe's renewable energy transition efforts, as policymakers accelerate plans to reduce dependency on Middle Eastern oil in light of these geopolitical risks. The European shipping crisis demonstrates how regional military conflicts rapidly translate into continent-wide economic and strategic implications, affecting port operations from Rotterdam to Mediterranean terminals.",
+      "image_url": "https://s.france24.com/media/display/d2c52e1a-2ed0-11f1-93ac-005056bf30b7/w:1024/p:16x9/AP26027415283060.jpg",
       "authors": [],
       "sources": [
         {
-          "name": "The Journal.ie",
-          "url": "https://www.thejournal.ie/cab-cyrptocurrency-7002022-Apr2026/",
-          "author": null
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/tehran-fires-at-israel-as-trump-warns-us-has-not-started-destroying-what-is-left-in-iran",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/video/2026/04/03/watch-strike-hits-major-iranian-bridge-near-tehran-killing-at-least-8-civilians",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/03/french-and-south-korean-leaders-say-theyll-work-together-to-reopen-strait-of-hormuz",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/02/over-40-countries-launch-coalition-to-secure-strait-of-hormuz-after-the-war",
+          "author": ""
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+          "author": ""
         }
       ],
       "layers": [
-        "ireland"
+        "europe"
       ],
       "tags": [
-        "crime",
-        "economy",
-        "politics"
+        "conflict",
+        "energy",
+        "trade",
+        "diplomacy"
+      ]
+    },
+    {
+      "headline": "Russia's military campaign in Ukraine stalls after two years of advances, as momentum shifts",
+      "summary": "Russia's military campaign in Ukraine has stalled dramatically after two years of territorial advances, marking a significant strategic shift in a conflict that has redefined European security dynamics and reshaped the continent's defense posture. The momentum shift represents a turning point where Ukrainian resistance, combined with Western military support and logistical constraints on the Russian side, has created a more defensive posture for Russian forces after months of territorial gains. European defense experts point to this military stall as evidence that sustained Western weapons supplies and coordinated European-NATO support remain critical to determining conflict outcomes. The stalled campaign has prompted serious discussions within European capitals about long-term military sovereignty and the risks of over-dependence on US weapons supplies, even as defense spending accelerates across the continent. Military analysts attribute the shift to Ukrainian adaptation to Russian tactics, attrition of Russian forces, and improved battlefield intelligence. The halt in Russian advances creates both risks and opportunities: risks of prolonged frozen conflict dynamics, but also windows for potential diplomatic engagement. This development has fundamental implications for European security policy, NATO enlargement discussions, and the continent's military-industrial strategy for the remainder of the 2020s.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+          "author": ""
+        }
+      ],
+      "layers": [
+        "europe"
+      ],
+      "tags": [
+        "conflict",
+        "defence",
+        "diplomacy"
       ]
     }
   ],
   "ireland": [
     {
-      "headline": "Storm Dave brings Status Yellow wind warning across Ireland this weekend",
-      "summary": "A Status Yellow wind warning has been issued for the entire country, coming into effect on Saturday as Storm Dave sweeps across Ireland. Road users and the public have been advised to exercise caution throughout the weekend as the storm brings significant wind conditions. The warning will remain in place as the weather system moves across the country, with meteorological authorities indicating potentially hazardous conditions. This is a developing weather event that is expected to impact transport and outdoor activities across all regions. Emergency services are on alert for potential incidents related to the severe weather. The public is advised to secure loose items and avoid unnecessary travel during peak wind conditions. Local authorities have activated contingency plans for weather-related emergencies. Transport operators are preparing revised schedules to accommodate the expected disruptions. The storm is part of a broader weather pattern moving across Europe at the start of April. Communities are urged to monitor official weather updates throughout the weekend.",
-      "image_url": "https://c0.thejournal.ie/media/2026/04/3dna8gy-0b761173-4da1-480d-994d-d9a5018ca760-630x472.jpg",
+      "headline": "Storm Dave brings Status Yellow wind warning to entire Ireland this weekend",
+      "summary": "Storm Dave will bring severe weather to Ireland starting Friday afternoon, with Met \u00c9ireann issuing a Status Yellow wind warning for the entire country from 2pm Saturday until 11pm. Road users have been advised to take extra care on the roads as strong southerly winds, veering westerly, will bring severe or damaging gusts across all regions. The warning represents a significant weather event affecting transport, agriculture, and outdoor activities nationwide. Travel disruptions are expected across road and rail networks during the weekend Easter period. Weather forecasts indicate the system will bring challenging conditions that may impact public services and emergency response activities. The storm is the first of several expected weather systems to affect Ireland in the coming days. Motorists and travelers are urged to monitor updates and adjust plans accordingly. Weather warnings of this scale typically result in widespread disruption across multiple counties.",
+      "image_url": "https://www.rte.ie/images/00242874-800.jpg",
       "authors": [],
       "sources": [
         {
           "name": "RT\u00c9 News",
-          "url": "https://www.rte.ie/news/ireland/2026/0403/1566577-storm-dave-ireland/",
+          "url": "https://www.rte.ie/news/ireland/2026/0402/1566449-storm-dave-ireland/",
           "author": null
         },
         {
           "name": "The Journal.ie",
           "url": "https://www.thejournal.ie/wind-warning-storm-dave-country-7001760-Apr2026/",
           "author": null
-        }
-      ],
-      "tags": [
-        "safety",
-        "transport",
-        "weather"
-      ],
-      "significance": "high",
-      "also_in_top": true
-    },
-    {
-      "headline": "Government proceeds with Valerie's Law despite concerns over stripping convicted killers of parental rights",
-      "summary": "The Irish government is moving forward with Valerie's Law, legislation designed to strip convicted killers of parental rights, despite objections raised by Tusla, the Child and Family Agency. The Department of Justice has confirmed it is satisfied that the proposed legislation remains constitutionally sound and can proceed as planned. Tusla expressed concerns about the implementation and potential impacts on child welfare procedures, but these concerns have not deterred the government's commitment to the measure. The law represents a significant shift in how Irish courts can handle parental rights in cases involving parents convicted of serious crimes. This legislation follows years of campaigning by advocates who argue that convicted murderers should not retain custody or guardianship rights. The government's decision to proceed suggests parliamentary passage is likely in the coming weeks or months. The measure has broad public support, reflecting societal consensus on protecting children from potentially dangerous parents. Legal experts have reviewed the constitutional implications and provided guidance to the Department of Justice. The implementation of Valerie's Law would modernize Irish family law in this area. Civil rights groups have engaged in the consultation process to ensure safeguards are properly included.",
-      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
-      "authors": [
-        "Ellen Coyne"
-      ],
-      "sources": [
+        },
         {
           "name": "Irish Times",
-          "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
-          "author": "Ellen Coyne"
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/met-eireann-set-to-issue-weather-warnings-ahead-of-stormy-easter-weekend/",
+          "author": "Glen Murphy, Ronan McGreevy"
         }
       ],
       "tags": [
-        "crime",
-        "politics",
-        "social"
+        "weather",
+        "transport",
+        "safety"
       ],
       "significance": "high",
-      "also_in_top": true
+      "also_in_top": false
     },
     {
-      "headline": "Minister plans major boost to Criminal Assets Bureau powers to seize cryptocurrency",
-      "summary": "Justice Minister Jim O'Callaghan has announced plans to significantly expand the Criminal Assets Bureau (CAB) powers, enabling the agency to seize cryptocurrency assets and access new enforcement tools. The legislative measures will grant the CAB authority to freeze payments and issue disclosure orders targeting digital currency holdings. This represents a major enhancement to Ireland's capacity to combat organized crime and money laundering in the digital economy. The new powers recognize the growing use of cryptocurrency by criminal organizations to launder proceeds and evade traditional financial oversight. The CAB has identified cryptocurrency as a critical gap in its enforcement capabilities, with criminals increasingly moving illicit funds through blockchain networks. The proposed legislation includes provisions for civil recovery of digital assets and mechanisms to cooperate with international law enforcement agencies. This move aligns Ireland with international efforts to regulate cryptocurrency and combat financial crime. The government expects the measure to significantly disrupt criminal financing networks operating within Ireland. Industry stakeholders and financial regulators have been consulted during the drafting process. The enhanced CAB powers are expected to be enacted within the coming months.",
-      "image_url": "https://c2.thejournal.ie/media/2026/04/justice-minister-jim-ocallaghan-speaking-to-members-of-the-media-during-a-post-cabinet-briefing-at-government-buildings-dublin-picture-date-wednesday-february-4-2026-f6b4927e-c947-4840-aa02-6794a4c0f100-630x439.jpg",
+      "headline": "Grace's Law banning scramblers from public places comes into force on April 3",
+      "summary": "Grace's Law, which bans the use of scramblers and all-terrain vehicles in public places, came into force on Friday, April 3, 2026. The legislation, named after Grace Lynch who was killed by a scrambler in Dublin in 2022, represents a major victory for road safety advocates and victim's families. The law makes it illegal for anyone to operate scramblers on roads, footpaths, parks, and other public spaces throughout Ireland. Grace Lynch's mother has called upon Justice Minister Helen McEntee to ensure garda\u00ed have adequate resources to enforce the new regulations effectively. Law enforcement officials have stated they should not fear prosecution for implementing the new rules. The ban is expected to significantly reduce injuries and deaths from uncontrolled scrambler use in urban and suburban areas. Garda\u00ed have begun enforcement operations immediately upon the law's implementation. The legislation follows years of community campaigning by victim's families and safety organizations seeking protection from reckless vehicle use.",
+      "image_url": "https://www.rte.ie/images/0023cd78-800.jpg",
       "authors": [],
       "sources": [
         {
+          "name": "RT\u00c9 News",
+          "url": "https://www.rte.ie/news/2026/0403/1566541-grace-law-scramblers/",
+          "author": null
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/age-restriction-on-scramblers-more-effective-than-ban-says-grace-lynchs-mother/",
+          "author": "Andrew Hamilton, Vivienne Clarke"
+        }
+      ],
+      "tags": [
+        "policy",
+        "safety",
+        "crime"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Man arrested in connection with 2020 Belfast murder of gangland criminal Robbie Lawlor",
+      "summary": "Garda\u00ed have arrested a 47-year-old man in connection with the 2020 murder of Robbie Lawlor, a Belfast-based gangland criminal shot dead outside a house in north Belfast on April 4, 2020. The arrest was made on foot of an extradition warrant as authorities pursue charges in Northern Ireland. The case represents a significant development in cross-border crime investigation efforts between Irish and Northern Irish law enforcement. Lawlor's murder was a high-profile gangland killing that sparked widespread concern about organized crime violence in Belfast. The arrest comes after several years of investigation into the circumstances surrounding his death. The individual arrested is in his 40s and faces charges related to the incident. This arrest demonstrates ongoing cooperation between An Garda S\u00edoch\u00e1na and the Police Service of Northern Ireland (PSNI) in pursuing cross-border criminal cases. The case highlights the continued impact of gangland violence in Northern Ireland communities.",
+      "image_url": "https://www.rte.ie/images/00140fbd-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RT\u00c9 News",
+          "url": "https://www.rte.ie/news/ireland/2026/0402/1566526-arrest-extradition-lawlor/",
+          "author": null
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/02/man-arrested-in-connection-with-murder-of-robbie-lawlor-in-belfast/",
+          "author": "Glen Murphy"
+        },
+        {
           "name": "The Journal.ie",
-          "url": "https://www.thejournal.ie/cab-cyrptocurrency-7002022-Apr2026/",
+          "url": "https://www.thejournal.ie/man-arrested-in-connection-to-2020-murder-of-robbie-lawlor-7002649-Apr2026/",
           "author": null
         }
       ],
       "tags": [
         "crime",
-        "economy",
-        "politics"
+        "justice",
+        "cross-border"
       ],
       "significance": "high",
-      "also_in_top": true
+      "also_in_top": false
     },
     {
-      "headline": "MetroLink chief's sudden resignation raises concerns about Dublin's mass transit project timeline",
-      "summary": "Sean Sweeney, the chief executive of the MetroLink project, has unexpectedly resigned from his position, potentially creating uncertainty around Ireland's major public transport infrastructure investment. The New Zealand executive was leading Dublin's ambitious metro project, which represents one of the state's largest infrastructure commitments. The timing of Sweeney's departure is significant as the project is preparing cost submissions to the government, a critical juncture for securing funding approval. Industry experts have warned that the leadership transition could unsettle construction market confidence and potentially affect project financing and timelines. MetroLink is expected to transform Dublin's public transport network and reduce traffic congestion in the capital. The project has faced various challenges since its conception, and the sudden leadership change adds another variable to its already complex timeline. The government will need to quickly identify a replacement with strong construction and project management credentials. Financial institutions and contractors closely monitoring the MetroLink development may reassess risk profiles in light of the executive departure. The resignation occurs amid broader discussions about infrastructure investment priorities in Ireland. Stakeholders are keen to understand the reasons for Sweeney's departure and its implications for project continuity.",
+      "headline": "Defence Minister Helen McEntee cancels Lebanon trip following security advice from Defence Forces",
+      "summary": "Ireland's Defence Minister Helen McEntee has abandoned her planned trip to Lebanon following security advice from Defence Force personnel. The cancellation reflects ongoing concerns about the security situation in southern Lebanon, where Irish peacekeepers serving with the United Nations Interim Force in Lebanon (UNIFIL) are operating amid intense conflict. The decision prioritizes ministerial safety and comes as the security environment in southern Lebanon remains volatile following sustained military operations. Irish peacekeepers in Lebanon have endured weeks of bombings and fighting in the region. Lieutenant General Rossa Mulcahy, Chief of Staff of the Defence Forces, has stated that the mission for the peacekeepers remains unchanged for now despite the deteriorating security situation. The cancellation underscores the risks faced by Irish military personnel deployed in the region. Minister McEntee's visit was intended to demonstrate support for Irish troops stationed there, but security assessments made clear the risks were unacceptable. This decision highlights the challenging conditions facing Irish Defence Forces abroad and the government's commitment to personnel safety.",
+      "image_url": "https://www.rte.ie/images/0023da78-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RT\u00c9 News",
+          "url": "https://www.rte.ie/news/middle-east/2026/0403/1566573-helen-mcentee-lebanon/",
+          "author": null
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/politics/arid-41821475.html",
+          "author": null
+        }
+      ],
+      "tags": [
+        "defence",
+        "politics",
+        "safety"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "MetroLink chief Sean Sweeney resigns amid project cost pressures and government submission",
+      "summary": "Sean Sweeney, the chief executive of MetroLink Dublin, has announced his shock resignation from the \u20ac20+ billion transport infrastructure project. The New Zealand-born executive departs as cost projections for the multibillion-euro MetroLink project approach government submission for approval. Sweeney had held the position for less than two years, earning \u20ac550,000 annually in the role. His departure could potentially spook the construction market and raise questions about the project's viability and timeline. The timing of the resignation is significant as the project enters crucial phases requiring government funding decisions. MetroLink represents Dublin's most ambitious public transport initiative in decades, intended to connect the airport to the city center and broader metropolitan area. The project has faced persistent delays and cost escalations since its inception. Industry observers suggest the sudden departure may signal internal concerns about project challenges or cost trajectories. Sweeney's exit could lead to leadership instability during a critical planning phase. The resignation adds uncertainty to a project already facing scrutiny over its financial feasibility.",
       "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
       "authors": [
         "Olivia Kelly"
@@ -163,16 +239,38 @@
         }
       ],
       "tags": [
+        "transport",
         "economy",
-        "politics",
-        "transport"
+        "politics"
       ],
       "significance": "high",
       "also_in_top": false
     },
     {
-      "headline": "Ireland's rental crisis deepens as university student opts for van living over unaffordable rents",
-      "summary": "A University of Limerick student has chosen to live in a van rather than pay rental prices they consider unaffordable, highlighting the severity of Ireland's housing and accommodation crisis. The student's situation exemplifies the broader challenges facing Irish young people seeking affordable housing in the rental market. Accommodation costs in university towns have risen dramatically, pricing out many students and young workers from traditional rental housing. The case has drawn attention to the inadequacy of current policy responses to the rental affordability crisis affecting Ireland's youth. Student unions and housing advocacy groups have pointed to this situation as evidence that existing government measures are insufficient. The university accommodation sector has expanded, but availability remains far below demand across Ireland's third-level institutions. Financial hardship among students has become a significant welfare concern for educational institutions and government agencies. The van living arrangement, while a creative adaptation, raises questions about student welfare and basic living standards. Housing economists argue that fundamental supply-side and demand-side interventions are needed to address affordability. Student accommodation has become a major policy issue in government discussions about youth welfare and retention.",
+      "headline": "Government proceeds with Valerie's Law to strip convicted killers of parental rights despite Tusla concerns",
+      "summary": "The Irish government has declared its intention to proceed with Valerie's Law, legislation designed to strip convicted killers of parental rights, despite objections from Tusla, the Child and Family Agency. The Department of Justice has stated the legislation 'is constitutional in all respects,' dismissing concerns raised by Ireland's child protection authority. Valerie's Law, named after Valerie Dunne, aims to protect children from being raised by parents convicted of murder or serious violence. The legislation represents a significant development in Irish child protection policy and criminal justice reform. Tusla raised concerns about the practical implementation and constitutional implications of the proposed law. The government's decision to proceed signals its commitment to the measure despite bureaucratic objections. The law responds to public pressure and advocacy groups concerned with child safety in cases where convicted murderers might otherwise retain parental custody rights. Legal experts have debated whether the measure might face constitutional challenges. Implementation of the law would require coordination between justice and child protection agencies. The measure is expected to pass through the legislative process in the coming weeks.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
+      "authors": [
+        "Ellen Coyne"
+      ],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
+          "author": "Ellen Coyne"
+        }
+      ],
+      "tags": [
+        "policy",
+        "crime",
+        "social"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "University of Limerick student living in van due to prohibitive rental costs in housing crisis",
+      "summary": "A University of Limerick student has chosen to live in a converted van rather than pay what he considers prohibitively expensive rental rates in the Limerick area. The student's decision highlights the acute housing crisis affecting Irish students and young adults, particularly in regional university towns. Rising rental costs in university cities have made conventional accommodation increasingly unaffordable for many students, forcing creative and unconventional housing solutions. The case exemplifies broader housing affordability challenges across Ireland that have been intensifying for years. Student accommodation costs have outpaced wage growth and student financial support, creating genuine hardship for many tertiary students. The situation reflects systemic issues in Ireland's housing market and rental sector regulation. Local student unions have raised concerns about the impact of housing costs on student wellbeing and academic performance. This story has resonated widely on social media, bringing attention to the housing crisis affecting younger generations. Government and institutional responses to student housing shortages remain inadequate according to housing advocates. The case underscores the need for policy interventions to address Ireland's fundamental housing supply and affordability challenges.",
       "image_url": "https://www.rte.ie/images/0024289e-800.jpg",
       "authors": [],
       "sources": [
@@ -183,69 +281,29 @@
         }
       ],
       "tags": [
-        "economy",
         "housing",
-        "social"
+        "social",
+        "economy"
       ],
-      "significance": "high",
+      "significance": "medium",
       "also_in_top": false
     },
     {
-      "headline": "Grace's Law banning scramblers in public spaces comes into effect today",
-      "summary": "Grace's Law, legislation banning the use of scramblers (off-road motorcycles) in public spaces, has come into effect today, making it illegal to operate these vehicles in public areas across Ireland. The law represents a significant step in addressing public safety concerns related to scrambler use in urban and suburban communities. Scramblers have been a persistent nuisance in many Irish neighborhoods, with riders engaging in dangerous and disruptive behavior that endangers pedestrians and property owners. The legislation provides law enforcement with legal tools to enforce restrictions and penalize operators of illegally used scramblers. This measure has been widely supported by community groups, residents' associations, and local authorities who have witnessed the dangers and disruptions caused by scrambler riders. The law is named after Grace, whose death was influenced by scrambler-related violence, giving the legislation personal and symbolic significance. Gardai have been briefed on enforcement procedures and are prepared to implement the new regulations. The measure is expected to reduce injuries and deaths related to scrambler accidents in high-risk communities. Public awareness campaigns have been conducted to inform the public of the new legal restrictions. Implementation will likely focus on high-incident areas where scrambler use has been most problematic.",
-      "image_url": "https://www.rte.ie/images/0023cd78-800.jpg",
+      "headline": "CAB given major new powers to seize cryptocurrency assets in organized crime crackdown",
+      "summary": "The Irish government plans to grant the Criminal Assets Bureau (CAB) major new powers to seize cryptocurrency and digital assets as part of an enhanced effort to combat organized crime. Justice Minister Jim O'Callaghan is introducing legislation that would allow for payment-freezing measures and new access orders to compel credential disclosure for digital wallets and cryptocurrency holdings. The expansion of CAB powers represents a significant modernization of Ireland's asset forfeiture regime to address emerging crime financing methods. Organized crime networks have increasingly turned to cryptocurrency and digital assets to hide proceeds from illegal activities. The new powers would enable CAB to trace and seize assets held in digital form, closing gaps in current legislation. The measure reflects government recognition that traditional cash-based asset seizure is insufficient against sophisticated criminal networks. Implementation of cryptocurrency seizure powers will require coordination with technology experts and international law enforcement bodies. The legislation is expected to be expedited through parliament given the acknowledged threat of organized crime. CAB director John Dwyer has indicated strong support for the expanded powers. The move positions Ireland as a leader in using modern asset seizure tools against organized crime networks.",
+      "image_url": "https://c2.thejournal.ie/media/2026/04/justice-minister-jim-ocallaghan-speaking-to-the-media-during-a-post-cabinet-briefing-at-government-buildings-dublin-picture-date-wednesday-february-4-2026-f6b4927e-c947-4840-aa02-6794a4c0f100-630x439.jpg",
       "authors": [],
       "sources": [
         {
-          "name": "RT\u00c9 News",
-          "url": "https://www.rte.ie/news/2026/0403/1566541-grace-law-scramblers/",
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/cab-cyrptocurrency-7002022-Apr2026/",
           "author": null
         }
       ],
       "tags": [
         "crime",
-        "safety",
-        "social"
-      ],
-      "significance": "medium",
-      "also_in_top": false
-    },
-    {
-      "headline": "Defence Minister Helen McEntee's Lebanon trip cancelled following Defence Forces concerns",
-      "summary": "Justice and Defence Minister Helen McEntee has had her planned trip to Lebanon cancelled due to concerns raised by the Defence Forces regarding security and operational considerations. McEntee was scheduled to visit Irish peacekeepers deployed with the United Nations Interim Force in Lebanon (UNIFIL) as part of Ireland's international peacekeeping commitments. The Defence Forces assessed the situation and recommended against the ministerial visit at this time, prompting the cancellation. The decision reflects ongoing security assessments related to the broader Middle East geopolitical situation and Irish personnel safety. Ireland maintains a significant peacekeeping presence in Lebanon, with soldiers serving in UNIFIL operations monitoring the Israel-Lebanon border. The Minister's visit would have involved direct engagement with Irish military personnel operating in the region. Such diplomatic visits are important for maintaining morale and demonstrating government support for deployed forces. The cancellation does not indicate a withdrawal of Irish commitment to UNIFIL operations or peacekeeping activities. Defence officials will continue to monitor the security situation and reassess the feasibility of such visits. The decision prioritizes the safety of government personnel and respect for professional security assessments. Alternative means of maintaining ministerial engagement with deployed forces are being explored.",
-      "image_url": "https://www.irishexaminer.com/cms_media/module_img/10055/5027744_6_articlelarge_2.83175611.jpg.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "Irish Examiner",
-          "url": "https://www.irishexaminer.com/news/politics/arid-41821475.html",
-          "author": null
-        }
-      ],
-      "tags": [
-        "defence",
-        "diplomacy",
-        "politics"
-      ],
-      "significance": "medium",
-      "also_in_top": false
-    },
-    {
-      "headline": "Mortgage rules changes set to benefit homeowners downsizing to smaller properties",
-      "summary": "New mortgage regulations coming into effect within weeks will provide relief for Irish homeowners seeking to downsize to smaller properties, addressing barriers that have previously complicated such transitions. The updated rules relax certain lending criteria that have made it difficult for older homeowners and others to obtain mortgages for smaller properties. Downsizing has been promoted by housing authorities as a way to free up family homes for younger buyers while allowing older homeowners to reduce housing costs and maintenance burdens. Current mortgage lending rules have often treated downsizing transactions unfavorably, applying stringent lending criteria that discourage the practice. The regulatory changes will enable more seamless transitions in the housing market, improving liquidity and reducing transaction friction. Financial institutions have been consulted on the regulatory changes and are preparing systems to implement the new procedures. Economists argue that facilitating downsizing can help address housing supply pressures by making larger homes available to younger families. The changes are expected to particularly benefit retirees and older homeowners looking to simplify their housing arrangements. Real estate agents expect the regulatory change will increase downsizing activity across the market. The move aligns with broader government policy objectives to improve housing market efficiency and intergenerational property access.",
-      "image_url": "https://www.rte.ie/images/0004ef05-800.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "RT\u00c9 News",
-          "url": "https://www.rte.ie/news/business/2026/0403/1566512-mortgages-rules/",
-          "author": null
-        }
-      ],
-      "tags": [
-        "economy",
-        "housing",
-        "policy"
+        "politics",
+        "economy"
       ],
       "significance": "medium",
       "also_in_top": false
@@ -253,176 +311,185 @@
   ],
   "europe": [
     {
-      "headline": "NATO credibility crisis as Trump dismisses alliance as 'paper tiger'",
-      "summary": "President Trump has renewed criticism of NATO, describing it as non-functional and expressing reluctance to defend European allies if invaded by Russia. Experts warn this marks a fundamental challenge to the alliance that has underpinned European security for 75 years. The comments reflect Trump's broader isolationist approach to US military commitments abroad. France24 reported that analysts now question whether NATO 'really exists anymore other than on paper.' European leaders, particularly in Central and Eastern Europe, view these statements with alarm given ongoing Russian military pressure on Ukraine. The remarks coincide with rising defense spending across Europe as nations seek to reduce reliance on US weapons and build independent security capabilities. UK Prime Minister Keir Starmer is reportedly repositioning Britain toward stronger European ties amid the deteriorating US relationship. This crisis of confidence threatens to accelerate European military integration but also creates uncertainty about collective defense obligations. NATO members are considering enhanced mutual defense arrangements independent of US guarantees.",
+      "headline": "Iran intensifies military strikes as European shipping faces Strait of Hormuz blockade",
+      "summary": "Iran launched a new wave of missile and drone attacks on Israel on April 3, with explosions reported across central Iran including strikes on the B1 bridge near Tehran killing at least eight civilians. The escalation follows threats from US President Trump to continue military operations. France and South Korea announced coordinated efforts to reopen the Strait of Hormuz, a critical shipping route for global energy supplies. Over 40 countries launched a multinational coalition to secure safe passage through the strategic waterway. The conflict directly threatens European energy security, with the strait serving as a vital chokepoint for oil and gas supplies to the EU. A French ship became the first Western European vessel to transit the strait since the Iran conflict began in late February, signaling mounting pressure on European maritime commerce. Energy experts warn the EU faces its largest oil supply disruption in history if the crisis persists. European governments are accelerating renewable energy projects as an alternative to Middle Eastern oil dependency. The escalating tensions with Iran and US military involvement raise questions about European strategic autonomy and energy independence. The blockade represents a critical test of EU geopolitical influence in a multipolar world.",
+      "image_url": "https://s.france24.com/media/display/d2c52e1a-2ed0-11f1-93ac-005056bf30b7/w:1024/p:16x9/AP26027415283060.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/tehran-fires-at-israel-as-trump-warns-us-has-not-started-destroying-what-is-left-in-iran",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/video/2026/04/03/watch-strike-hits-major-iranian-bridge-near-tehran-killing-at-least-8-civilians",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/03/french-and-south-korean-leaders-say-theyll-work-together-to-reopen-strait-of-hormuz",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/02/over-40-countries-launch-coalition-to-secure-strait-of-hormuz-after-the-war",
+          "author": ""
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "conflict",
+        "energy",
+        "trade",
+        "diplomacy"
+      ],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Russia's military campaign in Ukraine stalls after two years of advances, as momentum shifts",
+      "summary": "Russia halted its territorial advancement in Ukraine for the first time in over two years during March 2026, marking a significant shift in the conflict's trajectory. Ukrainian forces capitalized on the pause to regain positions previously lost, demonstrating improved defensive capabilities and tactical coordination. Military analysts attribute the stall to Ukrainian defensive strengthening, supply line difficulties, and weather conditions limiting Russian operations. The development is particularly significant as Russia has sustained nearly continuous territorial gains since its 2022 invasion. Ukraine's successful counteroffensive efforts have bolstered morale and Western support for continued aid. Kyiv has simultaneously diversified its defense partnerships, signing historic defense agreements with Gulf states to secure advanced air defense systems against Iranian drone attacks. European countries have reiterated commitment to Ukraine's sovereignty and territorial integrity. The shifting military balance suggests the conflict may be entering a new phase where neither side can achieve decisive victory through conventional means. International diplomacy around a potential settlement may gain traction if the stalemate persists. The stalled Russian advance raises questions about the sustainability of Moscow's military objectives.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
           "name": "France24",
-          "url": "https://www.france24.com/en/nato-doesn-t-really-exist-anymore-other-than-on-paper-experts-say",
-          "author": "FRANCE24"
-        }
-      ],
-      "tags": [
-        "defence",
-        "diplomacy",
-        "governance"
-      ],
-      "significance": "high",
-      "also_in_top": false
-    },
-    {
-      "headline": "Russia's military advance in Ukraine halts for first time in over two years",
-      "summary": "Russia's military campaign in Ukraine stalled in March 2026, marking the first cessation of territorial gains in more than two years according to the Institute for the Study of War. The halt in Russian offensives represents a significant shift in the war's trajectory after months of steady Russian advances. Analysts attribute the stall to Ukrainian defensive positions, Western military aid, and the strain on Russian logistics and personnel. The development comes as Ukraine continues to demonstrate unexpected resilience and battlefield effectiveness. EU foreign policy chief Kaja Kallas visited Kyiv on March 31st to commemorate the fourth anniversary of the Bucha massacre and reaffirm EU support for Ukraine. European ministers are examining accountability mechanisms for war crimes committed during the invasion. The stalled offensive may indicate changing dynamics in the conflict, though neither side shows signs of seeking negotiated settlement. This development has significant implications for European security and the duration of the war. The EU is examining how to sustain long-term military and financial support for Ukraine.",
-      "image_url": "https://s.france24.com/media/display/d2c52e1a-2ed0-11f1-93ac-005056bf30b7/w:1024/p:16x9/AP26027415283060.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
           "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
-          "author": "FRANCE 24"
+          "author": ""
         }
       ],
       "tags": [
-        "EU",
         "conflict",
-        "defence"
-      ],
-      "significance": "high",
-      "also_in_top": false
-    },
-    {
-      "headline": "EU faces unprecedented oil crisis as Iran-US conflict disrupts global energy supplies",
-      "summary": "Europe faces the largest oil supply disruption in history due to ongoing conflict between the US and Iran, according to energy experts cited by France24. The Iran war is creating a critical energy security crisis for European nations dependent on oil imports. Multiple nations may unilaterally subsidize energy costs to protect their economies, which would raise prices across Europe and inflate public budgets. France and South Korea announced coordination efforts to reopen the Strait of Hormuz, one of the world's most critical shipping lanes currently threatened by the conflict. Russia is capitalizing on the situation by sending oil tankers to Cuba and other nations seeking alternative energy sources. The crisis underscores Europe's vulnerability to geopolitical disruptions in distant regions and the limits of European energy independence. Higher energy costs threaten European competitiveness and could worsen inflation across the continent. EU leadership is considering coordinated responses to secure alternative energy sources and buffer against price spikes. This energy crisis may become the most economically damaging consequence of the Iran-US conflict for Europe.",
-      "image_url": "https://s.france24.com/media/display/ef9aa566-2d44-11f1-8484-005056a97e36/w:1024/p:16x9/capture-94646662569cc3668331268-46796288.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
-          "author": "Sharon GAFFNEY"
-        },
-        {
-          "name": "Euronews",
-          "url": "http://www.euronews.com/business/2026/04/03/french-and-south-korean-leaders-say-theyll-work-together-to-reopen-strait-of-hormuz",
-          "author": null
-        }
-      ],
-      "tags": [
-        "diplomacy",
-        "economy",
-        "energy"
-      ],
-      "significance": "high",
-      "also_in_top": false
-    },
-    {
-      "headline": "Five EU countries deliberately undermining rule of law, report shows",
-      "summary": "A Civil Liberties Union report has identified Bulgaria, Croatia, Hungary, Italy, and Slovakia as countries deliberately eroding rule of law within the EU, marking a serious governance crisis within the bloc. The findings indicate systematic weakening of judicial independence and democratic institutions in multiple member states. Hungary continues to face particular scrutiny, with Foreign Minister Peter Szijjarto denying allegations that he passed strategic information to Russia, dismissing the reports as 'foreign interference.' These governance failures threaten the EU's foundational principles and create security vulnerabilities, particularly given Hungary's historical alignment with Russian interests. The revelations coincide with mounting evidence of Russian efforts to penetrate EU decision-making through sympathetic member states. EU leadership is considering enforcement mechanisms to ensure compliance with democratic standards. The rule of law crisis threatens the EU's ability to function effectively and maintain internal cohesion. European Parliament members are demanding stronger action against countries undermining democratic institutions. This internal weakness could undermine EU responses to external threats like Russian aggression.",
-      "image_url": "https://s.france24.com/media/display/cb42fa56-2d3a-11f1-a31a-005056a90284/w:1024/p:16x9/EN-20260331-213116-214013-CS.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/five-eu-countries-deliberately-eroding-rule-of-law-report-shows",
-          "author": "FRANCE24"
-        },
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/europe/20260331-hungarian-fm-says-reports-he-passed-information-to-russia-are-foreign-interference",
-          "author": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "EU",
         "defence",
-        "governance"
+        "diplomacy"
       ],
       "significance": "high",
-      "also_in_top": false
+      "also_in_top": true
     },
     {
-      "headline": "EU launches housing crisis action plan amid soaring property costs",
-      "summary": "The European Union is taking direct action on Europe's housing crisis by adopting an affordable housing plan and appointing a dedicated commissioner to address the issue. Property purchase and rental prices have surged significantly since 2013, creating a major challenge for European citizens and economies. The EU initiative aims to increase affordable housing supply, regulate rental markets, and prevent speculation. Housing affordability has become a critical political issue across Europe, fueling populist movements and social discontent. The initiative reflects recognition that the housing crisis threatens social cohesion and economic stability across the continent. Multiple EU nations have already implemented national programs, but the bloc-wide coordination aims for greater impact and policy harmonization. The commissioner role will coordinate member state efforts and direct EU funding toward housing development. Young Europeans and low-income families have been particularly affected by skyrocketing housing costs. The plan represents one of the EU's broadest social policy interventions in recent years, addressing a crisis that affects all member states. Success could demonstrate the EU's capacity to address citizens' everyday concerns alongside geopolitical challenges.",
-      "image_url": "https://s.france24.com/media/display/2105d68e-2c0f-11f1-a321-005056a97e36/w:1024/p:16x9/PHOTO-BARCELONE-2.png",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/europe/20260330-eu-tackles-europe-s-housing-crisis",
-          "author": "Oihana ALMANDOZ"
-        }
-      ],
-      "tags": [
-        "EU",
-        "economy",
-        "regulation"
-      ],
-      "significance": "high",
-      "also_in_top": false
-    },
-    {
-      "headline": "Germany and Syria negotiate mass repatriation of Syrian refugees",
-      "summary": "German Chancellor Friedrich Merz has negotiated an agreement with Syrian President Bashar al-Assad for the repatriation of approximately 80 percent of Syrian immigrants currently in Germany, with the process expected to occur over three years. The agreement represents a major shift in German immigration policy and one of the largest repatriation programs for a displaced population. The initiative addresses the political pressure on Merz from far-right parties and portions of the German electorate demanding reduced immigration. The repatriation plan assumes improving conditions in Syria sufficient for safe return of refugees, an assumption contested by human rights organizations. It raises complex questions about refugee protection standards and international obligations during ongoing regional instability. Other EU nations may face pressure to adopt similar repatriation policies, potentially triggering policy changes across the bloc. The Syria-Germany agreement requires coordination with other Syrian neighbors, including Turkey and Lebanon, which host larger Syrian refugee populations. Implementation faces practical challenges in vetting, transport, and integration in Syria. The policy shift signals changing attitudes toward Syrian displacement within Europe despite ongoing regional instability. Human rights advocates worry the plan prioritizes political expediency over refugee safety and international legal obligations.",
-      "image_url": "https://s.france24.com/media/display/a1565706-2c72-11f1-abb0-005056a97e36/w:1024/p:16x9/2026-03-30T124605Z-358270693-RC20FKA8B7DW-RTRMADP-3-GERMANY-SYRIA.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/europe/20260330-germany-s-merz-says-80-percent-of-syrian-immigrants-should-return-home",
-          "author": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "EU",
-        "governance",
-        "migration"
-      ],
-      "significance": "high",
-      "also_in_top": false
-    },
-    {
-      "headline": "Massive Europe-wide renewable energy project faces significant delays",
-      "summary": "Europe's largest solar farm project, valued at 916 million euros, is experiencing significant construction delays despite strong political support for renewable energy development. The renewable energy initiative was designed to accelerate Europe's transition away from fossil fuels and reduce energy dependency. However, the project has encountered resistance from local communities, environmental assessments, and permitting challenges typical of major infrastructure projects across Europe. Delays in renewable energy deployment threaten the EU's climate targets and energy independence objectives, particularly urgent given the current energy crisis caused by geopolitical disruptions. Similar projects across Europe face comparable obstacles, suggesting systemic challenges in scaling renewable energy infrastructure. The project's struggles highlight the gap between political climate commitments and practical implementation. Stakeholders are examining ways to streamline permitting processes while maintaining environmental protections. European nations are seeking to balance rapid renewable deployment with community consultation and environmental stewardship. The delays underscore the complexity of achieving Europe's 2030 and 2050 climate goals. Success of this flagship project could establish templates for accelerating renewable deployment across the continent.",
+      "headline": "Europe accelerates renewable energy transition amid Iran war oil supply crisis",
+      "summary": "European countries are rapidly pivoting toward renewable energy sources as the Iran-Israel conflict threatens Middle Eastern oil supplies and disrupts global energy markets. Italy, despite EU climate commitments, announced it could reactivate four coal-powered plants on standby if natural gas and oil shortages escalate due to regional tensions. The paradox highlights the energy security dilemma facing the EU as geopolitical crises collide with climate goals. A massive European solar farm project, valued at 916 million euros, is proceeding despite delays, serving as a flagship renewable infrastructure initiative. Experts emphasize that renewables must play a central role in strengthening European energy independence and reducing reliance on volatile Middle Eastern suppliers. The EU's internal energy policies are diverging, with different member states adopting different risk mitigation strategies. Austria declined US requests to allow American military aircraft to overfly its territory for Iran operations, reaffirming its official neutrality policy. Energy security has become a central EU policy concern alongside climate targets and geopolitical alignment with NATO. The crisis demonstrates the interconnection between defense, energy, and climate policy in shaping European strategic autonomy. Long-term EU energy planning must balance immediate security needs with climate commitments.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
           "name": "Euronews",
           "url": "http://www.euronews.com/2026/04/03/inside-the-struggle-to-build-europes-largest-solar-farm-as-916-million-project-hit-with-de",
-          "author": null
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/italy-clings-to-coal-powered-plants-as-eu-countries-shield-from-iran-war-with-renewables",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/02/austria-refuses-us-requests-to-overfly-its-territory-citing-its-neutrality-policy",
+          "author": ""
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
+          "author": ""
         }
       ],
       "tags": [
-        "EU",
+        "energy",
         "climate",
-        "economy"
+        "EU",
+        "regulation"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Hungary's pivotal April 12 election set to reshape EU governance as US Vice President visits",
+      "summary": "Hungarian Prime Minister Viktor Orb\u00e1n faces his most significant political challenge in 16 years as the country prepares for parliamentary elections on April 12, 2026. Opposition leader P\u00e9ter Magyar has emerged as a formidable challenger to Orb\u00e1n's long-standing dominance. US Vice President JD Vance announced he will visit Budapest just days before the election, signaling American interest in Hungary's political direction. The timing of Vance's visit underscores growing geopolitical tensions within NATO regarding Hungarian government policies and EU integration. Orb\u00e1n's government has faced sustained criticism from EU institutions for alleged rule of law violations and erosion of democratic standards. Hungary has also blocked EU military aid to Ukraine, creating friction with other member states and raising questions about NATO cohesion. International observers view the election as a referendum on Orb\u00e1n's 16-year tenure and EU relations. The outcome could reshape Hungary's European alignment and influence EU decision-making on Ukraine support and broader foreign policy. Domestic issues including inflation and economic management are also central to voter concerns. The election represents a critical moment for European democratic consolidation and the balance of power within EU institutions.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/03/podcast-everything-you-need-to-know-about-the-hungarian-elections",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/03/us-vice-president-vance-to-visit-hungary-days-before-key-election",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "elections",
+        "governance",
+        "EU",
+        "politics"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "European defense experts warn US weapons dependency undermines military sovereignty as rearmament accelerates",
+      "summary": "European defense experts are raising concerns that accelerating EU rearmament plans risk deepening technological and strategic dependence on American defense contractors and military systems. A prominent rearmament expert warned that every weapon Europe purchases from the United States creates a liability that hampers European industrial development and operational autonomy. The comment highlights a fundamental dilemma in European defense policy as NATO members increase military spending in response to Russian aggression and broader geopolitical tensions. Germany, France, and other EU nations are rapidly expanding defense budgets, but procurement decisions often favor established US suppliers due to NATO interoperability requirements. European defense industries argue for stronger support and coordinated procurement policies to build indigenous capacity. The debate reflects broader concerns about EU strategic autonomy and the balance between NATO alliance commitments and European self-reliance. Trump's recent tariff announcements on pharmaceutical imports from EU countries have raised additional tensions regarding US-European economic relations. Some EU officials worry that excessive military dependency on the US could undermine European negotiating position on other policy issues. The tension between NATO obligations and European sovereignty has become increasingly salient in European foreign policy debates. Long-term European defense planning must balance immediate security needs with building indigenous defense capabilities.",
+      "image_url": "https://s.france24.com/media/display/bc7771da-2ed6-11f1-9507-005056bfb2b6/w:1024/p:16x9/EN-20260402-223115-224401-CS.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "defence",
+        "EU",
+        "trade",
+        "governance"
       ],
       "significance": "medium",
       "also_in_top": false
     },
     {
-      "headline": "Paris bank attack and financial sector security heightened across Europe",
-      "summary": "French police have arrested five people in connection with a foiled explosive device attack on the Bank of America headquarters near the Champs-\u00c9lys\u00e9es in Paris, with additional security measures now in place at major financial institutions. The failed attack represents a significant security threat to European financial infrastructure in the heart of Paris's business district. In response, US investment bank Goldman Sachs has been placed under police surveillance in Paris as authorities heighten protective measures. The incident raises concerns about potential coordinated attacks on financial institutions and reflects broader security tensions across major European cities. French counterterrorism units moved quickly to prevent the attack from occurring, averting potential loss of life. The security measures underscore the balance between maintaining open public spaces and protecting critical infrastructure in European capitals. Financial institutions across Europe are reviewing security protocols and coordinating with law enforcement. The attack highlights vulnerability of major commercial centers in Paris and other major European cities. Authorities are investigating connections between the suspects and potential extremist networks. The incident could trigger broader European security reviews of financial sector protection.",
-      "image_url": "https://s.france24.com/media/display/04024d54-2c66-11f1-b77a-005056a90284/w:1024/p:16x9/EN-20260330-201909-202048-CS.jpg",
+      "headline": "European rule of law under pressure as five EU member states accused of deliberate democratic erosion",
+      "summary": "A new report from civil liberties organizations identifies five EU member states as deliberately eroding rule of law and democratic standards, marking a troubling trend in European governance. Bulgaria, Croatia, Hungary, Italy, and Slovakia face accusations of systemic undermining of judicial independence, press freedom, and accountability mechanisms. The report emphasizes that these erosions are not incidental shortcomings but coordinated policy choices by national governments. EU institutions have limited enforcement mechanisms to compel compliance with foundational democratic values without triggering broader geopolitical consequences. Hungary's government has been particularly vocal in defending its policies, with Foreign Minister claiming external interference in domestic affairs while simultaneously facing EU scrutiny. The rule of law concerns intersect with Hungary's resistance to Ukraine aid and evolving relationships with Russia, raising geopolitical implications. Other nations including France are experiencing their own democratic challenges, including allegations of foreign interference in municipal elections. The European Commission has initiated formal proceedings against multiple member states for rule of law violations. Democratic backsliding within the EU has prompted discussions about strengthening accountability mechanisms and consequences for non-compliance. The integrity of European democratic institutions remains under significant pressure from both external authoritarian actors and internal erosion by member governments.",
+      "image_url": null,
       "authors": [],
       "sources": [
         {
           "name": "France24",
-          "url": "https://www.france24.com/en/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris",
-          "author": "FRANCE24"
-        },
-        {
-          "name": "Euronews",
-          "url": "http://www.euronews.com/business/2026/04/03/us-bank-goldman-sachs-placed-under-police-surveillance-in-paris",
-          "author": null
+          "url": "https://www.france24.com/en/five-eu-countries-deliberately-eroding-rule-of-law-report-shows",
+          "author": ""
         }
       ],
       "tags": [
-        "defence",
-        "economy",
-        "security"
+        "governance",
+        "EU",
+        "politics"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "France sentences captain of Russian shadow fleet tanker amid oil sanctions enforcement campaign",
+      "summary": "A French court sentenced the captain of a Russian-operated tanker to one year imprisonment for operating as part of Russia's shadow fleet, which is used to circumvent international oil sanctions. The vessel was identified as conducting illegal transportation of sanctioned Russian oil in violation of EU and international regulations. Shadow fleet operations have become a key mechanism for Russia to maintain oil exports and generate revenue despite western sanctions imposed following the 2022 invasion of Ukraine. The captain's conviction represents part of a broader EU enforcement campaign against sanctions evasion in maritime commerce. European countries have intensified scrutiny of suspicious tanker movements, particularly those lacking transparency regarding ownership and cargo origins. The Russian government has protested the prosecution, arguing European countries are overstepping jurisdictional boundaries in maritime law enforcement. Russia continues to develop alternative export routes and phantom fleet tactics to avoid detection and enforcement actions. The sentence signals European determination to enforce sanctions despite challenges in monitoring global maritime commerce. Additional arrests and prosecutions of shadow fleet operators are anticipated as enforcement mechanisms improve. The broader shadow fleet problem remains significant, with estimates suggesting hundreds of vessels operating outside normal regulatory frameworks to support Russian commerce.",
+      "image_url": "https://s.france24.com/media/display/975759e4-2c45-11f1-8d80-005056bf30b7/w:1024/p:16x9/AP25275543568748.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260330-france-hands-captain-of-suspected-russian-shadow-fleet-tanker-one-year-jail-sentence",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "trade",
+        "regulation",
+        "defence"
       ],
       "significance": "medium",
       "also_in_top": false
@@ -430,185 +497,193 @@
   ],
   "world": [
     {
-      "headline": "US-Israel escalate strikes on Iran as Trump threatens broader infrastructure assault",
-      "summary": "The United States and Israel have intensified military operations against Iran, marking day 35 of sustained attacks. President Trump has escalated rhetoric, threatening to strike Iran's bridges and electric power plants, signaling a broader campaign beyond military targets. The US has already destroyed Iran's largest bridge in Karaj and hit a century-old medical research centre near Tehran. Kuwait reported drone attacks on its Mina al-Ahmadi refinery causing fires, though with no reported injuries. Iran has vowed retaliation and launched attacks across the region, with former Foreign Minister Zarif calling for Tehran to declare victory and negotiate. The escalation has triggered a broader regional energy crisis, with Bangladesh cutting working hours to conserve energy and Pakistan facing LNG shortages. NATO allies have expressed concern over Trump's approach, with the conflict creating fresh tensions within the alliance. The broader impacts include surging oil prices, regional instability, and humanitarian concerns as infrastructure damage disrupts civilian services.",
+      "headline": "US-Iran war reshapes global economy as oil prices surge and markets roil",
+      "summary": "The escalating conflict between the United States and Iran has triggered global economic turbulence, with crude oil prices soaring above $110 per barrel and stock markets experiencing significant volatility. The war's impacts extend far beyond the Middle East, affecting energy supplies, supply chains, and inflation concerns worldwide. The Trump administration faces mounting pressure as evacuations of US military personnel from Middle Eastern bases underscore the conflict's severity and the risks to American forces in the region. European officials, including French President Emmanuel Macron, have criticized Trump's handling of the war, questioning the coherence and consistency of US strategy. Markets have shown resilience in recovering from early losses despite ongoing tensions, but analysts warn of continued economic headwinds as the conflict persists. Energy-dependent economies are particularly vulnerable, with concerns about sustained disruptions to oil production and transportation through critical chokepoints like the Strait of Hormuz. The conflict has forced governments worldwide to reconsider energy security strategies and economic planning. Geopolitical tensions remain high as various nations grapple with the fallout from the expanded conflict. The economic implications suggest a prolonged period of elevated energy costs and market uncertainty for the global economy.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXVrRmQ3bUVMNklRcE5LVmRobndfaktMVWh5bFRVN1M0YVYweUVtWEtZUmpjQjcybTFqNzdtSVpLZWxmelh3U2pqdTdzODR5UDMwWDFmQ1N0SDRSMi02ZUpGeUppbkN4TW5Ha1VMYmxMeThMSV9PUXFtUDNBdGlncFU0ekx6N3BZUjBvLVlrNjFpQmFQYTczS083NnZ5Tklfdlg3WXlIMnFzbU5ZaGRTWS1qaWlWZHdMWDhGSGo5ek02RVFQU0dLUDE4LTVZSExrM21jYzlUY1E",
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "Reuters"
+        },
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "AP News"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
-          "author": null
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "author": "Steve Walsh"
         }
       ],
       "tags": [
         "conflict",
-        "energy",
+        "economy",
         "geopolitics"
       ],
       "significance": "high",
-      "also_in_top": false
+      "also_in_top": true
     },
     {
-      "headline": "Myanmar junta chief Min Aung Hlaing elected president in parliamentary vote",
-      "summary": "General Min Aung Hlaing, the military coup leader who has orchestrated a brutal civil war in Myanmar, has been formally elected president by the country's pro-military parliament. He secured 429 out of 584 votes cast by MPs in the election, cementing military control over the nation's political system. Min Aung Hlaing's election follows his 2021 coup that overthrew the democratically elected government of Aung San Suu Kyi. Since taking power, his junta has overseen widespread violence, displacement, and humanitarian crises as opposition forces and ethnic armed organizations have fought back. The parliamentary election itself was widely criticized by international observers as lacking legitimacy and representing a consolidation of military power rather than genuine democratic process. The move signals the junta's intention to institutionalize military rule through formal political structures. International observers and human rights organizations have condemned the development, viewing it as further entrenchment of authoritarian control in a country experiencing ongoing conflict.",
+      "headline": "Myanmar junta chief Min Aung Hlaing becomes president in parliamentary vote",
+      "summary": "Myanmar's military coup leader General Min Aung Hlaing has been formally elected as the country's president by the newly-elected parliament, cementing the junta's political control following the 2021 coup. This development represents a significant consolidation of military power in Myanmar and underscores the brutal civil war that has devastated the nation since the coup. Min Aung Hlaing's election demonstrates the junta's ability to maintain institutional control despite widespread international criticism and domestic resistance. The military council has structured Myanmar's political system to ensure the armed forces retain considerable power under any civilian facade. This presidency comes amid ongoing violence and humanitarian crisis as various armed resistance groups continue fighting against junta forces across the country. The international community has largely condemned the junta's actions, but Min Aung Hlaing's formal assumption of the presidency represents the military establishment's defiant assertion of its authority. Myanmar's neighbors and major powers have expressed concern about the country's trajectory and the humanitarian toll of the conflict. The move signals continuity in the junta's governance model despite international pressure for democratic transition. Global observers view this development as further entrenchment of military rule in Southeast Asia.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
       "authors": [],
       "sources": [
         {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "Reuters"
+        },
+        {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
-          "author": null
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOmVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw",
-          "author": null
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         }
       ],
       "tags": [
         "conflict",
-        "diplomacy",
+        "geopolitics",
         "governance"
       ],
       "significance": "high",
       "also_in_top": false
     },
     {
-      "headline": "Microsoft commits $10 billion to Japan for AI and cyber defence expansion",
-      "summary": "Microsoft has announced a substantial $10 billion investment in Japan focused on artificial intelligence development and cyber defence capabilities. The investment represents Microsoft's strategic commitment to strengthen technological infrastructure in Asia and position Japan as a hub for AI innovation. The timing comes as tech companies compete to establish dominance in AI technology globally. Japan has been actively seeking foreign technology investment to bolster its digital economy and maintain competitiveness in the rapidly evolving AI sector. The investment is expected to create jobs, develop new research facilities, and strengthen partnerships with Japanese enterprises and academic institutions. Microsoft's move signals confidence in Japan's market and regulatory environment despite broader geopolitical tensions in the region. The announcement also reflects international competition among tech giants to establish presence in key markets before AI technology becomes standardized globally.",
-      "image_url": null,
-      "authors": [],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN",
-          "author": null
-        }
-      ],
-      "tags": [
-        "economy",
-        "technology",
-        "trade"
-      ],
-      "significance": "medium",
-      "also_in_top": false
-    },
-    {
-      "headline": "Pakistan-Afghanistan peace talks resume in China as Beijing seeks regional stability",
-      "summary": "Pakistan has confirmed a new round of peace negotiations with Afghanistan's Taliban government taking place in China, where Beijing is attempting to broker a ceasefire and reduce regional tensions. The talks represent ongoing diplomatic efforts to stabilize the region following Afghanistan's Taliban takeover in 2021 and subsequent cross-border tensions with Pakistan. China has positioned itself as a neutral mediator with economic interests in regional stability, particularly regarding trade routes and security concerns related to militant groups. The negotiations address long-standing disputes between Pakistan and Afghanistan, including border issues and cross-border militant operations. Pakistan's participation signals acknowledgment that dialogue is necessary despite previous military clashes and deep-rooted tensions. The talks occur amid broader regional instability including the US-Iran conflict and energy crises affecting multiple countries. Success of these negotiations could reduce regional tensions and allow for greater economic cooperation and development in South Asia.",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fef%2F408c450e48308dd8b3b0b703ab1a%2Fap26091088420099.jpg",
-      "authors": [
-        "The Associated Press"
-      ],
-      "sources": [
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/04/03/g-s1-116299/pakistan-says-a-new-round-of-peace-talks-with-afghanistan-is-underway-in-china",
-          "author": "The Associated Press"
-        }
-      ],
-      "tags": [
-        "conflict",
-        "diplomacy",
-        "geopolitics"
-      ],
-      "significance": "medium",
-      "also_in_top": false
-    },
-    {
-      "headline": "Artemis II mission approaches lunar orbit, marking first crewed journey beyond Earth since 1972",
-      "summary": "NASA's Artemis II mission is making its final approach to lunar orbit, representing humanity's first crewed journey beyond Earth's orbit in over 50 years. The spacecraft's trajectory brings it to the far side of the Moon, an achievement that had not been accomplished since the Apollo missions ended in 1972. The mission carries a crew of astronauts on a multi-week journey to establish infrastructure for future lunar exploration and eventual human settlement. Artemis II serves as a critical test of NASA's deep space exploration capabilities and the Artemis program's goal of returning humans to the Moon and establishing a sustainable presence there. The mission also demonstrates technological advances in spacecraft systems, life support, and navigation that represent significant progress from the Apollo era. The successful progress of Artemis II has been closely watched by space agencies worldwide, influencing international space exploration strategies and commercial space ventures. The mission is expected to provide crucial data for future missions and support long-term goals of lunar exploration and potential Mars missions.",
+      "headline": "NASA's Artemis II mission departs Earth orbit on historic path to the Moon",
+      "summary": "NASA's Artemis II spacecraft has successfully left Earth's orbit and is now on a trajectory toward the Moon, marking a major milestone in the mission to return humans to lunar exploration for the first time since 1972. The spacecraft carries a crew of four astronauts who are performing final tests and critical checks during their journey around the Moon before returning to Earth. This mission represents a crucial stepping stone in NASA's broader Artemis program, which aims to establish sustainable lunar exploration and eventually enable human missions to Mars. The spacecraft's successful trans-lunar injection represents a significant technical achievement after years of delays and technical challenges that previously prevented launches. The mission demonstrates the readiness of modern spacecraft systems and crew preparations for deep space missions beyond Earth's immediate vicinity. International space programs are watching this mission closely as it validates human spaceflight capabilities for extended lunar operations. The crew's conduct during this orbital phase will provide valuable data for future lunar landing missions planned for 2028. This achievement represents renewed American commitment to space exploration and lunar science. The mission has captured global attention as a symbol of human technological progress and scientific ambition.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
-      "authors": [],
+      "authors": [
+        "Nell Greenfieldboyce"
+      ],
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-          "author": null
-        }
-      ],
-      "tags": [
-        "science",
-        "space",
-        "technology"
-      ],
-      "significance": "medium",
-      "also_in_top": false
-    },
-    {
-      "headline": "Energy crisis spreads across multiple regions as Iran conflict disrupts global supply",
-      "summary": "The escalating US-Iran conflict is triggering an unprecedented global energy crisis, with impacts rippling across multiple continents. Bangladesh has implemented emergency measures cutting working hours to conserve electricity as energy demand threatens to exceed supply. Pakistan faces a looming liquefied natural gas shortage as supplies that had previously been in surplus have collapsed due to regional conflict disruptions. European energy officials warn of a long-lasting energy shock requiring comprehensive preparation, with EU energy commissioners emphasizing the need for immediate policy responses. The crisis stems from disrupted oil and gas supplies, shipping delays through critical maritime chokepoints like the Strait of Hormuz, and refinery damage in the region. China's independent refineries are adapting by developing alternative sourcing strategies, though global energy markets remain volatile. The energy crisis threatens to exacerbate inflation, slow economic growth across multiple regions, and create humanitarian challenges in vulnerable nations dependent on imports. Governments are exploring emergency energy reserves, alternative energy sources, and diplomatic solutions to restore supply chains.",
-      "image_url": null,
-      "authors": [],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTXVrRmQ3bUVMNklRcE5LVmRobndfaktMVWh5bFRVN1M0YVYweUVtWEtZUmpjQjcybTFqNzdtSVpLZWxmelh3U2pqdTdzODR5UDMwWDFmQ1N0SDRSMi02ZUpGeUppbkN4TW5Ha1VMYmxMeThMSV9PUXFtUDNBdGlncFU0ekx6N3BZUjBvLVlrNjFpQmFQYTczS083NnZ5Tklfdlg3WXlIMnFzbU5ZaGRTWS1qaWlWZHdMWDhGSGo5ek02RVFQU0dLUDE4LTVZSExrM21jYzlUY1E",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
-          "author": null
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "author": "Nell Greenfieldboyce"
         }
       ],
       "tags": [
-        "conflict",
-        "economy",
-        "energy"
+        "technology",
+        "space exploration",
+        "diplomacy"
       ],
       "significance": "high",
       "also_in_top": false
     },
     {
-      "headline": "Russia escalates aerial assault on Ukraine while Kremlin pushes new state-backed messaging platform",
-      "summary": "Russia is conducting rolling aerial attacks on Ukraine using multiple waves of strikes targeting various regions across the country. Ukrainian military officials report continuous pressure from Russian air forces as Moscow seeks to degrade Ukrainian defense capabilities and civilian infrastructure. Simultaneously, the Kremlin has launched an initiative to develop a state-backed messaging platform to replace private alternatives, facing resistance from some segments of Russian society concerned about state surveillance and censorship. The messaging platform initiative reflects broader Russian efforts to create an isolated digital environment independent of Western platforms and surveillance. Ukraine continues to mount resistance despite sustained Russian bombardment, with damage assessments showing impacts on civilian areas and military installations. International observers view Russia's aerial strategy as an attempt to wear down Ukrainian resolve and force political concessions. The conflict remains one of Europe's major security crises with broader implications for NATO strategy and Western security commitments. Both military and information warfare aspects of the conflict continue to evolve as Russia seeks advantages across multiple domains.",
-      "image_url": null,
+      "headline": "Iran's critical infrastructure damaged as strikes target steel plants and oil facilities",
+      "summary": "Iran's two largest steel plants have been forced to shut down following targeted military strikes that Iran attributes to Israel working in coordination with the United States. The strikes represent a significant blow to Iran's industrial capacity and economic stability amid the ongoing conflict with Western and Israeli forces. Similar strikes have damaged Kuwait's desalination plants and oil refineries, along with data centers operated by Amazon Web Services and Oracle in the UAE, highlighting the geographical spread of military operations. Iranian citizens describe mounting desperation following a month of sustained conflict, with expanding strike campaigns causing economic pain, power disruptions, and widespread fear of further military escalation and government repression. The closure of major industrial facilities threatens significant long-term damage to Iran's economy, supply chains, and international trade capacity. Despite the substantial military pressures, Iranian leadership appears resilient and the regime remains firmly in place, suggesting the conflict may persist for an extended period. The strikes demonstrate the vulnerability of critical infrastructure in the region to aerial bombardment and asymmetric warfare. International observers note that Iran's industrial shutdown could have global implications for steel markets and commodity prices. The humanitarian consequences of sustained strikes on civilian infrastructure continue to mount.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1741/live/01668510-2eaa-11f1-9ffd-4303eb833784.jpg",
       "authors": [],
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEROeEZKLTlzMTdRWlV3NVRZQVVycHFCaW1rRE1aSGlsaGdwLWstUWh5cDBqNlBxQ19ON1lZb0I3VzZhRHE5UjdncFlBSlJMSkNWU1J4cW93VnIwMDdaWjlHRlZUSFRqRzNrUjFBWWhvc3AtRy05Szd5TnNnUC1YajIyak9KZXJpTlVJTTZ4ZzNKQjFRbGRuSGk3bjVFZ0QzUFB5d1pva2hqZGhoVG5FRDktRjQxUEpWbUJWNA",
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
           "author": null
         }
       ],
       "tags": [
         "conflict",
-        "defence",
-        "geopolitics"
+        "economy",
+        "humanitarian"
       ],
-      "significance": "medium",
+      "significance": "high",
       "also_in_top": false
     },
     {
-      "headline": "Cuba releases 2,010 prisoners as US pressures government on humanitarian issues",
-      "summary": "The Cuban government has announced the release of 2,010 prisoners, characterizing the action as a humanitarian gesture connected to Holy Week celebrations. The prisoner releases come amid increasing US pressure on the Cuban government regarding human rights and humanitarian concerns. Cuban officials have framed the releases as a demonstration of clemency and goodwill during the religious period. The move occurs as diplomatic tensions between Cuba and the United States remain elevated following renewed US immigration and economic policies toward the island nation. International observers view the releases as potentially significant for improving human rights conditions in Cuban detention facilities, which have faced criticism from international organizations. The timing of the announcement suggests coordination with broader political messaging by the Cuban government. The releases represent one of the largest prisoner releases in recent years and may signal shifting priorities within the Cuban system regarding detention policy. The humanitarian significance of the releases extends to family reunification and reducing overcrowding in Cuban prisons.",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7989x5326+0+0/resize/7989x5326!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F20%2Fe5472e3642d8add7551098878c7b%2Fap26091673998047.jpg",
-      "authors": [
-        "The Associated Press"
-      ],
+      "headline": "Cuba announces mass prisoner pardon amid international pressure over US embargo",
+      "summary": "Cuba has announced plans to pardon more than 2,000 prisoners as part of wider diplomatic and domestic policy adjustments amid ongoing international pressure over the United States economic embargo and political detente efforts. The mass pardon comes as part of broader discussions about political prisoners, a long-standing demand from the United States and human rights organizations monitoring the situation on the island. The decision signals potential shifts in Cuban domestic and foreign policy as the country navigates complex relationships with the United States, particularly under the current Trump administration. The pardons could address international criticism regarding Cuba's treatment of political dissidents and prisoners of conscience, though implementation details remain unclear. This move reflects Cuba's ongoing efforts to manage diplomatic relations while maintaining internal stability and addressing pressure from multiple directions. The announcement suggests possible negotiations or informal discussions with US officials regarding prisoner releases and related matters. The broader context involves ongoing discussions about sanctions relief and normalization of relations between the two countries. Cuba's decision demonstrates the country's vulnerability to external pressure and the importance of managing international opinion. The pardon's scope and implementation will be closely watched by human rights organizations and international observers.",
+      "image_url": null,
+      "authors": [],
       "sources": [
         {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/04/03/g-s1-116297/cuba-releasing-2-010-prisoners-as-the-us-pressures-the-islands-government",
-          "author": "The Associated Press"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "author": null
         }
       ],
       "tags": [
         "diplomacy",
         "governance",
         "humanitarian"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "SpaceX valued at $1 trillion with announced plans for public stock listing",
+      "summary": "Elon Musk's SpaceX is set to become one of the most valuable companies in history with a planned initial public offering that could value the company at approximately $1 trillion. The public listing would represent one of the most significant technology IPOs to date and could potentially make Musk the world's first trillionaire if the company achieves its valuation targets. SpaceX's success reflects the growing commercial viability of space technology, launch services, and satellite communications, which have become critical infrastructure for global connectivity and scientific exploration. The company has demonstrated technological leadership through successful launches, satellite deployment, and ongoing missions that contribute to national space capabilities. A successful public listing would mark a major milestone in the commercialization of space and validate investment in private spaceflight ventures. The IPO would unlock shareholder value and potentially provide capital for further expansion of SpaceX's operations and technological development. Market observers view the planned listing as a significant event for the technology sector and investment markets more broadly. The valuation reflects confidence in the company's business model and future growth potential in space commerce and exploration. This development has implications for global space competition and the future trajectory of commercial spaceflight.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d45/live/714dfc10-2e9f-11f1-90b9-6ffcd881a7dc.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "author": null
+        }
+      ],
+      "tags": [
+        "technology",
+        "economy",
+        "trade"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Magnitude 7.4 earthquake strikes off Indonesia, claims one life",
+      "summary": "A powerful magnitude 7.4 earthquake struck off the coast of Indonesia between the islands of Manado and Ternate, killing at least one person and triggering initial tsunami warnings that were subsequently lifted. The earthquake demonstrates the ongoing seismic vulnerability of the region, which sits along the Pacific Ring of Fire, one of the world's most earthquake-prone areas. Initial emergency responses were activated across the affected regions as authorities assessed damage and coordinated rescue operations. The lifting of tsunami warnings indicated that the seismic event, while powerful, did not generate significant tsunami risks for surrounding regions and coastlines. Indonesia experiences frequent seismic activity due to its location on multiple tectonic plate boundaries, making earthquake preparedness and response critical to public safety. The earthquake prompted officials to evaluate structural resilience and emergency management protocols across the region. This event underscores the importance of earthquake early warning systems and disaster preparedness in vulnerable coastal and island communities. The incident contributed to growing awareness of natural disaster risks in the Indo-Pacific region. International assistance networks stand ready to support Indonesia if major humanitarian needs emerge from the earthquake.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8970/live/91993720-2e43-11f1-b835-3f8c3a2eefdd.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "author": null
+        }
+      ],
+      "tags": [
+        "humanitarian",
+        "climate",
+        "geopolitics"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Burkina Faso military junta faces accusations of over 1,800 killings, human rights violations",
+      "summary": "Human Rights Watch has reported that over 1,800 people have been killed since the military junta seized power in Burkina Faso, raising serious concerns about widespread violence and systematic human rights abuses. The rights group indicates that military leaders, including Captain Traor\u00e9, and associated jihadist groups may be liable under international law for the documented killings. The findings suggest a pattern of violence that extends beyond conventional conflict casualties to include potential extrajudicial killings and targeted violence against civilians. Burkina Faso's security situation has deteriorated significantly since the coup, with competing military factions and jihadist groups fighting for control across the country. The humanitarian toll of the conflict has displaced thousands of people and created severe shortages of basic services and supplies. International attention to Burkina Faso's crisis has intensified as documented abuses accumulate and the internal security situation deteriorates further. The junta's continued grip on power despite international criticism suggests limited near-term prospects for political transition. Regional stability in West Africa remains fragile amid ongoing coups, military consolidations, and security challenges across multiple countries. The findings by Human Rights Watch add pressure on the international community to address accountability for documented abuses.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6df4/live/172c2bc0-2e78-11f1-8dc4-7bd9501845f2.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "author": null
+        }
+      ],
+      "tags": [
+        "conflict",
+        "humanitarian",
+        "governance"
       ],
       "significance": "medium",
       "also_in_top": false

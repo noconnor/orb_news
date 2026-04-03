@@ -2,41 +2,17 @@
   "date": "2026-04-03",
   "update_type": "morning",
   "steps": {
-    "setup": {
-      "start": 1775205322,
-      "end": 1775205357,
-      "duration_s": 35
-    },
-    "gather": {
-      "start": 1775205357,
-      "end": 1775205517,
-      "duration_s": 160
-    },
-    "synthesize": {
-      "start": 1775205719,
-      "end": 1775205796,
-      "duration_s": 77
-    },
-    "historical": {
-      "start": 1775205801,
-      "end": 1775206074,
-      "duration_s": 273
-    },
-    "format": {
-      "start": 1775206077,
-      "end": 1775206166,
-      "duration_s": 89
-    },
-    "write_commit": {
-      "start": 1775206175,
-      "end": 0,
-      "duration_s": 0
-    }
+    "setup": {"start": 1775209213, "end": 1775209252, "duration_s": 39},
+    "gather": {"start": 1775209277, "end": 1775209417, "duration_s": 140},
+    "synthesize": {"start": 1775209608, "end": 1775209766, "duration_s": 158},
+    "historical": {"start": 1775209775, "end": 1775209924, "duration_s": 149},
+    "format": {"start": 1775209930, "end": 1775210119, "duration_s": 189},
+    "write_commit": {"start": 1775210127, "end": 1775210140, "duration_s": 13}
   },
-  "total_duration_s": 853,
+  "total_duration_s": 688,
   "token_estimate": {
-    "input_tokens": 319673,
-    "output_tokens": 43881,
-    "estimated_cost_usd": 1.18
+    "input_tokens": 311000,
+    "output_tokens": 43000,
+    "estimated_cost_usd": 1.16
   }
 }

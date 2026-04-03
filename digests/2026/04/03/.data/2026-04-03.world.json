@@ -1,6 +1,6 @@
 {
   "layer": "world",
-  "fetched_at": "2026-04-03T08:45:00Z",
+  "fetched_at": "2026-04-03T09:45:00Z",
   "source_status": {
     "reuters": "ok",
     "apnews": "ok",
@@ -10,59 +10,119 @@
   },
   "stories": [
     {
-      "headline": "US-Israel escalate strikes on Iran as Trump threatens broader infrastructure assault",
-      "summary": "The United States and Israel have intensified military operations against Iran, marking day 35 of sustained attacks. President Trump has escalated rhetoric, threatening to strike Iran's bridges and electric power plants, signaling a broader campaign beyond military targets. The US has already destroyed Iran's largest bridge in Karaj and hit a century-old medical research centre near Tehran. Kuwait reported drone attacks on its Mina al-Ahmadi refinery causing fires, though with no reported injuries. Iran has vowed retaliation and launched attacks across the region, with former Foreign Minister Zarif calling for Tehran to declare victory and negotiate. The escalation has triggered a broader regional energy crisis, with Bangladesh cutting working hours to conserve energy and Pakistan facing LNG shortages. NATO allies have expressed concern over Trump's approach, with the conflict creating fresh tensions within the alliance. The broader impacts include surging oil prices, regional instability, and humanitarian concerns as infrastructure damage disrupts civilian services.",
+      "headline": "US-Iran war reshapes global economy as oil prices surge and markets roil",
+      "summary": "The escalating conflict between the United States and Iran has triggered global economic turbulence, with crude oil prices soaring above $110 per barrel and stock markets experiencing significant volatility. The war's impacts extend far beyond the Middle East, affecting energy supplies, supply chains, and inflation concerns worldwide. The Trump administration faces mounting pressure as evacuations of US military personnel from Middle Eastern bases underscore the conflict's severity and the risks to American forces in the region. European officials, including French President Emmanuel Macron, have criticized Trump's handling of the war, questioning the coherence and consistency of US strategy. Markets have shown resilience in recovering from early losses despite ongoing tensions, but analysts warn of continued economic headwinds as the conflict persists. Energy-dependent economies are particularly vulnerable, with concerns about sustained disruptions to oil production and transportation through critical chokepoints like the Strait of Hormuz. The conflict has forced governments worldwide to reconsider energy security strategies and economic planning. Geopolitical tensions remain high as various nations grapple with the fallout from the expanded conflict. The economic implications suggest a prolonged period of elevated energy costs and market uncertainty for the global economy.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXVrRmQ3bUVMNklRcE5LVmRobndfaktMVWh5bFRVN1M0YVYweUVtWEtZUmpjQjcybTFqNzdtSVpLZWxmelh3U2pqdTdzODR5UDMwWDFmQ1N0SDRSMi02ZUpGeUppbkN4TW5Ha1VMYmxMeThMSV9PUXFtUDNBdGlncFU0ekx6N3BZUjBvLVlrNjFpQmFQYTczS083NnZ5Tklfdlg3WXlIMnFzbU5ZaGRTWS1qaWlWZHdMWDhGSGo5ek02RVFQU0dLUDE4LTVZSExrM21jYzlUY1E",
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "Reuters"
+        },
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "AP News"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
-          "author": null
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "author": "Steve Walsh"
         }
       ],
-      "tags": ["conflict", "geopolitics", "energy"],
+      "tags": ["conflict", "economy", "geopolitics"],
       "significance": "high"
     },
     {
-      "headline": "Myanmar junta chief Min Aung Hlaing elected president in parliamentary vote",
-      "summary": "General Min Aung Hlaing, the military coup leader who has orchestrated a brutal civil war in Myanmar, has been formally elected president by the country's pro-military parliament. He secured 429 out of 584 votes cast by MPs in the election, cementing military control over the nation's political system. Min Aung Hlaing's election follows his 2021 coup that overthrew the democratically elected government of Aung San Suu Kyi. Since taking power, his junta has overseen widespread violence, displacement, and humanitarian crises as opposition forces and ethnic armed organizations have fought back. The parliamentary election itself was widely criticized by international observers as lacking legitimacy and representing a consolidation of military power rather than genuine democratic process. The move signals the junta's intention to institutionalize military rule through formal political structures. International observers and human rights organizations have condemned the development, viewing it as further entrenchment of authoritarian control in a country experiencing ongoing conflict.",
+      "headline": "Myanmar junta chief Min Aung Hlaing becomes president in parliamentary vote",
+      "summary": "Myanmar's military coup leader General Min Aung Hlaing has been formally elected as the country's president by the newly-elected parliament, cementing the junta's political control following the 2021 coup. This development represents a significant consolidation of military power in Myanmar and underscores the brutal civil war that has devastated the nation since the coup. Min Aung Hlaing's election demonstrates the junta's ability to maintain institutional control despite widespread international criticism and domestic resistance. The military council has structured Myanmar's political system to ensure the armed forces retain considerable power under any civilian facade. This presidency comes amid ongoing violence and humanitarian crisis as various armed resistance groups continue fighting against junta forces across the country. The international community has largely condemned the junta's actions, but Min Aung Hlaing's formal assumption of the presidency represents the military establishment's defiant assertion of its authority. Myanmar's neighbors and major powers have expressed concern about the country's trajectory and the humanitarian toll of the conflict. The move signals continuity in the junta's governance model despite international pressure for democratic transition. Global observers view this development as further entrenchment of military rule in Southeast Asia.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
       "authors": [],
       "sources": [
         {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+          "author": "Reuters"
+        },
+        {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "geopolitics", "governance"],
+      "significance": "high"
+    },
+    {
+      "headline": "NASA's Artemis II mission departs Earth orbit on historic path to the Moon",
+      "summary": "NASA's Artemis II spacecraft has successfully left Earth's orbit and is now on a trajectory toward the Moon, marking a major milestone in the mission to return humans to lunar exploration for the first time since 1972. The spacecraft carries a crew of four astronauts who are performing final tests and critical checks during their journey around the Moon before returning to Earth. This mission represents a crucial stepping stone in NASA's broader Artemis program, which aims to establish sustainable lunar exploration and eventually enable human missions to Mars. The spacecraft's successful trans-lunar injection represents a significant technical achievement after years of delays and technical challenges that previously prevented launches. The mission demonstrates the readiness of modern spacecraft systems and crew preparations for deep space missions beyond Earth's immediate vicinity. International space programs are watching this mission closely as it validates human spaceflight capabilities for extended lunar operations. The crew's conduct during this orbital phase will provide valuable data for future lunar landing missions planned for 2028. This achievement represents renewed American commitment to space exploration and lunar science. The mission has captured global attention as a symbol of human technological progress and scientific ambition.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
+      "authors": ["Nell Greenfieldboyce"],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOmVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw",
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "author": "Nell Greenfieldboyce"
+        }
+      ],
+      "tags": ["technology", "space exploration", "diplomacy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Iran's critical infrastructure damaged as strikes target steel plants and oil facilities",
+      "summary": "Iran's two largest steel plants have been forced to shut down following targeted military strikes that Iran attributes to Israel working in coordination with the United States. The strikes represent a significant blow to Iran's industrial capacity and economic stability amid the ongoing conflict with Western and Israeli forces. Similar strikes have damaged Kuwait's desalination plants and oil refineries, along with data centers operated by Amazon Web Services and Oracle in the UAE, highlighting the geographical spread of military operations. Iranian citizens describe mounting desperation following a month of sustained conflict, with expanding strike campaigns causing economic pain, power disruptions, and widespread fear of further military escalation and government repression. The closure of major industrial facilities threatens significant long-term damage to Iran's economy, supply chains, and international trade capacity. Despite the substantial military pressures, Iranian leadership appears resilient and the regime remains firmly in place, suggesting the conflict may persist for an extended period. The strikes demonstrate the vulnerability of critical infrastructure in the region to aerial bombardment and asymmetric warfare. International observers note that Iran's industrial shutdown could have global implications for steel markets and commodity prices. The humanitarian consequences of sustained strikes on civilian infrastructure continue to mount.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1741/live/01668510-2eaa-11f1-9ffd-4303eb833784.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
           "author": null
         }
       ],
-      "tags": ["governance", "conflict", "diplomacy"],
+      "tags": ["conflict", "economy", "humanitarian"],
       "significance": "high"
     },
     {
-      "headline": "Microsoft commits $10 billion to Japan for AI and cyber defence expansion",
-      "summary": "Microsoft has announced a substantial $10 billion investment in Japan focused on artificial intelligence development and cyber defence capabilities. The investment represents Microsoft's strategic commitment to strengthen technological infrastructure in Asia and position Japan as a hub for AI innovation. The timing comes as tech companies compete to establish dominance in AI technology globally. Japan has been actively seeking foreign technology investment to bolster its digital economy and maintain competitiveness in the rapidly evolving AI sector. The investment is expected to create jobs, develop new research facilities, and strengthen partnerships with Japanese enterprises and academic institutions. Microsoft's move signals confidence in Japan's market and regulatory environment despite broader geopolitical tensions in the region. The announcement also reflects international competition among tech giants to establish presence in key markets before AI technology becomes standardized globally.",
+      "headline": "Cuba announces mass prisoner pardon amid international pressure over US embargo",
+      "summary": "Cuba has announced plans to pardon more than 2,000 prisoners as part of wider diplomatic and domestic policy adjustments amid ongoing international pressure over the United States economic embargo and political detente efforts. The mass pardon comes as part of broader discussions about political prisoners, a long-standing demand from the United States and human rights organizations monitoring the situation on the island. The decision signals potential shifts in Cuban domestic and foreign policy as the country navigates complex relationships with the United States, particularly under the current Trump administration. The pardons could address international criticism regarding Cuba's treatment of political dissidents and prisoners of conscience, though implementation details remain unclear. This move reflects Cuba's ongoing efforts to manage diplomatic relations while maintaining internal stability and addressing pressure from multiple directions. The announcement suggests possible negotiations or informal discussions with US officials regarding prisoner releases and related matters. The broader context involves ongoing discussions about sanctions relief and normalization of relations between the two countries. Cuba's decision demonstrates the country's vulnerability to external pressure and the importance of managing international opinion. The pardon's scope and implementation will be closely watched by human rights organizations and international observers.",
       "image_url": null,
       "authors": [],
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "author": null
+        }
+      ],
+      "tags": ["diplomacy", "governance", "humanitarian"],
+      "significance": "medium"
+    },
+    {
+      "headline": "SpaceX valued at $1 trillion with announced plans for public stock listing",
+      "summary": "Elon Musk's SpaceX is set to become one of the most valuable companies in history with a planned initial public offering that could value the company at approximately $1 trillion. The public listing would represent one of the most significant technology IPOs to date and could potentially make Musk the world's first trillionaire if the company achieves its valuation targets. SpaceX's success reflects the growing commercial viability of space technology, launch services, and satellite communications, which have become critical infrastructure for global connectivity and scientific exploration. The company has demonstrated technological leadership through successful launches, satellite deployment, and ongoing missions that contribute to national space capabilities. A successful public listing would mark a major milestone in the commercialization of space and validate investment in private spaceflight ventures. The IPO would unlock shareholder value and potentially provide capital for further expansion of SpaceX's operations and technological development. Market observers view the planned listing as a significant event for the technology sector and investment markets more broadly. The valuation reflects confidence in the company's business model and future growth potential in space commerce and exploration. This development has implications for global space competition and the future trajectory of commercial spaceflight.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d45/live/714dfc10-2e9f-11f1-90b9-6ffcd881a7dc.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         }
       ],
@@ -70,83 +130,33 @@
       "significance": "medium"
     },
     {
-      "headline": "Pakistan-Afghanistan peace talks resume in China as Beijing seeks regional stability",
-      "summary": "Pakistan has confirmed a new round of peace negotiations with Afghanistan's Taliban government taking place in China, where Beijing is attempting to broker a ceasefire and reduce regional tensions. The talks represent ongoing diplomatic efforts to stabilize the region following Afghanistan's Taliban takeover in 2021 and subsequent cross-border tensions with Pakistan. China has positioned itself as a neutral mediator with economic interests in regional stability, particularly regarding trade routes and security concerns related to militant groups. The negotiations address long-standing disputes between Pakistan and Afghanistan, including border issues and cross-border militant operations. Pakistan's participation signals acknowledgment that dialogue is necessary despite previous military clashes and deep-rooted tensions. The talks occur amid broader regional instability including the US-Iran conflict and energy crises affecting multiple countries. Success of these negotiations could reduce regional tensions and allow for greater economic cooperation and development in South Asia.",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fef%2F408c450e48308dd8b3b0b703ab1a%2Fap26091088420099.jpg",
-      "authors": ["The Associated Press"],
-      "sources": [
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/04/03/g-s1-116299/pakistan-says-a-new-round-of-peace-talks-with-afghanistan-is-underway-in-china",
-          "author": "The Associated Press"
-        }
-      ],
-      "tags": ["diplomacy", "conflict", "geopolitics"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Artemis II mission approaches lunar orbit, marking first crewed journey beyond Earth since 1972",
-      "summary": "NASA's Artemis II mission is making its final approach to lunar orbit, representing humanity's first crewed journey beyond Earth's orbit in over 50 years. The spacecraft's trajectory brings it to the far side of the Moon, an achievement that had not been accomplished since the Apollo missions ended in 1972. The mission carries a crew of astronauts on a multi-week journey to establish infrastructure for future lunar exploration and eventual human settlement. Artemis II serves as a critical test of NASA's deep space exploration capabilities and the Artemis program's goal of returning humans to the Moon and establishing a sustainable presence there. The mission also demonstrates technological advances in spacecraft systems, life support, and navigation that represent significant progress from the Apollo era. The successful progress of Artemis II has been closely watched by space agencies worldwide, influencing international space exploration strategies and commercial space ventures. The mission is expected to provide crucial data for future missions and support long-term goals of lunar exploration and potential Mars missions.",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
+      "headline": "Magnitude 7.4 earthquake strikes off Indonesia, claims one life",
+      "summary": "A powerful magnitude 7.4 earthquake struck off the coast of Indonesia between the islands of Manado and Ternate, killing at least one person and triggering initial tsunami warnings that were subsequently lifted. The earthquake demonstrates the ongoing seismic vulnerability of the region, which sits along the Pacific Ring of Fire, one of the world's most earthquake-prone areas. Initial emergency responses were activated across the affected regions as authorities assessed damage and coordinated rescue operations. The lifting of tsunami warnings indicated that the seismic event, while powerful, did not generate significant tsunami risks for surrounding regions and coastlines. Indonesia experiences frequent seismic activity due to its location on multiple tectonic plate boundaries, making earthquake preparedness and response critical to public safety. The earthquake prompted officials to evaluate structural resilience and emergency management protocols across the region. This event underscores the importance of earthquake early warning systems and disaster preparedness in vulnerable coastal and island communities. The incident contributed to growing awareness of natural disaster risks in the Indo-Pacific region. International assistance networks stand ready to support Indonesia if major humanitarian needs emerge from the earthquake.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8970/live/91993720-2e43-11f1-b835-3f8c3a2eefdd.jpg",
       "authors": [],
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         }
       ],
-      "tags": ["technology", "space", "science"],
+      "tags": ["humanitarian", "climate", "geopolitics"],
       "significance": "medium"
     },
     {
-      "headline": "Energy crisis spreads across multiple regions as Iran conflict disrupts global supply",
-      "summary": "The escalating US-Iran conflict is triggering an unprecedented global energy crisis, with impacts rippling across multiple continents. Bangladesh has implemented emergency measures cutting working hours to conserve electricity as energy demand threatens to exceed supply. Pakistan faces a looming liquefied natural gas shortage as supplies that had previously been in surplus have collapsed due to regional conflict disruptions. European energy officials warn of a long-lasting energy shock requiring comprehensive preparation, with EU energy commissioners emphasizing the need for immediate policy responses. The crisis stems from disrupted oil and gas supplies, shipping delays through critical maritime chokepoints like the Strait of Hormuz, and refinery damage in the region. China's independent refineries are adapting by developing alternative sourcing strategies, though global energy markets remain volatile. The energy crisis threatens to exacerbate inflation, slow economic growth across multiple regions, and create humanitarian challenges in vulnerable nations dependent on imports. Governments are exploring emergency energy reserves, alternative energy sources, and diplomatic solutions to restore supply chains.",
-      "image_url": null,
+      "headline": "Burkina Faso military junta faces accusations of over 1,800 killings, human rights violations",
+      "summary": "Human Rights Watch has reported that over 1,800 people have been killed since the military junta seized power in Burkina Faso, raising serious concerns about widespread violence and systematic human rights abuses. The rights group indicates that military leaders, including Captain Traoré, and associated jihadist groups may be liable under international law for the documented killings. The findings suggest a pattern of violence that extends beyond conventional conflict casualties to include potential extrajudicial killings and targeted violence against civilians. Burkina Faso's security situation has deteriorated significantly since the coup, with competing military factions and jihadist groups fighting for control across the country. The humanitarian toll of the conflict has displaced thousands of people and created severe shortages of basic services and supplies. International attention to Burkina Faso's crisis has intensified as documented abuses accumulate and the internal security situation deteriorates further. The junta's continued grip on power despite international criticism suggests limited near-term prospects for political transition. Regional stability in West Africa remains fragile amid ongoing coups, military consolidations, and security challenges across multiple countries. The findings by Human Rights Watch add pressure on the international community to address accountability for documented abuses.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6df4/live/172c2bc0-2e78-11f1-8dc4-7bd9501845f2.jpg",
       "authors": [],
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTXVrRmQ3bUVMNklRcE5LVmRobndfaktMVWh5bFRVN1M0YVYweUVtWEtZUmpjQjcybTFqNzdtSVpLZWxmelh3U2pqdTdzODR5UDMwWDFmQ1N0SDRSMi02ZUpGeUppbkN4TW5Ha1VMYmxMeThMSV9PUXFtUDNBdGlncFU0ekx6N3BZUjBvLVlrNjFpQmFQYTczS083NnZ5Tklfdlg3WXlIMnFzbU5ZaGRTWS1qaWlWZHdMWDhGSGo5ek02RVFQU0dLUDE4LTVZSExrM21jYzlUY1E",
-          "author": null
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "author": null
         }
       ],
-      "tags": ["economy", "energy", "conflict"],
-      "significance": "high"
-    },
-    {
-      "headline": "Russia escalates aerial assault on Ukraine while Kremlin pushes new state-backed messaging platform",
-      "summary": "Russia is conducting rolling aerial attacks on Ukraine using multiple waves of strikes targeting various regions across the country. Ukrainian military officials report continuous pressure from Russian air forces as Moscow seeks to degrade Ukrainian defense capabilities and civilian infrastructure. Simultaneously, the Kremlin has launched an initiative to develop a state-backed messaging platform to replace private alternatives, facing resistance from some segments of Russian society concerned about state surveillance and censorship. The messaging platform initiative reflects broader Russian efforts to create an isolated digital environment independent of Western platforms and surveillance. Ukraine continues to mount resistance despite sustained Russian bombardment, with damage assessments showing impacts on civilian areas and military installations. International observers view Russia's aerial strategy as an attempt to wear down Ukrainian resolve and force political concessions. The conflict remains one of Europe's major security crises with broader implications for NATO strategy and Western security commitments. Both military and information warfare aspects of the conflict continue to evolve as Russia seeks advantages across multiple domains.",
-      "image_url": null,
-      "authors": [],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEROeEZKLTlzMTdRWlV3NVRZQVVycHFCaW1rRE1aSGlsaGdwLWstUWh5cDBqNlBxQ19ON1lZb0I3VzZhRHE5UjdncFlBSlJMSkNWU1J4cW93VnIwMDdaWjlHRlZUSFRqRzNrUjFBWWhvc3AtRy05Szd5TnNnUC1YajIyak9KZXJpTlVJTTZ4ZzNKQjFRbGRuSGk3bjVFZ0QzUFB5d1pva2hqZGhoVG5FRDktRjQxUEpWbUJWNA",
-          "author": null
-        }
-      ],
-      "tags": ["conflict", "defence", "geopolitics"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Cuba releases 2,010 prisoners as US pressures government on humanitarian issues",
-      "summary": "The Cuban government has announced the release of 2,010 prisoners, characterizing the action as a humanitarian gesture connected to Holy Week celebrations. The prisoner releases come amid increasing US pressure on the Cuban government regarding human rights and humanitarian concerns. Cuban officials have framed the releases as a demonstration of clemency and goodwill during the religious period. The move occurs as diplomatic tensions between Cuba and the United States remain elevated following renewed US immigration and economic policies toward the island nation. International observers view the releases as potentially significant for improving human rights conditions in Cuban detention facilities, which have faced criticism from international organizations. The timing of the announcement suggests coordination with broader political messaging by the Cuban government. The releases represent one of the largest prisoner releases in recent years and may signal shifting priorities within the Cuban system regarding detention policy. The humanitarian significance of the releases extends to family reunification and reducing overcrowding in Cuban prisons.",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7989x5326+0+0/resize/7989x5326!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F20%2Fe5472e3642d8add7551098878c7b%2Fap26091673998047.jpg",
-      "authors": ["The Associated Press"],
-      "sources": [
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/04/03/g-s1-116297/cuba-releasing-2-010-prisoners-as-the-us-pressures-the-islands-government",
-          "author": "The Associated Press"
-        }
-      ],
-      "tags": ["humanitarian", "diplomacy", "governance"],
+      "tags": ["conflict", "humanitarian", "governance"],
       "significance": "medium"
     }
   ]
