@@ -41,6 +41,24 @@
       "historical_event": "Korean War Stalemate",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine aerial terror campaign",
+      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II"
+    },
+    {
+      "story_topic": "Myanmar military authoritarian consolidation",
+      "historical_event": "1962 Burmese Coup d'état and Ne Win's Military Rule",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1962_Burmese_coup_d%27%C3%A9tat"
+    },
+    {
+      "story_topic": "Gulf infrastructure attacks",
+      "historical_event": "Kuwaiti Oil Fires (1991)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires"
     }
   ]
 }

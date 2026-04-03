@@ -2,17 +2,48 @@
   "date": "2026-04-03",
   "update_type": "morning",
   "steps": {
-    "setup": {"start": 1775209213, "end": 1775209252, "duration_s": 39},
-    "gather": {"start": 1775209277, "end": 1775209417, "duration_s": 140},
-    "synthesize": {"start": 1775209608, "end": 1775209766, "duration_s": 158},
-    "historical": {"start": 1775209775, "end": 1775209924, "duration_s": 149},
-    "format": {"start": 1775209930, "end": 1775210119, "duration_s": 189},
-    "write_commit": {"start": 1775210127, "end": 1775210140, "duration_s": 13}
+    "setup": {"start": 1775211090, "end": 1775211158, "duration_s": 68},
+    "gather": {"start": 1775211166, "end": 1775211309, "duration_s": 143},
+    "synthesize": {"start": 1775211309, "end": 1775211391, "duration_s": 82},
+    "historical": {"start": 1775211391, "end": 1775211553, "duration_s": 162},
+    "format": {"start": 1775211553, "end": 1775211743, "duration_s": 190},
+    "write_commit": {"start": 1775211743, "end": 1775211760, "duration_s": 17}
   },
-  "total_duration_s": 688,
+  "total_duration_s": 670,
   "token_estimate": {
-    "input_tokens": 311000,
-    "output_tokens": 43000,
-    "estimated_cost_usd": 1.16
+    "gather_haiku": {
+      "input_tokens": 225000,
+      "output_tokens": 12000,
+      "note": "3 agents × ~75K input (RSS feeds + instructions) + ~4K output each"
+    },
+    "synthesizer_haiku": {
+      "input_tokens": 14000,
+      "output_tokens": 14500,
+      "note": "layers.json (49K chars / 4) + AGENT.md"
+    },
+    "historical_sonnet": {
+      "input_tokens": 46000,
+      "output_tokens": 2000,
+      "note": "synthesis top_stories + AGENT.md + ~3 Wikipedia pages (~120KB)"
+    },
+    "formatter_haiku": {
+      "input_tokens": 18000,
+      "output_tokens": 13000,
+      "note": "synthesis + historical + AGENT.md → digest markdown"
+    },
+    "orchestrator_sonnet": {
+      "input_tokens": 20000,
+      "output_tokens": 5000,
+      "note": "Parent session overhead"
+    },
+    "total_input_tokens": 323000,
+    "total_output_tokens": 46500,
+    "estimated_cost_usd": 0.45,
+    "cost_breakdown": {
+      "haiku_input": "$0.21 (257K × $0.80/M)",
+      "haiku_output": "$0.16 (39.5K × $4.00/M)",
+      "sonnet_input": "$0.20 (66K × $3.00/M)",
+      "sonnet_output": "$0.07 (7K × $10.00/M)"
+    }
   }
 }

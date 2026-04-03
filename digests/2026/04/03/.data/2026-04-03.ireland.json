@@ -1,6 +1,6 @@
 {
   "layer": "ireland",
-  "fetched_at": "2026-04-03T10:30:00Z",
+  "fetched_at": "2026-04-03T11:15:00Z",
   "source_status": {
     "rte": "ok",
     "thejournal": "ok",
@@ -10,33 +10,8 @@
   },
   "stories": [
     {
-      "headline": "Storm Dave brings Status Yellow wind warning to entire Ireland this weekend",
-      "summary": "Storm Dave will bring severe weather to Ireland starting Friday afternoon, with Met Éireann issuing a Status Yellow wind warning for the entire country from 2pm Saturday until 11pm. Road users have been advised to take extra care on the roads as strong southerly winds, veering westerly, will bring severe or damaging gusts across all regions. The warning represents a significant weather event affecting transport, agriculture, and outdoor activities nationwide. Travel disruptions are expected across road and rail networks during the weekend Easter period. Weather forecasts indicate the system will bring challenging conditions that may impact public services and emergency response activities. The storm is the first of several expected weather systems to affect Ireland in the coming days. Motorists and travelers are urged to monitor updates and adjust plans accordingly. Weather warnings of this scale typically result in widespread disruption across multiple counties.",
-      "image_url": "https://www.rte.ie/images/00242874-800.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "RTÉ News",
-          "url": "https://www.rte.ie/news/ireland/2026/0402/1566449-storm-dave-ireland/",
-          "author": null
-        },
-        {
-          "name": "The Journal.ie",
-          "url": "https://www.thejournal.ie/wind-warning-storm-dave-country-7001760-Apr2026/",
-          "author": null
-        },
-        {
-          "name": "Irish Times",
-          "url": "https://www.irishtimes.com/ireland/2026/04/02/met-eireann-set-to-issue-weather-warnings-ahead-of-stormy-easter-weekend/",
-          "author": "Glen Murphy, Ronan McGreevy"
-        }
-      ],
-      "tags": ["weather", "transport", "safety"],
-      "significance": "high"
-    },
-    {
-      "headline": "Grace's Law banning scramblers from public places comes into force on April 3",
-      "summary": "Grace's Law, which bans the use of scramblers and all-terrain vehicles in public places, came into force on Friday, April 3, 2026. The legislation, named after Grace Lynch who was killed by a scrambler in Dublin in 2022, represents a major victory for road safety advocates and victim's families. The law makes it illegal for anyone to operate scramblers on roads, footpaths, parks, and other public spaces throughout Ireland. Grace Lynch's mother has called upon Justice Minister Helen McEntee to ensure gardaí have adequate resources to enforce the new regulations effectively. Law enforcement officials have stated they should not fear prosecution for implementing the new rules. The ban is expected to significantly reduce injuries and deaths from uncontrolled scrambler use in urban and suburban areas. Gardaí have begun enforcement operations immediately upon the law's implementation. The legislation follows years of community campaigning by victim's families and safety organizations seeking protection from reckless vehicle use.",
+      "headline": "Ban on scramblers in public places takes effect with Grace's Law",
+      "summary": "Grace's Law, prohibiting the use of scrambler motorbikes in all public spaces, came into force on April 3, 2026. The legislation represents a significant step in tackling anti-social behaviour linked to scrambler use across Ireland, which has been a persistent public safety concern in urban and rural areas. The law was named after Grace O'Malley, a young victim impacted by scrambler-related incidents. Authorities have emphasized enforcement will focus on protecting communities from the dangers posed by unregistered and uninsured scrambler riders. The ban applies to roads, parks, and other public places where scramblers have previously caused disruption and safety hazards. Community groups and local authorities have welcomed the legislation as essential for improving public safety and reducing nuisance behaviour. The implementation of Grace's Law marks a major victory for advocacy groups that campaigned for the ban. Police and local enforcement agencies are expected to ramp up patrols and prosecutions. This legislation is expected to significantly improve quality of life in communities previously affected by scrambler activity.",
       "image_url": "https://www.rte.ie/images/0023cd78-800.jpg",
       "authors": [],
       "sources": [
@@ -44,44 +19,14 @@
           "name": "RTÉ News",
           "url": "https://www.rte.ie/news/2026/0403/1566541-grace-law-scramblers/",
           "author": null
-        },
-        {
-          "name": "Irish Times",
-          "url": "https://www.irishtimes.com/ireland/2026/04/02/age-restriction-on-scramblers-more-effective-than-ban-says-grace-lynchs-mother/",
-          "author": "Andrew Hamilton, Vivienne Clarke"
         }
       ],
-      "tags": ["policy", "safety", "crime"],
+      "tags": ["politics", "crime", "transport"],
       "significance": "high"
     },
     {
-      "headline": "Man arrested in connection with 2020 Belfast murder of gangland criminal Robbie Lawlor",
-      "summary": "Gardaí have arrested a 47-year-old man in connection with the 2020 murder of Robbie Lawlor, a Belfast-based gangland criminal shot dead outside a house in north Belfast on April 4, 2020. The arrest was made on foot of an extradition warrant as authorities pursue charges in Northern Ireland. The case represents a significant development in cross-border crime investigation efforts between Irish and Northern Irish law enforcement. Lawlor's murder was a high-profile gangland killing that sparked widespread concern about organized crime violence in Belfast. The arrest comes after several years of investigation into the circumstances surrounding his death. The individual arrested is in his 40s and faces charges related to the incident. This arrest demonstrates ongoing cooperation between An Garda Síochána and the Police Service of Northern Ireland (PSNI) in pursuing cross-border criminal cases. The case highlights the continued impact of gangland violence in Northern Ireland communities.",
-      "image_url": "https://www.rte.ie/images/00140fbd-800.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "RTÉ News",
-          "url": "https://www.rte.ie/news/ireland/2026/0402/1566526-arrest-extradition-lawlor/",
-          "author": null
-        },
-        {
-          "name": "Irish Times",
-          "url": "https://www.irishtimes.com/crime-law/2026/04/02/man-arrested-in-connection-with-murder-of-robbie-lawlor-in-belfast/",
-          "author": "Glen Murphy"
-        },
-        {
-          "name": "The Journal.ie",
-          "url": "https://www.thejournal.ie/man-arrested-in-connection-to-2020-murder-of-robbie-lawlor-7002649-Apr2026/",
-          "author": null
-        }
-      ],
-      "tags": ["crime", "justice", "cross-border"],
-      "significance": "high"
-    },
-    {
-      "headline": "Defence Minister Helen McEntee cancels Lebanon trip following security advice from Defence Forces",
-      "summary": "Ireland's Defence Minister Helen McEntee has abandoned her planned trip to Lebanon following security advice from Defence Force personnel. The cancellation reflects ongoing concerns about the security situation in southern Lebanon, where Irish peacekeepers serving with the United Nations Interim Force in Lebanon (UNIFIL) are operating amid intense conflict. The decision prioritizes ministerial safety and comes as the security environment in southern Lebanon remains volatile following sustained military operations. Irish peacekeepers in Lebanon have endured weeks of bombings and fighting in the region. Lieutenant General Rossa Mulcahy, Chief of Staff of the Defence Forces, has stated that the mission for the peacekeepers remains unchanged for now despite the deteriorating security situation. The cancellation underscores the risks faced by Irish military personnel deployed in the region. Minister McEntee's visit was intended to demonstrate support for Irish troops stationed there, but security assessments made clear the risks were unacceptable. This decision highlights the challenging conditions facing Irish Defence Forces abroad and the government's commitment to personnel safety.",
+      "headline": "Defence Minister McEntee cancels Lebanon visit following security advisory",
+      "summary": "Justice and Defence Minister Helen McEntee has cancelled her planned visit to Lebanon on the advice of Ireland's Defence Forces, citing security concerns in the region. The decision comes amid escalating tensions in the Middle East, with ongoing Israeli military operations in southern Lebanon creating significant safety risks. The Defence Forces provided a formal security assessment recommending the minister postpone her travel. McEntee's planned engagement in Lebanon was intended to assess humanitarian needs and Irish Defence Forces deployment coordination in the region. This cancellation reflects the serious deterioration of security conditions in Lebanon and underscores the Irish government's commitment to protecting government officials from unnecessary risk. The move demonstrates how regional instability directly impacts Irish diplomatic and defence operations. The Defence Minister is expected to reschedule her visit once conditions improve and security threats diminish. This decision aligns with international guidance from multiple governments reassessing their Middle East presence. The cancellation highlights Ireland's continued concern for stability in the region and its support for Lebanese civilian populations affected by conflict.",
       "image_url": "https://www.rte.ie/images/0023da78-800.jpg",
       "authors": [],
       "sources": [
@@ -89,68 +34,44 @@
           "name": "RTÉ News",
           "url": "https://www.rte.ie/news/middle-east/2026/0403/1566573-helen-mcentee-lebanon/",
           "author": null
-        },
-        {
-          "name": "Irish Examiner",
-          "url": "https://www.irishexaminer.com/news/politics/arid-41821475.html",
-          "author": null
         }
       ],
-      "tags": ["defence", "politics", "safety"],
+      "tags": ["politics", "defence", "diplomacy"],
       "significance": "high"
     },
     {
-      "headline": "MetroLink chief Sean Sweeney resigns amid project cost pressures and government submission",
-      "summary": "Sean Sweeney, the chief executive of MetroLink Dublin, has announced his shock resignation from the €20+ billion transport infrastructure project. The New Zealand-born executive departs as cost projections for the multibillion-euro MetroLink project approach government submission for approval. Sweeney had held the position for less than two years, earning €550,000 annually in the role. His departure could potentially spook the construction market and raise questions about the project's viability and timeline. The timing of the resignation is significant as the project enters crucial phases requiring government funding decisions. MetroLink represents Dublin's most ambitious public transport initiative in decades, intended to connect the airport to the city center and broader metropolitan area. The project has faced persistent delays and cost escalations since its inception. Industry observers suggest the sudden departure may signal internal concerns about project challenges or cost trajectories. Sweeney's exit could lead to leadership instability during a critical planning phase. The resignation adds uncertainty to a project already facing scrutiny over its financial feasibility.",
+      "headline": "MetroLink chief's shock resignation raises concerns ahead of major cost update",
+      "summary": "Sean Sweeney, the chief executive of the MetroLink project, has announced his surprise resignation just as the project approaches submission of significant cost updates. Sweeney, a New Zealand executive, had been leading the multibillion-euro Dublin rapid transit infrastructure project. His sudden departure is expected to create uncertainty in the construction market and among investors. The timing of the resignation is particularly sensitive, coming before crucial financial updates for one of Ireland's largest infrastructure projects. Construction industry observers worry the leadership change could complicate future negotiations and project delivery timelines. The MetroLink project, intended to revolutionize Dublin's public transportation network, has faced substantial challenges and escalating costs throughout its development. Sweeney's departure may signal concerns about project viability or budget pressures. The Irish government and project stakeholders are now seeking a replacement chief executive. This leadership vacuum comes at a critical juncture when market confidence in the project's delivery is essential. The resignation highlights ongoing challenges facing major Irish infrastructure initiatives and their ability to attract stable leadership.",
       "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
-      "authors": [
-        "Olivia Kelly"
-      ],
+      "authors": [],
       "sources": [
         {
           "name": "Irish Times",
           "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/",
-          "author": "Olivia Kelly"
+          "author": null
         }
       ],
       "tags": ["transport", "economy", "politics"],
       "significance": "high"
     },
     {
-      "headline": "Government proceeds with Valerie's Law to strip convicted killers of parental rights despite Tusla concerns",
-      "summary": "The Irish government has declared its intention to proceed with Valerie's Law, legislation designed to strip convicted killers of parental rights, despite objections from Tusla, the Child and Family Agency. The Department of Justice has stated the legislation 'is constitutional in all respects,' dismissing concerns raised by Ireland's child protection authority. Valerie's Law, named after Valerie Dunne, aims to protect children from being raised by parents convicted of murder or serious violence. The legislation represents a significant development in Irish child protection policy and criminal justice reform. Tusla raised concerns about the practical implementation and constitutional implications of the proposed law. The government's decision to proceed signals its commitment to the measure despite bureaucratic objections. The law responds to public pressure and advocacy groups concerned with child safety in cases where convicted murderers might otherwise retain parental custody rights. Legal experts have debated whether the measure might face constitutional challenges. Implementation of the law would require coordination between justice and child protection agencies. The measure is expected to pass through the legislative process in the coming weeks.",
+      "headline": "Government moves forward with Valerie's Law despite child protection agency concerns",
+      "summary": "The Irish government is proceeding with Valerie's Law, legislation designed to strip convicted killers of parental rights, despite formal concerns raised by Tusla, the child and family agency. The Department of Justice has determined the proposed law is constitutional and justified despite objections from the child protection authority. Valerie's Law represents a significant shift in family law policy, aiming to protect children by preventing convicted murderers from exercising parental custody or guardianship rights. The legislation was named in memory of victims of serious crimes and addresses gaps in current protections for vulnerable children. Tusla's concerns focused on implementation challenges and potential constitutional issues, but the Justice Department has satisfied itself that the law can be properly enacted. Child welfare advocates have expressed mixed views, with some supporting the intent while others worry about unintended consequences. The government's decision to proceed signals its commitment to strengthening child protection even as it navigates agency objections. Parliamentary debate on the legislation is expected soon. This development represents an evolution in how Ireland approaches the rights of convicted murderers and child safety. The law's passage would place Ireland among countries with explicit legal mechanisms to strip parental rights from those convicted of the most serious crimes.",
       "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
-      "authors": [
-        "Ellen Coyne"
-      ],
+      "authors": [],
       "sources": [
         {
           "name": "Irish Times",
           "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
-          "author": "Ellen Coyne"
-        }
-      ],
-      "tags": ["policy", "crime", "social"],
-      "significance": "medium"
-    },
-    {
-      "headline": "University of Limerick student living in van due to prohibitive rental costs in housing crisis",
-      "summary": "A University of Limerick student has chosen to live in a converted van rather than pay what he considers prohibitively expensive rental rates in the Limerick area. The student's decision highlights the acute housing crisis affecting Irish students and young adults, particularly in regional university towns. Rising rental costs in university cities have made conventional accommodation increasingly unaffordable for many students, forcing creative and unconventional housing solutions. The case exemplifies broader housing affordability challenges across Ireland that have been intensifying for years. Student accommodation costs have outpaced wage growth and student financial support, creating genuine hardship for many tertiary students. The situation reflects systemic issues in Ireland's housing market and rental sector regulation. Local student unions have raised concerns about the impact of housing costs on student wellbeing and academic performance. This story has resonated widely on social media, bringing attention to the housing crisis affecting younger generations. Government and institutional responses to student housing shortages remain inadequate according to housing advocates. The case underscores the need for policy interventions to address Ireland's fundamental housing supply and affordability challenges.",
-      "image_url": "https://www.rte.ie/images/0024289e-800.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "RTÉ News",
-          "url": "https://www.rte.ie/news/munster/2026/0403/1566484-ul-student-van-accommodation/",
           "author": null
         }
       ],
-      "tags": ["housing", "social", "economy"],
-      "significance": "medium"
+      "tags": ["politics", "crime", "social"],
+      "significance": "high"
     },
     {
-      "headline": "CAB given major new powers to seize cryptocurrency assets in organized crime crackdown",
-      "summary": "The Irish government plans to grant the Criminal Assets Bureau (CAB) major new powers to seize cryptocurrency and digital assets as part of an enhanced effort to combat organized crime. Justice Minister Jim O'Callaghan is introducing legislation that would allow for payment-freezing measures and new access orders to compel credential disclosure for digital wallets and cryptocurrency holdings. The expansion of CAB powers represents a significant modernization of Ireland's asset forfeiture regime to address emerging crime financing methods. Organized crime networks have increasingly turned to cryptocurrency and digital assets to hide proceeds from illegal activities. The new powers would enable CAB to trace and seize assets held in digital form, closing gaps in current legislation. The measure reflects government recognition that traditional cash-based asset seizure is insufficient against sophisticated criminal networks. Implementation of cryptocurrency seizure powers will require coordination with technology experts and international law enforcement bodies. The legislation is expected to be expedited through parliament given the acknowledged threat of organized crime. CAB director John Dwyer has indicated strong support for the expanded powers. The move positions Ireland as a leader in using modern asset seizure tools against organized crime networks.",
+      "headline": "Minister plans expanded powers for CAB to seize cryptocurrency and digital assets",
+      "summary": "Justice Minister Jim O'Callaghan has announced plans for major expansion of the Criminal Assets Bureau's (CAB) powers to combat criminal use of cryptocurrency and digital assets. The new powers will enable CAB to freeze payments and issue disclosure orders compelling suspects to reveal access credentials to digital wallets and accounts. This represents a significant modernisation of Ireland's asset-forfeiture capabilities in response to criminal organisations increasingly moving illicit proceeds into cryptocurrency. CAB currently operates within constraints designed before the digital asset era, limiting effectiveness against sophisticated financial crime schemes. The expanded powers align Ireland with international best practices in tackling money laundering and organised crime financing. Justice officials have emphasised the legislation is targeted at dismantling organised crime networks' financial capabilities. The new measures will enable better tracking and recovery of proceeds from drug trafficking, extortion, and other serious crimes. O'Callaghan's announcement signals government commitment to staying ahead of evolving criminal techniques. The proposals are expected to face parliamentary review before enactment. Implementation will require updated training for CAB personnel and enhanced collaboration with financial institutions and cryptocurrency exchanges. This development positions Ireland more competitively in international efforts to curtail criminal financial networks.",
       "image_url": "https://c2.thejournal.ie/media/2026/04/justice-minister-jim-ocallaghan-speaking-to-the-media-during-a-post-cabinet-briefing-at-government-buildings-dublin-picture-date-wednesday-february-4-2026-f6b4927e-c947-4840-aa02-6794a4c0f100-630x439.jpg",
       "authors": [],
       "sources": [
@@ -160,7 +81,57 @@
           "author": null
         }
       ],
-      "tags": ["crime", "politics", "economy"],
+      "tags": ["politics", "crime", "economy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Storm Dave brings nationwide Status Yellow wind warning as Easter weekend approaches",
+      "summary": "Met Éireann has issued a nationwide Status Yellow wind warning as Storm Dave approaches Ireland over the Easter weekend. The weather alert was brought forward to 1 pm on Saturday, April 4, rather than the originally scheduled 2 pm start time, indicating intensified forecasting confidence about the storm's arrival. Motorists and the general public have been advised to exercise caution as strong winds are expected to impact road conditions and safety. Storm Dave is forecast to bring significant gusts across all counties, with particular risk to tall vehicles, cyclists, and those on exposed routes. The Met Éireann adjustment signals upgraded concern about the storm's potential impact on Easter weekend travel plans and outdoor activities. Emergency services have been placed on alert for potential incidents related to high winds, including downed trees and power line damage. The early warning gives commuters and travellers extra time to prepare and adjust plans accordingly. Transport operators, including Irish Rail and bus services, are reviewing contingencies for potential service disruptions. Coastal areas are expected to see particularly severe conditions. The public is urged to secure outdoor items and avoid unnecessary travel during peak wind periods. This storm demonstrates the importance of weather preparedness during holiday periods when more people are travelling.",
+      "image_url": "https://c2.thejournal.ie/media/2026/04/poolbeg-lighthouse-1_90742233-977549bf-b34b-42a2-aed4-20908f784d74-630x406.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0403/1566577-storm-dave-ireland/",
+          "author": null
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/met-eireann-brings-wind-warning-forward-as-storm-dave-sets-in-over-easter-bank-holiday-7002924-Apr2026/",
+          "author": null
+        }
+      ],
+      "tags": ["weather", "transport", "safety"],
+      "significance": "high"
+    },
+    {
+      "headline": "Gardaí submit supplementary file in Creeslough explosion investigation to DPP",
+      "summary": "Gardaí investigating the tragic Creeslough explosion of 2022, which claimed ten lives, have submitted a supplementary file to the Director of Public Prosecutions (DPP) as the investigation concludes. The submission marks a critical milestone in the lengthy inquiry into the gas explosion that devastated the Donegal community. The DPP will now review the evidence and determine whether criminal charges should be filed against any individuals or entities involved. The Creeslough tragedy occurred on October 7, 2022, when an explosion at a petrol station and shop killed ten people and injured many others. The extended investigation has involved detailed examination of the cause, contributing factors, and any potential criminal liability. The family members of victims have awaited this decision with both anticipation and concern about potential accountability. The investigation examined gas infrastructure, maintenance records, safety protocols, and regulatory compliance at the facility. The supplementary file indicates investigators may have uncovered new evidence or clarifications since the initial submission. The DPP's decision is expected to determine whether the case proceeds to prosecution or closes without charges. This development represents potential progress toward closure for the Creeslough community nearly four years after the devastating incident. The case has raised broader questions about safety regulations in the fuel retail sector.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/MPD37BZS2OW5UFU6FUIPECY4OU.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/03/gardai-investigating-creeslough-explosion-submit-supplementary-file-to-dpp/",
+          "author": null
+        }
+      ],
+      "tags": ["crime", "social", "politics"],
+      "significance": "high"
+    },
+    {
+      "headline": "Irish Air Corps completes rapid mission to Beirut with humanitarian cargo",
+      "summary": "Ireland's Air Corps completed its first-ever flight into Beirut on March 31, spending only 30 minutes on the tarmac before departing with the €70 million Airbus C295 transport aircraft. The mission involved careful route selection and threat assessment by pilot Captain Lauren Cusack, demonstrating the Defence Forces' capacity to operate in contested and dangerous environments. The brief turnaround time at Beirut's airport reflected both operational efficiency and the security challenges present in the Lebanese capital amid ongoing Israeli military operations. The Air Corps flight represents Ireland's commitment to supporting humanitarian needs and Irish citizens in the region while managing significant security risks. Captain Cusack described the mission planning as comparable to a rapid commercial operation, with meticulous preparation to minimise exposure to potential threats. The Airbus C295 is Ireland's largest military transport aircraft and carries sensitive electronic systems requiring careful protection during high-risk operations. The flight demonstrates Ireland's Defence Forces' growing international capacity and willingness to operate beyond traditional boundaries. The mission included detailed briefings on route hazards, potential threats, and emergency procedures. The successful completion has positioned the Air Corps to conduct further humanitarian and evacuation flights if required. This operation showcases Ireland's ability to project capabilities even in complex security environments and reflects the Defence Forces' professionalism. The flight may set a precedent for future Irish military operations in unstable regions requiring rapid, secure operations.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/X4JELKIADNGR5DYMUBJHJPUSOA.JPG",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/a-ryanair-turnover-first-air-corps-flight-into-beirut-spent-only-30-minutes-on-tarmac/",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "diplomacy", "politics"],
       "significance": "medium"
     }
   ]
