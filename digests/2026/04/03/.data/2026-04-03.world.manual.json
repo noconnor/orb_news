@@ -1,0 +1,108 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-03T14:05:29Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran and US escalate military confrontation as Trump threatens infrastructure strikes",
+      "summary": "Iran has struck multiple Gulf refineries with missiles and drones, while also claiming a bridge linking Tehran to Karaj was destroyed in overnight operations. President Trump has warned the US will attack Iranian bridges and power plants in response, escalating tensions in what has become an active military conflict. Over 100 US legal experts have condemned the strikes on Iran as possible war crimes, raising international legal concerns about the ongoing operations. The conflict has already impacted global oil markets and regional stability across the Middle East. Multiple countries in the Gulf region have been affected by Iranian military actions. The situation represents a significant geopolitical flashpoint with potential for broader regional destabilization. International humanitarian organizations are concerned about civilian impacts, with reports of aid warehouse destruction. The conflict's economic repercussions extend to global energy prices and supply chains. Both sides continue to escalate military rhetoric and operations. This represents one of the most significant international conflicts currently unfolding.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5100x3400+0+0/resize/5100x3400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fd9%2F51b2bbd649908fc611a4cb71d8d5%2Fgettyimages-2268909874.jpg",
+      "authors": ["NPR Staff"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants", "author": "NPR Staff"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/news/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en", "author": ""},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/world", "author": ""}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "significance": "high"
+    },
+    {
+      "headline": "NASA's Artemis II mission reaches lunar orbit, marking first human voyage beyond Earth in over 50 years",
+      "summary": "NASA's Artemis II spacecraft has successfully completed a critical engine burn, leaving Earth's orbit and setting course for the moon with four astronauts aboard. This mission represents humanity's first lunar voyage since the Apollo era ended in 1972, making it a historic milestone in space exploration. The spacecraft completed its Trans-Lunar Injection (TLI) burn, propelling it toward lunar orbit where the astronauts will conduct operations before returning to Earth. The mission has been extensively covered across international media as a major scientific achievement. The success of this milestone demonstrates continued human capability in advanced space exploration after a 50-year gap. International space agencies and scientists have been monitoring the mission closely. The Artemis program aims to establish a sustainable presence on the lunar surface and serve as a stepping stone for Mars exploration. The mission involves cooperation between NASA and international partners. Success will have implications for future space programs globally. This achievement represents one of the most significant scientific endeavors of the current era.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3156+0+0/resize/5000x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2Fc3%2Fb980ca4d4588948d20206b3cb013%2Fap26092545530202.jpg",
+      "authors": ["Nell Greenfieldboyce"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5771567/nasa-artemis-ii-tli-moon", "author": "Nell Greenfieldboyce"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c937g7nd5x4o", "author": ""},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""}
+      ],
+      "tags": ["technology", "space exploration", "science"],
+      "significance": "high"
+    },
+    {
+      "headline": "US reshapes global health aid policy, upending malaria and HIV supply programs",
+      "summary": "The Trump administration has announced a significant shift in US international health policy, upending the global supply program for malaria and HIV medications. This policy change marks a departure from decades of US engagement in global disease prevention efforts. The move has implications for vulnerable populations in developing nations dependent on these medicines. International health organizations and partner countries are assessing the impact on disease prevention infrastructure. The policy affects supply chains that reach millions of people globally who depend on affordable access to these critical medications. This shift represents a broader reorientation of US foreign aid priorities. Public health experts are concerned about potential disease resurgence in regions where supplies are disrupted. The decision comes amid broader Trump administration policy changes affecting international cooperation. Partner nations are exploring alternative sourcing strategies to maintain medication availability. This change has triggered international discussion about the role of developed nations in global health equity.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/news/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en", "author": ""}
+      ],
+      "tags": ["health", "diplomacy", "humanitarian"],
+      "significance": "high"
+    },
+    {
+      "headline": "Trump administration requests $1.5 trillion defense spending increase, largest in decades",
+      "summary": "President Trump has called for a major increase in defense spending, requesting $1.5 trillion in the federal budget—the largest defense spending request in decades. This represents a significant expansion of US military capabilities and reflects the administration's prioritization of defense infrastructure. The budget proposal also includes cuts to domestic spending programs to offset the defense increase. Congress must approve the budget request, and the proposal has generated discussion about fiscal priorities and national security. The defense spending increase affects military modernization, personnel, and weapons development across all service branches. International allies and competitors are monitoring the US commitment to military expansion. This spending level signals US intentions regarding military readiness and strategic positioning globally. The budget reflects concerns about emerging geopolitical threats and competition with other major powers. Economic analysts are considering the broader implications for the US economy and debt. This spending increase represents one of the most significant military investment proposals in recent years.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5897x3925+0+0/resize/5897x3925!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2Fdd%2F5474327e4c2aa684c476eeff4c2c%2Fap26092070631614.jpg",
+      "authors": ["The Associated Press"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending", "author": "The Associated Press"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/news/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en", "author": ""}
+      ],
+      "tags": ["defense", "economy", "diplomacy"],
+      "significance": "medium"
+    },
+    {
+      "headline": "China's Communist Party investigates former Xinjiang leader Ma Xingrui",
+      "summary": "China's Communist Party has launched an investigation into Ma Xingrui, the former party secretary of Xinjiang region who served in that position from 2021 to 2025. The investigation marks a significant internal Party action regarding leadership in the strategically important Xinjiang region. Ma Xingrui's tenure coincided with various government policies in the region that have attracted international attention. The investigation's specific focus and allegations have not been fully detailed in public statements. This action reflects internal Chinese government dynamics and potential policy shifts regarding regional governance. International observers are watching closely given the region's geopolitical importance. The investigation may indicate broader internal Party assessments of regional policies and leadership performance. This development has potential implications for how China manages governance in sensitive frontier regions. The timing and scope of the investigation remain subjects of international scrutiny. This case reflects ongoing internal processes within China's political system and leadership structures.",
+      "image_url": null,
+      "authors": ["The Associated Press"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/g-s1-116327/chinas-communist-party-investigates-ex-xinjiang-leader-ma-xingrui", "author": "The Associated Press"}
+      ],
+      "tags": ["geopolitics", "governance", "diplomacy"],
+      "significance": "medium"
+    },
+    {
+      "headline": "US labor market rebounds with 178,000 jobs added in March; unemployment falls to 4.3%",
+      "summary": "The US labor market showed significant improvement in March as employers added 178,000 new jobs, with the unemployment rate falling to 4.3%. This rebound marks a positive economic indicator after previous months of slower job growth. The employment data reflects broad-based hiring across multiple economic sectors. Wage growth and labor force participation metrics also showed positive trends. The labor market strength has implications for broader economic conditions and consumer spending patterns. International investors are monitoring US economic performance given its role as a major global economy. The labor market data affects Federal Reserve policy considerations and interest rate decisions. Employment gains suggest resilience in the US economy despite ongoing international uncertainties. This economic performance contrasts with some weakness in other developed economies globally. The job creation indicates continued business confidence in economic prospects, though inflation and other factors remain considerations.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2Fdd%2F10ff763942a6ac09aa5498dfdc07%2Fgettyimages-2239024059.jpg",
+      "authors": ["Scott Horsley"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5772696/jobs-employment-economy-labor-market", "author": "Scott Horsley"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/news/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en", "author": ""}
+      ],
+      "tags": ["economy", "trade", "labor"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Tech verdicts against Meta and Google signal emerging era of big tech accountability",
+      "summary": "Recent legal verdicts against Meta and Google have sparked discussion about a potential new era of increased accountability for major technology companies. These verdicts address harms caused by social media platforms and their business practices. Legal experts suggest the verdicts may build momentum for broader regulatory changes affecting Silicon Valley. The cases involve issues ranging from user privacy to platform moderation and societal impacts. International regulators are watching these US legal developments closely as they consider their own tech oversight frameworks. The verdicts affect how technology companies may need to adjust business models and content policies. Other technology companies are monitoring the legal precedents being established through these cases. Civil rights advocates view the outcomes as potentially influential for future litigation against tech platforms. The rulings have prompted discussion about the balance between innovation and societal protection. These developments represent a significant shift in how technology companies may face legal consequences for their platforms' impacts.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7828x4784+0+0/resize/7828x4784!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F32%2Fb101fabc4b16b4f6815f7c16f7c3%2Fgettyimages-2267821738.jpg",
+      "authors": ["Shannon Bond"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms", "author": "Shannon Bond"}
+      ],
+      "tags": ["technology", "regulation", "economy"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Burkina Faso military leader calls to 'forget democracy' amid political instability",
+      "summary": "Burkina Faso's military leader has declared that the country should 'forget democracy,' signaling a significant political shift in the West African nation. This statement reflects growing military influence in governance and challenges to democratic institutions. The declaration comes amid ongoing political instability in the region affecting regional security and governance. International observers are concerned about the implications for democratic norms in West Africa. The statement raises questions about the future political trajectory and institutional stability in Burkina Faso. Regional organizations and international bodies are monitoring developments closely. The political situation affects broader stability in the Sahel region. Civil society and democratic advocates are assessing the implications of this statement for civil liberties. This development reflects broader trends of military influence in African politics. The situation has potential implications for regional cooperation and international relations in West Africa.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""}
+      ],
+      "tags": ["governance", "conflict", "diplomacy"],
+      "significance": "medium"
+    }
+  ]
+}

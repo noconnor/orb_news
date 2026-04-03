@@ -1,0 +1,138 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-03T16:00:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia Intensifies Aerial Bombardment Campaign Against Ukraine",
+      "summary": "Russia conducted massive rolling aerial attacks across Ukraine beginning on April 3, 2026, combining overnight drone barrages with sustained daytime missile and drone strikes. Ukrainian officials reported the coordinated attack resulted in at least six deaths, marking a continued escalation in Russian military operations. The campaign represents Russia's evolving strategy to breach Ukrainian air defenses with simultaneous daytime strikes, a departure from earlier nighttime-focused bombing. Ukrainian President Zelenskyy has indicated readiness for an Easter ceasefire, though military operations show no signs of abating. The Kyiv region faced particular pressure with officials describing the attacks as 'massive.' The attacks underscore the ongoing intensity of the conflict as European nations grapple with the humanitarian and security implications of the prolonged war.",
+      "image_url": "https://s.france24.com/media/display/c850bd60-2f3d-11f1-8be9-005056bf30b7/w:1024/p:16x9/000-A6KQ7C2.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine",
+          "author": null
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/kyiv-region-under-massive-daytime-drone-and-missile-attack-by-russia-officials-say",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "defence", "Ukraine"],
+      "significance": "high"
+    },
+    {
+      "headline": "Three Greek Government Ministers Resign Over EU Farm Subsidy Scandal",
+      "summary": "Three members of the Greek government resigned on April 3, 2026, in connection with a major EU farm subsidy fraud scandal. Greek state television reported the resignations came as investigations revealed that most of the fraudulent subsidies were directed to the island of Crete. The scandal represents a significant governance crisis in Greece and an embarrassment for the EU's common agricultural policy implementation. The incident highlights broader concerns about agricultural subsidy abuse across the European Union. These resignations underscore the serious consequences of financial impropriety at the governmental level in EU member states. The investigation into the subsidy fraud is ongoing, with implications for how the EU monitors and enforces agricultural funding regulations across its member states.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/three-members-of-greek-government-quit-over-eu-farm-subsidy-scandal-state-tv-says",
+          "author": null
+        }
+      ],
+      "tags": ["EU", "governance", "economy"],
+      "significance": "high"
+    },
+    {
+      "headline": "France Becomes First Western European Nation to Cross Strait of Hormuz During Iran War",
+      "summary": "On April 3, 2026, a French ship operated by CMA CGM became the first Western European vessel to successfully transit through the Strait of Hormuz during the ongoing Iran war. The symbolic crossing represents a significant assertion of European commercial interests and resolve amid heightened regional tensions. The feat demonstrates France's willingness to maintain critical shipping routes despite escalating threats from Iranian forces targeting maritime traffic. This development carries diplomatic significance as European nations seek to protect their economic interests while navigating geopolitical instability in the Gulf. The transit comes as several European countries' ships have been disrupted by the Hormuz crisis, with Greece reporting at least 75 vessels stranded. The successful French crossing may encourage other European shippers and signal European determination to resist disruption of critical trade routes.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/03/french-ship-crosses-strait-of-hormuz-in-first-western-european-transit-during-iran-war",
+          "author": null
+        }
+      ],
+      "tags": ["trade", "defence", "EU"],
+      "significance": "high"
+    },
+    {
+      "headline": "Putin Issues Ultimatum to Armenia Over Growing EU Ties",
+      "summary": "Russian President Vladimir Putin issued a public warning to Armenia on April 3, 2026, demanding that Yerevan choose between closer alignment with the European Union or continued ties with Russia. The ultimatum represents a significant escalation of Russian pressure on a traditionally close ally and reflects broader struggles for geopolitical influence in the South Caucasus. Armenia has been strengthening its relationship with the EU following recent regional conflicts, creating tension with Moscow. Putin's ultimatum underscores Russia's declining tolerance for its former Soviet sphere allies pursuing alternative partnerships. The pressure on Armenia highlights the broader EU-Russia competition for influence along Europe's eastern periphery. This development carries implications for regional stability and EU-Russia relations as Armenia navigates conflicting pressures from two major powers.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/putin-issues-ultimatum-to-armenia-over-closer-ties-with-eu",
+          "author": null
+        }
+      ],
+      "tags": ["EU", "defence", "diplomacy"],
+      "significance": "high"
+    },
+    {
+      "headline": "France's Muslim Gathering Ban Overturned by French Courts",
+      "summary": "French courts overturned a ban on a four-day Muslim gathering on April 3, 2026, reversing a decision by the Paris police department. The police had argued the gathering posed a security threat due to potential terrorism risks. The court decision represents a significant victory for religious freedom and civil liberties advocates in France, highlighting tensions between security concerns and constitutional protections. France has faced ongoing debates about balancing security measures with religious expression rights, particularly following security incidents in recent years. The ruling comes amid broader European discussions about integration, religious tolerance, and security policy. The decision underscores judicial protections for minority rights in democratic European systems, even as security concerns persist in post-terrorism policy frameworks.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f704/live/08913f80-2f4d-11f1-b471-73a11a0c1806.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cwyjekvwww0o",
+          "author": null
+        }
+      ],
+      "tags": ["EU", "governance", "social"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Finnish Military Intensifies Conscript Training Amid Russian Border Tensions",
+      "summary": "Finnish military conscripts are undergoing intensive training to prepare for potential all-out conflict with Russia, according to reports from April 3, 2026. The training regimen prepares recruits as expert snipers and soldiers ready for all contingencies along Finland's 1,350 kilometer border with Russia. The emphasis on intensive preparedness reflects heightened security concerns following Russia's invasion of Ukraine and ongoing regional tensions. Finland, having recently joined NATO, has elevated its military readiness significantly. The conscript training program underscores Finnish determination to deter potential Russian aggression and defend national sovereignty. These military preparations represent a broader European rearmament trend as NATO members strengthen defenses in response to Russian military threats and regional instability.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/finnish-conscripts-train-for-all-out-war-with-russia",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "NATO", "Europe"],
+      "significance": "medium"
+    },
+    {
+      "headline": "EU Faces Major Energy Challenge as Oil Reserves Face Limited Duration",
+      "summary": "The European Union's strategic oil reserves face significant sustainability challenges, with released reserves potentially lasting only about five months according to analysis from April 3, 2026. The EU has released 400 million barrels to manage energy security amid disruptions from the Iran war and broader geopolitical instability affecting global oil supplies. This limited reserve duration underscores Europe's vulnerability to energy supply disruptions and the urgency of transitioning to renewable energy sources. Member states have begun reactivating coal plants as emergency measures, though these contradict climate commitments. The energy situation demonstrates competing pressures between immediate security needs and long-term climate objectives. Italy and other nations are contemplating expanded coal use despite environmental concerns, illustrating the acute nature of Europe's energy security crisis.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/03/how-long-can-the-eus-oil-reserves-last",
+          "author": null
+        }
+      ],
+      "tags": ["climate", "economy", "EU"],
+      "significance": "high"
+    },
+    {
+      "headline": "Europe's Largest Solar Farm Project Faces Major Development Challenges",
+      "summary": "Europe's largest solar farm project, a 916 million euro initiative, is encountering significant resistance and development obstacles as of April 3, 2026, despite Europe's critical need for renewable energy infrastructure. The project faces regulatory, environmental, and local opposition challenges that have delayed progress. The delays are particularly concerning given Europe's urgent need to reduce fossil fuel dependence and enhance energy security following geopolitical disruptions. Solar energy development has become essential to European energy transition strategies, yet regulatory frameworks and local resistance continue to slow deployment. The project's struggles illustrate broader challenges in rapidly scaling renewable energy infrastructure across the EU. Success in completing this major solar initiative would be significant for Europe's climate commitments and energy independence goals.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/inside-the-struggle-to-build-europes-largest-solar-farm-as-916-million-project-hit-with-de",
+          "author": null
+        }
+      ],
+      "tags": ["climate", "economy", "EU"],
+      "significance": "medium"
+    }
+  ]
+}

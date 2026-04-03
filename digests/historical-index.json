@@ -77,6 +77,24 @@
       "historical_event": "The 8888 Uprising and SLORC Rule (Burma, 1988)",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/8888_Uprising"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Finland-Russia border security",
+      "historical_event": "The Winter War (1939-1940)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "story_topic": "Artemis lunar programme",
+      "historical_event": "Project Gemini (1961-1966)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Project_Gemini"
     }
   ]
 }

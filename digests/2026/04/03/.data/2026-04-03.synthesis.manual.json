@@ -1,0 +1,362 @@
+{
+  "generated_at": "2026-04-03T16:30:00Z",
+  "update_type": "manual",
+  "source_summary": {
+    "total_feeds": 15,
+    "successful": 13,
+    "failed": ["breakingnews", "guardian", "dw"]
+  },
+  "top_stories": [
+    {
+      "headline": "Iran-US Military Conflict Escalates: Gulf Refineries Struck, Hormuz Shipping Disrupted, European Energy Under Strain",
+      "summary": "Iran has struck multiple Gulf refineries with missiles and drones in an active military confrontation with the United States, while President Trump has threatened US strikes on Iranian bridges and power plants in response. The conflict represents one of the most significant geopolitical flashpoints of the current era, with ramifications extending well beyond the immediate combat zone. Over 100 US legal experts have condemned the US strikes on Iran as possible war crimes, raising serious international legal and humanitarian concerns. In Europe, a French vessel operated by CMA CGM became the first Western European ship to transit the Strait of Hormuz during the Iran war, a symbolic assertion of European commercial resolve amid escalating threats to maritime traffic. Greece has reported at least 75 vessels stranded due to Hormuz disruptions, illustrating the breadth of shipping impacts on European trade. The European Union's strategic oil reserves, already under pressure, may last only around five months, with member states beginning to reactivate coal plants as emergency measures, undermining climate commitments. Ireland is feeling direct economic consequences, with the Irish Road Haulage Association declaring fuel prices have reached 'national emergency' levels as crude oil costs surge due to Middle East instability. The Transport Minister held urgent meetings with the IRHA, as haulage companies report dramatically reduced margins and viability concerns across the logistics sector. The humanitarian toll of the conflict is rising, with international organisations reporting destruction of aid infrastructure. The crisis underscores both the fragility of global energy supply chains and the far-reaching economic and security consequences of military escalation in the Gulf region.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5100x3400+0+0/resize/5100x3400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fd9%2F51b2bbd649908fc611a4cb71d8d5%2Fgettyimages-2268909874.jpg",
+      "authors": ["NPR Staff"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants", "author": "NPR Staff"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/news/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en", "author": ""},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/world", "author": ""},
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/03/french-ship-crosses-strait-of-hormuz-in-first-western-european-transit-during-iran-war", "author": null},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/03/how-long-can-the-eus-oil-reserves-last", "author": null},
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0403/1566634-irha-transport/", "author": null}
+      ],
+      "layers": ["world", "europe", "ireland"],
+      "tags": ["conflict", "diplomacy", "geopolitics", "trade", "defence", "EU", "economy", "transport", "climate"]
+    },
+    {
+      "headline": "Russia Launches Massive Rolling Aerial Campaign Against Ukraine as Finland Trains Conscripts for All-Out War",
+      "summary": "Russia conducted a large-scale coordinated aerial assault across Ukraine on April 3, combining overnight drone barrages with sustained daytime missile and drone strikes, marking a continued and intensifying escalation in military operations. Ukrainian officials confirmed at least six deaths in the attacks, with the Kyiv region facing particular pressure and officials describing the assault as 'massive.' The campaign reflects Russia's evolving military strategy of breaching Ukrainian air defences with simultaneous daytime strikes, a departure from the earlier nighttime-focused bombing patterns. Ukrainian President Zelenskyy signalled readiness for an Easter ceasefire, but military operations showed no sign of abating on either side. The broader European security environment has been dramatically reshaped by the ongoing conflict, with NATO members significantly increasing defence readiness across the continent. Finland, sharing a 1,350 kilometre border with Russia, has intensified its military conscript training program to prepare recruits for potential all-out conflict, with soldiers trained as expert snipers ready for all contingencies. Finland's defence posture has shifted markedly since its accession to NATO, reflecting heightened threat perceptions along its eastern frontier. Russia's simultaneous pressure on Armenia — with Putin issuing an ultimatum demanding Yerevan choose between EU alignment and continued ties with Moscow — underscores the Kremlin's broad strategy of reasserting influence across former Soviet states. European nations continue to grapple with the humanitarian and security implications of the prolonged Ukraine conflict. The aggregate picture across Eastern Europe points to a deeply destabilised security environment with no near-term resolution in sight.",
+      "image_url": "https://s.france24.com/media/display/c850bd60-2f3d-11f1-8be9-005056bf30b7/w:1024/p:16x9/000-A6KQ7C2.jpg",
+      "authors": [],
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine", "author": null},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/kyiv-region-under-massive-daytime-drone-and-missile-attack-by-russia-officials-say", "author": null},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/finnish-conscripts-train-for-all-out-war-with-russia", "author": null},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/putin-issues-ultimatum-to-armenia-over-closer-ties-with-eu", "author": null}
+      ],
+      "layers": ["europe"],
+      "tags": ["conflict", "defence", "Ukraine", "NATO", "Europe", "diplomacy"]
+    },
+    {
+      "headline": "NASA Artemis II Reaches Lunar Orbit, Marking Humanity's First Moon Voyage Since the Apollo Era",
+      "summary": "NASA's Artemis II spacecraft has successfully completed its Trans-Lunar Injection burn, leaving Earth's orbit and setting course for the moon with four astronauts aboard — humanity's first lunar voyage since the Apollo programme concluded in 1972. The mission represents a historic milestone in space exploration, closing a more than fifty-year gap in crewed lunar travel and demonstrating the continued viability of advanced human spaceflight. The spacecraft is now en route to lunar orbit, where the astronauts will conduct a series of operations before returning to Earth. International space agencies and scientists around the world have been monitoring the mission closely, reflecting the breadth of global scientific interest in the achievement. The Artemis programme is designed not merely as a return visit but as the foundation for establishing a sustainable human presence on the lunar surface. NASA has framed the programme as a stepping stone toward eventual crewed missions to Mars, representing a generational commitment to deep space exploration. The mission involves cooperation between NASA and international partners across multiple space agencies. Coverage of the mission has been extensive across global media, with the BBC, Al Jazeera, and NPR among the outlets providing ongoing updates. Success at this milestone validates years of post-Apollo programme development and significant public investment in the Artemis architecture. The mission stands as one of the most consequential scientific endeavours of the current decade, with implications for international cooperation, scientific discovery, and humanity's long-term presence beyond Earth.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3156+0+0/resize/5000x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2Fc3%2Fb980ca4d4588948d20206b3cb013%2Fap26092545530202.jpg",
+      "authors": ["Nell Greenfieldboyce"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5771567/nasa-artemis-ii-tli-moon", "author": "Nell Greenfieldboyce"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c937g7nd5x4o", "author": ""},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""}
+      ],
+      "layers": ["world"],
+      "tags": ["technology", "space exploration", "science"]
+    }
+  ],
+  "ireland": [
+    {
+      "headline": "Transport crisis deepens as fuel prices reach national emergency levels, warns Irish Road Haulage Association",
+      "summary": "The Irish Road Haulage Association has declared fuel prices have reached levels constituting a 'national emergency' as escalating costs continue to squeeze the transport sector. The Transport Minister held urgent meetings with the IRHA to address the growing crisis, which has been significantly exacerbated by regional instability in the Middle East. The fuel price surge poses serious threats to Ireland's logistics and supply chain operations, with haulage companies reporting dramatically reduced margins and operational viability concerns. Energy market volatility, particularly related to the Iran crisis, has driven crude oil prices upward, translating directly to higher fuel costs at petrol pumps nationwide. The impact extends beyond commercial haulage to affect consumers through increased costs for goods transportation and delivery services. Government officials acknowledge the severity of the situation and are exploring potential policy responses to mitigate the economic impact. Industry representatives warn that prolonged fuel price elevation could force business closures and job losses in the transport sector. This crisis highlights Ireland's vulnerability to global energy market disruptions and the need for strategic energy security planning.",
+      "image_url": "https://www.rte.ie/images/0023ff48-800.jpg",
+      "authors": [],
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0403/1566634-irha-transport/", "author": null}
+      ],
+      "tags": ["economy", "politics", "transport"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Storm Dave brings Status Yellow wind warning to Ireland over Easter weekend",
+      "summary": "Met Éireann has issued a Status Yellow wind warning for the entire country as Storm Dave approaches Ireland during the Easter bank holiday weekend. The warning, which was initially scheduled to begin at 2pm on Saturday, has been brought forward to 1pm to account for the storm's faster than expected arrival. Storm Dave is expected to bring gales and rainy weather to all regions, with conditions persisting from Saturday afternoon until approximately 2am on Sunday. The wind warning is the first significant weather alert of the Easter period, affecting outdoor plans and travel across the country. Gardaí and transport authorities have been coordinating preparations for the storm, with revised timetables implemented on Irish Rail services and enhanced road safety measures in place. The Met Éireann forecast indicates substantial gusts that could affect exposed areas and coastal regions particularly severely. Weather authorities have advised the public to exercise caution and secure loose outdoor items ahead of the storm's arrival. This early-season spring storm marks an active weather pattern for Ireland as the month progresses.",
+      "image_url": "https://c0.thejournal.ie/media/2026/04/3dna8gy-0b761173-4da1-480d-994d-d9a5018ca760-630x472.jpg",
+      "authors": ["Caroline O'Doherty"],
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/wind-warning-storm-dave-country-7001760-Apr2026/", "author": null},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/03/met-eireann-extends-yellow-wind-warning-for-ireland-into-sunday-as-storm-dave-approaches/", "author": "Caroline O'Doherty"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/met-eireann-brings-wind-warning-forward-as-storm-dave-sets-in-over-easter-bank-holiday-7002924-Apr2026/", "author": null}
+      ],
+      "tags": ["weather", "transport", "safety"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Murder suspect Jonathan Gill appears in court over Robbie Lawlor killing",
+      "summary": "Jonathan Gill, 44, appeared in Dublin's High Court on Friday morning after being arrested by gardaí in connection with the April 2020 murder of Dublin gangland figure Robbie Lawlor in Belfast. Gill was brought before the court following a warrant issued by the Police Service of Northern Ireland, with authorities seeking his extradition in relation to the killing that occurred six years ago. The case represents a significant development in a cross-border criminal investigation that has spanned multiple years. Robbie Lawlor was a known figure in Dublin's criminal underworld at the time of his death. The court proceedings come as part of ongoing efforts by law enforcement on both sides of the border to pursue accountability for serious crimes. This extradition case highlights the cooperative framework between Irish and Northern Irish authorities in pursuing suspects across jurisdictional lines. The case is expected to continue through the Irish court system as the extradition process unfolds. Media coverage indicates strong public interest in the resolution of this high-profile murder case.",
+      "image_url": "https://www.rte.ie/images/002429b8-800.jpg",
+      "authors": [],
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/courts/2026/0403/1566588-jonathan-gill-court/", "author": null},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/man-appears-in-court-on-foot-of-ni-warrant-of-murder-of-robbie-lawlor-7002981-Apr2026/", "author": null},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/03/robbie-lawlor-murer-man-appears-in-court-on-foot-of-ni-extradition-warrant/", "author": null}
+      ],
+      "tags": ["crime", "courts", "justice"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Gardaí intensify road safety enforcement during Easter holidays with 680 speeding offences detected",
+      "summary": "Gardaí have launched an intensive Easter road safety clampdown, detecting 680 speeding violations on the first day of the operation as enforcement officers spread across the country. One motorist was caught driving at 147km/h in a 100km/h zone on the N11 in County Wicklow, representing the most serious breach during the initial phase. The enforcement campaign comes ahead of the busy Easter bank holiday weekend when increased traffic volumes are expected on Irish roads. Road safety authorities have highlighted the dangers of excessive speeding, particularly during holiday periods when family travel is at peak levels. The operation is part of a coordinated national effort to reduce road fatalities and serious injuries during high-traffic periods. Multiple gardaí units have been deployed at checkpoints and enforcement zones throughout the country to intercept speeding drivers. The intensity of this enforcement drive underscores the priority placed on road safety by An Garda Síochána. Easter weekend traditionally sees significant increases in traffic-related incidents, making proactive enforcement measures critical for public safety.",
+      "image_url": "https://c3.thejournal.ie/media/2026/04/bank-holiday-checkpoint-2_90742037-f3f425e2-fb4a-46da-992b-f87757060cda-630x365.jpg",
+      "authors": ["Hugh Dooley"],
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/close-to-700-drivers-caught-speeding-in-24-hours-as-gardai-hit-roads-for-bank-holiday-7002912-Apr2026/", "author": null},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/03/gardai-detected-680-speeding-drivers-in-first-day-of-easter-road-safety-clampdown/", "author": "Hugh Dooley"}
+      ],
+      "tags": ["safety", "transport", "crime"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "MetroLink project director Sean Sweeney resigns amid escalating cost concerns for Dublin transport scheme",
+      "summary": "Sean Sweeney, director of the MetroLink Dublin transport project, has unexpectedly resigned from his position as the multibillion-euro transport infrastructure scheme faces fresh cost escalations ahead of government submission. Sweeney, a New Zealander who has overseen the project's development, departed at a critical juncture when updated financial projections are being finalized for Cabinet consideration. The MetroLink project has been dogged by cost inflation and delivery challenges since its inception, with successive revisions pushing the budget higher. The shock resignation raises concerns about project continuity and investor confidence in the long-delayed infrastructure program. Construction market analysts warn that the leadership departure could further complicate the project's delivery prospects and potentially affect the broader Dublin construction sector. Government authorities have not immediately announced a successor, leaving uncertainty about project direction and decision-making capacity. The MetroLink scheme is intended to provide rapid transit connections across Dublin, but persistent delays and budget concerns have frustrated both policymakers and the public. This resignation occurs at a pivotal moment as cost assessments are being prepared for government review and decision.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
+      "authors": ["Olivia Kelly"],
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/", "author": "Olivia Kelly"}
+      ],
+      "tags": ["transport", "politics", "economy"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Gardaí investigating Creeslough explosion submit supplementary file to DPP for charging decisions",
+      "summary": "Gardaí have submitted a supplementary investigative file to the Director of Public Prosecutions regarding the Creeslough gas explosion that killed ten people in October 2022. The submission represents a significant milestone in the long-running investigation, as the DPP will now review the evidence and determine whether criminal charges should be pursued. The Creeslough tragedy was one of Ireland's deadliest peacetime disasters in recent years, claiming the lives of multiple community members and sparking widespread public demand for accountability. The supplementary file indicates that the investigation has progressed beyond initial stages and investigators believe they have gathered sufficient evidence to warrant DPP consideration. Family members of the deceased have campaigned consistently for thorough investigation and appropriate prosecution of those responsible. The DPP's charging decision will be one of the most significant developments in the case since the explosion occurred nearly four years ago. Any charges brought could range from corporate negligence to manslaughter depending on investigation findings regarding causation and responsibility. This submission represents a critical juncture in efforts to deliver justice for the victims and their families.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/MPD37BZS2OW5UFU6FUIPECY4OU.jpg",
+      "authors": ["Hugh Dooley"],
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/03/gardai-investigating-creeslough-explosion-submit-supplementary-file-to-dpp/", "author": "Hugh Dooley"}
+      ],
+      "tags": ["crime", "justice", "social"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Government proceeds with Valerie's Law to strip convicted killers of parental rights despite concerns",
+      "summary": "The Irish government is moving forward with Valerie's Law, legislation designed to strip convicted murderers of parental rights, despite reservations raised by Tusla (Child and Family Agency). The Department of Justice has determined that the legislation is 'constitutional in all respects,' clearing a significant legal hurdle for its implementation. The law is named after a tragic case and represents a policy response to protect children from potentially dangerous custodial relationships with convicted killers. Tusla expressed concerns about the measure's potential impacts and practical implementation challenges, though the government has opted to proceed regardless. Legal advisors have reviewed the constitutional implications thoroughly and determined no fundamental rights obstacles exist to the legislation's enactment. The law would apply to individuals convicted of murder or serious violent crimes resulting in death. Child protection advocates have differing views on whether the measure adequately protects vulnerable children while respecting due process rights. This legislation reflects broader policy efforts to strengthen child safeguarding frameworks and prevent tragic outcomes.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
+      "authors": ["Ellen Coyne"],
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/", "author": "Ellen Coyne"}
+      ],
+      "tags": ["politics", "crime", "social"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Government launches public consultation on Ireland's proposed digital wallet initiative",
+      "summary": "The Irish government has launched a public consultation on the proposed digital wallet, a digital identity and document storage system designed to simplify citizen access to essential services and documentation. The digital wallet would allow residents to securely store and access documents such as birth certificates, driving licences, and other official identification while enabling streamlined registration for key welfare support programs including the working family payment. The initiative reflects government efforts to modernize administrative processes and reduce bureaucratic friction in accessing government services. Digital governance experts view the wallet as a significant step toward streamlined public service delivery in an increasingly digital society. The consultation phase will gather public input on security requirements, privacy protections, and practical functionality features before implementation begins. Privacy and cybersecurity advocates are scrutinising the proposal to ensure adequate safeguards against data breaches and unauthorized access. The government has positioned the digital wallet as a competitive advantage for Ireland's digital economy and public service efficiency. Successful implementation could serve as a model for other European jurisdictions pursuing similar digital transformation initiatives.",
+      "image_url": "https://c1.thejournal.ie/media/2026/04/woman-use-of-smart-phone-in-cafe-c8d2d03d-2870-45af-9aad-4a4665020b48-630x332.jpg",
+      "authors": [],
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/public-consultation-launched-for-irelands-proposed-new-digital-wallet-7002946-Apr2026/", "author": null}
+      ],
+      "tags": ["politics", "economy", "technology"],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ],
+  "europe": [
+    {
+      "headline": "Russia Intensifies Aerial Bombardment Campaign Against Ukraine",
+      "summary": "Russia conducted massive rolling aerial attacks across Ukraine on April 3, combining overnight drone barrages with sustained daytime missile and drone strikes — a continuation of an intensifying military campaign. At least six deaths were confirmed, with the Kyiv region under particular pressure. Ukrainian President Zelenskyy indicated readiness for an Easter ceasefire, though military operations showed no sign of abating. See top stories for full cross-layer analysis including Finland's military posture and Putin's pressure on Armenia.",
+      "image_url": "https://s.france24.com/media/display/c850bd60-2f3d-11f1-8be9-005056bf30b7/w:1024/p:16x9/000-A6KQ7C2.jpg",
+      "authors": [],
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine", "author": null},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/kyiv-region-under-massive-daytime-drone-and-missile-attack-by-russia-officials-say", "author": null}
+      ],
+      "tags": ["conflict", "defence", "Ukraine"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "France Becomes First Western European Nation to Cross Strait of Hormuz During Iran War",
+      "summary": "A French ship operated by CMA CGM became the first Western European vessel to successfully transit the Strait of Hormuz during the ongoing Iran war on April 3, 2026. The symbolic crossing represents a significant assertion of European commercial interests and resolve amid heightened regional tensions. The feat demonstrates France's willingness to maintain critical shipping routes despite escalating threats from Iranian forces targeting maritime traffic. This development carries diplomatic significance as European nations seek to protect their economic interests while navigating geopolitical instability in the Gulf. The transit comes as several European countries' ships have been disrupted by the Hormuz crisis, with Greece reporting at least 75 vessels stranded. The successful French crossing may encourage other European shippers and signal European determination to resist disruption of critical trade routes.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/03/french-ship-crosses-strait-of-hormuz-in-first-western-european-transit-during-iran-war", "author": null}
+      ],
+      "tags": ["trade", "defence", "EU"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "EU Faces Major Energy Challenge as Oil Reserves Face Limited Duration",
+      "summary": "The European Union's strategic oil reserves face significant sustainability challenges, with released reserves potentially lasting only about five months according to analysis from April 3, 2026. The EU has released 400 million barrels to manage energy security amid disruptions from the Iran war and broader geopolitical instability affecting global oil supplies. This limited reserve duration underscores Europe's vulnerability to energy supply disruptions and the urgency of transitioning to renewable energy sources. Member states have begun reactivating coal plants as emergency measures, though these contradict climate commitments. The energy situation demonstrates competing pressures between immediate security needs and long-term climate objectives. Italy and other nations are contemplating expanded coal use despite environmental concerns, illustrating the acute nature of Europe's energy security crisis.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/03/how-long-can-the-eus-oil-reserves-last", "author": null}
+      ],
+      "tags": ["climate", "economy", "EU"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Putin Issues Ultimatum to Armenia Over Growing EU Ties",
+      "summary": "Russian President Vladimir Putin issued a public warning to Armenia on April 3, 2026, demanding that Yerevan choose between closer alignment with the European Union or continued ties with Russia. The ultimatum represents a significant escalation of Russian pressure on a traditionally close ally and reflects broader struggles for geopolitical influence in the South Caucasus. Armenia has been strengthening its relationship with the EU following recent regional conflicts, creating tension with Moscow. Putin's ultimatum underscores Russia's declining tolerance for its former Soviet sphere allies pursuing alternative partnerships. The pressure on Armenia highlights the broader EU-Russia competition for influence along Europe's eastern periphery. This development carries implications for regional stability and EU-Russia relations as Armenia navigates conflicting pressures from two major powers.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/putin-issues-ultimatum-to-armenia-over-closer-ties-with-eu", "author": null}
+      ],
+      "tags": ["EU", "defence", "diplomacy"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Three Greek Government Ministers Resign Over EU Farm Subsidy Scandal",
+      "summary": "Three members of the Greek government resigned on April 3, 2026, in connection with a major EU farm subsidy fraud scandal. Greek state television reported the resignations came as investigations revealed that most of the fraudulent subsidies were directed to the island of Crete. The scandal represents a significant governance crisis in Greece and an embarrassment for the EU's common agricultural policy implementation. The incident highlights broader concerns about agricultural subsidy abuse across the European Union. These resignations underscore the serious consequences of financial impropriety at the governmental level in EU member states. The investigation into the subsidy fraud is ongoing, with implications for how the EU monitors and enforces agricultural funding regulations across its member states.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/three-members-of-greek-government-quit-over-eu-farm-subsidy-scandal-state-tv-says", "author": null}
+      ],
+      "tags": ["EU", "governance", "economy"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Finnish Military Intensifies Conscript Training Amid Russian Border Tensions",
+      "summary": "Finnish military conscripts are undergoing intensive training to prepare for potential all-out conflict with Russia, according to reports from April 3, 2026. The training regimen prepares recruits as expert snipers and soldiers ready for all contingencies along Finland's 1,350 kilometre border with Russia. The emphasis on intensive preparedness reflects heightened security concerns following Russia's invasion of Ukraine and ongoing regional tensions. Finland, having recently joined NATO, has elevated its military readiness significantly. The conscript training programme underscores Finnish determination to deter potential Russian aggression and defend national sovereignty. These military preparations represent a broader European rearmament trend as NATO members strengthen defences in response to Russian military threats and regional instability.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/finnish-conscripts-train-for-all-out-war-with-russia", "author": null}
+      ],
+      "tags": ["defence", "NATO", "Europe"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "France's Muslim Gathering Ban Overturned by French Courts",
+      "summary": "French courts overturned a ban on a four-day Muslim gathering on April 3, 2026, reversing a decision by the Paris police department. The police had argued the gathering posed a security threat due to potential terrorism risks. The court decision represents a significant victory for religious freedom and civil liberties advocates in France, highlighting tensions between security concerns and constitutional protections. France has faced ongoing debates about balancing security measures with religious expression rights, particularly following security incidents in recent years. The ruling comes amid broader European discussions about integration, religious tolerance, and security policy. The decision underscores judicial protections for minority rights in democratic European systems, even as security concerns persist in post-terrorism policy frameworks.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f704/live/08913f80-2f4d-11f1-b471-73a11a0c1806.jpg",
+      "authors": [],
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cwyjekvwww0o", "author": null}
+      ],
+      "tags": ["EU", "governance", "social"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Europe's Largest Solar Farm Project Faces Major Development Challenges",
+      "summary": "Europe's largest solar farm project, a 916 million euro initiative, is encountering significant resistance and development obstacles as of April 3, 2026, despite Europe's critical need for renewable energy infrastructure. The project faces regulatory, environmental, and local opposition challenges that have delayed progress. The delays are particularly concerning given Europe's urgent need to reduce fossil fuel dependence and enhance energy security following geopolitical disruptions. Solar energy development has become essential to European energy transition strategies, yet regulatory frameworks and local resistance continue to slow deployment. The project's struggles illustrate broader challenges in rapidly scaling renewable energy infrastructure across the EU. Success in completing this major solar initiative would be significant for Europe's climate commitments and energy independence goals.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/03/inside-the-struggle-to-build-europes-largest-solar-farm-as-916-million-project-hit-with-de", "author": null}
+      ],
+      "tags": ["climate", "economy", "EU"],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran and US escalate military confrontation as Trump threatens infrastructure strikes",
+      "summary": "Iran has struck multiple Gulf refineries with missiles and drones, while President Trump warned the US will attack Iranian bridges and power plants in response. Over 100 US legal experts have condemned the operations as possible war crimes. The conflict has impacted global oil markets, regional stability, European shipping, and Irish fuel prices. See top stories for full cross-layer analysis.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5100x3400+0+0/resize/5100x3400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fd9%2F51b2bbd649908fc611a4cb71d8d5%2Fgettyimages-2268909874.jpg",
+      "authors": ["NPR Staff"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants", "author": "NPR Staff"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/news/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en", "author": ""},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/world", "author": ""}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "NASA's Artemis II mission reaches lunar orbit, marking first human voyage beyond Earth in over 50 years",
+      "summary": "NASA's Artemis II spacecraft has successfully completed its Trans-Lunar Injection burn, sending four astronauts toward the moon for the first time since the Apollo era ended in 1972. The mission represents a historic milestone in human space exploration and international scientific cooperation. See top stories for full analysis.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3156+0+0/resize/5000x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2Fc3%2Fb980ca4d4588948d20206b3cb013%2Fap26092545530202.jpg",
+      "authors": ["Nell Greenfieldboyce"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5771567/nasa-artemis-ii-tli-moon", "author": "Nell Greenfieldboyce"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c937g7nd5x4o", "author": ""},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""}
+      ],
+      "tags": ["technology", "space exploration", "science"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "US reshapes global health aid policy, upending malaria and HIV supply programs",
+      "summary": "The Trump administration has announced a significant shift in US international health policy, upending the global supply program for malaria and HIV medications. This policy change marks a departure from decades of US engagement in global disease prevention efforts. The move has implications for vulnerable populations in developing nations dependent on these medicines. International health organizations and partner countries are assessing the impact on disease prevention infrastructure. The policy affects supply chains that reach millions of people globally who depend on affordable access to these critical medications. This shift represents a broader reorientation of US foreign aid priorities. Public health experts are concerned about potential disease resurgence in regions where supplies are disrupted. The decision comes amid broader Trump administration policy changes affecting international cooperation. Partner nations are exploring alternative sourcing strategies to maintain medication availability. This change has triggered international discussion about the role of developed nations in global health equity.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/news/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en", "author": ""}
+      ],
+      "tags": ["health", "diplomacy", "humanitarian"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Trump administration requests $1.5 trillion defense spending increase, largest in decades",
+      "summary": "President Trump has called for a major increase in defense spending, requesting $1.5 trillion in the federal budget — the largest defense spending request in decades. This represents a significant expansion of US military capabilities and reflects the administration's prioritization of defense infrastructure. The budget proposal also includes cuts to domestic spending programs to offset the defense increase. Congress must approve the budget request, and the proposal has generated discussion about fiscal priorities and national security. The defense spending increase affects military modernization, personnel, and weapons development across all service branches. International allies and competitors are monitoring the US commitment to military expansion. This spending level signals US intentions regarding military readiness and strategic positioning globally. The budget reflects concerns about emerging geopolitical threats and competition with other major powers. Economic analysts are considering the broader implications for the US economy and debt. This spending increase represents one of the most significant military investment proposals in recent years.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5897x3925+0+0/resize/5897x3925!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2Fdd%2F5474327e4c2aa684c476eeff4c2c%2Fap26092070631614.jpg",
+      "authors": ["The Associated Press"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending", "author": "The Associated Press"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/news/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en", "author": ""}
+      ],
+      "tags": ["defense", "economy", "diplomacy"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "US labor market rebounds with 178,000 jobs added in March; unemployment falls to 4.3%",
+      "summary": "The US labor market showed significant improvement in March as employers added 178,000 new jobs, with the unemployment rate falling to 4.3%. This rebound marks a positive economic indicator after previous months of slower job growth. The employment data reflects broad-based hiring across multiple economic sectors. Wage growth and labor force participation metrics also showed positive trends. The labor market strength has implications for broader economic conditions and consumer spending patterns. International investors are monitoring US economic performance given its role as a major global economy. The labor market data affects Federal Reserve policy considerations and interest rate decisions. Employment gains suggest resilience in the US economy despite ongoing international uncertainties. This economic performance contrasts with some weakness in other developed economies globally. The job creation indicates continued business confidence in economic prospects, though inflation and other factors remain considerations.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2Fdd%2F10ff763942a6ac09aa5498dfdc07%2Fgettyimages-2239024059.jpg",
+      "authors": ["Scott Horsley"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5772696/jobs-employment-economy-labor-market", "author": "Scott Horsley"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/news/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en", "author": ""}
+      ],
+      "tags": ["economy", "trade", "labor"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Tech verdicts against Meta and Google signal emerging era of big tech accountability",
+      "summary": "Recent legal verdicts against Meta and Google have sparked discussion about a potential new era of increased accountability for major technology companies. These verdicts address harms caused by social media platforms and their business practices. Legal experts suggest the verdicts may build momentum for broader regulatory changes affecting Silicon Valley. The cases involve issues ranging from user privacy to platform moderation and societal impacts. International regulators are watching these US legal developments closely as they consider their own tech oversight frameworks. The verdicts affect how technology companies may need to adjust business models and content policies. Other technology companies are monitoring the legal precedents being established through these cases. Civil rights advocates view the outcomes as potentially influential for future litigation against tech platforms. The rulings have prompted discussion about the balance between innovation and societal protection. These developments represent a significant shift in how technology companies may face legal consequences for their platforms' impacts.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7828x4784+0+0/resize/7828x4784!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F32%2Fb101fabc4b16b4f6815f7c16f7c3%2Fgettyimages-2267821738.jpg",
+      "authors": ["Shannon Bond"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms", "author": "Shannon Bond"}
+      ],
+      "tags": ["technology", "regulation", "economy"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "China's Communist Party investigates former Xinjiang leader Ma Xingrui",
+      "summary": "China's Communist Party has launched an investigation into Ma Xingrui, the former party secretary of Xinjiang region who served from 2021 to 2025. The investigation marks a significant internal Party action regarding leadership in the strategically important Xinjiang region. Ma Xingrui's tenure coincided with various government policies in the region that have attracted international attention. The investigation's specific focus and allegations have not been fully detailed in public statements. This action reflects internal Chinese government dynamics and potential policy shifts regarding regional governance. International observers are watching closely given the region's geopolitical importance. The investigation may indicate broader internal Party assessments of regional policies and leadership performance. This development has potential implications for how China manages governance in sensitive frontier regions. The timing and scope of the investigation remain subjects of international scrutiny. This case reflects ongoing internal processes within China's political system and leadership structures.",
+      "image_url": null,
+      "authors": ["The Associated Press"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/03/g-s1-116327/chinas-communist-party-investigates-ex-xinjiang-leader-ma-xingrui", "author": "The Associated Press"}
+      ],
+      "tags": ["geopolitics", "governance", "diplomacy"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Burkina Faso military leader calls to 'forget democracy' amid political instability",
+      "summary": "Burkina Faso's military leader has declared that the country should 'forget democracy,' signalling a significant political shift in the West African nation. This statement reflects growing military influence in governance and challenges to democratic institutions. The declaration comes amid ongoing political instability in the region affecting regional security and governance. International observers are concerned about the implications for democratic norms in West Africa. The statement raises questions about the future political trajectory and institutional stability in Burkina Faso. Regional organisations and international bodies are monitoring developments closely. The political situation affects broader stability in the Sahel region. Civil society and democratic advocates are assessing the implications of this statement for civil liberties. This development reflects broader trends of military influence in African politics. The situation has potential implications for regional cooperation and international relations in West Africa.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news", "author": ""}
+      ],
+      "tags": ["governance", "conflict", "diplomacy"],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ]
+}

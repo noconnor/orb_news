@@ -1,0 +1,158 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-03T15:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Murder suspect Jonathan Gill appears in court over Robbie Lawlor killing",
+      "summary": "Jonathan Gill, 44, appeared in Dublin's High Court on Friday morning after being arrested by gardaí in connection with the April 2020 murder of Dublin gangland figure Robbie Lawlor in Belfast. Gill was brought before the court following a warrant issued by the Police Service of Northern Ireland, with authorities seeking his extradition in relation to the killing that occurred six years ago. The case represents a significant development in a cross-border criminal investigation that has spanned multiple years. Robbie Lawlor was a known figure in Dublin's criminal underworld at the time of his death. The court proceedings come as part of ongoing efforts by law enforcement on both sides of the border to pursue accountability for serious crimes. This extradition case highlights the cooperative framework between Irish and Northern Irish authorities in pursuing suspects across jurisdictional lines. The case is expected to continue through the Irish court system as the extradition process unfolds. Media coverage indicates strong public interest in the resolution of this high-profile murder case.",
+      "image_url": "https://www.rte.ie/images/002429b8-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/courts/2026/0403/1566588-jonathan-gill-court/",
+          "author": null
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/man-appears-in-court-on-foot-of-ni-warrant-of-murder-of-robbie-lawlor-7002981-Apr2026/",
+          "author": null
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/04/03/robbie-lawlor-murer-man-appears-in-court-on-foot-of-ni-extradition-warrant/",
+          "author": null
+        }
+      ],
+      "tags": ["crime", "courts", "justice"],
+      "significance": "high"
+    },
+    {
+      "headline": "Storm Dave brings Status Yellow wind warning to Ireland over Easter weekend",
+      "summary": "Met Éireann has issued a Status Yellow wind warning for the entire country as Storm Dave approaches Ireland during the Easter bank holiday weekend. The warning, which was initially scheduled to begin at 2pm on Saturday, has been brought forward to 1pm to account for the storm's faster than expected arrival. Storm Dave is expected to bring gales and rainy weather to all regions, with conditions persisting from Saturday afternoon until approximately 2am on Sunday. The wind warning is the first significant weather alert of the Easter period, affecting outdoor plans and travel across the country. Gardaí and transport authorities have been coordinating preparations for the storm, with revised timetables implemented on Irish Rail services and enhanced road safety measures in place. The Met Éireann forecast indicates substantial gusts that could affect exposed areas and coastal regions particularly severely. Weather authorities have advised the public to exercise caution and secure loose outdoor items ahead of the storm's arrival. This early-season spring storm marks an active weather pattern for Ireland as the month progresses.",
+      "image_url": "https://c0.thejournal.ie/media/2026/04/3dna8gy-0b761173-4da1-480d-994d-d9a5018ca760-630x472.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/wind-warning-storm-dave-country-7001760-Apr2026/",
+          "author": null
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/met-eireann-extends-yellow-wind-warning-for-ireland-into-sunday-as-storm-dave-approaches/",
+          "author": "Caroline O'Doherty"
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/met-eireann-brings-wind-warning-forward-as-storm-dave-sets-in-over-easter-bank-holiday-7002924-Apr2026/",
+          "author": null
+        }
+      ],
+      "tags": ["weather", "transport", "safety"],
+      "significance": "high"
+    },
+    {
+      "headline": "Gardaí intensify road safety enforcement during Easter holidays with 680 speeding offences detected",
+      "summary": "Gardaí have launched an intensive Easter road safety clampdown, detecting 680 speeding violations on the first day of the operation as enforcement officers spread across the country. One motorist was caught driving at 147km/h in a 100km/h zone on the N11 in County Wicklow, representing the most serious breach during the initial phase. The enforcement campaign comes ahead of the busy Easter bank holiday weekend when increased traffic volumes are expected on Irish roads. Road safety authorities have highlighted the dangers of excessive speeding, particularly during holiday periods when family travel is at peak levels. The operation is part of a coordinated national effort to reduce road fatalities and serious injuries during high-traffic periods. Multiple gardaí units have been deployed at checkpoints and enforcement zones throughout the country to intercept speeding drivers. The intensity of this enforcement drive underscores the priority placed on road safety by An Garda Síochána. Easter weekend traditionally sees significant increases in traffic-related incidents, making proactive enforcement measures critical for public safety.",
+      "image_url": "https://c3.thejournal.ie/media/2026/04/bank-holiday-checkpoint-2_90742037-f3f425e2-fb4a-46da-992b-f87757060cda-630x365.jpg",
+      "authors": ["Hugh Dooley"],
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/close-to-700-drivers-caught-speeding-in-24-hours-as-gardai-hit-roads-for-bank-holiday-7002912-Apr2026/",
+          "author": null
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/gardai-detected-680-speeding-drivers-in-first-day-of-easter-road-safety-clampdown/",
+          "author": "Hugh Dooley"
+        }
+      ],
+      "tags": ["safety", "transport", "crime"],
+      "significance": "high"
+    },
+    {
+      "headline": "Transport crisis deepens as fuel prices reach national emergency levels, warns Irish Road Haulage Association",
+      "summary": "The Irish Road Haulage Association has declared fuel prices have reached levels constituting a 'national emergency' as escalating costs continue to squeeze the transport sector. The Transport Minister held urgent meetings with the IRHA to address the growing crisis, which has been significantly exacerbated by regional instability in the Middle East. The fuel price surge poses serious threats to Ireland's logistics and supply chain operations, with haulage companies reporting dramatically reduced margins and operational viability concerns. Energy market volatility, particularly related to the Iran crisis, has driven crude oil prices upward, translating directly to higher fuel costs at petrol pumps nationwide. The impact extends beyond commercial haulage to affect consumers through increased costs for goods transportation and delivery services. Government officials acknowledge the severity of the situation and are exploring potential policy responses to mitigate the economic impact. Industry representatives warn that prolonged fuel price elevation could force business closures and job losses in the transport sector. This crisis highlights Ireland's vulnerability to global energy market disruptions and the need for strategic energy security planning.",
+      "image_url": "https://www.rte.ie/images/0023ff48-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/politics/2026/0403/1566634-irha-transport/",
+          "author": null
+        }
+      ],
+      "tags": ["economy", "politics", "transport"],
+      "significance": "high"
+    },
+    {
+      "headline": "MetroLink project director Sean Sweeney resigns amid escalating cost concerns for Dublin transport scheme",
+      "summary": "Sean Sweeney, director of the MetroLink Dublin transport project, has unexpectedly resigned from his position as the multibillion-euro transport infrastructure scheme faces fresh cost escalations ahead of government submission. Sweeney, a New Zealander who has overseen the project's development, departed at a critical juncture when updated financial projections are being finalized for Cabinet consideration. The MetroLink project has been dogged by cost inflation and delivery challenges since its inception, with successive revisions pushing the budget higher. The shock resignation raises concerns about project continuity and investor confidence in the long-delayed infrastructure program. Construction market analysts warn that the leadership departure could further complicate the project's delivery prospects and potentially affect the broader Dublin construction sector. Government authorities have not immediately announced a successor, leaving uncertainty about project direction and decision-making capacity. The MetroLink scheme is intended to provide rapid transit connections across Dublin, but persistent delays and budget concerns have frustrated both policymakers and the public. This resignation occurs at a pivotal moment as cost assessments are being prepared for government review and decision.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
+      "authors": ["Olivia Kelly"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/",
+          "author": "Olivia Kelly"
+        }
+      ],
+      "tags": ["transport", "politics", "economy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Government proceeds with Valerie's Law to strip convicted killers of parental rights despite concerns",
+      "summary": "The Irish government is moving forward with Valerie's Law, legislation designed to strip convicted murderers of parental rights, despite reservations raised by Tusla (Child and Family Agency). The Department of Justice has determined that the legislation is 'constitutional in all respects,' clearing a significant legal hurdle for its implementation. The law is named after a tragic case and represents a policy response to protect children from potentially dangerous custodial relationships with convicted killers. Tusla expressed concerns about the measure's potential impacts and practical implementation challenges, though the government has opted to proceed regardless. Legal advisors have reviewed the constitutional implications thoroughly and determined no fundamental rights obstacles exist to the legislation's enactment. The law would apply to individuals convicted of murder or serious violent crimes resulting in death. Child protection advocates have differing views on whether the measure adequately protects vulnerable children while respecting due process rights. This legislation reflects broader policy efforts to strengthen child safeguarding frameworks and prevent tragic outcomes. The measure is expected to advance through the legislative process in coming weeks.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
+      "authors": ["Ellen Coyne"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
+          "author": "Ellen Coyne"
+        }
+      ],
+      "tags": ["politics", "crime", "social"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Gardaí investigating Creeslough explosion submit supplementary file to DPP for charging decisions",
+      "summary": "Gardaí have submitted a supplementary investigative file to the Director of Public Prosecutions regarding the Creeslough gas explosion that killed ten people in October 2022. The submission represents a significant milestone in the long-running investigation, as the DPP will now review the evidence and determine whether criminal charges should be pursued. The Creeslough tragedy was one of Ireland's deadliest peacetime disasters in recent years, claiming the lives of multiple community members and sparking widespread public demand for accountability. The supplementary file indicates that the investigation has progressed beyond initial stages and investigators believe they have gathered sufficient evidence to warrant DPP consideration. Family members of the deceased have campaigned consistently for thorough investigation and appropriate prosecution of those responsible. The DPP's charging decision will be one of the most significant developments in the case since the explosion occurred nearly four years ago. Any charges brought could range from corporate negligence to manslaughter depending on investigation findings regarding causation and responsibility. This submission represents a critical juncture in efforts to deliver justice for the victims and their families.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/MPD37BZS2OW5UFU6FUIPECY4OU.jpg",
+      "authors": ["Hugh Dooley"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/03/gardai-investigating-creeslough-explosion-submit-supplementary-file-to-dpp/",
+          "author": "Hugh Dooley"
+        }
+      ],
+      "tags": ["crime", "justice", "social"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Government launches public consultation on Ireland's proposed digital wallet initiative",
+      "summary": "The Irish government has launched a public consultation on the proposed digital wallet, a digital identity and document storage system designed to simplify citizen access to essential services and documentation. The digital wallet would allow residents to securely store and access documents such as birth certificates, driving licenses, and other official identification while enabling streamlined registration for key welfare support programs including the working family payment. The initiative reflects government efforts to modernize administrative processes and reduce bureaucratic friction in accessing government services. Digital governance experts view the wallet as a significant step toward streamlined public service delivery in an increasingly digital society. The consultation phase will gather public input on security requirements, privacy protections, and practical functionality features before implementation begins. Privacy and cybersecurity advocates are scrutinizing the proposal to ensure adequate safeguards against data breaches and unauthorized access. The government has positioned the digital wallet as a competitive advantage for Ireland's digital economy and public service efficiency. Successful implementation could serve as a model for other European jurisdictions pursuing similar digital transformation initiatives.",
+      "image_url": "https://c1.thejournal.ie/media/2026/04/woman-use-of-smart-phone-in-cafe-c8d2d03d-2870-45af-9aad-4a4665020b48-630x332.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/public-consultation-launched-for-irelands-proposed-new-digital-wallet-7002946-Apr2026/",
+          "author": null
+        }
+      ],
+      "tags": ["politics", "economy", "technology"],
+      "significance": "medium"
+    }
+  ]
+}
