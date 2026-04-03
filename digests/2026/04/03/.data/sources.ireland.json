@@ -2,7 +2,7 @@
   {
     "name": "RTÉ News",
     "id": "rte",
-    "feed_url": "https://www.rte.ie/feeds/rss/?model=rss_news",
+    "feed_url": "https://www.rte.ie/rss/news.xml",
     "type": "rss",
     "notes": "National broadcaster"
   },
@@ -23,8 +23,8 @@
   {
     "name": "Irish Examiner",
     "id": "irishexaminer",
-    "feed_url": "https://www.irishexaminer.com/feed/news.rss",
-    "type": "rss",
+    "feed_url": "https://www.irishexaminer.com/feed/35-top_news.xml",
+    "type": "atom",
     "notes": "Munster/regional coverage"
   },
   {
@@ -32,6 +32,6 @@
     "id": "breakingnews",
     "feed_url": "https://feeds.breakingnews.ie/bntopstories",
     "type": "rss",
-    "notes": "Wire-style headlines"
+    "notes": "Wire-style headlines (may be blocked by WebFetch — use WebSearch fallback)"
   }
 ]

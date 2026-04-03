@@ -1,0 +1,148 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-03T08:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Myanmar's coup leader Min Aung Hlaing elected president by pro-military parliament",
+      "summary": "Myanmar's military chief Min Aung Hlaing has been elected as the country's president by the newly-elected pro-military parliament, securing 429 out of 584 votes cast. The election solidifies military control over Myanmar following the 2021 coup that ousted the civilian government. Min Aung Hlaing's rise to the presidency marks a formalization of military rule and continuation of the brutal civil conflict that has killed thousands since the coup. The appointment is significant as it elevates the military leader to the country's highest civilian office while the junta maintains executive power. The election comes amid ongoing international criticism of Myanmar's human rights record and the government's handling of the civil war. Regional observers view this as a consolidation of military authority and a setback for democratic restoration. The move further cements military dominance in Myanmar's political structure for years to come. International pressure from ASEAN and democratic nations is expected to continue, though the junta shows no signs of relinquishing control.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw?oc=5",
+          "author": "Reuters"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "politics", "diplomacy"],
+      "significance": "high"
+    },
+    {
+      "headline": "US-Iran military conflict escalates as Trump threatens massive strikes on infrastructure",
+      "summary": "The US-Iran military conflict has intensified on day 35, with the Trump administration launching strikes on critical Iranian infrastructure including bridges and a century-old medical research facility near Tehran. President Trump has escalated rhetoric, threatening to strike Iran's bridges and electric power plants in further attacks, signaling an expansion of military operations beyond previous targets. Iran's former foreign minister Zarif has called on Tehran to declare victory and pursue a deal, suggesting cracks in support for continued escalation among some Iranian officials. Iran has vowed retaliation, pledging that the country's largest destroyed bridge will be rebuilt stronger while emphasizing that American credibility will not recover from the conflict. The strikes are causing severe humanitarian consequences, with medical infrastructure being targeted and affecting civilian access to healthcare across affected regions. Energy security across the Middle East and South Asia is being disrupted, with Pakistan and Bangladesh reporting critical shortages of liquefied natural gas supplies due to the regional instability. The conflict continues to reverberate through global energy markets and geopolitical calculations, with major powers closely monitoring escalation risks.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUS1DNHpZcG9LNUdON3hHamVsbmU0bVZEMnpFQUc2QjN2SnZ6YVRuZ1RScWJDMUxyNVB5WUp3aUtYbTVNVHM1d0xSUFBCd2JmZjBTVUpZWW1YMmtld1lYYTMwOEliQkpIWTJxdnN5YXViWjFrazY5ZjNhTmtrOU9peGtpNzRmWkI4RDI0WHMtT19kOFgtUTdIeERNN1RMRmIwQ2NxWkkydm5nQmNWZDRoRmR3?oc=5",
+          "author": "Reuters"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"],
+      "significance": "high"
+    },
+    {
+      "headline": "Trump removes Attorney General Pam Bondi following handling of controversial files",
+      "summary": "President Trump has fired Attorney General Pam Bondi, marking a significant leadership change in the US Department of Justice. Bondi's tenure as the nation's top law enforcement officer was marked by controversy, particularly surrounding her handling of sensitive Epstein-related files and other high-profile cases. As a Trump loyalist and tenacious defender of the administration, Bondi had been expected to serve longer in the role, making her removal a notable political development. Her departure from the Justice Department comes amid broader reports of leadership changes across the Trump administration, with multiple high-profile dismissals occurring in recent days. The firing raises questions about the criteria for loyalty within the Trump administration and potential shifts in Justice Department priorities and investigations. The removal signals potential instability within the Cabinet and may indicate broader personnel realignments planned by the administration. Bondi's replacement will need confirmation and will set the direction for federal law enforcement priorities moving forward. The move has drawn international attention given the Justice Department's role in major prosecutions and geopolitical matters.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6a/live/c6c715f0-2ef4-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdW01Z3p3RERxQmhPYUVZOVR1Qnd5cUx5RkYxZ2V1WG9IVHFXV2loYnlnaUpzSFNEN2xCNHhPRFBId2R1SV8zR3E0NWxoTE9KLXZrNjdUQnVqVkRTQi0yYWkyMTV5dnlCUnY0N2tTWURXUHA2dU5ZQktpc3pHV2oxaEt5SXdwbVV5MkQyempSN2dQQ2xycFNFRWttSThhUQ?oc=5",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "tags": ["politics", "diplomacy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Microsoft announces $10 billion investment in Japan for AI and cyber defense expansion",
+      "summary": "Microsoft has committed $10 billion in investment to Japan, marking a major expansion of the technology company's presence in Asia and signaling confidence in Japan's AI and cyber security markets. The investment represents one of Microsoft's largest regional commitments and underscores the strategic importance of Japan to the company's global AI strategy. The funding will support development of artificial intelligence capabilities and strengthened cyber defense infrastructure within Japan, positioning Microsoft as a key player in Japan's digital transformation. The investment comes as regional competition intensifies among major technology companies to establish dominance in AI development and deployment across Asia. Japan's government and tech sector have actively courted international investment as the country seeks to accelerate its AI capabilities and strengthen its digital security posture. The move is expected to create significant jobs and accelerate technology transfer within Japan's tech ecosystem. This investment signals Microsoft's long-term commitment to the Asia-Pacific region and reflects broader trends of major tech companies deepening their presence outside traditional Western markets. The timing aligns with increased global focus on AI development and the geopolitical importance of technology leadership.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN?oc=5",
+          "author": "Reuters"
+        }
+      ],
+      "tags": ["technology", "economy", "trade"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Pakistan and Afghanistan pursue fresh peace talks with China's mediation",
+      "summary": "Pakistan has announced that a new round of peace talks with Afghanistan's Taliban government is underway in China, representing renewed diplomatic efforts to resolve the ongoing conflict between the two nations. The talks are being conducted with Chinese mediation, leveraging Beijing's regional influence and diplomatic relationships with both countries. Pakistan has been significantly affected by spillover violence from the Afghan conflict and refugee pressures, making peace negotiations a priority for national security. The talks focus on brokering a ceasefire between the Taliban-controlled Afghan government and various opposition forces, though details of the negotiating parties remain limited. China's role as mediator reflects its broader strategy to stabilize its western borders and expand influence in Central and South Asia through diplomatic engagement. Pakistan's participation highlights the country's efforts to reduce armed infiltration across its borders and improve regional stability. The talks come at a time of significant energy crisis in Pakistan, partly driven by regional instability affecting LNG supplies, making peace agreements economically important. International observers view China's mediation as potentially more effective than previous US-led negotiation attempts, given Beijing's non-confrontational approach and economic leverage.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fef%2F408c450e48308dd8b3b0b703ab1a%2Fap26091088420099.jpg",
+      "authors": ["The Associated Press"],
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/03/g-s1-116299/pakistan-says-a-new-round-of-peace-talks-with-afghanistan-is-underway-in-china",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["diplomacy", "conflict", "trade"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Israel's military campaign in southern Lebanon destroys healthcare infrastructure",
+      "summary": "Israel's military operations in southern Lebanon have resulted in widespread destruction of healthcare infrastructure, including hospitals, medical centers, and attacks on healthcare workers, according to investigations by international observers. The destruction of medical facilities is fueling displacement of civilians and creating a severe health crisis across the affected region, limiting access to essential medical services. Healthcare workers report coming under fire and facing threats during their efforts to provide emergency care to wounded civilians. The targeting of medical infrastructure has drawn criticism from international humanitarian organizations, which argue that such attacks violate international law and exacerbate civilian suffering. Patients requiring surgical care and critical treatment have limited options as multiple facilities have been damaged or forced to close operations. The healthcare crisis is compounding the broader humanitarian emergency resulting from the military conflict in southern Lebanon. Medical supply shortages are becoming acute as supply routes are disrupted by ongoing military operations. International medical organizations are calling for protection of healthcare facilities under international humanitarian law and demanding unrestricted access to provide emergency assistance.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "humanitarian", "health"],
+      "significance": "medium"
+    },
+    {
+      "headline": "US Defense Secretary Hegseth dismisses Army chief of staff in ongoing leadership shake-up",
+      "summary": "US Defense Secretary Pete Hegseth has fired Army Chief of Staff General Randy George, continuing a reported pattern of high-profile dismissals since Hegseth took office in January 2026. The removal of George represents one of the most senior military leadership changes and signals significant shifts in the Pentagon's strategic direction and leadership culture. Hegseth's tenure has been marked by rapid personnel changes across military leadership, with multiple senior officials removed in recent months. The dismissals have raised concerns among military analysts about continuity in strategic planning and the stability of civil-military relations. George's retirement follows Hegseth's stated intention to reshape military leadership according to his vision for the armed forces. The changes have drawn scrutiny from Congress and military communities regarding the pace and rationale for the removals. The shake-up is occurring amid broader military challenges including readiness assessments and strategic competition with China and Russia. The removal of the Army's top uniformed officer signals potential changes to Army doctrine, personnel policies, and operational priorities under Hegseth's leadership.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "tags": ["politics", "defence", "diplomacy"],
+      "significance": "medium"
+    }
+  ]
+}

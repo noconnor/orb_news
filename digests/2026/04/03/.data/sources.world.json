@@ -1,17 +1,17 @@
 [
   {
-    "name": "Reuters",
+    "name": "Reuters (via Google News)",
     "id": "reuters",
-    "feed_url": "https://www.rss.reuters.com/news/topNews",
+    "feed_url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
     "type": "rss",
-    "notes": "Wire service"
+    "notes": "Wire service — Reuters discontinued public RSS, using Google News proxy"
   },
   {
-    "name": "AP News",
+    "name": "AP News (via Google News)",
     "id": "apnews",
-    "feed_url": "https://apnews.com/index.rss",
+    "feed_url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
     "type": "rss",
-    "notes": "Wire service"
+    "notes": "Wire service — AP restricted RSS, using Google News proxy"
   },
   {
     "name": "Al Jazeera",

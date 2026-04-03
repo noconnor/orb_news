@@ -1,0 +1,448 @@
+{
+  "generated_at": "2026-04-03T08:30:00Z",
+  "update_type": "morning",
+  "source_summary": {
+    "total_feeds": 15,
+    "successful": 13,
+    "failed": ["thejournal", "guardian_rss", "dw_rss"]
+  },
+  "top_stories": [
+    {
+      "headline": "US-Iran military conflict intensifies with Trump threatening massive infrastructure strikes",
+      "summary": "The US-Iran military conflict has escalated significantly on day 35, with the Trump administration launching strikes targeting critical Iranian infrastructure including bridges and medical research facilities near Tehran. President Trump has escalated rhetoric further, threatening strikes on Iran's power plants and additional infrastructure in what observers view as an expansion of military operations beyond previous targets. Iran has vowed retaliation, pledging to rebuild destroyed infrastructure while questioning American credibility. European allies express deep concern about the unpredictability of US military strategy, with French President Macron publicly criticizing Trump's approach and calling for seriousness in negotiations. The conflict is creating severe humanitarian consequences, including damage to medical infrastructure affecting civilian healthcare access and disruptions to energy supplies across the region. Pakistan and Bangladesh are experiencing critical shortages of liquefied natural gas due to regional instability. Some Iranian officials, including former Foreign Minister Zarif, have called for declaring victory and pursuing diplomatic settlements, suggesting potential internal divisions over continued escalation. Energy markets worldwide are reacting to the conflict's uncertainty, with European nations seeking alternative suppliers amid potential disruptions. The situation underscores growing divergence between US military strategy and European preference for diplomatic solutions. The broader geopolitical implications extend across Europe, Asia, and the Middle East as major powers reassess their positions.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cevk0e4ykwko",
+          "author": ""
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/tehran-fires-at-israel-as-trump-warns-us-has-not-started-destroying-what-is-left-in-iran",
+          "author": ""
+        },
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW01Z3p3RERxQmhPYUVZOVR1Qnd5cUx5RkYxZ2V1WG9IVHFXV2loYnlnaUpzSFNEN2xCNHhPRFBId2R1SV8zR3E0NWxoTE9KLXZrNjdUQnVqVkRTQi0yYWkyMTV5dnlCUnY0N2tTWURXUHA2dU5ZQktpc3pHV2oxaEt5SXdwbVV5MkQyempSN2dQQ2xycFNFRWttSThhUQ?oc=5",
+          "author": "Reuters"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "layers": ["europe", "world"],
+      "tags": ["conflict", "diplomacy", "humanitarian", "defence"]
+    },
+    {
+      "headline": "Russia's military campaign in Ukraine stalls for first time in over two years",
+      "summary": "Russia's military offensive in Ukraine has stalled for the first time in more than two years, marking a significant shift in the ongoing conflict's trajectory and offering potential opportunities for Ukrainian stabilization. The pause comes after months of sustained Russian advances across multiple fronts, suggesting Ukrainian forces have managed to consolidate defensive positions and slow Moscow's momentum through improved defensive capabilities bolstered by Western military aid. Military analysts point to several contributing factors including stretched supply lines, personnel shortages, and the effectiveness of Ukrainian defensive strategies, though the stall may prove temporary. European governments closely monitoring the military situation recognize its direct impact on regional security and the justification for continued weapons supplies to Kyiv. The development comes amid critical junctures in EU funding, with Hungarian Prime Minister Viktor Orbán continuing to block a crucial €90 billion EU loan package desperately needed by Ukraine for economic survival and reconstruction. NATO allies are reassessing strategy in light of potential shifts in US support under the Trump administration, which has signaled reluctance to continue previous levels of military and economic assistance. Ukraine's ability to sustain the stalled front depends heavily on continued Western support as the country faces mounting economic pressure and potential disruptions to critical services without EU funding. The pause in Russian advances may provide a diplomatic window, though neither Moscow nor Kyiv has indicated willingness to pursue peace talks. The situation underscores Europe's critical and expanding role in determining the conflict's trajectory as US commitment remains uncertain. Continuation of Western support is viewed as essential to preventing Russian forces from resuming offensive operations.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+          "author": "FRANCE 24"
+        }
+      ],
+      "layers": ["europe"],
+      "tags": ["conflict", "defence", "EU", "diplomacy"]
+    },
+    {
+      "headline": "Hungary's Orbán faces strongest electoral challenge in 16 years as opposition unites",
+      "summary": "After leading Hungary for 16 years, Prime Minister Viktor Orbán is confronting his strongest electoral challenge as opposition parties unite to challenge his government's control of Parliament and direction of European governance. Recent polling suggests opposition candidates have gained significant momentum, signaling a potential shift in Hungarian politics that could reshape the country's relationship with the European Union and affect EU decision-making on critical issues like Ukraine support. The election has become a focal point for broader European concerns about democratic backsliding and rule of law within the EU, with Hungary under persistent scrutiny for restrictions on judicial independence and media freedom that observers argue undermine fair electoral competition. Orbán's government has been blocking the €90 billion EU aid package for Ukraine, putting him at odds with other European leaders and raising questions about his geopolitical alignment amid the ongoing Ukraine conflict. The opposition campaign centers on restoring democratic checks and balances, improving EU relations, and addressing economic challenges facing Hungarian citizens. A change in government could unlock frozen EU funds tied to rule of law conditions and restore Hungary's alignment with European consensus on security and solidarity issues. International observers from the EU and OSCE are expected to monitor the election closely given concerns about electoral integrity and political freedoms in Hungary. Orbán has wielded control over state media and administrative resources to maintain political dominance, tactics that the opposition argues undermine fair democratic competition. The outcome carries significant implications for EU cohesion and the bloc's capacity to respond effectively to external challenges including the Ukraine crisis and Russian military pressure. European capitals are watching the Hungarian vote as a critical test of democratic resilience within the EU itself during a period of unprecedented geopolitical stress.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/03/podcast-everything-you-need-to-know-about-the-hungarian-elections",
+          "author": ""
+        },
+        {
+          "name": "The Guardian (WebSearch)",
+          "url": "https://www.europesays.com/2888909/",
+          "author": ""
+        }
+      ],
+      "layers": ["europe"],
+      "tags": ["elections", "governance", "EU", "conflict", "diplomacy"]
+    }
+  ],
+  "ireland": [
+    {
+      "headline": "MetroLink director Seán Sweeney resigns from long-delayed Dublin rail project",
+      "summary": "Seán Sweeney, chief of the MetroLink project, announced his resignation after less than two years in the €550,000-a-year role. The New Zealander's departure comes as the project faces mounting costs and delays on what is intended to be Dublin's new metro rail link connecting the airport to the city centre. His sudden exit has prompted concerns about the stability of the multibillion-euro infrastructure initiative and could potentially unsettle the construction market. Industry observers worry the departure signals ongoing difficulties with project delivery and cost management. The resignation raises questions about continuity and project oversight as stakeholders assess the implications for future construction timelines. No immediate successor was announced, leaving the project leadership in transition at a critical juncture. This development reflects broader challenges facing Dublin's transport infrastructure ambitions.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/GMPFPIFK5VDAJOBO5RJIRHBWXQ.jpeg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/transport/2026/04/03/metrolink-chiefs-shock-resignation-could-spook-construction-market/",
+          "author": ""
+        },
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/business/2026/0403/1566512-mortgages-rules/",
+          "author": ""
+        }
+      ],
+      "tags": ["transport", "politics", "economy"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Grace's Law ban on scramblers in public places comes into force",
+      "summary": "Grace's Law, legislation aimed at controlling the use of scramblers and quad bikes in public spaces, officially came into effect on April 3, 2026. The law, named after Grace Lynch who was killed by a scrambler in 2020, prohibits the use of these motorcycles in public areas across Ireland. The legislation represents a major policy victory for road safety advocates and the family of Grace Lynch, whose tragic death prompted sustained campaign efforts. Justice Minister Helen Canney reassured that gardaí have adequate resources to enforce the new restrictions and should not fear prosecution. The law has been widely supported across communities as a measure to reduce anti-social behaviour and prevent deaths and injuries from scrambler-related incidents. Enforcement remains key to the law's success, with gardaí expected to actively patrol public spaces. This represents a significant step in Ireland's road safety improvements.",
+      "image_url": "https://www.rte.ie/images/0023cd78-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/2026/0403/1566541-grace-law-scramblers/",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/age-restriction-on-scramblers-more-effective-than-ban-says-grace-lynchs-mother/",
+          "author": ""
+        }
+      ],
+      "tags": ["politics", "social", "transport"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Storm Dave to bring yellow wind warning to Ireland over Easter weekend",
+      "summary": "Meteorological authorities have issued a Status Yellow wind warning as Storm Dave approaches Ireland for the Easter weekend. Strong winds are expected to arrive on Saturday with significant gales anticipated in coastal areas, particularly affecting the western and southwestern regions. The storm follows a period of relatively mild weather and will bring a dramatic shift in conditions. Temperature drops of several degrees are expected, with some inland areas potentially experiencing freezes at night. Coastal communities and those in exposed locations are advised to secure loose outdoor items and exercise caution. The Sunday forecast suggests conditions will gradually improve with brighter weather emerging later in the holiday weekend, though breezy conditions will persist. Road users and transport services have been advised to take particular care. This weather event comes as Irish motorists are urged to be vigilant during the busy Easter travel period.",
+      "image_url": "https://www.rte.ie/images/00239992-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0403/1566577-storm-dave-ireland/",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/02/met-eireann-set-to-issue-weather-warnings-ahead-of-stormy-easter-weekend/",
+          "author": ""
+        }
+      ],
+      "tags": ["weather", "transport", "safety"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Air Corps completes first mission to Beirut with emergency supply delivery",
+      "summary": "The Irish Air Corps completed its first flight into Beirut, with the aircraft spending only 30 minutes on the tarmac to minimize risk exposure. Pilot Captain Lauren Cusack led the operation which involved careful consideration of route selection and threat assessments to ensure crew and cargo safety. The mission delivered critical supplies to Irish Unifil peacekeepers deployed in southern Lebanon as part of the UN peacekeeping operation. The rapid turnaround reflected the security-conscious approach required in the volatile operational environment. Captain Cusack's team demonstrated precision and professionalism in executing a complex logistical mission under challenging conditions. The successful completion of this mission establishes an air supply route supporting Ireland's military commitment to regional peace operations. This represents a significant operational achievement for Ireland's Defence Forces and demonstrates their capacity to operate in complex security situations. The development of reliable supply lines is essential for maintaining the welfare and operational effectiveness of deployed Irish troops.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/X4JELKIADNGR5DYMUBJHJPUSOA.JPG",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/a-ryanair-turnover-first-air-corps-flight-into-beirut-spent-only-30-minutes-on-tarmac/",
+          "author": ""
+        }
+      ],
+      "tags": ["defence", "security", "transport"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Defence Minister Helen McEntee cancels Lebanon visit following security advice",
+      "summary": "Defence Minister Helen McEntee cancelled her planned trip to Lebanon following security concerns raised by the Defence Forces. McEntee had intended to visit Irish Unifil peacekeepers deployed in the country to assess their operational status and provide political support. The Defence Forces advised against the visit citing current security conditions in the region, particularly in light of ongoing Israeli military operations and regional tensions. The decision reflects heightened risks associated with travel to conflict-adjacent areas and the responsibility to protect government officials. This cancellation represents a cautious approach to security assessment amid broader Middle East tensions. The Irish troops remain deployed in Lebanon as part of the United Nations peacekeeping mission, continuing their important work despite the security challenges. Future diplomatic visits will likely await improvements in the security situation. This decision underscores Ireland's commitment to supporting its military personnel while prioritizing the safety of government representatives.",
+      "image_url": "https://www.rte.ie/images/0023da78-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/middle-east/2026/0403/1566573-helen-mcentee-lebanon/",
+          "author": ""
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/politics/arid-41821475.html",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/a-ryanair-turnover-first-air-corps-flight-into-beirut-spent-only-30-minutes-on-tarmac/",
+          "author": ""
+        }
+      ],
+      "tags": ["defence", "politics", "security"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Change in mortgage rules to benefit downsizing homeowners",
+      "summary": "Updated mortgage regulations are being introduced to assist homeowners who wish to downsize to smaller properties as they age or transition life circumstances. The rule changes address previous barriers that made downsizing financially disadvantageous for many homeowners, particularly those approaching retirement or seeking to reduce housing costs. The new regulations are expected to provide greater flexibility in mortgage terms and conditions when transitioning to smaller properties. This policy responds to Ireland's housing challenges by potentially freeing up larger family homes for other buyers while supporting seniors and empty-nesters in their housing choices. Industry observers view this as a practical measure to improve housing market fluidity and support demographic transitions. The changes align with broader government housing policy objectives of improving affordability and optimizing housing stock utilization. Financial advisors anticipate the changes will be welcome news for older homeowners seeking to simplify their housing arrangements while maintaining access to capital. Implementation details are being communicated to lending institutions and mortgage brokers nationwide.",
+      "image_url": "https://www.rte.ie/images/0004ef05-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/business/2026/0403/1566512-mortgages-rules/",
+          "author": ""
+        }
+      ],
+      "tags": ["economy", "housing", "policy"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Government proceeds with plans to strip convicted killers of parental rights despite Tusla concerns",
+      "summary": "The Department of Justice has confirmed it will proceed with Valerie's Law, legislation designed to strip convicted murderers of their parental rights. This controversial measure aims to protect children from being raised by or having contact with parents convicted of homicide. The Department has satisfied itself that the law is constitutional in all respects, despite objections from Tusla, Ireland's child welfare agency, regarding implementation challenges and child welfare implications. Tusla raised concerns about how the law would operate in practice and its potential impact on children's right to family relationships. The government is confident the legal framework adequately addresses constitutional safeguards while protecting vulnerable children. The legislation represents a hardline approach to child protection policy and addresses societal concerns about children's safety. Valerie's Law named after a victim of crime, reflects evolving attitudes toward parental rights and criminal responsibility. Implementation will require careful coordination between justice authorities and child welfare services to ensure proper procedure.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/HGDXO7TQDRBTRAG4BQCI57MGEY.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/03/government-to-proceed-with-plans-to-strip-convicted-killers-of-parental-rights-despite-tuslas-concerns/",
+          "author": ""
+        }
+      ],
+      "tags": ["politics", "crime", "social"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "U2 surprise fans with new Easter Lily EP release",
+      "summary": "U2 has released a surprise six-track EP titled Easter Lily, marking the band's second EP release of 2026 and continuing their surprise release strategy. The new project represents a different musical direction from their previous 2026 EP, demonstrating the band's artistic exploration and commitment to maintaining creative momentum. The surprise announcement delighted fans on Good Friday with immediate availability across streaming platforms. The Easter Lily EP reinforces U2's position as one of the world's most active and innovative recording acts. Hints about potential live dates have also emerged from band statements, suggesting future touring possibilities. The release exemplifies the band's willingness to experiment with EP formats rather than traditional album releases. Industry observers note the strategic use of surprise releases to generate excitement and media coverage. This creative approach has become characteristic of contemporary major artists seeking to maintain relevance and fan engagement in the digital music era.",
+      "image_url": "https://www.irishexaminer.com/cms_media/module_img/10055/5027645_11_articlelarge_U2_20-_20Credit-Anton_20Corbijn_202025_20_20_1_1_1_.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/entertainment/2026/0403/1566552-u2-surprise-fans-again-with-easter-lily-ep/",
+          "author": ""
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41821436.html",
+          "author": ""
+        }
+      ],
+      "tags": ["culture", "entertainment", "sport"],
+      "significance": "low",
+      "also_in_top": false
+    }
+  ],
+  "europe": [
+    {
+      "headline": "Trump's NATO withdrawal threat forces Europe to confront defense spending reality",
+      "summary": "President Trump has raised the possibility of withdrawing the United States from NATO, prompting urgent reassessment of European defense capabilities and spending commitments. Trump's comments reflect long-standing criticism of NATO members' defense spending levels and suggest his administration views the alliance as less central to US strategic interests. European governments are now confronting the sobering reality that they cannot rely on indefinite American security guarantees and must accelerate autonomous defense development. NATO members have committed to increased defense spending in recent years, but the pace falls short of what would be required if the US were to significantly reduce its military presence in Europe. The specter of NATO dissolution or weakening comes at a particularly dangerous moment given Russian military pressure on Ukraine and broader geopolitical instability in Europe's periphery. Individual European nations are exploring enhanced bilateral defense relationships and pursuing independent weapons procurement to reduce dependency on US military systems. France and Germany are leading discussions on a potential European defense pillar that could function independently of NATO if necessary. Defense ministers across Europe are scheduling emergency meetings to coordinate responses and explore burden-sharing arrangements that could sustain deterrence without the US. The uncertainty regarding American commitment has sparked debates about military spending priorities, with some nations advocating for rapid capability development over fiscal restraint. European strategic autonomy has shifted from a long-term aspiration to an urgent necessity as the transatlantic security consensus faces unprecedented strain.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "The Guardian (WebSearch)",
+          "url": "https://www.europesays.com/2888909/",
+          "author": ""
+        }
+      ],
+      "tags": ["defence", "EU", "diplomacy"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Europe's largest solar farm project delayed amid €916 million investment struggles",
+      "summary": "A massive renewable energy project aimed at building Europe's largest solar farm has faced significant delays in construction and development, jeopardizing the continent's energy security ambitions. The €916 million project was intended to play a 'central role' in strengthening European energy independence and reducing reliance on volatile fossil fuel imports. Political support for renewables remains strong across European capitals, but implementation challenges have proven more difficult than initially anticipated in permitting, land acquisition, and supply chain coordination. The delays come at a critical moment for EU energy policy as the continent grapples with supply disruptions related to the Iran conflict and geopolitical tensions affecting oil markets. European energy ministers have emphasized that renewable infrastructure must accelerate to meet both climate goals and energy security objectives. The solar farm project represents the kind of strategic infrastructure investment needed to wean Europe off imported hydrocarbons and reduce vulnerability to external shocks. Financing obstacles, regulatory hurdles, and coordination issues between member states have contributed to slower-than-expected progress on the megaproject. The delays highlight broader challenges in mobilizing capital and streamlining permitting processes for large-scale renewable installations across the EU. Alternative energy strategies, including increased coal reliance in some nations like Italy, are being pursued as interim measures while waiting for renewable capacity to come online. Success in completing this solar project is viewed as essential to demonstrating Europe's capacity to execute on its green energy transition while maintaining grid stability and affordability.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/03/inside-the-struggle-to-build-europes-largest-solar-farm-as-916-million-project-hit-with-de",
+          "author": ""
+        }
+      ],
+      "tags": ["climate", "economy", "EU"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Goldman Sachs placed under heightened police surveillance in Paris following security threat",
+      "summary": "Goldman Sachs' Paris offices have been placed under enhanced police surveillance following a foiled attack on a Bank of America branch in the French capital, raising security concerns for US financial institutions operating in Europe. French police arrested two additional suspects in connection with the failed attack on the US bank headquarters, though full details of their alleged intentions remain unclear. The incident reflects broader tensions related to US military operations in the Middle East and anti-American sentiment in some European segments, with financial institutions seen as symbolic targets. Goldman Sachs was among European entities placed under protective measures as police assessed potential threats to foreign businesses in Paris. The heightened security measures indicate French authorities' seriousness in protecting foreign nationals and businesses while investigating the scope and nature of potential extremist networks. This represents a significant security incident for the banking sector in Paris, one of Europe's major financial hubs, and could affect business operations and investment confidence. The attack also comes amid ongoing tensions between the US and Europe over military policy, with some European critics viewing American military interventions negatively. US diplomatic and financial institutions across Europe are reassessing security protocols in response to the incident. The Paris attack underscores vulnerabilities in protecting strategic infrastructure and the challenges security forces face in preventing radicalized individuals from targeting high-profile locations. European and US security agencies are coordinating responses to identify potential networks and prevent further incidents.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/03/us-bank-goldman-sachs-placed-under-police-surveillance-in-paris",
+          "author": ""
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris",
+          "author": "FRANCE24"
+        }
+      ],
+      "tags": ["security", "economy", "EU"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Viktor Orbán faces strongest opposition challenge in 16-year rule ahead of Hungarian elections",
+      "summary": "After leading Hungary for 16 years, Prime Minister Viktor Orbán is confronting his strongest electoral challenge as opposition parties unite against his government. Recent polling suggests opposition candidates have gained significant momentum, challenging Orbán's control of Parliament and the direction of EU governance. The election has become a flashpoint for broader European concerns about democratic backsliding and rule of law within the EU, with Hungary under scrutiny for restrictions on judicial independence and media freedom. Orbán's government has been blocking the €90 billion EU aid package for Ukraine, putting him at odds with other European leaders and raising questions about his geopolitical alignment. The opposition campaign centers on restoring democratic checks and balances, improving EU relations, and addressing economic challenges facing Hungarian citizens. International observers from the EU and OSCE are expected to monitor the election closely given concerns about electoral integrity and political freedoms in Hungary. A change in government could reshape Hungary's relationship with Brussels and potentially unlock frozen EU funds tied to rule of law conditions. Orbán has wielded control over state media and administrative resources to maintain political dominance, tactics that the opposition argues undermine fair competition. The outcome of these elections will have significant implications for EU cohesion and the bloc's ability to respond to external challenges like the Ukraine crisis. European capitals are watching the Hungarian vote as a test of democratic resilience within the EU itself.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/03/podcast-everything-you-need-to-know-about-the-hungarian-elections",
+          "author": ""
+        }
+      ],
+      "tags": ["elections", "governance", "EU"],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Hungary's Orbán blocks €90 billion EU aid package for Ukraine amid broader EU tensions",
+      "summary": "Hungarian Prime Minister Viktor Orbán has continued to block a critical €90 billion European Union loan package intended to support Ukraine's economic survival and reconstruction, creating a severe crisis in EU decision-making. Volodymyr Zelenskyy has expressed exasperation over Hungary's blocking tactics, which require unanimity among all EU members for approval and implementation. The frozen aid package represents essential lifeline funding for Ukraine as US financial support has dried up under the Trump administration, which has signaled reluctance to continue previous levels of military and economic assistance. Orbán's actions have strained his relationships with other EU leaders and raised questions about Hungary's commitment to European solidarity during a critical security crisis. The blockade exposes structural vulnerabilities in EU governance where a single member state can impede collective action on vital matters affecting the bloc's strategic interests. Some observers view Orbán's stance as reflecting alignment with Russia's interests, though Orbán frames Hungary's position as protecting national interests and sovereignty. The EU leadership is exploring procedural workarounds and potential pressure mechanisms to overcome Hungary's veto, including suggestions for modified voting rules. Ukraine's absence of alternative funding sources creates mounting economic pressure, with Kyiv warning that social services and military operations could face severe disruptions without the aid. The aid blockade has become emblematic of deeper governance challenges within the EU regarding rule of law, democratic accountability, and decision-making efficiency. Resolution of this crisis could reshape EU mechanisms for collective decision-making and establish precedents for overriding minority vetoes on strategic matters.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "The Guardian (WebSearch)",
+          "url": "https://www.europesays.com/2888909/",
+          "author": ""
+        }
+      ],
+      "tags": ["EU", "governance", "conflict"],
+      "significance": "high",
+      "also_in_top": true
+    }
+  ],
+  "world": [
+    {
+      "headline": "Myanmar's coup leader Min Aung Hlaing elected president by pro-military parliament",
+      "summary": "Myanmar's military chief Min Aung Hlaing has been elected as the country's president by the newly-elected pro-military parliament, securing 429 out of 584 votes cast. The election solidifies military control over Myanmar following the 2021 coup that ousted the civilian government. Min Aung Hlaing's rise to the presidency marks a formalization of military rule and continuation of the brutal civil conflict that has killed thousands since the coup. The appointment is significant as it elevates the military leader to the country's highest civilian office while the junta maintains executive power. The election comes amid ongoing international criticism of Myanmar's human rights record and the government's handling of the civil war. Regional observers view this as a consolidation of military authority and a setback for democratic restoration. The move further cements military dominance in Myanmar's political structure for years to come. International pressure from ASEAN and democratic nations is expected to continue, though the junta shows no signs of relinquishing control.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVhVQ2owNm5SYXN2SlU1cUFQWXZmQmg5YzRXRFpBcFdwN1RBZlI1eHpNSEJ3YzNKUGkwMEZYYl8yS3h4eDJmQ3ZBWlFpeFRqRGdGUFRxUS1HNGNVQk9OeHlyN1NoU0d6d3Njbl9uOW5uR2dOY1pFWkJaVDZZeHlMZE9sVG50d3RTU09UVkJFVkN4Q21DTXhpdE9CN3RiVUl1THpEcVdUb0I3azNJTGRGc3ZkS0pMdw?oc=5",
+          "author": "Reuters"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "politics", "diplomacy"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Trump removes Attorney General Pam Bondi following handling of controversial files",
+      "summary": "President Trump has fired Attorney General Pam Bondi, marking a significant leadership change in the US Department of Justice. Bondi's tenure as the nation's top law enforcement officer was marked by controversy, particularly surrounding her handling of sensitive Epstein-related files and other high-profile cases. As a Trump loyalist and tenacious defender of the administration, Bondi had been expected to serve longer in the role, making her removal a notable political development. Her departure from the Justice Department comes amid broader reports of leadership changes across the Trump administration, with multiple high-profile dismissals occurring in recent days. The firing raises questions about the criteria for loyalty within the Trump administration and potential shifts in Justice Department priorities and investigations. The removal signals potential instability within the Cabinet and may indicate broader personnel realignments planned by the administration. Bondi's replacement will need confirmation and will set the direction for federal law enforcement priorities moving forward. The move has drawn international attention given the Justice Department's role in major prosecutions and geopolitical matters.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6a/live/c6c715f0-2ef4-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdW01Z3p3RERxQmhPYUVZOVR1Qnd5cUx5RkYxZ2V1WG9IVHFXV2loYnlnaUpzSFNEN2xCNHhPRFBId2R1SV8zR3E0NWxoTE9KLXZrNjdUQnVqVkRTQi0yYWkyMTV5dnlCUnY0N2tTWURXUHA2dU5ZQktpc3pHV2oxaEt5SXdwbVV5MkQyempSN2dQQ2xycFNFRWttSThhUQ?oc=5",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "tags": ["politics", "diplomacy"],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Israel's military campaign in southern Lebanon destroys healthcare infrastructure",
+      "summary": "Israel's military operations in southern Lebanon have resulted in widespread destruction of healthcare infrastructure, including hospitals, medical centers, and attacks on healthcare workers, according to investigations by international observers. The destruction of medical facilities is fueling displacement of civilians and creating a severe health crisis across the affected region, limiting access to essential medical services. Healthcare workers report coming under fire and facing threats during their efforts to provide emergency care to wounded civilians. The targeting of medical infrastructure has drawn criticism from international humanitarian organizations, which argue that such attacks violate international law and exacerbate civilian suffering. Patients requiring surgical care and critical treatment have limited options as multiple facilities have been damaged or forced to close operations. The healthcare crisis is compounding the broader humanitarian emergency resulting from the military conflict in southern Lebanon. Medical supply shortages are becoming acute as supply routes are disrupted by ongoing military operations. International medical organizations are calling for protection of healthcare facilities under international humanitarian law and demanding unrestricted access to provide emergency assistance.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "humanitarian", "health"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "US Defense Secretary Hegseth dismisses Army chief of staff in ongoing leadership shake-up",
+      "summary": "US Defense Secretary Pete Hegseth has fired Army Chief of Staff General Randy George, continuing a reported pattern of high-profile dismissals since Hegseth took office in January 2026. The removal of George represents one of the most senior military leadership changes and signals significant shifts in the Pentagon's strategic direction and leadership culture. Hegseth's tenure has been marked by rapid personnel changes across military leadership, with multiple senior officials removed in recent months. The dismissals have raised concerns among military analysts about continuity in strategic planning and the stability of civil-military relations. George's retirement follows Hegseth's stated intention to reshape military leadership according to his vision for the armed forces. The changes have drawn scrutiny from Congress and military communities regarding the pace and rationale for the removals. The shake-up is occurring amid broader military challenges including readiness assessments and strategic competition with China and Russia. The removal of the Army's top uniformed officer signals potential changes to Army doctrine, personnel policies, and operational priorities under Hegseth's leadership.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss",
+          "author": null
+        }
+      ],
+      "tags": ["politics", "defence", "diplomacy"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Microsoft announces $10 billion investment in Japan for AI and cyber defense expansion",
+      "summary": "Microsoft has committed $10 billion in investment to Japan, marking a major expansion of the technology company's presence in Asia and signaling confidence in Japan's AI and cyber security markets. The investment represents one of Microsoft's largest regional commitments and underscores the strategic importance of Japan to the company's global AI strategy. The funding will support development of artificial intelligence capabilities and strengthened cyber defense infrastructure within Japan, positioning Microsoft as a key player in Japan's digital transformation. The investment comes as regional competition intensifies among major technology companies to establish dominance in AI development and deployment across Asia. Japan's government and tech sector have actively courted international investment as the country seeks to accelerate its AI capabilities and strengthen its digital security posture. The move is expected to create significant jobs and accelerate technology transfer within Japan's tech ecosystem. This investment signals Microsoft's long-term commitment to the Asia-Pacific region and reflects broader trends of major tech companies deepening their presence outside traditional Western markets. The timing aligns with increased global focus on AI development and the geopolitical importance of technology leadership.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN?oc=5",
+          "author": "Reuters"
+        }
+      ],
+      "tags": ["technology", "economy", "trade"],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Pakistan and Afghanistan pursue fresh peace talks with China's mediation",
+      "summary": "Pakistan has announced that a new round of peace talks with Afghanistan's Taliban government is underway in China, representing renewed diplomatic efforts to resolve the ongoing conflict between the two nations. The talks are being conducted with Chinese mediation, leveraging Beijing's regional influence and diplomatic relationships with both countries. Pakistan has been significantly affected by spillover violence from the Afghan conflict and refugee pressures, making peace negotiations a priority for national security. The talks focus on brokering a ceasefire between the Taliban-controlled Afghan government and various opposition forces, though details of the negotiating parties remain limited. China's role as mediator reflects its broader strategy to stabilize its western borders and expand influence in Central and South Asia through diplomatic engagement. Pakistan's participation highlights the country's efforts to reduce armed infiltration across its borders and improve regional stability. The talks come at a time of significant energy crisis in Pakistan, partly driven by regional instability affecting LNG supplies, making peace agreements economically important. International observers view China's mediation as potentially more effective than previous US-led negotiation attempts, given Beijing's non-confrontational approach and economic leverage.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fef%2F408c450e48308dd8b3b0b703ab1a%2Fap26091088420099.jpg",
+      "authors": [
+        "The Associated Press"
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/03/g-s1-116299/pakistan-says-a-new-round-of-peace-talks-with-afghanistan-is-underway-in-china",
+          "author": "The Associated Press"
+        }
+      ],
+      "tags": ["diplomacy", "conflict", "trade"],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ]
+}

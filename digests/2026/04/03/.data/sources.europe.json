@@ -11,14 +11,14 @@
     "id": "guardian",
     "feed_url": "https://www.theguardian.com/world/europe-news/rss",
     "type": "rss",
-    "notes": "EU perspective"
+    "notes": "EU perspective (may be blocked by WebFetch — use WebSearch fallback)"
   },
   {
     "name": "Deutsche Welle",
     "id": "dw",
     "feed_url": "https://rss.dw.com/rdf/rss-en-all",
     "type": "rss",
-    "notes": "German/pan-European"
+    "notes": "German/pan-European (may be blocked by WebFetch — use WebSearch fallback)"
   },
   {
     "name": "France24",
