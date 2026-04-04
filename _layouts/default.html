@@ -121,104 +121,106 @@
   </nav>
   <script>
     let speaking = false;
-    let utterances = [];
-    let currentUtterance = 0;
+    let chunks = [];
+    let currentChunk = 0;
+    let cancelRequested = false;
 
     function getCleanText() {
       const content = document.getElementById('digestContent').cloneNode(true);
 
-      // Remove source blocks (the numbered lists at end of sections)
-      content.querySelectorAll('strong').forEach(el => {
-        if (el.textContent.trim() === 'Sources:') {
-          // Remove everything from "Sources:" to the next <hr> or <h2>
-          let node = el.parentElement;
-          while (node && node.tagName !== 'HR' && node.tagName !== 'H2') {
-            const next = node.nextElementSibling;
-            node.remove();
-            node = next;
-          }
-        }
-      });
-
       // Remove superscript reference links
       content.querySelectorAll('sup').forEach(el => el.remove());
 
-      // Remove inline code tags (topic tags like `politics` `housing`)
+      // Remove inline code tags (topic tags)
       content.querySelectorAll('code').forEach(el => el.remove());
 
-      // Remove the "Last updated" metadata line
-      content.querySelectorAll('blockquote').forEach(el => {
-        if (el.textContent.includes('Last updated')) {
-          el.remove();
-        }
-      });
-
-      // Get clean text
+      // Get the text
       let text = content.innerText || content.textContent;
 
-      // Clean up extra whitespace
+      // Remove "Sources:" blocks and everything until next section header or horizontal rule
+      // Pattern: "Sources:" followed by numbered list items until a blank line + heading
+      text = text.replace(/Sources:\s*\n([\s\S]*?)(?=\n[A-Z#\-]|\n\n[A-Z]|$)/gi, '');
+
+      // Remove any remaining numbered source lines (1. [Source...], 2. [Source...])
+      text = text.replace(/^\d+\.\s*\[?[A-Z].*https?:\/\/.*$/gm, '');
+
+      // Remove "Last updated:" metadata line
+      text = text.replace(/Last updated:.*$/gm, '');
+
+      // Remove standalone URLs
+      text = text.replace(/https?:\/\/\S+/g, '');
+
+      // Remove tag lines (lines that are just backtick words)
+      text = text.replace(/^[`\s]+.*[`\s]+$/gm, '');
+
+      // Clean up excessive whitespace
       text = text.replace(/\n{3,}/g, '\n\n').trim();
 
       return text;
     }
 
     function splitIntoChunks(text, maxLen) {
-      // Web Speech API has a character limit per utterance (~32k in some browsers)
-      // Split on paragraph breaks for natural pauses
       const paragraphs = text.split(/\n\n+/);
-      const chunks = [];
+      const result = [];
       let current = '';
 
       for (const para of paragraphs) {
         if ((current + '\n\n' + para).length > maxLen && current) {
-          chunks.push(current.trim());
+          result.push(current.trim());
           current = para;
         } else {
           current = current ? current + '\n\n' + para : para;
         }
       }
       if (current.trim()) {
-        chunks.push(current.trim());
+        result.push(current.trim());
       }
-      return chunks;
+      return result;
+    }
+
+    function getPreferredVoice() {
+      const voices = speechSynthesis.getVoices();
+      // Prefer high-quality macOS/iOS voices
+      const prefs = ['Samantha', 'Daniel', 'Karen', 'Moira', 'Fiona'];
+      for (const name of prefs) {
+        const v = voices.find(v => v.name.includes(name));
+        if (v) return v;
+      }
+      // Fallback: any local English voice
+      return voices.find(v => v.lang.startsWith('en') && v.localService) || null;
     }
 
     function updateProgress() {
       const progress = document.getElementById('listenProgress');
-      if (utterances.length > 1) {
-        progress.textContent = `(${currentUtterance + 1}/${utterances.length})`;
+      if (chunks.length > 1) {
+        progress.textContent = `(${currentChunk + 1}/${chunks.length})`;
         progress.classList.add('visible');
       }
     }
 
     function speakNext() {
-      if (currentUtterance >= utterances.length) {
+      if (cancelRequested || currentChunk >= chunks.length) {
         stopListen();
         return;
       }
 
-      const utter = new SpeechSynthesisUtterance(utterances[currentUtterance]);
-      utter.rate = 1.0;
+      const utter = new SpeechSynthesisUtterance(chunks[currentChunk]);
+      utter.rate = 1.05;
       utter.pitch = 1.0;
 
-      // Prefer a good English voice
-      const voices = speechSynthesis.getVoices();
-      const preferred = voices.find(v =>
-        v.name.includes('Samantha') ||
-        v.name.includes('Daniel') ||
-        v.name.includes('Karen') ||
-        (v.lang.startsWith('en') && v.localService)
-      );
-      if (preferred) utter.voice = preferred;
+      const voice = getPreferredVoice();
+      if (voice) utter.voice = voice;
 
       utter.onend = () => {
-        currentUtterance++;
+        if (cancelRequested) { stopListen(); return; }
+        currentChunk++;
         updateProgress();
         speakNext();
       };
 
       utter.onerror = () => {
-        currentUtterance++;
+        if (cancelRequested) { stopListen(); return; }
+        currentChunk++;
         updateProgress();
         speakNext();
       };
@@ -236,27 +238,36 @@
     }
 
     function startListen() {
+      // Force cancel any lingering speech
+      cancelRequested = false;
       speechSynthesis.cancel();
 
       const text = getCleanText();
-      utterances = splitIntoChunks(text, 4000);
-      currentUtterance = 0;
+      chunks = splitIntoChunks(text, 3000);
+      currentChunk = 0;
       speaking = true;
 
       const btn = document.getElementById('listenBtn');
       const icon = document.getElementById('listenIcon');
       const label = document.getElementById('listenLabel');
       btn.classList.add('playing');
-      icon.textContent = '\u23F8';
+      icon.textContent = '\u25A0';
       label.textContent = 'Stop';
 
-      speakNext();
+      // Small delay to let cancel() finish
+      setTimeout(speakNext, 100);
     }
 
     function stopListen() {
+      cancelRequested = true;
+      // Call cancel repeatedly — workaround for Safari/Chrome bug
       speechSynthesis.cancel();
+      setTimeout(() => speechSynthesis.cancel(), 50);
+      setTimeout(() => speechSynthesis.cancel(), 150);
+
       speaking = false;
-      currentUtterance = 0;
+      currentChunk = 0;
+      cancelRequested = false;
 
       const btn = document.getElementById('listenBtn');
       const icon = document.getElementById('listenIcon');
@@ -268,8 +279,16 @@
       progress.classList.remove('visible');
     }
 
-    // Load voices (some browsers need this async)
+    // Load voices (some browsers fire this async)
     speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
+
+    // Safari workaround: speech sometimes pauses after ~15s
+    // Keep-alive by resuming periodically while speaking
+    setInterval(() => {
+      if (speaking && speechSynthesis.paused) {
+        speechSynthesis.resume();
+      }
+    }, 5000);
   </script>
   {% endif %}
 </body>
