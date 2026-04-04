@@ -16,12 +16,6 @@
       margin: 0 auto;
       padding: 2rem;
     }
-    .markdown-body h1:first-of-type {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-    }
     .site-nav {
       max-width: 980px;
       margin: 0 auto;
@@ -58,28 +52,23 @@
       padding: 0.25rem 0.65rem;
       font-size: 12px;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      color: #1f2328;
+      color: #656d76;
       background: #f6f8fa;
       border: 1px solid #d0d7de;
       border-radius: 6px;
       cursor: pointer;
       user-select: none;
-      vertical-align: middle;
-      line-height: 1;
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
     }
     .listen-btn:hover {
       background: #eaeef2;
+      color: #1f2328;
     }
     .listen-btn.playing {
       background: #ddf4ff;
       border-color: #54aeff;
       color: #0969da;
-    }
-    .listen-progress {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      font-size: 11px;
-      color: #656d76;
-      vertical-align: middle;
     }
     .page-nav {
       max-width: 980px;
@@ -117,179 +106,146 @@
     {% if page.next_digest %}<a href="{{ page.next_digest }}">Next &rarr;</a>{% else %}<span></span>{% endif %}
   </nav>
   <script>
-    // State
-    let isPlaying = false;
-    let chunks = [];
-    let currentChunk = 0;
-    let activeUtterance = null;
+    let currentBtn = null;
 
-    // Inject listen button next to the h1 title
-    (function injectButton() {
-      const h1 = document.querySelector('#digestContent h1');
-      if (!h1) return;
+    function extractSectionText(sectionEl) {
+      const clone = sectionEl.cloneNode(true);
 
-      const btn = document.createElement('button');
-      btn.className = 'listen-btn';
-      btn.id = 'listenBtn';
-      btn.innerHTML = '<span id="listenIcon">&#9654;</span> <span id="listenLabel">Listen</span>';
-      btn.onclick = toggleListen;
-      h1.appendChild(btn);
+      // Remove listen buttons
+      clone.querySelectorAll('.listen-btn').forEach(el => el.remove());
+      // Remove superscript references
+      clone.querySelectorAll('sup').forEach(el => el.remove());
+      // Remove code tags (topic tags)
+      clone.querySelectorAll('code').forEach(el => el.remove());
 
-      const prog = document.createElement('span');
-      prog.className = 'listen-progress';
-      prog.id = 'listenProgress';
-      h1.appendChild(prog);
-    })();
+      let text = clone.innerText || clone.textContent;
 
-    function getCleanText() {
-      const content = document.getElementById('digestContent').cloneNode(true);
-
-      // Remove injected listen button and progress
-      content.querySelectorAll('.listen-btn, .listen-progress').forEach(el => el.remove());
-
-      // Remove superscript reference links
-      content.querySelectorAll('sup').forEach(el => el.remove());
-
-      // Remove inline code tags (topic tags)
-      content.querySelectorAll('code').forEach(el => el.remove());
-
-      // Get text
-      let text = content.innerText || content.textContent;
-
-      // Remove "Sources:" blocks and numbered source lists
-      text = text.replace(/Sources:\s*\n[\s\S]*?(?=\n[A-Z#\u2014]|\n\n[A-Z]|\n---|\n##|$)/gi, '');
-      text = text.replace(/^\d+\.\s*\[?[A-Z].*https?:\/\/.*$/gm, '');
-      text = text.replace(/Last updated:.*$/gm, '');
+      // Remove sources blocks
+      text = text.replace(/Sources:[\s\S]*?(?=\n[A-Z\n#]|$)/gi, '');
+      // Remove numbered source lines
+      text = text.replace(/^\d+\.\s.*https?:\/\/.*$/gm, '');
+      // Remove bare URLs
       text = text.replace(/https?:\/\/\S+/g, '');
-      text = text.replace(/^[`\s]+.*[`\s]+$/gm, '');
+      // Remove "Last updated" line
+      text = text.replace(/Last updated:.*$/gm, '');
+      // Clean whitespace
       text = text.replace(/\n{3,}/g, '\n\n').trim();
 
       return text;
     }
 
-    function splitIntoChunks(text, maxLen) {
-      const paragraphs = text.split(/\n\n+/);
-      const result = [];
-      let current = '';
-      for (const para of paragraphs) {
-        if ((current + '\n\n' + para).length > maxLen && current) {
-          result.push(current.trim());
-          current = para;
-        } else {
-          current = current ? current + '\n\n' + para : para;
-        }
-      }
-      if (current.trim()) result.push(current.trim());
-      return result;
-    }
-
-    function getVoice() {
-      const voices = speechSynthesis.getVoices();
-      const prefs = ['Samantha', 'Daniel', 'Karen', 'Moira'];
-      for (const name of prefs) {
-        const v = voices.find(v => v.name.includes(name));
-        if (v) return v;
-      }
-      return voices.find(v => v.lang.startsWith('en') && v.localService) || null;
-    }
-
-    function updateUI() {
-      const btn = document.getElementById('listenBtn');
-      const icon = document.getElementById('listenIcon');
-      const label = document.getElementById('listenLabel');
-      const progress = document.getElementById('listenProgress');
-      if (!btn) return;
-
-      if (isPlaying) {
-        btn.classList.add('playing');
-        icon.textContent = '\u25A0';
-        label.textContent = 'Stop';
-        progress.textContent = chunks.length > 1 ? `(${currentChunk + 1}/${chunks.length})` : '';
-      } else {
-        btn.classList.remove('playing');
-        icon.textContent = '\u25B6';
-        label.textContent = 'Listen';
-        progress.textContent = '';
+    function stopCurrent() {
+      speechSynthesis.cancel();
+      if (currentBtn) {
+        currentBtn.classList.remove('playing');
+        currentBtn.textContent = '\u25B6 Listen';
+        currentBtn = null;
       }
     }
 
-    function speakChunk(index) {
-      if (!isPlaying || index >= chunks.length) {
-        isPlaying = false;
-        currentChunk = 0;
-        updateUI();
+    function handleListen(btn, sectionEl) {
+      // If this button is already playing, stop it
+      if (btn === currentBtn) {
+        stopCurrent();
         return;
       }
 
-      currentChunk = index;
-      updateUI();
+      // Stop any other playing section
+      stopCurrent();
 
-      const utter = new SpeechSynthesisUtterance(chunks[index]);
-      utter.rate = 1.05;
-      utter.pitch = 1.0;
-      const voice = getVoice();
-      if (voice) utter.voice = voice;
+      const text = extractSectionText(sectionEl);
+      if (!text) return;
 
-      activeUtterance = utter;
+      // Split into smaller chunks for reliability
+      const chunks = text.match(/[\s\S]{1,2000}(?:\s|$)/g) || [text];
 
-      utter.onend = () => {
-        if (!isPlaying) return;
-        speakChunk(index + 1);
-      };
+      currentBtn = btn;
+      btn.classList.add('playing');
+      btn.textContent = '\u25A0 Stop';
 
-      utter.onerror = (e) => {
-        // 'canceled' is expected when we call stop
-        if (e.error === 'canceled') return;
-        if (!isPlaying) return;
-        speakChunk(index + 1);
-      };
+      let i = 0;
 
-      speechSynthesis.speak(utter);
-    }
+      function next() {
+        if (i >= chunks.length || currentBtn !== btn) {
+          stopCurrent();
+          return;
+        }
 
-    function toggleListen() {
-      if (isPlaying) {
-        doStop();
-      } else {
-        doStart();
+        const utter = new SpeechSynthesisUtterance(chunks[i]);
+        utter.rate = 1.05;
+
+        // Pick a good voice
+        const voices = speechSynthesis.getVoices();
+        const voice = ['Samantha', 'Daniel', 'Karen', 'Moira']
+          .map(n => voices.find(v => v.name.includes(n)))
+          .find(Boolean) || voices.find(v => v.lang.startsWith('en') && v.localService);
+        if (voice) utter.voice = voice;
+
+        utter.onend = () => { i++; next(); };
+        utter.onerror = (e) => {
+          if (e.error === 'canceled') return;
+          i++; next();
+        };
+
+        speechSynthesis.speak(utter);
       }
+
+      next();
     }
 
-    function doStart() {
-      // Cancel any previous speech first
-      speechSynthesis.cancel();
+    // Find all h2 sections and insert listen buttons
+    (function injectButtons() {
+      const article = document.getElementById('digestContent');
+      if (!article) return;
 
-      // Prepare text
-      const text = getCleanText();
-      if (!text) { console.error('No text to speak'); return; }
+      const h2s = article.querySelectorAll('h2');
 
-      chunks = splitIntoChunks(text, 3000);
-      if (!chunks.length) { console.error('No chunks'); return; }
+      h2s.forEach((h2) => {
+        // Collect all elements belonging to this section (until next h2 or hr)
+        const sectionDiv = document.createElement('div');
+        sectionDiv.className = 'listen-section';
 
-      currentChunk = 0;
-      isPlaying = true;
-      updateUI();
+        // Gather sibling elements until the next h2 or end
+        let el = h2.nextElementSibling;
+        const sectionEls = [h2];
+        while (el && el.tagName !== 'H2') {
+          sectionEls.push(el);
+          el = el.nextElementSibling;
+        }
 
-      // Must call speak() synchronously in the user gesture call stack
-      // (setTimeout breaks the user-activation chain in some browsers)
-      speakChunk(0);
-    }
+        // Create a wrapper we can reference for text extraction
+        const wrapper = document.createElement('div');
+        wrapper.dataset.section = h2.textContent.trim();
 
-    function doStop() {
-      isPlaying = false;
-      activeUtterance = null;
-      speechSynthesis.cancel();
-      currentChunk = 0;
-      updateUI();
-    }
+        // Move elements into wrapper (without actually moving DOM — just reference)
+        // Instead, we'll just pass the elements to the handler
+        // Insert button after the h2
+        const btn = document.createElement('button');
+        btn.className = 'listen-btn';
+        btn.textContent = '\u25B6 Listen';
+        btn.onclick = function() {
+          // Create a temp container with all section content for text extraction
+          const container = document.createElement('div');
+          sectionEls.forEach(e => container.appendChild(e.cloneNode(true)));
+          handleListen(btn, container);
+        };
+
+        // Insert button right after the h2
+        if (h2.nextSibling) {
+          h2.parentNode.insertBefore(btn, h2.nextSibling);
+        } else {
+          h2.parentNode.appendChild(btn);
+        }
+      });
+    })();
 
     // Load voices
     speechSynthesis.getVoices();
     speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
 
-    // Safari workaround: resume if paused
+    // Safari keep-alive
     setInterval(() => {
-      if (isPlaying && speechSynthesis.paused) {
+      if (currentBtn && speechSynthesis.paused) {
         speechSynthesis.resume();
       }
     }, 5000);
