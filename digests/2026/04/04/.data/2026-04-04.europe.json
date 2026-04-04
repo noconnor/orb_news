@@ -1,0 +1,143 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-04T12:00:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Ukraine intensifies Baltic Sea strikes against Russian oil infrastructure",
+      "summary": "Ukraine has launched intensified drone attacks on ports and refineries in Russia's Leningrad region on the Baltic Sea, targeting the country's oil profits amid the broader Iran war context. The strikes represent a significant escalation in Ukrainian efforts to disrupt Russian energy supplies and revenue. This campaign comes as Russia continues massive rolling aerial attacks on Ukraine, conducting overnight drone barrages followed by daytime missile strikes that have resulted in multiple casualties. The Baltic Sea operations demonstrate Ukraine's strategic shift toward attacking Russian energy infrastructure rather than purely military targets. European observers note the campaign aims to undermine Russia's financial capacity to sustain military operations. The strikes highlight the widening geographic scope of the conflict beyond traditional combat zones. International maritime trade through the region has been affected as shipping companies assess security risks. Ukrainian military leadership views the Baltic campaign as essential to degrading Russian war-making capability. The operations reflect Ukraine's asymmetric strategy of targeting economic and infrastructure vulnerabilities rather than direct military confrontation. European NATO members are monitoring the escalation as part of broader assessments of Russian military sustainability.",
+      "image_url": "https://s.france24.com/media/display/abb300bc-2dd7-11f1-99a7-005056a97e36/w:1024/p:16x9/baltic-primorsk-oil.jpg",
+      "authors": ["Sébastian SEIBT"],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260403-baltic-sea-strikes-how-ukraine-aims-to-undermine-russia-oil-profits-from-iran-war",
+          "author": "Sébastian SEIBT"
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "conflict", "energy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Hungary heads to polls in nine days with Viktor Orban's 16-year rule at stake",
+      "summary": "Hungary is preparing for a critical election within nine days as Viktor Orban's 16-year tenure in power faces a significant challenge from opposition forces. This election represents a pivotal moment for Hungarian democracy and governance, with major implications for EU cohesion given Orban's controversial judicial and media policies. The election has attracted significant international attention, particularly from EU institutions concerned about democratic backsliding in the member state. Opposition parties have coalesced around candidates seeking to overturn Orban's dominance, which has reshaped Hungarian politics since 2010. EU observers are monitoring the election closely as Orban's administration has faced repeated criticism over rule-of-law concerns and judicial independence. The outcome will determine Hungary's future relationship with EU institutions and its commitment to democratic standards. Orban's government has implemented policies that EU bodies have flagged as undermining democratic norms, including restrictions on media freedom and judicial independence. International media and political analysts view the election as a test of whether democratic forces can reverse years of increasingly centralized authority. The result could reshape Central European politics and Hungary's EU membership trajectory. Early polling suggests a competitive race with genuine uncertainty about the outcome.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6409/live/d4812350-2d07-11f1-934f-036468834728.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo",
+          "author": null
+        }
+      ],
+      "tags": ["elections", "governance", "EU"],
+      "significance": "high"
+    },
+    {
+      "headline": "Europe weighs nuclear power revival to counter energy crisis",
+      "summary": "Faced with an emerging energy crisis driven by conflict-related supply disruptions, European governments and energy experts are seriously reconsidering nuclear power as a strategic solution for energy independence and security. The new energy shock has prompted a significant reassessment of nuclear's role in Europe's future energy mix, moving beyond the traditional renewable-versus-fossil fuel debate. War-driven energy costs have created urgency around finding stable, long-term energy sources that reduce dependence on vulnerable supply chains. Nuclear power proponents argue it offers reliable baseload electricity generation without reliance on gas imports or volatile fossil fuel markets. Environmental and energy experts are weighing the trade-offs between nuclear expansion and accelerated renewable energy development. Several European countries are examining the feasibility of extending existing reactor lifespans or building new generation plants. The discussion involves debates over safety, waste management, and the timeline for achieving energy sovereignty. France's existing nuclear capacity has been highlighted as a model for potential expansion in other EU states. Investment requirements and EU regulatory frameworks are central to evaluating nuclear revival as policy. The energy crisis has demonstrated Europe's vulnerability to external supply shocks, compelling strategic reassessment of all available low-carbon energy sources.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62b/live/2537b0e0-2f72-11f1-8612-f1cd1152f88c.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno",
+          "author": null
+        }
+      ],
+      "tags": ["climate", "economy", "regulation"],
+      "significance": "high"
+    },
+    {
+      "headline": "Russia launches massive rolling aerial attacks on Ukraine with mixed tactics",
+      "summary": "Russia is conducting coordinated rolling aerial attacks on Ukraine featuring overnight drone barrages followed by daytime missile strikes, representing an escalation in operational intensity and tactical diversity. The attacks killed six civilians and injured 40 others, demonstrating the humanitarian cost of the intensified campaign. Russian forces are increasingly conducting daylight operations rather than relying solely on nighttime attacks, suggesting shifts in tactical doctrine and risk tolerance. The rolling attack pattern suggests efforts to overwhelm Ukrainian air defenses through sustained pressure rather than single concentrated strikes. Ukraine's President Zelensky characterized the Easter period escalation as Russia choosing conflict over ceasefire negotiations, signaling the diplomatic stalemate. European NATO members are tracking the attacks as indicators of Russian military capacity, strategy, and sustainability. The mixed day-night attack schedule suggests Russia may be adjusting strategies based on Ukrainian defensive responses. Ukrainian civilian infrastructure remains a primary target alongside military installations. International humanitarian organizations have expressed concern over the civilian casualty toll and infrastructure damage. The escalation pattern reflects the wider conflict dynamics and European security implications of the Ukraine war.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/25e129c0-2f92-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "author": null
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "defence", "humanitarian"],
+      "significance": "high"
+    },
+    {
+      "headline": "European shipping faces disruption as Strait of Hormuz security concerns persist",
+      "summary": "A French-owned ship has become the first vessel from a major European company to traverse the Strait of Hormuz since the escalation of regional conflict, highlighting the critical importance of this chokepoint to European trade and energy security. The passage represents a significant symbolic moment as European shipping companies assess security risks and logistics challenges in the region. Approximately one-sixth of global maritime trade normally flows through the Strait, making any disruption a matter of concern for European economies heavily dependent on maritime commerce. Foreign ministers from 35 nations, including several EU countries, convened in a virtual meeting organized by British Prime Minister Keir Starmer to discuss Iran's control over the Strait and strategies for maintaining international shipping freedom. The broader Iran war context has raised insurance costs and created hesitation among shipping operators regarding transiting the region. European governments are weighing diplomatic and security responses to ensure the Strait remains open for commerce. The first major European vessel transit may signal growing confidence in safe passage but also reflects the desperation of companies to resume normal operations. Supply chain disruptions related to Strait access have had economic impacts across Europe. The situation remains fluid as regional tensions continue evolving. Energy security and trade route protection are emerging as critical EU policy priorities.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ed/live/b4e9e4b0-2f81-11f1-a6f5-1188a52986a4.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cjd8275jrrko",
+          "author": null
+        }
+      ],
+      "tags": ["trade", "economy", "defence"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Greece experiences government turmoil over farm subsidy fraud allegations",
+      "summary": "Greek government resignations have emerged over farm subsidy fraud allegations, creating political instability within the EU member state and raising questions about agricultural payment integrity. The scandal involves misuse of EU agricultural subsidies, a sensitive issue that affects multiple EU member states relying on the Common Agricultural Policy. Government officials have stepped down in response to the allegations, signaling accountability measures and political consequences. The fraud allegations highlight vulnerabilities in EU agricultural fund management and oversight mechanisms across member states. Greece's agricultural sector is a significant component of its economy, and subsidy fraud has broader implications for national budget integrity. EU agricultural officials are likely reviewing Greece's compliance mechanisms and internal controls. The resignations represent an internal Greek political response but have implications for EU confidence in Greek governance. Farm subsidies are a major EU budget item, and fraud in any member state raises systemic concerns. The incident may prompt broader EU agricultural policy reviews and tighter oversight. Greek government leadership is addressing the crisis through accountability measures and potential policy reforms.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/rss",
+          "author": null
+        }
+      ],
+      "tags": ["governance", "economy", "regulation"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Three charged in connection with Jewish charity ambulance arson attacks in London",
+      "summary": "Three individuals have been charged in connection with a series of arson attacks on Hatzola ambulances at a synagogue car park in Golders Green, London on March 23, representing a serious incident targeting Jewish community services. Four Hatzola ambulances were set alight in the incident, causing significant damage to community emergency response capacity. The charges follow investigation into what authorities characterized as a hate crime against the Jewish community. The incident raised concerns about antisemitism and community safety across the UK and Europe. Hatzola, a volunteer Jewish ambulance service, provides emergency medical response to the community and has faced previous targeted attacks. Law enforcement agencies treated the incident as a priority given its nature as a targeted attack on community infrastructure. The arrests and charges represent a response to escalating tensions and security concerns around faith communities. Jewish community leaders have expressed concerns about the pattern of incidents targeting their institutions. The case highlights broader European discussions about community security and hate crime prevention. The incident occurred amid heightened global antisemitism concerns.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2bd06e80-2fa7-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cz0ey7z2jx3o",
+          "author": null
+        }
+      ],
+      "tags": ["crime", "social", "governance"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Artemis II astronauts capture stunning image of Earth during lunar approach",
+      "summary": "Commander Reid Wiseman of the Artemis II mission captured a spectacular photograph of Earth from the Orion capsule during the spacecraft's lunar approach, providing a stunning perspective from deep space. The image represents one of the most compelling visual records of Earth's appearance from the lunar distance. The Artemis II mission continues NASA's program to return humans to the Moon as part of the larger Artemis program. European space agencies and international partners are involved in the Artemis initiative, making the mission significant for European space exploration participation. The photograph captures Earth's beauty and fragility from a unique vantage point between Earth and Moon. The image has become iconic in space exploration communities globally. Astronauts aboard Artemis II include international crew members contributing to the mission's success. The mission represents significant advances in spacecraft technology and human spaceflight capabilities. European involvement includes contributions to life support systems and other spacecraft components. The Artemis program aims to establish sustainable human presence on the Moon. The spectacular imagery from the mission has been widely shared and celebrated internationally.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+          "author": null
+        }
+      ],
+      "tags": ["technology", "trade", "EU"],
+      "significance": "medium"
+    }
+  ]
+}
