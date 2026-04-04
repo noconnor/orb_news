@@ -1,0 +1,58 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Russia-Ukraine war stalemate'",
+      "existing_parallels": [
+        "Korean War Stalemate",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The 1990 Oil Price Shock",
+        "The Winter War (1939-1940)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ],
+      "matched_topic": "Russia-Ukraine war stalemate",
+      "headline": "Russia launches Easter escalation with hundreds of drones and missiles against Ukraine"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Storm Dave brings severe gusts and travel disruption across Ireland as Status Yellow wind warning takes effect"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Allied Oil Campaign of World War II (1944-1945)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Iran conflict enters 6th week as US warplane shot down, crew member missing"
+    }
+  ]
+}

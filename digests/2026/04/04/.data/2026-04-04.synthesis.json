@@ -1,0 +1,725 @@
+{
+  "generated_at": "2026-04-04T12:30:00Z",
+  "update_type": "midday",
+  "source_summary": {
+    "total_feeds": 15,
+    "successful": 12,
+    "failed": [
+      "breakingnews",
+      "guardian",
+      "dw"
+    ]
+  },
+  "top_stories": [
+    {
+      "headline": "Russia launches Easter escalation with hundreds of drones and missiles against Ukraine",
+      "summary": "Russia chose military escalation over any potential ceasefire on Easter weekend, launching one of its largest coordinated assaults on Ukraine with hundreds of drones and missiles. Ukrainian President Zelensky condemned the attack as a deliberate 'Easter escalation,' describing the assault as a clear rejection of peace negotiations. The strikes killed at least eight civilians across multiple locations, with a Russian drone hitting a covered market in Nikopol killing five people and injuring 19 others in one of the single deadliest individual strikes. Across the country, overnight bombardments wounded at least 14 additional people in separate attacks. Despite the overwhelming scale of the incoming barrage, Ukrainian defense systems engaged with the threats, though the sheer volume of ordnance strained defenses in multiple regions. In response, Kyiv signalled readiness for an Easter ceasefire even as it launched retaliatory drone strikes deep into Russian territory, underlining the dual track of diplomacy and military action that has defined the war's recent phase. European nations are closely monitoring the escalation and EU member states remain engaged in discussions about further support for Ukraine. The attacks highlight the fragility of any ceasefire arrangement and the sustained civilian toll that Russian bombardments continue to exact. International pressure on Russia from Western governments is expected to intensify following the Easter assault. The episode underscores how deeply the conflict remains embedded in both European security and global diplomatic attention.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [
+        "FRANCE 24",
+        "FRANCE24"
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "author": null
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+          "author": "FRANCE 24"
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/war-in-ukraine-russian-night-time-strikes-wound-at-least-14-people",
+          "author": "FRANCE24"
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/eight-dead-in-massive-russian-attack-while-kyiv-signals-readiness-for-easter-ceasefire",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "layers": [
+        "europe",
+        "world"
+      ],
+      "tags": [
+        "conflict",
+        "defence",
+        "diplomacy",
+        "humanitarian"
+      ]
+    },
+    {
+      "headline": "Storm Dave brings severe gusts and travel disruption across Ireland as Status Yellow wind warning takes effect",
+      "summary": "Storm Dave, the fourth named storm of the 2025-26 season, is battering Ireland and parts of the UK over the Easter weekend with some of the most severe wind conditions seen this spring. Met Eireann has forecast gusts reaching up to 100 kilometres per hour across Ireland, with coastal areas exposed to even stronger gales. A Status Yellow wind warning covering the entire country came into effect at 1pm on Saturday and is set to remain in force until 2am on Sunday, with additional yellow rain warnings issued for Donegal and Mayo. Emergency services and local authorities have urged the public to secure outdoor items and exercise particular caution while travelling. Transport networks are expected to face significant disruption, with potential delays and cancellations on roads, rail, and air services throughout the country. Coastal communities are on alert for flooding and erosion as the storm pushes through. Rural areas could see power outages as high winds impact overhead infrastructure. Across the Irish Sea, the storm is also affecting parts of the UK, with power company SSEN forecasting gusts of approximately 80 miles per hour in some areas, prompting the Met Office to issue its own weather warnings. UK residents in affected zones are similarly advised to prepare for hazardous conditions and disruption to Easter travel plans. Both Irish and British meteorological services are tracking the system closely and expect to issue updated guidance as conditions develop.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/V2CMWSMRV5HGBFL2D65S2ZZQ6U.JPG",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0404/1566697-storm-dave-ireland/",
+          "author": ""
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/weather-warning-storm-dave-wind-7003448-Apr2026/",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/environment/2026/04/04/met-eireann-forecasts-100kmh-gusts-and-rain-on-easter-weekend-as-storm-dave-nears-ireland/",
+          "author": ""
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/arid-41822090.html",
+          "author": ""
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c5y80nj5v50o",
+          "author": null
+        }
+      ],
+      "layers": [
+        "ireland",
+        "europe"
+      ],
+      "tags": [
+        "weather",
+        "transport",
+        "safety",
+        "EU"
+      ]
+    },
+    {
+      "headline": "Iran conflict enters 6th week as US warplane shot down, crew member missing",
+      "summary": "The US-Israeli military campaign against Iran entered its 36th day on April 4th with a significant escalation as Iran claimed responsibility for shooting down a US warplane, leaving one crew member unaccounted for. Search and rescue efforts are underway for the missing American service member, with former US military officials warning of the serious dangers facing any recovery teams operating in hostile Iranian territory. Iran also claims to have downed a second US aircraft in recent operations, though details remain contested. In retaliation, the United States and Israel have continued strikes targeting Iranian infrastructure, including petrochemical facilities and sites associated with the country's nuclear programme, raising ongoing humanitarian concerns. Israel has simultaneously intensified operations in Lebanon, adding another dimension to an already sprawling regional conflict. The incident with the downed aircraft represents one of the most direct confrontations between US and Iranian forces since the conflict began and raises the prospect of further escalation. Diplomatic channels appear increasingly strained, with military operations on multiple fronts continuing unabated. The geopolitical ripple effects of the conflict extend well beyond the immediate region, contributing to elevated global energy prices and economic pressure on nations from Southeast Asia to West Africa. International observers and world bodies are closely monitoring developments as the conflict shows no near-term signs of resolution. The humanitarian situation inside Iran is also deteriorating, with the government executing two members of a banned opposition group on the same day as the latest military escalation.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
+      "authors": [
+        "Apps Support",
+        "NPR Staff"
+      ],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkU0aFRMbzRTckJCMzE1T09NZWFPWXNtOW1kNVM5RzRKZlFCOVl1UVlwZU5fLU5nTDRkbE82WU1EeEVLZjg0NHAyajZSdzNOWlhTc1FQNk9iNWpfbTBGWkFKT1ZueUhLUXQxbmVmMzUzLTlFOHFWeXR4bHJWWjFJa1NadU1PcS12anppMTJVaU9jWWpKZm9OQ19uVW9XMTZOZF9OSlZmS3BPUQ?oc=5",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
+          "author": "NPR Staff"
+        }
+      ],
+      "layers": [
+        "world"
+      ],
+      "tags": [
+        "conflict",
+        "diplomacy",
+        "geopolitics"
+      ]
+    }
+  ],
+  "ireland": [
+    {
+      "headline": "Storm Dave brings severe gusts and travel disruption across Ireland as Status Yellow wind warning takes effect",
+      "summary": "Storm Dave, the fourth named storm of the season, is bringing severe weather to Ireland on Easter weekend with Status Yellow wind warnings in effect nationwide. Met Eireann has issued forecasts for wind gusts reaching up to 100 kilometres per hour, with coastal areas experiencing even more severe conditions and gales. The wind warning came into force at 1pm on Saturday and remains in place until 2am on Sunday, with additional yellow rain warnings issued for Donegal and Mayo. Emergency services and local authorities have advised the public to secure loose items and exercise caution during travel. The storm is expected to impact transport services including roads, public transport, and potentially air services across the country. Coastal communities are on alert for potential flooding and erosion. Rural areas may experience power outages due to the high winds. This represents typical seasonal Easter weekend weather challenges for Ireland. Citizens are advised to follow updates from weather forecasters and emergency services throughout the weekend.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/V2CMWSMRV5HGBFL2D65S2ZZQ6U.JPG",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0404/1566697-storm-dave-ireland/",
+          "author": ""
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/weather-warning-storm-dave-wind-7003448-Apr2026/",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/environment/2026/04/04/met-eireann-forecasts-100kmh-gusts-and-rain-on-easter-weekend-as-storm-dave-nears-ireland/",
+          "author": ""
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/arid-41822090.html",
+          "author": ""
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c5y80nj5v50o",
+          "author": null
+        }
+      ],
+      "tags": [
+        "weather",
+        "transport",
+        "safety",
+        "EU"
+      ],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Irish peacekeepers in Lebanon caught behind Israeli lines as IDF advances south",
+      "summary": "More than 300 Irish Defence Force soldiers stationed at Camp Shamrock in southern Lebanon are now positioned behind Israeli Defence Force lines following Israel's military advance into the region. The Irish peacekeepers, operating as part of the UN peacekeeping mission (UNIFIL), face significant safety concerns as the IDF expands its operations southward. Ireland's Minister for Defence has expressed serious concern about the soldiers' security and the deteriorating situation in the buffer zone where they are stationed. The Irish contingent has been in Lebanon for decades as part of the United Nations peacekeeping efforts. The situation represents a major escalation in the conflict affecting Irish military personnel directly. Diplomatic efforts are reportedly underway to ensure the safe passage and protection of the Irish soldiers. This is a critical development with implications for Ireland's participation in international peacekeeping missions. The incident highlights the broader regional instability affecting multiple countries with troops in the area. Ireland may need to reconsider its deployment strategy in response to this heightened threat level.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/5OA55A2HSNCZFEP5YN6XZULHAA.jpg",
+      "authors": [
+        "Conor Lally"
+      ],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/04/irish-peacekeepers-in-lebanon-now-behind-israeli-lines-as-idf-advances-south/",
+          "author": "Conor Lally"
+        }
+      ],
+      "tags": [
+        "defence",
+        "politics",
+        "safety"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "What Ireland's first public Covid-19 inquiry hearing revealed about pandemic response",
+      "summary": "Ireland's first public hearing examining the government's response to the COVID-19 pandemic has provided insights into how the country managed the crisis. The inquiry scrutinised official policies, decision-making processes, and implementation of public health measures during the early stages of the pandemic. Key witnesses and officials provided testimony about the coordination between health authorities, government departments, and international health organisations. The hearing revealed both successes and challenges in Ireland's pandemic response, including vaccine distribution, testing strategies, and economic support measures. Questions were raised about communication with the public and the timing of various restrictions. The inquiry process aims to establish a comprehensive record of the Irish government's handling of the crisis for future reference. This represents a critical moment in accountability and transparency regarding one of the most significant events to affect Irish society in recent years. The inquiry is expected to continue with additional public hearings examining different aspects of the pandemic response. The findings may inform policy decisions for future health emergencies.",
+      "image_url": "https://www.rte.ie/images/0024297d-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/analysis-and-comment/2026/0404/1566623-covid-review-analysis/",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "health",
+        "politics",
+        "social"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Government unveils new SSIA-style savings plan aimed at unlocking household savings",
+      "summary": "The Irish government has announced a new savings initiative modelled on the successful Special Savings Investment Account (SSIA) scheme from the Celtic Tiger era, aimed at encouraging households to save and unlocking billions in dormant savings. The plan offers incentives for citizens to deposit funds into designated savings accounts, with government contributions matching a portion of household savings. This initiative represents an effort to boost domestic savings rates and provide households with a secure investment option. The scheme draws on lessons learned from the previous SSIA programme, which was highly popular and successful in encouraging saving behaviour among Irish households. Economic analysis suggests that many Irish households maintain cautious approaches to saving in the current economic environment. The government hopes this new plan will stimulate consumer confidence and increase available capital for investment in the economy. The SSIA-style initiative is positioned as a tool to help households build financial resilience while supporting broader economic growth objectives. Eligible participants will have access to transparent information about returns and terms. The scheme addresses concerns about household savings levels and financial preparedness. Government officials have highlighted this as part of broader economic policy aimed at supporting families and households.",
+      "image_url": "https://www.irishexaminer.com/cms_media/module_img/10058/5029250_6_articlelarge_271911.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/spotlight/arid-41821202.html",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "economy",
+        "politics",
+        "social"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Easter Rising commemorations held across Ireland as nation marks historical event",
+      "summary": "Ireland has commemorated the 1916 Easter Rising with official ceremonies and public events held in Dublin and across the country. The government attended commemorative events at the Garden of Remembrance, honouring those who died in the uprising that led to Irish independence. The Easter Rising remains a defining moment in Irish history and national identity, marking the beginning of the end of British colonial rule. Officials and dignitaries participated in wreath-laying ceremonies and speeches reflecting on the historical significance of the event. The annual commemoration brings together people of all backgrounds to acknowledge this important chapter in Irish history. Educational institutions and civic organisations host events explaining the historical context and legacy of the uprising. The commemorations serve to reinforce Ireland's national consciousness and historical narrative. Events include historical reenactments, exhibitions, and public discussions about the Easter Rising's impact. The occasion provides an opportunity to reflect on Ireland's journey from independence struggle to modern nationhood. These commemorations continue a long tradition of honouring those who fought for Irish freedom.",
+      "image_url": "https://www.rte.ie/images/00242a9f-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0404/1566730-easter-rising-commemoration/",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "politics",
+        "social",
+        "culture"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Widow of Denis Donaldson calls for public inquiry into his death",
+      "summary": "The widow of Denis Donaldson, the former Sinn Fein official exposed as a British agent, has called for a public inquiry into the circumstances surrounding his death. Donaldson was murdered several years prior, with his killing occurring after his exposure as a long-time informant for British security forces. His widow's request for a formal public inquiry reflects ongoing concerns within the family about the full circumstances of his death and whether all relevant information has been disclosed. The case has significant implications for Irish political history and the legacy of the conflict. Questions remain about the investigation into his murder and the involvement of various parties. The call for a public inquiry represents an attempt to establish official accountability regarding the incident. This development comes at a time when Ireland continues to address historical grievances and seek clarity on controversial deaths. The case involves complex questions about intelligence operations, state involvement, and the protection of informants. A public inquiry could potentially shed light on broader issues related to this period of Irish history. The family's persistence in seeking answers highlights unresolved questions about justice and transparency.",
+      "image_url": "https://www.rte.ie/images/002429cd-800.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ulster/2026/0404/1566652-denis-donaldson-widow/",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "politics",
+        "crime",
+        "social"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Four charged in court over €7 million cannabis seizure in Co Kildare",
+      "summary": "Four individuals have appeared in court charged with offences related to a major drug seizure involving approximately EUR7 million worth of cannabis in County Kildare. The defendants face charges of cannabis possession with intent to supply, which carry significant criminal penalties in Ireland. This seizure represents one of the substantial drug busts undertaken by Irish law enforcement in recent months. The Gardai have been intensifying efforts to combat large-scale drug trafficking operations across the country. The case highlights ongoing drug trafficking networks operating in the Kildare area and the wider east of Ireland region. Investigation into the supply chain and distribution network is continuing as part of the broader operation. The charges reflect the serious approach Irish courts and law enforcement take toward major drug trafficking operations. Convictions in such cases typically result in substantial custodial sentences. The seizure demonstrates the effectiveness of coordinated law enforcement efforts targeting organised crime. This case contributes to the broader crackdown on illegal drug operations in Ireland.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/QMCSCA4UVFGZJM3GAXLA24VSLI.JPG",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/04/04/four-in-court-charged-over-7m-cannabis-seizure-in-co-kildare/",
+          "author": ""
+        }
+      ],
+      "tags": [
+        "crime",
+        "politics"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Child injured in pre-match violence before Irish Cup semi-final in Belfast",
+      "summary": "A child was struck by a bottle during disorder that erupted before an Irish Cup semi-final match between Cliftonville and Dungannon Swifts in Belfast. The violence occurred prior to the match at the venue, with multiple individuals involved in the disturbance. Police responded to the incident and made at least one arrest in connection with the disorder. The incident raises concerns about violence at sporting events and the safety of spectators, particularly children attending matches. Cross-border football matches in Ireland carry particular sensitivities due to historical and communal tensions. Sporting organisations have policies in place to manage crowd safety and prevent violence. The incident demonstrates the ongoing challenges faced by law enforcement in managing large sporting events. Families attending matches are expected to be able to do so safely without fear of violence. Investigations are continuing into the circumstances of the disorder and the injuries sustained by the child. This incident highlights the need for continued focus on preventing violence at sporting events.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/B43LPED62LE4DNBB7QVT5GRLRM.jpg",
+      "authors": [
+        "Rebecca Black",
+        "Press Association"
+      ],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/04/child-hit-by-bottle-during-disorder-before-irish-cup-semi-final-in-belfast/",
+          "author": "Rebecca Black"
+        }
+      ],
+      "tags": [
+        "crime",
+        "sport",
+        "social"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ],
+  "europe": [
+    {
+      "headline": "Russia launches Easter escalation with hundreds of drones and missiles against Ukraine",
+      "summary": "Russia chose military escalation over a potential ceasefire on Easter, April 4th, launching a massive attack against Ukraine with hundreds of drones and missiles. Ukrainian President Zelensky condemned the attack as an 'Easter escalation,' describing the coordinated assault as evidence of Russia's rejection of peace negotiations. The strikes resulted in six civilian deaths and injured approximately 40 others across multiple locations in Ukraine. This significant escalation marks a departure from any temporary pause in hostilities that might have accompanied the Easter holiday period, a date traditionally marked by cultural and religious significance. The attack demonstrates Russia's continued military capacity and strategic determination to pursue its objectives despite ongoing international pressure. Ukrainian defense systems engaged with the incoming threats, though the sheer volume of ordnance overwhelmed defenses in some areas. The attack underscores the humanitarian crisis facing Ukrainian civilians and the fragility of any ceasefire arrangements. The incident will likely intensify diplomatic pressure on Russia from Western nations and strengthen calls for increased military support to Ukraine.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [
+        "FRANCE 24",
+        "FRANCE24"
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "author": null
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+          "author": "FRANCE 24"
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/war-in-ukraine-russian-night-time-strikes-wound-at-least-14-people",
+          "author": "FRANCE24"
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/eight-dead-in-massive-russian-attack-while-kyiv-signals-readiness-for-easter-ceasefire",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": [
+        "conflict",
+        "defence",
+        "diplomacy",
+        "humanitarian"
+      ],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Storm Dave brings severe gusts and travel disruption across Ireland as Status Yellow wind warning takes effect",
+      "summary": "Storm Dave, the fourth named storm of the season, is bringing severe weather to Ireland on Easter weekend with Status Yellow wind warnings in effect nationwide. Met Eireann has issued forecasts for wind gusts reaching up to 100 kilometres per hour, with coastal areas experiencing even more severe conditions and gales. The wind warning came into force at 1pm on Saturday and remains in place until 2am on Sunday, with additional yellow rain warnings issued for Donegal and Mayo. Emergency services and local authorities have advised the public to secure loose items and exercise caution during travel. The storm is expected to impact transport services including roads, public transport, and potentially air services across the country. Coastal communities are on alert for potential flooding and erosion. Rural areas may experience power outages due to the high winds. This represents typical seasonal Easter weekend weather challenges for Ireland. Citizens are advised to follow updates from weather forecasters and emergency services throughout the weekend.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/V2CMWSMRV5HGBFL2D65S2ZZQ6U.JPG",
+      "authors": [],
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0404/1566697-storm-dave-ireland/",
+          "author": ""
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/weather-warning-storm-dave-wind-7003448-Apr2026/",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/environment/2026/04/04/met-eireann-forecasts-100kmh-gusts-and-rain-on-easter-weekend-as-storm-dave-nears-ireland/",
+          "author": ""
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/arid-41822090.html",
+          "author": ""
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c5y80nj5v50o",
+          "author": null
+        }
+      ],
+      "tags": [
+        "weather",
+        "transport",
+        "safety",
+        "EU"
+      ],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Easter food price surge grips Europe as egg and lamb costs soar",
+      "summary": "Egg and lamb prices are surging across Europe ahead of Easter, with egg inflation significantly outpacing overall inflation in most European countries. Climate-fuelled extreme weather has become farmers' biggest challenge, driving up production costs and reducing supply of key Easter staples. The cost of climate change is increasingly hitting European households, with Easter dinner becoming noticeably more expensive compared to previous years. Wholesale and consumer egg prices are on the rise simultaneously, reflecting both supply constraints and demand increases as the holiday approaches. Farmers report that erratic weather patterns and environmental pressures are making agricultural production increasingly unpredictable and costly. The price surge is affecting both individual households and food businesses that depend on these ingredients for Easter offerings. EU nations are experiencing varied levels of price increases, with some countries seeing more pronounced inflationary pressure than others. This trend highlights the intersection of climate impact and food security, with European consumers bearing the brunt of agricultural challenges.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/04/egg-prices-surge-in-europe-ahead-of-easter-which-countries-saw-the-highest-rise",
+          "author": null
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/the-cost-of-climate-change-is-hitting-homes-this-easter-your-lamb-roast-dinner-is-proof",
+          "author": null
+        }
+      ],
+      "tags": [
+        "climate",
+        "economy",
+        "EU"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Five EU member states call for windfall tax on energy company profits",
+      "summary": "Ministers of economy and finance from Italy, Germany, Spain, Portugal, and Austria have jointly called on the European Union to implement a windfall tax on energy sector surplus profits to address rising energy prices affecting European households. The proposal aims to curb price increases that have been driving inflation across the continent, particularly impacting smaller economies and vulnerable populations. EU energy markets have experienced significant volatility, contributing to broader inflationary pressures in member states. The coordinated call from five major European economies signals growing pressure on EU institutions to intervene in energy pricing mechanisms. This represents a significant economic policy proposal that could reshape how EU member states approach profit regulation in strategic sectors. The initiative reflects concerns that energy companies are benefiting disproportionately from current market conditions while consumers and businesses face escalating costs. The proposal requires approval from broader EU institutions and would need to balance profit regulation with incentives for continued energy production. Other member states are expected to respond to this initiative in coming weeks.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/04/letter-to-eu-from-five-member-states-tax-extra-profits-of-energy-companies",
+          "author": null
+        }
+      ],
+      "tags": [
+        "EU",
+        "economy",
+        "regulation"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Ukrainian military specialists in Libya reportedly struck Russian gas carrier Arctic Metagaz",
+      "summary": "French journalists have reported the presence of more than 200 Ukrainian military specialists in Libya and their alleged involvement in the attack on the Russian gas carrier Arctic Metagaz using a maritime drone. The investigation suggests Ukrainian military operatives have extended their operations beyond the primary theatre of conflict in Eastern Europe into North Africa. The Arctic Metagaz, a Russian vessel, was targeted in what appears to be a coordinated military operation using unmanned maritime technology. The presence of Ukrainian military personnel in Libya represents an expansion of Ukrainian military capabilities and strategic operations in unexpected regions. International observers have raised questions about the implications of such operations for regional stability and the broader context of the Russia-Ukraine conflict. The involvement of military drones in the operation demonstrates Ukrainian adaptation of military technology for operations beyond traditional conflict zones. This development underscores the complexity of the ongoing conflict and how it is reshaping military operations and international engagement in multiple regions. The findings raise diplomatic questions about the scope and reach of proxy operations in the modern conflict environment.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/rfi-investigation-ukrainian-military-in-libya-and-the-strike-on-the-russian-gas-carrier-ar",
+          "author": null
+        }
+      ],
+      "tags": [
+        "conflict",
+        "defence",
+        "diplomacy"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Fugitive mafia boss arrested at Amalfi Coast luxury villa after year on run",
+      "summary": "Italian police have arrested Roberto Mazzarella, a fugitive mafia boss who had been on the run for more than a year and was living under a false identity at a luxury villa on the Amalfi Coast. The arrest represents a significant law enforcement success in the ongoing fight against organised crime in southern Italy. Mazzarella was wanted for murder and had evaded authorities by assuming a false name and maintaining a low profile in the tourist-rich region. The operation demonstrates Italian law enforcement's capability to track and apprehend high-profile criminal figures despite their efforts to remain hidden. The Amalfi Coast, a popular tourist destination, has historically been connected to organised crime operations despite its picturesque image. The arrest comes as European law enforcement continues coordinated efforts against transnational organised crime networks. Italian authorities' success in locating and apprehending Mazzarella reflects improved intelligence gathering and operational coordination. This case underscores ongoing challenges with organised crime in southern Europe and the importance of sustained law enforcement efforts.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/212/cpsprodpb/2378/live/9196d0f0-3016-11f1-8045-2550a829c511.png",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cn437qkk80lo",
+          "author": null
+        }
+      ],
+      "tags": [
+        "crime",
+        "governance",
+        "EU"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Chocolate theft surge forces UK retailers to implement anti-theft security measures",
+      "summary": "Rising chocolate prices in the UK have triggered increased thefts, prompting retailers to implement anti-theft security measures for confectionery sections across the country. Organised retail crime gangs are reportedly travelling around the country specifically to raid chocolate shelves, exploiting the commodity's high value relative to size. The trend reflects how economic pressures and inflation are driving theft in unexpected product categories. Retailers are responding with enhanced security measures including locked cases, surveillance systems, and staffing adjustments in confectionery areas. The chocolate industry has experienced significant price increases due to supply chain disruptions and commodity cost pressures. Supermarket chains are balancing security investments with customer experience considerations. This phenomenon highlights how inflation affects consumer behaviour and drives opportunistic theft patterns in retail environments. The situation represents a broader challenge for European retailers managing loss prevention amid economic pressures.",
+      "image_url": "https://s.france24.com/media/display/2c6c30e6-3005-11f1-88b3-005056a90284/w:1024/p:16x9/EN-20260404-091801-092028-CS.jpg",
+      "authors": [
+        "FRANCE24"
+      ],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/in-the-uk-thieves-travel-around-the-country-to-raid-chocolate-shelves",
+          "author": "FRANCE24"
+        }
+      ],
+      "tags": [
+        "economy",
+        "crime",
+        "EU"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ],
+  "world": [
+    {
+      "headline": "Russia launches Easter escalation with hundreds of drones and missiles against Ukraine",
+      "summary": "Russia chose military escalation over a potential ceasefire on Easter, April 4th, launching a massive attack against Ukraine with hundreds of drones and missiles. Ukrainian President Zelensky condemned the attack as an 'Easter escalation,' describing the coordinated assault as evidence of Russia's rejection of peace negotiations. The strikes resulted in six civilian deaths and injured approximately 40 others across multiple locations in Ukraine. This significant escalation marks a departure from any temporary pause in hostilities that might have accompanied the Easter holiday period, a date traditionally marked by cultural and religious significance. The attack demonstrates Russia's continued military capacity and strategic determination to pursue its objectives despite ongoing international pressure. Ukrainian defense systems engaged with the incoming threats, though the sheer volume of ordnance overwhelmed defenses in some areas. The attack underscores the humanitarian crisis facing Ukrainian civilians and the fragility of any ceasefire arrangements. The incident will likely intensify diplomatic pressure on Russia from Western nations and strengthen calls for increased military support to Ukraine.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [
+        "FRANCE 24",
+        "FRANCE24"
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "author": null
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+          "author": "FRANCE 24"
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/war-in-ukraine-russian-night-time-strikes-wound-at-least-14-people",
+          "author": "FRANCE24"
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/eight-dead-in-massive-russian-attack-while-kyiv-signals-readiness-for-easter-ceasefire",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": [
+        "conflict",
+        "defence",
+        "diplomacy",
+        "humanitarian"
+      ],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Iran conflict enters 6th week as US warplane shot down, crew member missing",
+      "summary": "The ongoing conflict between the US, Israel, and Iran intensified significantly on April 4th as Iran downed a US warplane, leaving one crew member missing. This marks day 36 of what has been termed the Iran war, with escalating military operations from both sides. Iran claims responsibility for shooting down two US warplanes in recent operations, while search and rescue efforts are underway for the missing American service member. The US and Israel have responded with attacks on Iranian civilian infrastructure, including petrochemical and nuclear facilities, despite ongoing humanitarian concerns. Former US military officials emphasized the dangers faced by any recovery teams searching in hostile territory. The incident represents a significant escalation in the conflict, with diplomatic channels strained and military operations continuing unabated. Israel has also intensified strikes, including attacks on Lebanon infrastructure. The geopolitical implications extend across the Middle East, affecting regional security dynamics and international oil prices. Global markets and energy supplies continue to be impacted by the ongoing hostilities.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
+      "authors": [
+        "Apps Support",
+        "NPR Staff"
+      ],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkU0aFRMbzRTckJCMzE1T09NZWFPWXNtOW1kNVM5RzRKZlFCOVl1UVlwZU5fLU5nTDRkbE82WU1EeEVLZjg0NHAyajZSdzNOWlhTc1FQNk9iNWpfbTBGWkFKT1ZueUhLUXQxbmVmMzUzLTlFOHFWeXR4bHJWWjFJa1NadU1PcS12anppMTJVaU9jWWpKZm9OQ19uVW9XMTZOZF9OSlZmS3BPUQ?oc=5",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
+          "author": "NPR Staff"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "diplomacy",
+        "geopolitics"
+      ],
+      "significance": "high",
+      "also_in_top": true
+    },
+    {
+      "headline": "Artemis II crew reaches midpoint of lunar journey with spectacular Earth imagery",
+      "summary": "NASA's Artemis II mission achieved a major milestone on April 4th as the astronaut crew reached the halfway point of their journey to the Moon. Commander Reid Wiseman and the crew captured striking images of Earth from the Orion capsule as they traveled deeper into space, providing the public with breathtaking perspectives of our home planet from their vantage point. The mission represents a significant step in humanity's renewed effort to return to the Moon, with the crew scheduled to orbit Earth's satellite and return home. The successful midpoint milestone demonstrates the robustness of NASA's exploration systems and the capability of the Orion spacecraft. These iconic images of Earth from deep space serve as powerful symbols of human spacefaring achievement and global unity. The Artemis II mission is paving the way for future crewed lunar landings and deep-space exploration. The successful progress of the mission has generated renewed enthusiasm for space exploration across the international community. The crew's journey continues to capture global attention as a testament to human ambition and scientific advancement.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
+      "authors": [
+        "Apps Support",
+        "Scott Simon"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+          "author": "Apps Support"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
+          "author": "Scott Simon"
+        }
+      ],
+      "tags": [
+        "technology",
+        "space exploration",
+        "science"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Afghanistan earthquake kills eight members of same family, highlighting humanitarian crisis",
+      "summary": "A devastating earthquake in Afghanistan claimed the lives of eight members of a single family on April 4th, with only a young boy surviving the disaster with injuries. The tragedy exemplifies the vulnerability of Afghan communities to natural disasters and the limited resources available for disaster response in the conflict-affected nation. Seismic activity in Afghanistan is not uncommon, but the region's ongoing instability and infrastructure challenges complicate rescue and recovery efforts. The death of an entire family unit highlights the social and economic consequences of such disasters in areas where poverty and limited healthcare infrastructure are prevalent. The incident underscores Afghanistan's desperate humanitarian situation, where citizens face threats from both human conflict and natural disasters. International humanitarian organizations have limited capacity to respond to such emergencies given the country's political instability. The earthquake serves as a reminder of the broader humanitarian challenges facing Afghan civilians in the aftermath of years of conflict. Climate and geological factors continue to pose significant risks to vulnerable populations across Central Asia.",
+      "image_url": null,
+      "authors": [
+        "Apps Support"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
+          "author": "Apps Support"
+        }
+      ],
+      "tags": [
+        "humanitarian",
+        "climate",
+        "disaster"
+      ],
+      "significance": "high",
+      "also_in_top": false
+    },
+    {
+      "headline": "Iran executes two opposition members amid escalating military conflict",
+      "summary": "Iran executed two convicted members of a banned opposition group on April 4th, with the Supreme Court having upheld their sentences. Abolhassan Montazer and Vahid Baniamerian were hanged following legal proceedings that drew scrutiny from international human rights organizations. The executions occurred against the backdrop of the intensifying US-Israeli military campaign against Iran, raising concerns about the intersection of domestic political repression and international conflict. Iran has historically used capital punishment against perceived political opponents and dissident members, a practice that draws regular international condemnation. The timing of these executions during the escalating military conflict adds a layer of concern to observers monitoring human rights in the region. International organizations have called for transparency in Iran's judicial processes and raised questions about the treatment of dissidents. The executions underscore broader concerns about civil liberties and governance in Iran during a period of intense military pressure. The incident illustrates how domestic and international crises can intersect, potentially affecting vulnerable populations including political prisoners.",
+      "image_url": null,
+      "authors": [
+        "Apps Support"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
+          "author": "Apps Support"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "human rights",
+        "diplomacy"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Vietnam's Q1 economic growth slows as Middle East energy costs pressure 2026 targets",
+      "summary": "Vietnam's first-quarter economic growth slowed in 2026 as rising energy costs from the Middle East conflict put pressure on the government's full-year growth targets. The disruption to global energy markets caused by the escalating Iran-Israel tensions has increased fuel costs for Vietnamese importers, adding inflationary pressure to Southeast Asia's second-largest economy. Vietnam relies significantly on energy imports, making it vulnerable to price volatility in global markets, particularly during periods of geopolitical tension. The slowdown in Q1 growth reflects the transmission of international shocks through supply chains and energy prices into Vietnam's domestic economy. Businesses have faced higher input costs, affecting manufacturing competitiveness and export performance. The government's ability to achieve its 2026 growth targets is now in question given the persistence of elevated energy prices. Vietnam's experience demonstrates how global conflicts can have measurable economic impacts on nations far removed from the conflict zone. Policymakers are evaluating measures to mitigate energy price impacts on growth and inflation.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGx1Z0NnZXo4UzIxcGpSRXl6ZF95X00wdW9ZcTNYQkczVGJ3YkpZZk5aOGl0UExTaE92OEdZM09qa1l2SXM0VG9Oek1SSGJqbElIUnBkWC1TajNraUstb0pvZ2t0Vy00dGpEbjRTWVMxQVNrZmJNQWlmT25RSXZIRnV6bHFUT2k3NHBKZktUSmQ3dTIzZnZaQUFkRFAyUF9z?oc=5",
+          "author": null
+        }
+      ],
+      "tags": [
+        "economy",
+        "geopolitics",
+        "energy"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    },
+    {
+      "headline": "Senegal restricts ministers' foreign travel as oil price surges strain government finances",
+      "summary": "Senegal has imposed restrictions on foreign travel for government ministers as fuel costs nearly doubled what the government budgeted for, creating acute financial pressures. The decision reflects the broader economic impact of elevated global energy prices on developing nations with limited fiscal buffers. Senegal, a major West African economy with significant energy import dependence, has been disproportionately affected by the price volatility caused by Middle East tensions. The government's restriction on ministerial travel is a symbolic measure reflecting the severity of the fiscal crisis facing the state. Higher fuel costs have ripple effects across the economy, affecting transportation costs, government operations, and general inflation. The measure highlights how developing nations are particularly vulnerable to global energy price shocks. Senegal's experience is representative of broader challenges facing African economies that lack energy independence. The situation may force difficult choices about government spending priorities and development initiatives.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3764/live/cb2fe310-300c-11f1-8d50-677398226ba9.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
+          "author": null
+        }
+      ],
+      "tags": [
+        "economy",
+        "geopolitics",
+        "energy"
+      ],
+      "significance": "medium",
+      "also_in_top": false
+    }
+  ]
+}

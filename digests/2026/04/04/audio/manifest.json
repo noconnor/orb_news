@@ -1,0 +1,41 @@
+{
+  "voice": "en-IE-EmilyNeural",
+  "sections": {
+    "top-story-1": {
+      "file": "top-story-1.mp3",
+      "duration_s": 50.8,
+      "size_bytes": 508032,
+      "chars": 1508
+    },
+    "top-story-2": {
+      "file": "top-story-2.mp3",
+      "duration_s": 50.6,
+      "size_bytes": 506016,
+      "chars": 1403
+    },
+    "top-story-3": {
+      "file": "top-story-3.mp3",
+      "duration_s": 59.5,
+      "size_bytes": 595440,
+      "chars": 1722
+    },
+    "world": {
+      "file": "world.mp3",
+      "duration_s": 80.1,
+      "size_bytes": 801216,
+      "chars": 2339
+    },
+    "europe": {
+      "file": "europe.mp3",
+      "duration_s": 94.9,
+      "size_bytes": 949392,
+      "chars": 2830
+    },
+    "ireland": {
+      "file": "ireland.mp3",
+      "duration_s": 116.6,
+      "size_bytes": 1165824,
+      "chars": 3455
+    }
+  }
+}

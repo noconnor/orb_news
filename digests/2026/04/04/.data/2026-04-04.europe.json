@@ -1,0 +1,138 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-04T12:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia escalates Easter attacks on Ukraine as Kyiv proposes ceasefire",
+      "summary": "Russia launched a massive assault on Ukraine over the Easter weekend, killing at least 15 people, including civilians, as part of what Ukrainian President Zelensky described as an 'Easter escalation' rather than a pause for peace. The strikes involved hundreds of drones and missiles targeting multiple locations across the country, with Russian forces continuing intensive overnight bombardments. In response, Kyiv has signalled readiness for an Easter ceasefire and has launched retaliatory drone strikes deep into Russian territory. A Russian drone hit a covered market in Nikopol, killing five civilians and injuring 19 others in a particularly deadly attack. Ukrainian military sources indicate continued coordination of both defensive and offensive operations amid the intensified conflict. The escalation comes as European nations monitor developments and consider diplomatic responses to the ongoing war. EU member states remain engaged in discussions about support for Ukraine amid the sustained Russian military campaign. International attention is focused on whether diplomatic initiatives can gain traction amid the intensifying military operations.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "author": null
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+          "author": "FRANCE 24"
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/war-in-ukraine-russian-night-time-strikes-wound-at-least-14-people",
+          "author": "FRANCE24"
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/eight-dead-in-massive-russian-attack-while-kyiv-signals-readiness-for-easter-ceasefire",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "defence", "diplomacy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Five EU member states call for windfall tax on energy company profits",
+      "summary": "Ministers of economy and finance from Italy, Germany, Spain, Portugal, and Austria have jointly called on the European Union to implement a windfall tax on energy sector surplus profits to address rising energy prices affecting European households. The proposal aims to curb price increases that have been driving inflation across the continent, particularly impacting smaller economies and vulnerable populations. EU energy markets have experienced significant volatility, contributing to broader inflationary pressures in member states. The coordinated call from five major European economies signals growing pressure on EU institutions to intervene in energy pricing mechanisms. This represents a significant economic policy proposal that could reshape how EU member states approach profit regulation in strategic sectors. The initiative reflects concerns that energy companies are benefiting disproportionately from current market conditions while consumers and businesses face escalating costs. The proposal requires approval from broader EU institutions and would need to balance profit regulation with incentives for continued energy production. Other member states are expected to respond to this initiative in coming weeks.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/04/letter-to-eu-from-five-member-states-tax-extra-profits-of-energy-companies",
+          "author": null
+        }
+      ],
+      "tags": ["EU", "economy", "regulation"],
+      "significance": "high"
+    },
+    {
+      "headline": "Easter food price surge grips Europe as egg and lamb costs soar",
+      "summary": "Egg and lamb prices are surging across Europe ahead of Easter, with egg inflation significantly outpacing overall inflation in most European countries. Climate-fuelled extreme weather has become farmers' biggest challenge, driving up production costs and reducing supply of key Easter staples. The cost of climate change is increasingly hitting European households, with Easter dinner becoming noticeably more expensive compared to previous years. Wholesale and consumer egg prices are on the rise simultaneously, reflecting both supply constraints and demand increases as the holiday approaches. Farmers report that erratic weather patterns and environmental pressures are making agricultural production increasingly unpredictable and costly. The price surge is affecting both individual households and food businesses that depend on these ingredients for Easter offerings. EU nations are experiencing varied levels of price increases, with some countries seeing more pronounced inflationary pressure than others. This trend highlights the intersection of climate impact and food security, with European consumers bearing the brunt of agricultural challenges.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/04/egg-prices-surge-in-europe-ahead-of-easter-which-countries-saw-the-highest-rise",
+          "author": null
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/the-cost-of-climate-change-is-hitting-homes-this-easter-your-lamb-roast-dinner-is-proof",
+          "author": null
+        }
+      ],
+      "tags": ["climate", "economy", "EU"],
+      "significance": "high"
+    },
+    {
+      "headline": "Fugitive mafia boss arrested at Amalfi Coast luxury villa after year on run",
+      "summary": "Italian police have arrested Roberto Mazzarella, a fugitive mafia boss who had been on the run for more than a year and was living under a false identity at a luxury villa on the Amalfi Coast. The arrest represents a significant law enforcement success in the ongoing fight against organised crime in southern Italy. Mazzarella was wanted for murder and had evaded authorities by assuming a false name and maintaining a low profile in the tourist-rich region. The operation demonstrates Italian law enforcement's capability to track and apprehend high-profile criminal figures despite their efforts to remain hidden. The Amalfi Coast, a popular tourist destination, has historically been connected to organised crime operations despite its picturesque image. The arrest comes as European law enforcement continues coordinated efforts against transnational organised crime networks. Italian authorities' success in locating and apprehending Mazzarella reflects improved intelligence gathering and operational coordination. This case underscores ongoing challenges with organised crime in southern Europe and the importance of sustained law enforcement efforts.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/212/cpsprodpb/2378/live/9196d0f0-3016-11f1-8045-2550a829c511.png",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cn437qkk80lo",
+          "author": null
+        }
+      ],
+      "tags": ["crime", "governance", "EU"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Storm Dave brings severe weather disruption to UK with 80mph winds",
+      "summary": "Storm Dave is triggering weather warnings across the UK with power company SSEN predicting wind gusts could reach approximately 80 miles per hour in parts of the country during the Easter weekend. The severe weather system is expected to cause significant travel disruption and power outages in affected areas. Forecasters have issued official weather warnings as the system approaches, advising residents to prepare for hazardous conditions. The storm presents risks to transportation networks, with potential delays and cancellations affecting road, rail, and potentially air travel. Power company infrastructure is being closely monitored to mitigate potential supply disruptions. Easter holiday travel plans may be affected as residents face challenging weather conditions. The Met Office and other meteorological services are tracking the system closely to provide updated warnings as conditions develop. Residents in affected areas are being advised to take precautions and prepare for the severe weather impact.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29f4/live/20119ed0-2f79-11f1-9ab7-3fd8eff9efaa.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c5y80nj5v50o",
+          "author": null
+        }
+      ],
+      "tags": ["weather", "EU"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Ukrainian military specialists in Libya reportedly struck Russian gas carrier Arctic Metagaz",
+      "summary": "French journalists have reported the presence of more than 200 Ukrainian military specialists in Libya and their alleged involvement in the attack on the Russian gas carrier Arctic Metagaz using a maritime drone. The investigation suggests Ukrainian military operatives have extended their operations beyond the primary theatre of conflict in Eastern Europe into North Africa. The Arctic Metagaz, a Russian vessel, was targeted in what appears to be a coordinated military operation using unmanned maritime technology. The presence of Ukrainian military personnel in Libya represents an expansion of Ukrainian military capabilities and strategic operations in unexpected regions. International observers have raised questions about the implications of such operations for regional stability and the broader context of the Russia-Ukraine conflict. The involvement of military drones in the operation demonstrates Ukrainian adaptation of military technology for operations beyond traditional conflict zones. This development underscores the complexity of the ongoing conflict and how it is reshaping military operations and international engagement in multiple regions. The findings raise diplomatic questions about the scope and reach of proxy operations in the modern conflict environment.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/rfi-investigation-ukrainian-military-in-libya-and-the-strike-on-the-russian-gas-carrier-ar",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "defence", "diplomacy"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Chocolate theft surge forces UK retailers to implement anti-theft security measures",
+      "summary": "Rising chocolate prices in the UK have triggered increased thefts, prompting retailers to implement anti-theft security measures for confectionery sections across the country. Organised retail crime gangs are reportedly travelling around the country specifically to raid chocolate shelves, exploiting the commodity's high value relative to size. The trend reflects how economic pressures and inflation are driving theft in unexpected product categories. Retailers are responding with enhanced security measures including locked cases, surveillance systems, and staffing adjustments in confectionery areas. The chocolate industry has experienced significant price increases due to supply chain disruptions and commodity cost pressures. Supermarket chains are balancing security investments with customer experience considerations. This phenomenon highlights how inflation affects consumer behaviour and drives opportunistic theft patterns in retail environments. The situation represents a broader challenge for European retailers managing loss prevention amid economic pressures.",
+      "image_url": "https://s.france24.com/media/display/2c6c30e6-3005-11f1-88b3-005056a90284/w:1024/p:16x9/EN-20260404-091801-092028-CS.jpg",
+      "authors": ["FRANCE24"],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/in-the-uk-thieves-travel-around-the-country-to-raid-chocolate-shelves",
+          "author": "FRANCE24"
+        }
+      ],
+      "tags": ["economy", "crime", "EU"],
+      "significance": "medium"
+    }
+  ]
+}
