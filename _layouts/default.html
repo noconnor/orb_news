@@ -144,6 +144,9 @@
     function getCleanText() {
       const content = document.getElementById('digestContent').cloneNode(true);
 
+      // Remove injected listen button and progress
+      content.querySelectorAll('.listen-btn, .listen-progress').forEach(el => el.remove());
+
       // Remove superscript reference links
       content.querySelectorAll('sup').forEach(el => el.remove());
 
@@ -253,17 +256,23 @@
     }
 
     function doStart() {
+      // Cancel any previous speech first
+      speechSynthesis.cancel();
+
       // Prepare text
       const text = getCleanText();
-      if (!text) return;
+      if (!text) { console.error('No text to speak'); return; }
 
       chunks = splitIntoChunks(text, 3000);
+      if (!chunks.length) { console.error('No chunks'); return; }
+
       currentChunk = 0;
       isPlaying = true;
       updateUI();
 
-      // Start speaking after a tick
-      setTimeout(() => speakChunk(0), 50);
+      // Must call speak() synchronously in the user gesture call stack
+      // (setTimeout breaks the user-activation chain in some browsers)
+      speakChunk(0);
     }
 
     function doStop() {
