@@ -3,67 +3,67 @@
   "update_type": "morning",
   "steps": {
     "setup": {
-      "start": 1775304613,
-      "end": 1775304635,
-      "duration_s": 22
+      "start": 1775309019,
+      "end": 1775309037,
+      "duration_s": 18
     },
     "gather": {
-      "start": 1775304644,
-      "end": 1775304743,
-      "duration_s": 99
+      "start": 1775309053,
+      "end": 1775309377,
+      "duration_s": 324
     },
     "preprocess_synthesis": {
-      "start": 1775304765,
-      "end": 1775304778,
-      "duration_s": 13
+      "start": 1775309377,
+      "end": 1775309383,
+      "duration_s": 6
     },
     "synthesize": {
-      "start": 1775304778,
-      "end": 1775305237,
-      "duration_s": 459
+      "start": 1775309383,
+      "end": 1775309873,
+      "duration_s": 490
     },
     "preprocess_historical": {
-      "start": 1775305247,
-      "end": 1775305247,
+      "start": 1775309877,
+      "end": 1775309877,
       "duration_s": 0
     },
     "historical": {
-      "start": 1775305256,
-      "end": 1775305455,
-      "duration_s": 199
+      "start": 1775309882,
+      "end": 1775309958,
+      "duration_s": 76
     },
     "preprocess_format": {
-      "start": 1775305465,
-      "end": 1775305465,
+      "start": 1775309963,
+      "end": 1775309963,
       "duration_s": 0
     },
     "format": {
-      "start": 1775305473,
-      "end": 1775305639,
-      "duration_s": 166
+      "start": 1775309966,
+      "end": 1775310164,
+      "duration_s": 198
     },
     "audio": {
-      "start": 1775305935,
-      "end": 1775306150,
-      "duration_s": 215
+      "start": 1775310168,
+      "end": 1775310401,
+      "duration_s": 233
     },
     "write_commit": {
-      "start": 1775306150,
-      "end": 0,
+      "start": 1775310405,
+      "end": 1775310405,
       "duration_s": 0
     }
   },
-  "total_duration_s": 1537,
+  "total_duration_s": 1386,
   "token_estimate": {
-    "text_file_bytes": 342856,
-    "baseline_tokens": 85714,
-    "estimated_input_tokens": 257142,
-    "haiku_input": 115713,
-    "haiku_output": 23142,
-    "sonnet_input": 89999,
-    "sonnet_output": 22499,
+    "text_file_bytes": 271441,
+    "baseline_tokens": 67860,
+    "estimated_input_tokens": 203580,
+    "haiku_input": 91611,
+    "haiku_output": 18322,
+    "sonnet_input": 71253,
+    "sonnet_output": 17813,
     "opus_input": 30000,
     "opus_output": 8000,
-    "estimated_cost_usd": 1.84
+    "estimated_cost_usd": 1.68
   }
 }

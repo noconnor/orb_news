@@ -2,59 +2,65 @@
   "parallels": [
     {
       "type": "synthesis",
-      "story_headline": "Russia launches Easter escalation with hundreds of drones and missiles against Ukraine",
-      "story_topic": "Russia-Ukraine war stalemate",
+      "story_headline": "US Warplane Shot Down Over Iran as Conflict Escalates; Projectile Strikes Bushehr Nuclear Plant",
+      "story_topic": "Iran-US conflict global economic shock",
       "events_synthesized": [
-        "Korean War Stalemate",
-        "Allied Oil Campaign of World War II (1944-1945)",
         "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "summary": "Across four distinct historical parallels, a consistent pattern emerges: military escalation in the Persian Gulf region reliably translates into global economic disruption, particularly through energy markets. The 1973 Arab Oil Embargo demonstrated that a politically motivated supply restriction could trigger a global recession and permanently reshape energy policy in the West. The Iran-Iraq War (1980–1988) and its embedded Tanker War showed that sustained conflict near the Strait of Hormuz does not necessarily produce an immediate embargo but generates chronic price volatility and insurance cost spikes that ripple through the global economy over years. The 1990 oil price shock, triggered by Iraq's invasion of Kuwait, illustrated how rapidly markets price in worst-case scenarios — oil doubled in price within weeks before stabilising as the threat to Saudi production receded. What the accumulated record suggests is that the economic consequences of Persian Gulf conflict tend to be front-loaded: the initial escalation shock is often sharper than the sustained disruption that follows, particularly if the conflict remains geographically contained. The current situation — involving strikes near a nuclear installation and the loss of a US military aircraft — adds a dimension none of the historical precedents fully captured: the potential for nuclear safety incidents to transform an economic shock into an existential one. The historical record suggests that markets and policymakers should distinguish between disruption that is severe but recoverable, as in 1973 and 1990, and escalation pathways that carry genuinely uncharted risks. The weight of precedent counsels both caution about deterministic economic predictions and vigilance about the structural factors — Hormuz transit, nuclear safety, great-power credibility — that could push this episode beyond familiar historical bounds.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Russia Launches 'Easter Escalation' Against Ukraine with Hundreds of Drones and Missiles, Killing Civilians",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "events_synthesized": [
+        "Allied Oil Campaign of World War II (1944-1945)",
         "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
         "The 1990 Oil Price Shock",
+        "Korean War Stalemate",
+        "Kuwaiti Oil Fires (1991)",
         "The Winter War (1939-1940)",
         "The Tanker War (1984-1988)",
         "Iran-Iraq War (1980-1988)"
       ],
-      "summary": "Across eight historical parallels, a consistent pattern emerges: prolonged conflicts marked by aerial bombardment, energy infrastructure targeting, and attritional grinding tend to exhaust both sides without producing clean military victories. The Korean War stalemate demonstrated that a conflict can freeze along contested lines for years while diplomacy stalls and casualties accumulate, ultimately resolving only through a negotiated armistice rather than decisive defeat of either side. The strategic bombing campaigns of World War II — including the deliberate terror bombing of civilian populations — showed that aerial escalation rarely breaks civilian will in the short term, though it does impose severe cumulative costs over time. The Iran-Iraq War and the Tanker War illustrated how belligerents can sustain mutual punishment campaigns for nearly a decade, with neither side achieving its original objectives. The Winter War showed how a larger military power can inflict enormous damage while still failing to subdue a determined smaller adversary, eventually settling for limited territorial gains at high reputational cost. Taken together, the historical record suggests that Russia's Easter escalation fits a recognisable pattern of intensification designed to force concessions or erode resolve rather than achieve battlefield decision — and that such escalations, while devastating in the short term, have rarely by themselves ended wars on the aggressor's terms. The accumulation of these parallels implies that the conflict is more likely to transform through exhaustion or negotiated compromise than through outright military victory for either side.",
+      "summary": "The accumulated historical parallels for Russia's sustained aerial campaign against Ukraine point to two converging patterns: the use of mass aerial bombardment to terrorise civilian populations and erode political will, and the targeting of energy infrastructure to degrade an adversary's military-economic capacity. The Blitz established that prolonged terror bombing of civilian populations, while psychologically devastating, rarely achieves the capitulation its architects intend — it more often hardens resistance and consolidates international sympathy for the attacked party. The Allied Oil Campaign of 1944–45 demonstrated the inverse proposition: systematically destroying fuel and energy infrastructure can achieve decisive strategic effect, though it required overwhelming air superiority that neither Russia nor Ukraine currently possesses over the other. The Korean War stalemate and the Winter War both illustrate how conflicts between asymmetrically matched powers can settle into grinding attrition without delivering the decisive outcome either side seeks, with the higher-cost attacker often absorbing more damage than anticipated. The Tanker War and the Kuwaiti Oil Fires show that infrastructure targeting raises the stakes for third parties — particularly in energy markets — and can draw in external actors who had sought to remain neutral. What the weight of precedent suggests for the current conflict is that Russia's Easter escalation fits a recognisable playbook of coercive bombardment, one that has historically imposed severe human costs without reliably delivering strategic victory. The historical record also warns that deliberate holiday timing and civilian market strikes, as in the current campaign, tend to accelerate international political pressure for intervention or stronger material support for the defending party rather than achieving the desired demoralisation effect.",
       "wikipedia_urls": [
-        "https://en.wikipedia.org/wiki/Korean_War",
         "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
-        "https://en.wikipedia.org/wiki/1973_oil_crisis",
         "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
         "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
         "https://en.wikipedia.org/wiki/Winter_War",
         "https://en.wikipedia.org/wiki/Tanker_war",
         "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
       ]
     },
     {
-      "type": "new",
-      "story_headline": "Storm Dave brings severe gusts and travel disruption across Ireland as Status Yellow wind warning takes effect",
-      "story_topic": "Ireland named storm disruption",
-      "historical_event": "Night of the Big Wind (1839)",
-      "date_range": "1839",
-      "summary": "The Night of the Big Wind — in Irish, Oíche na Gaoithe Móire — struck Ireland on 6 January 1839 and is widely regarded as probably the worst storm to hit the island in the past 300 years. The event developed from an unusual sequence: heavy snowfall blanketed Ireland on the night of 5 January, followed by a warm Atlantic front that rapidly thawed the snow and left the atmosphere unstable. By midnight on 6 January, a deep Atlantic depression drove hurricane-force winds across the island, causing catastrophic damage particularly in Connacht, Ulster, and northern Leinster. Between 250 and 300 people lost their lives, 42 ships were wrecked mainly along the west coast, and between a fifth and a quarter of all houses in Dublin suffered damage ranging from broken windows to complete structural destruction. Livestock perished and food stores were wiped out across rural communities, prolonging the storm's hardship well into the following months. The event became so embedded in Irish collective memory that, when the Old Age Pension was introduced in 1908, recollection of the Night of the Big Wind was used as an informal test of age for applicants who lacked birth records. The storm left a legacy in folklore, literature, and oral tradition that endures to the present day.",
-      "parallel_analysis": "Storm Dave's combination of wide national wind warnings, gusts approaching 100 km/h, coastal flooding risk, and disruption to Easter travel echoes the structural pattern of severe Atlantic cyclonic events that have periodically struck Ireland throughout recorded history — of which the 1839 storm is the defining benchmark. What distinguishes modern events like Storm Dave is the availability of advance meteorological forecasting, coordinated emergency response, and named-storm communication systems that simply did not exist in 1839, meaning the human toll is far more limited despite similar atmospheric dynamics. The historical record suggests that Ireland's vulnerability to intense Atlantic windstorms is a persistent feature of its climate, and that effective public warning and infrastructure resilience — rather than any change in storm frequency — is what separates manageable disruption from catastrophe.",
-      "wikipedia_urls": [
-        "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind"
-      ]
-    },
-    {
       "type": "synthesis",
-      "story_headline": "Iran conflict enters 6th week as US warplane shot down, crew member missing",
+      "story_headline": "Five EU Member States Jointly Propose Windfall Tax on Energy Company Profits",
       "story_topic": "Iran-US conflict global economic shock",
       "events_synthesized": [
         "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
         "The 1990 Oil Price Shock",
-        "The Tanker War (1984-1988)",
-        "Iran-Iraq War (1980-1988)",
-        "Allied Oil Campaign of World War II (1944-45)"
+        "Allied Oil Campaign of World War II (1944-1945)"
       ],
-      "summary": "Five historical parallels, taken together, reveal a recurring dynamic: military conflict in or adjacent to the Persian Gulf almost invariably transmits economic shock well beyond the battlefield, with global oil markets serving as the primary transmission mechanism. The 1973 Arab Oil Embargo demonstrated that even a politically motivated supply restriction, rather than direct destruction of infrastructure, is sufficient to trigger recession-level disruption in oil-importing economies. The 1990 Oil Price Shock showed that the mere threat of sustained conflict around Gulf chokepoints causes immediate and severe price spikes before a single barrel of oil is lost. The Iran-Iraq War and the associated Tanker War illustrated that belligerents are willing to attack neutral commercial shipping as a deliberate economic coercion strategy, drawing in external naval powers and creating sustained market uncertainty for nearly a decade. The Allied Oil Campaign of World War II demonstrated that even highly industrial powers can be materially degraded when their energy supply lines are systematically targeted. Now entering its sixth week, the Iran-US conflict is following a trajectory that these precedents suggest will increasingly stress global energy markets the longer it continues, particularly given Iran's position astride the Strait of Hormuz. The historical record implies that extended conflicts of this kind tend to produce negotiated ceasefires driven at least partly by economic pressure on all parties, but rarely before significant structural damage to energy trade flows has already occurred.",
+      "summary": "The five accumulated parallels for this topic trace a recurring arc: geopolitical conflicts generate energy price shocks, which in turn produce intense political pressure on governments to redistribute windfall gains from energy producers to households bearing the cost. The 1973 oil crisis was the most formative instance — it led directly to windfall profit taxes in the United States and drove European governments toward coordinated energy policy frameworks that persist to this day. The 1990 oil price shock produced a shorter but structurally similar political response, with temporary measures introduced to cushion consumers from sudden price increases. The wartime precedents — the Korean conflict and the World War II campaigns — illustrate that wartime economic dislocation routinely triggers state intervention in markets that would otherwise be considered beyond government reach, and that such interventions tend to outlast the crisis that prompted them. What the historical record suggests about the current EU windfall tax proposal is that coordinated fiscal responses to energy shocks face a predictable tension: they address the distributive inequity of price windfalls but risk signalling policy instability to investors whose capital is needed to build the supply capacity that would structurally reduce prices. Historically, temporary windfall taxes have tended to become institutionalised or recur, creating long-term uncertainty for energy investment. The five-state coordination represents a stronger political foundation than past unilateral national measures, but the historical precedent also suggests that the countries with the most to lose from such taxes — major domestic energy producers — have consistently found ways to dilute or block them at the European level.",
       "wikipedia_urls": [
         "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
         "https://en.wikipedia.org/wiki/1990_oil_price_shock",
-        "https://en.wikipedia.org/wiki/Tanker_war",
-        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
         "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
       ]
     }

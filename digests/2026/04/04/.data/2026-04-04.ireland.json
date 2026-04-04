@@ -1,6 +1,6 @@
 {
   "layer": "ireland",
-  "fetched_at": "2026-04-04T13:15:00Z",
+  "fetched_at": "2026-04-04T14:35:00Z",
   "source_status": {
     "rte": "ok",
     "thejournal": "ok",
@@ -10,94 +10,128 @@
   },
   "stories": [
     {
-      "headline": "Irish peacekeepers in Lebanon caught behind Israeli lines as IDF advances south",
-      "summary": "More than 300 Irish Defence Force soldiers stationed at Camp Shamrock in southern Lebanon are now positioned behind Israeli Defence Force lines following Israel's military advance into the region. The Irish peacekeepers, operating as part of the UN peacekeeping mission (UNIFIL), face significant safety concerns as the IDF expands its operations southward. Ireland's Minister for Defence has expressed serious concern about the soldiers' security and the deteriorating situation in the buffer zone where they are stationed. The Irish contingent has been in Lebanon for decades as part of the United Nations peacekeeping efforts. The situation represents a major escalation in the conflict affecting Irish military personnel directly. Diplomatic efforts are reportedly underway to ensure the safe passage and protection of the Irish soldiers. This is a critical development with implications for Ireland's participation in international peacekeeping missions. The incident highlights the broader regional instability affecting multiple countries with troops in the area. Ireland may need to reconsider its deployment strategy in response to this heightened threat level.",
+      "headline": "Irish peacekeepers in Lebanon now behind Israeli lines as IDF advances south",
+      "summary": "More than 300 Irish Defence Force personnel stationed at Camp Shamrock in Lebanon are now positioned behind advancing Israeli Defence Force lines as Israel continues military operations in southern Lebanon. The Irish soldiers, deployed as UN peacekeepers as part of UNIFIL, face significant safety concerns due to their location amid escalating conflict between Israel and Hezbollah. The situation reflects broader regional tensions following weeks of conflict in the Middle East, including a major escalation involving Iranian forces and U.S. military aircraft. The Irish government has expressed concern about the safety of its troops and is actively monitoring the situation. Irish diplomatic officials are engaged with international partners regarding the safety and operational status of Irish personnel. The positioning of Irish troops in an active conflict zone represents a significant challenge for Irish defence policy and raises questions about the viability of peacekeeping operations in the current security environment. Military and government authorities are assessing options to protect Irish forces while maintaining the peacekeeping mandate.",
       "image_url": "https://www.irishtimes.com/resizer/v2/5OA55A2HSNCZFEP5YN6XZULHAA.jpg",
       "authors": ["Conor Lally"],
       "sources": [
-        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/04/irish-peacekeepers-in-lebanon-now-behind-israeli-lines-as-idf-advances-south/", "author": "Conor Lally"}
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/04/irish-peacekeepers-in-lebanon-now-behind-israeli-lines-as-idf-advances-south/",
+          "author": "Conor Lally"
+        }
       ],
-      "tags": ["defence", "politics", "safety"],
+      "tags": ["defence", "international", "security"],
       "significance": "high"
     },
     {
-      "headline": "Storm Dave brings severe gusts and travel disruption across Ireland as Status Yellow wind warning takes effect",
-      "summary": "Storm Dave, the fourth named storm of the season, is bringing severe weather to Ireland on Easter weekend with Status Yellow wind warnings in effect nationwide. Met Éireann has issued forecasts for wind gusts reaching up to 100 kilometres per hour, with coastal areas experiencing even more severe conditions and gales. The wind warning came into force at 1pm on Saturday and remains in place until 2am on Sunday, with additional yellow rain warnings issued for Donegal and Mayo. Emergency services and local authorities have advised the public to secure loose items and exercise caution during travel. The storm is expected to impact transport services including roads, public transport, and potentially air services across the country. Coastal communities are on alert for potential flooding and erosion. Rural areas may experience power outages due to the high winds. This represents typical seasonal Easter weekend weather challenges for Ireland. Citizens are advised to follow updates from weather forecasters and emergency services throughout the weekend.",
+      "headline": "Storm Dave brings severe gusts and Status Yellow wind warning across Ireland",
+      "summary": "Storm Dave, the season's fourth named weather system, has brought a nationwide Status Yellow wind warning to Ireland as severe gusts and coastal gales impact the island over the Easter weekend. Met Éireann forecasts winds of approximately 100 kilometres per hour across the country, with the warning in effect until 2am on Sunday and additional rain warnings for areas including Donegal and Mayo. Travel disruption is expected due to the storm conditions, with ferry services and rail operators warning passengers of potential delays and cancellations. Dublin Airport is preparing for disruptions during what was expected to be the busiest Easter weekend of 2026, though flight schedules have not been significantly impacted so far. Authorities have advised the public to exercise caution, particularly on exposed roads and in coastal areas where conditions are most severe. The storm represents the latest in a series of Atlantic weather systems affecting Ireland during the spring season, indicating active oceanic weather patterns. Emergency services remain on standby for any weather-related incidents, and the public is urged to monitor Met Éireann updates for changing conditions.",
       "image_url": "https://www.irishtimes.com/resizer/v2/V2CMWSMRV5HGBFL2D65S2ZZQ6U.JPG",
       "authors": [],
       "sources": [
-        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0404/1566697-storm-dave-ireland/", "author": ""},
-        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/weather-warning-storm-dave-wind-7003448-Apr2026/", "author": ""},
-        {"name": "Irish Times", "url": "https://www.irishtimes.com/environment/2026/04/04/met-eireann-forecasts-100kmh-gusts-and-rain-on-easter-weekend-as-storm-dave-nears-ireland/", "author": ""},
-        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41822090.html", "author": ""}
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0404/1566697-storm-dave-ireland/",
+          "author": ""
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/weather-warning-storm-dave-wind-7003448-Apr2026/",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/environment/2026/04/04/met-eireann-forecasts-100kmh-gusts-and-rain-on-easter-weekend-as-storm-dave-nears-ireland/",
+          "author": ""
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/arid-41822090.html",
+          "author": ""
+        }
       ],
       "tags": ["weather", "transport", "safety"],
       "significance": "high"
     },
     {
-      "headline": "What Ireland's first public Covid-19 inquiry hearing revealed about pandemic response",
-      "summary": "Ireland's first public hearing examining the government's response to the COVID-19 pandemic has provided insights into how the country managed the crisis. The inquiry scrutinised official policies, decision-making processes, and implementation of public health measures during the early stages of the pandemic. Key witnesses and officials provided testimony about the coordination between health authorities, government departments, and international health organisations. The hearing revealed both successes and challenges in Ireland's pandemic response, including vaccine distribution, testing strategies, and economic support measures. Questions were raised about communication with the public and the timing of various restrictions. The inquiry process aims to establish a comprehensive record of the Irish government's handling of the crisis for future reference. This represents a critical moment in accountability and transparency regarding one of the most significant events to affect Irish society in recent years. The inquiry is expected to continue with additional public hearings examining different aspects of the pandemic response. The findings may inform policy decisions for future health emergencies.",
-      "image_url": "https://www.rte.ie/images/0024297d-800.jpg",
-      "authors": [],
+      "headline": "Russian shadow-fleet tankers monitored off west coast in Irish exclusive economic zone",
+      "summary": "A convoy of Russian shadow-fleet tankers has been monitored travelling through Ireland's exclusive economic zone off the west coast, with five vessels observed in formation likely attempting to discourage boarding attempts by international authorities. Shadow-fleet vessels are older, often uninsured ships operated by Russia to circumvent international sanctions and transport crude oil in violation of price caps imposed by Western nations. The presence of these vessels in Irish waters raises questions about maritime security and enforcement of international sanctions against Russia. Ireland's neutrality and maritime jurisdiction mean the country plays a delicate role in monitoring sanctions compliance while maintaining diplomatic relations with all parties. The incident reflects broader geopolitical tensions related to Russia's invasion of Ukraine and international efforts to restrict Russian oil revenues. Irish defence and maritime authorities have been tracking the convoy's movements through Irish waters and monitoring their progression. The situation underscores the intersection of international sanctions enforcement with Irish maritime sovereignty and the country's role in global security matters.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/ZR3M3ZSUUOLCRDHGIZBNFO6MMY.jpg",
+      "authors": ["Conor Gallagher"],
       "sources": [
-        {"name": "RTÉ News", "url": "https://www.rte.ie/news/analysis-and-comment/2026/0404/1566623-covid-review-analysis/", "author": ""}
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/04/convoy-of-russian-shadow-fleet-tankers-monitored-off-west-coast/",
+          "author": "Conor Gallagher"
+        }
       ],
-      "tags": ["health", "politics", "social"],
+      "tags": ["defence", "economy", "international"],
       "significance": "high"
     },
     {
+      "headline": "Over 1,400 drivers caught speeding in first 48 hours of Easter Bank Holiday roads policing operation",
+      "summary": "Irish gardaí have detected over 1,400 drivers speeding during the first 48 hours of an enhanced Bank Holiday roads policing operation that began Thursday at 7am and will continue until Tuesday at 7am. The operation focuses on enforcing speed limits and road safety measures during the busy Easter holiday period when traffic volumes increase significantly on major routes. One motorist was caught driving at 147km/h in a 100km/h zone on the N11 in County Wicklow, exemplifying the dangerous speeding incidents being recorded. Gardaí emphasize that the enforcement operation aims to reduce accidents and fatalities on Irish roads during peak travel times. The Easter holiday period is traditionally associated with increased road usage and travel-related incidents in Ireland. The high number of speeding offences recorded in such a short timeframe underscores ongoing road safety challenges and suggests a pattern of excessive speeding among motorists during holiday periods. Public awareness campaigns accompany the enforcement operation to encourage safer driving practices.",
+      "image_url": "https://c3.thejournal.ie/media/2026/04/connonagh-west-cork-ireland-26th-feb-2025-an-garda-siochana-is-conducting-its-first-national-slow-down-day-of-2025-today-the-aim-of-national-slowdown-days-is-to-remind-motorists-of-the-dangers-o-3e7125b0-232e-4c55-85d7-7566f18014c5-630x420.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/over-1400-drivers-caught-speeding-in-first-48-hours-of-bank-holiday-roads-policing-operation-7003606-Apr2026/",
+          "author": ""
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/04/03/gardai-detected-680-speeding-drivers-in-first-day-of-easter-road-safety-clampdown/",
+          "author": "Hugh Dooley"
+        }
+      ],
+      "tags": ["transport", "safety", "crime"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Dublin council plans to treble derelict properties facing levies as crackdown continues",
+      "summary": "Dublin City Council is intensifying its crackdown on derelict properties by planning to nearly treble the number of sites on its dereliction register that face financial levies. The council aims to boost engagement with property owners while implementing a new tax on derelict properties as part of a broader strategy to address Dublin's persistent urban dereliction problem. The derelict property issue has been described as an 'urban scourge' affecting Dublin's city centre vitality and street appearance. The council is testing a new corporate approach on two specific streets: North Frederick Street and Middle Abbey Street, which will serve as pilot areas for the initiative. The strategy reflects growing frustration with vacant buildings affecting Dublin's townscape and local communities, particularly in the city centre where property values are high. Property owners may face financial consequences if they fail to bring derelict buildings back into productive use, whether through renovation or redevelopment. The initiative represents a significant shift in Dublin's approach to urban renewal and property management, potentially generating revenue for further regeneration efforts.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/OXMUYPWYDNHXXH5B6QSKAF2RSE.JPG",
+      "authors": ["Olivia Kelly"],
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/housing-planning/2026/04/04/dublins-derelict-property-owners-face-crackdown-as-council-plans-to-impose-levies/",
+          "author": "Olivia Kelly"
+        }
+      ],
+      "tags": ["housing", "politics", "economy"],
+      "significance": "medium"
+    },
+    {
       "headline": "Four charged in court over €7 million cannabis seizure in Co Kildare",
-      "summary": "Four individuals have appeared in court charged with offences related to a major drug seizure involving approximately €7 million worth of cannabis in County Kildare. The defendants face charges of cannabis possession with intent to supply, which carry significant criminal penalties in Ireland. This seizure represents one of the substantial drug busts undertaken by Irish law enforcement in recent months. The Gardaí have been intensifying efforts to combat large-scale drug trafficking operations across the country. The case highlights ongoing drug trafficking networks operating in the Kildare area and the wider east of Ireland region. Investigation into the supply chain and distribution network is continuing as part of the broader operation. The charges reflect the serious approach Irish courts and law enforcement take toward major drug trafficking operations. Convictions in such cases typically result in substantial custodial sentences. The seizure demonstrates the effectiveness of coordinated law enforcement efforts targeting organised crime. This case contributes to the broader crackdown on illegal drug operations in Ireland.",
+      "summary": "Four individuals have appeared in court charged following a €7 million cannabis seizure operation in County Kildare, facing allegations of possessing cannabis and possessing it for sale or supply. The significant drug haul represents one of the largest cannabis seizures in recent Irish law enforcement operations and demonstrates the scale of illegal drug distribution networks operating within Ireland. The seizure reflects continued efforts by Irish gardaí and specialised drugs enforcement units to combat large-scale drug trafficking operations affecting communities across the country. Court proceedings will determine the circumstances of the seizure and the culpability of the four individuals charged in connection with the operation. The charges represent serious narcotics offences with potential for significant custodial sentences if convictions are secured. The case highlights the ongoing challenge of controlling drug supply chains and protecting communities from the impacts of illegal narcotics distribution. Successful prosecutions of major drug trafficking cases remain a priority for Irish law enforcement as part of broader efforts to disrupt organised crime networks.",
       "image_url": "https://www.irishtimes.com/resizer/v2/QMCSCA4UVFGZJM3GAXLA24VSLI.JPG",
       "authors": [],
       "sources": [
-        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/04/four-in-court-charged-over-7m-cannabis-seizure-in-co-kildare/", "author": ""}
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/04/04/four-in-court-charged-over-7m-cannabis-seizure-in-co-kildare/",
+          "author": ""
+        }
       ],
-      "tags": ["crime", "politics"],
+      "tags": ["crime", "health", "society"],
       "significance": "medium"
     },
     {
-      "headline": "Widow of Denis Donaldson calls for public inquiry into his death",
-      "summary": "The widow of Denis Donaldson, the former Sinn Féin official exposed as a British agent, has called for a public inquiry into the circumstances surrounding his death. Donaldson was murdered several years prior, with his killing occurring after his exposure as a long-time informant for British security forces. His widow's request for a formal public inquiry reflects ongoing concerns within the family about the full circumstances of his death and whether all relevant information has been disclosed. The case has significant implications for Irish political history and the legacy of the conflict. Questions remain about the investigation into his murder and the involvement of various parties. The call for a public inquiry represents an attempt to establish official accountability regarding the incident. This development comes at a time when Ireland continues to address historical grievances and seek clarity on controversial deaths. The case involves complex questions about intelligence operations, state involvement, and the protection of informants. A public inquiry could potentially shed light on broader issues related to this period of Irish history. The family's persistence in seeking answers highlights unresolved questions about justice and transparency.",
-      "image_url": "https://www.rte.ie/images/002429cd-800.jpg",
-      "authors": [],
+      "headline": "Family of missing Laois man William Delaney appeals for information after seven years",
+      "summary": "The sister of William Delaney, who has been missing since 2019 and is presumed murdered, has made an emotional appeal for public information about his disappearance. The case has caused a 'living nightmare every day' for the family, who continue seeking answers about what happened to their brother after seven years without resolution. An Garda Síochána maintains the investigation and actively encourages anyone with information to come forward regarding the circumstances of his disappearance. The family's appeal emphasizes the emotional toll of the unresolved situation on relatives and seeks to renew public awareness of the case. Missing persons cases typically involve significant investigative resources dedicated to resolution, though some cases remain open for extended periods when evidence is limited. Such high-profile cases often generate public interest that can yield crucial leads from witnesses who may previously have withheld information. The family hopes renewed attention and media coverage may prompt individuals with knowledge of the case to provide information to authorities.",
+      "image_url": "https://www.irishtimes.com/resizer/v2/SMA6DSD7CZB6PBJNDWBZTLRQIQ.JPG",
+      "authors": ["Kitty Holland"],
       "sources": [
-        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ulster/2026/0404/1566652-denis-donaldson-widow/", "author": ""}
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/04/04/family-of-co-laois-man-missing-since-2019-in-a-living-nightmare-every-day/",
+          "author": "Kitty Holland"
+        }
       ],
-      "tags": ["politics", "crime", "social"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Easter Rising commemorations held across Ireland as nation marks historical event",
-      "summary": "Ireland has commemorated the 1916 Easter Rising with official ceremonies and public events held in Dublin and across the country. The government attended commemorative events at the Garden of Remembrance, honouring those who died in the uprising that led to Irish independence. The Easter Rising remains a defining moment in Irish history and national identity, marking the beginning of the end of British colonial rule. Officials and dignitaries participated in wreath-laying ceremonies and speeches reflecting on the historical significance of the event. The annual commemoration brings together people of all backgrounds to acknowledge this important chapter in Irish history. Educational institutions and civic organisations host events explaining the historical context and legacy of the uprising. The commemorations serve to reinforce Ireland's national consciousness and historical narrative. Events include historical reenactments, exhibitions, and public discussions about the Easter Rising's impact. The occasion provides an opportunity to reflect on Ireland's journey from independence struggle to modern nationhood. These commemorations continue a long tradition of honouring those who fought for Irish freedom.",
-      "image_url": "https://www.rte.ie/images/00242a9f-800.jpg",
-      "authors": [],
-      "sources": [
-        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0404/1566730-easter-rising-commemoration/", "author": ""}
-      ],
-      "tags": ["politics", "social", "culture"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Government unveils new SSIA-style savings plan aimed at unlocking household savings",
-      "summary": "The Irish government has announced a new savings initiative modelled on the successful Special Savings Investment Account (SSIA) scheme from the Celtic Tiger era, aimed at encouraging households to save and unlocking billions in dormant savings. The plan offers incentives for citizens to deposit funds into designated savings accounts, with government contributions matching a portion of household savings. This initiative represents an effort to boost domestic savings rates and provide households with a secure investment option. The scheme draws on lessons learned from the previous SSIA programme, which was highly popular and successful in encouraging saving behaviour among Irish households. Economic analysis suggests that many Irish households maintain cautious approaches to saving in the current economic environment. The government hopes this new plan will stimulate consumer confidence and increase available capital for investment in the economy. The SSIA-style initiative is positioned as a tool to help households build financial resilience while supporting broader economic growth objectives. Eligible participants will have access to transparent information about returns and terms. The scheme addresses concerns about household savings levels and financial preparedness. Government officials have highlighted this as part of broader economic policy aimed at supporting families and households.",
-      "image_url": "https://www.irishexaminer.com/cms_media/module_img/10058/5029250_6_articlelarge_271911.jpg",
-      "authors": [],
-      "sources": [
-        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/spotlight/arid-41821202.html", "author": ""}
-      ],
-      "tags": ["economy", "politics", "social"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Child injured in pre-match violence before Irish Cup semi-final in Belfast",
-      "summary": "A child was struck by a bottle during disorder that erupted before an Irish Cup semi-final match between Cliftonville and Dungannon Swifts in Belfast. The violence occurred prior to the match at the venue, with multiple individuals involved in the disturbance. Police responded to the incident and made at least one arrest in connection with the disorder. The incident raises concerns about violence at sporting events and the safety of spectators, particularly children attending matches. Cross-border football matches in Ireland carry particular sensitivities due to historical and communal tensions. Sporting organisations have policies in place to manage crowd safety and prevent violence. The incident demonstrates the ongoing challenges faced by law enforcement in managing large sporting events. Families attending matches are expected to be able to do so safely without fear of violence. Investigations are continuing into the circumstances of the disorder and the injuries sustained by the child. This incident highlights the need for continued focus on preventing violence at sporting events. The match proceeded despite the pre-match disturbances. Such incidents can have broader implications for future sporting events and venue management policies.",
-      "image_url": "https://www.irishtimes.com/resizer/v2/B43LPED62LE4DNBB7QVT5GRLRM.jpg",
-      "authors": ["Rebecca Black", "Press Association"],
-      "sources": [
-        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/04/child-hit-by-bottle-during-disorder-before-irish-cup-semi-final-in-belfast/", "author": "Rebecca Black"}
-      ],
-      "tags": ["crime", "sport", "social"],
+      "tags": ["crime", "social"],
       "significance": "medium"
     }
   ]

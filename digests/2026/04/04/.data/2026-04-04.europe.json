@@ -1,6 +1,6 @@
 {
   "layer": "europe",
-  "fetched_at": "2026-04-04T12:15:00Z",
+  "fetched_at": "2026-04-04T14:47:00Z",
   "source_status": {
     "bbc": "ok",
     "guardian": "rss_failed_used_websearch",
@@ -10,8 +10,8 @@
   },
   "stories": [
     {
-      "headline": "Russia escalates Easter attacks on Ukraine as Kyiv proposes ceasefire",
-      "summary": "Russia launched a massive assault on Ukraine over the Easter weekend, killing at least 15 people, including civilians, as part of what Ukrainian President Zelensky described as an 'Easter escalation' rather than a pause for peace. The strikes involved hundreds of drones and missiles targeting multiple locations across the country, with Russian forces continuing intensive overnight bombardments. In response, Kyiv has signalled readiness for an Easter ceasefire and has launched retaliatory drone strikes deep into Russian territory. A Russian drone hit a covered market in Nikopol, killing five civilians and injuring 19 others in a particularly deadly attack. Ukrainian military sources indicate continued coordination of both defensive and offensive operations amid the intensified conflict. The escalation comes as European nations monitor developments and consider diplomatic responses to the ongoing war. EU member states remain engaged in discussions about support for Ukraine amid the sustained Russian military campaign. International attention is focused on whether diplomatic initiatives can gain traction amid the intensifying military operations.",
+      "headline": "Russia launches 'Easter escalation' with hundreds of drones and missiles; Zelensky condemns ceasefire rejection",
+      "summary": "Russia significantly intensified attacks on Ukraine over Easter weekend, launching hundreds of drones and missiles across the country in what President Volodymyr Zelensky characterized as an 'Easter escalation' rather than a ceasefire. Ukrainian air force officials reported intercepting the majority of 286 incoming drones overnight, with 260 successfully shot down, but the volume of attacks allowed some to reach their targets. The escalation killed at least six civilians and wounded over 40 others across multiple Ukrainian towns and cities. A Russian drone strike on a covered market in eastern Ukraine killed five and injured approximately 30 in what marks the latest targeting of civilian infrastructure. The offensive demonstrates Russia's continued unwillingness to pursue diplomatic solutions despite international calls for peace negotiations. Zelensky's characterization of the attacks as deliberate military escalation during the Easter holiday period underscores the strategic nature of the campaign. The incident has significant implications for European security policy, strengthening arguments for sustained military support to Ukraine. The attack patterns suggest Russia is maintaining high operational tempo with round-the-clock drone and missile strikes. The humanitarian toll continues to mount as civilian areas bear the brunt of Russian military pressure. This escalation during Easter adds another chapter to the conflict's geopolitical dimensions affecting broader European stability.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
       "authors": [],
       "sources": [
@@ -24,24 +24,54 @@
           "name": "France24",
           "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
           "author": "FRANCE 24"
-        },
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/war-in-ukraine-russian-night-time-strikes-wound-at-least-14-people",
-          "author": "FRANCE24"
-        },
-        {
-          "name": "Euronews",
-          "url": "http://www.euronews.com/2026/04/04/eight-dead-in-massive-russian-attack-while-kyiv-signals-readiness-for-easter-ceasefire",
-          "author": null
         }
       ],
       "tags": ["conflict", "defence", "diplomacy"],
       "significance": "high"
     },
     {
-      "headline": "Five EU member states call for windfall tax on energy company profits",
-      "summary": "Ministers of economy and finance from Italy, Germany, Spain, Portugal, and Austria have jointly called on the European Union to implement a windfall tax on energy sector surplus profits to address rising energy prices affecting European households. The proposal aims to curb price increases that have been driving inflation across the continent, particularly impacting smaller economies and vulnerable populations. EU energy markets have experienced significant volatility, contributing to broader inflationary pressures in member states. The coordinated call from five major European economies signals growing pressure on EU institutions to intervene in energy pricing mechanisms. This represents a significant economic policy proposal that could reshape how EU member states approach profit regulation in strategic sectors. The initiative reflects concerns that energy companies are benefiting disproportionately from current market conditions while consumers and businesses face escalating costs. The proposal requires approval from broader EU institutions and would need to balance profit regulation with incentives for continued energy production. Other member states are expected to respond to this initiative in coming weeks.",
+      "headline": "Russian drone market strike kills five civilians in eastern Ukraine as offensive escalates",
+      "summary": "A Russian drone strike on a covered market in eastern Ukraine on Saturday morning killed five civilians and injured approximately 30 others, with another 19 injured in related attacks. Ukrainian air force reports indicate Russia fired 286 drones overnight, successfully intercepted 260 of them, but the sheer volume allowed deadly strikes to reach civilian targets. The market in a populated civilian area represents ongoing Russian targeting of non-military infrastructure and civilians in their daily lives. The incident demonstrates both the scale of Russian military operations and the challenges Ukrainian air defenses face in achieving complete interception despite high success rates. The attack adds to the cumulative humanitarian toll of sustained Russian military campaigns against Ukraine. Civilian casualties from market and public gathering strikes have become a recurring pattern in the conflict. The attack occurred during Easter weekend, coinciding with what Ukrainian officials describe as deliberate military escalation. Multiple sources confirmed casualties and scale of the drone assault. The incident underscores the daily risk faced by Ukrainian civilians and contributes to ongoing displacement and humanitarian concerns. International observers note the continued Russian focus on civilian infrastructure despite Ukrainian defensive capabilities.",
+      "image_url": "https://s.france24.com/media/display/120ee5a0-3013-11f1-a349-005056bfb2b6/w:1024/p:16x9/93413160b171284a7f64100c2c737b720cf0d6df.jpg",
+      "authors": ["FRANCE 24"],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+          "author": "FRANCE 24"
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cp869m2gzr0o",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "military", "humanitarian"],
+      "significance": "high"
+    },
+    {
+      "headline": "Fugitive Camorra crime boss Roberto Mazzarella arrested at luxury Amalfi Coast resort after 18 months on the run",
+      "summary": "Roberto Mazzarella, head of one of Naples' most dangerous Camorra organized crime clans and a fugitive on Italy's most-wanted list, was arrested at a luxury resort on the Amalfi Coast after more than 18 months evading authorities. Mazzarella was living under a false identity when Italian law enforcement located and captured him, representing a significant success in combating organized crime. The arrest comes after an extended manhunt and demonstrates the continued visibility and operational reach of Camorra figures despite their fugitive status. Mazzarella faced multiple serious criminal charges and was considered one of Italy's most dangerous organized crime figures. The Camorra, based in Naples, remains one of Europe's most powerful organized crime organizations with extensive networks across southern Italy and beyond. His capture suggests some degree of vulnerability in how major crime figures seek refuge, potentially in visible locations rather than deep hiding. The operation involved law enforcement successfully tracking and apprehending a target of high criminal significance. The arrest has implications for Camorra operations and internal organizational power dynamics. Italian authorities' success underscores the importance of sustained investigative efforts. International cooperation remains crucial for combating transnational organized crime networks.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/212/cpsprodpb/2378/live/9196d0f0-3016-11f1-8045-2550a829c511.png",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cn437qkk80lo",
+          "author": null
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/04/camorra-boss-roberto-mazzarella-caught-in-luxury-resort-on-amalfi-coast",
+          "author": null
+        }
+      ],
+      "tags": ["crime", "governance", "EU"],
+      "significance": "high"
+    },
+    {
+      "headline": "Five EU member states propose windfall tax on energy company profits to address price crisis",
+      "summary": "Ministers from Italy, Germany, Spain, Portugal, and Austria have jointly proposed a new windfall tax targeting surplus profits of energy companies as a coordinated EU-level mechanism to curb rising energy prices affecting households and businesses. The proposal represents a unified effort by five major EU economies to address what they view as excessive profiteering during periods of significant price volatility. The joint letter to EU leadership seeks to impose taxes on extraordinary profits generated by the energy sector, with redistributed gains supporting struggling consumers and businesses. The energy sector has generated record profits in recent years as global prices surged following geopolitical disruptions, creating political pressure on governments to respond. Individual member states have implemented various national-level energy taxes and price caps, but the five ministers now seek a coordinated EU-wide approach for broader impact. The proposal highlights ongoing economic tensions within the EU regarding balancing market mechanisms with social protection during crises. The measure would require approval from the European Commission and broader EU consensus, though similar proposals have faced resistance from countries with significant energy production sectors. Energy price stability is viewed as crucial for European competitiveness and social cohesion. The proposal underscores divisions on economic policy within the EU. The energy crisis continues reshaping European industrial dynamics and government policy responses.",
       "image_url": null,
       "authors": [],
       "sources": [
@@ -55,58 +85,23 @@
       "significance": "high"
     },
     {
-      "headline": "Easter food price surge grips Europe as egg and lamb costs soar",
-      "summary": "Egg and lamb prices are surging across Europe ahead of Easter, with egg inflation significantly outpacing overall inflation in most European countries. Climate-fuelled extreme weather has become farmers' biggest challenge, driving up production costs and reducing supply of key Easter staples. The cost of climate change is increasingly hitting European households, with Easter dinner becoming noticeably more expensive compared to previous years. Wholesale and consumer egg prices are on the rise simultaneously, reflecting both supply constraints and demand increases as the holiday approaches. Farmers report that erratic weather patterns and environmental pressures are making agricultural production increasingly unpredictable and costly. The price surge is affecting both individual households and food businesses that depend on these ingredients for Easter offerings. EU nations are experiencing varied levels of price increases, with some countries seeing more pronounced inflationary pressure than others. This trend highlights the intersection of climate impact and food security, with European consumers bearing the brunt of agricultural challenges.",
-      "image_url": null,
-      "authors": [],
+      "headline": "Russian overnight strikes on Ukraine wound at least 14 people as military intensity persists",
+      "summary": "Russian military forces conducted overnight strikes against targets across Ukraine, resulting in injuries to at least 14 civilians according to Ukrainian officials, with reports indicating at least one death and four others specifically injured in Russian air attacks. The overnight assault adds to the cumulative casualty toll from sustained Russian military campaigns targeting both military and civilian locations. The pattern of overnight strikes demonstrates Russia's continued round-the-clock military pressure on Ukrainian positions and civilian areas. One person was killed and four specifically identified as injured in discrete Russian air attack incidents. Ukrainian air defenses continue engaging incoming Russian missiles and drones, though complete interception of the volume of attacks remains challenging. The frequency and sustained nature of attacks highlights the operational intensity of current military operations. The ongoing strikes contribute to the humanitarian crisis and displacement of Ukrainian populations fleeing conflict zones. The relentless pace of operations suggests Russia is maintaining high military tempo across all time periods. The humanitarian impact of sustained attacks on civilian areas continues accumulating. These strikes are part of broader Russian military campaigns aimed at degrading Ukrainian capabilities and maintaining pressure.",
+      "image_url": "https://s.france24.com/media/display/f0c51b02-3004-11f1-8b55-005056a97e36/w:1024/p:16x9/EN-20260404-090838-091016-CS.jpg",
+      "authors": ["FRANCE24"],
       "sources": [
         {
-          "name": "Euronews",
-          "url": "http://www.euronews.com/business/2026/04/04/egg-prices-surge-in-europe-ahead-of-easter-which-countries-saw-the-highest-rise",
-          "author": null
-        },
-        {
-          "name": "Euronews",
-          "url": "http://www.euronews.com/2026/04/04/the-cost-of-climate-change-is-hitting-homes-this-easter-your-lamb-roast-dinner-is-proof",
-          "author": null
+          "name": "France24",
+          "url": "https://www.france24.com/en/war-in-ukraine-russian-night-time-strikes-wound-at-least-14-people",
+          "author": "FRANCE24"
         }
       ],
-      "tags": ["climate", "economy", "EU"],
-      "significance": "high"
-    },
-    {
-      "headline": "Fugitive mafia boss arrested at Amalfi Coast luxury villa after year on run",
-      "summary": "Italian police have arrested Roberto Mazzarella, a fugitive mafia boss who had been on the run for more than a year and was living under a false identity at a luxury villa on the Amalfi Coast. The arrest represents a significant law enforcement success in the ongoing fight against organised crime in southern Italy. Mazzarella was wanted for murder and had evaded authorities by assuming a false name and maintaining a low profile in the tourist-rich region. The operation demonstrates Italian law enforcement's capability to track and apprehend high-profile criminal figures despite their efforts to remain hidden. The Amalfi Coast, a popular tourist destination, has historically been connected to organised crime operations despite its picturesque image. The arrest comes as European law enforcement continues coordinated efforts against transnational organised crime networks. Italian authorities' success in locating and apprehending Mazzarella reflects improved intelligence gathering and operational coordination. This case underscores ongoing challenges with organised crime in southern Europe and the importance of sustained law enforcement efforts.",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/212/cpsprodpb/2378/live/9196d0f0-3016-11f1-8045-2550a829c511.png",
-      "authors": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cn437qkk80lo",
-          "author": null
-        }
-      ],
-      "tags": ["crime", "governance", "EU"],
+      "tags": ["conflict", "military", "humanitarian"],
       "significance": "medium"
     },
     {
-      "headline": "Storm Dave brings severe weather disruption to UK with 80mph winds",
-      "summary": "Storm Dave is triggering weather warnings across the UK with power company SSEN predicting wind gusts could reach approximately 80 miles per hour in parts of the country during the Easter weekend. The severe weather system is expected to cause significant travel disruption and power outages in affected areas. Forecasters have issued official weather warnings as the system approaches, advising residents to prepare for hazardous conditions. The storm presents risks to transportation networks, with potential delays and cancellations affecting road, rail, and potentially air travel. Power company infrastructure is being closely monitored to mitigate potential supply disruptions. Easter holiday travel plans may be affected as residents face challenging weather conditions. The Met Office and other meteorological services are tracking the system closely to provide updated warnings as conditions develop. Residents in affected areas are being advised to take precautions and prepare for the severe weather impact.",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29f4/live/20119ed0-2f79-11f1-9ab7-3fd8eff9efaa.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c5y80nj5v50o",
-          "author": null
-        }
-      ],
-      "tags": ["weather", "EU"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Ukrainian military specialists in Libya reportedly struck Russian gas carrier Arctic Metagaz",
-      "summary": "French journalists have reported the presence of more than 200 Ukrainian military specialists in Libya and their alleged involvement in the attack on the Russian gas carrier Arctic Metagaz using a maritime drone. The investigation suggests Ukrainian military operatives have extended their operations beyond the primary theatre of conflict in Eastern Europe into North Africa. The Arctic Metagaz, a Russian vessel, was targeted in what appears to be a coordinated military operation using unmanned maritime technology. The presence of Ukrainian military personnel in Libya represents an expansion of Ukrainian military capabilities and strategic operations in unexpected regions. International observers have raised questions about the implications of such operations for regional stability and the broader context of the Russia-Ukraine conflict. The involvement of military drones in the operation demonstrates Ukrainian adaptation of military technology for operations beyond traditional conflict zones. This development underscores the complexity of the ongoing conflict and how it is reshaping military operations and international engagement in multiple regions. The findings raise diplomatic questions about the scope and reach of proxy operations in the modern conflict environment.",
+      "headline": "RFI investigation reveals over 200 Ukrainian military specialists operating in Libya amid regional instability",
+      "summary": "French journalists conducting an investigation for Radio France Internationale have reported the presence of more than 200 Ukrainian military specialists operating in Libya, indicating Ukraine's military engagement extends beyond its direct territorial conflict with Russia. The investigation links Ukrainian personnel to alleged strikes on Russian energy infrastructure, including the Arctic Metagaz, a Russian liquefied natural gas carrier. This deployment suggests Ukraine has military operational capabilities extending into North Africa and beyond the European theater. The presence of Ukrainian military in Libya raises questions about international military cooperation, the scope of Ukraine's strategic operations, and how regional actors are drawn into broader Ukraine-Russia tensions. The alleged strike on the Arctic Metagaz represents potential escalation of Ukrainian asymmetric warfare tactics targeting Russian energy infrastructure globally. The revelation underscores Ukraine's strategic interest in disrupting Russia's energy sector revenue streams and global LNG markets. The operation has geopolitical ramifications extending far beyond Eastern Europe. European governments may face pressure to clarify positions on Ukrainian military operations outside the formal theater of war. The incident highlights how the Ukraine-Russia conflict reshapes military doctrine regarding state-sponsored operations in third countries. The discovery raises complex questions about international law and escalation dynamics in modern conflicts.",
       "image_url": null,
       "authors": [],
       "sources": [
@@ -116,22 +111,7 @@
           "author": null
         }
       ],
-      "tags": ["conflict", "defence", "diplomacy"],
-      "significance": "medium"
-    },
-    {
-      "headline": "Chocolate theft surge forces UK retailers to implement anti-theft security measures",
-      "summary": "Rising chocolate prices in the UK have triggered increased thefts, prompting retailers to implement anti-theft security measures for confectionery sections across the country. Organised retail crime gangs are reportedly travelling around the country specifically to raid chocolate shelves, exploiting the commodity's high value relative to size. The trend reflects how economic pressures and inflation are driving theft in unexpected product categories. Retailers are responding with enhanced security measures including locked cases, surveillance systems, and staffing adjustments in confectionery areas. The chocolate industry has experienced significant price increases due to supply chain disruptions and commodity cost pressures. Supermarket chains are balancing security investments with customer experience considerations. This phenomenon highlights how inflation affects consumer behaviour and drives opportunistic theft patterns in retail environments. The situation represents a broader challenge for European retailers managing loss prevention amid economic pressures.",
-      "image_url": "https://s.france24.com/media/display/2c6c30e6-3005-11f1-88b3-005056a90284/w:1024/p:16x9/EN-20260404-091801-092028-CS.jpg",
-      "authors": ["FRANCE24"],
-      "sources": [
-        {
-          "name": "France24",
-          "url": "https://www.france24.com/en/in-the-uk-thieves-travel-around-the-country-to-raid-chocolate-shelves",
-          "author": "FRANCE24"
-        }
-      ],
-      "tags": ["economy", "crime", "EU"],
+      "tags": ["conflict", "diplomacy", "defence"],
       "significance": "medium"
     }
   ]

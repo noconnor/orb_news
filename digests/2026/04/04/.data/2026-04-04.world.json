@@ -1,6 +1,6 @@
 {
   "layer": "world",
-  "fetched_at": "2026-04-04T12:00:00Z",
+  "fetched_at": "2026-04-04T13:24:32Z",
   "source_status": {
     "reuters": "ok",
     "apnews": "ok",
@@ -10,133 +10,85 @@
   },
   "stories": [
     {
-      "headline": "Iran conflict enters 6th week as US warplane shot down, crew member missing",
-      "summary": "The ongoing conflict between the US, Israel, and Iran intensified significantly on April 4th as Iran downed a US warplane, leaving one crew member missing. This marks day 36 of what has been termed the Iran war, with escalating military operations from both sides. Iran claims responsibility for shooting down two US warplanes in recent operations, while search and rescue efforts are underway for the missing American service member. The US and Israel have responded with attacks on Iranian civilian infrastructure, including petrochemical and nuclear facilities, despite ongoing humanitarian concerns. Former US military officials emphasized the dangers faced by any recovery teams searching in hostile territory. The incident represents a significant escalation in the conflict, with diplomatic channels strained and military operations continuing unabated. Israel has also intensified strikes, including attacks on Lebanon infrastructure. The geopolitical implications extend across the Middle East, affecting regional security dynamics and international oil prices. Global markets and energy supplies continue to be impacted by the ongoing hostilities.",
+      "headline": "US warplane shot down in Iran conflict, airman missing in search operation",
+      "summary": "A US military aircraft was shot down over Iran on April 4, 2026, marking the first aircraft lost to enemy fire in over 20 years. A crew member is missing and search operations are underway with both US and Iranian forces involved in recovery efforts. Former US military personnel have described the situation as harrowing and dangerous for any recovery team. This incident represents a significant escalation in the ongoing US-Israel military conflict with Iran, which has been ongoing for six weeks. The Trump administration is reportedly considering broader cabinet changes amid the mounting pressure from the Iran war. The incident highlights the intensifying military engagement and raises concerns about regional stability. International attention is focused on the outcome of the search and potential implications for US-Iran diplomatic relations. The loss of an aircraft and personnel marks a major development in the conflict.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
       "authors": [],
       "sources": [
-        {
-          "name": "Reuters (via Google News)",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkU0aFRMbzRTckJCMzE1T09NZWFPWXNtOW1kNVM5RzRKZlFCOVl1UVlwZU5fLU5nTDRkbE82WU1EeEVLZjg0NHAyajZSdzNOWlhTc1FQNk9iNWpfbTBGWkFKT1ZueUhLUXQxbmVmMzUzLTlFOHFWeXR4bHJWWjFJa1NadU1PcS12anppMTJVaU9jWWpKZm9OQ19uVW9XMTZOZF9OSlZmS3BPUQ?oc=5",
-          "author": null
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
-          "author": "Apps Support"
-        },
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-          "author": null
-        },
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
-          "author": "NPR Staff"
-        }
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkU0aFRMbzRTckJCMzE1T09NZWFPWXNtOW1kNVM5RzRKZlFCOVl1UVlwZU5fLU5nTDRkbE82WU1EeEVLZjg0NHAyajZSdzNOWlhTc1FQNk9iNWpfbTBGWkFKT1ZueUhLUXQxbmVmMzUzLTlFOHFWeXR4bHJWWjFJa1NadU1PcS12anppMTJVaU9jWWpKZm9OQ19uVW9XMTZOZF9OSlZmS3BPUQ?oc=5", "author": ""},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeXZxRkV1UFR0bGxqaU0tNzRZeklTR0pHaTRPdFVJS0hfeTRlemVGZnREeFJhMWFZUjRqLW5uZm5IMVYyVEpDY183cUtXa1pUT01iYm4zS1JFYXgyck5rQjhrQzh5a3hyeE44N090UlA4dVFaQk1tYmNTT21RaWFsU3A3QndyS0ZnaEVDdEpiNTBNNnN3UFY3VV9uREQ", "author": ""},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c0le43jw8e9o", "author": ""},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates", "author": "NPR Staff"}
       ],
       "tags": ["conflict", "diplomacy", "geopolitics"],
       "significance": "high"
     },
     {
-      "headline": "Artemis II crew reaches midpoint of lunar journey with spectacular Earth imagery",
-      "summary": "NASA's Artemis II mission achieved a major milestone on April 4th as the astronaut crew reached the halfway point of their journey to the Moon. Commander Reid Wiseman and the crew captured striking images of Earth from the Orion capsule as they traveled deeper into space, providing the public with breathtaking perspectives of our home planet from their vantage point. The mission represents a significant step in humanity's renewed effort to return to the Moon, with the crew scheduled to orbit Earth's satellite and return home. The successful midpoint milestone demonstrates the robustness of NASA's exploration systems and the capability of the Orion spacecraft. These iconic images of Earth from deep space serve as powerful symbols of human spacefaring achievement and global unity. The Artemis II mission is paving the way for future crewed lunar landings and deep-space exploration. The successful progress of the mission has generated renewed enthusiasm for space exploration across the international community. The crew's journey continues to capture global attention as a testament to human ambition and scientific advancement.",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
-      "authors": [],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
-          "author": "Apps Support"
-        },
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-          "author": null
-        },
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
-          "author": "Scott Simon"
-        }
-      ],
-      "tags": ["technology", "space exploration", "science"],
-      "significance": "high"
-    },
-    {
-      "headline": "Russia launches Easter escalation with hundreds of drones and missiles against Ukraine",
-      "summary": "Russia chose military escalation over a potential ceasefire on Easter, April 4th, launching a massive attack against Ukraine with hundreds of drones and missiles. Ukrainian President Zelensky condemned the attack as an 'Easter escalation,' describing the coordinated assault as evidence of Russia's rejection of peace negotiations. The strikes resulted in six civilian deaths and injured approximately 40 others across multiple locations in Ukraine. This significant escalation marks a departure from any temporary pause in hostilities that might have accompanied the Easter holiday period, a date traditionally marked by cultural and religious significance. The attack demonstrates Russia's continued military capacity and strategic determination to pursue its objectives despite ongoing international pressure. Ukrainian defense systems engaged with the incoming threats, though the sheer volume of ordnance overwhelmed defenses in some areas. The attack underscores the humanitarian crisis facing Ukrainian civilians and the fragility of any ceasefire arrangements. The incident will likely intensify diplomatic pressure on Russia from Western nations and strengthen calls for increased military support to Ukraine.",
+      "headline": "Russia launches 'Easter escalation' on Ukraine with hundreds of drones and missiles",
+      "summary": "Russia launched hundreds of drones and missiles against Ukraine on Easter, marking a significant escalation in the conflict that has now entered its sixth week of intensified operations. President Zelensky condemned the timing as a deliberate strategic choice to avoid ceasefire negotiations during the Easter holiday period. At least six civilians were killed and 40 others injured in the attacks. A separate incident saw a Russian drone hit a busy market in southern Ukraine, killing five people and injuring 21 others on Saturday morning. These attacks demonstrate the continued brutality of the conflict and Russia's willingness to target civilian infrastructure during a religious holiday. The escalation contradicts any diplomatic efforts and reinforces the humanitarian crisis facing Ukrainian civilians. International observers are monitoring the ongoing military operations and their impact on civilian populations.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
       "authors": [],
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
-          "author": null
-        }
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cew70wjvv9do", "author": ""},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cp869m2gzr0o", "author": ""}
       ],
-      "tags": ["conflict", "diplomacy", "humanitarian"],
+      "tags": ["conflict", "humanitarian", "geopolitics"],
       "significance": "high"
     },
     {
-      "headline": "Afghanistan earthquake kills eight members of same family, highlighting humanitarian crisis",
-      "summary": "A devastating earthquake in Afghanistan claimed the lives of eight members of a single family on April 4th, with only a young boy surviving the disaster with injuries. The tragedy exemplifies the vulnerability of Afghan communities to natural disasters and the limited resources available for disaster response in the conflict-affected nation. Seismic activity in Afghanistan is not uncommon, but the region's ongoing instability and infrastructure challenges complicate rescue and recovery efforts. The death of an entire family unit highlights the social and economic consequences of such disasters in areas where poverty and limited healthcare infrastructure are prevalent. The incident underscores Afghanistan's desperate humanitarian situation, where citizens face threats from both human conflict and natural disasters. International humanitarian organizations have limited capacity to respond to such emergencies given the country's political instability. The earthquake serves as a reminder of the broader humanitarian challenges facing Afghan civilians in the aftermath of years of conflict. Climate and geological factors continue to pose significant risks to vulnerable populations across Central Asia.",
-      "image_url": null,
-      "authors": [],
+      "headline": "Artemis II crew reaches halfway point to Moon, snapping spectacular Earth image",
+      "summary": "NASA's Artemis II mission is progressing on schedule with the crew now halfway to the Moon as of April 4, 2026. Commander Reid Wiseman captured a spectacular photograph of Earth from the Orion capsule, showcasing the view from deep space. The successful mission marks a major milestone in human space exploration and NASA's return to lunar missions. The four astronauts aboard are in good condition and the spacecraft systems are functioning normally. This mission represents humanity's hopes and aspirations for renewed lunar exploration and potential future Moon landings. The mission's progress has captured international attention and demonstrates advanced capabilities in human spaceflight. The successful trajectory and communications with the crew confirm the mission's ongoing success.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
+      "authors": ["Scott Simon"],
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
-          "author": "Apps Support"
-        }
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ce8jzr423p9o", "author": ""},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii", "author": "Scott Simon"}
       ],
-      "tags": ["humanitarian", "climate", "disaster"],
+      "tags": ["technology", "space exploration", "achievement"],
       "significance": "high"
     },
     {
-      "headline": "Vietnam's Q1 economic growth slows as Middle East energy costs pressure 2026 targets",
-      "summary": "Vietnam's first-quarter economic growth slowed in 2026 as rising energy costs from the Middle East conflict put pressure on the government's full-year growth targets. The disruption to global energy markets caused by the escalating Iran-Israel tensions has increased fuel costs for Vietnamese importers, adding inflationary pressure to Southeast Asia's second-largest economy. Vietnam relies significantly on energy imports, making it vulnerable to price volatility in global markets, particularly during periods of geopolitical tension. The slowdown in Q1 growth reflects the transmission of international shocks through supply chains and energy prices into Vietnam's domestic economy. Businesses have faced higher input costs, affecting manufacturing competitiveness and export performance. The government's ability to achieve its 2026 growth targets is now in question given the persistence of elevated energy prices. Vietnam's experience demonstrates how global conflicts can have measurable economic impacts on nations far removed from the conflict zone. Policymakers are evaluating measures to mitigate energy price impacts on growth and inflation.",
+      "headline": "Projectile strikes Iran's Bushehr nuclear plant amid escalating regional conflict",
+      "summary": "A projectile struck near Iran's Bushehr nuclear plant on April 4, 2026, killing at least one person according to reports monitored by the International Atomic Energy Agency (IAEA). The incident marks the fourth attack near the nuclear facility amid the ongoing US-Israel military operations against Iran. Iranian officials attributed the attack to the broader US-Israel war efforts. The strike near a nuclear installation raises serious concerns about potential escalation risks and nuclear safety in the region. The IAEA is monitoring the situation closely for any potential nuclear safety implications. The proximity of military operations to critical nuclear infrastructure poses significant regional security risks. This incident underscores the dangers of military conflicts near sensitive nuclear facilities and the potential for unintended nuclear-related consequences.",
       "image_url": null,
       "authors": [],
       "sources": [
-        {
-          "name": "Reuters (via Google News)",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGx1Z0NnZXo4UzIxcGpSRXl6ZF95X00wdW9ZcTNYQkczVGJ3YkpZZk5aOGl0UExTaE92OEdZM09qa1l2SXM0VG9Oek1SSGJqbElIUnBkWC1TajNraUstb0pvZ2t0Vy00dGpEbjRTWVMxQVNrZmJNQWlmT25RSXZIRnV6bHFUT2k3NHBKZktUSmQ3dTIzZnZaQUFkRFAyUF9z?oc=5",
-          "author": null
-        }
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one", "author": ""}
       ],
-      "tags": ["economy", "geopolitics", "energy"],
-      "significance": "medium"
+      "tags": ["conflict", "nuclear safety", "geopolitics"],
+      "significance": "high"
     },
     {
-      "headline": "Iran executes two opposition members amid escalating military conflict",
-      "summary": "Iran executed two convicted members of a banned opposition group on April 4th, with the Supreme Court having upheld their sentences. Abolhassan Montazer and Vahid Baniamerian were hanged following legal proceedings that drew scrutiny from international human rights organizations. The executions occurred against the backdrop of the intensifying US-Israeli military campaign against Iran, raising concerns about the intersection of domestic political repression and international conflict. Iran has historically used capital punishment against perceived political opponents and dissident members, a practice that draws regular international condemnation. The timing of these executions during the escalating military conflict adds a layer of concern to observers monitoring human rights in the region. International organizations have called for transparency in Iran's judicial processes and raised questions about the treatment of dissidents. The executions underscore broader concerns about civil liberties and governance in Iran during a period of intense military pressure. The incident illustrates how domestic and international crises can intersect, potentially affecting vulnerable populations including political prisoners.",
+      "headline": "Five EU nations jointly call for windfall tax on energy company profits",
+      "summary": "Five European Union member states have jointly issued a call for implementing a windfall tax targeting energy sector profits, according to reporting on April 4, 2026. The coordinated initiative reflects growing pressure across the EU to address energy company revenues amid ongoing economic challenges. The windfall tax proposal aims to redistribute profits from energy companies to help manage broader economic impacts across member states. This coordinated action among multiple EU nations indicates strong political consensus on addressing energy sector profitability. The proposal comes amid broader European economic pressures and energy market volatility. The joint call demonstrates EU member states' willingness to coordinate fiscal policy on energy matters. Implementation of such a tax could have significant implications for energy markets and company operations across Europe.",
       "image_url": null,
       "authors": [],
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
-          "author": "Apps Support"
-        }
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM3NQM0lpZExNQ1ZqalgwbzU2c1EyV0RJaGNsQ1ZiZDNYLVJWb0JOY0xYMzgzZjJ0aERhUVNITnV2TU83V3NGOEZNYnNYbmZ3dUtqSm4yTnE1aWtudF9aTE54b2FTWUM4ZkFEaklQN1hINWZtLVhLczNsMjZMVEgtaWNpdjl3Xzk5S3FKaG1TRXJGSjQ4cHZBSE1zWHVQS2VLOWRuWGlwYW1oUVdZYmlfbG1nb0Z6MUh5Z3Zmb2dhLTdRamZ1RUpyN1lXSTlfd2lCMDhDdmNCZ2s4QkU?oc=5", "author": ""}
       ],
-      "tags": ["conflict", "human rights", "diplomacy"],
+      "tags": ["economy", "EU regulation", "trade"],
       "significance": "medium"
     },
     {
-      "headline": "Senegal restricts ministers' foreign travel as oil price surges strain government finances",
-      "summary": "Senegal has imposed restrictions on foreign travel for government ministers as fuel costs nearly doubled what the government budgeted for, creating acute financial pressures. The decision reflects the broader economic impact of elevated global energy prices on developing nations with limited fiscal buffers. Senegal, a major West African economy with significant energy import dependence, has been disproportionately affected by the price volatility caused by Middle East tensions. The government's restriction on ministerial travel is a symbolic measure reflecting the severity of the fiscal crisis facing the state. Higher fuel costs have ripple effects across the economy, affecting transportation costs, government operations, and general inflation. The measure highlights how developing nations are particularly vulnerable to global energy price shocks. Senegal's experience is representative of broader challenges facing African economies that lack energy independence. The situation may force difficult choices about government spending priorities and development initiatives.",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3764/live/cb2fe310-300c-11f1-8d50-677398226ba9.jpg",
+      "headline": "Iran executes two opposition group members amid intensifying conflict",
+      "summary": "Iran executed two individuals convicted of membership in a banned opposition group on April 4, 2026, following confirmation by Iran's Supreme Court. Abolhassan Montazer and Vahid Baniamerian were hanged after their sentences were upheld through the appeals process. The executions occurred amid the ongoing US-Israel military conflict with Iran. Human rights organizations have raised concerns about the use of capital punishment and the fairness of proceedings against political opposition members. The executions reflect the Iranian government's approach to suppressing internal dissent during a period of external military pressure. International observers have called for greater transparency and clarity regarding the treatment of detained individuals and political prisoners. The incident raises broader questions about judicial processes and human rights protections within Iran.",
+      "image_url": null,
       "authors": [],
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
-          "author": null
-        }
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war", "author": ""}
       ],
-      "tags": ["economy", "geopolitics", "energy"],
+      "tags": ["conflict", "humanitarian", "diplomacy"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Global HIV funding stalled as Trump administration delays critical aid disbursements",
+      "summary": "Congress appropriated funds for global HIV/AIDS work, but the Trump administration is not releasing the allocated money, creating uncertainty for international health programs. The delays are affecting critical global health initiatives and organizations working on HIV prevention and treatment worldwide. Funding unpredictability is hindering long-term planning for health organizations in vulnerable regions. Health workers and advocacy groups express concerns that the funding delays will disrupt lifesaving programs and undermine years of progress in combating HIV/AIDS globally. The situation demonstrates how administrative decisions can impact international humanitarian health efforts. Organizations relying on this funding are facing difficult decisions about program continuity. The delays underscore tensions between legislative intent and executive actions on global health priorities.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3911x2933+0+0/resize/3911x2933!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F56%2F052fc37d4a7694ed998d6e9ebee1%2Fcaspian-portrait2-brighter-0148.jpg",
+      "authors": ["Gabrielle Emanuel"],
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/04/nx-s1-5763938/hiv-aids-pepfar-funding-delays-may-shut-down-lifesaving-aid", "author": "Gabrielle Emanuel"}
+      ],
+      "tags": ["health", "humanitarian", "diplomacy"],
       "significance": "medium"
     }
   ]
