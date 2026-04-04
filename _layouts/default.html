@@ -16,6 +16,12 @@
       margin: 0 auto;
       padding: 2rem;
     }
+    .markdown-body h1:first-of-type {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
     .site-nav {
       max-width: 980px;
       margin: 0 auto;
@@ -49,8 +55,8 @@
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
-      padding: 0.3rem 0.75rem;
-      font-size: 13px;
+      padding: 0.25rem 0.65rem;
+      font-size: 12px;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
       color: #1f2328;
       background: #f6f8fa;
@@ -58,6 +64,8 @@
       border-radius: 6px;
       cursor: pointer;
       user-select: none;
+      vertical-align: middle;
+      line-height: 1;
     }
     .listen-btn:hover {
       background: #eaeef2;
@@ -68,14 +76,10 @@
       color: #0969da;
     }
     .listen-progress {
-      display: none;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      font-size: 12px;
+      font-size: 11px;
       color: #656d76;
-      margin-left: 0.5rem;
-    }
-    .listen-progress.visible {
-      display: inline;
+      vertical-align: middle;
     }
     .page-nav {
       max-width: 980px;
@@ -100,13 +104,6 @@
   <nav class="site-nav">
     <span class="title"><a href="{{ site.baseurl }}/" style="color: inherit;">{{ site.title }}</a></span>
     <span class="links">
-      {% if page.layout == 'digest' %}
-      <button class="listen-btn" id="listenBtn" onclick="toggleListen()">
-        <span id="listenIcon">&#9654;</span>
-        <span id="listenLabel">Listen</span>
-      </button>
-      <span class="listen-progress" id="listenProgress"></span>
-      {% endif %}
       <a href="{{ site.baseurl }}/">Latest</a>
       <a href="{{ site.baseurl }}/archive">Archive</a>
     </span>
@@ -120,10 +117,29 @@
     {% if page.next_digest %}<a href="{{ page.next_digest }}">Next &rarr;</a>{% else %}<span></span>{% endif %}
   </nav>
   <script>
-    let speaking = false;
+    // State
+    let isPlaying = false;
     let chunks = [];
     let currentChunk = 0;
-    let cancelRequested = false;
+    let activeUtterance = null;
+
+    // Inject listen button next to the h1 title
+    (function injectButton() {
+      const h1 = document.querySelector('#digestContent h1');
+      if (!h1) return;
+
+      const btn = document.createElement('button');
+      btn.className = 'listen-btn';
+      btn.id = 'listenBtn';
+      btn.innerHTML = '<span id="listenIcon">&#9654;</span> <span id="listenLabel">Listen</span>';
+      btn.onclick = toggleListen;
+      h1.appendChild(btn);
+
+      const prog = document.createElement('span');
+      prog.className = 'listen-progress';
+      prog.id = 'listenProgress';
+      h1.appendChild(prog);
+    })();
 
     function getCleanText() {
       const content = document.getElementById('digestContent').cloneNode(true);
@@ -134,26 +150,15 @@
       // Remove inline code tags (topic tags)
       content.querySelectorAll('code').forEach(el => el.remove());
 
-      // Get the text
+      // Get text
       let text = content.innerText || content.textContent;
 
-      // Remove "Sources:" blocks and everything until next section header or horizontal rule
-      // Pattern: "Sources:" followed by numbered list items until a blank line + heading
-      text = text.replace(/Sources:\s*\n([\s\S]*?)(?=\n[A-Z#\-]|\n\n[A-Z]|$)/gi, '');
-
-      // Remove any remaining numbered source lines (1. [Source...], 2. [Source...])
+      // Remove "Sources:" blocks and numbered source lists
+      text = text.replace(/Sources:\s*\n[\s\S]*?(?=\n[A-Z#\u2014]|\n\n[A-Z]|\n---|\n##|$)/gi, '');
       text = text.replace(/^\d+\.\s*\[?[A-Z].*https?:\/\/.*$/gm, '');
-
-      // Remove "Last updated:" metadata line
       text = text.replace(/Last updated:.*$/gm, '');
-
-      // Remove standalone URLs
       text = text.replace(/https?:\/\/\S+/g, '');
-
-      // Remove tag lines (lines that are just backtick words)
       text = text.replace(/^[`\s]+.*[`\s]+$/gm, '');
-
-      // Clean up excessive whitespace
       text = text.replace(/\n{3,}/g, '\n\n').trim();
 
       return text;
@@ -163,7 +168,6 @@
       const paragraphs = text.split(/\n\n+/);
       const result = [];
       let current = '';
-
       for (const para of paragraphs) {
         if ((current + '\n\n' + para).length > maxLen && current) {
           result.push(current.trim());
@@ -172,120 +176,111 @@
           current = current ? current + '\n\n' + para : para;
         }
       }
-      if (current.trim()) {
-        result.push(current.trim());
-      }
+      if (current.trim()) result.push(current.trim());
       return result;
     }
 
-    function getPreferredVoice() {
+    function getVoice() {
       const voices = speechSynthesis.getVoices();
-      // Prefer high-quality macOS/iOS voices
-      const prefs = ['Samantha', 'Daniel', 'Karen', 'Moira', 'Fiona'];
+      const prefs = ['Samantha', 'Daniel', 'Karen', 'Moira'];
       for (const name of prefs) {
         const v = voices.find(v => v.name.includes(name));
         if (v) return v;
       }
-      // Fallback: any local English voice
       return voices.find(v => v.lang.startsWith('en') && v.localService) || null;
     }
 
-    function updateProgress() {
+    function updateUI() {
+      const btn = document.getElementById('listenBtn');
+      const icon = document.getElementById('listenIcon');
+      const label = document.getElementById('listenLabel');
       const progress = document.getElementById('listenProgress');
-      if (chunks.length > 1) {
-        progress.textContent = `(${currentChunk + 1}/${chunks.length})`;
-        progress.classList.add('visible');
+      if (!btn) return;
+
+      if (isPlaying) {
+        btn.classList.add('playing');
+        icon.textContent = '\u25A0';
+        label.textContent = 'Stop';
+        progress.textContent = chunks.length > 1 ? `(${currentChunk + 1}/${chunks.length})` : '';
+      } else {
+        btn.classList.remove('playing');
+        icon.textContent = '\u25B6';
+        label.textContent = 'Listen';
+        progress.textContent = '';
       }
     }
 
-    function speakNext() {
-      if (cancelRequested || currentChunk >= chunks.length) {
-        stopListen();
+    function speakChunk(index) {
+      if (!isPlaying || index >= chunks.length) {
+        isPlaying = false;
+        currentChunk = 0;
+        updateUI();
         return;
       }
 
-      const utter = new SpeechSynthesisUtterance(chunks[currentChunk]);
+      currentChunk = index;
+      updateUI();
+
+      const utter = new SpeechSynthesisUtterance(chunks[index]);
       utter.rate = 1.05;
       utter.pitch = 1.0;
-
-      const voice = getPreferredVoice();
+      const voice = getVoice();
       if (voice) utter.voice = voice;
 
+      activeUtterance = utter;
+
       utter.onend = () => {
-        if (cancelRequested) { stopListen(); return; }
-        currentChunk++;
-        updateProgress();
-        speakNext();
+        if (!isPlaying) return;
+        speakChunk(index + 1);
       };
 
-      utter.onerror = () => {
-        if (cancelRequested) { stopListen(); return; }
-        currentChunk++;
-        updateProgress();
-        speakNext();
+      utter.onerror = (e) => {
+        // 'canceled' is expected when we call stop
+        if (e.error === 'canceled') return;
+        if (!isPlaying) return;
+        speakChunk(index + 1);
       };
 
       speechSynthesis.speak(utter);
-      updateProgress();
     }
 
     function toggleListen() {
-      if (speaking) {
-        stopListen();
+      if (isPlaying) {
+        doStop();
       } else {
-        startListen();
+        doStart();
       }
     }
 
-    function startListen() {
-      // Force cancel any lingering speech
-      cancelRequested = false;
-      speechSynthesis.cancel();
-
+    function doStart() {
+      // Prepare text
       const text = getCleanText();
+      if (!text) return;
+
       chunks = splitIntoChunks(text, 3000);
       currentChunk = 0;
-      speaking = true;
+      isPlaying = true;
+      updateUI();
 
-      const btn = document.getElementById('listenBtn');
-      const icon = document.getElementById('listenIcon');
-      const label = document.getElementById('listenLabel');
-      btn.classList.add('playing');
-      icon.textContent = '\u25A0';
-      label.textContent = 'Stop';
-
-      // Small delay to let cancel() finish
-      setTimeout(speakNext, 100);
+      // Start speaking after a tick
+      setTimeout(() => speakChunk(0), 50);
     }
 
-    function stopListen() {
-      cancelRequested = true;
-      // Call cancel repeatedly — workaround for Safari/Chrome bug
+    function doStop() {
+      isPlaying = false;
+      activeUtterance = null;
       speechSynthesis.cancel();
-      setTimeout(() => speechSynthesis.cancel(), 50);
-      setTimeout(() => speechSynthesis.cancel(), 150);
-
-      speaking = false;
       currentChunk = 0;
-      cancelRequested = false;
-
-      const btn = document.getElementById('listenBtn');
-      const icon = document.getElementById('listenIcon');
-      const label = document.getElementById('listenLabel');
-      const progress = document.getElementById('listenProgress');
-      btn.classList.remove('playing');
-      icon.textContent = '\u25B6';
-      label.textContent = 'Listen';
-      progress.classList.remove('visible');
+      updateUI();
     }
 
-    // Load voices (some browsers fire this async)
+    // Load voices
+    speechSynthesis.getVoices();
     speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
 
-    // Safari workaround: speech sometimes pauses after ~15s
-    // Keep-alive by resuming periodically while speaking
+    // Safari workaround: resume if paused
     setInterval(() => {
-      if (speaking && speechSynthesis.paused) {
+      if (isPlaying && speechSynthesis.paused) {
         speechSynthesis.resume();
       }
     }, 5000);
