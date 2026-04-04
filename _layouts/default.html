@@ -108,23 +108,12 @@
   <script>
     let currentBtn = null;
     let currentAudio = null;
-    let audioManifest = null;
-
-    // ---------------------------------------------------------------------------
-    // Audio path derivation
-    // ---------------------------------------------------------------------------
 
     function getAudioBasePath() {
-      // Page URL: /orb_news/digests/YYYY/MM/DD/YYYY-MM-DD/
-      // Audio dir: /orb_news/digests/YYYY/MM/DD/audio/
       const path = window.location.pathname.replace(/\/+$/, '');
       const parent = path.substring(0, path.lastIndexOf('/'));
       return parent + '/audio/';
     }
-
-    // ---------------------------------------------------------------------------
-    // Stop / play controls
-    // ---------------------------------------------------------------------------
 
     function stopCurrent() {
       if (currentAudio) {
@@ -132,7 +121,6 @@
         currentAudio.currentTime = 0;
         currentAudio = null;
       }
-      speechSynthesis.cancel();
       if (currentBtn) {
         currentBtn.classList.remove('playing');
         currentBtn.textContent = '\u25B6 Listen';
@@ -146,11 +134,7 @@
       return m > 0 ? `${m}m ${s}s` : `${s}s`;
     }
 
-    // ---------------------------------------------------------------------------
-    // MP3 playback (pre-generated audio)
-    // ---------------------------------------------------------------------------
-
-    function playMP3(btn, url, durationHint) {
+    function playMP3(btn, url) {
       if (btn === currentBtn) { stopCurrent(); return; }
       stopCurrent();
 
@@ -161,79 +145,9 @@
       btn.textContent = '\u25A0 Stop';
 
       audio.onended = () => stopCurrent();
-      audio.onerror = () => {
-        // MP3 failed to load — fall back to Web Speech API
-        currentAudio = null;
-        const sectionEl = btn._sectionContainer;
-        if (sectionEl) handleSpeechSynthesis(btn, sectionEl);
-        else stopCurrent();
-      };
+      audio.onerror = () => stopCurrent();
       audio.play();
     }
-
-    // ---------------------------------------------------------------------------
-    // Web Speech API fallback
-    // ---------------------------------------------------------------------------
-
-    function extractSectionText(sectionEl) {
-      const clone = sectionEl.cloneNode(true);
-      clone.querySelectorAll('.listen-btn').forEach(el => el.remove());
-      clone.querySelectorAll('sup').forEach(el => el.remove());
-      clone.querySelectorAll('code').forEach(el => el.remove());
-
-      let text = clone.innerText || clone.textContent;
-      text = text.replace(/Sources:[\s\S]*?(?=\n[A-Z\n#]|$)/gi, '');
-      text = text.replace(/^\d+\.\s.*https?:\/\/.*$/gm, '');
-      text = text.replace(/https?:\/\/\S+/g, '');
-      text = text.replace(/Last updated:.*$/gm, '');
-      text = text.replace(/\n{3,}/g, '\n\n').trim();
-      return text;
-    }
-
-    function handleSpeechSynthesis(btn, sectionEl) {
-      if (btn === currentBtn) { stopCurrent(); return; }
-      stopCurrent();
-
-      const text = extractSectionText(sectionEl);
-      if (!text) return;
-
-      const sentences = text.match(/[^.!?]*[.!?]+(?:\s|$)/g) || [text];
-      const chunks = [];
-      let current = '';
-      for (const s of sentences) {
-        if ((current + s).length > 1500 && current) {
-          chunks.push(current.trim());
-          current = s;
-        } else {
-          current += s;
-        }
-      }
-      if (current.trim()) chunks.push(current.trim());
-
-      currentBtn = btn;
-      btn.classList.add('playing');
-      btn.textContent = '\u25A0 Stop';
-
-      let i = 0;
-      function next() {
-        if (i >= chunks.length || currentBtn !== btn) { stopCurrent(); return; }
-        const utter = new SpeechSynthesisUtterance(chunks[i]);
-        utter.rate = 1.05;
-        const voices = speechSynthesis.getVoices();
-        const voice = ['Samantha', 'Daniel', 'Karen', 'Moira']
-          .map(n => voices.find(v => v.name.includes(n)))
-          .find(Boolean) || voices.find(v => v.lang.startsWith('en') && v.localService);
-        if (voice) utter.voice = voice;
-        utter.onend = () => { i++; next(); };
-        utter.onerror = (e) => { if (e.error === 'canceled') return; i++; next(); };
-        speechSynthesis.speak(utter);
-      }
-      next();
-    }
-
-    // ---------------------------------------------------------------------------
-    // Button injection
-    // ---------------------------------------------------------------------------
 
     function collectSection(heading, stopTags) {
       const els = [];
@@ -247,31 +161,20 @@
       return els;
     }
 
-    function addListenBtn(afterEl, contentEls, audioKey) {
+    function addListenBtn(afterEl, audioKey, manifest) {
+      const sectionInfo = manifest.sections[audioKey];
+      if (!sectionInfo) return;
+
       const btn = document.createElement('button');
       btn.className = 'listen-btn';
-
-      // Store section content for fallback
-      const container = document.createElement('div');
-      contentEls.forEach(e => container.appendChild(e.cloneNode(true)));
-      btn._sectionContainer = container;
-
-      const sectionInfo = audioManifest && audioManifest.sections[audioKey];
-
-      if (sectionInfo) {
-        const dur = formatDuration(sectionInfo.duration_s);
-        btn.textContent = `\u25B6 Listen (${dur})`;
-        const mp3Url = getAudioBasePath() + sectionInfo.file;
-        btn.onclick = () => playMP3(btn, mp3Url, sectionInfo.duration_s);
-      } else {
-        btn.textContent = '\u25B6 Listen';
-        btn.onclick = () => handleSpeechSynthesis(btn, container);
-      }
-
+      const dur = formatDuration(sectionInfo.duration_s);
+      btn.textContent = `\u25B6 Listen (${dur})`;
+      const mp3Url = getAudioBasePath() + sectionInfo.file;
+      btn.onclick = () => playMP3(btn, mp3Url);
       afterEl.insertAdjacentElement('afterend', btn);
     }
 
-    function injectButtons() {
+    function injectButtons(manifest) {
       const article = document.getElementById('digestContent');
       if (!article) return;
 
@@ -283,49 +186,30 @@
           let storyNum = 1;
           while (el && el.tagName !== 'H2') {
             if (el.tagName === 'H3') {
-              const h3Content = collectSection(el, ['H3', 'H2', 'HR']);
-              addListenBtn(el, h3Content, `top-story-${storyNum}`);
+              addListenBtn(el, `top-story-${storyNum}`, manifest);
               storyNum++;
             }
             el = el.nextElementSibling;
           }
         } else if (title.includes('update')) {
-          const sectionEls = collectSection(h2, ['H2']);
           const key = title.includes('midday') ? 'midday-update'
             : title.includes('evening') ? 'evening-update'
             : 'manual-update';
-          addListenBtn(h2, sectionEls, key);
+          addListenBtn(h2, key, manifest);
         } else {
-          const sectionEls = collectSection(h2, ['H2']);
-          addListenBtn(h2, sectionEls, title);
+          addListenBtn(h2, title, manifest);
         }
       });
     }
 
-    // ---------------------------------------------------------------------------
-    // Initialise: try to load manifest, then inject buttons
-    // ---------------------------------------------------------------------------
-
     (async function init() {
       try {
         const resp = await fetch(getAudioBasePath() + 'manifest.json');
-        if (resp.ok) audioManifest = await resp.json();
+        if (resp.ok) injectButtons(await resp.json());
       } catch (e) {
-        // No manifest — buttons will use Web Speech API fallback
+        // No audio available for this digest
       }
-      injectButtons();
     })();
-
-    // Load voices for fallback
-    speechSynthesis.getVoices();
-    speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
-
-    // Safari keep-alive for speech synthesis fallback
-    setInterval(() => {
-      if (currentBtn && !currentAudio && speechSynthesis.paused) {
-        speechSynthesis.resume();
-      }
-    }, 5000);
   </script>
   {% endif %}
 </body>
