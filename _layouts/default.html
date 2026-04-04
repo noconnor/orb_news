@@ -156,8 +156,23 @@
       const text = extractSectionText(sectionEl);
       if (!text) return;
 
-      // Split into smaller chunks for reliability
-      const chunks = text.match(/[\s\S]{1,2000}(?:\s|$)/g) || [text];
+      // Split into sentences for natural pauses
+      // Match sentences ending with . ! ? followed by space or end, keeping the punctuation
+      const sentences = text.match(/[^.!?]*[.!?]+(?:\s|$)/g) || [text];
+
+      // Group sentences into chunks of ~3-5 sentences to reduce API calls
+      // but keep each chunk at sentence boundaries
+      const chunks = [];
+      let current = '';
+      for (const s of sentences) {
+        if ((current + s).length > 1500 && current) {
+          chunks.push(current.trim());
+          current = s;
+        } else {
+          current += s;
+        }
+      }
+      if (current.trim()) chunks.push(current.trim());
 
       currentBtn = btn;
       btn.classList.add('playing');
