@@ -43,6 +43,39 @@
     .site-nav .links {
       display: flex;
       gap: 1.5rem;
+      align-items: center;
+    }
+    .listen-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.3rem 0.75rem;
+      font-size: 13px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      color: #1f2328;
+      background: #f6f8fa;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .listen-btn:hover {
+      background: #eaeef2;
+    }
+    .listen-btn.playing {
+      background: #ddf4ff;
+      border-color: #54aeff;
+      color: #0969da;
+    }
+    .listen-progress {
+      display: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      color: #656d76;
+      margin-left: 0.5rem;
+    }
+    .listen-progress.visible {
+      display: inline;
     }
     .page-nav {
       max-width: 980px;
@@ -67,11 +100,18 @@
   <nav class="site-nav">
     <span class="title"><a href="{{ site.baseurl }}/" style="color: inherit;">{{ site.title }}</a></span>
     <span class="links">
+      {% if page.layout == 'digest' %}
+      <button class="listen-btn" id="listenBtn" onclick="toggleListen()">
+        <span id="listenIcon">&#9654;</span>
+        <span id="listenLabel">Listen</span>
+      </button>
+      <span class="listen-progress" id="listenProgress"></span>
+      {% endif %}
       <a href="{{ site.baseurl }}/">Latest</a>
       <a href="{{ site.baseurl }}/archive">Archive</a>
     </span>
   </nav>
-  <article class="markdown-body">
+  <article class="markdown-body" id="digestContent">
     {{ content }}
   </article>
   {% if page.layout == 'digest' %}
@@ -79,6 +119,158 @@
     {% if page.previous_digest %}<a href="{{ page.previous_digest }}">&larr; Previous</a>{% else %}<span></span>{% endif %}
     {% if page.next_digest %}<a href="{{ page.next_digest }}">Next &rarr;</a>{% else %}<span></span>{% endif %}
   </nav>
+  <script>
+    let speaking = false;
+    let utterances = [];
+    let currentUtterance = 0;
+
+    function getCleanText() {
+      const content = document.getElementById('digestContent').cloneNode(true);
+
+      // Remove source blocks (the numbered lists at end of sections)
+      content.querySelectorAll('strong').forEach(el => {
+        if (el.textContent.trim() === 'Sources:') {
+          // Remove everything from "Sources:" to the next <hr> or <h2>
+          let node = el.parentElement;
+          while (node && node.tagName !== 'HR' && node.tagName !== 'H2') {
+            const next = node.nextElementSibling;
+            node.remove();
+            node = next;
+          }
+        }
+      });
+
+      // Remove superscript reference links
+      content.querySelectorAll('sup').forEach(el => el.remove());
+
+      // Remove inline code tags (topic tags like `politics` `housing`)
+      content.querySelectorAll('code').forEach(el => el.remove());
+
+      // Remove the "Last updated" metadata line
+      content.querySelectorAll('blockquote').forEach(el => {
+        if (el.textContent.includes('Last updated')) {
+          el.remove();
+        }
+      });
+
+      // Get clean text
+      let text = content.innerText || content.textContent;
+
+      // Clean up extra whitespace
+      text = text.replace(/\n{3,}/g, '\n\n').trim();
+
+      return text;
+    }
+
+    function splitIntoChunks(text, maxLen) {
+      // Web Speech API has a character limit per utterance (~32k in some browsers)
+      // Split on paragraph breaks for natural pauses
+      const paragraphs = text.split(/\n\n+/);
+      const chunks = [];
+      let current = '';
+
+      for (const para of paragraphs) {
+        if ((current + '\n\n' + para).length > maxLen && current) {
+          chunks.push(current.trim());
+          current = para;
+        } else {
+          current = current ? current + '\n\n' + para : para;
+        }
+      }
+      if (current.trim()) {
+        chunks.push(current.trim());
+      }
+      return chunks;
+    }
+
+    function updateProgress() {
+      const progress = document.getElementById('listenProgress');
+      if (utterances.length > 1) {
+        progress.textContent = `(${currentUtterance + 1}/${utterances.length})`;
+        progress.classList.add('visible');
+      }
+    }
+
+    function speakNext() {
+      if (currentUtterance >= utterances.length) {
+        stopListen();
+        return;
+      }
+
+      const utter = new SpeechSynthesisUtterance(utterances[currentUtterance]);
+      utter.rate = 1.0;
+      utter.pitch = 1.0;
+
+      // Prefer a good English voice
+      const voices = speechSynthesis.getVoices();
+      const preferred = voices.find(v =>
+        v.name.includes('Samantha') ||
+        v.name.includes('Daniel') ||
+        v.name.includes('Karen') ||
+        (v.lang.startsWith('en') && v.localService)
+      );
+      if (preferred) utter.voice = preferred;
+
+      utter.onend = () => {
+        currentUtterance++;
+        updateProgress();
+        speakNext();
+      };
+
+      utter.onerror = () => {
+        currentUtterance++;
+        updateProgress();
+        speakNext();
+      };
+
+      speechSynthesis.speak(utter);
+      updateProgress();
+    }
+
+    function toggleListen() {
+      if (speaking) {
+        stopListen();
+      } else {
+        startListen();
+      }
+    }
+
+    function startListen() {
+      speechSynthesis.cancel();
+
+      const text = getCleanText();
+      utterances = splitIntoChunks(text, 4000);
+      currentUtterance = 0;
+      speaking = true;
+
+      const btn = document.getElementById('listenBtn');
+      const icon = document.getElementById('listenIcon');
+      const label = document.getElementById('listenLabel');
+      btn.classList.add('playing');
+      icon.textContent = '\u23F8';
+      label.textContent = 'Stop';
+
+      speakNext();
+    }
+
+    function stopListen() {
+      speechSynthesis.cancel();
+      speaking = false;
+      currentUtterance = 0;
+
+      const btn = document.getElementById('listenBtn');
+      const icon = document.getElementById('listenIcon');
+      const label = document.getElementById('listenLabel');
+      const progress = document.getElementById('listenProgress');
+      btn.classList.remove('playing');
+      icon.textContent = '\u25B6';
+      label.textContent = 'Listen';
+      progress.classList.remove('visible');
+    }
+
+    // Load voices (some browsers need this async)
+    speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
+  </script>
   {% endif %}
 </body>
 </html>
