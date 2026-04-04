@@ -193,48 +193,54 @@
       next();
     }
 
-    // Find all h2 sections and insert listen buttons
+    // Collect sibling elements from a heading until the next heading of same or higher level, or hr
+    function collectSection(heading, stopTags) {
+      const els = [];
+      let el = heading.nextElementSibling;
+      while (el) {
+        if (el.classList && el.classList.contains('listen-btn')) { el = el.nextElementSibling; continue; }
+        if (stopTags.includes(el.tagName)) break;
+        els.push(el);
+        el = el.nextElementSibling;
+      }
+      return els;
+    }
+
+    function addListenBtn(afterEl, contentEls) {
+      const btn = document.createElement('button');
+      btn.className = 'listen-btn';
+      btn.textContent = '\u25B6 Listen';
+      btn.onclick = function() {
+        const container = document.createElement('div');
+        contentEls.forEach(e => container.appendChild(e.cloneNode(true)));
+        handleListen(btn, container);
+      };
+      afterEl.insertAdjacentElement('afterend', btn);
+    }
+
     (function injectButtons() {
       const article = document.getElementById('digestContent');
       if (!article) return;
 
+      // For h2 sections (World, Europe, Ireland) — collect until next h2 or end
+      // For "Top Stories" h2, skip it — we'll add buttons to the h3s inside instead
       const h2s = article.querySelectorAll('h2');
-
       h2s.forEach((h2) => {
-        // Collect all elements belonging to this section (until next h2 or hr)
-        const sectionDiv = document.createElement('div');
-        sectionDiv.className = 'listen-section';
-
-        // Gather sibling elements until the next h2 or end
-        let el = h2.nextElementSibling;
-        const sectionEls = [h2];
-        while (el && el.tagName !== 'H2') {
-          sectionEls.push(el);
-          el = el.nextElementSibling;
-        }
-
-        // Create a wrapper we can reference for text extraction
-        const wrapper = document.createElement('div');
-        wrapper.dataset.section = h2.textContent.trim();
-
-        // Move elements into wrapper (without actually moving DOM — just reference)
-        // Instead, we'll just pass the elements to the handler
-        // Insert button after the h2
-        const btn = document.createElement('button');
-        btn.className = 'listen-btn';
-        btn.textContent = '\u25B6 Listen';
-        btn.onclick = function() {
-          // Create a temp container with all section content for text extraction
-          const container = document.createElement('div');
-          sectionEls.forEach(e => container.appendChild(e.cloneNode(true)));
-          handleListen(btn, container);
-        };
-
-        // Insert button right after the h2
-        if (h2.nextSibling) {
-          h2.parentNode.insertBefore(btn, h2.nextSibling);
+        const title = h2.textContent.trim().toLowerCase();
+        if (title.includes('top stories')) {
+          // Add buttons to each h3 inside Top Stories
+          let el = h2.nextElementSibling;
+          while (el && el.tagName !== 'H2') {
+            if (el.tagName === 'H3') {
+              const h3Content = collectSection(el, ['H3', 'H2', 'HR']);
+              addListenBtn(el, h3Content);
+            }
+            el = el.nextElementSibling;
+          }
         } else {
-          h2.parentNode.appendChild(btn);
+          // Regular section — button after h2, reads until next h2
+          const sectionEls = collectSection(h2, ['H2']);
+          addListenBtn(h2, sectionEls);
         }
       });
     })();
