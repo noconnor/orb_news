@@ -1,0 +1,62 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-05T14:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Ukraine faces escalating drone attacks as Russia launches 286 missiles overnight",
+      "summary": "Russian forces conducted an intensive overnight aerial assault on Ukraine, launching 286 long-range drones with Ukrainian air defense successfully intercepting 260 of them. A Russian strike on a market in Ukraine killed several people and wounded dozens more, highlighting ongoing civilian casualties from the sustained bombardment campaign. The massive scale of attacks demonstrates Russia's continued commitment to aerial warfare despite significant interception rates by Ukrainian defenses. Ukrainian President Zelenskyy warns that prolonged US-Iran hostilities threaten to divert critical Patriot missile supplies and compound Europe's energy challenges through elevated oil prices. The relentless drone campaign underscores Ukraine's vulnerabilities and the toll of the prolonged conflict on civilian infrastructure and populations.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/several-people-killed-in-ukraine-after-a-russian-drone-strike-on-a-market"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine"}
+      ],
+      "tags": ["conflict", "defence", "EU"]
+    },
+    {
+      "headline": "Pope Leo XIV condemns 'violence of war' in inaugural Easter Mass amid global tensions",
+      "summary": "Pope Leo XIV delivered his first Easter Mass as pontiff, delivering a stark condemnation of 'the violence of war that kills and destroys' amid the escalating US-Israeli conflict with Iran and Russia's ongoing military campaign in Ukraine. The papal message emphasized peace and reflected Vatican concerns about the humanitarian toll of multiple simultaneous conflicts affecting Europe and the broader world. The Pope's words resonated across Europe's predominantly Catholic nations and highlighted religious institutions' moral opposition to warfare and exploitation. The Easter message provided a moment of reflection for European Catholics during a period of heightened geopolitical tension and security concerns. The pontiff's emphasis on ending violence reflects broader European anxieties about stability and the need for diplomatic resolution.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260405-pope-leo-condemns-violence-of-war-in-first-easter-mass-amid-iran-conflict"}
+      ],
+      "tags": ["governance", "conflict", "EU"]
+    },
+    {
+      "headline": "Explosives discovered near critical Russian gas pipeline in Serbia",
+      "summary": "Serbian President announced the discovery of explosives near pipeline infrastructure carrying Russian gas to Serbia and Hungary, raising significant security concerns about Europe's energy infrastructure. The incident highlights vulnerabilities in critical supply lines that connect Europe to Russian energy sources amid heightened geopolitical tensions. The discovery of explosives near this strategic asset raises questions about potential sabotage risks and pipeline security across southeastern Europe. This development underscores Europe's ongoing dependence on Russian energy supplies despite efforts to diversify and reduce reliance on Russian sources. The situation may prompt renewed European discussions about energy security, infrastructure protection, and accelerated diversification strategies.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/05/serbian-president-explosives-found-near-gas-pipeline-to-hungary"}
+      ],
+      "tags": ["defence", "energy", "EU"]
+    },
+    {
+      "headline": "Cocoa shortage drives Easter chocolate prices higher across European markets",
+      "summary": "European chocolate prices have risen significantly faster than general inflation rates ahead of Easter, driven by a global cocoa shortage and supply chain vulnerabilities. The price increases are affecting consumers across the continent as manufacturers pass on higher raw material costs for traditional Easter chocolates and confectionery products. Supply chain disruptions in cocoa-producing regions have constrained availability of key ingredients, straining Europe's confectionery sector. The surge in prices exemplifies how global commodity disruptions directly impact European household budgets and consumer spending patterns during seasonal shopping periods. The situation highlights Europe's dependence on international agricultural supply chains and vulnerabilities to commodity price volatility.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/05/cocoa-shortage-why-your-easter-chocolate-costs-more-than-before"}
+      ],
+      "tags": ["economy", "trade", "climate"]
+    },
+    {
+      "headline": "Portugal works longest hours in EU, with employees averaging close to 50-hour work weeks",
+      "summary": "A Randstad study reveals that Portugal ranks fourth among EU nations for employees routinely working extended weekly hours approaching 50 hours per week, highlighting significant labor market disparities within the European Union. The finding raises questions about work-life balance, employee wellbeing, and labor protections across member states with varying regulatory frameworks. Portugal's position among the highest work-hour countries reflects broader patterns of labor intensity in southern European economies facing economic pressures. The data suggests potential policy interventions may be needed to address extended work hours and associated health impacts on workers. This trend contrasts sharply with northern European countries that enforce more stringent working time regulations and protections.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/05/portugal-among-eu-countries-with-the-most-people-working-close-to-50-hours-a-week"}
+      ],
+      "tags": ["economy", "regulation", "EU"]
+    },
+    {
+      "headline": "Extended pollen seasons reshape allergy management across Europe",
+      "summary": "Extended and earlier pollen seasons across Europe are becoming longer and more intense, requiring allergy sufferers to adopt year-round protective daily practices and management strategies. Climate change and shifting seasonal patterns have disrupted traditional pollen calendars, affecting millions of Europeans with seasonal allergies and respiratory conditions. Health officials recommend consistent mitigation measures including air filtration systems, protective equipment, and year-round medication management. The trend has significant public health implications for respiratory health, quality of life, and healthcare costs across the continent. This phenomenon reflects broader climate-driven environmental changes affecting European ecosystems and illustrates the health impacts of climate disruption on vulnerable populations.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/health/2026/04/05/pollen-is-here-to-stay-as-seasons-get-longer-heres-how-to-protect-yourself"}
+      ],
+      "tags": ["climate", "health", "EU"]
+    }
+  ]
+}

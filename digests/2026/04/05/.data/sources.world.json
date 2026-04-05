@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Reuters (via Google News)",
+    "id": "reuters",
+    "feed_url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+    "type": "rss",
+    "notes": "Wire service \u2014 Reuters discontinued public RSS, using Google News proxy"
+  },
+  {
+    "name": "AP News (via Google News)",
+    "id": "apnews",
+    "feed_url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+    "type": "rss",
+    "notes": "Wire service \u2014 AP restricted RSS, using Google News proxy"
+  },
+  {
+    "name": "Al Jazeera",
+    "id": "aljazeera",
+    "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "type": "rss",
+    "notes": "Non-Western perspective"
+  },
+  {
+    "name": "BBC World",
+    "id": "bbcworld",
+    "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "type": "rss",
+    "notes": "Global coverage"
+  },
+  {
+    "name": "NPR News",
+    "id": "npr",
+    "feed_url": "https://feeds.npr.org/1001/rss.xml",
+    "type": "rss",
+    "notes": "US/world perspective"
+  }
+]

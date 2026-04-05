@@ -1,0 +1,325 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "US Airman Rescued After F-15E Shot Down Over Iran in Major Military Escalation"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Gulf infrastructure attacks'",
+      "existing_parallels": [
+        "Kuwaiti Oil Fires (1991)",
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ],
+      "matched_topic": "Gulf infrastructure attacks",
+      "headline": "Iran Escalates Regional Attacks as Day 37 of Conflict Intensifies Across Gulf"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "9 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "Kuwaiti Oil Fires (1991)",
+        "The 1990 Oil Price Shock",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Ukraine Strikes Russian Oil Infrastructure Including Primorsk Port and Nizhny Novgorod Refinery"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 3 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis, The Tanker War (1984-1988), Iran-Iraq War (1980-1988)",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Gaza Conflict Continues with Fresh Israeli Operations and Civilian Casualties Reported"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 3 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis, The Tanker War (1984-1988), Iran-Iraq War (1980-1988)",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "War-Related Economic Strain Evident as Egypt and Saudi Arabia Report Sharp Contraction in Private Sector Activity"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Foxconn Posts Strong Q1 Revenue Growth While Expressing Caution on Geopolitical Risks"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Valerie's Law parental rights legislation' — 3 prior parallels, room for more. Must not reuse: Megan's Law (United States, 1994–1996), The Tanker War (1984-1988), Iran-Iraq War (1980-1988)",
+      "existing_parallels": [
+        "Megan's Law (United States, 1994–1996)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Megan%27s_Law",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ],
+      "matched_topic": "Valerie's Law parental rights legislation",
+      "headline": "Lebanon Medics Targeted Amid Israel's Military Campaign, Human Rights Groups Report Deliberate Attacks"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "9 parallels already used for topic 'Russia-Ukraine aerial terror campaign'",
+      "existing_parallels": [
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The 1990 Oil Price Shock",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Korean War Stalemate",
+        "Kuwaiti Oil Fires (1991)",
+        "Iran-Iraq War (1980-1988)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+      ],
+      "matched_topic": "Russia-Ukraine aerial terror campaign",
+      "headline": "Ukraine faces escalating drone attacks as Russia launches 286 missiles overnight"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "9 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "The Tanker War (1984-1988)",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)",
+        "The Winter War (1939-1940)",
+        "Allied Oil Campaign of World War II (1944-1945)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Pope Leo XIV condemns 'violence of war' in inaugural Easter Mass amid global tensions"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Explosives discovered near critical Russian gas pipeline in Serbia"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Cocoa shortage drives Easter chocolate prices higher across European markets"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Portugal works longest hours in EU, with employees averaging close to 50-hour work weeks"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Extended pollen seasons reshape allergy management across Europe"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland named storm disruption' — 1 prior parallels, room for more. Must not reuse: Night of the Big Wind (1839)",
+      "existing_parallels": [
+        "Night of the Big Wind (1839)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind"
+      ],
+      "matched_topic": "Ireland named storm disruption",
+      "headline": "Storm Dave leaves thousands without power across Ireland"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Kerry Babies investigation file submitted to Director of Public Prosecutions"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Easter Rising 1916 commemorated with ceremony attended by President and Taoiseach"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Over 2,100 drivers caught speeding in first 72 hours of Easter weekend"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Micheál Martin and Holly Cairns tied in latest political support poll"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Woman in her 80s dies following bus collision in Blackrock"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Digital devices in classrooms questioned as countries reconsider education technology"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Valerie's Law parental rights legislation",
+      "historical_event": "Megan's Law (United States, 1994–1996)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Megan%27s_Law"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Russia-Ukraine aerial terror campaign",
+      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II"
+    },
+    {
+      "story_topic": "Gulf infrastructure attacks",
+      "historical_event": "Kuwaiti Oil Fires (1991)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II (1944-1945)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+    },
+    {
+      "story_topic": "Ireland named storm disruption",
+      "historical_event": "Night of the Big Wind (1839)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}
