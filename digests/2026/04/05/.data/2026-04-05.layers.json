@@ -1,7 +1,7 @@
 {
   "ireland": {
     "layer": "ireland",
-    "fetched_at": "2026-04-05T12:30:00Z",
+    "fetched_at": "2026-04-05T13:30:00Z",
     "source_status": {
       "rte": "ok",
       "thejournal": "ok",
@@ -11,58 +11,79 @@
     },
     "stories": [
       {
-        "headline": "Storm Dave leaves thousands without power across Ireland",
-        "summary": "Storm Dave swept across Ireland on April 5th, causing widespread power outages and flight cancellations due to strong winds affecting the country. A Status Orange weather warning was issued for Wexford, while the rest of Ireland remained under Status Yellow warnings. Thousands of homes and businesses lost electricity as the storm battered the nation with very strong winds. The severe weather disrupted travel and daily activities for much of the population. Conditions gradually improved later in the day, with forecasters describing the weather as 'bright and breezy' with milder conditions, though showers continued on higher ground.",
+        "headline": "Storm Dave leaves thousands without power as Status Orange warning issued for Wexford",
+        "summary": "Storm Dave brought severe weather to Ireland on April 5th, with thousands of homes and businesses losing electricity and 17 flights cancelled at Dublin Airport. The storm prompted Status Orange weather warnings for Wexford and Status Yellow warnings across the rest of the country. At its peak, approximately 18,000 customers were without power overnight, though this improved to around 5,000 by morning. The stormy conditions followed the Easter weekend and caused significant disruption to transport and utilities across the island. Weather forecasters expect conditions to improve with bright and breezy skies, though some showers and hail were possible early in the day.",
         "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0405/1566750-rising-commemoration/"
+          },
           {
             "name": "Irish Times",
             "url": "https://www.irishtimes.com/environment/2026/04/05/storm-dave-ireland-weather-updates/"
           },
           {
-            "name": "TheJournal.ie",
-            "url": "https://www.thejournal.ie/weather-forecast-easter-sunday-2-7004054-Apr2026/"
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41822342.html"
           }
         ],
         "tags": [
           "weather",
+          "infrastructure",
           "transport"
         ]
       },
       {
-        "headline": "Kerry Babies investigation file submitted to Director of Public Prosecutions",
-        "summary": "An investigation file in the decades-old Kerry Babies case has been submitted to the Director of Public Prosecutions following a thorough examination by An Garda S\u00edoch\u00e1na. The case involves an infant discovered on White Strand beach in Caherciveen on April 14, 1984, bearing 28 stab wounds. This development represents a significant moment in one of Ireland's most infamous criminal investigations from the 1980s. The submission to the DPP marks progress in seeking justice and answers for a case that has captured public attention for over four decades. The investigation's completion suggests potential legal proceedings may follow.",
+        "headline": "Kerry Babies case investigation file sent to DPP as 1984 case reopened",
+        "summary": "A new investigation into the 1984 Kerry Babies case has resulted in an investigation file being forwarded to the Director of Public Prosecutions. The case involves an infant discovered on the beach at White Strand, Caherciveen on April 14, 1984, with 28 stab wounds. The case became one of Ireland's most controversial miscarriages of justice, resulting in wrongful convictions. The renewed scrutiny of the case comes four decades after the initial incident and represents a significant development in seeking justice for those affected. The DPP will now review the investigation file to determine whether prosecution or further action is warranted.",
         "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/baby-john-kerry-babies-case-7004027-Apr2026/"
+          },
           {
             "name": "Irish Examiner",
             "url": "https://www.irishexaminer.com/news/munster/arid-41822255.html"
-          },
-          {
-            "name": "TheJournal.ie",
-            "url": "https://www.thejournal.ie/9-at-9-05-0-04-26-7004035-Apr2026/"
           }
         ],
         "tags": [
           "crime",
-          "justice"
+          "justice",
+          "social"
         ]
       },
       {
-        "headline": "Easter Rising 1916 commemorated with ceremony attended by President and Taoiseach",
-        "summary": "The annual commemoration marking the 110th anniversary of the 1916 Easter Rising took place on April 5th, 2026, with the President and Taoiseach attending a ceremony on O'Connell Street in Dublin. The event honored the Irish nationalists who led the armed insurrection against British rule, a pivotal moment in Irish history that ultimately contributed to Irish independence. The commemoration is a significant annual tradition reflecting Ireland's historical identity and republican values. Ceremonies and events marking the Easter Rising occur nationwide each year on or near April 5th. This year's commemoration underscored the continued importance of the historical event in Irish national consciousness.",
+        "headline": "President and Taoiseach lead Easter Rising commemoration marking 110th anniversary",
+        "summary": "The President and Taoiseach attended the annual Easter Rising commemoration at the GPO on O'Connell Street in Dublin on April 5th, marking the 110th anniversary of the 1916 uprising. The Proclamation was read outside the historic site during the State ceremony. The Easter Rising remains a defining moment in Irish history and independence, with annual commemorations affirming the State's connection to the revolutionary events. The presence of senior State figures underscores the continued significance of the rising in Irish national identity and public memory. The ceremony proceeded amid a backdrop of ongoing international conflicts, lending particular poignancy to the historical occasion.",
         "sources": [
           {
             "name": "RT\u00c9 News",
-            "url": "https://www.rte.ie/news/ireland/2026/0405/1566800-easter-rising-commemoration/"
+            "url": "https://www.rte.ie/news/ireland/2026/0405/1566750-rising-commemoration/"
           }
         ],
         "tags": [
           "politics",
-          "history"
+          "history",
+          "society"
         ]
       },
       {
-        "headline": "Over 2,100 drivers caught speeding in first 72 hours of Easter weekend",
-        "summary": "An Garda S\u00edoch\u00e1na detected more than 2,100 drivers exceeding speed limits during the opening 72-hour period of the Easter bank holiday weekend. The speed detection operation targeted dangerous driving behavior during a period of increased road traffic and travel. Road safety initiatives intensified over the holiday period reflect concerns about traffic accidents and fatalities. The high number of speeding violations indicates widespread non-compliance with traffic regulations despite safety warnings. This enforcement action is part of broader efforts to reduce road deaths and serious injuries during holiday periods when driving volumes increase significantly.",
+        "headline": "Miche\u00e1l Martin and Holly Cairns tied in public support poll at 39% approval",
+        "summary": "A new opinion poll released on April 5th shows Miche\u00e1l Martin and Holly Cairns achieving equal approval ratings of 39%, indicating a significant tie in public support for the two political leaders. The poll reflects the current political landscape in Ireland, where support appears evenly distributed between the two figures. This level of parity suggests a competitive political environment and may have implications for upcoming electoral contests or government formation. The poll provides insight into public confidence in political leadership during a period when various domestic challenges including housing, healthcare, and economic management remain on the political agenda.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/micheal-martin-holly-cairns-support-poll-7004076-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "polling"
+        ]
+      },
+      {
+        "headline": "Over 2,100 speeding violations recorded during Easter weekend enforcement operation",
+        "summary": "An Garda S\u00edoch\u00e1na detected more than 2,100 drivers speeding in the first 72 hours of the Easter bank holiday weekend as part of enhanced road safety enforcement. The Easter period typically sees increased traffic as families travel for holiday celebrations, prompting targeted garda operations to enhance road safety. The high number of speeding violations indicates ongoing compliance challenges with speed limits during peak travel periods. These enforcement operations form part of broader garda road safety initiatives aimed at reducing traffic incidents, injuries, and fatalities on Irish roads. The statistics underscore the need for sustained public awareness campaigns about speed limit compliance.",
         "sources": [
           {
             "name": "RT\u00c9 News",
@@ -71,48 +92,42 @@
         ],
         "tags": [
           "transport",
+          "safety",
           "crime"
         ]
       },
       {
-        "headline": "Miche\u00e1l Martin and Holly Cairns tied in latest political support poll",
-        "summary": "A new Sunday Independent/Ireland Thinks poll shows Miche\u00e1l Martin and Holly Cairns with equal approval ratings of 39% among the Irish public. The polling result indicates a tight political landscape as the two leaders compete for public confidence. Martin, as Taoiseach, faces stiff competition from Cairns, leader of the Social Democrats, suggesting shifting political dynamics in Ireland. The equal rating reflects neither leader commanding a clear advantage in public support. This poll data is significant for understanding the current political climate and potential implications for future electoral contests.",
+        "headline": "Ireland may follow international trend of reducing digital devices in classrooms",
+        "summary": "Parents and educators in Ireland are increasingly questioning the role of classroom technology, as several countries move away from laptops and digital devices in schools. The debate reflects broader concerns about screen time, digital distraction, and its impact on student learning outcomes and wellbeing. Countries around the world have begun reducing or eliminating digital devices in primary schools, citing research on attention spans and cognitive development. Ireland may consider following this international trend as part of educational policy discussions. The shift represents a potential reversal of earlier technology-forward education strategies and emphasizes a return to traditional learning materials such as textbooks.",
         "sources": [
           {
-            "name": "TheJournal.ie",
-            "url": "https://www.thejournal.ie/micheal-martin-holly-cairns-support-poll-7004076-Apr2026/"
-          }
-        ],
-        "tags": [
-          "politics"
-        ]
-      },
-      {
-        "headline": "Woman in her 80s dies following bus collision in Blackrock",
-        "summary": "An elderly woman in her 80s passed away in hospital following injuries sustained in a bus collision in Blackrock. The fatal incident occurred when the woman was struck by a bus, resulting in injuries that ultimately proved fatal. The tragedy highlights ongoing road safety concerns in Ireland, particularly involving vulnerable users like elderly pedestrians. The incident is part of a broader pattern of serious road accidents occurring during the Easter weekend period. Additionally, a man in his 30s died in a separate road crash, underscoring the dangerous conditions on Irish roads during busy holiday periods.",
-        "sources": [
-          {
-            "name": "TheJournal.ie",
-            "url": "https://www.thejournal.ie/woman-dies-hit-by-bus-blackrock-7004043-Apr2026/"
-          }
-        ],
-        "tags": [
-          "transport",
-          "social"
-        ]
-      },
-      {
-        "headline": "Digital devices in classrooms questioned as countries reconsider education technology",
-        "summary": "Parents and educators across Ireland and internationally are questioning the widespread use of laptops and digital devices in classrooms as schools reconsider their technology strategies. Several countries are moving away from device-heavy education models, prioritizing alternative learning approaches. The debate reflects growing concerns about the effectiveness of classroom technology and potential negative impacts on learning outcomes. Ireland may follow the international trend toward reducing digital device reliance in schools. This discussion has significant implications for education policy and raises questions about the optimal balance between traditional teaching methods and technology integration.",
-        "sources": [
-          {
-            "name": "TheJournal.ie",
+            "name": "The Journal.ie",
             "url": "https://www.thejournal.ie/digital-devices-laptops-in-school-7002020-Apr2026/"
           }
         ],
         "tags": [
-          "health",
-          "social"
+          "education",
+          "social",
+          "health"
+        ]
+      },
+      {
+        "headline": "US successfully rescues airman in 'daring' operation amid Iran conflict escalation",
+        "summary": "A US service member whose fighter aircraft was shot down over Iran on Friday was successfully rescued in a high-stakes military operation announced on April 5th. President Trump confirmed the officer was recovered safely, though Iran's military claimed to have thwarted the operation. The rescue operation represents a significant tactical success for US forces during the sixth week of the ongoing conflict between the US-Israeli alliance and Iran. Reports indicate that strikes continued in the Gulf region with Iran claiming that US aircraft were destroyed during the mission. The incident highlights the intensity and risks involved in the escalating Middle East conflict, with implications for regional stability and potential for further escalation.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/world/2026/0405/1566781-middle-east-conflict/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/us-service-member-rescued-iran-7004017-Apr2026/"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "defence",
+          "conflict"
         ]
       }
     ]
@@ -129,46 +144,16 @@
     },
     "stories": [
       {
-        "headline": "Ukraine faces escalating drone attacks as Russia launches 286 missiles overnight",
-        "summary": "Russian forces conducted an intensive overnight aerial assault on Ukraine, launching 286 long-range drones with Ukrainian air defense successfully intercepting 260 of them. A Russian strike on a market in Ukraine killed several people and wounded dozens more, highlighting ongoing civilian casualties from the sustained bombardment campaign. The massive scale of attacks demonstrates Russia's continued commitment to aerial warfare despite significant interception rates by Ukrainian defenses. Ukrainian President Zelenskyy warns that prolonged US-Iran hostilities threaten to divert critical Patriot missile supplies and compound Europe's energy challenges through elevated oil prices. The relentless drone campaign underscores Ukraine's vulnerabilities and the toll of the prolonged conflict on civilian infrastructure and populations.",
-        "sources": [
-          {
-            "name": "France24",
-            "url": "https://www.france24.com/en/several-people-killed-in-ukraine-after-a-russian-drone-strike-on-a-market"
-          },
-          {
-            "name": "Euronews",
-            "url": "http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine"
-          }
-        ],
-        "tags": [
-          "conflict",
-          "defence",
-          "EU"
-        ]
-      },
-      {
-        "headline": "Pope Leo XIV condemns 'violence of war' in inaugural Easter Mass amid global tensions",
-        "summary": "Pope Leo XIV delivered his first Easter Mass as pontiff, delivering a stark condemnation of 'the violence of war that kills and destroys' amid the escalating US-Israeli conflict with Iran and Russia's ongoing military campaign in Ukraine. The papal message emphasized peace and reflected Vatican concerns about the humanitarian toll of multiple simultaneous conflicts affecting Europe and the broader world. The Pope's words resonated across Europe's predominantly Catholic nations and highlighted religious institutions' moral opposition to warfare and exploitation. The Easter message provided a moment of reflection for European Catholics during a period of heightened geopolitical tension and security concerns. The pontiff's emphasis on ending violence reflects broader European anxieties about stability and the need for diplomatic resolution.",
-        "sources": [
-          {
-            "name": "France24",
-            "url": "https://www.france24.com/en/europe/20260405-pope-leo-condemns-violence-of-war-in-first-easter-mass-amid-iran-conflict"
-          }
-        ],
-        "tags": [
-          "governance",
-          "conflict",
-          "EU"
-        ]
-      },
-      {
-        "headline": "Explosives discovered near critical Russian gas pipeline in Serbia",
-        "summary": "Serbian President announced the discovery of explosives near pipeline infrastructure carrying Russian gas to Serbia and Hungary, raising significant security concerns about Europe's energy infrastructure. The incident highlights vulnerabilities in critical supply lines that connect Europe to Russian energy sources amid heightened geopolitical tensions. The discovery of explosives near this strategic asset raises questions about potential sabotage risks and pipeline security across southeastern Europe. This development underscores Europe's ongoing dependence on Russian energy supplies despite efforts to diversify and reduce reliance on Russian sources. The situation may prompt renewed European discussions about energy security, infrastructure protection, and accelerated diversification strategies.",
+        "headline": "Serbia reports explosives found near critical gas pipeline to Hungary",
+        "summary": "Serbian President Aleksandar Vucic announced the discovery of explosives containing detonators near the Balkan Stream gas pipeline in Kanjiza, northern Serbia, just metres from infrastructure that supplies gas to Serbia and Hungary. The pipeline extends Russian natural gas supplies through the region. Military and police launched a major operation near the Serbia-Hungary border following intelligence about a possible threat to the critical infrastructure. Vucic stated he had informed Hungarian Prime Minister Viktor Orban of initial investigation results, but declined to disclose details about possible motives or suspects. The discovery highlights growing security concerns around European energy infrastructure amid geopolitical tensions.",
         "sources": [
           {
             "name": "Euronews",
             "url": "http://www.euronews.com/my-europe/2026/04/05/serbian-president-explosives-found-near-gas-pipeline-to-hungary"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-05/serbia-s-vucic-says-explosive-found-at-gas-pipe-near-hungary"
           }
         ],
         "tags": [
@@ -178,47 +163,96 @@
         ]
       },
       {
-        "headline": "Cocoa shortage drives Easter chocolate prices higher across European markets",
-        "summary": "European chocolate prices have risen significantly faster than general inflation rates ahead of Easter, driven by a global cocoa shortage and supply chain vulnerabilities. The price increases are affecting consumers across the continent as manufacturers pass on higher raw material costs for traditional Easter chocolates and confectionery products. Supply chain disruptions in cocoa-producing regions have constrained availability of key ingredients, straining Europe's confectionery sector. The surge in prices exemplifies how global commodity disruptions directly impact European household budgets and consumer spending patterns during seasonal shopping periods. The situation highlights Europe's dependence on international agricultural supply chains and vulnerabilities to commodity price volatility.",
+        "headline": "Hungary's election marked by AI-generated disinformation targeting Orban's rival",
+        "summary": "An extensive disinformation campaign using hundreds of AI-generated videos has targeted Hungary's April 12 parliamentary election, with content aimed at boosting Prime Minister Viktor Orban and discrediting opposition leader Peter Magyar. The fake videos range from frivolous content to fabricated news reports, including a fabricated execution video of a Hungarian soldier and fake images of memorials defaced with anti-Orb\u00e1n slogans. Researchers have linked some of the disinformation activity to Storm-1516, a Russian disinformation operation impersonating major media outlets. Despite opinion polls showing Magyar's Tisza party leading with approximately 48% support versus Fidesz's 39%, the AI-driven influence campaign underscores emerging threats to European democratic processes and EU concerns about election integrity.",
         "sources": [
           {
-            "name": "Euronews",
-            "url": "http://www.euronews.com/business/2026/04/05/cocoa-shortage-why-your-easter-chocolate-costs-more-than-before"
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o"
+          },
+          {
+            "name": "NewsGuard",
+            "url": "https://www.newsguardtech.com/special-reports/influence-campaign-uses-ai-tiktok-videos-to-boost-hungarys-viktor-orban/"
           }
         ],
         "tags": [
-          "economy",
-          "trade",
-          "climate"
+          "elections",
+          "EU",
+          "governance"
         ]
       },
       {
-        "headline": "Portugal works longest hours in EU, with employees averaging close to 50-hour work weeks",
-        "summary": "A Randstad study reveals that Portugal ranks fourth among EU nations for employees routinely working extended weekly hours approaching 50 hours per week, highlighting significant labor market disparities within the European Union. The finding raises questions about work-life balance, employee wellbeing, and labor protections across member states with varying regulatory frameworks. Portugal's position among the highest work-hour countries reflects broader patterns of labor intensity in southern European economies facing economic pressures. The data suggests potential policy interventions may be needed to address extended work hours and associated health impacts on workers. This trend contrasts sharply with northern European countries that enforce more stringent working time regulations and protections.",
+        "headline": "Pope Leo calls for peace in first Easter Mass amid Ukraine and Iran wars",
+        "summary": "Pope Leo XIV delivered his inaugural Easter Mass as pontiff on April 5, calling for an end to global conflicts and urging world leaders to lay down weapons and seek peace through dialogue. Speaking in the context of ongoing wars in Ukraine and the U.S.-Israeli military campaign in Iran, the pontiff implored: 'Let those who have weapons lay them down! Let those who have the power to unleash wars choose peace!' The pope notably departed from tradition by not listing individual conflicts by name in his Urbi et Orbi blessing, instead speaking broadly about 'the violence of war that kills and destroys' and the need to protect vulnerable populations. Pope Leo spoke directly with Ukrainian President Volodymyr Zelensky on Good Friday to express solidarity with the Ukrainian people, and announced a peace vigil scheduled for April 11.",
         "sources": [
           {
-            "name": "Euronews",
-            "url": "http://www.euronews.com/business/2026/04/05/portugal-among-eu-countries-with-the-most-people-working-close-to-50-hours-a-week"
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260405-pope-leo-condemns-violence-of-war-in-first-easter-mass-amid-iran-conflict"
+          },
+          {
+            "name": "CNN",
+            "url": "https://us.cnn.com/2026/04/05/world/pope-leo-easter-message-vatican-intl"
           }
         ],
         "tags": [
-          "economy",
-          "regulation",
+          "diplomacy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Germany introduces military approval requirement for young men's long-term travel abroad",
+        "summary": "Germany has implemented new military service modernisation rules requiring men aged 17 to 45 to obtain approval from Bundeswehr careers centres before travelling abroad for stays longer than three months. The regulation, which came into force on January 1, 2026, represents a departure from previous policy that only applied during periods of heightened military threat or formal defence declarations. Under the updated rules, the requirement applies during peacetime and under normal conditions, marking a significant shift in how Germany manages the mobility of its young male population. While German officials have stated that approvals should generally be granted since military service remains voluntary, the administrative regulations enabling the system have not yet been fully implemented, creating uncertainty around enforcement. The policy reflects Europe's evolving security posture and defence mobilisation amid regional tensions.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/04/04/conscription-law-men-now-need-approval-for-trips-abroad"
+          }
+        ],
+        "tags": [
+          "defence",
+          "governance",
           "EU"
         ]
       },
       {
-        "headline": "Extended pollen seasons reshape allergy management across Europe",
-        "summary": "Extended and earlier pollen seasons across Europe are becoming longer and more intense, requiring allergy sufferers to adopt year-round protective daily practices and management strategies. Climate change and shifting seasonal patterns have disrupted traditional pollen calendars, affecting millions of Europeans with seasonal allergies and respiratory conditions. Health officials recommend consistent mitigation measures including air filtration systems, protective equipment, and year-round medication management. The trend has significant public health implications for respiratory health, quality of life, and healthcare costs across the continent. This phenomenon reflects broader climate-driven environmental changes affecting European ecosystems and illustrates the health impacts of climate disruption on vulnerable populations.",
+        "headline": "EU braces for prolonged energy crisis as fuel reserves face April depletion",
+        "summary": "European Union officials warn that fuel reserves in Europe will be depleted by April 20 as the bloc confronts a severe energy shortage driven by disruptions in the Strait of Hormuz amid the U.S.-Israeli military campaign in Iran. The global oil shortfall stands at approximately 11 million barrels per day, with LNG supplies reduced by over 300 million cubic metres daily. European Commissioner for Energy Dan J\u00f8rgensen stated that 'the energy crisis will not be short-lived' and 'we will not return to normality in the foreseeable future,' urging EU member states to outline concrete measures for reducing oil and gas consumption, particularly in transport. The crisis is forcing the EU to activate emergency response protocols and accelerate contingency planning, with implications for European economies, supply chains, and the continent's clean energy transition agenda.",
         "sources": [
           {
             "name": "Euronews",
-            "url": "http://www.euronews.com/health/2026/04/05/pollen-is-here-to-stay-as-seasons-get-longer-heres-how-to-protect-yourself"
+            "url": "https://www.euronews.com/my-europe/2026/03/31/eu-calls-on-member-states-to-curb-oil-demand-and-prepare-for-prolonged-disruption"
+          },
+          {
+            "name": "IEA",
+            "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"
           }
         ],
         "tags": [
-          "climate",
-          "health",
+          "economy",
+          "energy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU activates migration controls in response to Middle East conflict spillover",
+        "summary": "The European Union is mobilising its diplomatic, legal, operational, and financial instruments to prevent uncontrolled migration flows following escalation of the conflict in the Middle East. EU leadership is preparing to activate measures under the new Pact on Migration and Asylum, which enters full force in June 2026, including the first EU list of safe countries of origin and expanded definitions of safe third countries. These mechanisms will allow member states to severely restrict asylum rights and manage irregular immigration more stringently. The EU's proactive stance reflects concerns that the U.S.-Israeli military campaign in Iran could trigger widespread displacement in the region with knock-on effects for European borders. The approach signals a hardening of EU migration policy even as diplomatic efforts continue to de-escalate regional tensions.",
+        "sources": [
+          {
+            "name": "EU News",
+            "url": "https://www.eunews.it/en/2026/04/01/the-eu-is-prepared-to-take-drastic-measures-to-prevent-a-new-migration-crisis-from-the-middle-east/"
+          },
+          {
+            "name": "EU Council",
+            "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/08/migration-and-asylum-member-states-agree-on-solidarity-pool/"
+          }
+        ],
+        "tags": [
+          "migration",
+          "governance",
           "EU"
         ]
       }
@@ -226,7 +260,7 @@
   },
   "world": {
     "layer": "world",
-    "fetched_at": "2026-04-05T10:45:00Z",
+    "fetched_at": "2026-04-05T12:00:00Z",
     "source_status": {
       "reuters": "ok",
       "apnews": "ok",
@@ -236,16 +270,24 @@
     },
     "stories": [
       {
-        "headline": "US Airman Rescued After F-15E Shot Down Over Iran in Major Military Escalation",
-        "summary": "The US military successfully rescued an Air Force pilot whose F-15E fighter jet was shot down by Iran, marking a significant moment in the escalating 37-day conflict between the US-Israel alliance and Iran. The pilot evaded capture for approximately 48 hours before being extracted by US forces. Trump confirmed the rescue, describing it as miraculous, though Iran claims to have also shot down additional US aircraft involved in the operation. The incident underscores heightened military tensions in the region, with risks of further escalation. This rescue operation represents one of the most direct military engagements in the ongoing hostilities.",
+        "headline": "US rescues airman from downed F-15E fighter jet in Iran as regional conflict escalates",
+        "summary": "The United States successfully rescued an airman whose F-15E fighter jet was shot down over southern Iran, marking a dramatic recovery operation during the ongoing conflict. President Trump confirmed the rescue, which occurred after an initial missing period of over 24 hours. This incident represents the first US combat aircraft shot down by enemy fire in over two decades, escalating concerns about the expanding military confrontation. The rescue operation itself drew additional fire from Iranian forces, with Tehran claiming to have downed two American planes conducting the recovery mission. The incident highlights the dangerous military escalation as the conflict entered its 37th day, with broader implications for regional stability and US military operations.",
         "sources": [
           {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDQxbDJQYjV3d0pqUjZBRUdHTmRFOW5DNnZNR29kcTVnMFBiQ2VNUEk1VnE3ZW9hbENTb3B2dENnSTg2blZZR3RtQlBDSEIySmRwTDZ1TWZERFY3N3I3ZDJNd2NBa2pOTElQQS1tenpENGYzaUJOelRjZUNBWmYyWmpSRWUzc3FwUEtyY3Q4bV9DeDlSY2I0dGRHM2J2dUhvamtGS09rMERYMHc"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDQxbDJQYjV3d0pqUjZBRUdHTmRFOW5DNnZNR29kcTVnMFBiQ2VNUEk1VnE3ZW9hbENTb3B2dENnSTg2blZZR3RtQlBDSEIySmRwTDZ1TWZERFY3N3I3ZDJNd2NBa2pOTElQQS1tenpENGYzaUJOelRjZUNBWmYyWmpSRWUzc3FwUEtyY3Q4bV9DeDlSY2I0dGRHM2J2dUhvamtGS09rMERYMHc"
+          },
+          {
             "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know"
+            "url": "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms"
           },
           {
             "name": "BBC World",
-            "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/news/articles/cm2k1dgz142o"
           },
           {
             "name": "NPR News",
@@ -259,28 +301,13 @@
         ]
       },
       {
-        "headline": "Iran Escalates Regional Attacks as Day 37 of Conflict Intensifies Across Gulf",
-        "summary": "Iran intensified attacks on multiple Gulf state targets on April 5, continuing its campaign in the 37-day conflict with the US-Israel coalition. Kuwait reported damage to power and water facilities, while Bahrain and the UAE also experienced attacks causing fires. Yemen's Houthi forces claimed responsibility for a cluster missile strike on Israel's Ben Gurion Airport. Iran has claimed to have shot down multiple US aircraft, including C-130 transport planes and helicopters. The escalating attacks underscore Iran's strategy of targeting infrastructure and demonstrating military capability across the region. This sustained offensive reflects broader tensions stemming from the conflict's origins.",
+        "headline": "Iran attacks Gulf states' critical infrastructure as regional conflict expands beyond US-Iran tensions",
+        "summary": "Iran launched strikes against multiple Gulf Arab nations, damaging power and water facilities in Kuwait, Bahrain, and the United Arab Emirates as part of broader escalation in the regional conflict. Kuwait's power and water plants sustained direct hits, while oil facilities in the region reported fires and fuel leaks from drone attacks on infrastructure. Ukraine simultaneously targeted Russian oil infrastructure, destroying facilities in Primorsk and causing fires at the Nizhny Novgorod refinery. These coordinated attacks on energy infrastructure represent an expansion of the conflict beyond direct US-Iran military engagement into economic targeting that threatens global energy supplies. The damages signal an escalating pattern of targeting civilian energy systems with potential humanitarian and economic consequences.",
         "sources": [
           {
             "name": "Al Jazeera",
             "url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue"
           },
-          {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/yemens-houthis-claim-cluster-missile-attack-on-israels-ben-gurion-airport"
-          }
-        ],
-        "tags": [
-          "conflict",
-          "energy",
-          "geopolitics"
-        ]
-      },
-      {
-        "headline": "Ukraine Strikes Russian Oil Infrastructure Including Primorsk Port and Nizhny Novgorod Refinery",
-        "summary": "Ukrainian forces conducted drone attacks on Russian oil infrastructure, targeting the Primorsk oil transfer facility and the NORSI oil refinery in Nizhny Novgorod. The strikes resulted in fuel leaks at Primorsk and fires at the refinery, highlighting Ukraine's strategy of degrading Russia's energy export capacity. These attacks continue a pattern of strikes on Russian energy infrastructure aimed at weakening the country's economic position in the broader conflict. The operations demonstrate Ukraine's ability to conduct long-range strikes deep into Russian territory. Energy infrastructure remains a key strategic target in the ongoing conflict.",
-        "sources": [
           {
             "name": "Al Jazeera",
             "url": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported"
@@ -289,65 +316,69 @@
         "tags": [
           "conflict",
           "economy",
-          "energy"
+          "humanitarian"
         ]
       },
       {
-        "headline": "Gaza Conflict Continues with Fresh Israeli Operations and Civilian Casualties Reported",
-        "summary": "Israeli military operations in Gaza continued on April 5, with medics reporting four Palestinians killed in Israeli fire. Reports also documented concerning incidents including CCTV footage showing an Israeli military dog attacking a Palestinian worshipper inside a mosque. International organizations continue to scrutinize the humanitarian dimensions of the conflict, with advocacy groups highlighting restrictions on Palestinian Christians during Holy Week. The incidents reflect ongoing civilian impacts and tensions within affected communities. Humanitarian concerns remain central to global discussions about the conflict's trajectory.",
+        "headline": "Global fuel shortages and price surges as Strait of Hormuz tensions disrupt critical oil shipping lanes",
+        "summary": "The US-Iran conflict has triggered widespread fuel shortages and price spikes across the globe as tensions around the Strait of Hormuz threaten one of the world's most critical shipping routes for petroleum. Hundreds of petrol stations in Australia have depleted fuel supplies, while drivers in the United States face soaring prices, with some waiting in lines for free gas programs. Trump issued a 48-hour ultimatum demanding Iran open the Strait of Hormuz, raising stakes over this essential waterway through which approximately one-third of global maritime oil trade passes. Egypt's private sector PMI hit near two-year lows due to regional instability affecting economic activity. OPEC+ announced theoretical oil output increases to address market concerns, though Iran's involvement in negotiations remains complicated by the conflict.",
         "sources": [
           {
             "name": "Reuters (via Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEVmSmFCVXB6TlgyMnN1SGhSQlFENFVYem9ocXdZLXA2b1d6VUpIYlAweXdDQk1YQS05REJ6Mi12RDB3VGt4bFQ3Z05zR05TVHF3em1sLUVVb0dYZlpmNG1obGxFS0F2WDZCb25ZZVBxSmFrNkNNeHRucmotY3gtTnJtYnNxdFNDdkwxY1NmTzJ1ekRGWTVkcGllcVFhTGY4TC1GM2ZJNXpaQQ"
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxMZ0w1SHNLQ1k1UGtoeDZfXzZ6N3pwVzNzc2tkZ2xCdmpjazMwQktBeEpzMXZLYTB0NzJZakNtdUdKV2FENkc0eW9nZHZseWQzTVNObWpidElWby1UTGhCaTlSZ2tSWU4weXlHNEppMlBXNUR0YXotR3dMbUgxdzlHSXdoM3REd2NQRG1COFlTeVlwRXZzR3RCckh6Q2pyTWRKTmExVkJjWXRpZlZBNUUzcExkdDYxdGxuRXB6QlZQTjF3MWlVdFpF"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c62l084kgk6o"
           },
           {
             "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque"
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us"
           }
         ],
         "tags": [
-          "conflict",
-          "humanitarian",
-          "diplomacy"
+          "economy",
+          "trade",
+          "humanitarian"
         ]
       },
       {
-        "headline": "War-Related Economic Strain Evident as Egypt and Saudi Arabia Report Sharp Contraction in Private Sector Activity",
-        "summary": "Egypt's private sector manufacturing and services contracted significantly in March, with the Purchasing Managers' Index hitting a near two-year low, reflecting economic pressure from regional conflict. Similarly, Saudi Arabia's non-oil business activity shrank during the same period, signaling broader economic consequences of the geopolitical tensions. Both indicators point to how warfare and regional instability are affecting business confidence and economic activity beyond direct combat zones. The contractions suggest potential long-term impacts on Middle Eastern economies if the conflict persists. These economic signals reflect business uncertainty in a region experiencing heightened military tensions.",
+        "headline": "Jeremy Hansen becomes first Canadian astronaut selected for lunar mission aboard Artemis II",
+        "summary": "Canada's Jeremy Hansen has been selected as the first Canadian astronaut to travel to the Moon, making history as part of NASA's Artemis II mission. Hansen will join three other astronauts on the spacecraft as it orbits the Moon in what represents a major milestone for both Canadian space exploration and international cooperation in lunar missions. The Artemis II mission represents humanity's return to lunar exploration after decades and sets the stage for a planned landing by 2028. The crew has been documenting their journey and experiences during the mission preparations and launch phase. This selection underscores the growing international dimension of space exploration and NASA's collaborative approach to returning humans to the Moon.",
         "sources": [
           {
-            "name": "Reuters (via Google News)",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEtJd3BoTDREempab09BUXFTMUtsVjhTQ3A0TXZXTTZldlp6cmNNeS1QWEl1QWNjdXlzcEpMUVJyOHJoYmRiMmN3c0k1M2dheDNnR1BLQk1uanlWMXN5dVdDcPA3cVRNX1dxQ2gtOU96QXM5OE9UaWJ5cGlYRUsxckRpU0xwVGh5c2ZBa3RmLU03SzFyREhyZjQyWnVzamdNTkFOeS1IUzFUZkdGaER4VlB6bVY"
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon"
           },
           {
-            "name": "Reuters (via Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWFSdnI4bjBVSHF2N1ZoMW5PMmpkY3JZaElybS1TQ1EwZkgySk40Mzl6Z2Z3cEpyVDBzNFMxYXdLVHVuOFlWMlQ3c0otMzgxRGRycXoyWkNVd19NbTRtYm51Tm1UMzdnWDF2S2sxdjlHUXo4YzJaTHphVTRqVG83VG41NU5VTGh4UVhHWW1tZW52dEdHUDRjM1dVSnppdE9MaU5fbVFTT1pGZHl3d3lJYTZQVXplTWJzWlB3YkdDbXZjNDlYanBLNHV2UQ"
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ce8jzr423p9o"
           }
         ],
         "tags": [
-          "economy",
-          "conflict",
-          "trade"
+          "technology",
+          "diplomacy",
+          "space"
         ]
       },
       {
-        "headline": "Foxconn Posts Strong Q1 Revenue Growth While Expressing Caution on Geopolitical Risks",
-        "summary": "Foxconn, the major electronics contract manufacturer, reported significantly higher first-quarter revenue compared to the prior year, reflecting strong demand for manufacturing services. However, company leadership cautioned investors about global geopolitical uncertainties that could impact future operations and supply chains. The mixed outlook reflects broader tension in the technology sector between current momentum and concerns about trade disruptions and international tensions. Geopolitical factors including US-China tensions and the broader regional conflicts are weighing on business leadership confidence. The company's performance indicates resilience despite macro headwinds, though future guidance remains tempered by strategic concerns.",
+        "headline": "China executes French citizen on drug trafficking charges, highlighting tensions over capital punishment practices",
+        "summary": "China carried out a capital punishment sentence against a French national convicted of drug trafficking, highlighting ongoing tensions between Western nations and Beijing over its use of capital punishment. The execution underscores the dangers faced by foreign nationals in China's legal system and reflects broader concerns about due process and sentencing disparities for international defendants. France and other Western nations have repeatedly criticized China's capital punishment practices, viewing them as excessive for drug-related offenses. The incident reflects ongoing diplomatic friction between China and Western countries over human rights and judicial practices. Such executions of foreign nationals typically trigger diplomatic protests and reinforce Western concerns about China's judicial independence and international standards compliance.",
         "sources": [
           {
             "name": "Reuters (via Google News)",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhnMl8wdHBBb0JkT2pFTk41dVl6TG5Kc1BMbTRleWtYaGJnOUZ4TFI4WkFQQlhCY0dZUXU0M3BzMDZSbXgxN1I4ZjViQzhUMkY2RUtoWllqVG0zcW8yQXF2ODRLOVQwQzVJakR2MCctSVd3Z0RPenQ0NUwwZllRa0p6blREbGlob09EU0kxaEF6dEYxLUdnTklxOWs"
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaW52LUg5MV9hOW96cmZ3TnVSRk9zenJFZjhiN0VvUTNmNDR2NnExYUpBNHo1Y0o4MVRleDRNS2FxeTA2VklhSV80VkxtTE9TazlPeldTaUJpT1E5TGgtVUNJeWthMnR2TnI2R2hjdV80QkJuaGVRTFRWUHFnY3hVeUtsbUJtS25xci1hSVo5elptV0FkNG1tb3JZeHY5Y0JLNFoyRXEzMA"
           }
         ],
         "tags": [
-          "economy",
-          "technology",
-          "trade"
+          "diplomacy",
+          "trade",
+          "conflict"
         ]
       },
       {
-        "headline": "Lebanon Medics Targeted Amid Israel's Military Campaign, Human Rights Groups Report Deliberate Attacks",
-        "summary": "Lebanon reports that at least 54 health workers have been killed during Israel's military operations, with more than 1,400 total casualties reported. Human rights organizations claim that first responders and medical personnel are being deliberately targeted, a charge disputed by Israel. The targeting of medical professionals violates international humanitarian law and raises serious concerns about civilian protection in the conflict. Healthcare workers are essential to maintaining medical services for affected populations. These allegations highlight the humanitarian dimensions of the broader regional conflict and have prompted international scrutiny and concern from medical organizations.",
+        "headline": "Lebanon reports over 50 health workers killed during military operations, raising questions about targeting",
+        "summary": "Lebanon reports at least 54 medical workers among over 1,400 casualties during the current military operations, with human rights organizations asserting that first responders are being deliberately targeted. Medical professionals face unprecedented danger as they attempt to provide emergency care in conflict zones, with some health facilities sustaining damage during operations. Israel disputes allegations of targeting medical personnel, maintaining that attacks follow military necessity principles. The scale of medical worker casualties raises international humanitarian law concerns and complicates medical response capabilities during ongoing conflicts. The death toll among healthcare workers underscores the conflict's expansion beyond military combatants to affect civilian infrastructure and personnel vital to public health.",
         "sources": [
           {
             "name": "NPR News",
@@ -358,6 +389,36 @@
           "conflict",
           "humanitarian",
           "health"
+        ]
+      },
+      {
+        "headline": "Houthi forces claim missile attack on Israel's Ben Gurion Airport amid broader regional escalation",
+        "summary": "Yemen's Houthi movement claimed responsibility for a cluster missile attack targeting Israel's Ben Gurion Airport, representing an expansion of regional actors into the broader conflict. The claim signals the Houthis' operational capability and willingness to strike strategic Israeli targets, complicating the security situation beyond direct US-Iran tensions. The attack highlights how the conflict has drawn in multiple regional actors and militias with varying capabilities and strategic objectives. Such attacks on civilian aviation infrastructure raise concerns about international travel safety and broader regional destabilization. The incident demonstrates the interconnected nature of Middle Eastern conflicts and the difficulty of containing escalation when multiple armed groups become engaged.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/yemens-houthis-claim-cluster-missile-attack-on-israels-ben-gurion-airport"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "geopolitics",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Explosives discovered near critical Serbian gas pipeline supplying Hungary, raising infrastructure security concerns",
+        "summary": "Explosives were found in Serbia near a major gas pipeline that supplies energy to Hungary, raising serious concerns about the security of critical energy infrastructure in Eastern Europe. The discovery suggests potential sabotage threats to essential supply lines during a period of heightened geopolitical tensions. Hungary and other Central European nations depend heavily on these gas pipelines for heating and electricity generation, making infrastructure protection a strategic priority. The incident highlights vulnerabilities in Europe's energy security architecture and the potential for deliberate disruption of supply chains during conflict periods. Such discoveries underscore the broader threat to European infrastructure stability amid regional tensions and the need for enhanced security measures around critical assets.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekY3d1dJemNZN0VoZTJmM1hGVUMySFNqUzBTbFdhOTVUMkpGVnBlWXJJcXBnMTJBUVJkVlRHVXZaMHN1eXppdGY3MFJSc0hiNVRyazBKLWFEdkNyTkhIVFQ3dHk1NXJrVGpJcHRaemtDcU04WWpydE9QRURSdnpFY2EyR283RXMwVkN3anZ1X0tYMzZpSXRreWViaExMR0o4OE9tclVuWmJfSHJ1SVBBd2d3"
+          }
+        ],
+        "tags": [
+          "economy",
+          "security",
+          "infrastructure"
         ]
       }
     ]

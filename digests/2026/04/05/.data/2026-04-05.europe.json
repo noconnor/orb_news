@@ -10,53 +10,58 @@
   },
   "stories": [
     {
-      "headline": "Ukraine faces escalating drone attacks as Russia launches 286 missiles overnight",
-      "summary": "Russian forces conducted an intensive overnight aerial assault on Ukraine, launching 286 long-range drones with Ukrainian air defense successfully intercepting 260 of them. A Russian strike on a market in Ukraine killed several people and wounded dozens more, highlighting ongoing civilian casualties from the sustained bombardment campaign. The massive scale of attacks demonstrates Russia's continued commitment to aerial warfare despite significant interception rates by Ukrainian defenses. Ukrainian President Zelenskyy warns that prolonged US-Iran hostilities threaten to divert critical Patriot missile supplies and compound Europe's energy challenges through elevated oil prices. The relentless drone campaign underscores Ukraine's vulnerabilities and the toll of the prolonged conflict on civilian infrastructure and populations.",
+      "headline": "Serbia reports explosives found near critical gas pipeline to Hungary",
+      "summary": "Serbian President Aleksandar Vucic announced the discovery of explosives containing detonators near the Balkan Stream gas pipeline in Kanjiza, northern Serbia, just metres from infrastructure that supplies gas to Serbia and Hungary. The pipeline extends Russian natural gas supplies through the region. Military and police launched a major operation near the Serbia-Hungary border following intelligence about a possible threat to the critical infrastructure. Vucic stated he had informed Hungarian Prime Minister Viktor Orban of initial investigation results, but declined to disclose details about possible motives or suspects. The discovery highlights growing security concerns around European energy infrastructure amid geopolitical tensions.",
       "sources": [
-        {"name": "France24", "url": "https://www.france24.com/en/several-people-killed-in-ukraine-after-a-russian-drone-strike-on-a-market"},
-        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine"}
-      ],
-      "tags": ["conflict", "defence", "EU"]
-    },
-    {
-      "headline": "Pope Leo XIV condemns 'violence of war' in inaugural Easter Mass amid global tensions",
-      "summary": "Pope Leo XIV delivered his first Easter Mass as pontiff, delivering a stark condemnation of 'the violence of war that kills and destroys' amid the escalating US-Israeli conflict with Iran and Russia's ongoing military campaign in Ukraine. The papal message emphasized peace and reflected Vatican concerns about the humanitarian toll of multiple simultaneous conflicts affecting Europe and the broader world. The Pope's words resonated across Europe's predominantly Catholic nations and highlighted religious institutions' moral opposition to warfare and exploitation. The Easter message provided a moment of reflection for European Catholics during a period of heightened geopolitical tension and security concerns. The pontiff's emphasis on ending violence reflects broader European anxieties about stability and the need for diplomatic resolution.",
-      "sources": [
-        {"name": "France24", "url": "https://www.france24.com/en/europe/20260405-pope-leo-condemns-violence-of-war-in-first-easter-mass-amid-iran-conflict"}
-      ],
-      "tags": ["governance", "conflict", "EU"]
-    },
-    {
-      "headline": "Explosives discovered near critical Russian gas pipeline in Serbia",
-      "summary": "Serbian President announced the discovery of explosives near pipeline infrastructure carrying Russian gas to Serbia and Hungary, raising significant security concerns about Europe's energy infrastructure. The incident highlights vulnerabilities in critical supply lines that connect Europe to Russian energy sources amid heightened geopolitical tensions. The discovery of explosives near this strategic asset raises questions about potential sabotage risks and pipeline security across southeastern Europe. This development underscores Europe's ongoing dependence on Russian energy supplies despite efforts to diversify and reduce reliance on Russian sources. The situation may prompt renewed European discussions about energy security, infrastructure protection, and accelerated diversification strategies.",
-      "sources": [
-        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/05/serbian-president-explosives-found-near-gas-pipeline-to-hungary"}
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/05/serbian-president-explosives-found-near-gas-pipeline-to-hungary"},
+        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-05/serbia-s-vucic-says-explosive-found-at-gas-pipe-near-hungary"}
       ],
       "tags": ["defence", "energy", "EU"]
     },
     {
-      "headline": "Cocoa shortage drives Easter chocolate prices higher across European markets",
-      "summary": "European chocolate prices have risen significantly faster than general inflation rates ahead of Easter, driven by a global cocoa shortage and supply chain vulnerabilities. The price increases are affecting consumers across the continent as manufacturers pass on higher raw material costs for traditional Easter chocolates and confectionery products. Supply chain disruptions in cocoa-producing regions have constrained availability of key ingredients, straining Europe's confectionery sector. The surge in prices exemplifies how global commodity disruptions directly impact European household budgets and consumer spending patterns during seasonal shopping periods. The situation highlights Europe's dependence on international agricultural supply chains and vulnerabilities to commodity price volatility.",
+      "headline": "Hungary's election marked by AI-generated disinformation targeting Orban's rival",
+      "summary": "An extensive disinformation campaign using hundreds of AI-generated videos has targeted Hungary's April 12 parliamentary election, with content aimed at boosting Prime Minister Viktor Orban and discrediting opposition leader Peter Magyar. The fake videos range from frivolous content to fabricated news reports, including a fabricated execution video of a Hungarian soldier and fake images of memorials defaced with anti-Orbán slogans. Researchers have linked some of the disinformation activity to Storm-1516, a Russian disinformation operation impersonating major media outlets. Despite opinion polls showing Magyar's Tisza party leading with approximately 48% support versus Fidesz's 39%, the AI-driven influence campaign underscores emerging threats to European democratic processes and EU concerns about election integrity.",
       "sources": [
-        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/05/cocoa-shortage-why-your-easter-chocolate-costs-more-than-before"}
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o"},
+        {"name": "NewsGuard", "url": "https://www.newsguardtech.com/special-reports/influence-campaign-uses-ai-tiktok-videos-to-boost-hungarys-viktor-orban/"}
       ],
-      "tags": ["economy", "trade", "climate"]
+      "tags": ["elections", "EU", "governance"]
     },
     {
-      "headline": "Portugal works longest hours in EU, with employees averaging close to 50-hour work weeks",
-      "summary": "A Randstad study reveals that Portugal ranks fourth among EU nations for employees routinely working extended weekly hours approaching 50 hours per week, highlighting significant labor market disparities within the European Union. The finding raises questions about work-life balance, employee wellbeing, and labor protections across member states with varying regulatory frameworks. Portugal's position among the highest work-hour countries reflects broader patterns of labor intensity in southern European economies facing economic pressures. The data suggests potential policy interventions may be needed to address extended work hours and associated health impacts on workers. This trend contrasts sharply with northern European countries that enforce more stringent working time regulations and protections.",
+      "headline": "Pope Leo calls for peace in first Easter Mass amid Ukraine and Iran wars",
+      "summary": "Pope Leo XIV delivered his inaugural Easter Mass as pontiff on April 5, calling for an end to global conflicts and urging world leaders to lay down weapons and seek peace through dialogue. Speaking in the context of ongoing wars in Ukraine and the U.S.-Israeli military campaign in Iran, the pontiff implored: 'Let those who have weapons lay them down! Let those who have the power to unleash wars choose peace!' The pope notably departed from tradition by not listing individual conflicts by name in his Urbi et Orbi blessing, instead speaking broadly about 'the violence of war that kills and destroys' and the need to protect vulnerable populations. Pope Leo spoke directly with Ukrainian President Volodymyr Zelensky on Good Friday to express solidarity with the Ukrainian people, and announced a peace vigil scheduled for April 11.",
       "sources": [
-        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/05/portugal-among-eu-countries-with-the-most-people-working-close-to-50-hours-a-week"}
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260405-pope-leo-condemns-violence-of-war-in-first-easter-mass-amid-iran-conflict"},
+        {"name": "CNN", "url": "https://us.cnn.com/2026/04/05/world/pope-leo-easter-message-vatican-intl"}
       ],
-      "tags": ["economy", "regulation", "EU"]
+      "tags": ["diplomacy", "conflict"]
     },
     {
-      "headline": "Extended pollen seasons reshape allergy management across Europe",
-      "summary": "Extended and earlier pollen seasons across Europe are becoming longer and more intense, requiring allergy sufferers to adopt year-round protective daily practices and management strategies. Climate change and shifting seasonal patterns have disrupted traditional pollen calendars, affecting millions of Europeans with seasonal allergies and respiratory conditions. Health officials recommend consistent mitigation measures including air filtration systems, protective equipment, and year-round medication management. The trend has significant public health implications for respiratory health, quality of life, and healthcare costs across the continent. This phenomenon reflects broader climate-driven environmental changes affecting European ecosystems and illustrates the health impacts of climate disruption on vulnerable populations.",
+      "headline": "Germany introduces military approval requirement for young men's long-term travel abroad",
+      "summary": "Germany has implemented new military service modernisation rules requiring men aged 17 to 45 to obtain approval from Bundeswehr careers centres before travelling abroad for stays longer than three months. The regulation, which came into force on January 1, 2026, represents a departure from previous policy that only applied during periods of heightened military threat or formal defence declarations. Under the updated rules, the requirement applies during peacetime and under normal conditions, marking a significant shift in how Germany manages the mobility of its young male population. While German officials have stated that approvals should generally be granted since military service remains voluntary, the administrative regulations enabling the system have not yet been fully implemented, creating uncertainty around enforcement. The policy reflects Europe's evolving security posture and defence mobilisation amid regional tensions.",
       "sources": [
-        {"name": "Euronews", "url": "http://www.euronews.com/health/2026/04/05/pollen-is-here-to-stay-as-seasons-get-longer-heres-how-to-protect-yourself"}
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo"},
+        {"name": "Euronews", "url": "https://www.euronews.com/2026/04/04/conscription-law-men-now-need-approval-for-trips-abroad"}
       ],
-      "tags": ["climate", "health", "EU"]
+      "tags": ["defence", "governance", "EU"]
+    },
+    {
+      "headline": "EU braces for prolonged energy crisis as fuel reserves face April depletion",
+      "summary": "European Union officials warn that fuel reserves in Europe will be depleted by April 20 as the bloc confronts a severe energy shortage driven by disruptions in the Strait of Hormuz amid the U.S.-Israeli military campaign in Iran. The global oil shortfall stands at approximately 11 million barrels per day, with LNG supplies reduced by over 300 million cubic metres daily. European Commissioner for Energy Dan Jørgensen stated that 'the energy crisis will not be short-lived' and 'we will not return to normality in the foreseeable future,' urging EU member states to outline concrete measures for reducing oil and gas consumption, particularly in transport. The crisis is forcing the EU to activate emergency response protocols and accelerate contingency planning, with implications for European economies, supply chains, and the continent's clean energy transition agenda.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/03/31/eu-calls-on-member-states-to-curb-oil-demand-and-prepare-for-prolonged-disruption"},
+        {"name": "IEA", "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"}
+      ],
+      "tags": ["economy", "energy", "EU"]
+    },
+    {
+      "headline": "EU activates migration controls in response to Middle East conflict spillover",
+      "summary": "The European Union is mobilising its diplomatic, legal, operational, and financial instruments to prevent uncontrolled migration flows following escalation of the conflict in the Middle East. EU leadership is preparing to activate measures under the new Pact on Migration and Asylum, which enters full force in June 2026, including the first EU list of safe countries of origin and expanded definitions of safe third countries. These mechanisms will allow member states to severely restrict asylum rights and manage irregular immigration more stringently. The EU's proactive stance reflects concerns that the U.S.-Israeli military campaign in Iran could trigger widespread displacement in the region with knock-on effects for European borders. The approach signals a hardening of EU migration policy even as diplomatic efforts continue to de-escalate regional tensions.",
+      "sources": [
+        {"name": "EU News", "url": "https://www.eunews.it/en/2026/04/01/the-eu-is-prepared-to-take-drastic-measures-to-prevent-a-new-migration-crisis-from-the-middle-east/"},
+        {"name": "EU Council", "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/08/migration-and-asylum-member-states-agree-on-solidarity-pool/"}
+      ],
+      "tags": ["migration", "governance", "EU"]
     }
   ]
 }

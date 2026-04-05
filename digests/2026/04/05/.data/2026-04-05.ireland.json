@@ -1,6 +1,6 @@
 {
   "layer": "ireland",
-  "fetched_at": "2026-04-05T12:30:00Z",
+  "fetched_at": "2026-04-05T13:30:00Z",
   "source_status": {
     "rte": "ok",
     "thejournal": "ok",
@@ -10,62 +10,64 @@
   },
   "stories": [
     {
-      "headline": "Storm Dave leaves thousands without power across Ireland",
-      "summary": "Storm Dave swept across Ireland on April 5th, causing widespread power outages and flight cancellations due to strong winds affecting the country. A Status Orange weather warning was issued for Wexford, while the rest of Ireland remained under Status Yellow warnings. Thousands of homes and businesses lost electricity as the storm battered the nation with very strong winds. The severe weather disrupted travel and daily activities for much of the population. Conditions gradually improved later in the day, with forecasters describing the weather as 'bright and breezy' with milder conditions, though showers continued on higher ground.",
+      "headline": "Storm Dave leaves thousands without power as Status Orange warning issued for Wexford",
+      "summary": "Storm Dave brought severe weather to Ireland on April 5th, with thousands of homes and businesses losing electricity and 17 flights cancelled at Dublin Airport. The storm prompted Status Orange weather warnings for Wexford and Status Yellow warnings across the rest of the country. At its peak, approximately 18,000 customers were without power overnight, though this improved to around 5,000 by morning. The stormy conditions followed the Easter weekend and caused significant disruption to transport and utilities across the island. Weather forecasters expect conditions to improve with bright and breezy skies, though some showers and hail were possible early in the day.",
       "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0405/1566750-rising-commemoration/"},
         {"name": "Irish Times", "url": "https://www.irishtimes.com/environment/2026/04/05/storm-dave-ireland-weather-updates/"},
-        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/weather-forecast-easter-sunday-2-7004054-Apr2026/"}
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41822342.html"}
       ],
-      "tags": ["weather", "transport"]
+      "tags": ["weather", "infrastructure", "transport"]
     },
     {
-      "headline": "Kerry Babies investigation file submitted to Director of Public Prosecutions",
-      "summary": "An investigation file in the decades-old Kerry Babies case has been submitted to the Director of Public Prosecutions following a thorough examination by An Garda Síochána. The case involves an infant discovered on White Strand beach in Caherciveen on April 14, 1984, bearing 28 stab wounds. This development represents a significant moment in one of Ireland's most infamous criminal investigations from the 1980s. The submission to the DPP marks progress in seeking justice and answers for a case that has captured public attention for over four decades. The investigation's completion suggests potential legal proceedings may follow.",
+      "headline": "Kerry Babies case investigation file sent to DPP as 1984 case reopened",
+      "summary": "A new investigation into the 1984 Kerry Babies case has resulted in an investigation file being forwarded to the Director of Public Prosecutions. The case involves an infant discovered on the beach at White Strand, Caherciveen on April 14, 1984, with 28 stab wounds. The case became one of Ireland's most controversial miscarriages of justice, resulting in wrongful convictions. The renewed scrutiny of the case comes four decades after the initial incident and represents a significant development in seeking justice for those affected. The DPP will now review the investigation file to determine whether prosecution or further action is warranted.",
       "sources": [
-        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41822255.html"},
-        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/9-at-9-05-0-04-26-7004035-Apr2026/"}
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/baby-john-kerry-babies-case-7004027-Apr2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41822255.html"}
       ],
-      "tags": ["crime", "justice"]
+      "tags": ["crime", "justice", "social"]
     },
     {
-      "headline": "Easter Rising 1916 commemorated with ceremony attended by President and Taoiseach",
-      "summary": "The annual commemoration marking the 110th anniversary of the 1916 Easter Rising took place on April 5th, 2026, with the President and Taoiseach attending a ceremony on O'Connell Street in Dublin. The event honored the Irish nationalists who led the armed insurrection against British rule, a pivotal moment in Irish history that ultimately contributed to Irish independence. The commemoration is a significant annual tradition reflecting Ireland's historical identity and republican values. Ceremonies and events marking the Easter Rising occur nationwide each year on or near April 5th. This year's commemoration underscored the continued importance of the historical event in Irish national consciousness.",
+      "headline": "President and Taoiseach lead Easter Rising commemoration marking 110th anniversary",
+      "summary": "The President and Taoiseach attended the annual Easter Rising commemoration at the GPO on O'Connell Street in Dublin on April 5th, marking the 110th anniversary of the 1916 uprising. The Proclamation was read outside the historic site during the State ceremony. The Easter Rising remains a defining moment in Irish history and independence, with annual commemorations affirming the State's connection to the revolutionary events. The presence of senior State figures underscores the continued significance of the rising in Irish national identity and public memory. The ceremony proceeded amid a backdrop of ongoing international conflicts, lending particular poignancy to the historical occasion.",
       "sources": [
-        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0405/1566800-easter-rising-commemoration/"}
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0405/1566750-rising-commemoration/"}
       ],
-      "tags": ["politics", "history"]
+      "tags": ["politics", "history", "society"]
     },
     {
-      "headline": "Over 2,100 drivers caught speeding in first 72 hours of Easter weekend",
-      "summary": "An Garda Síochána detected more than 2,100 drivers exceeding speed limits during the opening 72-hour period of the Easter bank holiday weekend. The speed detection operation targeted dangerous driving behavior during a period of increased road traffic and travel. Road safety initiatives intensified over the holiday period reflect concerns about traffic accidents and fatalities. The high number of speeding violations indicates widespread non-compliance with traffic regulations despite safety warnings. This enforcement action is part of broader efforts to reduce road deaths and serious injuries during holiday periods when driving volumes increase significantly.",
+      "headline": "Micheál Martin and Holly Cairns tied in public support poll at 39% approval",
+      "summary": "A new opinion poll released on April 5th shows Micheál Martin and Holly Cairns achieving equal approval ratings of 39%, indicating a significant tie in public support for the two political leaders. The poll reflects the current political landscape in Ireland, where support appears evenly distributed between the two figures. This level of parity suggests a competitive political environment and may have implications for upcoming electoral contests or government formation. The poll provides insight into public confidence in political leadership during a period when various domestic challenges including housing, healthcare, and economic management remain on the political agenda.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/micheal-martin-holly-cairns-support-poll-7004076-Apr2026/"}
+      ],
+      "tags": ["politics", "polling"]
+    },
+    {
+      "headline": "Over 2,100 speeding violations recorded during Easter weekend enforcement operation",
+      "summary": "An Garda Síochána detected more than 2,100 drivers speeding in the first 72 hours of the Easter bank holiday weekend as part of enhanced road safety enforcement. The Easter period typically sees increased traffic as families travel for holiday celebrations, prompting targeted garda operations to enhance road safety. The high number of speeding violations indicates ongoing compliance challenges with speed limits during peak travel periods. These enforcement operations form part of broader garda road safety initiatives aimed at reducing traffic incidents, injuries, and fatalities on Irish roads. The statistics underscore the need for sustained public awareness campaigns about speed limit compliance.",
       "sources": [
         {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0405/1566802-garda-road-safety/"}
       ],
-      "tags": ["transport", "crime"]
+      "tags": ["transport", "safety", "crime"]
     },
     {
-      "headline": "Micheál Martin and Holly Cairns tied in latest political support poll",
-      "summary": "A new Sunday Independent/Ireland Thinks poll shows Micheál Martin and Holly Cairns with equal approval ratings of 39% among the Irish public. The polling result indicates a tight political landscape as the two leaders compete for public confidence. Martin, as Taoiseach, faces stiff competition from Cairns, leader of the Social Democrats, suggesting shifting political dynamics in Ireland. The equal rating reflects neither leader commanding a clear advantage in public support. This poll data is significant for understanding the current political climate and potential implications for future electoral contests.",
+      "headline": "Ireland may follow international trend of reducing digital devices in classrooms",
+      "summary": "Parents and educators in Ireland are increasingly questioning the role of classroom technology, as several countries move away from laptops and digital devices in schools. The debate reflects broader concerns about screen time, digital distraction, and its impact on student learning outcomes and wellbeing. Countries around the world have begun reducing or eliminating digital devices in primary schools, citing research on attention spans and cognitive development. Ireland may consider following this international trend as part of educational policy discussions. The shift represents a potential reversal of earlier technology-forward education strategies and emphasizes a return to traditional learning materials such as textbooks.",
       "sources": [
-        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/micheal-martin-holly-cairns-support-poll-7004076-Apr2026/"}
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/digital-devices-laptops-in-school-7002020-Apr2026/"}
       ],
-      "tags": ["politics"]
+      "tags": ["education", "social", "health"]
     },
     {
-      "headline": "Woman in her 80s dies following bus collision in Blackrock",
-      "summary": "An elderly woman in her 80s passed away in hospital following injuries sustained in a bus collision in Blackrock. The fatal incident occurred when the woman was struck by a bus, resulting in injuries that ultimately proved fatal. The tragedy highlights ongoing road safety concerns in Ireland, particularly involving vulnerable users like elderly pedestrians. The incident is part of a broader pattern of serious road accidents occurring during the Easter weekend period. Additionally, a man in his 30s died in a separate road crash, underscoring the dangerous conditions on Irish roads during busy holiday periods.",
+      "headline": "US successfully rescues airman in 'daring' operation amid Iran conflict escalation",
+      "summary": "A US service member whose fighter aircraft was shot down over Iran on Friday was successfully rescued in a high-stakes military operation announced on April 5th. President Trump confirmed the officer was recovered safely, though Iran's military claimed to have thwarted the operation. The rescue operation represents a significant tactical success for US forces during the sixth week of the ongoing conflict between the US-Israeli alliance and Iran. Reports indicate that strikes continued in the Gulf region with Iran claiming that US aircraft were destroyed during the mission. The incident highlights the intensity and risks involved in the escalating Middle East conflict, with implications for regional stability and potential for further escalation.",
       "sources": [
-        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/woman-dies-hit-by-bus-blackrock-7004043-Apr2026/"}
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/world/2026/0405/1566781-middle-east-conflict/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/us-service-member-rescued-iran-7004017-Apr2026/"}
       ],
-      "tags": ["transport", "social"]
-    },
-    {
-      "headline": "Digital devices in classrooms questioned as countries reconsider education technology",
-      "summary": "Parents and educators across Ireland and internationally are questioning the widespread use of laptops and digital devices in classrooms as schools reconsider their technology strategies. Several countries are moving away from device-heavy education models, prioritizing alternative learning approaches. The debate reflects growing concerns about the effectiveness of classroom technology and potential negative impacts on learning outcomes. Ireland may follow the international trend toward reducing digital device reliance in schools. This discussion has significant implications for education policy and raises questions about the optimal balance between traditional teaching methods and technology integration.",
-      "sources": [
-        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/digital-devices-laptops-in-school-7002020-Apr2026/"}
-      ],
-      "tags": ["health", "social"]
+      "tags": ["diplomacy", "defence", "conflict"]
     }
   ]
 }
