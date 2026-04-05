@@ -1,0 +1,128 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-05T06:00:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Viktor Orbán blocks €90bn EU support package for Ukraine as Kyiv faces Russian spring offensive",
+      "summary": "Hungarian Prime Minister Viktor Orbán is blocking a €90 billion EU financial support package for Ukraine, according to Kyiv officials, forcing the country to rely increasingly on dwindling US support under the Trump administration. Zelenskyy expressed frustration that \"one person in Europe is standing against all of Europe simply to please Moscow\" during a critical moment as Russian forces intensify spring military operations. The loan is desperately needed as US aid has dried up and Ukraine faces mounting costs from ongoing combat. The blockade highlights internal EU divisions on Ukraine policy and Orbán's alignment with Moscow on key issues. Hungary has previously been criticized for obstructing EU consensus on Ukraine sanctions and aid. The €90bn package represents a significant portion of the EU's long-term financial commitment to Ukrainian reconstruction and wartime support. Other EU member states have urged Orbán to lift the veto, but he has shown no indication of reversing his position. The standoff underscores tensions between Hungary's government and the broader European consensus on supporting Ukraine's sovereignty and territorial integrity.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.europesays.com/2888909/",
+          "author": null
+        }
+      ],
+      "tags": ["EU", "governance", "Ukraine", "economy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Five EU ministers demand windfall tax on energy companies as diesel prices surge 30% amid Iran conflict",
+      "summary": "Energy ministers from Italy, Germany, Spain, Portugal, and Austria have jointly called on the European Commission to impose a new windfall tax on energy sector profits in response to sharp price increases driven by the ongoing Middle East conflict. Diesel prices have surged more than 30 percent since the start of the Iran war, creating a cost-of-living crisis across the continent and exposing Europe's heavy dependence on imported energy. The spike in fuel prices has cascading effects on transportation costs, food inflation, and general economic competitiveness. German conscription law changes now require approval for men aged 17-45 to travel abroad for extended periods, reflecting broader European defense mobilization. The proposed windfall tax aims to redistribute excess profits from energy companies to help vulnerable households and businesses cope with elevated prices. This collective action from major EU economies signals frustration with market volatility and the need for coordinated policy responses to energy shocks. The initiative also highlights the intersection of geopolitical crises with domestic energy policy across Europe, as the continent seeks to reduce external vulnerabilities and ensure energy security.",
+      "image_url": "https://s.france24.com/media/display/6c7160b2-300a-11f1-addb-005056a90284/w:1024/p:16x9/d31409adee5a096957a9447b03a4fd159c30cdcf.jpg",
+      "authors": ["FRANCE 24"],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/04/letter-to-eu-from-five-member-states-tax-extra-profits-of-energy-companies",
+          "author": null
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260404-european-drivers-choke-on-rising-diesel-prices-due-to-iran-conflict",
+          "author": "FRANCE 24"
+        }
+      ],
+      "tags": ["EU", "regulation", "economy", "energy"],
+      "significance": "high"
+    },
+    {
+      "headline": "Russian drone strike kills five in Ukrainian market as Moscow intensifies Easter-period attacks",
+      "summary": "Russian forces conducted a major drone strike on a covered market in the eastern Ukrainian city of Nikopol on Saturday, killing five people and injuring approximately 30 others, according to Ukrainian officials. The attack was part of a broader overnight assault in which Russia fired 286 drones, of which Ukrainian air forces intercepted 260, demonstrating the scale of the aerial bombardment campaign. The strike on civilian infrastructure during the Easter period reflects Russia's continued targeting of population centers despite international humanitarian concerns. Ukrainian forces have responded with their own drone operations and are signaling openness to an Easter ceasefire, though Russia shows no indication of pausing military operations. French intelligence reports indicate Ukrainian military specialists have been deployed to Libya, potentially involved in maritime operations against Russian vessels including the gas carrier Arctic Metagaz. The ongoing conflict continues to impose devastating humanitarian costs on the civilian population, with infrastructure damage compounding pre-existing shortages of food, water, and medicine. EU member states remain committed to supporting Ukraine militarily and financially, though divisions over aid packages and defense commitments continue to surface.",
+      "image_url": "https://s.france24.com/media/display/120ee5a0-3013-11f1-a349-005056bfb2b6/w:1024/p:16x9/93413160b171284a7f64100c2c737b720cf0d6df.jpg",
+      "authors": ["FRANCE 24"],
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+          "author": "FRANCE 24"
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/eight-dead-in-massive-russian-attack-while-kyiv-signals-readiness-for-easter-ceasefire",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "Ukraine", "defence", "humanitarian"],
+      "significance": "high"
+    },
+    {
+      "headline": "Poland reports 96% drop in illegal border crossings, citing effectiveness of new migration policy",
+      "summary": "The Polish government announced a significant decrease in illegal immigration attempts at its border with Belarus, reporting a 96 percent decline and pointing to the effectiveness of its toughened migration policy. The dramatic reduction follows Poland's implementation of stricter border controls and enforcement mechanisms over the past year. The decline reflects broader European efforts to manage migration flows and secure external borders, particularly regarding routes through Belarus into the EU. Poland's success in reducing crossings has been cited as evidence that coordinated enforcement can slow irregular migration patterns. However, the policy has drawn international attention regarding humanitarian concerns and the treatment of migrants during interdiction operations. The results also coincide with diplomatic tensions between the EU and Belarus over Lukashenko's role in facilitating migration to Europe as leverage in geopolitical disputes. Poland's approach represents one model for EU member states grappling with balancing border security with humanitarian obligations. The reported figures provide ammunition for defenders of strict migration policies across the continent, though humanitarian organizations continue to scrutinize implementation practices.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/polands-border-with-belarus-sees-decrease-in-illegal-immigration-attempts-by-96",
+          "author": null
+        }
+      ],
+      "tags": ["migration", "governance", "EU"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Italy's Meloni pursues energy and defence partnerships with Gulf states amid geopolitical tensions",
+      "summary": "Italian Prime Minister Giorgia Meloni held discussions with leaders of Qatar, the United Arab Emirates, and Saudi Arabia, focusing on securing energy supplies and expanding defence cooperation, particularly regarding security in the strategically vital Hormuz Strait region. The diplomatic mission reflects Europe's broader efforts to diversify energy sources and strengthen relationships with Gulf producers amid the Iran conflict and concerns about supply chain disruptions. Italy offered technical support and defense cooperation as part of broader European engagement with Gulf states to ensure stable energy flows and maritime security. The talks highlight Italy's position as a key European actor in Middle East diplomacy and its role in diversifying the continent's energy portfolio beyond traditional suppliers. Meloni's outreach also represents a strategic counter to rising tensions in the region and Europe's desire to maintain stability in critical shipping lanes. The agreements reached are expected to help shore up Europe's energy security while advancing bilateral defense relationships. The mission underscores Italy's commitment to addressing the security and economic dimensions of the Middle East crisis affecting European energy prices and supply reliability.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/meloni-in-the-gulf-harmony-on-gas-and-defence-with-qatar-the-emirates-and-saudi-arabia",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "economy", "EU", "trade"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Germany advances plans for world's largest frigate as F126 defence modernization faces scheduling challenges",
+      "summary": "Germany is advancing its plans to construct the F126, designed to become the world's largest frigate, equipped for submarine hunting and advanced drone operations to meet modern naval warfare requirements. The warship is scheduled for launch in 2029, though the project faces potential vessel and construction complications that could delay deployment. The F126 represents a centerpiece of German defence modernization efforts amid heightened European security concerns regarding Russia and geopolitical instability in adjacent regions. The frigate's advanced capabilities reflect NATO's evolving naval strategy and Germany's commitment to strengthening European defence capacity independent of traditional alliances. The project carries significant cost implications for the German defense budget and represents a major commitment to European naval supremacy and technological advancement. Construction challenges typical of modern warship programs have already emerged, raising questions about timeline realism and final costs. The F126 also symbolizes Germany's shifting defence posture and its willingness to invest substantially in military capabilities following years of budget constraints.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/german-xxl-frigate-on-the-horizon-but-when-will-the-super-warship-arrive",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "EU", "technology"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Germany's new conscription law requires military approval for extended overseas travel for men aged 17-45",
+      "summary": "Germany has implemented new military conscription regulations requiring men aged 17 to 45 to obtain Bundeswehr (German armed forces) approval before embarking on international travel lasting more than three months. The requirement reflects Germany's efforts to strengthen military readiness and manage personnel availability amid heightened defence concerns in Europe. The conscription law represents a significant shift in German defence policy, signaling a tougher stance on military service obligations and personal mobility rights. Men subject to the requirement must now navigate bureaucratic approval processes before planning extended trips abroad, potentially affecting work opportunities, education programs, and family visits. The regulation has sparked debate about the balance between national security needs and individual freedom of movement. The policy aligns with broader European trends toward increased defence investment and military modernization in response to geopolitical threats. Implementation challenges remain regarding enforcement, appeals processes, and the practical administration of travel approvals across multiple military districts.",
+      "image_url": null,
+      "authors": [],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/04/conscription-law-men-now-need-approval-for-trips-abroad",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "governance", "EU"],
+      "significance": "medium"
+    }
+  ]
+}

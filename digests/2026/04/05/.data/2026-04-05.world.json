@@ -1,0 +1,173 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-05T06:30:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US fighter pilot rescued after F-15 shot down over Iran; tensions escalate with 48-hour ultimatum",
+      "summary": "A US F-15 fighter jet was shot down over Iran, marking the first American aircraft lost to enemy fire in over two decades. The pilot was successfully rescued by joint US-Iranian forces, though search and rescue operations continue for additional crew members. The incident occurred amid escalating military strikes between the US-Israel coalition and Iran, with both sides targeting critical infrastructure. President Trump issued a 48-hour ultimatum to Iran demanding access to the Strait of Hormuz be reopened, threatening additional strikes on bridges and power plants if terms are not met. Iran's military has launched retaliatory drone strikes, including attacks on Kuwaiti oil sector infrastructure. International tensions remain extremely high with global oil markets volatile and shipping routes disrupted. The conflict has been ongoing for six weeks with no clear diplomatic resolution in sight. Weapons experts have disputed some US claims about the conflict's progression, particularly regarding civilian casualties. The incident represents a significant escalation in direct military confrontation between the parties.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cm2k1dgz142o",
+          "author": null
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
+          "author": "NPR Staff"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "significance": "high"
+    },
+    {
+      "headline": "Global energy crisis deepens as Iran conflict disrupts oil supplies; Australia faces fuel shortages",
+      "summary": "The Iran-US conflict has triggered a global energy crisis with hundreds of petrol stations across Australia running out of fuel as international oil shipments face disruption. The price of oil has nearly doubled what governments budgeted for, placing severe pressure on already stretched national finances. European nations are accelerating discussions about nuclear power revival as a potential solution to energy independence concerns amid wartime conditions. Senegal has banned government ministers from foreign travel as fuel costs strain budgets, while countries worldwide reassess their energy strategies. The Strait of Hormuz remains a critical chokepoint, with shipping disruptions affecting global trade and fuel availability. Some major European companies are attempting to continue shipping through the strait despite risks, signaling attempts to maintain trade flows. The crisis has broader economic implications affecting inflation rates, transportation costs, and government spending priorities across multiple continents. Energy security is becoming a central concern for governments planning long-term infrastructure investments.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1232/live/86e3bc60-301e-11f1-93d4-afd16efe51c8.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c62l084kgk6o",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cp84z5r4d32o",
+          "author": null
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno",
+          "author": null
+        }
+      ],
+      "tags": ["economy", "energy", "climate"],
+      "significance": "high"
+    },
+    {
+      "headline": "Russia launches 'Easter escalation' with hundreds of drones and missiles on Ukraine",
+      "summary": "Russia opted for military escalation over ceasefire during the Easter weekend, launching hundreds of drones and missiles across Ukrainian territory. The attacks killed six civilians and injured at least 40 others in a significant escalation of the ongoing conflict. Ukrainian President Zelensky characterized the assault as a deliberate choice to intensify the war during a period typically associated with peace negotiations. The bombardment targeted civilian and military infrastructure across multiple Ukrainian cities and regions. The timing and scale of the attacks underscore Russia's continued commitment to military pressure despite international calls for ceasefire. The incident raises concerns about the potential for further escalation and the prospects for diplomatic negotiations. Ukraine's defense systems were deployed to intercept incoming weaponry, though civilian casualties still occurred. The attack demonstrates the conflict's ongoing intensity and its impact on civilian populations.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cew70wjvv9do",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "geopolitics", "humanitarian"],
+      "significance": "high"
+    },
+    {
+      "headline": "Artemis II astronauts halfway to Moon; NASA completes major milestone in lunar return mission",
+      "summary": "NASA's Artemis II mission has reached the halfway point in its journey to the Moon, with the crew aboard the Orion capsule capturing a spectacular photograph of Earth from deep space. Commander Reid Wiseman documented the view as the spacecraft departed Earth's orbit and continues toward lunar orbit. The mission represents humanity's first crewed lunar journey in over 50 years and marks a significant achievement in space exploration and technology. The astronauts have transmitted messages to their families and shared their experiences in real-time from orbit. The Artemis II mission is designed to test life support systems and procedures that will be used for eventual lunar landings. While this mission will not include a Moon landing, it is crucial preparation for subsequent Artemis missions targeting the lunar surface. The successful progression of the mission demonstrates the readiness of NASA's new spacecraft systems. The achievement underscores international commitment to sustained lunar exploration and represents a moment of global scientific cooperation.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
+      "authors": ["Scott Simon"],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+          "author": null
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
+          "author": "Scott Simon"
+        }
+      ],
+      "tags": ["technology", "space", "achievement"],
+      "significance": "high"
+    },
+    {
+      "headline": "Iran declares Iraqi ships exempt from Strait of Hormuz restrictions; satellite firm halts war imagery",
+      "summary": "Iran announced that Iraqi vessels will face no restrictions in transiting the Strait of Hormuz, signaling a selective approach to maritime blockade measures. The declaration comes amid US-led sanctions and shipping disruptions caused by the ongoing conflict. Separately, Planet Labs, a major commercial satellite imaging company, announced it will indefinitely withhold satellite imagery related to the Iran conflict following a request from the US government. The decision restricts the flow of independent visual documentation of conflict-related damage and military operations. The move raises questions about transparency in wartime and the role of private companies in geopolitical conflicts. Both developments underscore the complex dynamics of the Iran crisis, with some nations seeking limited exemptions while information control becomes a strategic concern. The satellite imagery blackout may hinder independent verification of conflict claims made by various parties. These developments reflect the multifaceted nature of the conflict extending beyond direct military engagement into economic, diplomatic, and information spheres.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435a/live/11fc7470-303a-11f1-b7b6-d109e91ca282.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm",
+          "author": null
+        }
+      ],
+      "tags": ["diplomacy", "geopolitics", "trade"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Germany implements military conscription approval requirement for males under 45; strengthens defense posture",
+      "summary": "Germany has enacted a law requiring military approval for long stays abroad for males under 45 years old, reflecting heightened defense concerns amid European security tensions. Under the new regulation, travel approvals must generally be granted, though enforcement mechanisms remain unclear and officials are still determining implementation procedures. The measure represents a significant shift in Germany's defense and conscription policies in response to broader European security challenges. The law aims to maintain military readiness by preventing the departure of potential reservists during periods of heightened alert. Critics and legal experts question how the regulation would be practically enforced and whether it violates existing freedoms. The policy reflects growing concerns among European nations about security threats and military capabilities. Germany's move signals the broader European shift toward increased defense spending and military preparation. The implementation comes amid ongoing tensions in Eastern Europe and broader NATO strengthening efforts across the continent.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e7/live/ec4a7e00-305e-11f1-ba49-5da6d3e5ad3c.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo",
+          "author": null
+        }
+      ],
+      "tags": ["defence", "governance", "geopolitics"],
+      "significance": "medium"
+    },
+    {
+      "headline": "Hungary faces pivotal election in nine days; Viktor Orban's 16-year grip on power faces serious challenge",
+      "summary": "Hungary is heading to the polls in nine days with significant implications for Europe's political landscape, as President Viktor Orban prepares to defend his position after 16 consecutive years in power. The election represents a potential turning point after a period of considerable political control and consolidation by Orban's administration. Opposition parties have mobilized substantial support, suggesting genuine electoral competition in a contest seen as consequential for European democracy and governance. Hungary's election will influence EU-member relationships and the direction of Central European politics and policies. Political analysts view the contest as closely contested, though polling data and historical patterns provide different perspectives on likely outcomes. International observers are watching the election closely for its implications regarding democratic institutions and judicial independence in Hungary. The outcome could reshape Hungary's relationship with EU institutions and broader European governance frameworks. Economic challenges and quality-of-life issues have become prominent in campaign messaging across competing political movements.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6409/live/d4812350-2d07-11f1-934f-036468834728.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo",
+          "author": null
+        }
+      ],
+      "tags": ["elections", "governance", "politics"],
+      "significance": "medium"
+    },
+    {
+      "headline": "US arrests relatives of slain Iranian general Qasem Soleimani amid escalating tensions",
+      "summary": "The United States Immigration and Customs Enforcement has arrested the niece and grand-niece of late Iranian general Qasem Soleimani, marking a dramatic escalation of tensions between the countries. The individuals are in custody following the arrest operation, and Secretary of State Marco Rubio separately announced the revocation of residency status for Hamideh Soleimani Afshar, Soleimani's niece. The State Department accused her of supporting Iranian government interests, citing national security concerns. The arrests come amid intense military confrontation between US-Israeli forces and Iran, suggesting a coordinated approach targeting senior Iranian figures and their family members. The move represents an unprecedented targeting of family relations of deceased military leaders and raises legal and human rights questions. Iran has condemned the actions as political retaliation and abuse of legal procedures. The incidents underscore the personal dimensions of state conflict and the expansion of conflict beyond military operations into civilian targeting. The timing coincides with the broader US-Israeli military campaign against Iranian targets and infrastructure.",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435a/live/11fc7470-303a-11f1-b7b6-d109e91ca282.jpg",
+      "authors": [],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo",
+          "author": null
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco",
+          "author": null
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"],
+      "significance": "medium"
+    }
+  ]
+}
