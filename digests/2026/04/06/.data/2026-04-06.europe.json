@@ -1,0 +1,55 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-06T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Explosives discovered near Serbian gas pipeline carrying Russian fuel to Hungary",
+      "summary": "Powerful explosives were found near the Balkan Stream pipeline in Serbia that carries Russian natural gas to Hungary, according to leaders of both nations. The discovery was made days before a Hungarian national election, raising concerns about infrastructure sabotage and regional security. The incident highlights ongoing tensions over European energy supplies and their dependence on Russian sources. The placement near a key energy corridor serving Hungary suggests potential political motivations timed to the electoral cycle. This discovery underscores the geopolitical fragility of European energy infrastructure in the context of broader tensions with Russia.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260405-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-leaders-say"}
+      ],
+      "tags": ["defence", "energy", "geopolitics"]
+    },
+    {
+      "headline": "Mediterranean migrant boat capsizes with over 70 feared dead",
+      "summary": "A vessel carrying approximately 105 people capsized after departing from Libya, with rescue organizations reporting at least 70 people missing and two bodies recovered. Italian NGOs coordinated the rescue response in the central Mediterranean, with 32 people successfully rescued from the incident. The tragedy highlights the continued dangers faced by migrants attempting the perilous crossing from North Africa to Europe. This incident is part of an ongoing humanitarian crisis as thousands continue to attempt dangerous sea routes despite the risks. The incident underscores the need for broader EU migration and humanitarian responses to address root causes of displacement.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260405-two-dead-dozens-missing-after-migrant-boat-capsizes-in-mediterranean"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/05/more-than-70-people-feared-dead-after-migrant-boat-capsizes-in-the-central-mediterranean"}
+      ],
+      "tags": ["migration", "humanitarian", "EU"]
+    },
+    {
+      "headline": "Pope Leo XIV condemns violence of war in inaugural Easter message",
+      "summary": "Pope Leo XIV delivered his first Easter blessing as pontiff, urging those with power to unleash wars to choose peace instead. His message explicitly condemned the ongoing violence in Ukraine and the Middle East, reflecting deep concern within the Catholic Church about global conflicts. The Pope's inaugural Easter address represents a significant statement on the Church's stance toward contemporary geopolitical tensions. His call for peace comes amid escalating military conflicts and humanitarian crises affecting millions across Europe and beyond. The message carries symbolic weight as the new pontiff's first major public statement on global affairs.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260405-pope-leo-condemns-violence-of-war-in-first-easter-mass-amid-iran-conflict"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/05/in-first-easter-blessing-as-pontiff-pope-leo-xiv-urges-those-who-can-unleash-wars-to-choos"}
+      ],
+      "tags": ["governance", "diplomacy"]
+    },
+    {
+      "headline": "Oil prices volatile as Trump escalates tensions with Iran",
+      "summary": "Brent crude oil prices rose above $110 per barrel following Trump's expletive-laden threats directed at Iran, before those gains moderated following reports of potential US-Iran ceasefire talks. The market volatility reflects global concerns about potential military escalation and its impact on Middle Eastern energy supplies critical to European economies. Trump's aggressive rhetoric toward Iran has heightened geopolitical risk and created uncertainty for European energy markets. Reports of ongoing diplomatic talks suggest some restraint, but the underlying tension remains high. European economies, heavily dependent on stable energy prices, face significant exposure to further escalation in US-Iran hostilities.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo"}
+      ],
+      "tags": ["economy", "energy", "geopolitics"]
+    },
+    {
+      "headline": "US military rescue of airman in Iran demonstrates complex cross-border operation",
+      "summary": "A successful US military operation extracted an American airman from a remote area of Iran, involving multiple US government agencies and complex coordination in hostile territory. The operation highlighted the risks facing military personnel operating in the region amid escalating tensions. The rescue underscores the dangerous environment created by heightened US-Iran hostilities and the resourcefulness required for emergency extractions. Trump cited the successful rescue as a demonstration of military capability, though threats to the operation reportedly persisted throughout. The incident reflects the broader context of military confrontation between the US and Iran affecting regional security.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo"}
+      ],
+      "tags": ["defence", "geopolitics"]
+    }
+  ]
+}

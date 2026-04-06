@@ -1,0 +1,82 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-06T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Kerry Babies Case: Investigation file submitted to Director of Public Prosecutions",
+      "summary": "An extensive investigation into the Kerry Babies case has been completed with its file submitted to the Director of Public Prosecutions. The case involves an infant discovered on the beach at White Strand, Cahersiveen, on April 14, 1984. This marks a significant development in a high-profile historical Irish criminal investigation. The submission to the DPP suggests potential prosecutorial action may follow. The case has remained a notable chapter in Irish legal and social history.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/baby-john-kerry-babies-case-7004027-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/05/kerry-babies-case-file-sent-to-dpp-following-extensive-investigation/"}
+      ],
+      "tags": ["crime", "justice", "politics"]
+    },
+    {
+      "headline": "Storm Dave Leaves Thousands Without Power Across Ireland",
+      "summary": "Storm Dave has impacted Ireland with strong winds causing widespread power outages, leaving approximately one thousand homes and businesses without electricity. Flights were cancelled over the weekend as severe wind conditions affected the country. The storm has caused disruption to essential services and transport across multiple regions. Weather forecasts indicated conditions would improve following the storm's passage. The event highlighted Ireland's vulnerability to severe Atlantic weather systems.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/environment/2026/04/05/storm-dave-ireland-weather-updates/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/weather-forecast-easter-sunday-2-7004054-Apr2026/"}
+      ],
+      "tags": ["weather", "economy", "transport"]
+    },
+    {
+      "headline": "President Connolly Honors 1916 Rising at GPO Ceremony",
+      "summary": "President Catherine Connolly participated in a respectful ceremony at the GPO on O'Connell Street honoring the contribution of 1916 Rising participants. The Taoiseach, Minister for Defence, and members of the Army, Naval Service, and Air Corps attended the wreath-laying ceremony. Relatives of Rising participants were present to mark the historical occasion. The event reflected Ireland's continued recognition of the independence struggle's significance. The ceremony took place during the Easter weekend commemorations.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/president-catherine-connolly-easter-1916-rising-7004144-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/05/respectful-and-moving-relatives-of-1916-rising-participants-honour-contribution-at-gpo/"}
+      ],
+      "tags": ["politics", "social", "history"]
+    },
+    {
+      "headline": "Limerick Claims First Hurling League Title in Three Years",
+      "summary": "Limerick defeated Cork 1-27 to 1-21 at the Gaelic Grounds to secure their first Division 1A hurling league title in three years. Aaron Gillane led the team to victory in a closely contested final. Manager John Kiely expressed satisfaction with the achievement, describing it as an important milestone in the team's development. The victory comes after Limerick's strong performance against Cork in recent weeks. The win positions Limerick as a formidable contender heading into the championship season.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport/gaa/arid-41822477.html"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/limerick-v-cork-live-scores-7004194-Apr2026/"}
+      ],
+      "tags": ["sport", "GAA", "economy"]
+    },
+    {
+      "headline": "Clare Holds Off Dublin in Hurling League Final",
+      "summary": "Clare defeated Dublin by three points in the Division 2A hurling league final, securing an important victory for the Banner county. The match was closely contested, with Clare demonstrating strong defensive resolve in the closing stages. Coach Brian Lohan expressed satisfaction with the performance, though he raised concerns about a controversial black card decision during the match. The victory is a significant achievement for Clare's hurling program. The result sets up an exciting championship season for the county.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/clare-dublin-hurling-2-2-7004398-Apr2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport/gaa/arid-41822522.html"}
+      ],
+      "tags": ["sport", "GAA"]
+    },
+    {
+      "headline": "Ireland Expands Naval Security with Tripling of Diving Unit",
+      "summary": "The Irish Defence Forces announced significant maritime security reforms, including tripling the naval service diving unit to enhance Ireland's maritime capabilities. These reforms represent a substantial investment in Ireland's defense infrastructure. The expansion aims to strengthen Ireland's ability to respond to maritime security challenges and protect its extensive coastal waters. The initiative reflects government commitment to national security priorities. Maritime security is increasingly important for Ireland's sovereignty and economic interests.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41822432.html"}
+      ],
+      "tags": ["defence", "politics", "economy"]
+    },
+    {
+      "headline": "Balcony Safety Investigation Underway in Waterford Following Children's Fall",
+      "summary": "Waterford City Council has launched an investigation into balcony safety standards following an incident where children fell from a balcony at Mount Suir Manor. The council is conducting a comprehensive report on the condition and safety of all balconies at the residential complex. Results of the safety audit are expected within two weeks. The incident highlights concerns about housing safety standards in residential developments. The investigation may lead to broader safety reviews across similar residential properties.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41822396.html"}
+      ],
+      "tags": ["housing", "social", "transport"]
+    },
+    {
+      "headline": "EV Charging Infrastructure Challenges in Irish Housing Estates",
+      "summary": "Residents across Ireland who are switching to electric vehicles are facing significant challenges in installing charging infrastructure in housing estates. Planning and installation barriers are preventing widespread adoption of EV charging at residential properties. Many homeowners are struggling to navigate the requirements and costs associated with home charging installations. This infrastructure gap represents a significant barrier to Ireland's transition to electric vehicles. The issue highlights the need for clearer regulations and support mechanisms to facilitate EV adoption.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/ev-charging-homes-6998275-Apr2026/"}
+      ],
+      "tags": ["economy", "climate", "housing"]
+    }
+  ]
+}

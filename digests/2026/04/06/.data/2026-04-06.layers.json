@@ -1,0 +1,427 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-06T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Kerry Babies Case: Investigation file submitted to Director of Public Prosecutions",
+        "summary": "An extensive investigation into the Kerry Babies case has been completed with its file submitted to the Director of Public Prosecutions. The case involves an infant discovered on the beach at White Strand, Cahersiveen, on April 14, 1984. This marks a significant development in a high-profile historical Irish criminal investigation. The submission to the DPP suggests potential prosecutorial action may follow. The case has remained a notable chapter in Irish legal and social history.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/baby-john-kerry-babies-case-7004027-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/05/kerry-babies-case-file-sent-to-dpp-following-extensive-investigation/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "justice",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Storm Dave Leaves Thousands Without Power Across Ireland",
+        "summary": "Storm Dave has impacted Ireland with strong winds causing widespread power outages, leaving approximately one thousand homes and businesses without electricity. Flights were cancelled over the weekend as severe wind conditions affected the country. The storm has caused disruption to essential services and transport across multiple regions. Weather forecasts indicated conditions would improve following the storm's passage. The event highlighted Ireland's vulnerability to severe Atlantic weather systems.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/environment/2026/04/05/storm-dave-ireland-weather-updates/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/weather-forecast-easter-sunday-2-7004054-Apr2026/"
+          }
+        ],
+        "tags": [
+          "weather",
+          "economy",
+          "transport"
+        ]
+      },
+      {
+        "headline": "President Connolly Honors 1916 Rising at GPO Ceremony",
+        "summary": "President Catherine Connolly participated in a respectful ceremony at the GPO on O'Connell Street honoring the contribution of 1916 Rising participants. The Taoiseach, Minister for Defence, and members of the Army, Naval Service, and Air Corps attended the wreath-laying ceremony. Relatives of Rising participants were present to mark the historical occasion. The event reflected Ireland's continued recognition of the independence struggle's significance. The ceremony took place during the Easter weekend commemorations.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/president-catherine-connolly-easter-1916-rising-7004144-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/05/respectful-and-moving-relatives-of-1916-rising-participants-honour-contribution-at-gpo/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "social",
+          "history"
+        ]
+      },
+      {
+        "headline": "Limerick Claims First Hurling League Title in Three Years",
+        "summary": "Limerick defeated Cork 1-27 to 1-21 at the Gaelic Grounds to secure their first Division 1A hurling league title in three years. Aaron Gillane led the team to victory in a closely contested final. Manager John Kiely expressed satisfaction with the achievement, describing it as an important milestone in the team's development. The victory comes after Limerick's strong performance against Cork in recent weeks. The win positions Limerick as a formidable contender heading into the championship season.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport/gaa/arid-41822477.html"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/limerick-v-cork-live-scores-7004194-Apr2026/"
+          }
+        ],
+        "tags": [
+          "sport",
+          "GAA",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Clare Holds Off Dublin in Hurling League Final",
+        "summary": "Clare defeated Dublin by three points in the Division 2A hurling league final, securing an important victory for the Banner county. The match was closely contested, with Clare demonstrating strong defensive resolve in the closing stages. Coach Brian Lohan expressed satisfaction with the performance, though he raised concerns about a controversial black card decision during the match. The victory is a significant achievement for Clare's hurling program. The result sets up an exciting championship season for the county.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/clare-dublin-hurling-2-2-7004398-Apr2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport/gaa/arid-41822522.html"
+          }
+        ],
+        "tags": [
+          "sport",
+          "GAA"
+        ]
+      },
+      {
+        "headline": "Ireland Expands Naval Security with Tripling of Diving Unit",
+        "summary": "The Irish Defence Forces announced significant maritime security reforms, including tripling the naval service diving unit to enhance Ireland's maritime capabilities. These reforms represent a substantial investment in Ireland's defense infrastructure. The expansion aims to strengthen Ireland's ability to respond to maritime security challenges and protect its extensive coastal waters. The initiative reflects government commitment to national security priorities. Maritime security is increasingly important for Ireland's sovereignty and economic interests.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41822432.html"
+          }
+        ],
+        "tags": [
+          "defence",
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Balcony Safety Investigation Underway in Waterford Following Children's Fall",
+        "summary": "Waterford City Council has launched an investigation into balcony safety standards following an incident where children fell from a balcony at Mount Suir Manor. The council is conducting a comprehensive report on the condition and safety of all balconies at the residential complex. Results of the safety audit are expected within two weeks. The incident highlights concerns about housing safety standards in residential developments. The investigation may lead to broader safety reviews across similar residential properties.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41822396.html"
+          }
+        ],
+        "tags": [
+          "housing",
+          "social",
+          "transport"
+        ]
+      },
+      {
+        "headline": "EV Charging Infrastructure Challenges in Irish Housing Estates",
+        "summary": "Residents across Ireland who are switching to electric vehicles are facing significant challenges in installing charging infrastructure in housing estates. Planning and installation barriers are preventing widespread adoption of EV charging at residential properties. Many homeowners are struggling to navigate the requirements and costs associated with home charging installations. This infrastructure gap represents a significant barrier to Ireland's transition to electric vehicles. The issue highlights the need for clearer regulations and support mechanisms to facilitate EV adoption.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/ev-charging-homes-6998275-Apr2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate",
+          "housing"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-06T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Explosives discovered near Serbian gas pipeline carrying Russian fuel to Hungary",
+        "summary": "Powerful explosives were found near the Balkan Stream pipeline in Serbia that carries Russian natural gas to Hungary, according to leaders of both nations. The discovery was made days before a Hungarian national election, raising concerns about infrastructure sabotage and regional security. The incident highlights ongoing tensions over European energy supplies and their dependence on Russian sources. The placement near a key energy corridor serving Hungary suggests potential political motivations timed to the electoral cycle. This discovery underscores the geopolitical fragility of European energy infrastructure in the context of broader tensions with Russia.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260405-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-leaders-say"
+          }
+        ],
+        "tags": [
+          "defence",
+          "energy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Mediterranean migrant boat capsizes with over 70 feared dead",
+        "summary": "A vessel carrying approximately 105 people capsized after departing from Libya, with rescue organizations reporting at least 70 people missing and two bodies recovered. Italian NGOs coordinated the rescue response in the central Mediterranean, with 32 people successfully rescued from the incident. The tragedy highlights the continued dangers faced by migrants attempting the perilous crossing from North Africa to Europe. This incident is part of an ongoing humanitarian crisis as thousands continue to attempt dangerous sea routes despite the risks. The incident underscores the need for broader EU migration and humanitarian responses to address root causes of displacement.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260405-two-dead-dozens-missing-after-migrant-boat-capsizes-in-mediterranean"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/05/more-than-70-people-feared-dead-after-migrant-boat-capsizes-in-the-central-mediterranean"
+          }
+        ],
+        "tags": [
+          "migration",
+          "humanitarian",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Pope Leo XIV condemns violence of war in inaugural Easter message",
+        "summary": "Pope Leo XIV delivered his first Easter blessing as pontiff, urging those with power to unleash wars to choose peace instead. His message explicitly condemned the ongoing violence in Ukraine and the Middle East, reflecting deep concern within the Catholic Church about global conflicts. The Pope's inaugural Easter address represents a significant statement on the Church's stance toward contemporary geopolitical tensions. His call for peace comes amid escalating military conflicts and humanitarian crises affecting millions across Europe and beyond. The message carries symbolic weight as the new pontiff's first major public statement on global affairs.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260405-pope-leo-condemns-violence-of-war-in-first-easter-mass-amid-iran-conflict"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/05/in-first-easter-blessing-as-pontiff-pope-leo-xiv-urges-those-who-can-unleash-wars-to-choos"
+          }
+        ],
+        "tags": [
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Oil prices volatile as Trump escalates tensions with Iran",
+        "summary": "Brent crude oil prices rose above $110 per barrel following Trump's expletive-laden threats directed at Iran, before those gains moderated following reports of potential US-Iran ceasefire talks. The market volatility reflects global concerns about potential military escalation and its impact on Middle Eastern energy supplies critical to European economies. Trump's aggressive rhetoric toward Iran has heightened geopolitical risk and created uncertainty for European energy markets. Reports of ongoing diplomatic talks suggest some restraint, but the underlying tension remains high. European economies, heavily dependent on stable energy prices, face significant exposure to further escalation in US-Iran hostilities.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "US military rescue of airman in Iran demonstrates complex cross-border operation",
+        "summary": "A successful US military operation extracted an American airman from a remote area of Iran, involving multiple US government agencies and complex coordination in hostile territory. The operation highlighted the risks facing military personnel operating in the region amid escalating tensions. The rescue underscores the dangerous environment created by heightened US-Iran hostilities and the resourcefulness required for emergency extractions. Trump cited the successful rescue as a demonstration of military capability, though threats to the operation reportedly persisted throughout. The incident reflects the broader context of military confrontation between the US and Iran affecting regional security.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo"
+          }
+        ],
+        "tags": [
+          "defence",
+          "geopolitics"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-06T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US and Iran pursue 45-day ceasefire as Trump threatens military escalation",
+        "summary": "The United States, Iran, and international mediators are intensifying negotiations for a 45-day ceasefire to de-escalate tensions in the Middle East. Trump has issued an ultimatum for Iran to relinquish control of the Strait of Hormuz by Tuesday, threatening military action with explicit language. The negotiations represent a diplomatic pathway amid ongoing military operations that have disrupted global oil supplies and threatened shipping in critical waterways. Energy markets are reacting nervously to the dual dynamics of ceasefire talks and escalatory rhetoric. The outcome of these negotiations will significantly impact regional stability and global economic conditions.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXdSNWp1SGppajdvZGVFQ3U3U2JfZTBocXFiLUFNdVEyUkVqXzh5ZUpIUjFaWTdvendlZ0RxZnFYMGZLbXFHU3h0RjRoNzlxUWg4QUZYNk5hd0RZLXhPRHZ5MVBXRjR6M2R0WDZvWmc1d2psNnFydXRrcmkzQ00zNm5xZW1fUjhhczBac2VWOFduUFRnQUdmdG9xR2Jtc2ZKUWtiX1pVN3pYUzR3UmtVV0pB?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "US military rescue of airman from Iran highlights dangerous operational complexity",
+        "summary": "American forces successfully extracted a US military airman from a remote mountainous region of Iran in a complex multi-agency operation that involved aircraft facing hostile fire. The rescue involved military personnel from multiple branches and coordination between the Department of Defense and intelligence agencies, navigating extremely challenging terrain and active combat conditions. Trump declared victory following the operation but acknowledged that threats to potential future ground operations in Iran remain significant. The successful extraction demonstrates US operational capability but underscores the risks associated with expanded military action in the region. The operation's success may embolden Trump to pursue more aggressive goals, including potential strikes on Iranian enriched uranium facilities or strategic islands.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlB6OWpEQUtjb2V2MkhwVU1KYWRLSWpzT2tzUlVSMzdtUzNHekN4UHlVVmZUZjFGSzMwM0RSZGZfMjgyZkdoaG9kM2VsZzJXSUJuQlAzZjg0Zi1yN2hYTkxIRTFLRnhLaVYyZDhZbnpwTjM1Z25jdmc5U3JpUnk3V3B1OE9BUGlWTFdyYUhsTjJhTk9vMGk5Rk9JYUtPV2NzMVhTSGVFRldXT2Z5SEhCSGQ0LW9IQVVaYjQtekdn?oc=5"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Lebanon faces mounting casualties as Israeli military operations continue amid regional conflict",
+        "summary": "Israeli military strikes across Lebanon have killed at least 14 people, with reports indicating that over 50 medics have been killed during the current conflict. Medical professionals say they believe healthcare workers are being deliberately targeted, which would constitute potential war crimes under international humanitarian law. The strikes have affected regions across the country from Beirut to Tyre, generating significant displacement and humanitarian concerns. Hezbollah has responded with counterattacks as Israeli forces advance southward. The escalating casualties and targeting of medical infrastructure raise urgent questions about civilian protection and adherence to international laws of armed conflict.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/05/nx-s1-5763606/lebanon-medics-killed-targeted-israel"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strikes-shelling-across-lebanon-add-to-rising-death-toll?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Global energy crisis deepens as Iran conflict disrupts oil supplies and drives prices higher",
+        "summary": "The ongoing conflict between the US and Iran has significantly disrupted global oil supplies, causing fuel shortages across multiple countries including Australia and affecting Southeast Asian economies. Oil prices have surged as concerns about continued supply disruptions mount, with shipping through the critical Strait of Hormuz now heavily restricted. The disruption is disproportionately affecting developing nations\u2014Southeast Asian gig workers face severe hardship from soaring diesel prices, while Australian petrol stations have run out of fuel despite assurances from authorities. OPEC+ agreed to increase production but warned that recovery will be slow due to structural constraints faced by member states. The energy crisis threatens global economic growth and disproportionately impacts vulnerable populations dependent on affordable fuel.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTFnY2M0NTVsQmJCTWJMbnJpekFQekJ4MkMzMnBVRHRuX2QzSTJ2N3RMN01QbVd3UkFvX0phNW1kbVg3dGRoS19USFRvSWhPTndPYVlJUUpDcjhfZ2ZzckstLWVwbEtocnRNZm1oZUFwQldRX0EzT2VQMHpVc2dDODdqOUF6dE9GNllRaTZPWEEzU2haS0dWZnAxR0pGSHVENU9vRW9kdm1uYUNOUVRrTXh3Uk5NQTZtbnczd0lkWGVuUQ?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c62l084kgk6o"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Artemis II astronauts break Apollo 13 distance record during historic moon flyby",
+        "summary": "NASA's Artemis II crew has surpassed Apollo 13's distance record from Earth while conducting a flyby of the Moon, transmitting spectacular photographs of Earth in the distance and images of the Moon's far side. The mission represents a significant step forward in NASA's lunar exploration program and demonstrates continued progress toward the goal of landing astronauts on the Moon by 2028. The crew is currently on the third day of their journey, approaching the far side of the Moon with all systems functioning normally. The mission has captured global public attention with the remarkable images and scientific achievements, serving as a counterpoint to military tensions dominating headlines elsewhere. The successful mission strengthens US technological leadership and demonstrates the peaceful use of space exploration.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTBlNTJyNWQxNzVLejVWSkwwbDF5RS1KQi15QzZUYkFnNEpZdTVxWkhJUjRuNHpMdXFvRURJZWc2LXhtOUdmTmpLaG02Sllfalc0VnJsSFRUbWtNVTVpMkl0cG4yQkxCNlZJamhTRU4yVjlyWDFFazZ1aGZ6RENZMWU4ZTBpakZWZHBINHRxTW4yRS1QekctaHF3?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ce8jzr423p9o"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "technology",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Pope Leo XIV calls for global peace and warns world becoming indifferent to violence",
+        "summary": "Pope Leo XIV delivered his first Easter Mass message, calling on global leaders and the international community to choose peace amid escalating conflicts worldwide. The pontiff warned that the world is becoming increasingly indifferent to violence and suffering, urging political leaders to prioritize diplomatic solutions over military action. The Easter message arrived at a moment of unprecedented global military tension, with conflicts in the Middle East, Eastern Europe, and other regions claiming thousands of lives. Pope Leo's emphasis on peace reflects the concerns of faith communities worldwide about the humanitarian cost of ongoing conflicts. The message represents the Catholic Church's moral voice calling for de-escalation and prioritization of human dignity over geopolitical competition.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss"
+          },
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVVPRk1yb0g3aXp1LXJiUHZLRTFBTkRTVm1GaDZRQzk3WWlTeTBtSzNZVGtNdG5Odmp3MFYtY3FIdDl1aERpdEx6VS0zb2V2S28yZjVJNUZMRlVzRGtDRnRSZnUxNzRxMlN2OUpOaU5IcWNLRGNWeEtzSTZpX1FaMDB3bGJ2LTZ2ZDliU1dkVDhELUU?oc=5"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Dozens feared dead in migrant boat capsizing near Libya amid ongoing refugee crisis",
+        "summary": "A vessel carrying migrants capsized near Libya's coast, leaving dozens of people missing and confirmed deaths reported. The incident represents another tragedy in the ongoing humanitarian crisis affecting vulnerable people attempting to cross the Mediterranean Sea seeking asylum or better economic opportunities. The exact death toll remains uncertain as rescue operations continue, though reports indicate multiple fatalities among the passengers. The disaster underscores the dangers faced by migrants traveling through unsafe sea routes due to limited legal pathways for migration. International organizations continue calling for expanded safe migration corridors and humanitarian assistance for displaced populations across the region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "migration"
+        ]
+      },
+      {
+        "headline": "Russia escalates drone warfare in Ukraine with reports of 148 drones downed in hours",
+        "summary": "Russia reports having destroyed 148 Ukrainian drones in a three-hour period, indicating an intensification of aerial warfare in the conflict. A separate Russian drone strike on a busy market in southern Ukraine killed at least five civilians and injured 21 others, highlighting the continued toll on civilian populations. The escalating pace of drone attacks from both sides demonstrates the shift toward technological warfare as traditional artillery and ground forces face constraints. Ukraine continues to face unprecedented destruction of civilian infrastructure and loss of life despite its defensive military efforts. The conflict remains at high intensity with no clear pathway to resolution visible.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWNRZnpVcERKNTF1V25DRi1TcXpJc2c4VjRZZzlSekFHcEZwekh1cHlWWEhuXzZQOTlFVTBBcFlVV3dlUTd4T25ja1I4Zk5SU1Y5NDF3WV9MUUQ1djZ3M0NKOXIxWGVZcGVHQWpEWEhQWUEtcGhfX18tOV9PWFNXeWFiV2pSRXM3VlAzaU00YUZKZFQ2dUhfcEs5dUM?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cp869m2gzr0o"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "technology"
+        ]
+      }
+    ]
+  }
+}
