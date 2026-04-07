@@ -1,0 +1,50 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Trump threatens to destroy Iran's infrastructure as Strait of Hormuz deadline looms",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II / The Tanker War / Arab Oil Embargo / Suez Crisis / Operation Eagle Claw / Iran-Iraq War",
+      "date_range": "1944–1988",
+      "summary": "The Allied Oil Campaign of 1944–1945 systematically destroyed Nazi Germany's synthetic fuel plants and refinery network, demonstrating that precision strikes on energy infrastructure can achieve strategic paralysis far faster than conventional battlefield attrition. The Tanker War of 1984–1988 saw Iraq and Iran trade attacks on oil tankers in the Persian Gulf, eventually drawing in US Navy escorts and threatening a full closure of Gulf shipping lanes. The Arab Oil Embargo of 1973 showed how a politically-motivated energy disruption can tip developed economies into recession within months. The Suez Crisis of 1956 illustrated how an attempt to control a maritime chokepoint rapidly internationalises a regional confrontation. Operation Eagle Claw in 1980 and the Iran-Iraq War that followed showed how miscalculated Gulf escalation can produce sustained, unpredictable conflicts consuming years rather than weeks.",
+      "parallel_analysis": "What distinguishes today's situation is the explicit naming of civilian infrastructure — power plants and bridges — as targets, a threshold that previous Gulf confrontations generally avoided at the strategic level. The parallels suggest that while energy coercion can succeed in changing adversary behaviour, the economic collateral damage tends to spread well beyond the intended target, and the risk of unintended escalation in confined waterways has historically been very difficult to control once the first shots are fired.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Regional powers coordinate military response as Lebanon and Gaza escalation deepens",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee) / The Tanker War / Arab Oil Embargo",
+      "date_range": "1973–1988",
+      "summary": "Israel's 1982 invasion of Lebanon (Operation Peace for Galilee) pursued the twin objectives of destroying PLO military infrastructure and engineering a political settlement to remove hostile armed groups from Israel's northern border. The campaign succeeded in pushing the PLO out of Beirut but produced a long occupation of southern Lebanon, generated the conditions that gave birth to Hezbollah, and ultimately ended without the political transformation Israel sought. The Tanker War of 1984–1988 ran concurrently, illustrating how sustained regional conflict in the Gulf and the Levant simultaneously strains resources and diplomatic capital of all parties. The 1973 Arab-Israeli War demonstrated how a multi-front war — fought simultaneously on the Sinai and the Golan — could rapidly draw in outside powers and produce global economic consequences through oil supply disruption.",
+      "parallel_analysis": "The 1982 parallel is particularly pointed: the attempt to destroy a non-state armed movement through conventional military dominance and the deliberate fracturing of the host society's political cohesion is a strategy with a documented track record of producing durable insurgencies rather than durable peace. The current multi-actor alignment of Iran, Hezbollah, and the Houthis suggests the resistance axis has learned from 1982 and structured itself to be considerably harder to decapitate than the PLO proved to be.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Artemis II astronauts break Apollo 13 record for farthest human travel from Earth",
+      "story_topic": "Artemis lunar programme",
+      "historical_event": "Project Gemini / Apollo 8 / Apollo 10 / Apollo 13",
+      "date_range": "1961–1970",
+      "summary": "Project Gemini (1961–1966) served as the crewed validation programme for deep-space operations — rendezvous, docking, extravehicular activity, and long-duration spaceflight — before the Apollo lunar landings, establishing that humans could survive and operate in deep space. Apollo 8 (1968) was the first crewed mission to orbit the Moon, with its crew experiencing the total communication blackout of the lunar far side and producing the iconic Earthrise photograph. Apollo 10 (1969) descended to within 15 kilometres of the lunar surface as a final dress rehearsal before Apollo 11, building the operational confidence required for the landing attempt. Apollo 13 (1970), the mission whose distance record Artemis II has now eclipsed, reached its record distance not by design but by emergency — the crew using lunar gravity as a slingshot home after an oxygen tank explosion crippled the command module.",
+      "parallel_analysis": "That Artemis II has surpassed Apollo 13's record intentionally, with all systems nominal, illustrates how much the programme has matured since those first incremental steps. The SpaceX IPO in the wings is the commercial counterpart to what the Saturn V represented in the 1960s — the industrial infrastructure that makes sustained human presence beyond low Earth orbit economically conceivable for the first time since Apollo.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Project_Gemini",
+        "https://en.wikipedia.org/wiki/Apollo_8",
+        "https://en.wikipedia.org/wiki/Apollo_10",
+        "https://en.wikipedia.org/wiki/Apollo_13"
+      ]
+    }
+  ]
+}

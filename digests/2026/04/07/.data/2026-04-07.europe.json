@@ -1,0 +1,81 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-07T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US Vice President Vance visits Hungary to support Orbán before parliamentary elections",
+      "summary": "JD Vance traveled to Hungary on April 7 to demonstrate White House backing for Prime Minister Viktor Orbán ahead of Sunday's parliamentary elections. The visit signals strong US support for Orbán's nationalist government at a critical political moment. Analysts suggest the timing reflects Trump administration alignment with Orbán's governance model. The visit comes amid geopolitical tensions in the region, including the discovery of explosives near a Serbian gas pipeline carrying Russian fuel. Orbán's government has been a focal point of US-Europe relations under the Trump administration.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260407-jd-vance-backs-viktor-orban-ahead-of-high-stakes-hungary-parliamentary-elections"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/07/us-vice-president-vance-departs-for-hungary-in-support-of-orban"}
+      ],
+      "tags": ["politics", "elections", "diplomacy"]
+    },
+    {
+      "headline": "EU launches new Entry/Exit System at borders on April 10",
+      "summary": "The European Union's new Entry/Exit System (EES) will go live on April 10, modernizing border control procedures across EU member states. The system aims to streamline traveler registration and improve security screening at external borders. Implementation is expected to face initial technical challenges as the infrastructure comes online. EU officials have prepared guidance for travelers to understand the new procedures before the rollout. The system represents a significant modernization of Europe's border management infrastructure.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"}
+      ],
+      "tags": ["EU", "regulation", "governance"]
+    },
+    {
+      "headline": "Explosives discovered near Serbian gas pipeline carrying Russian fuel to Hungary",
+      "summary": "Serbian authorities discovered explosives near the Balkan Stream pipeline, which carries Russian natural gas to Hungary and Central Europe. The discovery occurred days before Hungary's parliamentary elections and triggered emergency meetings between Serbian and Hungarian leadership. Russian officials claimed Ukraine planted the explosives without providing evidence, while Ukrainian sources denied involvement. The incident raises concerns about potential sabotage during a politically sensitive period in the region. The pipeline is a critical energy supply route for Hungary and underscores broader geopolitical tensions in Eastern Europe.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/explosives-found-by-pipeline-to-hungary-says-serbia-s-president"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/06/serbia-looks-for-pipeline-sabotage-plot-culprit-as-vances-hungary-visit-nears"}
+      ],
+      "tags": ["defence", "energy", "diplomacy"]
+    },
+    {
+      "headline": "Germany's new military service act tightens controls on extended foreign travel",
+      "summary": "Germany implemented changes to its military service regulations requiring men aged 17-45 to obtain authorization before undertaking extended stays abroad. The revised act reflects broader European defense spending increases and military readiness assessments amid geopolitical uncertainty. The regulation change signals Germany's commitment to strengthening its armed forces and workforce management. The new rules apply to a broad age range and represent a shift in European military policy. The changes are part of Germany's broader defense modernization efforts.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/06/going-abroad-what-will-germanys-new-military-service-act-actually-change"}
+      ],
+      "tags": ["defence", "governance", "regulation"]
+    },
+    {
+      "headline": "Jet fuel rationing implemented at four Italian airports amid energy crisis",
+      "summary": "Northern Italian airports have implemented fuel rationing protocols affecting aviation operations. Four major airports are prioritizing long-haul and essential medical flights while restricting other services due to supply constraints. The rationing reflects broader European energy challenges stemming from global supply disruptions. Airport authorities expect the restrictions to continue through the crisis period, impacting passenger services and cargo operations. The measures highlight Europe's vulnerability to energy supply volatility.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/06/jet-fuel-crisis-rationing-triggered-at-four-airports-in-italy"}
+      ],
+      "tags": ["economy", "energy", "trade"]
+    },
+    {
+      "headline": "Spain reaches historic jobs record with 22 million social security contributors",
+      "summary": "Spain achieved a record number of social security contributors in March 2026, reaching 22 million enrollments. Easter holiday employment gains exceeded 211,000 new positions across the economy. The milestone represents significant economic recovery in Spain following previous downturns. The strong jobs growth reflects improved business confidence and consumer spending in the Spanish economy. Employment gains were broad-based across multiple sectors.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/06/spain-breaks-jobs-record-with-22-million-social-security-contributors"}
+      ],
+      "tags": ["economy", "trade", "governance"]
+    },
+    {
+      "headline": "Migrant boat capsizes in Central Mediterranean with over 70 feared dead",
+      "summary": "A vessel carrying approximately 105 migrants capsized in the Central Mediterranean near Libya, resulting in significant loss of life. Recovery operations recovered only two bodies and 32 survivors, with over 70 people feared dead or missing. The incident occurred during Easter period when migration pressures remain high across Mediterranean routes. The tragedy highlights ongoing dangers faced by migrants attempting Mediterranean crossings. The incident underscores the humanitarian crisis at Europe's southern maritime borders.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260405-two-dead-dozens-missing-after-migrant-boat-capsizes-in-mediterranean"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/05/more-than-70-people-feared-dead-after-migrant-boat-capsizes-in-the-central-mediterranean"}
+      ],
+      "tags": ["migration", "humanitarian", "governance"]
+    },
+    {
+      "headline": "UK doctors strike disrupts NHS services as six-day industrial action begins",
+      "summary": "A six-day doctors' strike began on April 6, creating significant disruptions to National Health Service (NHS) operations in England. The NHS advised patients to use emergency services only when absolutely necessary and to attend confirmed appointments. Strike action reflects ongoing disputes between medical professionals and government over pay and working conditions. The walkout affects routine care and elective procedures across the health system. The industrial action underscores healthcare labor tensions across Europe.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c8ej461k3e5o"}
+      ],
+      "tags": ["health", "politics", "governance"]
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-07T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Hospital violence incidents surge to 20,000 amid overcrowding and delays",
+        "summary": "A new investigation reveals that Irish hospitals experienced approximately 20,000 incidents of violence and aggression in the past year, with doctor and nursing unions attributing the rise to severe overcrowding and treatment delays. The surge highlights growing tensions between patients, families, and healthcare staff struggling under capacity pressures in the Irish health system. Healthcare workers report that long waiting times and overcrowded conditions create a volatile environment that puts staff at increased risk of assault. Unions are calling for urgent government intervention to address staffing levels, bed capacity, and patient flow through emergency departments. This escalating crisis underscores the broader challenges facing Ireland's healthcare infrastructure.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/investigates-incidents-of-aggression-and-violence-in-hospitals-6999235-Apr2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "crisis"
+        ]
+      },
+      {
+        "headline": "Credit unions expand aggressively into mortgage market to challenge traditional banks",
+        "summary": "Ireland's credit union sector has announced substantial measures to increase its presence in the mortgage market, directly competing with traditional banking institutions. This expansion reflects growing consumer demand for alternative lending options and credit unions' focus on community-based financial services. The move could reshape Ireland's residential lending landscape by offering borrowers more competitive rates and accessibility outside traditional banks. Credit unions, which traditionally focused on personal and business loans, are now positioning themselves as viable mortgage providers for Irish homebuyers. The initiative comes amid ongoing debates about housing affordability and the role of alternative financial institutions in Ireland's housing market.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0407/1566943-credit-union-mortgage/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "housing",
+          "finance"
+        ]
+      },
+      {
+        "headline": "Government announces \u20ac250 million fuel cost relief package with extended allowance payments",
+        "summary": "The Irish government has unveiled a \u20ac250 million package aimed at reducing fuel costs and extending fuel allowance payments for an additional four weeks. This financial intervention is designed to ease the burden on Irish households struggling with energy and heating expenses. The expanded allowance period provides targeted support to vulnerable populations dependent on fuel assistance during the transition into warmer months. The package reflects government concern about cost-of-living pressures facing Irish families and demonstrates fiscal commitment to addressing energy affordability. The relief measures are expected to benefit low-income households and pensioners most significantly.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social",
+          "government"
+        ]
+      },
+      {
+        "headline": "ASTI convention to debate AI use in schools, teacher pay, and workload concerns",
+        "summary": "The Association of Secondary Teachers, Ireland will address three critical issues at its upcoming annual convention: the integration and regulation of artificial intelligence in educational settings, educator compensation levels, and the escalating workload facing secondary school teachers. The convention signals growing concern among Irish educators about how rapidly changing technology is reshaping classroom dynamics without adequate teacher training or policy frameworks. Teacher pay remains a contentious issue in Irish education, with recruitment and retention challenges attributed partly to compensation levels relative to other professions. The workload debate reflects broader concerns about class sizes, administrative burdens, and the emotional labour required in modern teaching. These discussions will likely influence the union's bargaining positions in negotiations with government and school management.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/education/2026/0407/1566925-ai-pay-workload-to-be-debated-at-asti-convention/"
+          }
+        ],
+        "tags": [
+          "education",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "40% of parents prefer multi-denominational schools over religious institution model",
+        "summary": "A Department of Education survey reveals that approximately 40% of parents with children in religiously-affiliated schools would prefer their children to attend multi-denominational institutions instead. The findings suggest a significant shift in parental preferences regarding school ethos and religious affiliation in Irish education. This data supports ongoing policy discussions about school patronage reform and the role of religious identity in publicly-funded education. The survey reflects broader societal changes in Irish attitudes toward religion and indicates growing demand for secular or multi-faith educational environments. The results will likely inform future government policy decisions on school patronage, curriculum, and the balance between religious and secular education in Ireland.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0407/1566964-school-patronage-survey/"
+          }
+        ],
+        "tags": [
+          "education",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Former Fine Gael minister Se\u00e1n Barrett dies at age 81",
+        "summary": "Se\u00e1n Barrett, a former Fine Gael minister, has passed away at the age of 81, marking the loss of a notable figure in Irish political history. Barrett's political career spanned several decades and included ministerial roles in various government administrations. His death has prompted reflection on his contributions to Irish public life and political service. The passing comes as the Irish political landscape continues to evolve with generational changes in leadership and representation. Tributes from colleagues and peers will likely highlight his political legacy and impact on Irish governance during his time in office.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Hairdressers across Northern Ireland trained to recognize signs of coercive control",
+        "summary": "The Police Service of Northern Ireland launched the Behind the Smile initiative, training hairdressers to identify subtle indicators of coercive control and domestic abuse. The program recognizes that salon visits provide an opportunity for stylists to observe behavioral and emotional warning signs that might indicate intimate partner abuse. Hairdressers are taught how to respond safely and supportively when they suspect a client is experiencing coercive control. This innovative approach extends domestic abuse awareness and intervention potential beyond traditional healthcare and social service settings. The cross-border Irish initiative demonstrates creative collaboration between law enforcement and community professionals to combat domestic violence.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/social-affairs/2026/04/07/its-the-subtle-signs-hairdressers-in-north-get-police-training-to-spot-coercive-control/"
+          },
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/world/2026/0407/1566969-trump-trans-rights/"
+          }
+        ],
+        "tags": [
+          "social",
+          "crime",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Teaching profession faces affordability crisis with recruitment and retention challenges",
+        "summary": "Unions representing Irish teachers are warning that teaching is becoming financially inaccessible to many individuals, creating significant recruitment and retention challenges in the Irish education system. The teaching profession's cost of entry\u2014including required qualifications, training, and often years of low initial pay\u2014is deterring prospective educators. Current salaries are reportedly insufficient to attract and retain quality teachers, particularly in comparison to other professions requiring similar educational credentials. The affordability crisis contributes to rising teacher workload as existing staff cover vacancies and expanding class sizes. This structural challenge threatens the long-term sustainability of Irish education quality and student outcomes if not addressed through improved compensation and working conditions.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/"
+          }
+        ],
+        "tags": [
+          "education",
+          "economy",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-07T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US Vice President Vance visits Hungary to support Orb\u00e1n before parliamentary elections",
+        "summary": "JD Vance traveled to Hungary on April 7 to demonstrate White House backing for Prime Minister Viktor Orb\u00e1n ahead of Sunday's parliamentary elections. The visit signals strong US support for Orb\u00e1n's nationalist government at a critical political moment. Analysts suggest the timing reflects Trump administration alignment with Orb\u00e1n's governance model. The visit comes amid geopolitical tensions in the region, including the discovery of explosives near a Serbian gas pipeline carrying Russian fuel. Orb\u00e1n's government has been a focal point of US-Europe relations under the Trump administration.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260407-jd-vance-backs-viktor-orban-ahead-of-high-stakes-hungary-parliamentary-elections"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/07/us-vice-president-vance-departs-for-hungary-in-support-of-orban"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU launches new Entry/Exit System at borders on April 10",
+        "summary": "The European Union's new Entry/Exit System (EES) will go live on April 10, modernizing border control procedures across EU member states. The system aims to streamline traveler registration and improve security screening at external borders. Implementation is expected to face initial technical challenges as the infrastructure comes online. EU officials have prepared guidance for travelers to understand the new procedures before the rollout. The system represents a significant modernization of Europe's border management infrastructure.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Explosives discovered near Serbian gas pipeline carrying Russian fuel to Hungary",
+        "summary": "Serbian authorities discovered explosives near the Balkan Stream pipeline, which carries Russian natural gas to Hungary and Central Europe. The discovery occurred days before Hungary's parliamentary elections and triggered emergency meetings between Serbian and Hungarian leadership. Russian officials claimed Ukraine planted the explosives without providing evidence, while Ukrainian sources denied involvement. The incident raises concerns about potential sabotage during a politically sensitive period in the region. The pipeline is a critical energy supply route for Hungary and underscores broader geopolitical tensions in Eastern Europe.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/explosives-found-by-pipeline-to-hungary-says-serbia-s-president"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/06/serbia-looks-for-pipeline-sabotage-plot-culprit-as-vances-hungary-visit-nears"
+          }
+        ],
+        "tags": [
+          "defence",
+          "energy",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Germany's new military service act tightens controls on extended foreign travel",
+        "summary": "Germany implemented changes to its military service regulations requiring men aged 17-45 to obtain authorization before undertaking extended stays abroad. The revised act reflects broader European defense spending increases and military readiness assessments amid geopolitical uncertainty. The regulation change signals Germany's commitment to strengthening its armed forces and workforce management. The new rules apply to a broad age range and represent a shift in European military policy. The changes are part of Germany's broader defense modernization efforts.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/06/going-abroad-what-will-germanys-new-military-service-act-actually-change"
+          }
+        ],
+        "tags": [
+          "defence",
+          "governance",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Jet fuel rationing implemented at four Italian airports amid energy crisis",
+        "summary": "Northern Italian airports have implemented fuel rationing protocols affecting aviation operations. Four major airports are prioritizing long-haul and essential medical flights while restricting other services due to supply constraints. The rationing reflects broader European energy challenges stemming from global supply disruptions. Airport authorities expect the restrictions to continue through the crisis period, impacting passenger services and cargo operations. The measures highlight Europe's vulnerability to energy supply volatility.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/06/jet-fuel-crisis-rationing-triggered-at-four-airports-in-italy"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Spain reaches historic jobs record with 22 million social security contributors",
+        "summary": "Spain achieved a record number of social security contributors in March 2026, reaching 22 million enrollments. Easter holiday employment gains exceeded 211,000 new positions across the economy. The milestone represents significant economic recovery in Spain following previous downturns. The strong jobs growth reflects improved business confidence and consumer spending in the Spanish economy. Employment gains were broad-based across multiple sectors.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/04/06/spain-breaks-jobs-record-with-22-million-social-security-contributors"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Migrant boat capsizes in Central Mediterranean with over 70 feared dead",
+        "summary": "A vessel carrying approximately 105 migrants capsized in the Central Mediterranean near Libya, resulting in significant loss of life. Recovery operations recovered only two bodies and 32 survivors, with over 70 people feared dead or missing. The incident occurred during Easter period when migration pressures remain high across Mediterranean routes. The tragedy highlights ongoing dangers faced by migrants attempting Mediterranean crossings. The incident underscores the humanitarian crisis at Europe's southern maritime borders.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260405-two-dead-dozens-missing-after-migrant-boat-capsizes-in-mediterranean"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/05/more-than-70-people-feared-dead-after-migrant-boat-capsizes-in-the-central-mediterranean"
+          }
+        ],
+        "tags": [
+          "migration",
+          "humanitarian",
+          "governance"
+        ]
+      },
+      {
+        "headline": "UK doctors strike disrupts NHS services as six-day industrial action begins",
+        "summary": "A six-day doctors' strike began on April 6, creating significant disruptions to National Health Service (NHS) operations in England. The NHS advised patients to use emergency services only when absolutely necessary and to attend confirmed appointments. Strike action reflects ongoing disputes between medical professionals and government over pay and working conditions. The walkout affects routine care and elective procedures across the health system. The industrial action underscores healthcare labor tensions across Europe.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c8ej461k3e5o"
+          }
+        ],
+        "tags": [
+          "health",
+          "politics",
+          "governance"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-07T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump threatens to destroy Iran's infrastructure as Strait of Hormuz deadline looms",
+        "summary": "US President Donald Trump has escalated military pressure on Iran with explicit threats to bomb power plants and bridges unless Tehran reopens the Strait of Hormuz before his April 8 deadline. Defense Secretary Pete Hegseth announced that strikes on Iran are increasing in intensity and scale. The ultimatum comes as Iran continues to reject ceasefire proposals and US forces conduct coordinated operations with Israeli forces. Markets have reacted to the crisis with oil prices surging and currency volatility as investors assess the risk of further escalation. The Strait of Hormuz remains critical global infrastructure, with approximately one-third of world maritime oil trade passing through the waterway.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Artemis II astronauts break Apollo 13 record for farthest human travel from Earth",
+        "summary": "NASA's Artemis II mission has achieved a historic milestone as four astronauts traveled farther from Earth than any humans since the Apollo program, breaking the distance record set by Apollo 13 in 1970. The crew has successfully navigated the far side of the Moon and experienced communication blackout periods as they pass behind the lunar body. The mission represents a crucial test of systems and procedures for future human lunar landings planned by 2028. The astronauts have transmitted stunning photographs from their journey, providing valuable data about lunar regions rarely witnessed by human observers. This achievement underscores progress in NASA's Artemis program aimed at establishing sustained human presence on the Moon.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/clye6j0g840o"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/06/nx-s1-5775639/artemis-astronauts-moon-observation-nasa-human-eye"
+          }
+        ],
+        "tags": [
+          "technology",
+          "space"
+        ]
+      },
+      {
+        "headline": "Iran conflict disrupts global medical supply chain, creating healthcare shortages",
+        "summary": "Medical supplies destined for clinics across Asia and Africa are stranded in Dubai as the Iran-US-Israel conflict disrupts international shipping routes and logistics networks. Healthcare facilities worldwide are facing critical shortages of essential medications and medical equipment due to delayed deliveries and supply chain bottlenecks. The disruptions highlight the fragility of global healthcare infrastructure dependent on smooth international trade flows through the Middle East. Airlines have begun trimming schedules and carrying extra fuel as aviation supply chains tighten in response to the conflict. The ripple effects are extending to developed and developing nations alike, with potential implications for patient care and public health responses.",
+        "sources": [
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/06/nx-s1-5775543/medical-supplies-stuck-dubai-clinics-world-face-shortages"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy",
+          "health"
+        ]
+      },
+      {
+        "headline": "Regional powers coordinate military response as Lebanon and Gaza escalation deepens",
+        "summary": "Hezbollah and Yemen's Houthis have joined Iran in launching coordinated strikes against Israel, marking significant regional escalation and alliance-building among anti-Israel armed groups. Israeli forces continue extensive bombardment campaigns across Lebanon and Gaza, with reported strikes killing dozens of civilians including near schools and residential areas. Defense analysts report that Israeli military operations are extending into ground offensives across southern Lebanon, indicating a shift toward more sustained combat operations. The coordination between Iran, Hezbollah, and Houthi forces signals a broader regional conflict dynamic with multiple fronts and overlapping military actors. The escalation has prompted international diplomatic concerns and warnings of further humanitarian crises across the region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c77md512n71o"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "SpaceX plans IPO roadshow for early June as private space industry expands",
+        "summary": "SpaceX has announced plans for an initial public offering with an early June roadshow targeting, marking a major milestone for the private space industry and CEO Elon Musk. The IPO filing details the company's growing commercial operations and technological achievements in reusable rocket technology and satellite deployment. The offering comes amid expanding private sector participation in space exploration and growing investor appetite for aerospace and technology companies. SpaceX's valuation and IPO plans are expected to influence broader investment trends in the commercial space sector. The company's public listing would represent one of the largest technology IPOs in recent years and signal investor confidence in private space ventures.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Samsung reports eightfold profit jump driven by surging AI chip demand",
+        "summary": "Samsung Electronics has announced a dramatic jump in quarterly profits, with earnings rising eightfold as artificial intelligence chip demand drives semiconductor prices higher across the market. The company's results reflect broader industry momentum around AI adoption and the increased computing power requirements for machine learning applications. Samsung's strong performance contrasts with broader economic uncertainty and provides evidence that technology companies positioned in AI infrastructure are seeing significant growth. Broadcom has also announced a long-term partnership with Google to develop custom AI chips, indicating ongoing consolidation and partnerships in the semiconductor industry. The surge in AI-related chip sales is reshaping the technology sector's financial landscape.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Measles outbreak kills over 100 children in Bangladesh, sparking emergency vaccination efforts",
+        "summary": "Bangladesh is responding to a public health crisis as a measles outbreak has claimed more than 100 lives in a single month, with the majority of fatalities occurring among children. Health authorities have initiated emergency immunization campaigns to halt transmission and protect vulnerable populations across affected regions. The outbreak highlights challenges in vaccination coverage and disease surveillance in parts of Asia where measles remains a significant public health threat. The rapid mortality rate and scale of the outbreak underscore the importance of sustained immunization programs and disease monitoring infrastructure. International health organizations are monitoring the situation for potential regional spread.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Nine Indian police officers sentenced to death in custody death case",
+        "summary": "An Indian court has sentenced nine police officers to death in connection with the custodial deaths of a father and son arrested in 2020 on suspicion of breaching COVID-19 lockdown restrictions. The case represents a significant ruling on police accountability in India and highlights ongoing concerns about custodial violence and judicial oversight of law enforcement. The deaths occurred during the pandemic when COVID-related enforcement sometimes resulted in aggressive police actions. The sentence reflects judicial determination to prosecute officers responsible for deaths in police custody, an issue long highlighted by human rights organizations in India. The verdict underscores international scrutiny of police conduct and criminal justice systems in South Asia.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ce8l0md9gl1o"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-07T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Trump threatens to destroy Iran's infrastructure as Strait of Hormuz deadline looms",
+      "summary": "US President Donald Trump has escalated military pressure on Iran with explicit threats to bomb power plants and bridges unless Tehran reopens the Strait of Hormuz before his April 8 deadline. Defense Secretary Pete Hegseth announced that strikes on Iran are increasing in intensity and scale. The ultimatum comes as Iran continues to reject ceasefire proposals and US forces conduct coordinated operations with Israeli forces. Markets have reacted to the crisis with oil prices surging and currency volatility as investors assess the risk of further escalation. The Strait of Hormuz remains critical global infrastructure, with approximately one-third of world maritime oil trade passing through the waterway.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Artemis II astronauts break Apollo 13 record for farthest human travel from Earth",
+      "summary": "NASA's Artemis II mission has achieved a historic milestone as four astronauts traveled farther from Earth than any humans since the Apollo program, breaking the distance record set by Apollo 13 in 1970. The crew has successfully navigated the far side of the Moon and experienced communication blackout periods as they pass behind the lunar body. The mission represents a crucial test of systems and procedures for future human lunar landings planned by 2028. The astronauts have transmitted stunning photographs from their journey, providing valuable data about lunar regions rarely witnessed by human observers. This achievement underscores progress in NASA's Artemis program aimed at establishing sustained human presence on the Moon.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/clye6j0g840o"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/06/nx-s1-5775639/artemis-astronauts-moon-observation-nasa-human-eye"}
+      ],
+      "tags": ["technology", "space"]
+    },
+    {
+      "headline": "Iran conflict disrupts global medical supply chain, creating healthcare shortages",
+      "summary": "Medical supplies destined for clinics across Asia and Africa are stranded in Dubai as the Iran-US-Israel conflict disrupts international shipping routes and logistics networks. Healthcare facilities worldwide are facing critical shortages of essential medications and medical equipment due to delayed deliveries and supply chain bottlenecks. The disruptions highlight the fragility of global healthcare infrastructure dependent on smooth international trade flows through the Middle East. Airlines have begun trimming schedules and carrying extra fuel as aviation supply chains tighten in response to the conflict. The ripple effects are extending to developed and developing nations alike, with potential implications for patient care and public health responses.",
+      "sources": [
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/06/nx-s1-5775543/medical-supplies-stuck-dubai-clinics-world-face-shortages"},
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["humanitarian", "economy", "health"]
+    },
+    {
+      "headline": "Regional powers coordinate military response as Lebanon and Gaza escalation deepens",
+      "summary": "Hezbollah and Yemen's Houthis have joined Iran in launching coordinated strikes against Israel, marking significant regional escalation and alliance-building among anti-Israel armed groups. Israeli forces continue extensive bombardment campaigns across Lebanon and Gaza, with reported strikes killing dozens of civilians including near schools and residential areas. Defense analysts report that Israeli military operations are extending into ground offensives across southern Lebanon, indicating a shift toward more sustained combat operations. The coordination between Iran, Hezbollah, and Houthi forces signals a broader regional conflict dynamic with multiple fronts and overlapping military actors. The escalation has prompted international diplomatic concerns and warnings of further humanitarian crises across the region.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c77md512n71o"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "SpaceX plans IPO roadshow for early June as private space industry expands",
+      "summary": "SpaceX has announced plans for an initial public offering with an early June roadshow targeting, marking a major milestone for the private space industry and CEO Elon Musk. The IPO filing details the company's growing commercial operations and technological achievements in reusable rocket technology and satellite deployment. The offering comes amid expanding private sector participation in space exploration and growing investor appetite for aerospace and technology companies. SpaceX's valuation and IPO plans are expected to influence broader investment trends in the commercial space sector. The company's public listing would represent one of the largest technology IPOs in recent years and signal investor confidence in private space ventures.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["technology", "economy"]
+    },
+    {
+      "headline": "Samsung reports eightfold profit jump driven by surging AI chip demand",
+      "summary": "Samsung Electronics has announced a dramatic jump in quarterly profits, with earnings rising eightfold as artificial intelligence chip demand drives semiconductor prices higher across the market. The company's results reflect broader industry momentum around AI adoption and the increased computing power requirements for machine learning applications. Samsung's strong performance contrasts with broader economic uncertainty and provides evidence that technology companies positioned in AI infrastructure are seeing significant growth. Broadcom has also announced a long-term partnership with Google to develop custom AI chips, indicating ongoing consolidation and partnerships in the semiconductor industry. The surge in AI-related chip sales is reshaping the technology sector's financial landscape.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["technology", "economy"]
+    },
+    {
+      "headline": "Measles outbreak kills over 100 children in Bangladesh, sparking emergency vaccination efforts",
+      "summary": "Bangladesh is responding to a public health crisis as a measles outbreak has claimed more than 100 lives in a single month, with the majority of fatalities occurring among children. Health authorities have initiated emergency immunization campaigns to halt transmission and protect vulnerable populations across affected regions. The outbreak highlights challenges in vaccination coverage and disease surveillance in parts of Asia where measles remains a significant public health threat. The rapid mortality rate and scale of the outbreak underscore the importance of sustained immunization programs and disease monitoring infrastructure. International health organizations are monitoring the situation for potential regional spread.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o"}
+      ],
+      "tags": ["health", "humanitarian"]
+    },
+    {
+      "headline": "Nine Indian police officers sentenced to death in custody death case",
+      "summary": "An Indian court has sentenced nine police officers to death in connection with the custodial deaths of a father and son arrested in 2020 on suspicion of breaching COVID-19 lockdown restrictions. The case represents a significant ruling on police accountability in India and highlights ongoing concerns about custodial violence and judicial oversight of law enforcement. The deaths occurred during the pandemic when COVID-related enforcement sometimes resulted in aggressive police actions. The sentence reflects judicial determination to prosecute officers responsible for deaths in police custody, an issue long highlighted by human rights organizations in India. The verdict underscores international scrutiny of police conduct and criminal justice systems in South Asia.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ce8l0md9gl1o"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    }
+  ]
+}

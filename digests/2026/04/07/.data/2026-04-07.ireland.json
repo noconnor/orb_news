@@ -1,0 +1,78 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-07T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Hospital violence incidents surge to 20,000 amid overcrowding and delays",
+      "summary": "A new investigation reveals that Irish hospitals experienced approximately 20,000 incidents of violence and aggression in the past year, with doctor and nursing unions attributing the rise to severe overcrowding and treatment delays. The surge highlights growing tensions between patients, families, and healthcare staff struggling under capacity pressures in the Irish health system. Healthcare workers report that long waiting times and overcrowded conditions create a volatile environment that puts staff at increased risk of assault. Unions are calling for urgent government intervention to address staffing levels, bed capacity, and patient flow through emergency departments. This escalating crisis underscores the broader challenges facing Ireland's healthcare infrastructure.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/investigates-incidents-of-aggression-and-violence-in-hospitals-6999235-Apr2026/"}
+      ],
+      "tags": ["health", "social", "crisis"]
+    },
+    {
+      "headline": "Credit unions expand aggressively into mortgage market to challenge traditional banks",
+      "summary": "Ireland's credit union sector has announced substantial measures to increase its presence in the mortgage market, directly competing with traditional banking institutions. This expansion reflects growing consumer demand for alternative lending options and credit unions' focus on community-based financial services. The move could reshape Ireland's residential lending landscape by offering borrowers more competitive rates and accessibility outside traditional banks. Credit unions, which traditionally focused on personal and business loans, are now positioning themselves as viable mortgage providers for Irish homebuyers. The initiative comes amid ongoing debates about housing affordability and the role of alternative financial institutions in Ireland's housing market.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0407/1566943-credit-union-mortgage/"}
+      ],
+      "tags": ["economy", "housing", "finance"]
+    },
+    {
+      "headline": "Government announces €250 million fuel cost relief package with extended allowance payments",
+      "summary": "The Irish government has unveiled a €250 million package aimed at reducing fuel costs and extending fuel allowance payments for an additional four weeks. This financial intervention is designed to ease the burden on Irish households struggling with energy and heating expenses. The expanded allowance period provides targeted support to vulnerable populations dependent on fuel assistance during the transition into warmer months. The package reflects government concern about cost-of-living pressures facing Irish families and demonstrates fiscal commitment to addressing energy affordability. The relief measures are expected to benefit low-income households and pensioners most significantly.",
+      "sources": [
+        {"name": "BreakingNews.ie", "url": "https://www.breakingnews.ie/"}
+      ],
+      "tags": ["economy", "social", "government"]
+    },
+    {
+      "headline": "ASTI convention to debate AI use in schools, teacher pay, and workload concerns",
+      "summary": "The Association of Secondary Teachers, Ireland will address three critical issues at its upcoming annual convention: the integration and regulation of artificial intelligence in educational settings, educator compensation levels, and the escalating workload facing secondary school teachers. The convention signals growing concern among Irish educators about how rapidly changing technology is reshaping classroom dynamics without adequate teacher training or policy frameworks. Teacher pay remains a contentious issue in Irish education, with recruitment and retention challenges attributed partly to compensation levels relative to other professions. The workload debate reflects broader concerns about class sizes, administrative burdens, and the emotional labour required in modern teaching. These discussions will likely influence the union's bargaining positions in negotiations with government and school management.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/education/2026/0407/1566925-ai-pay-workload-to-be-debated-at-asti-convention/"}
+      ],
+      "tags": ["education", "politics", "social"]
+    },
+    {
+      "headline": "40% of parents prefer multi-denominational schools over religious institution model",
+      "summary": "A Department of Education survey reveals that approximately 40% of parents with children in religiously-affiliated schools would prefer their children to attend multi-denominational institutions instead. The findings suggest a significant shift in parental preferences regarding school ethos and religious affiliation in Irish education. This data supports ongoing policy discussions about school patronage reform and the role of religious identity in publicly-funded education. The survey reflects broader societal changes in Irish attitudes toward religion and indicates growing demand for secular or multi-faith educational environments. The results will likely inform future government policy decisions on school patronage, curriculum, and the balance between religious and secular education in Ireland.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0407/1566964-school-patronage-survey/"}
+      ],
+      "tags": ["education", "politics", "social"]
+    },
+    {
+      "headline": "Former Fine Gael minister Seán Barrett dies at age 81",
+      "summary": "Seán Barrett, a former Fine Gael minister, has passed away at the age of 81, marking the loss of a notable figure in Irish political history. Barrett's political career spanned several decades and included ministerial roles in various government administrations. His death has prompted reflection on his contributions to Irish public life and political service. The passing comes as the Irish political landscape continues to evolve with generational changes in leadership and representation. Tributes from colleagues and peers will likely highlight his political legacy and impact on Irish governance during his time in office.",
+      "sources": [
+        {"name": "BreakingNews.ie", "url": "https://www.breakingnews.ie/"}
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Hairdressers across Northern Ireland trained to recognize signs of coercive control",
+      "summary": "The Police Service of Northern Ireland launched the Behind the Smile initiative, training hairdressers to identify subtle indicators of coercive control and domestic abuse. The program recognizes that salon visits provide an opportunity for stylists to observe behavioral and emotional warning signs that might indicate intimate partner abuse. Hairdressers are taught how to respond safely and supportively when they suspect a client is experiencing coercive control. This innovative approach extends domestic abuse awareness and intervention potential beyond traditional healthcare and social service settings. The cross-border Irish initiative demonstrates creative collaboration between law enforcement and community professionals to combat domestic violence.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/social-affairs/2026/04/07/its-the-subtle-signs-hairdressers-in-north-get-police-training-to-spot-coercive-control/"},
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/world/2026/0407/1566969-trump-trans-rights/"}
+      ],
+      "tags": ["social", "crime", "defence"]
+    },
+    {
+      "headline": "Teaching profession faces affordability crisis with recruitment and retention challenges",
+      "summary": "Unions representing Irish teachers are warning that teaching is becoming financially inaccessible to many individuals, creating significant recruitment and retention challenges in the Irish education system. The teaching profession's cost of entry—including required qualifications, training, and often years of low initial pay—is deterring prospective educators. Current salaries are reportedly insufficient to attract and retain quality teachers, particularly in comparison to other professions requiring similar educational credentials. The affordability crisis contributes to rising teacher workload as existing staff cover vacancies and expanding class sizes. This structural challenge threatens the long-term sustainability of Irish education quality and student outcomes if not addressed through improved compensation and working conditions.",
+      "sources": [
+        {"name": "BreakingNews.ie", "url": "https://www.breakingnews.ie/"}
+      ],
+      "tags": ["education", "economy", "social"]
+    }
+  ]
+}
