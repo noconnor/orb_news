@@ -1,0 +1,79 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-08T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Trump agrees to two-week ceasefire with Iran as global tensions ease",
+      "summary": "The Trump administration agreed to suspend military operations against Iran for two weeks, contingent on Iran reopening the Strait of Hormuz, marking a significant reversal from earlier threats to destroy Iranian infrastructure. The ceasefire announcement has sparked positive responses from world leaders and markets, with Pakistan playing a crucial diplomatic role in brokering the agreement. Oil prices initially plunged below $100 per barrel following the announcement, though they rebounded as markets assessed the fragile nature of the truce. The agreement has global implications for energy supply, stock markets, and regional stability, though concerns remain about the sustainability of the peace effort. Multiple nations have called for this ceasefire to serve as a foundation for lasting peace negotiations in the Middle East.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cwyvp55xrlro"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/07/nx-s1-5776640/trump-ceasefire-deadline-for-launching-a-massive-escalation-in-the-iran-war"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Israel excludes Lebanon from US-Iran ceasefire, escalating regional tensions",
+      "summary": "Israeli Prime Minister Netanyahu clarified that the US-Iran ceasefire agreement does not extend to operations against Lebanese targets, signaling Israel's intent to maintain military pressure in another theater despite the broader regional truce. This exclusion raises concerns about potential escalation on Israel's northern border and complicates international efforts to establish comprehensive regional peace. The move reveals limitations in the scope of the ceasefire and highlights competing interests among regional actors. Lebanon faces ongoing displacement crises and humanitarian challenges, making the continuation of Israeli operations particularly destabilizing for the region. The exclusion underscores the complexity of Middle Eastern diplomacy and the difficulty of achieving comprehensive regional settlements.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cwyvp55xrlro"}
+      ],
+      "tags": ["conflict", "geopolitics", "diplomacy"]
+    },
+    {
+      "headline": "Pakistan emerges as critical diplomatic broker in securing fragile US-Iran ceasefire",
+      "summary": "Pakistan played a pivotal role in negotiating the two-week ceasefire between the United States and Iran, leveraging its historic relationships with Tehran to bring both sides to the negotiating table. The country's diplomatic initiative came as a potential deadline approached, narrowly avoiding an escalation that could have destabilized the broader region and global energy markets. Pakistan's success highlights its importance as a geopolitical actor in South and Central Asian affairs and demonstrates the value of regional expertise in international diplomacy. The breakthrough also positioned Pakistan as a potential mediator for longer-term peace negotiations, though challenges remain. The agreement reflects Pakistan's strategic interest in avoiding another major regional conflict that could impact its own security and economy.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cj401qvgg19o"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east"}
+      ],
+      "tags": ["diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Global oil markets surge and stocks rally on Iran ceasefire, reversing energy crisis fears",
+      "summary": "Following the announcement of the two-week US-Iran ceasefire and the reopening of the Strait of Hormuz, oil prices initially plummeted below $100 per barrel, significantly down from the near-record highs of approximately $150 during peak tensions. Global stock markets responded positively, with equities surging on reduced recession fears as the acute energy supply crisis appeared to ease. The agreement offers temporary relief from soaring jet fuel costs that prompted airlines to implement checked baggage fee increases and alleviates pressure on central banks navigating inflation concerns. However, analysts caution that fuel prices are expected to remain elevated for months even as shipping resumes, and the fragility of the two-week truce creates ongoing price volatility. The broader economic impact includes reduced wealth destruction and manufacturing concerns tied to the previous oil shock scenario.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c8r40y3rv75o"}
+      ],
+      "tags": ["economy", "trade"]
+    },
+    {
+      "headline": "Russia and China block UN resolution aimed at stabilizing Strait of Hormuz",
+      "summary": "Russia and China jointly vetoed a United Nations resolution designed to address maritime stability and reopen the Strait of Hormuz during the Iran crisis, demonstrating their willingness to block Western-backed initiatives even when global energy security is at stake. The veto reflected geopolitical tensions beyond the immediate Iran-US conflict, highlighting the broader competition between major powers over Middle Eastern influence and international governance. The failed resolution underscores limitations of the UN Security Council in responding rapidly to global crises when permanent members pursue conflicting strategic interests. Despite the diplomatic setback, the bilateral US-Iran ceasefire agreement was reached through parallel negotiations, bypassing the need for Security Council approval. The incident illustrates ongoing divisions between Western and non-Western powers on Middle Eastern policy.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Artemis II astronauts complete historic lunar flyby, observing previously unseen moon regions",
+      "summary": "The Artemis II spacecraft conducted a successful lunar flyby that broke the Apollo 13 distance record and provided astronauts with views of previously unexplored lunar regions. The mission's scientific achievements, including observations of a solar eclipse from space and detailed study of the moon's far side, provide critical data for future lunar landing missions and support NASA's long-term exploration strategy. The successful completion of this ambitious maneuver demonstrates advanced spaceflight capabilities and international cooperation in human space exploration. These observations will help refine landing site selection and lunar resource mapping for future crewed missions. The Artemis program represents a significant milestone in humanity's return to lunar exploration after a 50+ year gap since the Apollo era.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/07/nx-s1-5776824/artemis-astronauts-moon-observation-nasa-human-eye"}
+      ],
+      "tags": ["technology", "science"]
+    },
+    {
+      "headline": "Australia charges former soldier with five war crimes murders in Afghanistan",
+      "summary": "Australia has charged a former soldier with five counts of war crimes related to alleged murders committed during military operations in Afghanistan, marking only the second such prosecution in Australian military history. The case represents a rare instance of a developed nation holding its own forces accountable for conduct during counterinsurgency operations, setting an important precedent for international humanitarian law. The charges underscore continuing investigations into potential violations during Australia's two-decade military presence in Afghanistan and reflect growing global scrutiny of military conduct. Such prosecutions are crucial for establishing accountability mechanisms and deterring future violations in armed conflicts. The case demonstrates that military rank and operational necessity do not provide legal immunity for alleged war crimes.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/07/g-s1-116644/australia-charges-ex-soldier-with-5-war-crime-murders-in-afghanistan"}
+      ],
+      "tags": ["conflict", "humanitarian", "diplomacy"]
+    }
+  ]
+}

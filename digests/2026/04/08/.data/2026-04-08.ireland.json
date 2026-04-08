@@ -1,0 +1,64 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-08T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Fuel Price Protests Cause Major Disruptions Across Ireland",
+      "summary": "The second day of nationwide fuel price protests continued on April 8, with vehicle convoys and blockades causing significant traffic disruptions across Dublin and multiple towns and motorways. Protesters blocked major routes including O'Connell Street, with blockades affecting Luas services at O'Connell Bridge and disrupting Dublin Bus routes. The demonstrations are in response to elevated fuel prices attributed to ongoing Middle East tensions. Organisers signalled further action was planned, with some protesters stating they do not plan to leave Dublin until meeting with Government Ministers. The disruptions highlighted ongoing public anger over fuel costs and government inaction on the issue.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0408/1567128-fuel-protests/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/dublin-traffic-protest-luas-bus-disruptions-7006004-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/07/fuel-protests-set-to-cause-disruption-on-major-routes-across-ireland-today/"},
+        {"name": "BreakingNews.ie", "url": "https://breakingnews.ie"}
+      ],
+      "tags": ["politics", "transport", "economy"]
+    },
+    {
+      "headline": "Appeal for Information on Murder of Emer O'Loughlin 21 Years On",
+      "summary": "Irish authorities have renewed an appeal for information regarding the murder of 21-year-old Emer O'Loughlin, whose remains were discovered in a burned-out mobile home in County Clare over two decades ago. The cold case continues to be actively investigated, with gardai seeking any information from the public that might help identify and bring to justice those responsible for her death. The case remains one of Ireland's unsolved murders and authorities hope renewed public attention may generate new leads. Detectives have maintained that someone in the community has knowledge of the circumstances surrounding her death.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/07/appeal-for-information-on-emer-oloughlin-21-years-after-murder/"}
+      ],
+      "tags": ["crime", "justice"]
+    },
+    {
+      "headline": "Dubliner Imprisoned for Defrauding Over 100 US Victims in Home Repair Scam",
+      "summary": "An Irish resident has been sent to prison for orchestrating an elaborate fraud scheme that targeted over 100 victims in the United States, netting more than $2.5 million USD. The defendant exploited a tourist visa to enter the US and systematically defrauded victims by falsely promising home repair services. The scheme represents a significant cross-border cybercrime operation with Irish connections. This case highlights the growing threat of international fraud networks operating from Ireland targeting foreign nationals. The sentencing sends a message about Irish law enforcement cooperation with international authorities in prosecuting sophisticated fraud schemes.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/07/dubliner-sent-to-prison-for-conning-over-100-us-victims-into-forking-out-for-home-repairs/"}
+      ],
+      "tags": ["crime", "economy"]
+    },
+    {
+      "headline": "ASTI Union Members Face Exclusion from Promotional Teaching Posts",
+      "summary": "Over 20,000 members of the Association of Secondary Teachers, Ireland (ASTI) union face potential exclusion from promotional positions due to ongoing disputes over Leaving Certificate reforms. The contentious issue surfaced at the union's annual conference, with significant implications for career progression for affected teachers. The dispute reflects broader tensions within the Irish education system regarding curriculum reform implementation and teacher representation in policy decisions. The ASTI represents a large portion of Ireland's secondary school educators, making this a significant industrial relations matter. The exclusion could impact educational quality and staff morale across schools.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/04/07/education-more-than-20000-asti-union-members-set-to-be-excluded-from-promotional-posts/"}
+      ],
+      "tags": ["politics", "health", "social"]
+    },
+    {
+      "headline": "E-Bikes from Unregulated Retailers Pose Increasing Fire Safety Hazard",
+      "summary": "Ireland is experiencing record-high numbers of e-bike fires caused by cheap, unregulated e-bikes purchased from online retailers without proper safety standards. Concerns have been raised by authorities and safety experts including political figures, who warn that substandard batteries and electrical components in these devices pose a serious fire risk to homes and communities. The issue reflects gaps in online retail regulation and the risks of uncontrolled e-commerce from overseas suppliers. Public safety campaigns are needed to educate consumers about the dangers of purchasing from unregulated sources. The trend highlights a growing product safety challenge facing Irish households.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/ebikes-fires-ireland-britain-ciaran-cannon-warning-7005649-Apr2026/"}
+      ],
+      "tags": ["safety", "social", "economy"]
+    },
+    {
+      "headline": "Irish Sugar Tax Loses Effectiveness Amid Inflation and Market Changes",
+      "summary": "Research indicates that Ireland's 2018 sugar tax on beverages has lost its intended effectiveness due to inflation eroding the tax's impact and changing product distribution methods in the market. The tax, originally introduced as a public health measure to reduce sugar consumption, now requires revision to maintain its efficacy as economic conditions shift. Researchers argue that without adjustments, the policy will fail to achieve its health objectives of reducing obesity and related health issues among the Irish population. The findings prompt discussion about periodic review mechanisms for tax policies to ensure they remain fit for purpose. This analysis suggests that policy makers must adapt regulatory frameworks to changing economic realities.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41823494.html"}
+      ],
+      "tags": ["health", "economy", "politics"]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-08T12:00:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Hungary's April 12 election poses critical test for EU unity on Ukraine aid and energy policy",
+      "summary": "Hungary will hold parliamentary elections on April 12, 2026, with Prime Minister Viktor Orbán facing his strongest challenger yet in Péter Magyar's center-right Tisza party, which leads in polls by up to 19 percentage points. The election carries major implications for European Union cohesion, as Orbán has consistently blocked common EU foreign policy, energy autonomy, and a critical €90 billion loan to Ukraine. No single EU member state has stymied Brussels' ability to act collectively as much as Hungary, with Orbán continuing to oppose shared defense mechanisms, EU asylum policies, and Ukraine's EU membership. The outcome will directly affect Brussels' ability to maintain unified geopolitical positioning against Russia and support for Ukraine. Observers view this as one of the most significant political moments in recent European history.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cr413wnk3klo"},
+        {"name": "France24", "url": "https://www.france24.com/en/tv-shows/the-debate/20260407-europe-s-future-on-the-ballot-hungary-s-orban-in-tight-re-election-race"}
+      ],
+      "tags": ["elections", "EU", "governance"]
+    },
+    {
+      "headline": "Hungary's Orbán continues blocking €90 billion EU loan to Ukraine as Zelenskyy warns of mid-May funding crisis",
+      "summary": "Ukrainian President Volodymyr Zelenskyy expressed frustration at Viktor Orbán's continued blockade of the €90 billion EU loan package designed to support Ukraine's military and economic needs, with €45 billion allocated for 2026. Zelenskyy stated that 'one person in Europe is standing against all of Europe—simply to please Moscow,' referencing the Hungarian prime minister's veto. EU officials expect Orbán to maintain the blockade until after Hungary's April 12 elections, as opposition to Ukraine has become central to his campaign. Hungarian authorities have issued an ultimatum that funds will only be released if Russian oil supplies via the Druzhba pipeline are restored. At current spending levels, Ukraine could run out of foreign assistance by mid-May, forcing painful cuts to public services.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/french-nationals-leave-iran-after-more-than-three-years-in-detention"},
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/04/01/eu-readies-first-payment-to-ukraine-as-soon-as-hungary-lifts-veto-on-90bn-loan"}
+      ],
+      "tags": ["EU", "Ukraine", "economy"]
+    },
+    {
+      "headline": "US and Iran agree to two-week truce as Trump administration pulls back on military threats",
+      "summary": "The United States and Iran announced a two-week ceasefire agreement after the incoming Trump administration delayed threatened strikes on Iranian infrastructure. The agreement includes restoring maritime passage through the Strait of Hormuz, a critical global energy shipping route. This development has significant implications for European energy markets and economic stability, as the conflict had previously triggered warnings from the EU about 'prolonged disruption' to energy supplies. Consumers globally have paid more than $100 billion in extra costs to fossil fuel companies since the conflict began. The ceasefire represents a major de-escalation in tensions that have threatened European energy security and broader geopolitical stability.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/08/us-and-iran-agree-to-two-week-truce-after-trump-pulls-back-on-threats"},
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cj401qvgg19o"}
+      ],
+      "tags": ["diplomacy", "defence", "economy"]
+    },
+    {
+      "headline": "French nationals released after more than three years imprisoned in Iran",
+      "summary": "Cécile Kohler and Jacques Paris, a French couple, have been released and are returning home after spending more than three years imprisoned in Iran on espionage charges. Their release followed French diplomatic efforts to secure their freedom. The case had drawn significant international attention and represented a point of tension between France and Iran. Their departure marks a diplomatic victory for French authorities and comes at a time of broader de-escalation between Western powers and Iran.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/clyxk5640wko"},
+        {"name": "France24", "url": "https://www.france24.com/en/french-nationals-leave-iran-after-more-than-three-years-in-detention"}
+      ],
+      "tags": ["diplomacy", "defence"]
+    },
+    {
+      "headline": "Pakistan's diplomatic efforts help secure Iran-US ceasefire agreement",
+      "summary": "Pakistan played a crucial diplomatic role in facilitating the two-week ceasefire agreement between the United States and Iran, leveraging its historic relationship with Iran to help broker the fragile agreement. Pakistan's involvement in the negotiation demonstrates the country's regional diplomatic influence and willingness to mediate between Western powers and Iran. The brokering of this agreement has implications for European security and energy stability, as the conflict resolution reduces tensions that had previously threatened global supply chains and energy markets critical to EU economies.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cj401qvgg19o"}
+      ],
+      "tags": ["diplomacy", "defence"]
+    },
+    {
+      "headline": "Poland's economy 42% larger due to EU membership, amid growing 'Polexit' sentiment",
+      "summary": "A new analysis by the Polish Economic Institute shows that Poland's economy is 42% larger than it would have been had the country not joined the European Union, demonstrating the substantial economic benefits of EU membership. However, this positive data comes amid growing political debate within Poland about the possibility of leaving the EU, with 'Polexit' sentiment now supported by up to a quarter of society in some polls. The findings highlight the economic value of EU integration while revealing internal political tensions and skepticism about EU membership in at least one significant member state. This trend reflects broader European concerns about cohesion and the sustainability of the EU project.",
+      "sources": [
+        {"name": "The Guardian", "url": "https://notesfrompoland.com/2026/04/07/polands-economy-42-larger-thanks-to-eu-membership-finds-new-study/"}
+      ],
+      "tags": ["EU", "economy", "governance"]
+    },
+    {
+      "headline": "Germany emerges as European leader in plug-in solar technology adoption",
+      "summary": "Germany has become Europe's leading country in the adoption and development of plug-in solar technology, a key component of the continent's transition toward renewable energy independence. The progress demonstrates Germany's commitment to energy autonomy and climate policy, particularly significant given Europe's strategic pivot away from Russian energy dependence. This development stands in contrast to other European nations that have been slower to adopt similar renewable technologies. Germany's leadership in plug-in solar represents a broader European effort to build sustainable energy infrastructure and reduce reliance on fossil fuels.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/2026/04/07/germany-has-become-a-leader-in-plug-in-solar-whats-taking-other-european-countries-so-long"}
+      ],
+      "tags": ["climate", "energy", "EU"]
+    }
+  ]
+}

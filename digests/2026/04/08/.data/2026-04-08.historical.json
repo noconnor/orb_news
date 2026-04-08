@@ -1,0 +1,46 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Trump and Iran Agree Two-Week Ceasefire, Strait of Hormuz Reopens",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "The Suez Crisis, the 1973 Oil Embargo, and the Tanker War",
+      "date_range": "1956 / 1973–1974 / 1984–1988",
+      "summary": "The disruption of a critical maritime chokepoint triggering global economic shock is a recurring pattern in post-war history. During the 1956 Suez Crisis, Egypt's nationalisation of the Suez Canal and the subsequent military intervention briefly closed a waterway carrying a third of Europe's oil imports, sending supply chains into turmoil before UN intervention restored passage. Nearly two decades later, the Arab Oil Embargo of 1973 demonstrated how political weaponisation of oil supply could trigger quadrupling prices, recession, and permanent shifts in Western energy policy within months. The Tanker War phase of the Iran-Iraq conflict (1984–1988) brought a still closer parallel: attacks on oil infrastructure and shipping in the Persian Gulf forced the United States to escort Kuwaiti tankers under American flags, sustained elevated insurance premiums on shipping, and proved that even limited disruption to Hormuz-adjacent waters could reshape global commodity markets. The 1990 oil price shock following Iraq's invasion of Kuwait showed once more how a regional military crisis could nearly double global crude prices in weeks.",
+      "parallel_analysis": "These precedents suggest that even a successful two-week ceasefire, like the temporary diplomatic pauses seen in the Tanker War era, may deliver only provisional relief — sustained normalisation requires political resolution, not just a halt in hostilities. Markets that rallied on Tuesday's announcement are pricing in optimism that history does not fully warrant.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Hungary's Election Tests EU Cohesion on Ukraine as Orbán's Veto Bites",
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "The Luxembourg Compromise and the Korean War Stalemate",
+      "date_range": "1965–1966 / 1950–1953",
+      "summary": "The weaponisation of veto rights within multilateral institutions to paralyse collective decision-making has deep precedent in European and international history. France's Empty Chair Crisis of 1965–1966 — in which Charles de Gaulle boycotted Council of Ministers meetings for seven months to block a transition to qualified majority voting — offers the closest structural parallel to Orbán's strategy: a single member state exploiting procedural rules to extract concessions and reshape the institution from within, rather than leaving it. The crisis was resolved by the Luxembourg Compromise, which effectively preserved the national veto for vital interests — a precedent that embedded the very unanimity rules Orbán now exploits. Further afield, the Korean War stalemate illustrated how prolonged military conflict, sustained by external power competition, can grind on long after the parties' strategic objectives have become unattainable, with external sponsors — in that case the US and China — determining the pace of any resolution.",
+      "parallel_analysis": "Ukraine's situation, where continued fighting depends on sustained Western financing now being throttled by a single EU veto, echoes the way Korean War logistics and political will in Washington shaped the conflict's duration. As in 1951–1953, the path to resolution runs not only through the battlefield but through the capitals of supporting nations — and their domestic politics.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Korean_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Netanyahu Says Israel's Operations in Lebanon Fall Outside Iran Ceasefire",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "The 1982 Lebanon War and the Tanker War",
+      "date_range": "1982–1985 / 1984–1988",
+      "summary": "Israel's insistence on maintaining military latitude in Lebanon even within the framework of a broader regional ceasefire is consistent with a pattern dating to the 1982 Lebanon War (Operation Peace for Galilee), in which Israel launched a full-scale invasion of Lebanon ostensibly to eliminate PLO military infrastructure, despite operating in a regional environment nominally governed by international mediation efforts. That war demonstrated how Israeli security calculations regarding Lebanon frequently operate on a different timeline and logic from whatever broader diplomatic processes are under way — Israeli forces remained in southern Lebanon for eighteen years following the initial 1982 invasion. The Tanker War (1984–1988) and the broader Iran-Iraq War of that era similarly illustrated how multiple overlapping conflicts in the Middle East could proceed simultaneously at different intensities, with ceasefires in one theatre doing little to cool hostilities in adjacent ones.",
+      "parallel_analysis": "The historical record suggests that Lebanon, caught between Israeli security imperatives and Iranian proxy strategy, has rarely benefited from diplomatic agreements struck between larger powers — and Tuesday's exclusion continues that pattern.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ]
+    }
+  ]
+}

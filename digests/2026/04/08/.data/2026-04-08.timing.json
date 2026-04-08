@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-08",
+  "update_type": "morning",
+  "steps": {
+    "setup": { "start": 1775624423, "end": 1775624431, "duration_s": 8 },
+    "gather": { "start": 1775624431, "end": 1775624532, "duration_s": 101 },
+    "digest": { "start": 1775624539, "end": 1775624803, "duration_s": 264 },
+    "audio": { "start": 1775624803, "end": 1775624913, "duration_s": 110 },
+    "commit": { "start": 1775624913, "end": 1775624919, "duration_s": 6 }
+  },
+  "total_duration_s": 496
+}
