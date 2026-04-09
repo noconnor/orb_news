@@ -1,0 +1,387 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "The Tanker War (1984-1988)",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "US and Iran agree to two-week ceasefire, ending month-long conflict"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israel launches massive strike on Lebanon, killing hundreds amid ceasefire controversy"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Trump criticizes NATO and signals potential withdrawal after Iran conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict' — 3 prior parallels, room for more. Must not reuse: The Tanker War (1984-1988), Iran-Iraq War (1980-1988), Operation Eagle Claw (1980)",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Australian decorated soldier charged with war crimes following historic investigation"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Artemis lunar programme'",
+      "existing_parallels": [
+        "Apollo 8 (1968)",
+        "Apollo 10 (1969)",
+        "Project Gemini (1961-1966)",
+        "Apollo 13 (1970)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Apollo_8",
+        "https://en.wikipedia.org/wiki/Apollo_10",
+        "https://en.wikipedia.org/wiki/Project_Gemini",
+        "https://en.wikipedia.org/wiki/Apollo_13"
+      ],
+      "matched_topic": "Artemis lunar programme",
+      "headline": "Artemis II astronauts capture historic Earthset photo from lunar orbit"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)",
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Pakistan's diplomatic role proves crucial in brokering US-Iran ceasefire"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict energy market shock'",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "Global oil markets stabilize as US-Iran ceasefire eases energy crisis concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict' — 3 prior parallels, room for more. Must not reuse: The Tanker War (1984-1988), Iran-Iraq War (1980-1988), Operation Eagle Claw (1980)",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Trump criticises NATO amid deepening tensions over Iran war support"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict' — 3 prior parallels, room for more. Must not reuse: The Tanker War (1984-1988), Iran-Iraq War (1980-1988), Operation Eagle Claw (1980)",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "France announces €36 billion defense spending increase amid NATO uncertainty"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Hungary Orban election authoritarian rule' — 1 prior parallels, room for more. Must not reuse: Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)",
+      "existing_parallels": [
+        "Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87"
+      ],
+      "matched_topic": "Hungary Orban election authoritarian rule",
+      "headline": "Hungary holds pivotal parliamentary election with electoral system favoring incumbent Orbán"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Russia-Ukraine oil infrastructure strikes' — 1 prior parallels, room for more. Must not reuse: Allied Oil Campaign of World War II (1944-1945)",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "France targets Russian 'shadow fleet' with stricter maritime penalties"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Suez Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "US-Iran ceasefire agreement creates economic ripple effects across Europe"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict' — 3 prior parallels, room for more. Must not reuse: The Tanker War (1984-1988), Iran-Iraq War (1980-1988), Operation Eagle Claw (1980)",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "French nationals released after nearly four years in Iranian detention"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Microplastics contamination extends to everyday household and medical products"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland named storm disruption' — 1 prior parallels, room for more. Must not reuse: Night of the Big Wind (1839)",
+      "existing_parallels": [
+        "Night of the Big Wind (1839)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind"
+      ],
+      "matched_topic": "Ireland named storm disruption",
+      "headline": "Fuel protests enter third day as tractor blockade of refinery branded 'act of national sabotage'"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "AI adoption in Irish firms likely to cause job losses, particularly among highly educated workers - ESRI"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Teachers demand substantial pay rises; Department of Education faces €500m deficit crisis"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Rise in violent and aggressive incidents reported at Irish maternity hospitals"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Creeslough families to meet Justice Minister Jim O'Callaghan"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Retired Garda superintendent charged with corruption and facilitating criminal organisation"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Bomb squad called to Director of Public Prosecutions office after suspicious package found"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Artemis lunar programme",
+      "historical_event": "Apollo 8 (1968)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Iran-US conflict energy market shock",
+      "historical_event": "The 1990 Oil Price Shock",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+    },
+    {
+      "story_topic": "Artemis lunar programme",
+      "historical_event": "Apollo 10 (1969)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_10"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Artemis lunar programme",
+      "historical_event": "Project Gemini (1961-1966)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Project_Gemini"
+    },
+    {
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II (1944-1945)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87"
+    },
+    {
+      "story_topic": "Ireland named storm disruption",
+      "historical_event": "Night of the Big Wind (1839)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw (1980)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+    },
+    {
+      "story_topic": "Artemis lunar programme",
+      "historical_event": "Apollo 13 (1970)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_13"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

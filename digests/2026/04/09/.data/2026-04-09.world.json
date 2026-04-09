@@ -1,0 +1,79 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-09T06:30:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US and Iran agree to two-week ceasefire, ending month-long conflict",
+      "summary": "The United States and Iran reached a provisional two-week ceasefire agreement, bringing an end to military operations that lasted over a month. The agreement was brokered with Pakistan's diplomatic involvement and represents a significant shift after the US and Israel launched coordinated attacks on Iran. Markets responded positively to the news, with oil prices plunging below $95 and global stock indices surging, including a 1,300-point rise in the Dow. However, tensions immediately emerged regarding Lebanon's inclusion in the ceasefire, with Israeli strikes killing at least 182-254 people in Lebanon hours after the agreement was announced, raising questions about the truce's durability and scope.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1pWZmNvY1BtUVZ4TnBhWXU4cXBYWjE5bGppRFREdDcweGp3ZUVPRVZWWDNRUU1wM0ZFaS1WY0hzQUZhZE1wVTlWR2J3YU9MemE3dVRNeEZFdURQQlhIZlBOZFo1dEtGS0QxaFdUYU1xWDZacTJVMy11NzNOTEFveFhPUUZjdUJqa1RpVnotZnhrbm02MF9CeUdrcUhwVThGVDZsdl81bjBlVGtYNmJjTEx3bklVYU5Md2J6R1pjdlVuZjNoaFpBSWMxQXlKWTA?oc=5"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZy1oWmRNOXUyMTJyc2Q1TTV2Umh5azJ2T1FmbGRzaWFPdWJ0Y0lEU01xVTh2TjA5UGRBMjVKbWJzX0ZhNmxJNmJIOXZVSTNYaXlwbFc2U2lNSmc4dWlCZm5PYXVCdDhRVTEyZFNlRkE4UW9wR1B4UnhnOGxnak42MGZSTWRZcE1LM1dvbDk4VHJiNE4tUVVCUkJzMVF4MFU?oc=5"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/08/g-s1-116752/up-first-newsletter-iran-trump-israel-ceasefire-clay-fuller-ice-spyware-telehealth-abortions"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Israel launches massive strike on Lebanon, killing hundreds amid ceasefire controversy",
+      "summary": "Hours after the US-Iran ceasefire announcement, Israel conducted a large-scale military bombardment across Lebanon, including the southern suburbs of Beirut, southern Lebanon, and the Bekaa Valley, killing at least 182-254 people and wounding over 1,100. The strikes caused extensive destruction with homes reduced to rubble and widespread devastation across urban areas. Vice President JD Vance stated that Lebanon was not included in the ceasefire agreement with Iran, prompting questions about Lebanon's status and raising concerns that the truce may not hold. UN human rights chief Volker Turk described the attacks as \"horrific,\" and international observers have warned that unrestrained Israeli action could undermine the ceasefire's stability.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c0j6d538l6qo"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1pWZmNvY1BtUVZ4TnBhWXU4cXBYWjE5bGppRFREdDcweGp3ZUVPRVZWWDNRUU1wM0ZFaS1WY0hzQUZhZE1wVTlWR2J3YU9MemE3dVRNeEZFdURQQlhIZlBOZFo1dEtGS0QxaFdUYU1xWDZacTJVMy11NzNOTEFveFhPUUZjdUJqa1RpVnotZnhrbm02MF9CeUdrcUhwVThGVDZsdl81bjBlVGtYNmJjTEx3bklVYU5Md2J6R1pjdlVuZjNoaFpBSWMxQXlKWTA?oc=5"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "Trump criticizes NATO and signals potential withdrawal after Iran conflict",
+      "summary": "President Trump publicly criticized NATO, stating the alliance \"wasn't there when we needed them\" during the Iran war, and administration officials signaled the US may be considering withdrawal from the alliance. Trump's comments came during a meeting with NATO's chief, which was described as \"very frank\" and highlighted growing tensions between the US and its European partners. The administration has criticized European allies for failing to contribute military forces during the conflict, raising concerns about the future of transatlantic security cooperation. This rhetorical shift marks an escalation in Trump's previous criticism of NATO and reflects the broader geopolitical realignment resulting from the Iran conflict.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war"}
+      ],
+      "tags": ["diplomacy", "defence"]
+    },
+    {
+      "headline": "Australian decorated soldier charged with war crimes following historic investigation",
+      "summary": "Ben Roberts-Smith, Australia's most decorated soldier, has been charged with five counts of war crimes including murder following an investigation into alleged unlawful killings during the Afghanistan conflict. Roberts-Smith, once celebrated as a war hero, now faces life in prison if convicted, as the charges carry a penalty of life imprisonment. Legal scholars describe the case as unprecedented for Australia and extraordinary for the globe, marking a significant moment in international accountability for military conduct. The soldier remains in jail on remand pending trial, reflecting the seriousness of the allegations and the court's assessment of the case.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/08/nx-s1-5776855/once-seen-as-a-war-hero-australian-ex-soldier-will-stand-trial-for-alleged-war-crimes"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "Artemis II astronauts capture historic Earthset photo from lunar orbit",
+      "summary": "NASA's Artemis II mission has captured a stunning photograph of Earth from lunar orbit, mirroring the iconic \"Earthrise\" image from the Apollo 8 mission in 1968. The new lunar Earthset photo represents a major moment in the Artemis program's progress toward returning humans to the Moon, with the mission executing nearly flawlessly to date. The image was released as the astronauts prepare for their return to Earth, expected on Saturday, and demonstrates that NASA has made significant advances in deep space photography and lunar exploration. The photograph has captured public imagination and served as both a scientific achievement and a symbol of human spaceflight advancement.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cj60nkd8nrko"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUtSZkdrREVlbkpZekdrcmNHMEhub011UnlaRi1iVmZ4YlBQelo2azlNUkxXam9CRlVzQ1l5eG92YjJjelFMN2tBRm9NWGJSRVYza0pjWFZRb0JfZlQtTjRLTXZHQ3BuNk1mSXZ0UDBYVUdfZmVVdEdkUThCRk1OMS1PYzZuZzhmR0JrazhfUy1BSTZpSkR3YkthWFZHZw?oc=5"}
+      ],
+      "tags": ["technology"]
+    },
+    {
+      "headline": "Pakistan's diplomatic role proves crucial in brokering US-Iran ceasefire",
+      "summary": "Pakistan played a pivotal diplomatic role in securing the fragile two-week ceasefire between the United States and Iran, leveraging its historic relationship with Tehran to facilitate negotiations when agreement seemed uncertain. Pakistan's diplomatic efforts are viewed as critical to breaking the deadlock that had escalated military tensions throughout the month-long conflict. The country's success in this mediation reflects its unique position as a bridge between Western and Iranian interests, demonstrating the continued importance of regional powers in global conflict resolution. However, the ceasefire's survival remains uncertain given immediate complications with Israeli strikes on Lebanon and disputes over Lebanon's inclusion in the agreement.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cj401qvgg19o"}
+      ],
+      "tags": ["diplomacy"]
+    },
+    {
+      "headline": "Global oil markets stabilize as US-Iran ceasefire eases energy crisis concerns",
+      "summary": "Oil prices plunged below $95 per barrel following the announcement of the US-Iran ceasefire, while global stock markets surged in response to reduced geopolitical tensions and improved energy supply prospects. The Dow Jones industrial average rose 1,300 points as investors responded positively to the potential end of major energy disruptions caused by the month-long conflict. The ceasefire offers relief to energy-dependent economies facing supply constraints and elevated fuel costs, including developing nations struggling with cooking gas shortages. However, market uncertainty persists given the complications in Lebanon and the fragility of the two-week agreement, which could reignite energy price volatility if tensions escalate.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZy1oWmRNOXUyMTJyc2Q1TTV2Umh5azJ2T1FmbGRzaWFPdWJ0Y0lEU01xVTh2TjA5UGRBMjVKbWJzX0ZhNmxJNmJIOXZVSTNYaXlwbFc2U2lNSmc4dWlCZm5PYXVCdDhRVTEyZFNlRkE4UW9wR1B4UnhnOGxnak42MGZSTWRZcE1LM1dvbDk4VHJiNE4tUVVCUkJzMVF4MFU?oc=5"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/08/nx-s1-5776818/wall-street-stocks-oil-trump-iran-ceasefire"}
+      ],
+      "tags": ["economy", "trade"]
+    }
+  ]
+}

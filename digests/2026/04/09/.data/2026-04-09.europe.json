@@ -1,0 +1,94 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-09T08:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Trump criticises NATO amid deepening tensions over Iran war support",
+      "summary": "US President Trump stated that NATO \"wasn't there when we needed them\" during the Iran war, prompting NATO chief Mark Rutte to describe their meeting as \"very frank.\" The tension reflects Trump's frustration with European allies over their level of support for US-Israeli operations in the Middle East. Trump has previously indicated concern about maintaining US commitment to NATO, raising questions about America's continued security guarantees to European nations. The dispute underscores growing friction between Washington and its European partners over military burden-sharing and response to regional conflicts. This development has heightened European concerns about the reliability of US defense commitments.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo"
+        },
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260408-trump-nato-rutte-us-exit-iran-war-allies-reject"
+        }
+      ],
+      "tags": ["defence", "diplomacy", "EU"]
+    },
+    {
+      "headline": "France announces €36 billion defense spending increase amid NATO uncertainty",
+      "summary": "France unveiled a major €36 billion defense spending increase through 2030 in response to growing security challenges including the Ukraine conflict, Middle East tensions, and uncertainty regarding US NATO commitment under Trump. The rearmament plan includes expansion of France's nuclear arsenal, increased drone stocks by up to 400 percent, and enhanced missile capabilities. The spending boost reflects European concerns about reduced US security guarantees and the need for greater European strategic autonomy. The decision represents France's attempt to strengthen European defense capabilities independently of American military support. This move signals Europe's preparation for a more uncertain security environment shaped by Trump's questioning of NATO.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/france-plans-36-billion-euro-boost-to-rearmament-nuclear-deterrent-expansion"
+        }
+      ],
+      "tags": ["defence", "EU", "economy"]
+    },
+    {
+      "headline": "Hungary holds pivotal parliamentary election with electoral system favoring incumbent Orbán",
+      "summary": "Hungary held Sunday's parliamentary election as opposition leader Peter Magyar polled ahead of incumbent Prime Minister Viktor Orbán's Fidesz party. However, the country's tailored electoral system provides significant structural advantages to Orbán despite the opposition's polling lead. The election reflects ongoing tensions between Hungary's government and EU institutions over democratic standards and rule of law. Orbán has faced repeated criticism from Brussels regarding judicial independence and press freedom. The outcome will have implications for EU cohesion and Hungary's direction on European integration issues. The election demonstrates the challenge of electoral manipulation through system design in EU member states.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260408-how-orban-benefits-from-hungary-tailor-made-election-system"
+        }
+      ],
+      "tags": ["elections", "governance", "EU"]
+    },
+    {
+      "headline": "France targets Russian 'shadow fleet' with stricter maritime penalties",
+      "summary": "France proposed doubling jail sentences for ship operators who fail to display correct flags or refuse inspection orders, specifically targeting vessels suspected of illegally transporting Russian oil under international sanctions. The move addresses the challenge of Russia's shadow fleet circumventing EU sanctions through deceptive maritime practices. French authorities aim to close loopholes that allow sanctioned Russian oil to enter European markets through flag-switching schemes. The initiative represents a tougher enforcement stance against sanctions evasion. This action reflects growing European frustration with the effectiveness of current sanctions mechanisms and demonstrates commitment to strengthening compliance mechanisms.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260408-france-to-target-russia-shadow-fleet-with-tougher-penalties-for-ships-sailing-under-false-flag"
+        }
+      ],
+      "tags": ["trade", "regulation", "EU"]
+    },
+    {
+      "headline": "US-Iran ceasefire agreement creates economic ripple effects across Europe",
+      "summary": "The two-week US-Israel-Iran ceasefire agreement, which includes reopening of the Strait of Hormuz, has created volatility in oil markets with crude prices fluctuating as traders reassess global energy supplies. European economies, which depend heavily on stable energy prices, face uncertainty about the durability of the ceasefire and its impact on energy costs. The agreement temporarily reduces acute military tensions in the Middle East but remains fragile. European newspapers emphasized the precarious nature of the agreement while international leaders expressed cautious hope for diplomatic progress. The ceasefire's stability will significantly affect European energy security and inflation dynamics in the coming weeks.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo"
+        }
+      ],
+      "tags": ["economy", "diplomacy", "trade"]
+    },
+    {
+      "headline": "French nationals released after nearly four years in Iranian detention",
+      "summary": "Cécile Kohler and Jacques Paris returned to France after spending more than three and a half years in Tehran's Evin Prison. The couple endured solitary confinement and survived air strikes during their detention on espionage-related charges they denied. Their release came as part of broader diplomatic developments following the US-Iran ceasefire agreement. President Macron praised their freedom, and the couple pledged to document their ordeal and speak publicly about the \"daily horror\" of their imprisonment. The case highlighted the risks faced by European nationals in Iran and the complexity of EU-Iran relations amid regional tensions.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260408-french-detainees-formerly-held-in-iran-c%C3%A9cile-kohler-jacques-paris-arrive-in-paris"
+        }
+      ],
+      "tags": ["diplomacy", "governance", "EU"]
+    },
+    {
+      "headline": "Microplastics contamination extends to everyday household and medical products",
+      "summary": "A new report identified surprising everyday sources of microplastics including breast implants, baby toys, and paint, warning that microplastic exposure extends far beyond previously known sources. The research revealed that some climate technology designed to address environmental challenges could paradoxically increase microplastic exposure. Microplastics have been found in human blood and organs, raising public health concerns across Europe and globally. The findings underscore the pervasive nature of plastic contamination in modern consumer products. European regulators are increasingly scrutinizing plastic materials in medical devices and consumer goods to address this emerging environmental and health challenge.",
+      "sources": [
+        {
+          "name": "EuroNews",
+          "url": "http://www.euronews.com/2026/04/09/breast-implants-baby-toys-paint-the-surprising-everyday-sources-of-microplastics"
+        }
+      ],
+      "tags": ["climate", "regulation", "health"]
+    }
+  ]
+}

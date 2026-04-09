@@ -1,0 +1,77 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-09T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Fuel protests enter third day as tractor blockade of refinery branded 'act of national sabotage'",
+      "summary": "Nationwide fuel protests have continued into a third day, with demonstrators blocking access to Ireland's only oil refinery in Foynes and fuel depots at multiple locations. The Taoiseach condemned the blockade as an 'act of national sabotage,' while the Tánaiste Simon Harris also criticized the action. The protests have caused severe disruption across the country, with Dublin Bus reporting diversions, the Luas partially suspended, and major traffic gridlock in Dublin City Centre. O'Connell Street retailers are bearing the brunt of the disruptions. Protest organisers have promised 'massive' nationwide action and stated the blockade would be indefinite, raising concerns about fuel supply chains and emergency access.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0409/1567314-fuel-protests-ireland/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/protesters-block-access-to-fuel-terminals-in-foynes-and-galway-7006248-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/08/fuel-protest-organisers-promise-massive-nationwide-action/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41824142.html"}
+      ],
+      "tags": ["economy", "transport", "politics"]
+    },
+    {
+      "headline": "AI adoption in Irish firms likely to cause job losses, particularly among highly educated workers - ESRI",
+      "summary": "The Economic and Social Research Institute (ESRI) has released a study finding that artificial intelligence adoption among Irish firms is likely to lead to significant job losses, with the impact concentrated among highly educated workers. The research highlights the 'winners and losers' in AI adoption, providing analysis of both positive and negative employment effects. The study comes as concerns grow across various sectors about the impact of AI technology on the Irish workforce. Education unions have warned that AI could render education a 'wild, wild west' without proper policy frameworks.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0409/1567303-ai-jobs-esri/"},
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/analysis-and-comment/2026/0409/1567304-ai-analysis-esri/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/04/08/ai-technology-could-render-education-a-wild-wild-west-says-union-official/"}
+      ],
+      "tags": ["economy", "technology", "health"]
+    },
+    {
+      "headline": "Teachers demand substantial pay rises; Department of Education faces €500m deficit crisis",
+      "summary": "ASTI delegates at their annual conference are demanding substantial pay rises with 'no ifs or buts,' with union general secretary stating the government hasn't moved beyond an austerity mindset. The demands come as the Department of Education faces a significant €500 million deficit, with the Minister proposing a levy on other departments to address the underfunding. A teacher has spoken out about being forced to return to work months after brain surgery due to inadequate sick pay provisions. The ASTI is conducting a final day of talks at their Wexford conference to address salary and allowance motions.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0409/1567279-asti-conference/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/04/08/teachers-must-receive-substantial-pay-rise-no-ifs-or-buts-says-asti/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/04/08/department-of-education-faces-500m-deficit-amid-funding-row/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/04/08/teacher-tells-of-being-forced-to-return-to-work-months-after-brain-surgery-due-to-lack-of-sick-pay/"}
+      ],
+      "tags": ["politics", "health", "economy"]
+    },
+    {
+      "headline": "Rise in violent and aggressive incidents reported at Irish maternity hospitals",
+      "summary": "Maternity hospitals across Ireland are experiencing a concerning rise in violent and aggressive incidents, with some taking place in or near delivery suites. The incidents represent a growing safety and security concern within the healthcare system. The reports highlight challenges healthcare workers face in maintaining safe working environments during vulnerable moments in patient care.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/violence-and-aggression-at-maternity-hospitals-7005400-Apr2026/"}
+      ],
+      "tags": ["health", "crime", "social"]
+    },
+    {
+      "headline": "Creeslough families to meet Justice Minister Jim O'Callaghan",
+      "summary": "Victim families from the Creeslough incident are scheduled to meet with Minister for Justice Jim O'Callaghan. The meeting represents continued engagement between families and government officials regarding the case.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0409/1567307-creeslough-ireland-politics/"}
+      ],
+      "tags": ["politics", "crime", "social"]
+    },
+    {
+      "headline": "Retired Garda superintendent charged with corruption and facilitating criminal organisation",
+      "summary": "A retired Garda superintendent has been charged with corruption and facilitating a criminal organisation. A co-accused Garda has been separately charged with supplying confidential information. The charges represent serious allegations of misconduct within An Garda Síochána.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/08/retired-garda-superintendent-charged-with-corruption-and-facilitating-criminal-organisation/"}
+      ],
+      "tags": ["crime", "politics"]
+    },
+    {
+      "headline": "Bomb squad called to Director of Public Prosecutions office after suspicious package found",
+      "summary": "The bomb squad was called to the Director of Public Prosecutions office following the discovery of a suspicious package. The package was declared safe, and items have been sent to Forensic Science Ireland for analysis. The incident highlights security concerns within key justice institutions.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/08/bomb-squad-called-to-director-of-public-prosecution-office-after-suspicious-package-found/"}
+      ],
+      "tags": ["crime", "politics", "social"]
+    }
+  ]
+}

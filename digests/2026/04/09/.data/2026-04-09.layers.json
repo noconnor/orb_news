@@ -1,0 +1,423 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-09T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Fuel protests enter third day as tractor blockade of refinery branded 'act of national sabotage'",
+        "summary": "Nationwide fuel protests have continued into a third day, with demonstrators blocking access to Ireland's only oil refinery in Foynes and fuel depots at multiple locations. The Taoiseach condemned the blockade as an 'act of national sabotage,' while the T\u00e1naiste Simon Harris also criticized the action. The protests have caused severe disruption across the country, with Dublin Bus reporting diversions, the Luas partially suspended, and major traffic gridlock in Dublin City Centre. O'Connell Street retailers are bearing the brunt of the disruptions. Protest organisers have promised 'massive' nationwide action and stated the blockade would be indefinite, raising concerns about fuel supply chains and emergency access.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0409/1567314-fuel-protests-ireland/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/protesters-block-access-to-fuel-terminals-in-foynes-and-galway-7006248-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/08/fuel-protest-organisers-promise-massive-nationwide-action/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41824142.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "transport",
+          "politics"
+        ]
+      },
+      {
+        "headline": "AI adoption in Irish firms likely to cause job losses, particularly among highly educated workers - ESRI",
+        "summary": "The Economic and Social Research Institute (ESRI) has released a study finding that artificial intelligence adoption among Irish firms is likely to lead to significant job losses, with the impact concentrated among highly educated workers. The research highlights the 'winners and losers' in AI adoption, providing analysis of both positive and negative employment effects. The study comes as concerns grow across various sectors about the impact of AI technology on the Irish workforce. Education unions have warned that AI could render education a 'wild, wild west' without proper policy frameworks.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0409/1567303-ai-jobs-esri/"
+          },
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/analysis-and-comment/2026/0409/1567304-ai-analysis-esri/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/04/08/ai-technology-could-render-education-a-wild-wild-west-says-union-official/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "health"
+        ]
+      },
+      {
+        "headline": "Teachers demand substantial pay rises; Department of Education faces \u20ac500m deficit crisis",
+        "summary": "ASTI delegates at their annual conference are demanding substantial pay rises with 'no ifs or buts,' with union general secretary stating the government hasn't moved beyond an austerity mindset. The demands come as the Department of Education faces a significant \u20ac500 million deficit, with the Minister proposing a levy on other departments to address the underfunding. A teacher has spoken out about being forced to return to work months after brain surgery due to inadequate sick pay provisions. The ASTI is conducting a final day of talks at their Wexford conference to address salary and allowance motions.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0409/1567279-asti-conference/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/04/08/teachers-must-receive-substantial-pay-rise-no-ifs-or-buts-says-asti/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/04/08/department-of-education-faces-500m-deficit-amid-funding-row/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/04/08/teacher-tells-of-being-forced-to-return-to-work-months-after-brain-surgery-due-to-lack-of-sick-pay/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "health",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Rise in violent and aggressive incidents reported at Irish maternity hospitals",
+        "summary": "Maternity hospitals across Ireland are experiencing a concerning rise in violent and aggressive incidents, with some taking place in or near delivery suites. The incidents represent a growing safety and security concern within the healthcare system. The reports highlight challenges healthcare workers face in maintaining safe working environments during vulnerable moments in patient care.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/violence-and-aggression-at-maternity-hospitals-7005400-Apr2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Creeslough families to meet Justice Minister Jim O'Callaghan",
+        "summary": "Victim families from the Creeslough incident are scheduled to meet with Minister for Justice Jim O'Callaghan. The meeting represents continued engagement between families and government officials regarding the case.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0409/1567307-creeslough-ireland-politics/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Retired Garda superintendent charged with corruption and facilitating criminal organisation",
+        "summary": "A retired Garda superintendent has been charged with corruption and facilitating a criminal organisation. A co-accused Garda has been separately charged with supplying confidential information. The charges represent serious allegations of misconduct within An Garda S\u00edoch\u00e1na.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/04/08/retired-garda-superintendent-charged-with-corruption-and-facilitating-criminal-organisation/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Bomb squad called to Director of Public Prosecutions office after suspicious package found",
+        "summary": "The bomb squad was called to the Director of Public Prosecutions office following the discovery of a suspicious package. The package was declared safe, and items have been sent to Forensic Science Ireland for analysis. The incident highlights security concerns within key justice institutions.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/08/bomb-squad-called-to-director-of-public-prosecution-office-after-suspicious-package-found/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-09T08:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump criticises NATO amid deepening tensions over Iran war support",
+        "summary": "US President Trump stated that NATO \"wasn't there when we needed them\" during the Iran war, prompting NATO chief Mark Rutte to describe their meeting as \"very frank.\" The tension reflects Trump's frustration with European allies over their level of support for US-Israeli operations in the Middle East. Trump has previously indicated concern about maintaining US commitment to NATO, raising questions about America's continued security guarantees to European nations. The dispute underscores growing friction between Washington and its European partners over military burden-sharing and response to regional conflicts. This development has heightened European concerns about the reliability of US defense commitments.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260408-trump-nato-rutte-us-exit-iran-war-allies-reject"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "France announces \u20ac36 billion defense spending increase amid NATO uncertainty",
+        "summary": "France unveiled a major \u20ac36 billion defense spending increase through 2030 in response to growing security challenges including the Ukraine conflict, Middle East tensions, and uncertainty regarding US NATO commitment under Trump. The rearmament plan includes expansion of France's nuclear arsenal, increased drone stocks by up to 400 percent, and enhanced missile capabilities. The spending boost reflects European concerns about reduced US security guarantees and the need for greater European strategic autonomy. The decision represents France's attempt to strengthen European defense capabilities independently of American military support. This move signals Europe's preparation for a more uncertain security environment shaped by Trump's questioning of NATO.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/france-plans-36-billion-euro-boost-to-rearmament-nuclear-deterrent-expansion"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Hungary holds pivotal parliamentary election with electoral system favoring incumbent Orb\u00e1n",
+        "summary": "Hungary held Sunday's parliamentary election as opposition leader Peter Magyar polled ahead of incumbent Prime Minister Viktor Orb\u00e1n's Fidesz party. However, the country's tailored electoral system provides significant structural advantages to Orb\u00e1n despite the opposition's polling lead. The election reflects ongoing tensions between Hungary's government and EU institutions over democratic standards and rule of law. Orb\u00e1n has faced repeated criticism from Brussels regarding judicial independence and press freedom. The outcome will have implications for EU cohesion and Hungary's direction on European integration issues. The election demonstrates the challenge of electoral manipulation through system design in EU member states.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260408-how-orban-benefits-from-hungary-tailor-made-election-system"
+          }
+        ],
+        "tags": [
+          "elections",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "France targets Russian 'shadow fleet' with stricter maritime penalties",
+        "summary": "France proposed doubling jail sentences for ship operators who fail to display correct flags or refuse inspection orders, specifically targeting vessels suspected of illegally transporting Russian oil under international sanctions. The move addresses the challenge of Russia's shadow fleet circumventing EU sanctions through deceptive maritime practices. French authorities aim to close loopholes that allow sanctioned Russian oil to enter European markets through flag-switching schemes. The initiative represents a tougher enforcement stance against sanctions evasion. This action reflects growing European frustration with the effectiveness of current sanctions mechanisms and demonstrates commitment to strengthening compliance mechanisms.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260408-france-to-target-russia-shadow-fleet-with-tougher-penalties-for-ships-sailing-under-false-flag"
+          }
+        ],
+        "tags": [
+          "trade",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "US-Iran ceasefire agreement creates economic ripple effects across Europe",
+        "summary": "The two-week US-Israel-Iran ceasefire agreement, which includes reopening of the Strait of Hormuz, has created volatility in oil markets with crude prices fluctuating as traders reassess global energy supplies. European economies, which depend heavily on stable energy prices, face uncertainty about the durability of the ceasefire and its impact on energy costs. The agreement temporarily reduces acute military tensions in the Middle East but remains fragile. European newspapers emphasized the precarious nature of the agreement while international leaders expressed cautious hope for diplomatic progress. The ceasefire's stability will significantly affect European energy security and inflation dynamics in the coming weeks.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo"
+          }
+        ],
+        "tags": [
+          "economy",
+          "diplomacy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "French nationals released after nearly four years in Iranian detention",
+        "summary": "C\u00e9cile Kohler and Jacques Paris returned to France after spending more than three and a half years in Tehran's Evin Prison. The couple endured solitary confinement and survived air strikes during their detention on espionage-related charges they denied. Their release came as part of broader diplomatic developments following the US-Iran ceasefire agreement. President Macron praised their freedom, and the couple pledged to document their ordeal and speak publicly about the \"daily horror\" of their imprisonment. The case highlighted the risks faced by European nationals in Iran and the complexity of EU-Iran relations amid regional tensions.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260408-french-detainees-formerly-held-in-iran-c%C3%A9cile-kohler-jacques-paris-arrive-in-paris"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Microplastics contamination extends to everyday household and medical products",
+        "summary": "A new report identified surprising everyday sources of microplastics including breast implants, baby toys, and paint, warning that microplastic exposure extends far beyond previously known sources. The research revealed that some climate technology designed to address environmental challenges could paradoxically increase microplastic exposure. Microplastics have been found in human blood and organs, raising public health concerns across Europe and globally. The findings underscore the pervasive nature of plastic contamination in modern consumer products. European regulators are increasingly scrutinizing plastic materials in medical devices and consumer goods to address this emerging environmental and health challenge.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "http://www.euronews.com/2026/04/09/breast-implants-baby-toys-paint-the-surprising-everyday-sources-of-microplastics"
+          }
+        ],
+        "tags": [
+          "climate",
+          "regulation",
+          "health"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-09T06:30:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US and Iran agree to two-week ceasefire, ending month-long conflict",
+        "summary": "The United States and Iran reached a provisional two-week ceasefire agreement, bringing an end to military operations that lasted over a month. The agreement was brokered with Pakistan's diplomatic involvement and represents a significant shift after the US and Israel launched coordinated attacks on Iran. Markets responded positively to the news, with oil prices plunging below $95 and global stock indices surging, including a 1,300-point rise in the Dow. However, tensions immediately emerged regarding Lebanon's inclusion in the ceasefire, with Israeli strikes killing at least 182-254 people in Lebanon hours after the agreement was announced, raising questions about the truce's durability and scope.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1pWZmNvY1BtUVZ4TnBhWXU4cXBYWjE5bGppRFREdDcweGp3ZUVPRVZWWDNRUU1wM0ZFaS1WY0hzQUZhZE1wVTlWR2J3YU9MemE3dVRNeEZFdURQQlhIZlBOZFo1dEtGS0QxaFdUYU1xWDZacTJVMy11NzNOTEFveFhPUUZjdUJqa1RpVnotZnhrbm02MF9CeUdrcUhwVThGVDZsdl81bjBlVGtYNmJjTEx3bklVYU5Md2J6R1pjdlVuZjNoaFpBSWMxQXlKWTA?oc=5"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZy1oWmRNOXUyMTJyc2Q1TTV2Umh5azJ2T1FmbGRzaWFPdWJ0Y0lEU01xVTh2TjA5UGRBMjVKbWJzX0ZhNmxJNmJIOXZVSTNYaXlwbFc2U2lNSmc4dWlCZm5PYXVCdDhRVTEyZFNlRkE4UW9wR1B4UnhnOGxnak42MGZSTWRZcE1LM1dvbDk4VHJiNE4tUVVCUkJzMVF4MFU?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/08/g-s1-116752/up-first-newsletter-iran-trump-israel-ceasefire-clay-fuller-ice-spyware-telehealth-abortions"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Israel launches massive strike on Lebanon, killing hundreds amid ceasefire controversy",
+        "summary": "Hours after the US-Iran ceasefire announcement, Israel conducted a large-scale military bombardment across Lebanon, including the southern suburbs of Beirut, southern Lebanon, and the Bekaa Valley, killing at least 182-254 people and wounding over 1,100. The strikes caused extensive destruction with homes reduced to rubble and widespread devastation across urban areas. Vice President JD Vance stated that Lebanon was not included in the ceasefire agreement with Iran, prompting questions about Lebanon's status and raising concerns that the truce may not hold. UN human rights chief Volker Turk described the attacks as \"horrific,\" and international observers have warned that unrestrained Israeli action could undermine the ceasefire's stability.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c0j6d538l6qo"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1pWZmNvY1BtUVZ4TnBhWXU4cXBYWjE5bGppRFREdDcweGp3ZUVPRVZWWDNRUU1wM0ZFaS1WY0hzQUZhZE1wVTlWR2J3YU9MemE3dVRNeEZFdURQQlhIZlBOZFo1dEtGS0QxaFdUYU1xWDZacTJVMy11NzNOTEFveFhPUUZjdUJqa1RpVnotZnhrbm02MF9CeUdrcUhwVThGVDZsdl81bjBlVGtYNmJjTEx3bklVYU5Md2J6R1pjdlVuZjNoaFpBSWMxQXlKWTA?oc=5"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Trump criticizes NATO and signals potential withdrawal after Iran conflict",
+        "summary": "President Trump publicly criticized NATO, stating the alliance \"wasn't there when we needed them\" during the Iran war, and administration officials signaled the US may be considering withdrawal from the alliance. Trump's comments came during a meeting with NATO's chief, which was described as \"very frank\" and highlighted growing tensions between the US and its European partners. The administration has criticized European allies for failing to contribute military forces during the conflict, raising concerns about the future of transatlantic security cooperation. This rhetorical shift marks an escalation in Trump's previous criticism of NATO and reflects the broader geopolitical realignment resulting from the Iran conflict.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Australian decorated soldier charged with war crimes following historic investigation",
+        "summary": "Ben Roberts-Smith, Australia's most decorated soldier, has been charged with five counts of war crimes including murder following an investigation into alleged unlawful killings during the Afghanistan conflict. Roberts-Smith, once celebrated as a war hero, now faces life in prison if convicted, as the charges carry a penalty of life imprisonment. Legal scholars describe the case as unprecedented for Australia and extraordinary for the globe, marking a significant moment in international accountability for military conduct. The soldier remains in jail on remand pending trial, reflecting the seriousness of the allegations and the court's assessment of the case.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/08/nx-s1-5776855/once-seen-as-a-war-hero-australian-ex-soldier-will-stand-trial-for-alleged-war-crimes"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Artemis II astronauts capture historic Earthset photo from lunar orbit",
+        "summary": "NASA's Artemis II mission has captured a stunning photograph of Earth from lunar orbit, mirroring the iconic \"Earthrise\" image from the Apollo 8 mission in 1968. The new lunar Earthset photo represents a major moment in the Artemis program's progress toward returning humans to the Moon, with the mission executing nearly flawlessly to date. The image was released as the astronauts prepare for their return to Earth, expected on Saturday, and demonstrates that NASA has made significant advances in deep space photography and lunar exploration. The photograph has captured public imagination and served as both a scientific achievement and a symbol of human spaceflight advancement.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cj60nkd8nrko"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUtSZkdrREVlbkpZekdrcmNHMEhub011UnlaRi1iVmZ4YlBQelo2azlNUkxXam9CRlVzQ1l5eG92YjJjelFMN2tBRm9NWGJSRVYza0pjWFZRb0JfZlQtTjRLTXZHQ3BuNk1mSXZ0UDBYVUdfZmVVdEdkUThCRk1OMS1PYzZuZzhmR0JrazhfUy1BSTZpSkR3YkthWFZHZw?oc=5"
+          }
+        ],
+        "tags": [
+          "technology"
+        ]
+      },
+      {
+        "headline": "Pakistan's diplomatic role proves crucial in brokering US-Iran ceasefire",
+        "summary": "Pakistan played a pivotal diplomatic role in securing the fragile two-week ceasefire between the United States and Iran, leveraging its historic relationship with Tehran to facilitate negotiations when agreement seemed uncertain. Pakistan's diplomatic efforts are viewed as critical to breaking the deadlock that had escalated military tensions throughout the month-long conflict. The country's success in this mediation reflects its unique position as a bridge between Western and Iranian interests, demonstrating the continued importance of regional powers in global conflict resolution. However, the ceasefire's survival remains uncertain given immediate complications with Israeli strikes on Lebanon and disputes over Lebanon's inclusion in the agreement.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cj401qvgg19o"
+          }
+        ],
+        "tags": [
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Global oil markets stabilize as US-Iran ceasefire eases energy crisis concerns",
+        "summary": "Oil prices plunged below $95 per barrel following the announcement of the US-Iran ceasefire, while global stock markets surged in response to reduced geopolitical tensions and improved energy supply prospects. The Dow Jones industrial average rose 1,300 points as investors responded positively to the potential end of major energy disruptions caused by the month-long conflict. The ceasefire offers relief to energy-dependent economies facing supply constraints and elevated fuel costs, including developing nations struggling with cooking gas shortages. However, market uncertainty persists given the complications in Lebanon and the fragility of the two-week agreement, which could reignite energy price volatility if tensions escalate.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZy1oWmRNOXUyMTJyc2Q1TTV2Umh5azJ2T1FmbGRzaWFPdWJ0Y0lEU01xVTh2TjA5UGRBMjVKbWJzX0ZhNmxJNmJIOXZVSTNYaXlwbFc2U2lNSmc4dWlCZm5PYXVCdDhRVTEyZFNlRkE4UW9wR1B4UnhnOGxnak42MGZSTWRZcE1LM1dvbDk4VHJiNE4tUVVCUkJzMVF4MFU?oc=5"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/08/nx-s1-5776818/wall-street-stocks-oil-trump-iran-ceasefire"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade"
+        ]
+      }
+    ]
+  }
+}

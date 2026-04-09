@@ -1,0 +1,36 @@
+{
+  "steps": {
+    "setup": {
+      "start": 1775710810,
+      "end": 1775710826,
+      "duration_s": 16
+    },
+    "gather": {
+      "start": 1775710826,
+      "end": 1775710923,
+      "duration_s": 97
+    },
+    "preprocess": {
+      "start": 1775710923,
+      "end": 1775710933,
+      "duration_s": 10
+    },
+    "write_digest": {
+      "start": 1775710933,
+      "end": 1775711247,
+      "duration_s": 314
+    },
+    "audio": {
+      "start": 1775711251,
+      "end": 1775711374,
+      "duration_s": 123
+    },
+    "commit": {
+      "start": 1775711379,
+      "end": 1775711387,
+      "duration_s": 8
+    }
+  },
+  "total_duration_s": 568,
+  "estimated_cost_usd": 0.15
+}
