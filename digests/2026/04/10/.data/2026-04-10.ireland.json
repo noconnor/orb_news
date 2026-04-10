@@ -1,0 +1,79 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-10T07:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Fuel protests enter fourth day as government agrees to meet industry groups",
+      "summary": "Fuel price protests escalated into their fourth consecutive day on April 10 with blockades at Ireland's only oil refinery in Cork, two major fuel depots in Limerick and Galway, and key transport routes including the M50. The government confirmed it will meet representatives from farmers, agricultural contractors, and the haulage industry to discuss the crisis. Widespread fuel shortages have forced over 100 petrol forecourts to close or run dry, while Dublin Bus and Luas services face severe delays. Emergency services have raised serious concerns about fuel supplies for ambulances, with some staff reporting journeys to work taking up to six hours instead of 30 minutes.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0410/1567488-protests-fuel-ireland/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/fuel-protests-enter-fourth-day-7008524-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/10/live-fuel-protests-ireland-m50-dublin-luas/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41824784.html"}
+      ],
+      "tags": ["politics", "economy", "transport"]
+    },
+    {
+      "headline": "Home heating oil prices soar 67.5% in March amid international fuel crisis",
+      "summary": "Home heating oil prices surged by 67.5 percent between February and March 2026, according to new Central Statistics Office figures released during the fuel crisis. The Competition and Consumer Protection Commission confirmed that recent price spikes result from significant increases in international wholesale costs rather than price gouging by Irish suppliers. The dramatic increase reflects global market volatility, particularly driven by tensions in the Middle East. This spike comes as the government faces pressure from fuel price protesters demanding price caps on diesel and petrol. The inflation impact is particularly acute for low-income households and rural areas dependent on oil for heating.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0409/1567375-cso-inflation-figures/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/09/have-your-say-how-has-home-heating-oil-price-rises-impacted-you/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/fuel-costs-price-gouging-7007455-Apr2026/"}
+      ],
+      "tags": ["economy", "health", "weather"]
+    },
+    {
+      "headline": "Status Yellow weather warnings issued for eight counties ahead of unsettled weekend",
+      "summary": "Met Éireann issued Status Yellow weather warnings for eight counties on April 10, with gales and heavy rain forecast to begin at 9am. Cork, Kerry, and Waterford face rain warnings, while Donegal, Galway, Leitrim, Mayo, and Sligo are under wind warnings. The unsettled conditions are expected to persist through the weekend, with forecasters warning of strong winds and potentially disruptive rainfall across affected regions. The weather warnings come during the ongoing fuel protests, further complicating transportation and emergency response efforts across the country.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0410/1567493-weather-warning/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/wind-and-rain-warnings-for-eight-counties-to-come-into-place-later-7008551-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/environment/2026/04/09/met-eireann-issues-yellow-warning-for-strong-wind-and-heavy-rain-in-several-counties/"}
+      ],
+      "tags": ["weather", "transport"]
+    },
+    {
+      "headline": "Galway City Ring Road finally approved after more than two decades of delays",
+      "summary": "An Coimisiún Pleanála granted planning approval for the N6 Galway City Ring Road on April 9, ending a decades-long planning saga that has frustrated local authorities and businesses. The 18-kilometre ring road, designed to alleviate congestion in Galway city centre and improve traffic flow, had faced multiple High Court challenges and a fresh planning process following earlier permission grants. Environmental concerns were raised during the approval process, but the planning commission determined the project's benefits justified proceeding. The approval represents a significant milestone for Galway's infrastructure development and is expected to reduce city centre congestion once construction is completed.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0409/1567346-galway-ring-road/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/09/n6-galway-ring-road-is-granted-planning-approval-after-years-of-delays/"}
+      ],
+      "tags": ["politics", "transport", "economy"]
+    },
+    {
+      "headline": "Justice Minister considers inquiry into Creeslough gas explosion ahead of criminal trial",
+      "summary": "Justice Minister Jim O'Callaghan met with families of people killed in the Creeslough gas explosion and signalled willingness to consider holding a public inquiry into the 2020 incident before criminal proceedings conclude. The explosion, which claimed multiple lives in the village of Creeslough in County Donegal, prompted significant legal and safety scrutiny. Families have advocated for a comprehensive public inquiry to examine circumstances surrounding the tragedy. O'Callaghan's indication of openness to an inquiry represents a potential shift in government position and could allow victims' families greater transparency about the incident's causes and contributing factors.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0409/1567307-creeslough-ireland-politics/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/jim-ocallaghan-to-consider-holding-inquiry-creeslough-explosion-7008011-Apr2026/"}
+      ],
+      "tags": ["politics", "crime"]
+    },
+    {
+      "headline": "Irish organised crime leader arrested in Spain contests extradition to Ireland",
+      "summary": "A 37-year-old Irish man described by Spanish authorities as 'one of the leaders' of the Hutch Organised Crime Group was arrested in Lanzarote and is contesting his extradition to Ireland. Spanish police video footage showed the suspect in handcuffs accompanied by undercover officers and Garda personnel. The Hutch group has been central to organised crime investigations in Ireland in recent years. The arrest represents another significant development in the ongoing effort to dismantle major organised crime networks operating in Ireland, with Spanish cooperation proving crucial to apprehending suspects abroad.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0409/1567380-spain-arrest/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/one-of-the-leaders-of-hutch-group-arrested-in-lanzarote-to-contest-extradition-7007652-Apr2026/"}
+      ],
+      "tags": ["crime", "politics"]
+    },
+    {
+      "headline": "Fighting Blindness charity scrutinised for governance failures in regulator's report",
+      "summary": "A regulatory investigation into Fighting Blindness, a Dublin-based charity supporting the visually impaired, has criticised the organisation's board oversight and governance practices. The regulator's report identified that the charity purchased a Mediterranean cruise for a man whose firm ran a monthly raffle associated with the organisation, raising concerns about appropriate use of charitable funds and conflict of interest procedures. The findings highlight governance gaps in how the charity's board monitored expenditure and approved significant purchases. The criticism comes amid broader scrutiny of Irish charity governance standards and internal control mechanisms to ensure donor funds are used appropriately.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/10/charity-for-visually-impaired-bought-mediterranean-cruise-for-man-whose-firm-ran-monthly-raffle/"}
+      ],
+      "tags": ["social", "politics"]
+    }
+  ]
+}

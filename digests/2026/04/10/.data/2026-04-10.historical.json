@@ -1,0 +1,43 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US-Iran Ceasefire Stability at Risk as Strait of Hormuz Shipping Remains Stalled",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Tanker War / Arab Oil Embargo / 1973 Oil Crisis (synthesis)",
+      "date_range": "1973–1988",
+      "summary": "The current Strait of Hormuz impasse synthesises lessons from multiple twentieth-century Gulf crises. The 1973 Arab Oil Embargo saw OPEC producers cut exports to the West, quadrupling oil prices and triggering recessions across the industrialised world. The Tanker War phase of the Iran-Iraq War (1984-1988) saw both belligerents attack neutral shipping, forcing US naval escorts to keep the Strait open. The 1990 oil price shock following Iraq's invasion of Kuwait demonstrated once more how quickly Gulf instability translates into global economic pain.",
+      "parallel_analysis": "Today's stand-off — featuring mutual ceasefire accusations, proxy drone strikes, and shipping at a trickle — fits squarely within this decades-long pattern of Persian Gulf brinkmanship. The historical record suggests shipping only normalises when both diplomatic and naval confidence-building measures are firmly in place, a benchmark current conditions have yet to meet.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Hungary holds pivotal election with Orbán facing challenge from EU-aligned rival",
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Hungarian Revolution of 1956",
+      "date_range": "October–November 1956",
+      "summary": "On 23 October 1956, university students and workers took to the streets of Budapest demanding free elections, Soviet troop withdrawal, and an end to political persecution under the ÁVH secret police. The uprising rapidly spread; revolutionary militias formed, the security apparatus was dismantled in parts of the capital, and a reformist government under Imre Nagy briefly promised multi-party democracy and withdrawal from the Warsaw Pact. On 4 November, Soviet tanks crushed the revolt, killing approximately 2,500 to 3,000 Hungarians, wounding 13,000, and driving some 200,000 into exile. Nagy was later executed. The revolution's memory became foundational to Hungary's post-Cold War identity, driving both its NATO accession in 1999 and EU membership in 2004.",
+      "parallel_analysis": "Today's election echoes that unfinished question in a democratic register: voters are again choosing between a system consolidated around one party's hold on power and a path of deeper integration with the European institutions that 1956-era Hungarians could only have imagined as a distant ideal. A Magyar victory would represent not only a domestic political earthquake but a meaningful shift in the EU's internal balance, while an Orbán win would entrench competitive authoritarianism inside the bloc for another parliamentary term.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Fuel protests enter fourth day as government agrees to meet industry groups",
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_range": "September 2000",
+      "summary": "In September 2000, farmers and hauliers blockaded refineries and fuel depots across the United Kingdom in protest at fuel duty levels that had seen tax account for over 81 percent of the pump price of unleaded petrol. Within days, approximately 3,000 petrol stations had closed, the government invoked emergency powers under the Energy Act 1976, and Prime Minister Tony Blair deployed military tankers while insisting he would not allow policy to be dictated by protest pressure. The crisis resolved within two weeks when Chancellor Gordon Brown announced a freeze on fuel duty and promised vehicle tax reforms, at an estimated annual cost to the Treasury of £2 billion.",
+      "parallel_analysis": "The 2000 episode established a template that echoes in Dublin today: a government under acute pressure from an industry-led blockade, promising dialogue while resisting the headline demand of price intervention, in a crisis whose root cause lies not in domestic policy but in global oil market volatility. As in Britain 26 years ago, the question is whether government engagement will satisfy protest leaders before the disruption to emergency services forces a more dramatic policy response.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+      ]
+    }
+  ]
+}

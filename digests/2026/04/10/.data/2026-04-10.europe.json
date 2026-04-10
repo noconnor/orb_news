@@ -1,0 +1,78 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-10T08:45:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "rss_failed_no_results",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU's new Entry/Exit System goes live, reshaping border control for millions of travelers",
+      "summary": "The European Union's biometric-based Entry/Exit System (EES) becomes fully operational on April 10, 2026, replacing traditional passport stamping across 29 participating countries including France, Germany, Italy, Spain, Poland, and others. The system captures facial images, fingerprints, and passport data for all non-EU visitors, marking a significant shift toward digital border control. This initiative aims to enhance security and streamline travel procedures across the bloc. Implementation has been coordinated among major EU member states to ensure a smooth transition for travelers.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/"},
+        {"name": "European Commission", "url": "https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en"}
+      ],
+      "tags": ["EU", "regulation", "governance"]
+    },
+    {
+      "headline": "Hungary holds pivotal election with Orbán facing challenge from EU-aligned rival",
+      "summary": "Hungary's April 12 election positions the country at a crossroads as voters prepare to decide between Prime Minister Viktor Orbán and challenger Péter Magyar, a former Fidesz member now advocating for stronger EU ties. Polls suggest Magyar could emerge as a change agent for the nation's generation seeking a closer relationship with Brussels. The outcome carries significant implications for EU cohesion and governance, as Orbán's administration has faced repeated conflicts with EU institutions over democratic standards and the rule of law. The election represents a potential shift in the EU's internal political landscape.",
+      "sources": [
+        {"name": "The Guardian", "url": "https://www.theguardian.com/world/europe-news"}
+      ],
+      "tags": ["elections", "EU", "governance"]
+    },
+    {
+      "headline": "Middle East tensions escalate as Israeli strikes target Lebanon amid ceasefire strain",
+      "summary": "Israeli air strikes continue against Hezbollah sites in southern Lebanon after killing over 300 people in escalated operations, while rocket sirens sound in northern Israel, threatening regional stability. Calls for extending a ceasefire remain under strain as both sides face mounting pressures and casualties. The conflict has direct implications for European security policy and European leaders' diplomatic efforts to broker peace in the volatile region. The escalation reverberates across EU foreign policy priorities and NATO concerns about regional instability.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/video/2026/04/10/lebanon-reeling-as-israeli-strikes-continue-after-300-killed-yesterday"}
+      ],
+      "tags": ["conflict", "diplomacy", "defence"]
+    },
+    {
+      "headline": "Germany outlines digital transformation of modern warfare strategy",
+      "summary": "In an exclusive interview, German Army Chief Christian Freuding discusses how data analytics, speed, and digital systems are fundamentally reshaping the nature of modern military conflict, describing the contemporary battlefield as increasingly 'glass-like'—where information dominance determines outcomes. Germany's strategic shift reflects broader European defence modernization in response to evolving security threats. The military thinking outlined carries implications for NATO capabilities and EU defense cooperation amid heightened tensions with Russia and ongoing Middle East developments. This represents a significant update to European military doctrine in the digital age.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/10/a-glass-like-battlefield-german-army-chief-on-the-future-of-warfare"}
+      ],
+      "tags": ["defence", "EU", "governance"]
+    },
+    {
+      "headline": "Petrol and diesel prices surge across Europe following Middle East escalation",
+      "summary": "Fuel prices have risen significantly throughout Europe since the escalation of the Middle East crisis, with petrol and diesel costs varying considerably across EU member states and surrounding countries. The price volatility reflects global energy market sensitivity to geopolitical tensions in the oil-producing regions and highlights Europe's vulnerability to external shocks. Economic impacts extend across transportation, manufacturing, and consumer sectors, affecting inflation trends and cost-of-living pressures throughout the continent. The price disparity across European nations raises questions about energy security and EU coordination on fuel policy.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/10/petrol-and-diesel-in-europe-where-are-prices-highest-and-lowest"}
+      ],
+      "tags": ["economy", "climate"]
+    },
+    {
+      "headline": "EU migration policies fail to curb departures from Africa despite tighter controls",
+      "summary": "Despite Brussels celebrating reduced migrant arrivals, tighter EU asylum regulations and diplomatic deals with African nations have only temporarily diverted irregular migration routes rather than addressing root causes, according to recent analysis. The policy approach has not successfully reduced departures from Africa but instead rerouted migrants toward alternative pathways. EU leaders face mounting pressure to reconsider their migration strategy beyond enforcement-focused measures toward addressing underlying drivers of migration. The findings challenge the effectiveness of the EU's current approach to irregular migration and border security.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/10/tighter-eu-migration-controls-fail-to-curb-departures-from-africa-report-says"}
+      ],
+      "tags": ["migration", "EU", "governance"]
+    },
+    {
+      "headline": "France launches €240 million plan to reduce fossil fuel dependence through green transition",
+      "summary": "French Prime Minister Sébastian Lecornu unveiled an ambitious €240 million investment programme treating electrification and renewable energy transition as matters of 'national interest.' The initiative encompasses EV charging station expansion and heat pump installation grants to accelerate France's shift away from fossil fuel reliance. The programme reflects broader EU climate policy goals and France's commitment to meeting European sustainability targets. This investment signals strengthened European momentum toward decarbonization and energy independence across the continent.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/10/from-ev-stations-to-heat-pump-grants-inside-frances-240m-plan-to-reduce-its-fossil-fuel-re"}
+      ],
+      "tags": ["climate", "economy", "EU"]
+    },
+    {
+      "headline": "UK Prime Minister warns Iran conflict represents critical test for building resilient Europe",
+      "summary": "British Prime Minister Keir Starmer characterized the Middle East conflict as a 'line in the sand' moment essential for building a more resilient United Kingdom and Europe, noting that such geopolitical 'shocks' are becoming increasingly frequent. Starmer's rhetoric underscores growing British and European concerns about escalating global instability and the need for coordinated European responses. The statement reflects broader EU anxiety about managing multiple simultaneous crises while maintaining strategic autonomy. The PM's warning aligns with wider European discussions about strengthening continental resilience amid shifting global power dynamics.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["defence", "diplomacy", "governance"]
+    }
+  ]
+}
