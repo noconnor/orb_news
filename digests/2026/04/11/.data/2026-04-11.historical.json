@@ -1,0 +1,43 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US and Iran begin high-stakes ceasefire negotiations in Pakistan as VP Vance leads delegation",
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War, the Suez Crisis, and the Arc of Persian Gulf Crises (1956–1988)",
+      "date_range": "1956–1988",
+      "summary": "The current confrontation over the Strait of Hormuz sits within a long history of great-power contests for control of critical maritime chokepoints. During the Suez Crisis of 1956, Egypt's nationalisation of the canal provoked a joint Anglo-French-Israeli military operation that was ultimately halted by American and Soviet pressure. The Tanker War of 1984–1988, fought in the shadow of the Iran-Iraq conflict, saw both Iran and Iraq attack neutral shipping in the Gulf, triggering US naval escorts of Kuwaiti tankers under Operation Earnest Will and drawing American forces directly into Persian Gulf combat for the first time. The 1973 Arab Oil Embargo demonstrated how the weaponisation of energy supply routes could shock Western economies into months of fuel rationing, speed limits, and industrial contraction. Operation Eagle Claw in 1980 illustrated the limits of unilateral military solutions to Iranian crises and the domestic political consequences of perceived American weakness in the Gulf.",
+      "parallel_analysis": "Today's Pakistan talks echo these precedents: the United States again faces an Iran emboldened by strategic depth, a constrained military option, and the knowledge that energy markets will punish miscalculation. The history of Gulf diplomacy suggests that durable settlements require not just tactical deals on shipping lanes but structural bargains over security architecture — and that the gap between those two ambitions is where negotiations most often collapse.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Hungary faces pivotal election as challenger Magyar leads polls against Orbán's 'illiberal democracy'",
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "1989 Polish Parliamentary Election",
+      "date_range": "1989",
+      "summary": "The 1989 Polish parliamentary election on 4 June stands as the most direct precedent in Central European political history for what Hungary faces. Held under the terms of the Round Table Agreement between the communist PZPR government and the Solidarity opposition movement, the election was only partially free — 65 percent of Sejm seats were reserved for the communists — yet the result was a landslide that shocked both sides: Solidarity won all 161 freely contested Sejm seats and 99 of 100 Senate seats, demonstrating that when opposition movements successfully consolidate fractured anti-government sentiment, even structurally tilted systems can be overturned. The PZPR, confident that its structural guarantees would insulate it from defeat, had underestimated the depth of voter revulsion with 44 years of communist governance. Tadeusz Mazowiecki subsequently formed the first non-communist government in Central Europe since 1948, triggering a chain reaction that brought down regimes from East Germany to Romania within months.",
+      "parallel_analysis": "The parallel to Hungary's situation is precise but not perfectly mapped: Orbán's Fidesz, unlike the PZPR, faces no internationally brokered framework limiting its ability to contest the vote, and its years of electoral-law reengineering have made structural advantages more durable than those the Polish communists enjoyed. Yet the Polish experience suggests that opposition consolidation around a credible single challenger — as Solidarity provided and Magyar now attempts — can overcome institutional asymmetries that appear insurmountable from the outside.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Fuel protests escalate as Gardaí declare 'exceptional event' and every garda mobilized",
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Yellow Vests Movement (France, 2018–2020)",
+      "date_range": "2018–2020",
+      "summary": "The French Yellow Vests movement, which erupted on 17 November 2018 and persisted in varying intensity until mid-2020, provides the most instructive recent precedent for a democratic government facing an entrenched, decentralised fuel-cost protest capable of shutting down critical infrastructure. Like Ireland's current crisis, the gilets jaunes were triggered by a specific fuel tax measure that crystallised broader frustrations about economic inequality and the burden placed on rural and working-class households. An online petition attracted nearly one million signatures before the first roadway blockades appeared. Protesters occupied roundabouts nationwide, blockaded fuel depots and airports, and damaged over 60 percent of France's traffic cameras, with movement participants describing the disruption as the most severe civil unrest since May 1968. President Macron initially resisted, then in a televised address watched by 23 million viewers on 10 December 2018 announced emergency measures — a €100 monthly minimum wage increase and the freezing of planned fuel tax rises — representing a significant government capitulation in the face of sustained pressure.",
+      "parallel_analysis": "The Irish government's current posture — holding financial concessions in reserve until blockades cease — mirrors the initial Macron strategy that proved insufficient to defuse the crisis quickly. The French experience suggests that governments facing this class of protest must navigate a narrow path: offer concessions too early and they appear to reward disruption, but hold too long and the economic and social damage accumulates faster than political goodwill can absorb.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+      ]
+    }
+  ]
+}

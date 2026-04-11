@@ -1,0 +1,73 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-11T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Fuel protests escalate as Gardaí declare 'exceptional event' and every garda mobilized",
+      "summary": "An Garda Síochána has declared an 'exceptional event' in response to ongoing nationwide fuel protests, with every garda in the country ordered to work for the next three days. All members with public order training have been instructed to arrive in protective gear as blockades continue at fuel distribution centres and refineries. The protests, now in their fourth day, have resulted in more than 100 petrol stations running out of fuel across Ireland. Government ministers are finalising a 'significant and enhanced support package,' but the multimillion-euro financial package will not be unveiled until the nationwide blockades cease. Fianna Fáil backbenchers have expressed fury over the government's handling of the crisis.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0411/1567669-fuel-protest-ireland/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/every-garda-in-the-country-ordered-to-work-for-next-three-days-for-exceptional-event-7009535-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/10/live-fuel-protests-ireland-m50-dublin-luas/"},
+        {"name": "Breaking News Ireland", "url": "https://www.newsnow.com/us/World/Europe/Northern+Europe/Republic+of+Ireland"}
+      ],
+      "tags": ["politics", "economy", "transport"]
+    },
+    {
+      "headline": "Fuel blockades disrupt health services and leave teenager hospitalized due to protest-caused road closures",
+      "summary": "The ongoing fuel protests are causing severe disruptions to essential services across Ireland, with a major impact on healthcare delivery. A healthy 14-year-old boy has been forced to spend the weekend in a hospital rather than in appropriate emergency accommodation because Gardaí were unable to transport him to Tusla facilities in Dublin due to motorway blockades. Readers report delayed hospital appointments and unnecessary distress caused by the blockade-induced transport restrictions. The disruption extends beyond healthcare, affecting multiple sectors dependent on fuel access. These impacts highlight the real-world consequences of the protest movement beyond fuel supply concerns.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/10/healthy-teenager-must-spend-weekend-in-hospital-due-to-fuel-protests/"}
+      ],
+      "tags": ["health", "social", "transport"]
+    },
+    {
+      "headline": "Status Yellow weather warnings issued for six Irish counties amid wind and rain threat",
+      "summary": "Met Éireann has issued Status Yellow weather warnings for six Irish counties on April 11, 2026, warning of wind and rain conditions. The warnings alert to potential spot flooding, difficult travelling conditions, and fallen trees across affected areas. The weather alert comes as Ireland is already dealing with the fuel protests and related transport disruptions across the country.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0411/1567661-warnings-weather-ireland/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/status-yellow-weather-warnings-7009479-Apr2026/"}
+      ],
+      "tags": ["weather", "transport"]
+    },
+    {
+      "headline": "Soaring fuel costs drive surge in interest for electric and hybrid vehicles among Irish consumers",
+      "summary": "Rising fuel prices have triggered a dramatic increase in interest in electric and hybrid vehicles among Irish consumers. According to an Irish car dealer, interest in electric vehicles has 'at least doubled' in response to the escalating fuel costs. The fuel crisis is prompting consumers to explore alternative transportation options as petrol and diesel prices continue to climb. This shift reflects a broader market response to the economic pressure being exerted by the ongoing fuel protests and supply disruptions.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/economy/arid-41825213.html"}
+      ],
+      "tags": ["economy", "transport"]
+    },
+    {
+      "headline": "Further 36 infant remains discovered at Tuam mother and baby home site in DNA identification program",
+      "summary": "An additional 36 infant remains have been recovered from the Tuam mother and baby home site in County Galway as part of an ongoing exhumation programme. The latest bodies have been buried in coffins, and a systematic DNA identification programme is underway to identify the remains. This discovery continues the excavation work at the controversial site, which was operated for decades and has been the subject of public inquiry and investigation following revelations about conditions and treatment of residents.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/social-affairs/2026/04/10/further-36-infant-remains-recovered-at-tuam-mother-and-baby-home-site/"}
+      ],
+      "tags": ["social", "health"]
+    },
+    {
+      "headline": "Rory McIlroy extends Masters lead to six shots as Irish champion dominates Augusta",
+      "summary": "Rory McIlroy has extended his lead to six shots at the Masters Championship at Augusta National Golf Club, putting the Northern Irish golfer on track for a major victory. Fellow Irish competitor Shane Lowry remains in contention, currently tied for fourth place. McIlroy's dominant performance positions him as the strong favourite heading into the final rounds of the tournament.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/rory-mcilroy-masters-justin-rose-2-7009395-Apr2026/"}
+      ],
+      "tags": ["sport"]
+    },
+    {
+      "headline": "Cost-of-living crisis drives shoppers toward discount bulk-buying stores for weekly groceries",
+      "summary": "Irish families facing soaring weekly food bills are turning to discount bulk-buy stores to manage household budgets in the face of the ongoing cost-of-living crisis. A bulk-buy store in Ballincollig, Cork has seen increased footfall as shoppers seek cheaper prices, with many reporting significant savings. The trend reflects the broader economic pressure on Irish households as food and fuel costs continue to rise.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/spotlight/arid-41824970.html"}
+      ],
+      "tags": ["economy", "social"]
+    }
+  ]
+}

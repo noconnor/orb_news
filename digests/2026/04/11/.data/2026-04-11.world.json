@@ -1,0 +1,91 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-11T05:30:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US and Iran begin high-stakes ceasefire negotiations in Pakistan as VP Vance leads delegation",
+      "summary": "Vice President JD Vance is leading the American diplomatic team to Pakistan for direct talks with Iranian officials, marking the highest-level engagement between the two countries since the 1979 Islamic Revolution. This represents a significant shift following weeks of intense military escalation and conflict between US and Iranian forces across the Middle East. Pakistan has deployed over 10,000 military and police personnel to secure the talks, with Prime Minister Shehbaz Sharif calling the negotiations \"make or break\" for regional stability. Both delegations face several key sticking points including nuclear sanctions, the Strait of Hormuz, and regional proxy conflicts. The talks come as Trump administration officials have signaled a potential willingness to de-escalate, though deep distrust between the parties remains a significant obstacle to any agreement.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News", "url": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cn9qzl12537o"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/10/g-s1-117023/up-first-newsletter-iran-us-israel-jd-vance-artemis-two-melania-trump-fema-funds"}
+      ],
+      "tags": ["diplomacy", "conflict", "geopolitics"]
+    },
+    {
+      "headline": "NASA's Artemis II crew completes historic lunar mission, returning to Earth after 9+ days",
+      "summary": "Four astronauts aboard NASA's Artemis II spacecraft have safely splashed down on Earth, successfully completing the first crewed mission to travel around the Moon in over 50 years. The crew began their return journey from lunar orbit on April 10, with the dramatic splashdown occurring near San Diego on April 11, marking a major milestone for NASA's Artemis program. This mission represents a critical test of hardware and procedures that will be essential for future Moon landings and extended lunar exploration. The successful completion demonstrates progress toward the long-term goal of establishing sustained human presence on the Moon and eventually supporting missions to Mars. The mission generated significant international attention, highlighting the renewed global space race and the importance of human spaceflight achievements.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cgk0e12y1kgo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/10/nx-s1-5781327/nasa-artemis-ii-return-earth-splashdown-moon"}
+      ],
+      "tags": ["technology", "space", "achievement"]
+    },
+    {
+      "headline": "Hungary faces pivotal election as challenger Magyar leads polls against Orbán's 'illiberal democracy'",
+      "summary": "Hungarians are voting in a critical election that will test Viktor Orbán's controversial political model, with opposition leader Péter Magyar's movement leading in recent polls and attracting tens of thousands of anti-Orbán supporters to rallies in Budapest. The election outcome carries major implications for European Union governance and democratic principles, as Orbán's government has been criticized for undermining judicial independence and press freedom. Magyar's challenge represents a significant attempt to overturn 16 years of Orbán's dominance and represents broader voter frustration with governance and economic issues. The election is being closely watched by Washington, Moscow, Kyiv, and Brussels due to Hungary's role in EU affairs and its geopolitical position in Central Europe. The result will have ramifications for EU unity, NATO coordination, and the broader health of democratic institutions in Eastern Europe.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c0q9527y41lo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/10/nx-s1-5779931/hungary-election-orban-challenger"}
+      ],
+      "tags": ["elections", "governance", "EU"]
+    },
+    {
+      "headline": "Escalating Israeli-Lebanese conflict threatens regional stability as airstrikes kill scores and damage historic sites",
+      "summary": "Israeli military operations in Lebanon have intensified significantly, with recent airstrikes on government buildings in southern Lebanon killing at least 13 officers and damaging a 1,500-year-old Byzantine church in northern Israel after Hezbollah rocket attacks. The Lebanese Health Ministry reported that deaths from Israeli attacks since March 2 have risen to 1,953, reflecting a dramatic escalation of the long-simmering conflict. Hezbollah has responded with rocket barrages targeting civilian areas, raising concerns about the broader regional implications of the conflict. Lebanese and Israeli officials are scheduled to meet in the United States on Tuesday for ceasefire discussions, though a senior Lebanese official indicated Lebanon would only participate if a ceasefire was already in place. The escalation occurs amid broader Middle East tensions involving Iran, US forces, and Palestinian territories, with risks that the Israeli-Lebanese conflict could expand into a larger regional conflagration.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c93en5q2zl3o"}
+      ],
+      "tags": ["conflict", "Middle East", "diplomacy"]
+    },
+    {
+      "headline": "Iran threatens Strait of Hormuz toll collection as Trump administration warns against blocking critical shipping route",
+      "summary": "Iran has proposed imposing tolls on vessels transiting the Strait of Hormuz, a controversial move that violates international maritime trade norms and directly threatens global commerce. The proposal would effectively establish a de facto toll booth on one of the world's most critical shipping routes, through which approximately one-third of global maritime petroleum trade passes. Trump administration officials have explicitly stated that Washington will not accept Iran's imposition of such a system and indicated that the Strait will reopen \"soon,\" signaling potential military readiness to enforce freedom of navigation. The move represents a significant escalation of Iran's economic and strategic coercion amid the broader conflict with the US and Israel. Such action would have far-reaching economic consequences for global energy markets, supply chains, and international relations, making it a major point of contention in the ongoing negotiations.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks"}
+      ],
+      "tags": ["economy", "trade", "geopolitics"]
+    },
+    {
+      "headline": "Russia and Ukraine agree to Orthodox Easter ceasefire as Putin announces temporary suspension of hostilities",
+      "summary": "Russian President Vladimir Putin announced a ceasefire between Russian and Ukrainian forces during the Orthodox Easter holiday period, running from Saturday afternoon through Easter Sunday, representing a rare pause in the ongoing conflict. The agreement marks a temporary de-escalation in the nearly two-year-old war and reflects both practical considerations around the religious observance and potential diplomatic signals of willingness to negotiate. While the Easter truce is limited in duration, it provides a humanitarian break in active combat operations and demonstrates that both sides retain the capacity to coordinate on specific terms. The ceasefire occurs against the backdrop of broader international efforts to end the conflict, including potential negotiations and international pressure. However, the limited scope and duration of the truce underscore the deep divisions between Russia and Ukraine on fundamental issues related to territorial integrity and security guarantees.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Taiwan's opposition leader meets Xi Jinping in Beijing, signaling potential shift in cross-strait dynamics",
+      "summary": "Taiwan's opposition leader Cheng Li-wun, heading the Kuomintang (KMT) party, has met with Chinese President Xi Jinping in Beijing in a significant diplomatic engagement marking the first visit by a sitting KMT leader to China in a decade. During the meeting, Xi and Cheng agreed to pursue peace across the Taiwan Strait, though the specifics of any commitments remain unclear and potentially concerning to Taiwan's ruling government. Taiwan's ruling Democratic Progressive Party has expressed worry that the opposition party's engagement with Beijing could enable China to undermine Taiwan's democratic system and international standing. The meeting occurs amid broader geopolitical tensions involving the US, China, and Taiwan, with implications for regional stability in the Indo-Pacific. The diplomatic outreach reflects China's continued efforts to build relationships with political forces in Taiwan, even as cross-strait tensions remain elevated.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cj94y87k2ljo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition"}
+      ],
+      "tags": ["diplomacy", "geopolitics", "regional"]
+    },
+    {
+      "headline": "Suspect arrested in Molotov cocktail attack on OpenAI CEO Sam Altman's San Francisco home",
+      "summary": "Police have apprehended a suspect in connection with a Molotov cocktail attack on the San Francisco residence of OpenAI CEO Sam Altman, a violent incident highlighting heightened tensions around artificial intelligence and technology industry leadership. The attacker targeted Altman's home before dawn and fled the scene before law enforcement arrival, raising security concerns for prominent tech executives. The incident reflects broader societal anxieties and divisions regarding rapid AI advancement, corporate power, and the influence of technology companies on society. While investigative details remain limited, the attack represents a concerning escalation in direct action against corporate leaders and underscores the polarized debate surrounding AI development. The arrest provides some closure to the immediate security incident but highlights the need for heightened protection of prominent technology figures amid growing activism and extremism related to AI concerns.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack"}
+      ],
+      "tags": ["technology", "security", "conflict"]
+    }
+  ]
+}

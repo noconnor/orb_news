@@ -1,0 +1,81 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-11T06:01:23Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Hungary's Election Could Reshape Europe as Orbán Faces Strongest Challenge in 16 Years",
+      "summary": "Hungary will hold parliamentary elections on April 12, 2026, in what is shaping up to be a pivotal moment for the European Union. Prime Minister Viktor Orbán, who has dominated Hungarian politics since 2010, is trailing in many polls against opposition leader Péter Magyar of the center-right Tisza Party, which is positioning itself as pro-EU and pro-democracy. Magyar's emergence has been energized by widespread voter frustration with Orbán's governance, and tens of thousands of anti-Orbán supporters have rallied in Budapest in the final campaign days. International attention has intensified, with U.S. Vice President JD Vance traveling to Hungary to show support for Orbán, underlining the former's close ties to President Trump and the broader geopolitical stakes. The election is being widely described as the most important in the EU in 2026, with implications for Europe's democratic trajectory and its alignment with Western institutions versus closer ties to Russia.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c0q9527y41lo"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/10/elections-in-hungary-what-do-the-polls-say"},
+        {"name": "France24", "url": "https://www.france24.com/en/tv-shows/the-observers/20260410-artificial-intelligence-disinformation-orban-opponents-magyar-hungary-elections"}
+      ],
+      "tags": ["elections", "governance", "EU"]
+    },
+    {
+      "headline": "Trump Issues NATO Ultimatum to Resolve Strait of Hormuz Crisis Within Days",
+      "summary": "President Trump has issued a direct ultimatum to NATO Secretary General Mark Rutte demanding that the alliance reopen the Strait of Hormuz within days, escalating pressure on European member states. The crisis stems from ongoing tensions in the Middle East that have disrupted global energy supply routes, with Trump positioning NATO's intervention as a necessity. However, European NATO members, including Spain and Turkey, have rejected the ultimatum, arguing that the Strait of Hormuz falls outside NATO's remit and that the alliance is not obliged to intervene in what they characterize as a regional geopolitical issue. Spain's foreign minister declared that NATO will not participate in the conflict, while Turkey's trade minister echoed similar sentiments, asserting the alliance has no obligation to reopen the strait. This confrontation has exposed transatlantic tensions and raised questions among European leaders about the reliability of U.S. commitment to NATO, particularly given Trump's unpredictable approach to international alliances.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/10/trump-issues-nato-ultimatum-to-reopen-strait-of-hormuz-within-days"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/10/strait-of-hormuz-falls-outside-natos-remit-spain-says-after-trumps-ultimatum"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/10/nato-not-obliged-to-reopen-the-strait-turkeys-trade-minister-tells-euronews"}
+      ],
+      "tags": ["defence", "diplomacy", "governance"]
+    },
+    {
+      "headline": "Europe Questions U.S. Reliability as Trump's Unpredictability Reshapes Transatlantic Relations",
+      "summary": "Following Trump's conduct over Iran negotiations and his ultimatum regarding the Strait of Hormuz, European leaders have expressed serious concerns about the reliability and predictability of the United States as a transatlantic partner. EU foreign policy chief Kaja Kallas stated that the EU has begun taking 'the unpredictability of the United States into account' in its strategic planning, signaling a fundamental shift in European thinking. European Council President Antonio Costa acknowledged that the transatlantic relationship has 'changed,' while European Commission President Ursula von der Leyen warned that 'some lines have been crossed that cannot be uncrossed.' This reflects deep anxiety among European capitals about Trump's tendency to act unilaterally and his willingness to challenge traditional Western alliances. The statements indicate that Europe is preparing to assume greater strategic autonomy and reduce its dependence on American security guarantees, a significant development with long-term implications for NATO and EU defense policy.",
+      "sources": [
+        {"name": "The Guardian", "url": "https://www.theguardian.com/world/europe-news"}
+      ],
+      "tags": ["diplomacy", "defence", "EU"]
+    },
+    {
+      "headline": "EU Considers Windfall Profit Taxes on Energy Companies Amid Continued Crisis",
+      "summary": "The European Commission is actively considering the implementation of excessive profit taxes on oil and gas companies, mirroring mechanisms deployed during the 2022 energy crisis. This policy response reflects mounting political pressure across EU member states to address surging energy costs, which are exacerbated by geopolitical tensions including the ongoing Iran conflict and global supply chain disruptions. The proposed windfall tax would target companies that have benefited from elevated energy prices caused by reduced supply and heightened demand. However, questions remain about the scope of the tax framework, particularly regarding the treatment of foreign profits and how different member states will coordinate implementation. The measure represents an attempt to balance energy market stabilization with revenue generation while maintaining investor confidence and ensuring adequate supply during periods of heightened global uncertainty.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/10/eu-considering-excessive-profit-taxes-on-oil-and-gas-companies-foreign-profits-remain-uncl"}
+      ],
+      "tags": ["economy", "regulation", "climate"]
+    },
+    {
+      "headline": "AI-Generated Disinformation Emerges as Major Threat in Hungary's High-Stakes Elections",
+      "summary": "Hungary's April 12 election campaign has been marked by the widespread deployment of AI-generated disinformation, with Prime Minister Viktor Orbán's Fidesz party utilizing synthetic videos and manipulated content to target opposition leader Péter Magyar. This represents an escalation in the use of artificial intelligence for political purposes, with deepfakes and fabricated media designed to distort the campaign narrative and mislead voters. The disinformation campaign underscores broader concerns about election integrity in the digital age and the vulnerability of democracies to coordinated manipulation tactics. The deployment of such technology by an incumbent government has drawn international criticism and raised questions about the tools available to electoral observers and voter protection mechanisms. This development has broader implications for EU election security and highlights the need for coordinated measures across member states to combat AI-driven disinformation in future electoral contests.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/tv-shows/the-observers/20260410-artificial-intelligence-disinformation-orban-opponents-magyar-hungary-elections"}
+      ],
+      "tags": ["elections", "governance", "regulation"]
+    },
+    {
+      "headline": "Lithuania Strengthens Economic and Energy Ties with Azerbaijan",
+      "summary": "Lithuania's Prime Minister Inga Ruginienė has undertaken a strategic visit to Azerbaijan to expand bilateral economic partnerships, focusing on energy, trade, and transport connectivity. The initiative reflects Lithuania's efforts to diversify energy sources and strengthen regional economic networks within a broader European context of reducing energy dependence. The partnership targets cooperation in multiple sectors while positioning Azerbaijan as a significant energy supplier for EU supply chains. The visit also signals Lithuania's interest in promoting EU connectivity across the South Caucasus region, supporting broader European infrastructure and trade initiatives. This engagement reflects Baltic states' strategic positioning between European institutions and broader Eurasian energy and trade networks.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/10/lithuania-and-azerbaijan-expand-business-ties-with-focus-on-energy-trade-and-eu-connectivi"}
+      ],
+      "tags": ["economy", "trade", "energy"]
+    },
+    {
+      "headline": "Portugal Falls Behind EU Targets on Plastic Recycling Despite New Sustainability Initiative",
+      "summary": "Portugal continues to lag significantly behind European Union recycling targets, maintaining one of the lowest utilization rates for recycled materials in the bloc at approximately three percent in 2024. Despite these concerning figures, Portugal has introduced a new recycling scheme aimed at improving the nation's environmental performance and bringing the country into compliance with EU sustainability standards. The initiative reflects growing pressure across the EU to meet ambitious climate and circular economy objectives outlined in the European Green Deal and related regulations. Portugal's underperformance highlights broader challenges in transitioning member states toward sustainable resource management and circular economy models. The success of Portugal's new scheme will be closely monitored as a test case for other lagging member states attempting to accelerate their environmental compliance.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/10/portugals-plastic-recycling-rates-lag-behind-european-targets-but-a-new-scheme-aims-to-cha"}
+      ],
+      "tags": ["climate", "regulation", "EU"]
+    },
+    {
+      "headline": "Historic U.S.-Iran Talks Mark Potential De-escalation Amid Regional Tensions",
+      "summary": "Face-to-face negotiations between the United States and Iran are set to commence, representing the highest-level diplomatic engagement between the two nations since the 1979 Islamic Revolution. The talks present a critical opportunity to bridge deep historical distrust and address escalating regional tensions that have disrupted global energy markets and created spillover effects for European economies. The engagement has been closely monitored by European capitals, as any resolution of U.S.-Iran tensions could significantly impact energy prices, supply chain stability, and regional geopolitical dynamics affecting European interests. The negotiations underscore efforts by both powers to find diplomatic solutions to their longstanding differences, though substantial obstacles remain given decades of mutual suspicion and competing strategic interests. European observers are watching these talks closely, recognizing that their outcome will have direct implications for energy security and broader Middle East stability.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cn9qzl12537o"}
+      ],
+      "tags": ["diplomacy", "economy", "energy"]
+    }
+  ]
+}
