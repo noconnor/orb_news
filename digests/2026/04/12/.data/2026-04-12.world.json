@@ -1,0 +1,81 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-12T04:30:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US-Iran peace talks conclude without agreement after three-day negotiation",
+      "summary": "US Vice President JD Vance announced that peace talks between the United States and Iran in Islamabad ended without reaching an agreement after 21 hours of negotiations. The US delegation presented what it described as their \"final and best offer,\" which Iran rejected. The talks focused on key sticking points including Iran's control of the Strait of Hormuz and broader ceasefire terms. Iran's deputy foreign minister countered that Tehran held the \"upper hand\" in negotiations. The breakdown marks a significant moment in ongoing Middle East tensions, with implications for regional stability and international energy markets.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHgtUk1lSzEwQUpQOEwyLWNzWml3RkoxUkMwd29YbWlzdXY2MVd2OHlhekljNWNaSFhiYTZNSFZyb3oxY0J6cWFLaWUwc05HNkJQZDlNNE4zMkxLMWhfSlpGRnlteTZNMFJtdkVTWFZaeWs0Qk5WWVVIb0d6cEpXeDJlTV8wR0ZudTZPZG9RWEwzVXREUEYzZ0xrTko5NkNoaWlQXw?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cx2wyn8wdz0o"}
+      ],
+      "tags": ["diplomacy", "conflict", "geopolitics"]
+    },
+    {
+      "headline": "Artemis II crew completes historic lunar mission, splashing down safely in Pacific",
+      "summary": "Four NASA astronauts returned to Earth after completing the Artemis II mission, which took them further from Earth than any humans in history during a nine-day voyage around the Moon. The crew splashed down in the Pacific Ocean off the coast of the United States, marking a successful conclusion to the test flight that paves the way for future lunar landings. The mission demonstrated critical systems and procedures needed for the Artemis program to return humans to the Moon's surface. The successful return was celebrated nationwide and represents a major milestone for NASA's long-term space exploration goals. The mission's success, despite technical challenges, underscores the advancing capabilities of modern space programs.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVy14Yk55T1BZN2QtX2R4YUdNY3RLM1M3aWxtbkYxUHh0OFAzd0ZISHNZYmZDZmV6Q3FrX20yQVg0MjJUcDVyVmZTNW0xR294VW0xdElGWGd5YTdJbHFraU1tVEI1UU9zR1Mtamp4NENnRTNSS3RSbHlCQnJCTldzcEVRazJ5YzVzMFVIOUxram94czdvOXdGbDFRLWtjVWtG?oc=5"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cr51z54d5rpo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/11/nx-s1-5781820/artemis-ii-splashdown-captures-nationwide-attention"}
+      ],
+      "tags": ["technology", "space", "achievement"]
+    },
+    {
+      "headline": "Hungarian voters hold election that could end Viktor Orbán's 16-year rule",
+      "summary": "Hungarians voted on April 12 in a landmark election that could potentially end Prime Minister Viktor Orbán's 16-year tenure as Europe's longest-serving current leader. Opposition candidate Péter Magyar, fronting a grassroots party, polled ahead of Orbán in most surveys, though the incumbent remained defiant about his prospects. The election has drawn significant international attention from the EU, United States, and Russia, given Orbán's controversial leadership style and geopolitical alignments. The vote represents a critical moment for Hungarian democracy and European political trajectory. The outcome will likely have implications for EU policy and regional stability in Central Europe.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0FINjZHRk5nTFlkMEtuX2JQd2Z6em82LUxYUXR1YUduaEl5ODR2Mng4bXBPNnd5aVE2dHBPQTB6SGJqRFdkcVl6ejRNNUx5R2hMYktNOGRBRmlwME5RUl9ZUnBoV1hmLURYOGtUNi1vSFRLdU9ZYmVrZkd3Y1A4ZUNBUkN4ZmdwNFp1bDlNbDhyNmtOcFliUDhsQ3EyblFJMURPT0RMWF8wWFRpbmYzTDd3SWY?oc=5"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/11/nx-s1-5773320/in-hungary-upcoming-elections-could-bring-an-end-to-orbans-16-year-rule"}
+      ],
+      "tags": ["elections", "governance", "Europe"]
+    },
+    {
+      "headline": "Israel approves 34 new West Bank settlements amid escalating Palestinian tensions",
+      "summary": "Israel announced approval for 34 new settlements in the occupied West Bank, drawing sharp condemnation from Palestinian authorities who expressed alarm about potential displacement and land loss. The settlement expansion comes amid broader escalation, including Israeli strikes that have killed at least 18 people across southern Lebanon and multiple air strikes on Gaza. Israeli settlers also killed a Palestinian during a raid on a West Bank village. The settlement approvals represent a significant expansion of Israeli presence in occupied Palestinian territory and undermine international peace efforts. The moves have intensified regional tensions and prompted international concern about the humanitarian situation.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpOZm1fa1AtbVpwdGExUnU1RDF0dnR1alhiaGJjNlBpeGJWalV6TVN6MG83aHRjajRSQWdxaFlDNEVQcEdEdHBRLXNEbFI3cTg1THpucXpKWWZmazhMdERCLXp0WU9aMFQzYVo3YnVnXzh6LUN3RVE2TlRwU1pjaWJXUmp1emNlWEhOVDlheXg1Sno0LTJhQUdQNWNIQmVIVnYwQ3ZCeGxYaENY?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c5y721yqe6ro"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Stampede at Haiti's historic Laferrière Citadel kills at least 30 people",
+      "summary": "A deadly stampede at Haiti's historic Laferrière Citadel in the Cap-Haïtien region claimed at least 30 lives in one of the country's worst recent humanitarian disasters. The incident occurred at the UNESCO World Heritage site, one of Haiti's most significant tourist and cultural landmarks. The tragedy highlights the ongoing challenges of security and crowd management in Haiti, a nation grappling with gang violence, political instability, and economic hardship. Emergency services responded to the disaster, but the incident has raised questions about safety protocols at public venues. The deaths underscore the broader humanitarian crisis affecting the Caribbean nation.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpOZm1fa1AtbVpwdGExUnU1RDF0dnR1alhiaGJjNlBpeGJWalV6TVN6MG83aHRjajRSQWdxaFlDNEVQcEdEdHBRLXNEbFI3cTg1THpucXpKWWZmazhMdERCLXp0WU9aMFQzYVo3YnVnXzh6LUN3RVE2TlRwU1pjaWJXUmp1emNlWEhOVDlheXg1Sno0LTJhQUdQNWNIQmVIVnYwQ3ZCeGxYaENY?oc=5"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5"}
+      ],
+      "tags": ["humanitarian", "disaster", "tragedy"]
+    },
+    {
+      "headline": "Pope Leo urges world leaders to reject war and embrace peace negotiations",
+      "summary": "Pope Leo XIV called on world leaders to reject military conflict and prioritize diplomatic negotiations to settle international differences. The pontiff specifically invoked the \"madness of war\" while commenting on the ongoing US-Iran tensions and broader global conflicts. The Pope's plea comes as the Vatican has historically positioned itself as a moral voice calling for peace during geopolitical crises. Religious leaders worldwide echoed similar messages of peace during the turbulent period. The papal intervention highlights the international concern about escalating military tensions.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXpPT0NLSDVfcjcxQTBGUTB6M3Q2VEhhYmtKa0w1Y2NTSlBaVWEwdEJoLWJCYVJuV0tzaEFnb0VwUXNuWVZlZmpTR2xOTHVHMllPeFZHNmkwVVJfaFFuSWNMT0NuLVV3S2J3VG13X0VQd1J5aFN2NWp0REVxalM1b2Nsb2Zad0Q0N1BZZ25pbkJhM096SjhR?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/11/g-s1-117150/pope-leo-us-iran-war-israel-denounce"}
+      ],
+      "tags": ["diplomacy", "conflict", "governance"]
+    },
+    {
+      "headline": "Severe cyclone batters New Zealand's North Island, hundreds evacuated",
+      "summary": "A powerful cyclone lashed New Zealand's North Island, forcing hundreds of residents to evacuate their homes and causing significant disruption across the region. The storm brought severe winds and heavy rainfall, threatening infrastructure and emergency services. Weather authorities issued multiple warnings urging residents to seek shelter and avoid travel during the peak of the system's intensity. The cyclone is part of a broader pattern of increasingly severe weather events affecting the Pacific region. The disaster highlighted New Zealand's vulnerability to extreme weather and tested emergency response systems.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2JzenhnMVBCblRxdndKd2d0YW5KYnVVUHBkNWhmNFQyLUkwb25PSURLdUNjMDlnNmpuM2FXZ1V3WXRERUEtYl9ReHJJRlJzWU1hYWtZZ2RNbzIyemlNUExCUVI1Vko0bERnSXN0OTNkeC1QWEtSel82cDZ1c3U4NFo2OFNBd1RWMExlaXJmUzhvdGRTR2xqUlBqZHExVzRUeVNTRjgwWWxaZkg1ZTlFUGtrcHdwbnh5R1Q2a3pMM28xY1U?oc=5"}
+      ],
+      "tags": ["climate", "disaster", "weather"]
+    }
+  ]
+}

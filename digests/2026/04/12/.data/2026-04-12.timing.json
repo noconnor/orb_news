@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-12",
+  "update_type": "morning",
+  "steps": {
+    "setup": {
+      "start": 1775970013,
+      "end": 1775970034,
+      "duration_s": 21
+    },
+    "gather": {
+      "start": 1775970034,
+      "end": 1775970171,
+      "duration_s": 137
+    },
+    "write": {
+      "start": 1775970171,
+      "end": 1775970496,
+      "duration_s": 325
+    },
+    "audio": {
+      "start": 1775970496,
+      "end": 1775970599,
+      "duration_s": 103
+    }
+  },
+  "total_duration_s": 586,
+  "estimated_cost_usd": 0.15
+}

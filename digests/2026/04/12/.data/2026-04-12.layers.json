@@ -1,0 +1,437 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-12T10:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Fuel Crisis Brings Ireland to Standstill as Protests Persist Into Fifth Day",
+        "summary": "Ireland's fuel protests have escalated dramatically, with approximately 40 percent of the nation's forecourts now without fuel as only 25 percent of normal daily deliveries are being completed. The M50 in Dublin remains partially closed, public transport services including Dublin Bus and Luas are heavily disrupted, and blockades at key infrastructure points including Whitegate refinery in Cork continue despite the official stand-down of the formal protest. The government has warned of an impending humanitarian crisis, with industry leaders stating that people could die if the blockades persist, while garda\u00ed have been mobilized with all members in public order units instructed to work over the next three days in protective gear. Cabinet meetings are scheduled to finalize a substantial fuel support package targeting hauliers, farmers, and food supply chain workers. The crisis has paralyzed normal economic activity across the country with major road networks affected including the M7, M8, and M9.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0412/1567756-cabinet-meeting/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/fuel-shortages-ireland-7009842-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/11/live-fuel-protests-ireland-m50-dublin-luas/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41825720.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Government Moves to Resolve Fuel Crisis With 'Substantial' Support Package",
+        "summary": "The Irish government is finalizing an emergency fuel support scheme aimed at bringing an end to the nationwide fuel blockades that have crippled the country. The Temporary Fuel Support Scheme is expected to target hauliers, farmers, and food supply chain workers with financial assistance to mitigate the impact of the ongoing protests. Government representatives have been engaged in talks with protest organizers that have been described as 'positive,' and the cabinet is set to meet on Sunday to formalize the package details. The scheme conditions financial aid on the ending of all nationwide blockades and the restoration of normal fuel distribution. Industry leaders and government officials have stressed the urgency of resolving the crisis, warning of severe consequences for emergency services and supply chains if the protests continue.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/farmers-group-might-let-protesters-join-talks-with-govt-if-they-can-get-themselves-organised-7009690-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/11/temporary-fuel-support-payments-expected-following-government-talks-with-groups/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41825444.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Irish Golfers McIlroy and Lowry Compete for Masters Glory in Final Round",
+        "summary": "Irish golf stars Rory McIlroy and Shane Lowry are poised for a dramatic final round at the Masters Tournament at Augusta National. McIlroy, who had been leading the competition, experienced an erratic third round that cost him ground, leaving him tied for the lead but vulnerable heading into Sunday's finale. Lowry surged into contention with a strong performance, sitting just two shots behind the leading pair and appearing well-positioned for a potential victory. Lowry notably made a hole-in-one during his round at Augusta, adding to the drama of the tournament. Both players represent Ireland's strongest hopes for a major championship victory and their final-round performances will be closely followed by Irish sports fans.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/mcilroy-and-lowry-day-three-masters-2-7010336-Apr2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport/golf/arid-41825831.html"
+          }
+        ],
+        "tags": [
+          "sport"
+        ]
+      },
+      {
+        "headline": "Garda Operation Clears O'Connell Street as Fuel Protests Transform Into Public Order Challenge",
+        "summary": "An extensive garda operation has cleared Dublin's O'Connell Street of protestors, though agricultural vehicles related to the broader fuel blockade remain in some locations. The operation represents a significant escalation in the state's response to the ongoing protests, with garda\u00ed mobilized en masse to maintain public order during what authorities are treating as an 'exceptional event.' All members of the garda\u00ed with public order training have been activated and directed to wear protective gear, signaling the serious nature of the security response. The clearance of O'Connell Street marks a turning point where the garda response has shifted from monitoring to active dispersal operations. The operations come amid ongoing negotiations with protest organizers over a government fuel support package.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0412/1567756-cabinet-meeting/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "crime"
+        ]
+      },
+      {
+        "headline": "Cork Ladies Football Team Claims First League Title Since 2019 With Dramatic Victory",
+        "summary": "Cork's ladies football team has secured their first league title since 2019 in a thrilling match marked by late-game heroics. The team staged a dramatic comeback, scoring crucial goals in the final moments to stun opponents Galway and claim the championship. The victory represents a significant achievement for Cork women's football and demonstrates the quality of women's Gaelic games in Munster. The win adds to the cultural significance of Gaelic sports in Irish life and showcases the competitive standard of women's football at inter-county level. The achievement provides a positive counterpoint to the broader disruption and crisis dominating national headlines.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport/gaa/arid-41825723.html"
+          }
+        ],
+        "tags": [
+          "sport",
+          "social"
+        ]
+      },
+      {
+        "headline": "Weather Warnings Issued Across Six Irish Counties",
+        "summary": "Status Yellow weather warnings have been issued for six counties across Ireland, alerting the public to potentially hazardous weather conditions. The warnings represent a precautionary measure to ensure public safety during periods of adverse weather. Specific details of the weather threat vary by county but typically include wind, rainfall, or other meteorological hazards. Residents in affected areas are advised to exercise caution and take appropriate protective measures. The warnings come amid the wider national disruption caused by the fuel protests.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/"
+          }
+        ],
+        "tags": [
+          "weather"
+        ]
+      },
+      {
+        "headline": "Healthcare Assistant Faces Court on Airport Smuggling Allegations",
+        "summary": "A healthcare assistant has been accused in Dublin court of smuggling a woman through Dublin Airport using fraudulent documentation. The court case involves allegations of serious breaches of airport security and immigration protocols, with the defendant accused of helping a passenger bypass standard security procedures using false papers. The case highlights vulnerabilities in airport security procedures and the extent to which some individuals may go to circumvent travel controls. The specific details of the alleged offense and the motivation remain under judicial examination. The case proceeds amid heightened national focus on security matters.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/04/11/healthcare-assistant-accused-of-smuggling-woman-through-dublin-airport/"
+          }
+        ],
+        "tags": [
+          "crime"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-12T06:01:23Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Hungarians vote in pivotal election that could reshape EU dynamics",
+        "summary": "Hungarian voters went to the polls on April 12 to decide between incumbent Prime Minister Viktor Orb\u00e1n and opposition challenger P\u00e9ter Magyar in what analysts describe as one of the most significant European elections in years. Latest polls show Magyar's Tisza party ahead, which could threaten Orb\u00e1n's 16-year grip on power and potentially shift Hungary's alignment within the EU on issues including Ukraine aid, Russian energy imports, and European defense policy. Orb\u00e1n has overseen Hungary's transformation into what critics call an illiberal state, using constitutional changes to entrench his Fidesz party's dominance. The election outcome carries broad European implications, as Hungary has frequently blocked EU consensus on critical matters including sanctions, defense initiatives, and Ukraine support. A Tisza victory could herald a significant realignment of EU relations and influence.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cdxdepjrv95o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260412-hungarians-vote-in-closely-watched-election-with-orban-s-rule-on-line"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/11/from-insider-to-rival-how-peter-magyar-became-orbans-most-serious-challenger-in-16-years"
+          }
+        ],
+        "tags": [
+          "EU",
+          "elections",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Russia and Ukraine exchange prisoners amid fragile Orthodox Easter ceasefire",
+        "summary": "Russia and Ukraine exchanged 175 prisoners of war and seven civilians each on Saturday as part of a 32-hour Orthodox Easter ceasefire that began on April 11. The United Arab Emirates mediated the exchange, marking a rare moment of cooperation between the warring parties. Both Moscow and Kyiv swiftly accused each other of violating the truce, with Russian forces reporting Ukrainian strikes near Nova Kakhovka, though a temporary halt to major operations was observed. The ceasefire reflected earlier Ukrainian proposals to pause hostilities during Easter, though both sides acknowledged the fragility of the agreement. Historical precedent suggests the truce may not hold, with neither side expecting lasting peace from this weekend pause.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cj0vn30574no"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260411-russia-ukraine-swap-hundreds-of-prisoners-of-war-ahead-of-easter-truce"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/11/ukraine-and-russia-exchange-prisoners-ahead-of-orthodox-easter-ceasefire"
+          }
+        ],
+        "tags": [
+          "defence",
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "US and Iran open high-stakes peace talks in Pakistan amid regional tensions",
+        "summary": "US Vice President JD Vance and Iranian officials began intensive 21-hour negotiations in Islamabad, Pakistan on April 11-12, marking the first high-level diplomatic engagement to address escalating regional tensions. The talks followed reduced Israeli strikes on Lebanon and represented an attempt to de-escalate conflicts affecting European energy security and shipping routes. Vance stated that Iran chose not to accept American terms, suggesting disagreements over key demands remain. The outcome of these negotiations carries implications for European energy prices, particularly regarding disruptions to the Strait of Hormuz and Middle Eastern oil supplies. Airport industry groups have warned that prolonged regional instability could trigger critical fuel shortages in Europe within weeks.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/videos/cqj82xn9n8eo"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/11/us-and-iranian-officials-begin-high-stakes-peace-talks-in-pakistan-to-resolve-war"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Pope Leo XIV calls for end to religious justifications for war as geopolitical tensions mount",
+        "summary": "Pope Leo XIV issued strong statements on April 11 criticizing leaders' use of religion to justify military actions, expressing growing frustration with the continuation of warfare. The pontiff's remarks reflected the Vatican's concerns about religious rhetoric being weaponized in ongoing conflicts, particularly regarding Ukraine. Pope Leo's intervention adds moral authority to international calls for de-escalation and peace in European regional conflicts. The timing coincides with the Easter ceasefire period and broader diplomatic efforts to resolve disputes. His position signals the Catholic Church's increasing engagement with geopolitical crises affecting the continent.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/11/pope-leo-xiv-says-enough-of-the-idolatry-as-he-grows-increasingly-frustrated-over-war"
+          }
+        ],
+        "tags": [
+          "governance",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "European house prices surge as property markets show strong growth despite economic uncertainty",
+        "summary": "European housing prices rose 5.5% in the fourth quarter of 2025, according to latest EU data released April 11, with several Southern European countries posting particularly strong gains. Portugal, Croatia, and Spain led growth in the EU property market, reflecting continued demand for real estate despite broader economic concerns. The data suggests divergent economic performance across the bloc, with some member states experiencing robust housing market appreciation while others face pressures from energy costs and inflation. Strong housing growth in specific regions highlights economic disparities within the EU that could complicate unified policy responses to continent-wide challenges.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Armenia and Azerbaijan civil societies advance South Caucasus peace process with new dialogue round",
+        "summary": "Civil society representatives from Armenia and Azerbaijan held a fourth round of peace bridge initiative discussions on April 11, continuing efforts to build grassroots support for conflict resolution in the South Caucasus. The talks represent an important bottom-up complement to official government negotiations, engaging community leaders and activists from both nations in dialogue aimed at overcoming decades of hostility. While official political progress has been limited, the sustained engagement of civil societies signals commitment to finding peaceful solutions. European Union and international mediators have emphasized the importance of these track-two diplomatic channels in building foundations for sustainable peace.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/11/armenia-and-azerbaijan-civil-societies-hold-new-round-of-broad-talks-to-advance-peace-process"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "EU",
+          "defence"
+        ]
+      },
+      {
+        "headline": "European airport operators warn of imminent fuel shortages if Strait of Hormuz remains disrupted",
+        "summary": "The Airports Council International issued an urgent warning on April 10 that critical kerosene shortages could affect European aviation within three weeks if disruptions to the Strait of Hormuz persist. The closure or blockade of the strategic waterway threatens supplies of aviation fuel across the continent, with potential cascading effects on air transport and trade. European airports are already grappling with energy cost pressures from regional conflicts, and a fuel supply crisis would compound existing economic burdens. The warning underscores how Middle Eastern geopolitical tensions directly impact European infrastructure and economies, making resolution of regional conflicts a continental priority.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/04/10/airport-council-warns-hormuz-closure-poses-major-fuel-shortage-risks"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "defence"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-12T04:30:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US-Iran peace talks conclude without agreement after three-day negotiation",
+        "summary": "US Vice President JD Vance announced that peace talks between the United States and Iran in Islamabad ended without reaching an agreement after 21 hours of negotiations. The US delegation presented what it described as their \"final and best offer,\" which Iran rejected. The talks focused on key sticking points including Iran's control of the Strait of Hormuz and broader ceasefire terms. Iran's deputy foreign minister countered that Tehran held the \"upper hand\" in negotiations. The breakdown marks a significant moment in ongoing Middle East tensions, with implications for regional stability and international energy markets.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHgtUk1lSzEwQUpQOEwyLWNzWml3RkoxUkMwd29YbWlzdXY2MVd2OHlhekljNWNaSFhiYTZNSFZyb3oxY0J6cWFLaWUwc05HNkJQZDlNNE4zMkxLMWhfSlpGRnlteTZNMFJtdkVTWFZaeWs0Qk5WWVVIb0d6cEpXeDJlTV8wR0ZudTZPZG9RWEwzVXREUEYzZ0xrTko5NkNoaWlQXw?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cx2wyn8wdz0o"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Artemis II crew completes historic lunar mission, splashing down safely in Pacific",
+        "summary": "Four NASA astronauts returned to Earth after completing the Artemis II mission, which took them further from Earth than any humans in history during a nine-day voyage around the Moon. The crew splashed down in the Pacific Ocean off the coast of the United States, marking a successful conclusion to the test flight that paves the way for future lunar landings. The mission demonstrated critical systems and procedures needed for the Artemis program to return humans to the Moon's surface. The successful return was celebrated nationwide and represents a major milestone for NASA's long-term space exploration goals. The mission's success, despite technical challenges, underscores the advancing capabilities of modern space programs.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVy14Yk55T1BZN2QtX2R4YUdNY3RLM1M3aWxtbkYxUHh0OFAzd0ZISHNZYmZDZmV6Q3FrX20yQVg0MjJUcDVyVmZTNW0xR294VW0xdElGWGd5YTdJbHFraU1tVEI1UU9zR1Mtamp4NENnRTNSS3RSbHlCQnJCTldzcEVRazJ5YzVzMFVIOUxram94czdvOXdGbDFRLWtjVWtG?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cr51z54d5rpo"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/11/nx-s1-5781820/artemis-ii-splashdown-captures-nationwide-attention"
+          }
+        ],
+        "tags": [
+          "technology",
+          "space",
+          "achievement"
+        ]
+      },
+      {
+        "headline": "Hungarian voters hold election that could end Viktor Orb\u00e1n's 16-year rule",
+        "summary": "Hungarians voted on April 12 in a landmark election that could potentially end Prime Minister Viktor Orb\u00e1n's 16-year tenure as Europe's longest-serving current leader. Opposition candidate P\u00e9ter Magyar, fronting a grassroots party, polled ahead of Orb\u00e1n in most surveys, though the incumbent remained defiant about his prospects. The election has drawn significant international attention from the EU, United States, and Russia, given Orb\u00e1n's controversial leadership style and geopolitical alignments. The vote represents a critical moment for Hungarian democracy and European political trajectory. The outcome will likely have implications for EU policy and regional stability in Central Europe.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0FINjZHRk5nTFlkMEtuX2JQd2Z6em82LUxYUXR1YUduaEl5ODR2Mng4bXBPNnd5aVE2dHBPQTB6SGJqRFdkcVl6ejRNNUx5R2hMYktNOGRBRmlwME5RUl9ZUnBoV1hmLURYOGtUNi1vSFRLdU9ZYmVrZkd3Y1A4ZUNBUkN4ZmdwNFp1bDlNbDhyNmtOcFliUDhsQ3EyblFJMURPT0RMWF8wWFRpbmYzTDd3SWY?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/11/nx-s1-5773320/in-hungary-upcoming-elections-could-bring-an-end-to-orbans-16-year-rule"
+          }
+        ],
+        "tags": [
+          "elections",
+          "governance",
+          "Europe"
+        ]
+      },
+      {
+        "headline": "Israel approves 34 new West Bank settlements amid escalating Palestinian tensions",
+        "summary": "Israel announced approval for 34 new settlements in the occupied West Bank, drawing sharp condemnation from Palestinian authorities who expressed alarm about potential displacement and land loss. The settlement expansion comes amid broader escalation, including Israeli strikes that have killed at least 18 people across southern Lebanon and multiple air strikes on Gaza. Israeli settlers also killed a Palestinian during a raid on a West Bank village. The settlement approvals represent a significant expansion of Israeli presence in occupied Palestinian territory and undermine international peace efforts. The moves have intensified regional tensions and prompted international concern about the humanitarian situation.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpOZm1fa1AtbVpwdGExUnU1RDF0dnR1alhiaGJjNlBpeGJWalV6TVN6MG83aHRjajRSQWdxaFlDNEVQcEdEdHBRLXNEbFI3cTg1THpucXpKWWZmazhMdERCLXp0WU9aMFQzYVo3YnVnXzh6LUN3RVE2TlRwU1pjaWJXUmp1emNlWEhOVDlheXg1Sno0LTJhQUdQNWNIQmVIVnYwQ3ZCeGxYaENY?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5y721yqe6ro"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Stampede at Haiti's historic Laferri\u00e8re Citadel kills at least 30 people",
+        "summary": "A deadly stampede at Haiti's historic Laferri\u00e8re Citadel in the Cap-Ha\u00eftien region claimed at least 30 lives in one of the country's worst recent humanitarian disasters. The incident occurred at the UNESCO World Heritage site, one of Haiti's most significant tourist and cultural landmarks. The tragedy highlights the ongoing challenges of security and crowd management in Haiti, a nation grappling with gang violence, political instability, and economic hardship. Emergency services responded to the disaster, but the incident has raised questions about safety protocols at public venues. The deaths underscore the broader humanitarian crisis affecting the Caribbean nation.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpOZm1fa1AtbVpwdGExUnU1RDF0dnR1alhiaGJjNlBpeGJWalV6TVN6MG83aHRjajRSQWdxaFlDNEVQcEdEdHBRLXNEbFI3cTg1THpucXpKWWZmazhMdERCLXp0WU9aMFQzYVo3YnVnXzh6LUN3RVE2TlRwU1pjaWJXUmp1emNlWEhOVDlheXg1Sno0LTJhQUdQNWNIQmVIVnYwQ3ZCeGxYaENY?oc=5"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "disaster",
+          "tragedy"
+        ]
+      },
+      {
+        "headline": "Pope Leo urges world leaders to reject war and embrace peace negotiations",
+        "summary": "Pope Leo XIV called on world leaders to reject military conflict and prioritize diplomatic negotiations to settle international differences. The pontiff specifically invoked the \"madness of war\" while commenting on the ongoing US-Iran tensions and broader global conflicts. The Pope's plea comes as the Vatican has historically positioned itself as a moral voice calling for peace during geopolitical crises. Religious leaders worldwide echoed similar messages of peace during the turbulent period. The papal intervention highlights the international concern about escalating military tensions.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXpPT0NLSDVfcjcxQTBGUTB6M3Q2VEhhYmtKa0w1Y2NTSlBaVWEwdEJoLWJCYVJuV0tzaEFnb0VwUXNuWVZlZmpTR2xOTHVHMllPeFZHNmkwVVJfaFFuSWNMT0NuLVV3S2J3VG13X0VQd1J5aFN2NWp0REVxalM1b2Nsb2Zad0Q0N1BZZ25pbkJhM096SjhR?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/11/g-s1-117150/pope-leo-us-iran-war-israel-denounce"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Severe cyclone batters New Zealand's North Island, hundreds evacuated",
+        "summary": "A powerful cyclone lashed New Zealand's North Island, forcing hundreds of residents to evacuate their homes and causing significant disruption across the region. The storm brought severe winds and heavy rainfall, threatening infrastructure and emergency services. Weather authorities issued multiple warnings urging residents to seek shelter and avoid travel during the peak of the system's intensity. The cyclone is part of a broader pattern of increasingly severe weather events affecting the Pacific region. The disaster highlighted New Zealand's vulnerability to extreme weather and tested emergency response systems.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2JzenhnMVBCblRxdndKd2d0YW5KYnVVUHBkNWhmNFQyLUkwb25PSURLdUNjMDlnNmpuM2FXZ1V3WXRERUEtYl9ReHJJRlJzWU1hYWtZZ2RNbzIyemlNUExCUVI1Vko0bERnSXN0OTNkeC1QWEtSel82cDZ1c3U4NFo2OFNBd1RWMExlaXJmUzhvdGRTR2xqUlBqZHExVzRUeVNTRjgwWWxaZkg1ZTlFUGtrcHdwbnh5R1Q2a3pMM28xY1U?oc=5"
+          }
+        ],
+        "tags": [
+          "climate",
+          "disaster",
+          "weather"
+        ]
+      }
+    ]
+  }
+}

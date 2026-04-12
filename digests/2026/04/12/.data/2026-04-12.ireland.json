@@ -1,0 +1,75 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-12T10:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Fuel Crisis Brings Ireland to Standstill as Protests Persist Into Fifth Day",
+      "summary": "Ireland's fuel protests have escalated dramatically, with approximately 40 percent of the nation's forecourts now without fuel as only 25 percent of normal daily deliveries are being completed. The M50 in Dublin remains partially closed, public transport services including Dublin Bus and Luas are heavily disrupted, and blockades at key infrastructure points including Whitegate refinery in Cork continue despite the official stand-down of the formal protest. The government has warned of an impending humanitarian crisis, with industry leaders stating that people could die if the blockades persist, while gardaí have been mobilized with all members in public order units instructed to work over the next three days in protective gear. Cabinet meetings are scheduled to finalize a substantial fuel support package targeting hauliers, farmers, and food supply chain workers. The crisis has paralyzed normal economic activity across the country with major road networks affected including the M7, M8, and M9.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0412/1567756-cabinet-meeting/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/fuel-shortages-ireland-7009842-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/11/live-fuel-protests-ireland-m50-dublin-luas/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41825720.html"}
+      ],
+      "tags": ["politics", "economy", "transport"]
+    },
+    {
+      "headline": "Government Moves to Resolve Fuel Crisis With 'Substantial' Support Package",
+      "summary": "The Irish government is finalizing an emergency fuel support scheme aimed at bringing an end to the nationwide fuel blockades that have crippled the country. The Temporary Fuel Support Scheme is expected to target hauliers, farmers, and food supply chain workers with financial assistance to mitigate the impact of the ongoing protests. Government representatives have been engaged in talks with protest organizers that have been described as 'positive,' and the cabinet is set to meet on Sunday to formalize the package details. The scheme conditions financial aid on the ending of all nationwide blockades and the restoration of normal fuel distribution. Industry leaders and government officials have stressed the urgency of resolving the crisis, warning of severe consequences for emergency services and supply chains if the protests continue.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/farmers-group-might-let-protesters-join-talks-with-govt-if-they-can-get-themselves-organised-7009690-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/11/temporary-fuel-support-payments-expected-following-government-talks-with-groups/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41825444.html"}
+      ],
+      "tags": ["politics", "economy"]
+    },
+    {
+      "headline": "Irish Golfers McIlroy and Lowry Compete for Masters Glory in Final Round",
+      "summary": "Irish golf stars Rory McIlroy and Shane Lowry are poised for a dramatic final round at the Masters Tournament at Augusta National. McIlroy, who had been leading the competition, experienced an erratic third round that cost him ground, leaving him tied for the lead but vulnerable heading into Sunday's finale. Lowry surged into contention with a strong performance, sitting just two shots behind the leading pair and appearing well-positioned for a potential victory. Lowry notably made a hole-in-one during his round at Augusta, adding to the drama of the tournament. Both players represent Ireland's strongest hopes for a major championship victory and their final-round performances will be closely followed by Irish sports fans.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/mcilroy-and-lowry-day-three-masters-2-7010336-Apr2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport/golf/arid-41825831.html"}
+      ],
+      "tags": ["sport"]
+    },
+    {
+      "headline": "Garda Operation Clears O'Connell Street as Fuel Protests Transform Into Public Order Challenge",
+      "summary": "An extensive garda operation has cleared Dublin's O'Connell Street of protestors, though agricultural vehicles related to the broader fuel blockade remain in some locations. The operation represents a significant escalation in the state's response to the ongoing protests, with gardaí mobilized en masse to maintain public order during what authorities are treating as an 'exceptional event.' All members of the gardaí with public order training have been activated and directed to wear protective gear, signaling the serious nature of the security response. The clearance of O'Connell Street marks a turning point where the garda response has shifted from monitoring to active dispersal operations. The operations come amid ongoing negotiations with protest organizers over a government fuel support package.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0412/1567756-cabinet-meeting/"}
+      ],
+      "tags": ["politics", "crime"]
+    },
+    {
+      "headline": "Cork Ladies Football Team Claims First League Title Since 2019 With Dramatic Victory",
+      "summary": "Cork's ladies football team has secured their first league title since 2019 in a thrilling match marked by late-game heroics. The team staged a dramatic comeback, scoring crucial goals in the final moments to stun opponents Galway and claim the championship. The victory represents a significant achievement for Cork women's football and demonstrates the quality of women's Gaelic games in Munster. The win adds to the cultural significance of Gaelic sports in Irish life and showcases the competitive standard of women's football at inter-county level. The achievement provides a positive counterpoint to the broader disruption and crisis dominating national headlines.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport/gaa/arid-41825723.html"}
+      ],
+      "tags": ["sport", "social"]
+    },
+    {
+      "headline": "Weather Warnings Issued Across Six Irish Counties",
+      "summary": "Status Yellow weather warnings have been issued for six counties across Ireland, alerting the public to potentially hazardous weather conditions. The warnings represent a precautionary measure to ensure public safety during periods of adverse weather. Specific details of the weather threat vary by county but typically include wind, rainfall, or other meteorological hazards. Residents in affected areas are advised to exercise caution and take appropriate protective measures. The warnings come amid the wider national disruption caused by the fuel protests.",
+      "sources": [
+        {"name": "BreakingNews.ie", "url": "https://www.breakingnews.ie/"}
+      ],
+      "tags": ["weather"]
+    },
+    {
+      "headline": "Healthcare Assistant Faces Court on Airport Smuggling Allegations",
+      "summary": "A healthcare assistant has been accused in Dublin court of smuggling a woman through Dublin Airport using fraudulent documentation. The court case involves allegations of serious breaches of airport security and immigration protocols, with the defendant accused of helping a passenger bypass standard security procedures using false papers. The case highlights vulnerabilities in airport security procedures and the extent to which some individuals may go to circumvent travel controls. The specific details of the alleged offense and the motivation remain under judicial examination. The case proceeds amid heightened national focus on security matters.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/11/healthcare-assistant-accused-of-smuggling-woman-through-dublin-airport/"}
+      ],
+      "tags": ["crime"]
+    }
+  ]
+}

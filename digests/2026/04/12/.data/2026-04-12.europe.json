@@ -1,0 +1,74 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-12T06:01:23Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Hungarians vote in pivotal election that could reshape EU dynamics",
+      "summary": "Hungarian voters went to the polls on April 12 to decide between incumbent Prime Minister Viktor Orbán and opposition challenger Péter Magyar in what analysts describe as one of the most significant European elections in years. Latest polls show Magyar's Tisza party ahead, which could threaten Orbán's 16-year grip on power and potentially shift Hungary's alignment within the EU on issues including Ukraine aid, Russian energy imports, and European defense policy. Orbán has overseen Hungary's transformation into what critics call an illiberal state, using constitutional changes to entrench his Fidesz party's dominance. The election outcome carries broad European implications, as Hungary has frequently blocked EU consensus on critical matters including sanctions, defense initiatives, and Ukraine support. A Tisza victory could herald a significant realignment of EU relations and influence.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cdxdepjrv95o"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260412-hungarians-vote-in-closely-watched-election-with-orban-s-rule-on-line"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/11/from-insider-to-rival-how-peter-magyar-became-orbans-most-serious-challenger-in-16-years"}
+      ],
+      "tags": ["EU", "elections", "governance"]
+    },
+    {
+      "headline": "Russia and Ukraine exchange prisoners amid fragile Orthodox Easter ceasefire",
+      "summary": "Russia and Ukraine exchanged 175 prisoners of war and seven civilians each on Saturday as part of a 32-hour Orthodox Easter ceasefire that began on April 11. The United Arab Emirates mediated the exchange, marking a rare moment of cooperation between the warring parties. Both Moscow and Kyiv swiftly accused each other of violating the truce, with Russian forces reporting Ukrainian strikes near Nova Kakhovka, though a temporary halt to major operations was observed. The ceasefire reflected earlier Ukrainian proposals to pause hostilities during Easter, though both sides acknowledged the fragility of the agreement. Historical precedent suggests the truce may not hold, with neither side expecting lasting peace from this weekend pause.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cj0vn30574no"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260411-russia-ukraine-swap-hundreds-of-prisoners-of-war-ahead-of-easter-truce"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/11/ukraine-and-russia-exchange-prisoners-ahead-of-orthodox-easter-ceasefire"}
+      ],
+      "tags": ["defence", "conflict", "diplomacy"]
+    },
+    {
+      "headline": "US and Iran open high-stakes peace talks in Pakistan amid regional tensions",
+      "summary": "US Vice President JD Vance and Iranian officials began intensive 21-hour negotiations in Islamabad, Pakistan on April 11-12, marking the first high-level diplomatic engagement to address escalating regional tensions. The talks followed reduced Israeli strikes on Lebanon and represented an attempt to de-escalate conflicts affecting European energy security and shipping routes. Vance stated that Iran chose not to accept American terms, suggesting disagreements over key demands remain. The outcome of these negotiations carries implications for European energy prices, particularly regarding disruptions to the Strait of Hormuz and Middle Eastern oil supplies. Airport industry groups have warned that prolonged regional instability could trigger critical fuel shortages in Europe within weeks.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/videos/cqj82xn9n8eo"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/11/us-and-iranian-officials-begin-high-stakes-peace-talks-in-pakistan-to-resolve-war"}
+      ],
+      "tags": ["diplomacy", "economy", "defence"]
+    },
+    {
+      "headline": "Pope Leo XIV calls for end to religious justifications for war as geopolitical tensions mount",
+      "summary": "Pope Leo XIV issued strong statements on April 11 criticizing leaders' use of religion to justify military actions, expressing growing frustration with the continuation of warfare. The pontiff's remarks reflected the Vatican's concerns about religious rhetoric being weaponized in ongoing conflicts, particularly regarding Ukraine. Pope Leo's intervention adds moral authority to international calls for de-escalation and peace in European regional conflicts. The timing coincides with the Easter ceasefire period and broader diplomatic efforts to resolve disputes. His position signals the Catholic Church's increasing engagement with geopolitical crises affecting the continent.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/11/pope-leo-xiv-says-enough-of-the-idolatry-as-he-grows-increasingly-frustrated-over-war"}
+      ],
+      "tags": ["governance", "conflict"]
+    },
+    {
+      "headline": "European house prices surge as property markets show strong growth despite economic uncertainty",
+      "summary": "European housing prices rose 5.5% in the fourth quarter of 2025, according to latest EU data released April 11, with several Southern European countries posting particularly strong gains. Portugal, Croatia, and Spain led growth in the EU property market, reflecting continued demand for real estate despite broader economic concerns. The data suggests divergent economic performance across the bloc, with some member states experiencing robust housing market appreciation while others face pressures from energy costs and inflation. Strong housing growth in specific regions highlights economic disparities within the EU that could complicate unified policy responses to continent-wide challenges.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025"}
+      ],
+      "tags": ["economy", "EU"]
+    },
+    {
+      "headline": "Armenia and Azerbaijan civil societies advance South Caucasus peace process with new dialogue round",
+      "summary": "Civil society representatives from Armenia and Azerbaijan held a fourth round of peace bridge initiative discussions on April 11, continuing efforts to build grassroots support for conflict resolution in the South Caucasus. The talks represent an important bottom-up complement to official government negotiations, engaging community leaders and activists from both nations in dialogue aimed at overcoming decades of hostility. While official political progress has been limited, the sustained engagement of civil societies signals commitment to finding peaceful solutions. European Union and international mediators have emphasized the importance of these track-two diplomatic channels in building foundations for sustainable peace.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/11/armenia-and-azerbaijan-civil-societies-hold-new-round-of-broad-talks-to-advance-peace-process"}
+      ],
+      "tags": ["diplomacy", "EU", "defence"]
+    },
+    {
+      "headline": "European airport operators warn of imminent fuel shortages if Strait of Hormuz remains disrupted",
+      "summary": "The Airports Council International issued an urgent warning on April 10 that critical kerosene shortages could affect European aviation within three weeks if disruptions to the Strait of Hormuz persist. The closure or blockade of the strategic waterway threatens supplies of aviation fuel across the continent, with potential cascading effects on air transport and trade. European airports are already grappling with energy cost pressures from regional conflicts, and a fuel supply crisis would compound existing economic burdens. The warning underscores how Middle Eastern geopolitical tensions directly impact European infrastructure and economies, making resolution of regional conflicts a continental priority.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/04/10/airport-council-warns-hormuz-closure-poses-major-fuel-shortage-risks"}
+      ],
+      "tags": ["economy", "trade", "defence"]
+    }
+  ]
+}
