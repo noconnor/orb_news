@@ -1,0 +1,75 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-13T07:45:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Hungary ousts Viktor Orbán after 16 years as Péter Magyar's party wins supermajority",
+      "summary": "Viktor Orbán's 16-year grip on power ended decisively Sunday when voters elected pro-European conservative Péter Magyar and his Tisza party, which secured a supermajority in parliament. The historic result came amid record turnout of 77.8%, the highest ever recorded in a Hungarian election, driven largely by younger voters eager for democratic reform and EU alignment. Magyar, a 45-year-old former insider within Orbán's own Fidesz party, has pledged to restore democratic checks and balances and unlock billions in frozen EU funds. The victory signals a potential turning point for Hungary's EU relations and represents a setback for far-right movements across Europe that had looked to Orbán as a model. Orbán's defeat marks the first major political earthquake in EU politics this year, with significant implications for European governance and the continent's relationship with Russia.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cd9vg782kx7o"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260412-hungary-ousts-orb%C3%A1n-after-16-years-as-pro-eu-challenger-wins-shock-election"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/13/hungarys-incoming-pm-peter-magyar-demands-orbans-puppets-leave-the-country"}
+      ],
+      "tags": ["governance", "EU", "elections"]
+    },
+    {
+      "headline": "Russia-Ukraine Easter ceasefire expires with both sides reporting thousands of violations",
+      "summary": "A 32-hour Orthodox Easter ceasefire between Russia and Ukraine concluded Monday with mutual accusations of widespread breaches, though neither side has halted hostilities entirely. Ukraine's General Staff reported over 2,299 Russian violations by early morning, including assaults, shelling, and drone launches, while Russia claimed Ukrainian forces conducted over 469 violations. Despite the formal ceasefire expiring, both nations refrained from deploying their most devastating weapons—Russia avoided long-range missiles and guided bombs while Ukraine limited major drone strikes. The brief truce, proposed by both sides as a gesture of religious observance, ultimately failed to establish momentum toward genuine peace negotiations. The ceasefire's collapse underscores the deeply entrenched positions of both belligerents and the challenge of achieving sustainable ceasefires amid ongoing military operations.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cn781z4lgg4o"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260413-russia%E2%80%93ukraine-easter-truce-expires-amid-mutual-accusations-of-violations"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/12/ukraine-and-russia-accuse-each-other-of-breaching-36-hour-orthodox-easter-ceasefire"}
+      ],
+      "tags": ["conflict", "diplomacy", "defence"]
+    },
+    {
+      "headline": "Trump orders Strait of Hormuz blockade as Iran peace talks collapse, raising European energy concerns",
+      "summary": "US President Donald Trump ordered a naval blockade of the Strait of Hormuz after high-stakes negotiations with Iran in Pakistan ended without agreement, escalating regional tensions and threatening global energy markets. The Trump administration's announcement to intercept vessels that have paid tolls to Iran marks a dramatic hardening of its stance, pushing oil prices above $100 per barrel and triggering European concerns about prolonged energy disruptions. The UK has publicly declined to participate in the blockade, citing its need to maintain regional security operations through minesweepers and anti-drone capabilities. European officials warned of critical fuel shortages if the Strait remains closed for more than three weeks, with airport operators particularly concerned about paraffin shortages. The blockade reflects the administration's confrontational approach to Iran and risks widening Middle Eastern instability with serious consequences for European energy security and economic stability.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c393wxzw4yjo"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260412-us-iran-talks-ends-without-deal"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/12/trump-orders-strait-of-hormuz-blockade-after-us-iran-talks-fail-in-islamabad"}
+      ],
+      "tags": ["trade", "energy", "geopolitics"]
+    },
+    {
+      "headline": "UK plans legislation to adopt EU single market rules without parliamentary approval",
+      "summary": "Prime Minister Keir Starmer has announced plans for legislation that would allow the United Kingdom to unilaterally adopt EU regulations and standards without requiring parliamentary votes on each change. This streamlined approach aims to reduce regulatory divergence between Britain and the EU, potentially easing trade frictions and aligning post-Brexit standards with continental European requirements. The legislation represents a significant shift toward closer regulatory alignment with the EU, signaling the Labour government's preference for pragmatic economic integration over strict sovereignty protections. The move could accelerate adoption of EU environmental, consumer protection, and financial regulations without requiring individual legislative approval from Westminster. This policy development reflects broader efforts to improve UK-EU relations and demonstrates a notable departure from the previous government's more adversarial stance toward European alignment.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c937jkvp3w8o"}
+      ],
+      "tags": ["governance", "regulation", "trade"]
+    },
+    {
+      "headline": "France and Portugal strengthen bilateral ties with Treaty of Porto entering into force",
+      "summary": "The Treaty of Friendship and Cooperation between France and Portugal formally entered into force Sunday, marking a strengthening of diplomatic and economic relations between the two Iberian and Western European nations. The bilateral agreement represents what both countries describe as a partnership 'at the service of the French and the Portuguese, and of a Europe that decides for itself,' signaling renewed commitment to European autonomy and cooperation. The treaty encompasses collaboration across multiple sectors including defense, economic development, cultural exchange, and European policy coordination. This reinforced partnership comes amid broader European efforts to strengthen intra-continental relationships and reduce dependence on external powers. The agreement underscores the importance of solid Franco-Portuguese ties within the EU framework, particularly as Europe navigates complex geopolitical challenges.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/12/no-clouds-on-the-horizon-france-and-portugal-strengthen-their-relationship-with-treaty-of-"}
+      ],
+      "tags": ["governance", "diplomacy", "EU"]
+    },
+    {
+      "headline": "German Lufthansa pilots' union calls for two-day strike action amid ongoing industrial unrest",
+      "summary": "Germany's pilots' union announced a two-day strike against Lufthansa scheduled for Monday and Tuesday, continuing recent labor disputes affecting the country's busiest airports. The strike action reflects escalating tensions between the airline and pilot unions over wage and working condition negotiations, following previous disruptions that have repeatedly thrown passenger journeys into uncertainty. The timing of the strikes threatens significant travel disruptions for thousands of passengers and cargo operations during a critical spring travel period. Lufthansa operates as Europe's largest airline by traffic, so disruptions to its German operations ripple across European aviation networks. The industrial action underscores broader labor unrest in Germany's transport sector and demonstrates pilots' willingness to escalate pressure on management to meet demands.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/travel/2026/04/12/german-pilots-union-calls-for-two-day-lufthansa-strike-action-on-monday-and-tuesday"}
+      ],
+      "tags": ["economy", "transport", "governance"]
+    },
+    {
+      "headline": "Armenia and Azerbaijan advance peace process with fourth round of civil society talks",
+      "summary": "Representatives from Armenia and Azerbaijan held the fourth round of talks under the Peace Bridge Initiative on Saturday, continuing efforts to advance a historic peace process between the South Caucasus neighbors. The civil society dialogue represents a significant confidence-building measure as both nations work toward normalized relations following years of military conflict. The talks focus on broad-based reconciliation, economic cooperation, and establishing mechanisms for sustained dialogue beyond official government channels. This incremental progress reflects international support for regional stability and the potential for lasting peace between the two nations, with implications for broader European security architecture in the Caucasus region. The continued engagement signals both parties' commitment to pursuing diplomatic solutions despite historical animosities and ongoing territorial disputes.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/11/armenia-and-azerbaijan-civil-societies-hold-new-round-of-broad-talks-to-advance-peace-proc"}
+      ],
+      "tags": ["diplomacy", "governance", "conflict"]
+    }
+  ]
+}

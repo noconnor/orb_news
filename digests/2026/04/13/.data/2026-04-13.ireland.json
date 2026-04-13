@@ -1,0 +1,86 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-13T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Government announces 10c fuel cut and defers carbon tax increase in €505m support package",
+      "summary": "The Irish government announced a major fuel support package on Sunday evening in response to widespread fuel protests that have caused significant disruption across the country. The package includes a 10c reduction in excise duty on petrol and diesel and a deferral of the planned carbon tax increase. The announcement came after an emergency Cabinet meeting following days of blockades at fuel depots and major transport disruptions. The government hopes the measures will ease pressure on hauliers, farmers, and fisheries sectors while gradually restoring fuel supplies to forecourts. Transport representatives and sector leaders engaged in negotiations throughout the weekend to shape the relief measures.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0412/1567813-fuel-protests-cabinet/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/fuel-package-protests-government-7010619-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/12/live-fuel-protests-road-blockages-ireland-m50-dublin/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41825840.html"}
+      ],
+      "tags": ["politics", "economy"]
+    },
+    {
+      "headline": "Fuel blockades cleared after major garda operations at Dublin and Galway ports",
+      "summary": "Hundreds of gardaí conducted overnight operations to remove fuel protesters from Dublin's O'Connell Street and the M50 motorway early Sunday morning, significantly disrupting the earlier demonstrations. Final blockades at Galway, Foynes, and Rosslare Europort were subsequently stood down by protesters following the government's fuel support announcement. An oil tanker docked at Port of Galway after the blockade was lifted, signalling a potential return to normal fuel distribution, though industry sources indicate fuel supply recovery will take ten days to return to normality with forecourts reopened. The garda operations marked an escalation in state response to the week-long crisis that saw nearly 40 percent of Ireland's forecourts run dry.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0412/1567756-fuel-protests/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/oconnell-street-fuel-protests-7010351-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/12/fuel-protests-blockades-at-galway-foynes-and-rosslare-europort-stood-down/"}
+      ],
+      "tags": ["politics", "transport"]
+    },
+    {
+      "headline": "Government faces confidence motion over handling of fuel crisis",
+      "summary": "Opposition parties including Sinn Féin, the Social Democrats, and Independent Ireland have tabled a no-confidence motion against the government in response to its handling of the week-long fuel protests and crisis. The Taoiseach has accused the Opposition of supporting port blockades that threatened fuel scarcity and contributed to the supply crisis. The motion reflects broader public discontent with government management of the cost-of-living crisis, with polling showing mixed public opinion on the fuel protests themselves. The parliamentary challenge will test government coalition cohesion as it attempts to stabilise supply chains and restore public confidence.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0413/1567857-government-fuel/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/government-no-confidence-motion-7010765-Apr2026/"}
+      ],
+      "tags": ["politics"]
+    },
+    {
+      "headline": "Garda Commissioner extends 'exceptional event' order as security operations continue",
+      "summary": "The Garda Commissioner has extended a rarely-used 'exceptional event' order until Tuesday to manage the fallout from the fuel protests and maintain security operations. This order allows every garda in the country to be called upon to work extended shifts. The extension signals the ongoing security and public order implications of the fuel crisis as authorities manage transport disruptions and prevent escalation. The exceptional event classification underscores the scale of the national emergency that the fuel blockades created.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/garda-fuel-protest-extended-security-operation-justin-kelly-7010909-Apr2026/"}
+      ],
+      "tags": ["politics", "transport"]
+    },
+    {
+      "headline": "Leaving Certificate music and home economics practicals deferred due to fuel crisis",
+      "summary": "The Department of Education deferred Leaving Certificate music practical examinations and Junior Cycle home economics practicals scheduled for Monday, April 13 in response to the ongoing fuel protests and transport disruptions. The deferral applies only to practical examinations for those two subjects, allowing students to sit examinations on alternative dates. The postponement reflects the practical impossibility of conducting national examinations when major road networks remained blocked and public transport was severely disrupted by the fuel crisis.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0412/1567839-practical-exams/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/leaving-cert-practicals-music-junior-cycle-home-ec-postponed-protests-7010623-Apr2026/"}
+      ],
+      "tags": ["social", "transport"]
+    },
+    {
+      "headline": "Expanded heel prick test to screen for two additional rare conditions in newborns",
+      "summary": "The Department of Health has introduced an expanded newborn screening programme that adds testing for two more rare genetic conditions to the existing heel prick test performed on all Irish newborns. The enhanced screening will enable earlier identification and intervention for infants with these previously undetected conditions, potentially improving health outcomes and quality of life. The expansion represents an investment in preventative healthcare and demonstrates continued development of Irish health screening services.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/health/2026/0413/1567863-heel-test/"}
+      ],
+      "tags": ["health"]
+    },
+    {
+      "headline": "Rory McIlroy successfully defends Masters title, claiming back-to-back green jackets",
+      "summary": "Northern Irish golfer Rory McIlroy has become just the fourth golfer in history to successfully defend his Masters title, winning the championship for the second consecutive year at Augusta National. McIlroy secured a one-shot victory over Scottie Scheffler to retain the green jacket, demonstrating consistency at the sport's most prestigious tournament. Fellow Irish competitor Shane Lowry achieved a hole-in-one at the sixth hole during the tournament, further highlighting Irish success at Augusta. The victory represents a major achievement for McIlroy and adds to his growing legacy in professional golf.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/sport/golf/2026/0412/1567861-mcilroy-comes-good-to-successfully-defend-masters-title/"},
+        {"name": "The Journal.ie", "url": "https://www.the42.ie/the-masters-live-final-round-golf-augusta-7010662-Apr2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport/golf/arid-41826293.html"}
+      ],
+      "tags": ["sport"]
+    },
+    {
+      "headline": "Man arrested at Shannon Airport over alleged attack on US military aircraft",
+      "summary": "Gardaí arrested a man at Shannon Airport on Saturday after he allegedly entered an unauthorised area and attacked a US military aircraft. The incident occurred in the early hours of Saturday morning when the suspect breached security perimeter restrictions at the airport. The arrest highlights security concerns at Irish airports hosting international military operations and reflects ongoing tensions surrounding military presence and operations at Irish facilities.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/12/man-arrested-over-alleged-attack-on-us-military-aircraft/"}
+      ],
+      "tags": ["crime", "defence"]
+    }
+  ]
+}

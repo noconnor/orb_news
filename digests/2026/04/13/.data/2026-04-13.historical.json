@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US military blockades Iranian ports after failed peace talks, pushing oil above $100 per barrel",
+      "story_topic": "Strait of Hormuz blockade",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis / Tanker War (1984-1988)",
+      "date_range": "1973 / 1984–1988",
+      "summary": "The 1973 Arab oil embargo quadrupled crude prices overnight and triggered fuel rationing across the Western world, demonstrating how abruptly a political decision in the Middle East could translate into civilian hardship globally. The Tanker War of 1984–1988 saw Iraq and Iran target neutral shipping in the Gulf to strangle oil revenues, eventually drawing in US naval convoys under Operation Earnest Will. Operation Eagle Claw (1980) and the 1990 oil price shock following Iraq's invasion of Kuwait further illustrate how Gulf crises convert rapidly into global economic convulsions. The Suez Crisis of 1956 remains the nearest analogue for the kind of sweeping unilateral naval interdiction now being threatened at the Strait of Hormuz.",
+      "parallel_analysis": "The US blockade of Iranian ports resembles all prior Gulf energy crises in mechanism but is qualitatively different in scale — a full unilateral economic siege of a major oil exporter rather than protection of third-party shipping. The historical record consistently shows that energy supply disruptions of this magnitude rarely stay contained, with countries like Ireland and Europe, which import the majority of their energy, among the most exposed.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Hungarian Prime Minister Viktor Orbán defeated after 16 years in power in historic election",
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Romanian Revolution of 1989",
+      "date_range": "December 1989",
+      "summary": "The Romanian Revolution of December 1989 ended Nicolae Ceaușescu's 24-year dictatorship in the most violent of Eastern Europe's 1989 transitions. Triggered by the attempted eviction of a dissident pastor in Timișoara on 16 December, the uprising spread nationally as decades of economic austerity and political repression collided with the sweeping changes already transforming the Eastern Bloc. Ceaușescu's televised rally on 21 December collapsed in audible chaos broadcast live before censors could act, and the army progressively defected to the demonstrators. The regime fell within days; Ceaușescu and his wife were tried by military tribunal and executed on Christmas Day. Romania subsequently joined NATO in 2004 and the EU in 2007, completing a transformation from Soviet satellite to European democracy in a single generation.",
+      "parallel_analysis": "Like Orbán, Ceaușescu had constructed a deeply personalised power structure sustained by a loyal security apparatus and a controlled media environment. Both leaders believed themselves unassailable, and both were undone by an electorate that reached a point of collective exhaustion. The post-authoritarian democratic rebuild now facing Magyar closely echoes the formidable institutional reconstruction Romania undertook after 1989, though Magyar enters with a democratic mandate and functioning legal system that Ceaușescu's successors lacked.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Romanian_revolution"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Government announces 10c fuel cut and defers carbon tax increase in €505m support package",
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_range": "November 2018 – June 2020",
+      "summary": "The French Yellow Vest movement erupted on 17 November 2018 when over 280,000 people blockaded roundabouts, motorways, and fuel depots across France in response to a planned fuel tax increase under President Macron. What began as opposition to a diesel tax rise of roughly 4 percent broadened into a nationwide revolt by rural and working-class communities who felt the burden of government policy fell disproportionately on those outside major cities. Protests escalated to violence described as the worst since May 1968, with property damage across Paris, water cannons, and serious injuries from police crowd-control weapons. Macron initially refused to concede, before announcing on 10 December 2018 — in an address watched by 23 million people — a package including cancellation of the fuel tax rise, overtime tax exemptions, and a minimum wage increase. The movement became a global protest symbol and left lasting damage to Macron's approval ratings.",
+      "parallel_analysis": "Ireland's fuel crisis followed a structurally identical trajectory: fuel costs as a totemic grievance for rural and working communities, organised blockades targeting distribution chokepoints, initial government resistance, and eventual emergency concessions under economic and security pressure. Ireland moved faster from blockade to package than France, but the political overhang — an opposition no-confidence motion and a governing coalition under strain — mirrors the sustained approval-rating damage Macron endured, suggesting the Irish government faces a similarly prolonged political reckoning.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+      ]
+    }
+  ]
+}

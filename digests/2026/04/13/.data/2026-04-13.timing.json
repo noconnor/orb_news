@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-13",
+  "update_type": "morning",
+  "steps": {
+    "setup": {
+      "start": 1776056411,
+      "end": 1776056425,
+      "duration_s": 14
+    },
+    "gather": {
+      "start": 1776056425,
+      "end": 1776056537,
+      "duration_s": 112
+    },
+    "preprocess": {
+      "start": 1776056537,
+      "end": 1776056546,
+      "duration_s": 9
+    },
+    "digest_write": {
+      "start": 1776056546,
+      "end": 1776056906,
+      "duration_s": 360
+    },
+    "audio": {
+      "start": 1776056906,
+      "end": 1776057060,
+      "duration_s": 154
+    },
+    "commit": {
+      "start": 1776057060,
+      "end": null,
+      "duration_s": null
+    }
+  },
+  "total_duration_s": 649,
+  "estimated_cost_usd": 0.35
+}

@@ -1,0 +1,448 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-13T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Government announces 10c fuel cut and defers carbon tax increase in \u20ac505m support package",
+        "summary": "The Irish government announced a major fuel support package on Sunday evening in response to widespread fuel protests that have caused significant disruption across the country. The package includes a 10c reduction in excise duty on petrol and diesel and a deferral of the planned carbon tax increase. The announcement came after an emergency Cabinet meeting following days of blockades at fuel depots and major transport disruptions. The government hopes the measures will ease pressure on hauliers, farmers, and fisheries sectors while gradually restoring fuel supplies to forecourts. Transport representatives and sector leaders engaged in negotiations throughout the weekend to shape the relief measures.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/politics/2026/0412/1567813-fuel-protests-cabinet/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/fuel-package-protests-government-7010619-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/12/live-fuel-protests-road-blockages-ireland-m50-dublin/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41825840.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Fuel blockades cleared after major garda operations at Dublin and Galway ports",
+        "summary": "Hundreds of garda\u00ed conducted overnight operations to remove fuel protesters from Dublin's O'Connell Street and the M50 motorway early Sunday morning, significantly disrupting the earlier demonstrations. Final blockades at Galway, Foynes, and Rosslare Europort were subsequently stood down by protesters following the government's fuel support announcement. An oil tanker docked at Port of Galway after the blockade was lifted, signalling a potential return to normal fuel distribution, though industry sources indicate fuel supply recovery will take ten days to return to normality with forecourts reopened. The garda operations marked an escalation in state response to the week-long crisis that saw nearly 40 percent of Ireland's forecourts run dry.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0412/1567756-fuel-protests/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/oconnell-street-fuel-protests-7010351-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/12/fuel-protests-blockades-at-galway-foynes-and-rosslare-europort-stood-down/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Government faces confidence motion over handling of fuel crisis",
+        "summary": "Opposition parties including Sinn F\u00e9in, the Social Democrats, and Independent Ireland have tabled a no-confidence motion against the government in response to its handling of the week-long fuel protests and crisis. The Taoiseach has accused the Opposition of supporting port blockades that threatened fuel scarcity and contributed to the supply crisis. The motion reflects broader public discontent with government management of the cost-of-living crisis, with polling showing mixed public opinion on the fuel protests themselves. The parliamentary challenge will test government coalition cohesion as it attempts to stabilise supply chains and restore public confidence.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/politics/2026/0413/1567857-government-fuel/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/government-no-confidence-motion-7010765-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics"
+        ]
+      },
+      {
+        "headline": "Garda Commissioner extends 'exceptional event' order as security operations continue",
+        "summary": "The Garda Commissioner has extended a rarely-used 'exceptional event' order until Tuesday to manage the fallout from the fuel protests and maintain security operations. This order allows every garda in the country to be called upon to work extended shifts. The extension signals the ongoing security and public order implications of the fuel crisis as authorities manage transport disruptions and prevent escalation. The exceptional event classification underscores the scale of the national emergency that the fuel blockades created.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/garda-fuel-protest-extended-security-operation-justin-kelly-7010909-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Leaving Certificate music and home economics practicals deferred due to fuel crisis",
+        "summary": "The Department of Education deferred Leaving Certificate music practical examinations and Junior Cycle home economics practicals scheduled for Monday, April 13 in response to the ongoing fuel protests and transport disruptions. The deferral applies only to practical examinations for those two subjects, allowing students to sit examinations on alternative dates. The postponement reflects the practical impossibility of conducting national examinations when major road networks remained blocked and public transport was severely disrupted by the fuel crisis.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0412/1567839-practical-exams/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/leaving-cert-practicals-music-junior-cycle-home-ec-postponed-protests-7010623-Apr2026/"
+          }
+        ],
+        "tags": [
+          "social",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Expanded heel prick test to screen for two additional rare conditions in newborns",
+        "summary": "The Department of Health has introduced an expanded newborn screening programme that adds testing for two more rare genetic conditions to the existing heel prick test performed on all Irish newborns. The enhanced screening will enable earlier identification and intervention for infants with these previously undetected conditions, potentially improving health outcomes and quality of life. The expansion represents an investment in preventative healthcare and demonstrates continued development of Irish health screening services.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/health/2026/0413/1567863-heel-test/"
+          }
+        ],
+        "tags": [
+          "health"
+        ]
+      },
+      {
+        "headline": "Rory McIlroy successfully defends Masters title, claiming back-to-back green jackets",
+        "summary": "Northern Irish golfer Rory McIlroy has become just the fourth golfer in history to successfully defend his Masters title, winning the championship for the second consecutive year at Augusta National. McIlroy secured a one-shot victory over Scottie Scheffler to retain the green jacket, demonstrating consistency at the sport's most prestigious tournament. Fellow Irish competitor Shane Lowry achieved a hole-in-one at the sixth hole during the tournament, further highlighting Irish success at Augusta. The victory represents a major achievement for McIlroy and adds to his growing legacy in professional golf.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/sport/golf/2026/0412/1567861-mcilroy-comes-good-to-successfully-defend-masters-title/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.the42.ie/the-masters-live-final-round-golf-augusta-7010662-Apr2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport/golf/arid-41826293.html"
+          }
+        ],
+        "tags": [
+          "sport"
+        ]
+      },
+      {
+        "headline": "Man arrested at Shannon Airport over alleged attack on US military aircraft",
+        "summary": "Garda\u00ed arrested a man at Shannon Airport on Saturday after he allegedly entered an unauthorised area and attacked a US military aircraft. The incident occurred in the early hours of Saturday morning when the suspect breached security perimeter restrictions at the airport. The arrest highlights security concerns at Irish airports hosting international military operations and reflects ongoing tensions surrounding military presence and operations at Irish facilities.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/12/man-arrested-over-alleged-attack-on-us-military-aircraft/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "defence"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-13T07:45:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Hungary ousts Viktor Orb\u00e1n after 16 years as P\u00e9ter Magyar's party wins supermajority",
+        "summary": "Viktor Orb\u00e1n's 16-year grip on power ended decisively Sunday when voters elected pro-European conservative P\u00e9ter Magyar and his Tisza party, which secured a supermajority in parliament. The historic result came amid record turnout of 77.8%, the highest ever recorded in a Hungarian election, driven largely by younger voters eager for democratic reform and EU alignment. Magyar, a 45-year-old former insider within Orb\u00e1n's own Fidesz party, has pledged to restore democratic checks and balances and unlock billions in frozen EU funds. The victory signals a potential turning point for Hungary's EU relations and represents a setback for far-right movements across Europe that had looked to Orb\u00e1n as a model. Orb\u00e1n's defeat marks the first major political earthquake in EU politics this year, with significant implications for European governance and the continent's relationship with Russia.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cd9vg782kx7o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260412-hungary-ousts-orb%C3%A1n-after-16-years-as-pro-eu-challenger-wins-shock-election"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/13/hungarys-incoming-pm-peter-magyar-demands-orbans-puppets-leave-the-country"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Russia-Ukraine Easter ceasefire expires with both sides reporting thousands of violations",
+        "summary": "A 32-hour Orthodox Easter ceasefire between Russia and Ukraine concluded Monday with mutual accusations of widespread breaches, though neither side has halted hostilities entirely. Ukraine's General Staff reported over 2,299 Russian violations by early morning, including assaults, shelling, and drone launches, while Russia claimed Ukrainian forces conducted over 469 violations. Despite the formal ceasefire expiring, both nations refrained from deploying their most devastating weapons\u2014Russia avoided long-range missiles and guided bombs while Ukraine limited major drone strikes. The brief truce, proposed by both sides as a gesture of religious observance, ultimately failed to establish momentum toward genuine peace negotiations. The ceasefire's collapse underscores the deeply entrenched positions of both belligerents and the challenge of achieving sustainable ceasefires amid ongoing military operations.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cn781z4lgg4o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260413-russia%E2%80%93ukraine-easter-truce-expires-amid-mutual-accusations-of-violations"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/12/ukraine-and-russia-accuse-each-other-of-breaching-36-hour-orthodox-easter-ceasefire"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Trump orders Strait of Hormuz blockade as Iran peace talks collapse, raising European energy concerns",
+        "summary": "US President Donald Trump ordered a naval blockade of the Strait of Hormuz after high-stakes negotiations with Iran in Pakistan ended without agreement, escalating regional tensions and threatening global energy markets. The Trump administration's announcement to intercept vessels that have paid tolls to Iran marks a dramatic hardening of its stance, pushing oil prices above $100 per barrel and triggering European concerns about prolonged energy disruptions. The UK has publicly declined to participate in the blockade, citing its need to maintain regional security operations through minesweepers and anti-drone capabilities. European officials warned of critical fuel shortages if the Strait remains closed for more than three weeks, with airport operators particularly concerned about paraffin shortages. The blockade reflects the administration's confrontational approach to Iran and risks widening Middle Eastern instability with serious consequences for European energy security and economic stability.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c393wxzw4yjo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260412-us-iran-talks-ends-without-deal"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/12/trump-orders-strait-of-hormuz-blockade-after-us-iran-talks-fail-in-islamabad"
+          }
+        ],
+        "tags": [
+          "trade",
+          "energy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "UK plans legislation to adopt EU single market rules without parliamentary approval",
+        "summary": "Prime Minister Keir Starmer has announced plans for legislation that would allow the United Kingdom to unilaterally adopt EU regulations and standards without requiring parliamentary votes on each change. This streamlined approach aims to reduce regulatory divergence between Britain and the EU, potentially easing trade frictions and aligning post-Brexit standards with continental European requirements. The legislation represents a significant shift toward closer regulatory alignment with the EU, signaling the Labour government's preference for pragmatic economic integration over strict sovereignty protections. The move could accelerate adoption of EU environmental, consumer protection, and financial regulations without requiring individual legislative approval from Westminster. This policy development reflects broader efforts to improve UK-EU relations and demonstrates a notable departure from the previous government's more adversarial stance toward European alignment.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c937jkvp3w8o"
+          }
+        ],
+        "tags": [
+          "governance",
+          "regulation",
+          "trade"
+        ]
+      },
+      {
+        "headline": "France and Portugal strengthen bilateral ties with Treaty of Porto entering into force",
+        "summary": "The Treaty of Friendship and Cooperation between France and Portugal formally entered into force Sunday, marking a strengthening of diplomatic and economic relations between the two Iberian and Western European nations. The bilateral agreement represents what both countries describe as a partnership 'at the service of the French and the Portuguese, and of a Europe that decides for itself,' signaling renewed commitment to European autonomy and cooperation. The treaty encompasses collaboration across multiple sectors including defense, economic development, cultural exchange, and European policy coordination. This reinforced partnership comes amid broader European efforts to strengthen intra-continental relationships and reduce dependence on external powers. The agreement underscores the importance of solid Franco-Portuguese ties within the EU framework, particularly as Europe navigates complex geopolitical challenges.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/12/no-clouds-on-the-horizon-france-and-portugal-strengthen-their-relationship-with-treaty-of-"
+          }
+        ],
+        "tags": [
+          "governance",
+          "diplomacy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "German Lufthansa pilots' union calls for two-day strike action amid ongoing industrial unrest",
+        "summary": "Germany's pilots' union announced a two-day strike against Lufthansa scheduled for Monday and Tuesday, continuing recent labor disputes affecting the country's busiest airports. The strike action reflects escalating tensions between the airline and pilot unions over wage and working condition negotiations, following previous disruptions that have repeatedly thrown passenger journeys into uncertainty. The timing of the strikes threatens significant travel disruptions for thousands of passengers and cargo operations during a critical spring travel period. Lufthansa operates as Europe's largest airline by traffic, so disruptions to its German operations ripple across European aviation networks. The industrial action underscores broader labor unrest in Germany's transport sector and demonstrates pilots' willingness to escalate pressure on management to meet demands.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/travel/2026/04/12/german-pilots-union-calls-for-two-day-lufthansa-strike-action-on-monday-and-tuesday"
+          }
+        ],
+        "tags": [
+          "economy",
+          "transport",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Armenia and Azerbaijan advance peace process with fourth round of civil society talks",
+        "summary": "Representatives from Armenia and Azerbaijan held the fourth round of talks under the Peace Bridge Initiative on Saturday, continuing efforts to advance a historic peace process between the South Caucasus neighbors. The civil society dialogue represents a significant confidence-building measure as both nations work toward normalized relations following years of military conflict. The talks focus on broad-based reconciliation, economic cooperation, and establishing mechanisms for sustained dialogue beyond official government channels. This incremental progress reflects international support for regional stability and the potential for lasting peace between the two nations, with implications for broader European security architecture in the Caucasus region. The continued engagement signals both parties' commitment to pursuing diplomatic solutions despite historical animosities and ongoing territorial disputes.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/11/armenia-and-azerbaijan-civil-societies-hold-new-round-of-broad-talks-to-advance-peace-proc"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "governance",
+          "conflict"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-13T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US military blockades Iranian ports after failed peace talks, pushing oil above $100 per barrel",
+        "summary": "The United States military announced it will blockade all Iranian ports beginning April 14, 2026, following the collapse of weekend ceasefire negotiations between the US and Iran. The blockade will prevent Iranian shipping traffic while allowing non-Iranian vessels to transit the Strait of Hormuz, according to US Central Command. Oil prices surged past $103 per barrel on the news, raising concerns about global energy costs. The announcement marks a significant escalation in tensions and represents a shift from diplomatic efforts to military action. Asian stock markets fell in response to the uncertainty introduced by the naval blockade threat.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcm1BdFpDWVo3UmZSSTFQQXVDTjFVSGhmazJaOG0wY1ZsUUhWRFhfU2tidTZnaFh2QTBaRTNQamFpRDBvN3cxTUxtN2pBWlg2ZThwVzEzT3hLYWRSYWt2Y3EzYTRLSXNkc2Y5STQwcm5PYmhBNUE4MjhJQTBWZ3FiU1Z6TVURS0dVc0dUMVhkZUo3ZFNMODZGR3kyOUR4QkEzVFE"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDBuS25Ed1dnMVpaQi12SWtDTzZNam1jaG9GaEFyOUR2V0tyMjB5R3IwM081S3ZaNVpjeDQwdy11VUdodDVrZmR5d2xEZ3RWWUpYVXMzQmM1NW9CWXVTWUEyM0dfRXcyX3czLWYzbHRqOXg1WGtpaU01RzJ1TGZFc01EanhQUGstdWtNS0Y1LTRSaGRfbnlTZTVlYTZtNmVydEhsRQ"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cn781z4lgg4o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Hungarian Prime Minister Viktor Orb\u00e1n defeated after 16 years in power in historic election",
+        "summary": "Hungarian voters delivered a decisive rebuke to Prime Minister Viktor Orb\u00e1n in Sunday elections, removing him from power after 16 years of rule. His opponent, P\u00e9ter Magyar, a 45-year-old former party insider, won a landslide victory with record turnout at the polls. The result marks a major shift in European politics and an end to Orb\u00e1n's right-wing populist governance model. Magyar's victory signals Hungarian voter fatigue with Orb\u00e1n's contentious tenure and represents a significant political realignment in Central Europe. The outcome has been welcomed by democratic leaders across Europe and the United States.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGhCX3haX2M2b2oyaGhBX25haTN6d05VMmV5OVJMeGpYdC1GQmVXUWVRaWc2STZ6N0dia2R2eTdYWk9RX0h1WTViYmZLd0tGb3F5b3ZqZ2JDbEZtTHlTRFQ0SkJOR0U2aXpwNGZELVNURnU4QkxpQ210WnQxSHNlbmRyQ0xmTFI3MnZSUzJQVFZUcTlqM2JGTnQtSGJEeUFF"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHVlSkNKZENSUHZjT3VYVXA4R3dER3JkUzJyZF9CR0lUTlVkNHJWdGJzdTFndkg5akNJVGZhREE1RFptaFJWMkZlb3dfbEhkeGVMeTRxeW9sZVpjRi16ZS16QWxIZGFHS3F2X01wMFN2WGNaWTJXblNFN1BHcDFwamFlYWFLb0d4dUZVYUVycDJoWDA1Z21JaV9zVQ"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cd9vg782kx7o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Global oil markets remain volatile as blockade tensions threaten energy supply stability",
+        "summary": "Oil prices have surged above $100 per barrel in the wake of the US military's blockade announcement and the failure of diplomatic negotiations with Iran. The spike reflects broader concerns about energy security and potential disruptions to global supply chains. Market volatility has extended to other commodities, with gold declining on currency strength while investors reassess exposure to geopolitical risks. The blockade threat has particularly rattled Asian markets as concerns grow about the durability of the current energy crisis. Analysts suggest sustained elevated oil prices could have downstream effects on global inflation and economic growth.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUFTSW41Q2Y0S0IzQkhhWGppdnJGckdGZjFnVmRzbGNlRmVoc1RzWUNJblUtcTVEcFBETXpYaEl0WDNfN1Z5LTB1ZDJlT1J0TWhHeDdxNGMza3JnUThuVGlxTWVTM25MSnRPV3ZSYnJjOTF6b0RTUHc0a1ozQ3U4dVFiaW9nVWYwRHJNZTVnZ1ZYQ0FIU0FzTnByWFlhN3dNY0E"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cn781z4lgg4o"
+          }
+        ],
+        "tags": [
+          "economy",
+          "conflict",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Taiwan Semiconductor Manufacturing Company projects record quarterly profit on surging AI demand",
+        "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) is expected to report its fourth consecutive quarter of record profits, driven by extraordinary demand from the artificial intelligence sector. The company's AI-related orders continue to expand as global tech companies scale their machine learning and AI infrastructure. TSMC's financial performance reflects the broader boom in semiconductor demand and underscores Taiwan's critical role in the global AI supply chain. The company's success demonstrates the concentrated nature of semiconductor manufacturing and the strategic importance of Taiwan in global technology competition. Continued strong AI adoption suggests sustained profitability for the industry leader in coming quarters.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Peru faces unprecedented political fragmentation with 35 candidates vying for presidency",
+        "summary": "Peruvian voters are confronted with an extraordinary electoral choice as 35 candidates contend for the presidency, reflecting the nation's severe political instability. This unprecedented fragmentation comes as Peru seeks its ninth president in just ten years, highlighting chronic governance challenges and institutional weakness. The massive candidate pool makes consensus-building and governing even more difficult, further destabilizing the country. The election underscores Peru's broader challenges with political polarization, corruption, and institutional dysfunction. The outcome will be critical for determining whether Peru can stabilize its political system or continue on its trajectory of chronic instability.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTRXdkd0SXRGMFdCUlgzbHpnc1JrMjF2QjZoR3lRSHJPc0c4OXl4NEJIUHRhNlBNTEVhUl9PbnNCLTRNOU9sMHg1R3p4eXhuUzVKWjl3aEhYOEwtVlVQNG5UZktySS1tXzVaOWpYeFowcmpiNEdpc3ZmNjdKR2c3N2RCR0l5aFNmeFVia3dWdHRoSEZ4T3RXcHln"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Former US President Trump criticizes Pope Leo XIV's foreign policy approach on Iran conflict",
+        "summary": "Former President Donald Trump has escalated his public disputes with Pope Leo XIV, criticizing the U.S.-born pontiff's handling of foreign policy matters related to the Iran conflict. Trump has claimed the Pope is not \"doing a very good job\" in his leadership role. The conflict reflects broader tensions between the Vatican and the Trump camp over international diplomatic strategy and Iran policy. The public nature of Trump's criticism marks an unusual level of engagement between a former US leader and the current Catholic Church leadership. The dispute highlights ongoing disagreement over the proper role of religious leadership in geopolitical matters.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWZRbnQ1TjRPZUd4QmVEcWJUck05U2Z2Tl9zWkl5OEczQXZzcTJ5RmpENzFTTE5WTFN0LU1ORGxDSXdUUkVoWEhCS1M3MGhtYUVwTXc2VTNxcENoOG9Va1VBeDVUc05sMUpSRmh3LXl5Rm1uT2hnZkdiQ3NxMmlYa3lCZWxWUHRpR1BrbWNvTDVPT0I4eEFXekdUb1UtaGtIZHdUUGNR"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy"
+        ]
+      }
+    ]
+  }
+}
