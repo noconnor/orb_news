@@ -1,0 +1,71 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-14T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Government faces confidence vote amid ongoing fuel protests",
+      "summary": "The government faces a confidence motion in the Dáil after the Easter break as fuel protests continue to disrupt the country. The Taoiseach has warned against further blockades, criticizing media coverage that encouraged protesters to target the Whitegate refinery. While blockades at fuel depots have been lifted, close to 900 forecourts have run dry nationwide and some motorway protests remain in place. The government announced a €505 million support package in response to the agricultural contractors' grievances. Tensions within the coalition government have emerged, with Defence Minister O'Callaghan requesting Army assistance to clear blockades, but Justice Minister Helen McEntee refusing to confirm if she was consulted beforehand.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0414/1568061-dail-government-confidence/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/13/mcentee-refuses-to-say-if-ocallaghan-consulted-her-on-request-for-army-to-clear-blockades/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41826203.html"}
+      ],
+      "tags": ["politics", "transport", "economy"]
+    },
+    {
+      "headline": "Rory McIlroy claims back-to-back Masters titles",
+      "summary": "Rory McIlroy has become the fourth man in history to defend the Green Jacket, securing a one-shot victory at the Masters to claim consecutive championships. The Holywood golfer's achievement has sparked celebrations in his hometown of Holywood, County Down, with his home club bursting with pride at the accomplishment. McIlroy's back-to-back Masters wins represent a remarkable feat in professional golf and cement his status as one of the sport's elite players.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/13/a-super-superstar-rory-mcilroys-hometown-abuzz-after-masters-double/"}
+      ],
+      "tags": ["sport"]
+    },
+    {
+      "headline": "Dublin City Council completes €581 million purchase of former DIT Kevin Street site",
+      "summary": "Dublin City Council has completed its €581 million acquisition of the former Dublin Institute of Technology site on Kevin Street. The purchase is part of a major civic development strategy, with the council planning to vacate its historic Wood Quay civic offices as a result of the transaction. The deal represents a significant investment in Dublin's infrastructure and will reshape the city's administrative footprint.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/dublin/2026/04/13/dublin-city-council-completes-581m-purchase-of-former-dit-site/"}
+      ],
+      "tags": ["housing", "economy"]
+    },
+    {
+      "headline": "Dublin City Council backs plan to phase out high blind spot trucks amid road safety concerns",
+      "summary": "Dublin City Council has endorsed a plan to phase out large trucks with high blind spots in response to ongoing road safety issues affecting cyclists and pedestrians. The decision follows the recent death of cyclist Johnny Santos, who was struck by a cement truck on Abbey Street while cycling. The safety initiative reflects growing concerns about heavy goods vehicles and their visibility limitations in urban areas.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/dublin-city-council-lorries-blind-spots-cyclists-7011877-Apr2026/"}
+      ],
+      "tags": ["transport", "social"]
+    },
+    {
+      "headline": "Cybersecurity chief warns of unpredictable AI impact on national security",
+      "summary": "The National Cyber Security Centre director is addressing the Oireachtas Committee on the implications of artificial intelligence for cybersecurity, describing the impact as both vast and inherently unpredictable. The warning comes as Ireland and other nations grapple with the growing threat landscape posed by AI-enabled cyberattacks and security vulnerabilities. The NCSC's alert underscores the need for enhanced national cybersecurity strategies to address emerging AI-related risks.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0414/1568062-cybersecurity-ai/"}
+      ],
+      "tags": ["defence", "politics"]
+    },
+    {
+      "headline": "Rise in racist attacks on healthcare workers sparks safety concerns",
+      "summary": "A significant rise in racist abuse targeting nurses and other healthcare workers has prompted staff to travel in groups to avoid assault. Data shows 183 reported incidents of racist attacks against health workers over the past five years, reflecting growing safety concerns in the healthcare sector. The pattern of harassment underscores systemic issues around workplace safety and social cohesion for vulnerable workforce groups in Ireland.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/rise-in-racist-attacks-aimed-at-health-workers-and-nurses-7005453-Apr2026/"}
+      ],
+      "tags": ["health", "social", "crime"]
+    },
+    {
+      "headline": "Irish electricity prices rank eighth highest in Europe",
+      "summary": "Research released shows Ireland had the eighth most expensive electricity rates across Europe during 2024, indicating ongoing challenges in energy affordability for consumers and businesses. The finding highlights Ireland's position among the higher cost jurisdictions for electricity within the EU, with implications for household budgets and industrial competitiveness. The data underscores persistent issues in Ireland's energy market despite renewable energy expansion efforts.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0414/1568034-esri-electricity/"}
+      ],
+      "tags": ["economy", "transport"]
+    }
+  ]
+}

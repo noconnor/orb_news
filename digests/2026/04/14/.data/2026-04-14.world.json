@@ -1,0 +1,90 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-14T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US Blockade of Iran Triggers Global Crisis as Oil Prices Spike and Allies Refuse Participation",
+      "summary": "The Trump administration has imposed a military blockade on the Strait of Hormuz, threatening to sink Iranian vessels and demanding the country abandon its nuclear program. European and allied nations have declined to join the blockade, citing concerns about international law and maritime freedom. Oil prices have surged to nearly $150 per barrel, the highest on record, as markets react to supply disruption fears and OPEC has downgraded global oil demand forecasts. Diplomatic channels remain open with the US indicating willingness to negotiate, though both sides continue military posturing. The blockade threatens global energy security and has sparked protests worldwide, with the UN calling for respect of navigation rights in international waters.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Hungary's Orbán Ousted After 16 Years as Voters Choose Pro-Reform Alternative Magyar",
+      "summary": "Viktor Orbán's 16-year grip on Hungary's government has ended in a decisive electoral defeat at the hands of Péter Magyar, a 45-year-old former Orbán ally turned opposition leader. Magyar's victory marks a significant shift in European politics, signaling potential relief for the EU after years of tensions over democratic standards and Ukraine support. The new prime minister has pledged to strengthen ties with the EU and indicated willingness to negotiate with Putin while supporting Ukraine, positioning Hungary as a potential bridge between conflicting parties. Magyar's rise suggests a reversal of Hungary's isolation within European institutions and may improve the bloc's cohesion on key policy issues. The election outcome has ripple effects beyond Budapest, affecting US conservative political alignments and Trump's regional influence.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election"}
+      ],
+      "tags": ["politics", "diplomacy", "governance"]
+    },
+    {
+      "headline": "Sudan Humanitarian Catastrophe Deepens as Three Babies Born Every Minute into Active War Zone",
+      "summary": "A major international charity has warned that Sudan's ongoing conflict has created dire conditions for newborns, with three babies born into the war every minute without access to basic healthcare or security. The humanitarian crisis represents one of the world's most acute emergencies, with displacement, malnutrition, and disease compounding the toll of active fighting. Healthcare infrastructure has collapsed across much of the country, leaving pregnant women and infants without critical medical services. The international community's response has been insufficient to address the scale of need, and access for humanitarian aid remains severely restricted. This crisis exemplifies the broader humanitarian consequences of regional conflicts and the vulnerability of children in active war zones.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns"}
+      ],
+      "tags": ["humanitarian", "conflict", "health"]
+    },
+    {
+      "headline": "Lebanon Enters Ceasefire Talks with Israel While Hezbollah Threatens to Derail Negotiations",
+      "summary": "Lebanon's government has entered direct negotiations with Israel in Washington, DC, aimed at establishing a lasting ceasefire, yet the talks face significant obstacles due to Hezbollah's refusal to participate and threats to destabilize any agreement. Israeli forces have intensified military operations against targets in Lebanon, including strikes in central Beirut that killed over 180 people, complicating the diplomatic effort. Hezbollah's leader has urged the Lebanese government to withdraw from talks, characterizing them as a ploy to isolate the militant group rather than achieve genuine peace. The Lebanese delegation operates under severe constraints, lacking direct influence over Hezbollah's military decisions or strategic choices. The outcome of these talks will determine whether the region moves toward de-escalation or further conflict intensification.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cr51l794mlyo"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Iran Executes Record Number of Prisoners as Repression Intensifies Following Anti-Government Protests",
+      "summary": "Iran has carried out its highest number of executions in decades as the government intensifies crackdowns against dissidents and opposition activists who participated in recent anti-government demonstrations. Human rights organizations warn that additional executions are likely to follow as the regime consolidates control and punishes perceived threats to stability. The execution spike coincides with broader military tensions in the region, raising concerns that the escalating US blockade may further harden Iran's internal security posture. International observers note that the execution pattern targets political prisoners and minorities, reflecting systematic repression rather than standard criminal justice. The convergence of regional military conflict and domestic political repression marks a dangerous escalation in human rights violations.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo"}
+      ],
+      "tags": ["conflict", "humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "Philippines Accuses China of Using Cyanide to Poison South China Sea Reef, Escalating Maritime Tensions",
+      "summary": "The Philippines has accused Chinese fishermen of deliberately dumping cyanide into the South China Sea near disputed waters, a tactic allegedly intended to kill marine life and deprive Philippine troops stationed in the area of food sources. Beijing has rejected the allegation as a 'farce,' maintaining its position in the ongoing territorial disputes. The incident escalates maritime tensions in one of the world's most contested regions and raises environmental concerns about ecosystem damage from chemical contamination. The cyanide poisoning reflects the tactics employed by competing claimants to assert control over disputed territories through resource denial. The dispute underscores broader geopolitical competition in Asia-Pacific waters and highlights how territorial conflicts increasingly manifest through environmental and humanitarian dimensions.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cvgk331k44yo"}
+      ],
+      "tags": ["conflict", "diplomacy", "climate"]
+    },
+    {
+      "headline": "Super Typhoon Sinlaku Bears Down on Guam and Northern Mariana Islands with Dangerous Conditions Expected",
+      "summary": "Super Typhoon Sinlaku is slowly advancing toward the island territories of Guam and the Northern Mariana Islands, with meteorologists warning of dangerous conditions despite the storm's gradual weakening. The slow-moving typhoon poses particular risks due to its sustained wind speeds and heavy rainfall potential, which could cause flooding and structural damage across the region. Local authorities have implemented emergency preparedness measures and evacuation protocols as the storm approaches populated areas. The typhoon's track demonstrates the ongoing vulnerability of Pacific island communities to powerful tropical systems, particularly those with limited infrastructure and resources for disaster response. Sinlaku's impact will test regional emergency management capacity and potentially cause significant economic disruption across the island economies.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/14/super-typhoon-sinlaku-bears-down-on-northern-mariana-islands-guam"}
+      ],
+      "tags": ["climate", "humanitarian", "health"]
+    },
+    {
+      "headline": "Global Oil Crisis Deepens as Energy Prices Surge on Hormuz Blockade and Regional Instability",
+      "summary": "Physical oil prices have reached unprecedented levels near $150 per barrel, driven by the Strait of Hormuz blockade, regional military tensions, and OPEC's downgrade of global oil demand forecasts. The energy crisis is reverberating through global markets, with major luxury goods manufacturers like LVMH reporting significant sales declines attributed to the Iran war impact on consumer demand. Stock markets have shown mixed reactions as investors weigh the prospect of US-Iran negotiations against sustained supply chain disruptions. OPEC has warned that demand reduction from the conflict could exceed previous forecasts, with particular impacts on developing economies vulnerable to energy price shocks. Energy experts suggest peak oil prices may arrive within weeks, after which diplomatic progress or supply adjustments could provide relief, though underlying geopolitical risks remain.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo"}
+      ],
+      "tags": ["economy", "conflict", "climate"]
+    }
+  ]
+}

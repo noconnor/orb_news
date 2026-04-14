@@ -1,0 +1,74 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-14T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Viktor Orban's 16-year rule ends as Peter Magyar's Tisza party wins landslide election in Hungary",
+      "summary": "Hungary's voters decisively rejected Prime Minister Viktor Orban in parliamentary elections, with Peter Magyar's centre-right Tisza party securing 138 of 199 seats and a two-thirds constitutional majority on 53.6% of the vote. Orban conceded defeat after his Fidesz party won only 55 seats with 37.8% support, ending his 16-year tenure as Europe's most controversial leader. The election, which saw nearly 80% turnout, signals a major geopolitical shift in Central Europe and is expected to reset Hungary's adversarial relationship with the EU, potentially unblocking a 90 billion euro loan to Ukraine that Orban had previously blocked. Magyar's victory suggests a return to EU alignment and democratic standards after years of concerns about judicial independence and press freedom under Orban's rule.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz"},
+        {"name": "CNN", "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"},
+        {"name": "The Guardian (via WebSearch)", "url": "https://www.theguardian.com/world/europe-news/rss"}
+      ],
+      "tags": ["elections", "EU", "governance"]
+    },
+    {
+      "headline": "EU's Entry/Exit System (EES) becomes fully operational across all Schengen countries",
+      "summary": "The European Union's automated Entry/Exit System became fully operational on April 10, 2026, replacing manual passport stamping across all 29 Schengen countries. The biometric system registers non-EU nationals' fingerprints and facial images along with entry and exit data, enabling automatic detection of overstayers and document fraud. Since the phased rollout began in October, the system has already refused entry to more than 24,000 people due to expired documents, fraudulent papers, or inability to justify their visit. The implementation marks a major modernization of European border security and data management while raising data protection considerations. The EES will streamline border crossing procedures for legitimate travelers while enhancing security through digital rather than manual record-keeping.",
+      "sources": [
+        {"name": "European Commission", "url": "https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en"},
+        {"name": "Euronews", "url": "https://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"}
+      ],
+      "tags": ["regulation", "governance", "migration"]
+    },
+    {
+      "headline": "Crans-Montana bar fire investigation reveals six-year safety inspection gap before deadly New Year blaze",
+      "summary": "Nine individuals, including the mayor of Crans-Montana, face criminal investigation after a January 1, 2026 fire at the Le Constellation bar killed 41 people during New Year celebrations. The Crans-Montana mayor claimed ignorance of the catastrophic safety failures, stating he was unaware that fire safety inspections had not been conducted for six years at the ski resort venue. The investigation has uncovered that the underground bar lacked a sprinkler system and may not have had accessible fire extinguishers at the time of the incident. Swiss, Italian, and French authorities have opened coordinated criminal investigations into negligent homicide and negligence charges. The incident has sparked urgent discussions across European jurisdictions about venue safety standards and regulatory oversight in hospitality establishments.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260414-crans-montana-bar-fire-mayor-unaware-safety-failures-41-dead"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/1/6/swiss-bar-hit-by-deadly-new-years-fire-had-no-safety-checks-in-five-years"}
+      ],
+      "tags": ["safety", "governance", "crime"]
+    },
+    {
+      "headline": "Oil prices ease as hopes rise for new US-Iran peace talks following month-long ceasefire",
+      "summary": "Crude oil prices retreated from above $100 per barrel on growing optimism that renewed US-Iran negotiations could ease geopolitical tensions and normalize Middle East trade flows. The softening comes after a significant price spike triggered by initial diplomatic failures, with markets seeking stability in global energy markets disrupted by months of regional conflict. European economies have been particularly exposed to energy cost volatility, with estimates showing the conflict has cost the EU approximately $16 billion in increased fuel costs and driven natural gas prices up approximately 70%. The potential for renewed dialogue provides relief to energy-dependent European industries and households facing sustained inflation pressures. A breakthrough in negotiations could stabilize energy markets and provide significant economic relief across Europe through more reliable supply chains.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cjr9qrnp821o"},
+        {"name": "CNN", "url": "https://www.cnn.com/2026/04/12/world/live-news/iran-us-war-talks-trump"}
+      ],
+      "tags": ["economy", "energy", "diplomacy"]
+    },
+    {
+      "headline": "EU launches most ambitious customs reform in 58 years to modernize trade and simplify procedures",
+      "summary": "The European Parliament and Council have agreed on a sweeping customs modernization package representing the most significant EU customs reform since 1968. The reform introduces data-driven customs architecture with enhanced e-commerce regulations and simplified procedures designed to reduce bureaucracy while improving efficiency and security. The updated framework addresses challenges posed by digital trade growth and evolving supply chains, providing European businesses with streamlined import and export processes. The modernization is expected to facilitate legitimate trade while maintaining robust security and regulatory enforcement across EU borders. The agreement reflects the EU's commitment to maintaining competitive customs infrastructure as global trade patterns continue to evolve.",
+      "sources": [
+        {"name": "European Union News", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["trade", "regulation", "EU"]
+    },
+    {
+      "headline": "EU funds 54 clean energy projects with 2.7 billion euros to accelerate decarbonization across Europe",
+      "summary": "The EU's Innovation Fund has allocated 2.7 billion euros to 54 clean industry projects spanning 17 countries as part of the bloc's broader decarbonization strategy. The funded initiatives cover diverse sectors including renewable energy, cement and lime production, refinery modernization, and low-carbon transport solutions. The investment reflects Europe's commitment to meeting climate targets and developing sustainable industrial capacity while maintaining economic competitiveness in the global clean energy transition. Projects selected represent significant technological breakthroughs in carbon reduction across heavy industries traditionally difficult to decarbonize. The funding demonstrates the EU's strategic focus on combining climate ambitions with industrial policy and job creation across member states.",
+      "sources": [
+        {"name": "European Union News", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["climate", "economy", "EU"]
+    },
+    {
+      "headline": "EU and Australia conclude free trade agreement eliminating tariffs on 99 percent of EU exports",
+      "summary": "The European Union and Australia have completed negotiations on a comprehensive free trade agreement that will remove tariffs on over 99 percent of EU goods exports to the Australian market. The agreement significantly improves EU access to critical raw materials essential for European green energy and technology sectors, addressing supply chain vulnerabilities exposed by recent global disruptions. The deal strengthens trade ties between the bloc and a major Indo-Pacific partner while supporting both economies through enhanced market access and reduced trade barriers. The agreement reflects the EU's broader strategy to diversify trading relationships and secure supply chains for strategic materials needed in the energy transition. Ratification is expected to proceed through standard EU procedures in coming months.",
+      "sources": [
+        {"name": "European Union News", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["trade", "economy", "EU"]
+    }
+  ]
+}

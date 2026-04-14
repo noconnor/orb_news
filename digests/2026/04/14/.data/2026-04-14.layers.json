@@ -1,0 +1,445 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-14T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Government faces confidence vote amid ongoing fuel protests",
+        "summary": "The government faces a confidence motion in the D\u00e1il after the Easter break as fuel protests continue to disrupt the country. The Taoiseach has warned against further blockades, criticizing media coverage that encouraged protesters to target the Whitegate refinery. While blockades at fuel depots have been lifted, close to 900 forecourts have run dry nationwide and some motorway protests remain in place. The government announced a \u20ac505 million support package in response to the agricultural contractors' grievances. Tensions within the coalition government have emerged, with Defence Minister O'Callaghan requesting Army assistance to clear blockades, but Justice Minister Helen McEntee refusing to confirm if she was consulted beforehand.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/politics/2026/0414/1568061-dail-government-confidence/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/13/mcentee-refuses-to-say-if-ocallaghan-consulted-her-on-request-for-army-to-clear-blockades/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41826203.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "transport",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Rory McIlroy claims back-to-back Masters titles",
+        "summary": "Rory McIlroy has become the fourth man in history to defend the Green Jacket, securing a one-shot victory at the Masters to claim consecutive championships. The Holywood golfer's achievement has sparked celebrations in his hometown of Holywood, County Down, with his home club bursting with pride at the accomplishment. McIlroy's back-to-back Masters wins represent a remarkable feat in professional golf and cement his status as one of the sport's elite players.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/13/a-super-superstar-rory-mcilroys-hometown-abuzz-after-masters-double/"
+          }
+        ],
+        "tags": [
+          "sport"
+        ]
+      },
+      {
+        "headline": "Dublin City Council completes \u20ac581 million purchase of former DIT Kevin Street site",
+        "summary": "Dublin City Council has completed its \u20ac581 million acquisition of the former Dublin Institute of Technology site on Kevin Street. The purchase is part of a major civic development strategy, with the council planning to vacate its historic Wood Quay civic offices as a result of the transaction. The deal represents a significant investment in Dublin's infrastructure and will reshape the city's administrative footprint.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/dublin/2026/04/13/dublin-city-council-completes-581m-purchase-of-former-dit-site/"
+          }
+        ],
+        "tags": [
+          "housing",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Dublin City Council backs plan to phase out high blind spot trucks amid road safety concerns",
+        "summary": "Dublin City Council has endorsed a plan to phase out large trucks with high blind spots in response to ongoing road safety issues affecting cyclists and pedestrians. The decision follows the recent death of cyclist Johnny Santos, who was struck by a cement truck on Abbey Street while cycling. The safety initiative reflects growing concerns about heavy goods vehicles and their visibility limitations in urban areas.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/dublin-city-council-lorries-blind-spots-cyclists-7011877-Apr2026/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "social"
+        ]
+      },
+      {
+        "headline": "Cybersecurity chief warns of unpredictable AI impact on national security",
+        "summary": "The National Cyber Security Centre director is addressing the Oireachtas Committee on the implications of artificial intelligence for cybersecurity, describing the impact as both vast and inherently unpredictable. The warning comes as Ireland and other nations grapple with the growing threat landscape posed by AI-enabled cyberattacks and security vulnerabilities. The NCSC's alert underscores the need for enhanced national cybersecurity strategies to address emerging AI-related risks.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0414/1568062-cybersecurity-ai/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Rise in racist attacks on healthcare workers sparks safety concerns",
+        "summary": "A significant rise in racist abuse targeting nurses and other healthcare workers has prompted staff to travel in groups to avoid assault. Data shows 183 reported incidents of racist attacks against health workers over the past five years, reflecting growing safety concerns in the healthcare sector. The pattern of harassment underscores systemic issues around workplace safety and social cohesion for vulnerable workforce groups in Ireland.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/rise-in-racist-attacks-aimed-at-health-workers-and-nurses-7005453-Apr2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "crime"
+        ]
+      },
+      {
+        "headline": "Irish electricity prices rank eighth highest in Europe",
+        "summary": "Research released shows Ireland had the eighth most expensive electricity rates across Europe during 2024, indicating ongoing challenges in energy affordability for consumers and businesses. The finding highlights Ireland's position among the higher cost jurisdictions for electricity within the EU, with implications for household budgets and industrial competitiveness. The data underscores persistent issues in Ireland's energy market despite renewable energy expansion efforts.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0414/1568034-esri-electricity/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "transport"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-14T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Viktor Orban's 16-year rule ends as Peter Magyar's Tisza party wins landslide election in Hungary",
+        "summary": "Hungary's voters decisively rejected Prime Minister Viktor Orban in parliamentary elections, with Peter Magyar's centre-right Tisza party securing 138 of 199 seats and a two-thirds constitutional majority on 53.6% of the vote. Orban conceded defeat after his Fidesz party won only 55 seats with 37.8% support, ending his 16-year tenure as Europe's most controversial leader. The election, which saw nearly 80% turnout, signals a major geopolitical shift in Central Europe and is expected to reset Hungary's adversarial relationship with the EU, potentially unblocking a 90 billion euro loan to Ukraine that Orban had previously blocked. Magyar's victory suggests a return to EU alignment and democratic standards after years of concerns about judicial independence and press freedom under Orban's rule.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz"
+          },
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
+          },
+          {
+            "name": "The Guardian (via WebSearch)",
+            "url": "https://www.theguardian.com/world/europe-news/rss"
+          }
+        ],
+        "tags": [
+          "elections",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU's Entry/Exit System (EES) becomes fully operational across all Schengen countries",
+        "summary": "The European Union's automated Entry/Exit System became fully operational on April 10, 2026, replacing manual passport stamping across all 29 Schengen countries. The biometric system registers non-EU nationals' fingerprints and facial images along with entry and exit data, enabling automatic detection of overstayers and document fraud. Since the phased rollout began in October, the system has already refused entry to more than 24,000 people due to expired documents, fraudulent papers, or inability to justify their visit. The implementation marks a major modernization of European border security and data management while raising data protection considerations. The EES will streamline border crossing procedures for legitimate travelers while enhancing security through digital rather than manual record-keeping.",
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "governance",
+          "migration"
+        ]
+      },
+      {
+        "headline": "Crans-Montana bar fire investigation reveals six-year safety inspection gap before deadly New Year blaze",
+        "summary": "Nine individuals, including the mayor of Crans-Montana, face criminal investigation after a January 1, 2026 fire at the Le Constellation bar killed 41 people during New Year celebrations. The Crans-Montana mayor claimed ignorance of the catastrophic safety failures, stating he was unaware that fire safety inspections had not been conducted for six years at the ski resort venue. The investigation has uncovered that the underground bar lacked a sprinkler system and may not have had accessible fire extinguishers at the time of the incident. Swiss, Italian, and French authorities have opened coordinated criminal investigations into negligent homicide and negligence charges. The incident has sparked urgent discussions across European jurisdictions about venue safety standards and regulatory oversight in hospitality establishments.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260414-crans-montana-bar-fire-mayor-unaware-safety-failures-41-dead"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/1/6/swiss-bar-hit-by-deadly-new-years-fire-had-no-safety-checks-in-five-years"
+          }
+        ],
+        "tags": [
+          "safety",
+          "governance",
+          "crime"
+        ]
+      },
+      {
+        "headline": "Oil prices ease as hopes rise for new US-Iran peace talks following month-long ceasefire",
+        "summary": "Crude oil prices retreated from above $100 per barrel on growing optimism that renewed US-Iran negotiations could ease geopolitical tensions and normalize Middle East trade flows. The softening comes after a significant price spike triggered by initial diplomatic failures, with markets seeking stability in global energy markets disrupted by months of regional conflict. European economies have been particularly exposed to energy cost volatility, with estimates showing the conflict has cost the EU approximately $16 billion in increased fuel costs and driven natural gas prices up approximately 70%. The potential for renewed dialogue provides relief to energy-dependent European industries and households facing sustained inflation pressures. A breakthrough in negotiations could stabilize energy markets and provide significant economic relief across Europe through more reliable supply chains.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cjr9qrnp821o"
+          },
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/04/12/world/live-news/iran-us-war-talks-trump"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU launches most ambitious customs reform in 58 years to modernize trade and simplify procedures",
+        "summary": "The European Parliament and Council have agreed on a sweeping customs modernization package representing the most significant EU customs reform since 1968. The reform introduces data-driven customs architecture with enhanced e-commerce regulations and simplified procedures designed to reduce bureaucracy while improving efficiency and security. The updated framework addresses challenges posed by digital trade growth and evolving supply chains, providing European businesses with streamlined import and export processes. The modernization is expected to facilitate legitimate trade while maintaining robust security and regulatory enforcement across EU borders. The agreement reflects the EU's commitment to maintaining competitive customs infrastructure as global trade patterns continue to evolve.",
+        "sources": [
+          {
+            "name": "European Union News",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "trade",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU funds 54 clean energy projects with 2.7 billion euros to accelerate decarbonization across Europe",
+        "summary": "The EU's Innovation Fund has allocated 2.7 billion euros to 54 clean industry projects spanning 17 countries as part of the bloc's broader decarbonization strategy. The funded initiatives cover diverse sectors including renewable energy, cement and lime production, refinery modernization, and low-carbon transport solutions. The investment reflects Europe's commitment to meeting climate targets and developing sustainable industrial capacity while maintaining economic competitiveness in the global clean energy transition. Projects selected represent significant technological breakthroughs in carbon reduction across heavy industries traditionally difficult to decarbonize. The funding demonstrates the EU's strategic focus on combining climate ambitions with industrial policy and job creation across member states.",
+        "sources": [
+          {
+            "name": "European Union News",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "climate",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU and Australia conclude free trade agreement eliminating tariffs on 99 percent of EU exports",
+        "summary": "The European Union and Australia have completed negotiations on a comprehensive free trade agreement that will remove tariffs on over 99 percent of EU goods exports to the Australian market. The agreement significantly improves EU access to critical raw materials essential for European green energy and technology sectors, addressing supply chain vulnerabilities exposed by recent global disruptions. The deal strengthens trade ties between the bloc and a major Indo-Pacific partner while supporting both economies through enhanced market access and reduced trade barriers. The agreement reflects the EU's broader strategy to diversify trading relationships and secure supply chains for strategic materials needed in the energy transition. Ratification is expected to proceed through standard EU procedures in coming months.",
+        "sources": [
+          {
+            "name": "European Union News",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-14T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US Blockade of Iran Triggers Global Crisis as Oil Prices Spike and Allies Refuse Participation",
+        "summary": "The Trump administration has imposed a military blockade on the Strait of Hormuz, threatening to sink Iranian vessels and demanding the country abandon its nuclear program. European and allied nations have declined to join the blockade, citing concerns about international law and maritime freedom. Oil prices have surged to nearly $150 per barrel, the highest on record, as markets react to supply disruption fears and OPEC has downgraded global oil demand forecasts. Diplomatic channels remain open with the US indicating willingness to negotiate, though both sides continue military posturing. The blockade threatens global energy security and has sparked protests worldwide, with the UN calling for respect of navigation rights in international waters.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Hungary's Orb\u00e1n Ousted After 16 Years as Voters Choose Pro-Reform Alternative Magyar",
+        "summary": "Viktor Orb\u00e1n's 16-year grip on Hungary's government has ended in a decisive electoral defeat at the hands of P\u00e9ter Magyar, a 45-year-old former Orb\u00e1n ally turned opposition leader. Magyar's victory marks a significant shift in European politics, signaling potential relief for the EU after years of tensions over democratic standards and Ukraine support. The new prime minister has pledged to strengthen ties with the EU and indicated willingness to negotiate with Putin while supporting Ukraine, positioning Hungary as a potential bridge between conflicting parties. Magyar's rise suggests a reversal of Hungary's isolation within European institutions and may improve the bloc's cohesion on key policy issues. The election outcome has ripple effects beyond Budapest, affecting US conservative political alignments and Trump's regional influence.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Sudan Humanitarian Catastrophe Deepens as Three Babies Born Every Minute into Active War Zone",
+        "summary": "A major international charity has warned that Sudan's ongoing conflict has created dire conditions for newborns, with three babies born into the war every minute without access to basic healthcare or security. The humanitarian crisis represents one of the world's most acute emergencies, with displacement, malnutrition, and disease compounding the toll of active fighting. Healthcare infrastructure has collapsed across much of the country, leaving pregnant women and infants without critical medical services. The international community's response has been insufficient to address the scale of need, and access for humanitarian aid remains severely restricted. This crisis exemplifies the broader humanitarian consequences of regional conflicts and the vulnerability of children in active war zones.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "conflict",
+          "health"
+        ]
+      },
+      {
+        "headline": "Lebanon Enters Ceasefire Talks with Israel While Hezbollah Threatens to Derail Negotiations",
+        "summary": "Lebanon's government has entered direct negotiations with Israel in Washington, DC, aimed at establishing a lasting ceasefire, yet the talks face significant obstacles due to Hezbollah's refusal to participate and threats to destabilize any agreement. Israeli forces have intensified military operations against targets in Lebanon, including strikes in central Beirut that killed over 180 people, complicating the diplomatic effort. Hezbollah's leader has urged the Lebanese government to withdraw from talks, characterizing them as a ploy to isolate the militant group rather than achieve genuine peace. The Lebanese delegation operates under severe constraints, lacking direct influence over Hezbollah's military decisions or strategic choices. The outcome of these talks will determine whether the region moves toward de-escalation or further conflict intensification.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cr51l794mlyo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Iran Executes Record Number of Prisoners as Repression Intensifies Following Anti-Government Protests",
+        "summary": "Iran has carried out its highest number of executions in decades as the government intensifies crackdowns against dissidents and opposition activists who participated in recent anti-government demonstrations. Human rights organizations warn that additional executions are likely to follow as the regime consolidates control and punishes perceived threats to stability. The execution spike coincides with broader military tensions in the region, raising concerns that the escalating US blockade may further harden Iran's internal security posture. International observers note that the execution pattern targets political prisoners and minorities, reflecting systematic repression rather than standard criminal justice. The convergence of regional military conflict and domestic political repression marks a dangerous escalation in human rights violations.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Philippines Accuses China of Using Cyanide to Poison South China Sea Reef, Escalating Maritime Tensions",
+        "summary": "The Philippines has accused Chinese fishermen of deliberately dumping cyanide into the South China Sea near disputed waters, a tactic allegedly intended to kill marine life and deprive Philippine troops stationed in the area of food sources. Beijing has rejected the allegation as a 'farce,' maintaining its position in the ongoing territorial disputes. The incident escalates maritime tensions in one of the world's most contested regions and raises environmental concerns about ecosystem damage from chemical contamination. The cyanide poisoning reflects the tactics employed by competing claimants to assert control over disputed territories through resource denial. The dispute underscores broader geopolitical competition in Asia-Pacific waters and highlights how territorial conflicts increasingly manifest through environmental and humanitarian dimensions.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cvgk331k44yo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Super Typhoon Sinlaku Bears Down on Guam and Northern Mariana Islands with Dangerous Conditions Expected",
+        "summary": "Super Typhoon Sinlaku is slowly advancing toward the island territories of Guam and the Northern Mariana Islands, with meteorologists warning of dangerous conditions despite the storm's gradual weakening. The slow-moving typhoon poses particular risks due to its sustained wind speeds and heavy rainfall potential, which could cause flooding and structural damage across the region. Local authorities have implemented emergency preparedness measures and evacuation protocols as the storm approaches populated areas. The typhoon's track demonstrates the ongoing vulnerability of Pacific island communities to powerful tropical systems, particularly those with limited infrastructure and resources for disaster response. Sinlaku's impact will test regional emergency management capacity and potentially cause significant economic disruption across the island economies.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/14/super-typhoon-sinlaku-bears-down-on-northern-mariana-islands-guam"
+          }
+        ],
+        "tags": [
+          "climate",
+          "humanitarian",
+          "health"
+        ]
+      },
+      {
+        "headline": "Global Oil Crisis Deepens as Energy Prices Surge on Hormuz Blockade and Regional Instability",
+        "summary": "Physical oil prices have reached unprecedented levels near $150 per barrel, driven by the Strait of Hormuz blockade, regional military tensions, and OPEC's downgrade of global oil demand forecasts. The energy crisis is reverberating through global markets, with major luxury goods manufacturers like LVMH reporting significant sales declines attributed to the Iran war impact on consumer demand. Stock markets have shown mixed reactions as investors weigh the prospect of US-Iran negotiations against sustained supply chain disruptions. OPEC has warned that demand reduction from the conflict could exceed previous forecasts, with particular impacts on developing economies vulnerable to energy price shocks. Energy experts suggest peak oil prices may arrive within weeks, after which diplomatic progress or supply adjustments could provide relief, though underlying geopolitical risks remain.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo"
+          }
+        ],
+        "tags": [
+          "economy",
+          "conflict",
+          "climate"
+        ]
+      }
+    ]
+  }
+}

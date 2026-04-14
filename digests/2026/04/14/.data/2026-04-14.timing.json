@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-14",
+  "update_type": "morning",
+  "steps": {
+    "setup": {
+      "start": 1776142810,
+      "end": 1776142824,
+      "duration_s": 14
+    },
+    "gather": {
+      "start": 1776142824,
+      "end": 1776142966,
+      "duration_s": 142
+    },
+    "preprocess": {
+      "start": 1776142966,
+      "end": 1776142995,
+      "duration_s": 29
+    },
+    "digest_write": {
+      "start": 1776142995,
+      "end": 1776143306,
+      "duration_s": 311
+    },
+    "audio": {
+      "start": 1776143306,
+      "end": 1776143416,
+      "duration_s": 110
+    },
+    "commit": {
+      "start": 1776143416,
+      "end": 0,
+      "duration_s": 0
+    }
+  },
+  "total_duration_s": 606,
+  "sources": {
+    "success": 12,
+    "total": 15
+  },
+  "stories": {
+    "ireland": 7,
+    "europe": 7,
+    "world": 8
+  },
+  "audio": {
+    "sections": 6,
+    "duration_s": 654.5
+  },
+  "cost_estimate": {
+    "gather_agents": "3x haiku \u2014 ~$0.02",
+    "digest_writer": "1x sonnet \u2014 ~$0.04",
+    "audio_agent": "none (script)",
+    "total": "~$0.06"
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Strait of Hormuz blockade'",
+      "existing_parallels": [
+        "The Suez Crisis",
+        "Megan's Law (United States, 1994–1996)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Megan%27s_Law",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Strait of Hormuz blockade",
+      "headline": "US Blockade of Iran Triggers Global Crisis as Oil Prices Spike and Allies Refuse Participation"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Hungary Orban election authoritarian rule'",
+      "existing_parallels": [
+        "Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)",
+        "Hungarian Revolution of 1956",
+        "1989 Polish Parliamentary Election",
+        "Romanian Revolution of 1989"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+        "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+        "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Romanian_revolution"
+      ],
+      "matched_topic": "Hungary Orban election authoritarian rule",
+      "headline": "Hungary's Orbán Ousted After 16 Years as Voters Choose Pro-Reform Alternative Magyar"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict' — 3 prior parallels, room for more. Must not reuse: The Tanker War (1984-1988), Iran-Iraq War (1980-1988), Operation Eagle Claw (1980)",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Sudan Humanitarian Catastrophe Deepens as Three Babies Born Every Minute into Active War Zone"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Lebanon Enters Ceasefire Talks with Israel While Hezbollah Threatens to Derail Negotiations"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Iran Executes Record Number of Prisoners as Repression Intensifies Following Anti-Government Protests"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Philippines Accuses China of Using Cyanide to Poison South China Sea Reef, Escalating Maritime Tensions"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland named storm disruption' — 1 prior parallels, room for more. Must not reuse: Night of the Big Wind (1839)",
+      "existing_parallels": [
+        "Night of the Big Wind (1839)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind"
+      ],
+      "matched_topic": "Ireland named storm disruption",
+      "headline": "Super Typhoon Sinlaku Bears Down on Guam and Northern Mariana Islands with Dangerous Conditions Expected"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Suez Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Global Oil Crisis Deepens as Energy Prices Surge on Hormuz Blockade and Regional Instability"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Hungary Orban election authoritarian rule'",
+      "existing_parallels": [
+        "Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)",
+        "Hungarian Revolution of 1956",
+        "1989 Polish Parliamentary Election",
+        "Romanian Revolution of 1989"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+        "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+        "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Romanian_revolution"
+      ],
+      "matched_topic": "Hungary Orban election authoritarian rule",
+      "headline": "Viktor Orban's 16-year rule ends as Peter Magyar's Tisza party wins landslide election in Hungary"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Finland-Russia border security' — 1 prior parallels, room for more. Must not reuse: The Winter War (1939-1940)",
+      "existing_parallels": [
+        "The Winter War (1939-1940)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Winter_War"
+      ],
+      "matched_topic": "Finland-Russia border security",
+      "headline": "EU's Entry/Exit System (EES) becomes fully operational across all Schengen countries"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Crans-Montana bar fire investigation reveals six-year safety inspection gap before deadly New Year blaze"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Oil prices ease as hopes rise for new US-Iran peace talks following month-long ceasefire"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU launches most ambitious customs reform in 58 years to modernize trade and simplify procedures"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "EU funds 54 clean energy projects with 2.7 billion euros to accelerate decarbonization across Europe"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict energy market shock' — 1 prior parallels, room for more. Must not reuse: The 1990 Oil Price Shock",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "EU and Australia conclude free trade agreement eliminating tariffs on 99 percent of EU exports"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 2 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Government faces confidence vote amid ongoing fuel protests"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Rory McIlroy claims back-to-back Masters titles"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Dublin City Council completes €581 million purchase of former DIT Kevin Street site"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Dublin City Council backs plan to phase out high blind spot trucks amid road safety concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Cybersecurity chief warns of unpredictable AI impact on national security"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Rise in racist attacks on healthcare workers sparks safety concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict energy market shock' — 1 prior parallels, room for more. Must not reuse: The 1990 Oil Price Shock",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "Irish electricity prices rank eighth highest in Europe"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Strait of Hormuz blockade",
+      "historical_event": "The Suez Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Suez_Crisis"
+    },
+    {
+      "story_topic": "Iran-US conflict energy market shock",
+      "historical_event": "The 1990 Oil Price Shock",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Finland-Russia border security",
+      "historical_event": "The Winter War (1939-1940)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87"
+    },
+    {
+      "story_topic": "Ireland named storm disruption",
+      "historical_event": "Night of the Big Wind (1839)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw (1980)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Hungarian Revolution of 1956",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "1989 Polish Parliamentary Election",
+      "date_first_used": "2026-04-12",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Romanian Revolution of 1989",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Romanian_revolution"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}
