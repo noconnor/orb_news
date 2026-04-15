@@ -1,0 +1,85 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-15T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US blockade of Iranian ports intensifies as naval conflict escalates",
+      "summary": "The United States has implemented a naval blockade of Iran's ports, particularly the Strait of Hormuz, following escalating military tensions and the failure of diplomatic negotiations. Multiple tankers have been intercepted by US forces in the region, with Trump administration officials claiming the war is close to resolution while maintaining pressure through the blockade. The blockade has created a global liquefied natural gas shortage, benefiting US energy companies that are bringing new investments to fill the gap. China and other nations have criticized the blockade as irresponsible and destabilizing to efforts for a ceasefire. Treasury Secretary Bessent told the BBC that the economic pain from the Iran policy is worth the long-term security benefits.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/14/nx-s1-5784072/veteran-diplomat-offers-insights-into-the-war-in-iran-and-thoughts-on-whats-next"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy", "trade"]
+    },
+    {
+      "headline": "Israel and Lebanon hold first direct talks in decades amid ongoing conflict",
+      "summary": "Israel and Lebanon have begun direct negotiations in Washington for the first time in nearly three decades, marking a significant diplomatic development amid regional tensions. The talks represent the first face-to-face engagement between the two countries in decades, though US officials indicate more time will be needed for substantive progress. However, Hezbollah, the militant group with significant influence in Lebanon, has urged the Lebanese government to cancel the talks, calling for an immediate end to hostilities. Multiple countries including Canada, the UK, Australia, and Japan have issued a joint statement calling for an urgent end to hostilities in Lebanon. The negotiations reflect attempts to stabilize the region even as military operations continue.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cp8ddydl18vo"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "Haiti's Culture Ministry fires employees following deadly citadel stampede",
+      "summary": "At least 25 people were killed in a stampede at Laferrière Citadel in Haiti, prompting investigations and personnel changes within the Culture Ministry. Nine people, including police officers and ministry employees, have been arrested in connection with the incident. The stampede occurred at the historic citadel, suggesting overcrowding and safety issues during what was likely a public event. Haiti's government has responded by firing ministry workers responsible for oversight of the facility. The incident highlights ongoing public safety concerns and governance challenges in Haiti.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cy811062y5yo"}
+      ],
+      "tags": ["humanitarian", "governance"]
+    },
+    {
+      "headline": "Over 250 feared dead as migrant boat capsizes in Indian Ocean",
+      "summary": "A migrant vessel sank in the Indian Ocean with approximately 250 people missing, according to reports from the region. The boat reportedly capsized due to heavy winds, rough seas, and severe overcrowding, typical conditions that endanger migrants attempting maritime journeys. The incident underscores the ongoing humanitarian crisis surrounding migration routes and the deadly risks migrants face in seeking safer lives. Search and rescue operations are expected, though the scale of the disaster suggests recovery efforts will be challenging. The tragedy reflects broader patterns of unsafe maritime migration and the desperation of populations fleeing conflict and poverty.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cz6778j78vlo"}
+      ],
+      "tags": ["humanitarian", "migration"]
+    },
+    {
+      "headline": "Viktor Orbán's 16-year rule in Hungary ends following electoral defeat",
+      "summary": "Péter Magyar, a 45-year-old former member of Viktor Orbán's party, has defeated the long-sitting Hungarian prime minister in elections, marking a dramatic shift in Central European politics after 16 years of Orbán's governance. Magyar's victory signals voter exhaustion with Orbán's authoritarian governance model and represents a significant setback for the nationalist approach that has defined Hungary under his rule. The defeat carries implications across Europe, where Orbán had become a symbol of illiberal democracy and resistance to EU norms. Magyar has indicated he would answer if Putin called but would not initiate contact with the Russian leader, signaling a potential shift in Hungary's geopolitical orientation. Celebrations erupted across Budapest, with voters expressing enthusiasm for the political change.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o"}
+      ],
+      "tags": ["politics", "elections", "governance"]
+    },
+    {
+      "headline": "Pope Leo begins historic first visit to Algeria as African tour begins",
+      "summary": "Pope Leo has begun a major African tour by arriving in Algeria, marking the first visit by a Pope to the North African nation. The religious leader is prioritizing the continental importance of Africa in his papal agenda and is undertaking what is being described as a significant diplomatic and spiritual mission. The visit represents a notable moment in Vatican-African relations and comes amid broader efforts by the Church to strengthen its presence on the continent. The Pope's trip signals the Vatican's commitment to engaging with African nations and populations. The tour is expected to include multiple stops across Africa and will focus on spiritual leadership and dialogue.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o"}
+      ],
+      "tags": ["diplomacy", "religion"]
+    },
+    {
+      "headline": "Gaza disarmament plan rejected by Hamas as ceasefire talks continue",
+      "summary": "Hamas has rejected a Gaza disarmament plan, conditioning any agreement on Israeli compliance with related terms, further complicating ongoing ceasefire negotiations. The Palestinian armed group's rejection reflects deep distrust and disagreement over the terms of any potential peace settlement. Israeli airstrikes continue in Gaza, including strikes on northern areas that killed 11 people including two children in a single day. The impasse over disarmament reflects the fundamental disagreements between parties regarding security arrangements and the future governance of Gaza. Negotiations remain stalled despite international pressure for a resolution to the conflict.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "Anthropic AI company valued at up to $800 billion in venture capital interest",
+      "summary": "Anthropic, a prominent artificial intelligence company, has attracted significant venture capital interest with valuations reaching up to $800 billion, according to Business Insider reporting. The valuation reflects the explosive investor demand for AI companies and the perceived value of advanced language model technology. Anthropic's high valuation places it among the most valuable AI startups globally and demonstrates sustained investor enthusiasm for the sector despite market volatility. The company has been at the forefront of developing large language models and safety-focused AI systems. The funding interest underscores the strategic importance of AI development in the global technology landscape.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR0V5a05UYTNnQk02Q0VBWUFmRm5SNkEyTk5Ec1k5VW5oOERqa0NPejlBUUlfZk8zenptMHNjMTl3TGMyVGVsdXVLMGpOaWlwbkFSdVdVYlFwczBndVdoalB5QmF3bngxN3BQYXRpV3BxamFianpfZGRDblNFa2hLd3NNMGRmMFVZMFhhaVdoRFRkNHVfUXlwMU15dWZxbFVvN1kwaTVDdERvSjkwX0ZGVF9fajVaVEt5Zk55b0RzdEJVbFBHZHJzSC1HYw"}
+      ],
+      "tags": ["technology", "economy"]
+    }
+  ]
+}

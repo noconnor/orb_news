@@ -1,0 +1,61 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-15T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "149% rise in children waiting over two years for speech therapy",
+      "summary": "The Irish Examiner has revealed a significant surge in the number of children awaiting speech therapy, with a 149% increase in those waiting over two years, including 19,856 children awaiting initial assessment. This concerning trend highlights mounting pressure on the health service's speech and language therapy resources. The figures underline growing demand for child healthcare services across Ireland. Parents and healthcare professionals have expressed concern about the delays impacting child development. The rise reflects broader resource constraints within the Irish health system.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41827538.html"}
+      ],
+      "tags": ["health", "social"]
+    },
+    {
+      "headline": "124 died while homeless in 2022, HRB finds",
+      "summary": "The Health Research Board has released figures showing that 124 people died while experiencing homelessness in 2022, an alarming statistic that underscores the severity of Ireland's housing and social crisis. The data represents a tragic loss and raises urgent questions about support services for vulnerable populations. These figures come amid ongoing debates about housing policy and welfare provision in Ireland. The findings likely inform policy discussions around homelessness prevention and support services. The data highlights a critical area requiring government attention and intervention.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0415/1568253-homeless-deaths/"}
+      ],
+      "tags": ["health", "social", "housing"]
+    },
+    {
+      "headline": "Tax cuts on fuels kick in today",
+      "summary": "Tax reductions on fuel officially took effect at midnight on April 15, 2026, offering relief to consumers struggling with energy costs. However, retailers may need several days to reflect these changes at service stations, meaning price reductions may not be immediately visible to consumers. The tax relief represents government action to address inflationary pressures on household budgets. The measure aims to support households and businesses facing higher fuel costs. Implementation delays at point-of-sale highlight the practical challenges of translating tax policy into consumer benefit.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/fuel-price-reductions-start-today-7012984-Apr2026/"}
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "Ibec warns of impact of changes to EU cybersecurity laws",
+      "summary": "Irish business advocacy group Ibec has cautioned that proposed revisions to EU cybersecurity regulations could destabilize critical sectors and impose substantial costs on telecommunications companies in Ireland. The organization is raising concerns about unintended consequences of EU-level regulatory changes. These warnings come as the EU develops updated cybersecurity frameworks to address evolving threats. Irish businesses argue the regulatory burden may disproportionately affect telecommunications and critical infrastructure sectors. The dispute highlights tensions between security objectives and business viability in implementing EU directives.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0415/1568254-ibec-cyber-security/"}
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "EU's Orbán loss gives 'new push' to Ukraine accession",
+      "summary": "The change in Hungary's government has prompted EU optimism about unlocking 90 billion euros for Ukraine and advancing its application for EU membership, an issue previously complicated by Viktor Orbán's opposition. The shift in Hungarian politics removes a significant diplomatic obstacle to EU support for Ukraine's integration process. This development has implications for Ireland and broader EU Eastern European policy. The unblocking of Ukrainian assistance and membership progress represents a significant geopolitical shift in EU relations. The change reflects evolving European priorities regarding Ukraine's security and integration.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/world/2026/0415/1568273-eu-ukraine-accession/"}
+      ],
+      "tags": ["politics", "defence"]
+    },
+    {
+      "headline": "Measures to ease energy costs must have end date - EU",
+      "summary": "EU Commissioner Valdis Dombrovskis has stated that government relief measures for high energy prices should have defined expiration dates and targeted approaches, drawing lessons from past crises. The commissioner's guidance applies to member states including Ireland that have implemented energy cost relief programs. The EU is seeking to balance short-term cost-of-living support with fiscal sustainability and market stability. The call for defined timelines reflects concern about entrenching temporary measures as permanent policy. Ireland must consider this EU guidance when evaluating its own energy cost support mechanisms.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0415/1568272-eu-energy/"}
+      ],
+      "tags": ["economy", "politics"]
+    }
+  ]
+}

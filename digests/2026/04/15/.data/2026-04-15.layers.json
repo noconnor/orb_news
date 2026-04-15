@@ -1,0 +1,405 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-15T06:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "149% rise in children waiting over two years for speech therapy",
+        "summary": "The Irish Examiner has revealed a significant surge in the number of children awaiting speech therapy, with a 149% increase in those waiting over two years, including 19,856 children awaiting initial assessment. This concerning trend highlights mounting pressure on the health service's speech and language therapy resources. The figures underline growing demand for child healthcare services across Ireland. Parents and healthcare professionals have expressed concern about the delays impacting child development. The rise reflects broader resource constraints within the Irish health system.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41827538.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "social"
+        ]
+      },
+      {
+        "headline": "124 died while homeless in 2022, HRB finds",
+        "summary": "The Health Research Board has released figures showing that 124 people died while experiencing homelessness in 2022, an alarming statistic that underscores the severity of Ireland's housing and social crisis. The data represents a tragic loss and raises urgent questions about support services for vulnerable populations. These figures come amid ongoing debates about housing policy and welfare provision in Ireland. The findings likely inform policy discussions around homelessness prevention and support services. The data highlights a critical area requiring government attention and intervention.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0415/1568253-homeless-deaths/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "housing"
+        ]
+      },
+      {
+        "headline": "Tax cuts on fuels kick in today",
+        "summary": "Tax reductions on fuel officially took effect at midnight on April 15, 2026, offering relief to consumers struggling with energy costs. However, retailers may need several days to reflect these changes at service stations, meaning price reductions may not be immediately visible to consumers. The tax relief represents government action to address inflationary pressures on household budgets. The measure aims to support households and businesses facing higher fuel costs. Implementation delays at point-of-sale highlight the practical challenges of translating tax policy into consumer benefit.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/fuel-price-reductions-start-today-7012984-Apr2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Ibec warns of impact of changes to EU cybersecurity laws",
+        "summary": "Irish business advocacy group Ibec has cautioned that proposed revisions to EU cybersecurity regulations could destabilize critical sectors and impose substantial costs on telecommunications companies in Ireland. The organization is raising concerns about unintended consequences of EU-level regulatory changes. These warnings come as the EU develops updated cybersecurity frameworks to address evolving threats. Irish businesses argue the regulatory burden may disproportionately affect telecommunications and critical infrastructure sectors. The dispute highlights tensions between security objectives and business viability in implementing EU directives.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0415/1568254-ibec-cyber-security/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "EU's Orb\u00e1n loss gives 'new push' to Ukraine accession",
+        "summary": "The change in Hungary's government has prompted EU optimism about unlocking 90 billion euros for Ukraine and advancing its application for EU membership, an issue previously complicated by Viktor Orb\u00e1n's opposition. The shift in Hungarian politics removes a significant diplomatic obstacle to EU support for Ukraine's integration process. This development has implications for Ireland and broader EU Eastern European policy. The unblocking of Ukrainian assistance and membership progress represents a significant geopolitical shift in EU relations. The change reflects evolving European priorities regarding Ukraine's security and integration.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/world/2026/0415/1568273-eu-ukraine-accession/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Measures to ease energy costs must have end date - EU",
+        "summary": "EU Commissioner Valdis Dombrovskis has stated that government relief measures for high energy prices should have defined expiration dates and targeted approaches, drawing lessons from past crises. The commissioner's guidance applies to member states including Ireland that have implemented energy cost relief programs. The EU is seeking to balance short-term cost-of-living support with fiscal sustainability and market stability. The call for defined timelines reflects concern about entrenching temporary measures as permanent policy. Ireland must consider this EU guidance when evaluating its own energy cost support mechanisms.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0415/1568272-eu-energy/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-15T06:01:23Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Hungary ousts Orb\u00e1n after 16 years as pro-EU challenger wins shock election",
+        "summary": "Viktor Orb\u00e1n's 16-year rule in Hungary has ended following an election victory by the pro-European Tisza party led by Peter Magyar. Magyar built a broad coalition spanning liberal, left-wing, and green voters, achieving record voter turnout. The result marks a significant shift toward EU alignment and threatens Orb\u00e1n's network of influence within European institutions, including figures like Commissioner Oliv\u00e9r V\u00e1rhelyi. Many in Hungary and across Europe view the outcome as an opportunity to improve relations between Budapest and Brussels. The election outcome has major implications for EU cohesion and the future direction of Hungarian governance.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260412-hungary-ousts-orb%C3%A1n-after-16-years-as-pro-eu-challenger-wins-shock-election"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/europe-news"
+          }
+        ],
+        "tags": [
+          "elections",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "IMF downgrades Eurozone economic growth forecast amid Iran conflict",
+        "summary": "The International Monetary Fund has reduced the Eurozone's economic growth forecast from 1.4% to 1.1%, citing the escalating Iran conflict and regional tensions. The UK faces the biggest hit to growth among major economies according to the IMF, with geopolitical disruption threatening global economic stability. Energy prices have spiked due to Iran's blockade of the Strait of Hormuz, with consumers globally paying over $100 billion extra to fossil fuel companies since the conflict began. Small UK firms are facing energy bills that could more than double as a result of the crisis. The economic slowdown presents risks for European recovery and employment across the continent.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c3v670qwz97o"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/04/14/imf-drops-eurozones-economic-growth-forecast-to-11-from-14-amid-iran-war"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/europe-news"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "trade"
+        ]
+      },
+      {
+        "headline": "EU doubles steel tariffs to 50% in crackdown on cheap Chinese imports",
+        "summary": "European lawmakers have increased steel tariffs to 50% and cut duty-free import volumes by 47% to combat surging Chinese imports into the EU market. The measure is designed to protect European steelmakers from unfair pricing practices and ensure fair competition within the bloc. This trade protection policy reflects growing concerns about Chinese manufacturing capacity flooding European markets. The tariff increase represents a significant regulatory action by EU institutions to safeguard European industry. The decision could impact global trade relations and may prompt responses from trading partners.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260413-eu-doubles-steel-tariffs-50-percent-crackdown-cheap-chinese-imports"
+          }
+        ],
+        "tags": [
+          "trade",
+          "regulation",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Germany and Ukraine seal sweeping defense pact on drones, data, and missiles",
+        "summary": "Berlin and Kyiv have finalized a comprehensive defense cooperation agreement comprising over ten separate accords, marking the first major consultations between the countries since 2004. The pact covers critical areas including drone technology, military data sharing, and missile systems, strengthening Ukraine's defensive capabilities against Russian aggression. The agreement represents a significant deepening of German military support and technological cooperation with Ukraine. This defense partnership underscores Germany's commitment to European security and Ukrainian sovereignty. The pact could serve as a model for broader European defense coordination and support for Ukraine.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/14/berlin-and-kyiv-seal-sweeping-pact-on-drones-data-and-missiles"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Spain finalizes amnesty measures to grant legal status to up to 500,000 immigrants",
+        "summary": "Spain has completed legislative work on an amnesty program that will provide legal status to approximately 500,000 undocumented immigrants currently living in the country. The initiative addresses critical labor shortages in key sectors including agriculture, tourism, and hospitality services. The amnesty reflects Spain's pragmatic approach to immigration policy and workforce development amid labor market challenges. The measure allows undocumented workers to integrate into the formal economy and contribute more effectively to Spanish society. This policy decision has broader implications for EU migration discussions and labor mobility within Europe.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/14/spain-finalises-amnesty-measures-to-give-legal-status-to-up-to-500000-immigrants"
+          }
+        ],
+        "tags": [
+          "migration",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Spain's PM wife charged with corruption following investigation",
+        "summary": "Begona Gomez, wife of Spanish Prime Minister Pedro Sanchez, has been formally charged with corruption following a lengthy probe that began in 2024. The charges relate to potential misuse of her official position and alleged improper conduct. The case raises governance and accountability questions for the Spanish government and its leadership. The charges mark a significant moment in Spanish politics with implications for the government's credibility. The investigation and charges reflect broader European concerns about official conduct and institutional integrity.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260413-spanish-pm-pedro-sanchez-wife-charged-corruption-years-long-probe"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Italy suspends defense agreement with Israel amid Lebanon tensions",
+        "summary": "Italy's government has paused defense and military cooperation with Israel following escalating tensions related to incidents involving Italian UN peacekeepers in Lebanon. The suspension came after alleged warning shots were fired at Italian forces, raising serious concerns about the safety of Italian personnel deployed in the region. The decision reflects Italy's priority on protecting its troops and maintaining its peacekeeping mission stability. The suspension impacts bilateral defense ties between the two Mediterranean countries. Italy's action highlights broader European concerns about regional stability and the conduct of military operations near European contingents.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260414-italy-suspends-defence-agreement-with-israel-as-lebanon-attacks-stoke-tensions"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "UK approves Telegraph newspaper acquisition by German publishing giant Axel Springer",
+        "summary": "The UK government has approved the takeover of the Telegraph newspaper by Axel Springer, Europe's largest media publisher, in a deal valued at \u00a3575 million in cash. The acquisition transfers a historic British media institution into German ownership under one of Europe's major publishing companies. The approval marks a significant consolidation in European media ownership and cross-border corporate integration. The deal reflects broader trends in European media industry consolidation and changing ownership patterns. The transaction underscores the increasing role of large continental European media groups in shaping British and European information landscapes.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/14/uk-approves-takeover-of-telegraph-newspaper-by-german-publishing-giant-axel-springer"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "regulation"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-15T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US blockade of Iranian ports intensifies as naval conflict escalates",
+        "summary": "The United States has implemented a naval blockade of Iran's ports, particularly the Strait of Hormuz, following escalating military tensions and the failure of diplomatic negotiations. Multiple tankers have been intercepted by US forces in the region, with Trump administration officials claiming the war is close to resolution while maintaining pressure through the blockade. The blockade has created a global liquefied natural gas shortage, benefiting US energy companies that are bringing new investments to fill the gap. China and other nations have criticized the blockade as irresponsible and destabilizing to efforts for a ceasefire. Treasury Secretary Bessent told the BBC that the economic pain from the Iran policy is worth the long-term security benefits.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/14/nx-s1-5784072/veteran-diplomat-offers-insights-into-the-war-in-iran-and-thoughts-on-whats-next"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Israel and Lebanon hold first direct talks in decades amid ongoing conflict",
+        "summary": "Israel and Lebanon have begun direct negotiations in Washington for the first time in nearly three decades, marking a significant diplomatic development amid regional tensions. The talks represent the first face-to-face engagement between the two countries in decades, though US officials indicate more time will be needed for substantive progress. However, Hezbollah, the militant group with significant influence in Lebanon, has urged the Lebanese government to cancel the talks, calling for an immediate end to hostilities. Multiple countries including Canada, the UK, Australia, and Japan have issued a joint statement calling for an urgent end to hostilities in Lebanon. The negotiations reflect attempts to stabilize the region even as military operations continue.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cp8ddydl18vo"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Haiti's Culture Ministry fires employees following deadly citadel stampede",
+        "summary": "At least 25 people were killed in a stampede at Laferri\u00e8re Citadel in Haiti, prompting investigations and personnel changes within the Culture Ministry. Nine people, including police officers and ministry employees, have been arrested in connection with the incident. The stampede occurred at the historic citadel, suggesting overcrowding and safety issues during what was likely a public event. Haiti's government has responded by firing ministry workers responsible for oversight of the facility. The incident highlights ongoing public safety concerns and governance challenges in Haiti.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cy811062y5yo"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Over 250 feared dead as migrant boat capsizes in Indian Ocean",
+        "summary": "A migrant vessel sank in the Indian Ocean with approximately 250 people missing, according to reports from the region. The boat reportedly capsized due to heavy winds, rough seas, and severe overcrowding, typical conditions that endanger migrants attempting maritime journeys. The incident underscores the ongoing humanitarian crisis surrounding migration routes and the deadly risks migrants face in seeking safer lives. Search and rescue operations are expected, though the scale of the disaster suggests recovery efforts will be challenging. The tragedy reflects broader patterns of unsafe maritime migration and the desperation of populations fleeing conflict and poverty.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cz6778j78vlo"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "migration"
+        ]
+      },
+      {
+        "headline": "Viktor Orb\u00e1n's 16-year rule in Hungary ends following electoral defeat",
+        "summary": "P\u00e9ter Magyar, a 45-year-old former member of Viktor Orb\u00e1n's party, has defeated the long-sitting Hungarian prime minister in elections, marking a dramatic shift in Central European politics after 16 years of Orb\u00e1n's governance. Magyar's victory signals voter exhaustion with Orb\u00e1n's authoritarian governance model and represents a significant setback for the nationalist approach that has defined Hungary under his rule. The defeat carries implications across Europe, where Orb\u00e1n had become a symbol of illiberal democracy and resistance to EU norms. Magyar has indicated he would answer if Putin called but would not initiate contact with the Russian leader, signaling a potential shift in Hungary's geopolitical orientation. Celebrations erupted across Budapest, with voters expressing enthusiasm for the political change.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Pope Leo begins historic first visit to Algeria as African tour begins",
+        "summary": "Pope Leo has begun a major African tour by arriving in Algeria, marking the first visit by a Pope to the North African nation. The religious leader is prioritizing the continental importance of Africa in his papal agenda and is undertaking what is being described as a significant diplomatic and spiritual mission. The visit represents a notable moment in Vatican-African relations and comes amid broader efforts by the Church to strengthen its presence on the continent. The Pope's trip signals the Vatican's commitment to engaging with African nations and populations. The tour is expected to include multiple stops across Africa and will focus on spiritual leadership and dialogue.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "religion"
+        ]
+      },
+      {
+        "headline": "Gaza disarmament plan rejected by Hamas as ceasefire talks continue",
+        "summary": "Hamas has rejected a Gaza disarmament plan, conditioning any agreement on Israeli compliance with related terms, further complicating ongoing ceasefire negotiations. The Palestinian armed group's rejection reflects deep distrust and disagreement over the terms of any potential peace settlement. Israeli airstrikes continue in Gaza, including strikes on northern areas that killed 11 people including two children in a single day. The impasse over disarmament reflects the fundamental disagreements between parties regarding security arrangements and the future governance of Gaza. Negotiations remain stalled despite international pressure for a resolution to the conflict.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Anthropic AI company valued at up to $800 billion in venture capital interest",
+        "summary": "Anthropic, a prominent artificial intelligence company, has attracted significant venture capital interest with valuations reaching up to $800 billion, according to Business Insider reporting. The valuation reflects the explosive investor demand for AI companies and the perceived value of advanced language model technology. Anthropic's high valuation places it among the most valuable AI startups globally and demonstrates sustained investor enthusiasm for the sector despite market volatility. The company has been at the forefront of developing large language models and safety-focused AI systems. The funding interest underscores the strategic importance of AI development in the global technology landscape.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR0V5a05UYTNnQk02Q0VBWUFmRm5SNkEyTk5Ec1k5VW5oOERqa0NPejlBUUlfZk8zenptMHNjMTl3TGMyVGVsdXVLMGpOaWlwbkFSdVdVYlFwczBndVdoalB5QmF3bngxN3BQYXRpV3BxamFianpfZGRDblNFa2hLd3NNMGRmMFVZMFhhaVdoRFRkNHVfUXlwMU15dWZxbFVvN1kwaTVDdERvSjkwX0ZGVF9fajVaVEt5Zk55b0RzdEJVbFBHZHJzSC1HYw"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy"
+        ]
+      }
+    ]
+  }
+}

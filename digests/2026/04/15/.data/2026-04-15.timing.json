@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-15",
+  "update_type": "morning",
+  "steps": {
+    "setup": {"start": 1776229216, "end": 1776229243, "duration_s": 27},
+    "gather": {"start": 1776229248, "end": 1776229339, "duration_s": 91},
+    "preprocess": {"start": 1776229345, "end": 1776229345, "duration_s": 0},
+    "digest": {"start": 1776229352, "end": 1776229577, "duration_s": 225},
+    "audio": {"start": 1776229582, "end": 1776229668, "duration_s": 86},
+    "commit": {"start": 1776229670, "end": null, "duration_s": null}
+  },
+  "total_duration_s": 454,
+  "stories": {"ireland": 6, "europe": 8, "world": 8, "total": 22},
+  "sources": {"successful": 13, "total": 15},
+  "audio": {"sections": 6, "total_duration_s": 618.6}
+}
