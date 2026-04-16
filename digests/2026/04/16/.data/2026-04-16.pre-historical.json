@@ -1,0 +1,343 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israel and Lebanon leaders to speak amid ceasefire negotiations"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict energy market shock'",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "Pakistan mediates breakthrough in US-Iran nuclear negotiations"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Russian attacks on Kyiv kill three, including child, as Ukraine conflict intensifies"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "TSMC reports 50% quarterly profit jump driven by insatiable AI chip demand"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Pope Francis demands end to corruption during Cameroon visit"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Pentagon accelerates weapons production capacity through private manufacturer engagement"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "US approaches historic crude oil exporter status amid Iran conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Brazil's fugitive ex-spy chief released after US immigration detention"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Hungary Orban election authoritarian rule'",
+      "existing_parallels": [
+        "Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)",
+        "Hungarian Revolution of 1956",
+        "1989 Polish Parliamentary Election",
+        "Romanian Revolution of 1989"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+        "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+        "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Romanian_revolution"
+      ],
+      "matched_topic": "Hungary Orban election authoritarian rule",
+      "headline": "Péter Magyar's Landslide Victory Reshapes Hungarian Politics and EU Relations"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "9 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "Kuwaiti Oil Fires (1991)",
+        "The Winter War (1939-1940)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Russia Launches Intensive Missile and Drone Attacks on Ukraine, Killing at Least Three"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "European Parliament Proposes 10% Increase in EU Long-Term Budget for 2028-2034"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Explores Dropping Unanimous Voting Requirements to Advance Foreign Policy"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Brussels Unveils Age Verification System to Protect Children Online"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Grapples with Growing Trade Deficit and Strategic Dependence on China"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Sweden's Schools Abandon Digital Learning, Return to Traditional Books and Paper"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Taoiseach faces internal pressure as three more Fianna Fáil TDs seek urgent government talks"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Nonagenarian activist Lelia Doolan completes 220km protest walk against Shannon Airport military use"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Fuel excise cuts come into effect across Ireland following government response to protests"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "New Irish Coast Guard aviation service to be launched at Waterford Airport"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Conor McGregor settles High Court case over Proper No. Twelve whiskey brand shareholding dispute"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ulster University faces potential 450 job cuts with compulsory redundancies as cost-saving measures required"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Irish Rail increases security measures following escalating reports of antisocial behaviour and drug use on trains"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Iran-US conflict energy market shock",
+      "historical_event": "The 1990 Oil Price Shock",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+    },
+    {
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II (1944-1945)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Overthrow of Slobodan Milosevic / October 5th Revolution (Serbia, 2000)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Hungarian Revolution of 1956",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "1989 Polish Parliamentary Election",
+      "date_first_used": "2026-04-12",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election"
+    },
+    {
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Romanian Revolution of 1989",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Romanian_revolution"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Irish Land War (1879-1882)",
+      "date_first_used": "2026-04-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Land_War"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

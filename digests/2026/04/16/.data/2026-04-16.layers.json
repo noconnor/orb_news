@@ -1,0 +1,406 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-16T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Taoiseach faces internal pressure as three more Fianna F\u00e1il TDs seek urgent government talks",
+        "summary": "Three senior Fianna F\u00e1il TDs have requested an urgent meeting of the parliamentary party, escalating internal tensions within the government following the recent fuel protests. This follows earlier warnings from party members expressing 'real and deep concern' over the government's response to the demonstrations. The Taoiseach met with three critical TDs to address their concerns about the party's direction. These developments reflect deepening divisions within the ruling coalition as the government deals with fallout from the fuel price crisis and broader cost-of-living pressures. The accumulating dissent signals potential challenges for government stability in the coming weeks.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0416/1568476-taoiseach-meeting/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/ff-youngest-tds-unhappy-with-government-7013671-Apr2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41828201.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "government"
+        ]
+      },
+      {
+        "headline": "Nonagenarian activist Lelia Doolan completes 220km protest walk against Shannon Airport military use",
+        "summary": "Film-maker and activist Lelia Doolan, aged 91, completed a 220-kilometre walk through counties Limerick, Tipperary, Laois and Kildare to reach Leinster House, protesting the US military's use of Shannon Airport. The walk represents a two-week trek highlighting concerns about Ireland's neutrality and the ongoing use of the airport for American military operations. Doolan has requested meetings with the Taoiseach and T\u00e1naiste to discuss the issue, but has reported that requests for dialogue have gone unanswered. The demonstration underscores ongoing public concern about Ireland's relationship with US military activities on Irish soil. The event has drawn significant media attention as a symbolic gesture of civilian activism on defence and neutrality matters.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/lelia-doolan-leinster-house-shannon-airport-7013549-Apr2026/"
+          },
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/15/woman-91-walks-220km-to-protest-us-military-use-of-shannon-airport/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "politics",
+          "activism"
+        ]
+      },
+      {
+        "headline": "Fuel excise cuts come into effect across Ireland following government response to protests",
+        "summary": "The Irish government's fuel excise cuts officially took effect at midnight between April 15 and 16, providing relief following weeks of fuel price protests that created significant political pressure. Initial reports indicate fuel prices have begun to fall at many stations, with some locations seeing reductions of around 10 cents per litre. However, industry sources warn that these cuts may take several days to fully filter through to all petrol pumps across the country due to supply chain delays. The government announced the cuts in response to the fuel protests that prompted internal Fianna F\u00e1il dissent and broader public outcry over cost-of-living pressures. The measure represents a significant policy response designed to stabilize fuel costs and ease economic pressure on motorists and transport operators.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/fuel-price-reductions-start-today-7012984-Apr2026/"
+          },
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/15/fuel-prices-fall-in-many-places-as-excise-cuts-come-into-effect/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "transport"
+        ]
+      },
+      {
+        "headline": "New Irish Coast Guard aviation service to be launched at Waterford Airport",
+        "summary": "A new aviation service will be launched at Waterford Airport to provide the Irish Coast Guard with enhanced capabilities and an expanded operational fleet. The service will improve emergency response and rescue operations in the southeast region, strengthening Ireland's maritime and aviation safety infrastructure. This development represents an investment in local infrastructure and will create opportunities for enhanced emergency services in the Waterford area. The expansion of Coast Guard capabilities at regional airports reflects broader investment in national safety and emergency response systems. The service is expected to improve response times for maritime incidents and search-and-rescue operations affecting Irish coastal waters.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0416/1568482-waterford-rescue-service/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Conor McGregor settles High Court case over Proper No. Twelve whiskey brand shareholding dispute",
+        "summary": "Mixed martial arts fighter Conor McGregor has settled a High Court legal action with former sparring partner Artem Lobov over shareholding rights in Proper No. Twelve whiskey following a multi-million euro sale dispute. The settlement brings to an end protracted legal proceedings surrounding the $130 million sale of the whiskey brand, which had become contested between the parties. McGregor had faced the case in the High Court over claims related to the lucrative brand sale. The resolution allows both parties to move forward and brings closure to what had been a significant business and legal dispute. The case highlighted the complex nature of shareholding arrangements in high-value business transactions within Ireland.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/conor-mcgregor-artem-lobov-settlement-7013677-Apr2026/"
+          },
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/04/15/conor-mcgregor-settles-high-court-case-over-whiskey-brand/"
+          }
+        ],
+        "tags": [
+          "sport",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Ulster University faces potential 450 job cuts with compulsory redundancies as cost-saving measures required",
+        "summary": "Ulster University is considering substantial job reductions of approximately 450 positions as part of efforts to save nearly \u20ac29 million in costs, with potential compulsory redundancies on the table. Education sector stakeholders have warned that the potential cuts would have 'far-reaching, detrimental' impacts on the institution's capacity and academic offerings. The redundancies represent a significant challenge for both the university and the broader higher education sector in Northern Ireland. Cross-border education policy implications may arise if cuts affect services or partnerships with southern Irish institutions. The situation underscores ongoing financial pressures within the Irish and Northern Irish education sectors.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/15/potential-450-job-cuts-at-ulster-university-will-have-far-reaching-detrimental-impact/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social"
+        ]
+      },
+      {
+        "headline": "Irish Rail increases security measures following escalating reports of antisocial behaviour and drug use on trains",
+        "summary": "Irish Rail is stepping up security measures following growing reports of antisocial behaviour on trains, including incidents of open drug use, individuals brandishing weapons, and disruptive passenger conduct. Over 1,150 alerts were sent to antisocial behaviour text services in 2025, indicating a significant problem affecting passenger safety and train operations. Reported incidents include passengers smoking illegal substances, using knives, engaging in indecent exposure, and other criminal activity within carriages. The increased security response reflects the rail operator's commitment to improving passenger safety and creating a safer travel environment. These measures address a concerning trend that affects both commuter experience and public transport security.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/irish-rail-reports-antisocial-behaviour-smoking-crack-drinking-7013352-Apr2026/"
+          },
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/transport/2026/04/15/drug-use-racial-abuse-and-drunken-behaviour-among-complaints-reported-to-irish-rail/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "social",
+          "crime"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-16T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "P\u00e9ter Magyar's Landslide Victory Reshapes Hungarian Politics and EU Relations",
+        "summary": "P\u00e9ter Magyar's Tisza party won a landslide victory in Hungary's elections, ending Viktor Orb\u00e1n's 16-year rule and signaling a major shift in European politics. Magyar has promised to repair Hungary's strained relationship with the European Union and address long-standing concerns over judicial independence and media freedom. The European Commission welcomed the result, with Commission President Ursula von der Leyen stating \"Hungary has chosen Europe.\" This victory is expected to reset EU-Hungary relations and potentially remove a significant obstacle to unified European foreign policy on regional conflicts. Magyar is expected to take office in early May.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/15/peter-magyars-landslide-victory-in-hungary-whats-the-impact-on-brussels"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/europe-news"
+          }
+        ],
+        "tags": [
+          "elections",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Russia Launches Intensive Missile and Drone Attacks on Ukraine, Killing at Least Three",
+        "summary": "Russia conducted overnight drone and missile attacks on Ukraine, killing at least three people including a child in Kyiv, according to Ukrainian officials. The bombardment triggered air alerts across the capital and continues a pattern of near-daily attacks on Ukrainian infrastructure and civilian areas. Air strikes were reported by Kyiv Mayor Vitali Klitschko, who confirmed casualties including a 12-year-old boy and a 35-year-old woman. These attacks underscore the ongoing military conflict and tensions within Europe's eastern borders. The strikes come as diplomatic efforts continue to address the broader regional security situation.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cm29plylqnvo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260416-russia-strikes-ukraine-kyiv-drones-missiles-kill-three-child"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "Ukraine"
+        ]
+      },
+      {
+        "headline": "European Parliament Proposes 10% Increase in EU Long-Term Budget for 2028-2034",
+        "summary": "The European Parliament's Budget Committee adopted negotiating positions on the EU's long-term multiannual budget for 2028-2034, proposing a 10% increase above the European Commission's \u20ac2 trillion proposal. This proposal reflects Parliament's ambitions for increased investment in key EU priorities and programs. The budget negotiations represent a critical debate within European institutions about resource allocation and the EU's economic direction over the coming years. The proposal now moves into negotiations with EU member states and the Commission. This development signals ongoing discussions about the EU's financial commitments and spending priorities.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/15/european-parliament-proposes-10-increase-in-eu-long-term-budget"
+          }
+        ],
+        "tags": [
+          "EU",
+          "economy",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "EU Explores Dropping Unanimous Voting Requirements to Advance Foreign Policy",
+        "summary": "The European Union is reconsidering its requirement for unanimous voting on foreign policy decisions, with P\u00e9ter Magyar's electoral victory in Hungary creating political space for potential reform. Under current EU rules, any single member state can block foreign policy decisions, a power that has occasionally been used to obstruct EU action on security and international relations. The debate centers on whether unanimous voting requirements effectively hinder European security interests and unified responses to geopolitical challenges. Magyar's expected pro-EU stance stands in contrast to Orb\u00e1n's previous positions that sometimes blocked EU consensus. This governance reform could reshape how the EU coordinates responses to major international events.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/15/is-the-eu-ready-to-drop-unanimous-voting"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Brussels Unveils Age Verification System to Protect Children Online",
+        "summary": "The European Commission announced a new age verification system as part of its broader child safety initiative, stating there are \"no more excuses\" for major online platforms to avoid protecting children. The EU has been pushing tech companies to implement stronger safeguards against child exploitation and harmful content. The new age verification check provides a technical solution that platforms can deploy to ensure age-appropriate access to content and services. This initiative reflects the EU's regulatory approach to protecting vulnerable populations in the digital space. The system represents a significant step in the EU's Digital Services Act implementation and child protection efforts.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/15/brussels-says-eu-age-verification-check-ready-amid-child-safety-push"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "technology",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU Grapples with Growing Trade Deficit and Strategic Dependence on China",
+        "summary": "The European Union faces an expanding trade deficit with China, raising questions about economic dependency and strategic autonomy in manufacturing and supply chains. Despite awareness of the trade imbalance, EU member states remain divided on coordinated response strategies, with different countries prioritizing competing economic interests. The issue reflects broader European concerns about supply chain resilience, industrial policy, and the balance between economic engagement and strategic independence from China. The lack of unified EU response complicates efforts to address structural trade imbalances. This ongoing debate will shape EU trade policy and industrial competitiveness in coming years.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/15/is-the-european-union-reliant-on-trade-with-china"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Sweden's Schools Abandon Digital Learning, Return to Traditional Books and Paper",
+        "summary": "Swedish classrooms are scaling back digital learning initiatives and returning to traditional methods using books, pens, and paper in a notable reversal of educational technology trends. The shift reflects evolving perspectives on technology's role in education and growing concerns about screen time's impact on learning outcomes and student wellbeing. Educational leaders in Sweden argue that traditional materials may offer certain cognitive and developmental advantages over digital alternatives. This trend stands in contrast to the EU and international push for digital education infrastructure and skills. The Swedish approach provides a case study in re-evaluating education policy in response to evidence and student needs.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cly0vk77vdko"
+          }
+        ],
+        "tags": [
+          "governance",
+          "education",
+          "policy"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-16T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Israel and Lebanon leaders to speak amid ceasefire negotiations",
+        "summary": "For the first time in 34 years, the leaders of Israel and Lebanon are scheduled to hold direct talks on April 16 as diplomatic efforts accelerate toward a potential ceasefire agreement. The discussions represent a significant breakthrough in ongoing regional tensions, with international mediators working to ease hostilities between the two countries. These talks come amid broader efforts to de-escalate the Middle East conflict and reduce cross-border attacks. The negotiations signal hope that a structured agreement could prevent further military escalation and reduce civilian casualties in the border region. Success in these talks could set a precedent for broader regional peace initiatives.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXVmVU9ETm1kemwxNHVYUml5dHFGM3UwT09lNVVUZ2R3MmM2dlVfNC1Vc1BkZVNSR0lXaFBmRlUtRWdmWFU0RXVMZFFLS3ZibzExQWVhNmRaTldVNW5RbU1yRW9iYVRzbXRGSUhQakZkYjdzTEF3ejRPQ1RtQ1llYm11RlFVQXNXMHJRM2ZGUGw2RWc5Rl9XWXZNZGA3VXNGeTRxWlRDUU9oM2M3SXRrVUt0U2xOSlpCYkE?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "Middle East"
+        ]
+      },
+      {
+        "headline": "Pakistan mediates breakthrough in US-Iran nuclear negotiations",
+        "summary": "Pakistan has reportedly helped broker a significant breakthrough in stalled negotiations between the United States and Iran over the latter's nuclear program, according to Pakistani sources. The mediation effort represents a major diplomatic development that could help resolve one of the world's most contentious geopolitical standoffs. The advancement comes as global attention focuses on de-escalating tensions that have fueled regional instability and energy market disruptions. If sustained, this progress could lead to a comprehensive nuclear agreement and shift the dynamics of Middle Eastern politics. The involvement of a neutral third-party mediator suggests renewed commitment from both sides to find a negotiated settlement.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "nuclear",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Russian attacks on Kyiv kill three, including child, as Ukraine conflict intensifies",
+        "summary": "Russian forces launched strikes on Ukraine's capital Kyiv on April 16, killing at least three civilians including a 12-year-old child and wounding approximately ten others. The attacks targeted residential areas in the Podilskyi and Obolonskyi districts, causing widespread damage and fires that emergency services worked to contain. The incident reflects the ongoing intensity of the conflict despite diplomatic efforts to negotiate ceasefires and peace agreements. Civilian casualties continue to mount as military operations persist across Ukrainian territory. The strikes underscore the humanitarian toll of the prolonged conflict and the challenges facing ceasefire negotiations.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/16/russian-attack-on-ukraines-kyiv-kills-12-year-old-child-wounds-10?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "Ukraine"
+        ]
+      },
+      {
+        "headline": "TSMC reports 50% quarterly profit jump driven by insatiable AI chip demand",
+        "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) is set to announce a 50% surge in quarterly profits, extending its record-breaking earnings streak as global demand for artificial intelligence chips remains extraordinarily strong. The semiconductor manufacturer has become a critical bottleneck in the AI revolution, with major technology companies competing fiercely for production capacity. TSMC's outstanding performance reflects the broader technology sector's dependence on advanced chip manufacturing for AI development and deployment. The company's growth trajectory suggests sustained demand for semiconductor capacity as AI applications proliferate across industries. This economic milestone demonstrates the transformative economic impact of artificial intelligence on global technology markets.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxNZ0N3R0hEZHl4N0FVYTFCUUxxaHJibVU2T1JaYkhKRnBzalh4dUxpVW90LTRvZkhLNUdra3M5QmRFMHYyN2VTOXBEdWoxc1VWR1Jpam5PRWdCamVEQWFJOVpnV0xXQ3I2MlRmek9sZVRwQkNOb3FtNWUyNkk0WmtxZXFwOS1qNzBlT1o0MlhGN0pVZ3VqMFhPS3VsT3dGVEZVT3puLUd2S0czTktyaGFjN2ZwSjlQTmVzcHc0R09IRTllQnBwek9oSk9BQQ?oc=5"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "AI"
+        ]
+      },
+      {
+        "headline": "Pope Francis demands end to corruption during Cameroon visit",
+        "summary": "Pope Francis visited Cameroon on April 16, 20 years after a previous pastoral visit, and delivered a forceful message calling for the nation to break free from what he termed 'the chains of corruption.' His address emphasized the moral imperative for governmental and institutional accountability in the central African nation. The pontiff's visit drew enormous crowds of supporters and symbolized the Catholic Church's continued engagement with African communities. The anti-corruption message carries particular weight given widespread concerns about governance challenges across the African continent. His visit represents a significant diplomatic moment for both the Catholic Church and Cameroon, highlighting the intersection of religious authority and political morality.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVpxREJhMjYta3pMSEpnRUNYcjF5NENyTEZONV9JdS16V3EtNkpPemxvRHQ4eUNvZ1o3aVRyOVRHVmktaFYweEVzMU1LWm1QNC1SU3FqbldMQU5zOTktQ1RNNU9EVU5HVzVST1o5Nm9CVkFoeUx1VEF0Z3RPZEl0V1dkZU1DYUlYZFdQcjRFcXV4MGdINWhQeA"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/huge-crowds-greet-pope-leo-in-cameroon-20-years-after-outreach-trip?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "politics",
+          "Africa",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Pentagon accelerates weapons production capacity through private manufacturer engagement",
+        "summary": "The U.S. Department of Defense is engaging major private sector manufacturers and automakers to expand weapons production capacity in response to military readiness requirements. Pentagon officials have initiated direct talks with industrial manufacturers about scaling up military equipment production. This effort reflects strategic concerns about maintaining sufficient defense manufacturing capability to support current and potential future conflicts. The initiative signals a shift toward deeper integration between civilian industrial capacity and military production needs. Successful expansion of weapons manufacturing could reshape the U.S. defense industrial base and influence geopolitical military balances.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnpmNmdEUG8xU2plUzdXR0w1MzMwLVlOalp1SGUtTW1Fc0lGTEUyamFMaHJOdVVJV3F2OTIzdXo5NTFaNC02b0J2RVNhQ0ctS1g1YjU4cVRmNlU2U0VndVJqcEYxUUlmdkk5LWdCc3dvZjlYcGM1WUw0OGk3c1gwLWxJWm9UQXR0a2dsODlZblJnUU1OVHVyNG9ZajZKZ0o3ZjhxZ2c5U25yV2FVNldTZjhNdnlISlN4NV9Cb3N6dHVwSW55TXZBWDhralZBYlFLcXRKSUF3?oc=5"
+          }
+        ],
+        "tags": [
+          "defence",
+          "economy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "US approaches historic crude oil exporter status amid Iran conflict",
+        "summary": "The United States is moving closer to becoming a net crude oil exporter for the first time since World War II, driven by a combination of increased domestic production and geopolitical disruptions in global energy markets related to the Iran conflict. This milestone represents a fundamental shift in American energy independence and global economic positioning. The energy sector transformation has been accelerated by regional instability that has disrupted traditional supply chains and elevated global oil prices. Achievement of net exporter status would reshape U.S. foreign policy leverage and energy security strategy. The development underscores how geopolitical conflicts reshape global commodity markets and national economic trajectories.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2Y3TmgzMXRzTHpWS184RG8tcG1keWZja1NqWjdEeEVzam5uQjV3UmdYaDQzcUxPckRwQlBoN0FORXZtWTVZRkYydWxfM1htdDhuY1ExT0xUa3ZaanZGcVFZWmJkVEdLdGpvcDNRdlR0Uk1sOHRKaVc5ZlBySDYxSEZoRHNLSXd3MC1IelBPRnZ4WlUzbU5mY1haYTJkektqR2JQaGZ4THJQTXpGZFFHWUMtWWlVczFYdGlrME55RS1NZ0NE?oc=5"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Brazil's fugitive ex-spy chief released after US immigration detention",
+        "summary": "Alexandre Ramagem, a fugitive ex-spy chief from Brazil who fled after conviction for plotting a coup, was released following his detention by U.S. Immigration and Customs Enforcement (ICE) in Florida on April 14. Ramagem had sought refuge in the United States while evading Brazilian justice system proceedings related to coup conspiracy charges. His detention and release represent a complex intersection of international law, diplomatic relations, and criminal justice across borders. The incident highlights tensions between Brazil and the United States regarding extradition and the handling of high-profile fugitives. The case underscores broader challenges in international law enforcement cooperation and the complications of prosecuting political crimes across national boundaries.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "crime",
+          "international law"
+        ]
+      }
+    ]
+  }
+}

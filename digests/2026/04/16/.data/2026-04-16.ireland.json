@@ -1,0 +1,75 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-16T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Taoiseach faces internal pressure as three more Fianna Fáil TDs seek urgent government talks",
+      "summary": "Three senior Fianna Fáil TDs have requested an urgent meeting of the parliamentary party, escalating internal tensions within the government following the recent fuel protests. This follows earlier warnings from party members expressing 'real and deep concern' over the government's response to the demonstrations. The Taoiseach met with three critical TDs to address their concerns about the party's direction. These developments reflect deepening divisions within the ruling coalition as the government deals with fallout from the fuel price crisis and broader cost-of-living pressures. The accumulating dissent signals potential challenges for government stability in the coming weeks.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0416/1568476-taoiseach-meeting/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/ff-youngest-tds-unhappy-with-government-7013671-Apr2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41828201.html"}
+      ],
+      "tags": ["politics", "government"]
+    },
+    {
+      "headline": "Nonagenarian activist Lelia Doolan completes 220km protest walk against Shannon Airport military use",
+      "summary": "Film-maker and activist Lelia Doolan, aged 91, completed a 220-kilometre walk through counties Limerick, Tipperary, Laois and Kildare to reach Leinster House, protesting the US military's use of Shannon Airport. The walk represents a two-week trek highlighting concerns about Ireland's neutrality and the ongoing use of the airport for American military operations. Doolan has requested meetings with the Taoiseach and Tánaiste to discuss the issue, but has reported that requests for dialogue have gone unanswered. The demonstration underscores ongoing public concern about Ireland's relationship with US military activities on Irish soil. The event has drawn significant media attention as a symbolic gesture of civilian activism on defence and neutrality matters.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/lelia-doolan-leinster-house-shannon-airport-7013549-Apr2026/"},
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/15/woman-91-walks-220km-to-protest-us-military-use-of-shannon-airport/"}
+      ],
+      "tags": ["defence", "politics", "activism"]
+    },
+    {
+      "headline": "Fuel excise cuts come into effect across Ireland following government response to protests",
+      "summary": "The Irish government's fuel excise cuts officially took effect at midnight between April 15 and 16, providing relief following weeks of fuel price protests that created significant political pressure. Initial reports indicate fuel prices have begun to fall at many stations, with some locations seeing reductions of around 10 cents per litre. However, industry sources warn that these cuts may take several days to fully filter through to all petrol pumps across the country due to supply chain delays. The government announced the cuts in response to the fuel protests that prompted internal Fianna Fáil dissent and broader public outcry over cost-of-living pressures. The measure represents a significant policy response designed to stabilize fuel costs and ease economic pressure on motorists and transport operators.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/fuel-price-reductions-start-today-7012984-Apr2026/"},
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/15/fuel-prices-fall-in-many-places-as-excise-cuts-come-into-effect/"}
+      ],
+      "tags": ["economy", "transport"]
+    },
+    {
+      "headline": "New Irish Coast Guard aviation service to be launched at Waterford Airport",
+      "summary": "A new aviation service will be launched at Waterford Airport to provide the Irish Coast Guard with enhanced capabilities and an expanded operational fleet. The service will improve emergency response and rescue operations in the southeast region, strengthening Ireland's maritime and aviation safety infrastructure. This development represents an investment in local infrastructure and will create opportunities for enhanced emergency services in the Waterford area. The expansion of Coast Guard capabilities at regional airports reflects broader investment in national safety and emergency response systems. The service is expected to improve response times for maritime incidents and search-and-rescue operations affecting Irish coastal waters.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0416/1568482-waterford-rescue-service/"}
+      ],
+      "tags": ["transport", "defence"]
+    },
+    {
+      "headline": "Conor McGregor settles High Court case over Proper No. Twelve whiskey brand shareholding dispute",
+      "summary": "Mixed martial arts fighter Conor McGregor has settled a High Court legal action with former sparring partner Artem Lobov over shareholding rights in Proper No. Twelve whiskey following a multi-million euro sale dispute. The settlement brings to an end protracted legal proceedings surrounding the $130 million sale of the whiskey brand, which had become contested between the parties. McGregor had faced the case in the High Court over claims related to the lucrative brand sale. The resolution allows both parties to move forward and brings closure to what had been a significant business and legal dispute. The case highlighted the complex nature of shareholding arrangements in high-value business transactions within Ireland.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/conor-mcgregor-artem-lobov-settlement-7013677-Apr2026/"},
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/15/conor-mcgregor-settles-high-court-case-over-whiskey-brand/"}
+      ],
+      "tags": ["sport", "economy"]
+    },
+    {
+      "headline": "Ulster University faces potential 450 job cuts with compulsory redundancies as cost-saving measures required",
+      "summary": "Ulster University is considering substantial job reductions of approximately 450 positions as part of efforts to save nearly €29 million in costs, with potential compulsory redundancies on the table. Education sector stakeholders have warned that the potential cuts would have 'far-reaching, detrimental' impacts on the institution's capacity and academic offerings. The redundancies represent a significant challenge for both the university and the broader higher education sector in Northern Ireland. Cross-border education policy implications may arise if cuts affect services or partnerships with southern Irish institutions. The situation underscores ongoing financial pressures within the Irish and Northern Irish education sectors.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/15/potential-450-job-cuts-at-ulster-university-will-have-far-reaching-detrimental-impact/"}
+      ],
+      "tags": ["economy", "social"]
+    },
+    {
+      "headline": "Irish Rail increases security measures following escalating reports of antisocial behaviour and drug use on trains",
+      "summary": "Irish Rail is stepping up security measures following growing reports of antisocial behaviour on trains, including incidents of open drug use, individuals brandishing weapons, and disruptive passenger conduct. Over 1,150 alerts were sent to antisocial behaviour text services in 2025, indicating a significant problem affecting passenger safety and train operations. Reported incidents include passengers smoking illegal substances, using knives, engaging in indecent exposure, and other criminal activity within carriages. The increased security response reflects the rail operator's commitment to improving passenger safety and creating a safer travel environment. These measures address a concerning trend that affects both commuter experience and public transport security.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/irish-rail-reports-antisocial-behaviour-smoking-crack-drinking-7013352-Apr2026/"},
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/transport/2026/04/15/drug-use-racial-abuse-and-drunken-behaviour-among-complaints-reported-to-irish-rail/"}
+      ],
+      "tags": ["transport", "social", "crime"]
+    }
+  ]
+}

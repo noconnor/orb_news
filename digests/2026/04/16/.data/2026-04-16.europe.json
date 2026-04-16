@@ -1,0 +1,71 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-16T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Péter Magyar's Landslide Victory Reshapes Hungarian Politics and EU Relations",
+      "summary": "Péter Magyar's Tisza party won a landslide victory in Hungary's elections, ending Viktor Orbán's 16-year rule and signaling a major shift in European politics. Magyar has promised to repair Hungary's strained relationship with the European Union and address long-standing concerns over judicial independence and media freedom. The European Commission welcomed the result, with Commission President Ursula von der Leyen stating \"Hungary has chosen Europe.\" This victory is expected to reset EU-Hungary relations and potentially remove a significant obstacle to unified European foreign policy on regional conflicts. Magyar is expected to take office in early May.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/15/peter-magyars-landslide-victory-in-hungary-whats-the-impact-on-brussels"},
+        {"name": "The Guardian", "url": "https://www.theguardian.com/world/europe-news"}
+      ],
+      "tags": ["elections", "EU", "governance"]
+    },
+    {
+      "headline": "Russia Launches Intensive Missile and Drone Attacks on Ukraine, Killing at Least Three",
+      "summary": "Russia conducted overnight drone and missile attacks on Ukraine, killing at least three people including a child in Kyiv, according to Ukrainian officials. The bombardment triggered air alerts across the capital and continues a pattern of near-daily attacks on Ukrainian infrastructure and civilian areas. Air strikes were reported by Kyiv Mayor Vitali Klitschko, who confirmed casualties including a 12-year-old boy and a 35-year-old woman. These attacks underscore the ongoing military conflict and tensions within Europe's eastern borders. The strikes come as diplomatic efforts continue to address the broader regional security situation.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cm29plylqnvo"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260416-russia-strikes-ukraine-kyiv-drones-missiles-kill-three-child"}
+      ],
+      "tags": ["conflict", "defence", "Ukraine"]
+    },
+    {
+      "headline": "European Parliament Proposes 10% Increase in EU Long-Term Budget for 2028-2034",
+      "summary": "The European Parliament's Budget Committee adopted negotiating positions on the EU's long-term multiannual budget for 2028-2034, proposing a 10% increase above the European Commission's €2 trillion proposal. This proposal reflects Parliament's ambitions for increased investment in key EU priorities and programs. The budget negotiations represent a critical debate within European institutions about resource allocation and the EU's economic direction over the coming years. The proposal now moves into negotiations with EU member states and the Commission. This development signals ongoing discussions about the EU's financial commitments and spending priorities.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/15/european-parliament-proposes-10-increase-in-eu-long-term-budget"}
+      ],
+      "tags": ["EU", "economy", "regulation"]
+    },
+    {
+      "headline": "EU Explores Dropping Unanimous Voting Requirements to Advance Foreign Policy",
+      "summary": "The European Union is reconsidering its requirement for unanimous voting on foreign policy decisions, with Péter Magyar's electoral victory in Hungary creating political space for potential reform. Under current EU rules, any single member state can block foreign policy decisions, a power that has occasionally been used to obstruct EU action on security and international relations. The debate centers on whether unanimous voting requirements effectively hinder European security interests and unified responses to geopolitical challenges. Magyar's expected pro-EU stance stands in contrast to Orbán's previous positions that sometimes blocked EU consensus. This governance reform could reshape how the EU coordinates responses to major international events.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/15/is-the-eu-ready-to-drop-unanimous-voting"}
+      ],
+      "tags": ["EU", "governance", "defence"]
+    },
+    {
+      "headline": "Brussels Unveils Age Verification System to Protect Children Online",
+      "summary": "The European Commission announced a new age verification system as part of its broader child safety initiative, stating there are \"no more excuses\" for major online platforms to avoid protecting children. The EU has been pushing tech companies to implement stronger safeguards against child exploitation and harmful content. The new age verification check provides a technical solution that platforms can deploy to ensure age-appropriate access to content and services. This initiative reflects the EU's regulatory approach to protecting vulnerable populations in the digital space. The system represents a significant step in the EU's Digital Services Act implementation and child protection efforts.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/15/brussels-says-eu-age-verification-check-ready-amid-child-safety-push"}
+      ],
+      "tags": ["regulation", "technology", "governance"]
+    },
+    {
+      "headline": "EU Grapples with Growing Trade Deficit and Strategic Dependence on China",
+      "summary": "The European Union faces an expanding trade deficit with China, raising questions about economic dependency and strategic autonomy in manufacturing and supply chains. Despite awareness of the trade imbalance, EU member states remain divided on coordinated response strategies, with different countries prioritizing competing economic interests. The issue reflects broader European concerns about supply chain resilience, industrial policy, and the balance between economic engagement and strategic independence from China. The lack of unified EU response complicates efforts to address structural trade imbalances. This ongoing debate will shape EU trade policy and industrial competitiveness in coming years.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/15/is-the-european-union-reliant-on-trade-with-china"}
+      ],
+      "tags": ["trade", "economy", "EU"]
+    },
+    {
+      "headline": "Sweden's Schools Abandon Digital Learning, Return to Traditional Books and Paper",
+      "summary": "Swedish classrooms are scaling back digital learning initiatives and returning to traditional methods using books, pens, and paper in a notable reversal of educational technology trends. The shift reflects evolving perspectives on technology's role in education and growing concerns about screen time's impact on learning outcomes and student wellbeing. Educational leaders in Sweden argue that traditional materials may offer certain cognitive and developmental advantages over digital alternatives. This trend stands in contrast to the EU and international push for digital education infrastructure and skills. The Swedish approach provides a case study in re-evaluating education policy in response to evidence and student needs.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cly0vk77vdko"}
+      ],
+      "tags": ["governance", "education", "policy"]
+    }
+  ]
+}

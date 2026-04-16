@@ -1,0 +1,50 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Péter Magyar's Landslide Victory Reshapes Hungarian Politics and EU Relations",
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Overthrow of Authoritarian Rule in Eastern Europe (1989–2000 synthesis)",
+      "date_range": "1956–2000",
+      "summary": "Hungary's 2026 election echoes a sequence of democratic breakthroughs across Central and Eastern Europe. The Romanian Revolution of 1989 overthrew Ceaușescu after decades of one-man rule, while Poland's 1989 parliamentary election transferred power to Solidarity and shattered communist permanence. The Hungarian Revolution of 1956 showed an earlier, suppressed moment when Hungarians reached for sovereignty before Soviet intervention. Serbia's October 5th Revolution in 2000 ended Milošević's authoritarian rule through the ballot box — fuelled, like Magyar's campaign, by institutional grievances, international isolation, and voters mobilised by the belief that the system could be beaten.",
+      "parallel_analysis": "In each of these historical cases, the electoral or revolutionary transition was followed by a complex process of rebuilding institutions captured by the outgoing regime — a challenge Magyar now inherits directly. The Serbia parallel is particularly instructive: a broad opposition coalition defeated an entrenched strongman who had manipulated courts, media, and electoral rules, only for the post-victory period to reveal how deeply the old structures had embedded themselves. Magyar faces an analogous task in unwinding a decade and a half of institutional reengineering by Orbán.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+        "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+        "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Romanian_revolution"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Russian attacks on Kyiv kill three, including child, as Ukraine conflict intensifies",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Strategic Bombardment of Civilian Areas — 20th-Century Warfare (synthesis)",
+      "date_range": "1940–1991",
+      "summary": "The targeting of Kyiv's residential districts sits within a long lineage of deliberate aerial bombardment. The Allied Oil Campaign of World War II (1944–1945) demonstrated the dual logic of strategic air power — crippling infrastructure while demoralising populations. The Iran-Iraq War's War of the Cities (1980–1988) involved prolonged ballistic missile strikes on urban centres intended to terrorise as much as achieve military objectives. The Tanker War showed how an attritional strike campaign can be sustained for years without a decisive outcome while humanitarian costs accumulate. Korea's stalemate illustrated that military operations continue at high intensity even when both sides know a negotiated settlement is the only endgame.",
+      "parallel_analysis": "What links these precedents to the April 16 strikes is the structural pattern: civilian casualties mount, international condemnation continues, and yet the attacks do not stop — because the strategic logic of coercion through civilian suffering has historically proven resistant to diplomatic pressure alone. The Kyiv bombardment underscores that the path from ceasefire talks to operational pause requires more than diplomatic momentum; it requires either military deterrence or a fundamental shift in the attacker's strategic calculus.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Korean_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Pakistan mediates breakthrough in US-Iran nuclear negotiations",
+      "story_topic": "Iran-US conflict energy market shock",
+      "historical_event": "Mediated Nuclear Diplomacy — Iran and the US (synthesis)",
+      "date_range": "1973–1988",
+      "summary": "Operation Eagle Claw (1980) illustrated how a single failed military operation can poison US-Iran bilateral relations for decades and make subsequent diplomacy immeasurably harder. The Iran-Iraq War (1980–1988) further entrenched the patterns of regional enmity that continue to shape every party's strategic calculus in the current negotiations. The 1973 Oil Crisis demonstrated how Middle Eastern geopolitical confrontation produces global energy shocks — a dynamic that remains fully operative today as Iranian-linked disruptions ripple through commodity markets. The 1990 Oil Price Shock reinforced how quickly supply disruptions originating in the Gulf can cascade into broader economic turbulence.",
+      "parallel_analysis": "Pakistan's role as intermediary echoes a long tradition of neutral-state mediation — Algeria's brokerage of the 1981 Algiers Accords that ended the hostage crisis being the most direct precedent. The history of US-Iran diplomacy, however, shows a persistent gap between breakthrough moments and durable signed agreements: the JCPOA cycle of negotiation, implementation, withdrawal, and collapse is itself a cautionary case. Converting today's reported progress into a lasting arrangement will require both sides to overcome domestic political pressures that have historically proved more durable than diplomatic goodwill.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war"
+      ]
+    }
+  ]
+}

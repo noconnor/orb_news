@@ -1,0 +1,79 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-16T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Israel and Lebanon leaders to speak amid ceasefire negotiations",
+      "summary": "For the first time in 34 years, the leaders of Israel and Lebanon are scheduled to hold direct talks on April 16 as diplomatic efforts accelerate toward a potential ceasefire agreement. The discussions represent a significant breakthrough in ongoing regional tensions, with international mediators working to ease hostilities between the two countries. These talks come amid broader efforts to de-escalate the Middle East conflict and reduce cross-border attacks. The negotiations signal hope that a structured agreement could prevent further military escalation and reduce civilian casualties in the border region. Success in these talks could set a precedent for broader regional peace initiatives.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXVmVU9ETm1kemwxNHVYUml5dHFGM3UwT09lNVVUZ2R3MmM2dlVfNC1Vc1BkZVNSR0lXaFBmRlUtRWdmWFU0RXVMZFFLS3ZibzExQWVhNmRaTldVNW5RbU1yRW9iYVRzbXRGSUhQakZkYjdzTEF3ejRPQ1RtQ1llYm11RlFVQXNXMHJRM2ZGUGw2RWc5Rl9XWXZNZGA3VXNGeTRxWlRDUU9oM2M3SXRrVUt0U2xOSlpCYkE?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "Middle East"]
+    },
+    {
+      "headline": "Pakistan mediates breakthrough in US-Iran nuclear negotiations",
+      "summary": "Pakistan has reportedly helped broker a significant breakthrough in stalled negotiations between the United States and Iran over the latter's nuclear program, according to Pakistani sources. The mediation effort represents a major diplomatic development that could help resolve one of the world's most contentious geopolitical standoffs. The advancement comes as global attention focuses on de-escalating tensions that have fueled regional instability and energy market disruptions. If sustained, this progress could lead to a comprehensive nuclear agreement and shift the dynamics of Middle Eastern politics. The involvement of a neutral third-party mediator suggests renewed commitment from both sides to find a negotiated settlement.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss"}
+      ],
+      "tags": ["diplomacy", "nuclear", "geopolitics"]
+    },
+    {
+      "headline": "Russian attacks on Kyiv kill three, including child, as Ukraine conflict intensifies",
+      "summary": "Russian forces launched strikes on Ukraine's capital Kyiv on April 16, killing at least three civilians including a 12-year-old child and wounding approximately ten others. The attacks targeted residential areas in the Podilskyi and Obolonskyi districts, causing widespread damage and fires that emergency services worked to contain. The incident reflects the ongoing intensity of the conflict despite diplomatic efforts to negotiate ceasefires and peace agreements. Civilian casualties continue to mount as military operations persist across Ukrainian territory. The strikes underscore the humanitarian toll of the prolonged conflict and the challenges facing ceasefire negotiations.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/16/russian-attack-on-ukraines-kyiv-kills-12-year-old-child-wounds-10?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "humanitarian", "Ukraine"]
+    },
+    {
+      "headline": "TSMC reports 50% quarterly profit jump driven by insatiable AI chip demand",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) is set to announce a 50% surge in quarterly profits, extending its record-breaking earnings streak as global demand for artificial intelligence chips remains extraordinarily strong. The semiconductor manufacturer has become a critical bottleneck in the AI revolution, with major technology companies competing fiercely for production capacity. TSMC's outstanding performance reflects the broader technology sector's dependence on advanced chip manufacturing for AI development and deployment. The company's growth trajectory suggests sustained demand for semiconductor capacity as AI applications proliferate across industries. This economic milestone demonstrates the transformative economic impact of artificial intelligence on global technology markets.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxNZ0N3R0hEZHl4N0FVYTFCUUxxaHJibVU2T1JaYkhKRnBzalh4dUxpVW90LTRvZkhLNUdra3M5QmRFMHYyN2VTOXBEdWoxc1VWR1Jpam5PRWdCamVEQWFJOVpnV0xXQ3I2MlRmek9sZVRwQkNOb3FtNWUyNkk0WmtxZXFwOS1qNzBlT1o0MlhGN0pVZ3VqMFhPS3VsT3dGVEZVT3puLUd2S0czTktyaGFjN2ZwSjlQTmVzcHc0R09IRTllQnBwek9oSk9BQQ?oc=5"}
+      ],
+      "tags": ["technology", "economy", "AI"]
+    },
+    {
+      "headline": "Pope Francis demands end to corruption during Cameroon visit",
+      "summary": "Pope Francis visited Cameroon on April 16, 20 years after a previous pastoral visit, and delivered a forceful message calling for the nation to break free from what he termed 'the chains of corruption.' His address emphasized the moral imperative for governmental and institutional accountability in the central African nation. The pontiff's visit drew enormous crowds of supporters and symbolized the Catholic Church's continued engagement with African communities. The anti-corruption message carries particular weight given widespread concerns about governance challenges across the African continent. His visit represents a significant diplomatic moment for both the Catholic Church and Cameroon, highlighting the intersection of religious authority and political morality.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVpxREJhMjYta3pMSEpnRUNYcjF5NENyTEZONV9JdS16V3EtNkpPemxvRHQ4eUNvZ1o3aVRyOVRHVmktaFYweEVzMU1LWm1QNC1SU3FqbldMQU5zOTktQ1RNNU9EVU5HVzVST1o5Nm9CVkFoeUx1VEF0Z3RPZEl0V1dkZU1DYUlYZFdQcjRFcXV4MGdINWhQeA"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/huge-crowds-greet-pope-leo-in-cameroon-20-years-after-outreach-trip?traffic_source=rss"}
+      ],
+      "tags": ["politics", "Africa", "diplomacy"]
+    },
+    {
+      "headline": "Pentagon accelerates weapons production capacity through private manufacturer engagement",
+      "summary": "The U.S. Department of Defense is engaging major private sector manufacturers and automakers to expand weapons production capacity in response to military readiness requirements. Pentagon officials have initiated direct talks with industrial manufacturers about scaling up military equipment production. This effort reflects strategic concerns about maintaining sufficient defense manufacturing capability to support current and potential future conflicts. The initiative signals a shift toward deeper integration between civilian industrial capacity and military production needs. Successful expansion of weapons manufacturing could reshape the U.S. defense industrial base and influence geopolitical military balances.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnpmNmdEUG8xU2plUzdXR0w1MzMwLVlOalp1SGUtTW1Fc0lGTEUyamFMaHJOdVVJV3F2OTIzdXo5NTFaNC02b0J2RVNhQ0ctS1g1YjU4cVRmNlU2U0VndVJqcEYxUUlmdkk5LWdCc3dvZjlYcGM1WUw0OGk3c1gwLWxJWm9UQXR0a2dsODlZblJnUU1OVHVyNG9ZajZKZ0o3ZjhxZ2c5U25yV2FVNldTZjhNdnlISlN4NV9Cb3N6dHVwSW55TXZBWDhralZBYlFLcXRKSUF3?oc=5"}
+      ],
+      "tags": ["defence", "economy", "geopolitics"]
+    },
+    {
+      "headline": "US approaches historic crude oil exporter status amid Iran conflict",
+      "summary": "The United States is moving closer to becoming a net crude oil exporter for the first time since World War II, driven by a combination of increased domestic production and geopolitical disruptions in global energy markets related to the Iran conflict. This milestone represents a fundamental shift in American energy independence and global economic positioning. The energy sector transformation has been accelerated by regional instability that has disrupted traditional supply chains and elevated global oil prices. Achievement of net exporter status would reshape U.S. foreign policy leverage and energy security strategy. The development underscores how geopolitical conflicts reshape global commodity markets and national economic trajectories.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2Y3TmgzMXRzTHpWS184RG8tcG1keWZja1NqWjdEeEVzam5uQjV3UmdYaDQzcUxPckRwQlBoN0FORXZtWTVZRkYydWxfM1htdDhuY1ExT0xUa3ZaanZGcVFZWmJkVEdLdGpvcDNRdlR0Uk1sOHRKaVc5ZlBySDYxSEZoRHNLSXd3MC1IelBPRnZ4WlUzbU5mY1haYTJkektqR2JQaGZ4THJQTXpGZFFHWUMtWWlVczFYdGlrME55RS1NZ0NE?oc=5"}
+      ],
+      "tags": ["economy", "energy", "geopolitics"]
+    },
+    {
+      "headline": "Brazil's fugitive ex-spy chief released after US immigration detention",
+      "summary": "Alexandre Ramagem, a fugitive ex-spy chief from Brazil who fled after conviction for plotting a coup, was released following his detention by U.S. Immigration and Customs Enforcement (ICE) in Florida on April 14. Ramagem had sought refuge in the United States while evading Brazilian justice system proceedings related to coup conspiracy charges. His detention and release represent a complex intersection of international law, diplomatic relations, and criminal justice across borders. The incident highlights tensions between Brazil and the United States regarding extradition and the handling of high-profile fugitives. The case underscores broader challenges in international law enforcement cooperation and the complications of prosecuting political crimes across national boundaries.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss"}
+      ],
+      "tags": ["diplomacy", "crime", "international law"]
+    }
+  ]
+}
