@@ -1,0 +1,82 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-17T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "President convenes Council of State to discuss International Protection Bill constitutionality",
+      "summary": "President Catherine Connolly has convened a Council of State meeting under Article 26 to examine the International Protection Bill 2026, which passed through the Houses of the Oireachtas. The Irish Human Rights and Equality Commission raised concerns that the bill contains 'significant human rights concerns' that warrant constitutional review. This procedure allows the President to refer the legislation for examination before it receives presidential assent. The decision reflects ongoing debate about balancing immigration policy with human rights protections. The outcome of the Council of State's deliberations will determine whether the bill can proceed to presidential signature.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0416/1568609-president-international-protection/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/president-connolly-convenes-council-of-state-meeting-on-international-protection-bill-2026-7014909-Apr2026/"}
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Unions to meet Government leaders over rising cost of living impact",
+      "summary": "Union representatives are scheduled to meet with Government leaders to discuss the rising cost of living and its effects on workers across Ireland. The meeting reflects growing concern about wage stagnation and inflation pressures affecting households. This engagement comes amid broader economic challenges facing Irish families, particularly around housing, energy, and food costs. The unions will seek commitments on wage protections and cost-of-living support measures from the administration. The discussion underscores tensions between government economic policy and labor concerns about workers' purchasing power.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0417/1568639-unions-cost-of-living/"}
+      ],
+      "tags": ["economy", "social"]
+    },
+    {
+      "headline": "Trainee gardaí challenge dismissals from handcuffing incident at Garda college",
+      "summary": "Four trainee gardaí have been given permission to challenge their terminations following a handcuffing incident at Templemore College. The trainees claim interviewing inspectors had 'instantly decided' they were guilty of misconduct before conducting a fair investigation. The High Court has granted them permission to pursue a case against the Garda Commissioner. This development highlights concerns about disciplinary procedures within An Garda Síochána and the treatment of trainee officers. The outcome could have implications for how the police force handles internal misconduct investigations.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/trainee-gardai-handcuffed-student-7015386-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/16/trainee-gardai-challenge-their-dismissals-for-handcuffing-incident-at-templemore-college/"}
+      ],
+      "tags": ["crime", "defence"]
+    },
+    {
+      "headline": "Garda patrol car rammed in Co Monaghan; search stood down",
+      "summary": "A search has been stood down following an incident in which a patrol car was rammed in Co Monaghan, leaving two gardaí hospitalised. A passenger in the vehicle was arrested following the ramming and an earlier assault. Despite standing down the active manhunt, gardaí indicated they are 'following a definite line of enquiry' regarding the incident. The officers sustained injuries from the collision and assault. The incident underscores ongoing safety concerns for frontline Garda personnel responding to incidents across the country.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0416/1568603-garda-ramming/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/major-garda-search-underway-for-man-20s-who-allegedly-rammed-garda-car-in-monaghan-7014851-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/16/gardai-search-for-man-20s-following-ramming-incident-in-co-monaghan/"}
+      ],
+      "tags": ["crime", "transport"]
+    },
+    {
+      "headline": "Over 1,000 excess deaths recorded in Northern Ireland emergency departments in 2025",
+      "summary": "The Stormont executive has been urged to address a 'catastrophe' in Northern Ireland's hospital emergency departments, with over 1,000 excess deaths recorded in 2025. The figure reflects severe pressures on the NHS in the north, with hospital systems struggling to cope with patient demand and resource constraints. Doctors and health advocates are calling for urgent action to address staffing shortages, bed capacity, and funding issues affecting emergency care. The death toll has sparked renewed debate about healthcare provision on the island. The situation highlights cross-border health disparities and raises questions about emergency services preparedness.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0417/1568692-northern-nhs/"}
+      ],
+      "tags": ["health", "defence"]
+    },
+    {
+      "headline": "Cork Luas extension preferred route revealed; schools and sports clubs face compulsory purchase orders",
+      "summary": "Cork's Luas extension project has announced its preferred route, which will create a new public transport connection from Ballincollig to Mahon. However, the decision means schools and sports clubs in the affected areas face potential compulsory purchase orders to facilitate the project. The Luas expansion aims to improve public transportation access across Cork and reduce car dependency in the region. Community facilities and local organizations are concerned about the impact on their operations and the loss of established premises. The project represents a significant investment in Cork's public transport infrastructure but raises questions about community impact mitigation.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41828891.html"}
+      ],
+      "tags": ["transport", "housing"]
+    },
+    {
+      "headline": "Taoiseach Micheál Martin says his position is not under threat 'in any shape or form'",
+      "summary": "Taoiseach Micheál Martin has responded to internal party pressure by stating his leadership position is secure. The comments follow a tumultuous week for the government, which survived a confidence vote on Tuesday. Several Fianna Fáil TDs have sent letters seeking meetings with the Taoiseach, reflecting discontent within the party over his handling of recent fuel protests. Martin held discussions with three TDs to address their concerns. The internal dissent highlights tensions between the government and its own backbenchers over policy decisions and political management. The outcome of these mediation efforts will be crucial to Coalition stability.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0416/1568476-taoiseach-meeting/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/taoiseach-fianna-fail-disquiet-7014689-Apr2026/"}
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "1926 Census records to be released online, marking landmark archival initiative",
+      "summary": "The digitization of the 1926 Census records marks a historic milestone in Irish archival preservation and public access. Tomorrow sees the online release of the 1926 census forms, making these genealogical and historical records available to the public via digital platforms. The initiative allows researchers, genealogists, and historians to access detailed population data from a century ago. The project reflects broader efforts to digitize Irish historical records and make them more accessible. This release is significant for family historians and those researching Irish history during the early independent state period.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0417/1568557-census-1926-archives/"}
+      ],
+      "tags": ["social", "politics"]
+    }
+  ]
+}

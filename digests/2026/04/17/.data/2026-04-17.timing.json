@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-17",
+  "update_type": "morning",
+  "steps": {
+    "setup": {
+      "start": 1776402010,
+      "end": 1776402028,
+      "duration_s": 18
+    },
+    "gather": {
+      "start": 1776402028,
+      "end": 1776402168,
+      "duration_s": 140
+    },
+    "write": {
+      "start": 1776402177,
+      "end": 1776402478,
+      "duration_s": 301
+    },
+    "audio": {
+      "start": 1776402478,
+      "end": 1776402585,
+      "duration_s": 107
+    },
+    "commit": {
+      "start": 1776402585,
+      "end": 1776402608,
+      "duration_s": 23
+    }
+  },
+  "total_duration_s": 598,
+  "token_estimate": {
+    "text_file_bytes": 114549,
+    "baseline_tokens": 28637,
+    "estimated_input_tokens": 85911,
+    "haiku_input": 38659,
+    "haiku_output": 7731,
+    "sonnet_input": 30068,
+    "sonnet_output": 7517,
+    "opus_input": 30000,
+    "opus_output": 8000,
+    "estimated_cost_usd": 1.31
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-17T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Hungary's Viktor Orbán defeated as Peter Magyar's Tisza party wins historic election",
+      "summary": "Peter Magyar's Tisza party has decisively defeated Viktor Orbán's 16-year grip on power in Hungary, with the highest voter turnout since communism's fall. Magyar pledged to 'dismantle Orbán system brick by brick,' focusing on restoring constitutional governance and rebuilding ties with the EU and NATO. The election result marks a significant shift in Central European politics and removes a key obstacle to EU unity on defense and governance issues. EU Commission officials rushed to Budapest for talks to unlock €17 billion in frozen EU funds that were withheld under Orbán's rule. The change of government is expected to strengthen EU cohesion on Ukraine support and broader strategic alignment.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/rss"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/16/eu-rushes-to-budapest-talks"}
+      ],
+      "tags": ["EU", "elections", "governance"]
+    },
+    {
+      "headline": "Russia launches one of deadliest attacks on Ukraine as drone and missile barrage kills 16",
+      "summary": "Russian forces conducted a major drone and missile strike across Ukrainian cities including Kyiv, Odesa, and Dnipro on April 16, killing at least 16 people and marking one of the deadliest recent attacks. Emergency services reported urgent need for armored vehicles as Russia continues targeting rescue workers and civilian infrastructure. The Easter truce that had briefly paused hostilities expired on Monday, with both sides accusing each other of violations. The attacks underscore the ongoing humanitarian crisis and the critical importance of sustained Western military aid to Ukraine. This escalation demonstrates the high stakes involved in European security and NATO's eastern flank.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/rss"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/16/russia-hits-kyiv-odesa-and-dnipro"}
+      ],
+      "tags": ["conflict", "defence", "humanitarian"]
+    },
+    {
+      "headline": "New EU biometric border system causes chaos at European airports with 3-4 hour queues",
+      "summary": "The new EU Entry/Exit System (EES) biometric control system went into effect on April 10 across Schengen countries, requiring non-EU travelers to register biometric data at borders. However, the rollout has caused severe disruptions at major airports in France, Germany, Belgium, Italy, Spain, and Greece, with passengers experiencing queues lasting 3-4 hours during peak periods. The European Airport Council reports significantly increased passport control times, though the European Commission claims the process takes approximately 70 seconds per person. The system failures risk disrupting Europe's tourism season and economic activity across border zones. Officials are working to resolve technical glitches before the summer travel surge.",
+      "sources": [
+        {"name": "The Guardian", "url": "https://eu.news-pravda.com/world/2026/04/16/187042.html"}
+      ],
+      "tags": ["regulation", "governance", "trade"]
+    },
+    {
+      "headline": "Europe's defence systems face vulnerability through dependence on US cloud services",
+      "summary": "A European think tank has warned that many EU countries depend critically on American cloud services for defense operations, creating a strategic vulnerability to potential US service disruptions or 'kill switch' actions. The reliance on US-controlled infrastructure for sensitive military and defense data raises concerns about European strategic autonomy and cybersecurity during periods of geopolitical tension. The warning comes amid broader EU discussions about reducing technological dependence on the United States and building sovereign digital capabilities. This issue highlights the need for European investment in independent cloud infrastructure and data security. The concern reflects broader anxieties about Europe's technological dependence and the need for a more autonomous European defense posture.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/next/2026/04/17/europes-defence-cloud-reliance-risks-us-kill-switch-think-tank-warns"}
+      ],
+      "tags": ["defence", "EU", "governance"]
+    },
+    {
+      "headline": "Spain grants amnesty to 500,000 undocumented migrants as immigration officers end strike",
+      "summary": "Spain has launched a comprehensive amnesty program offering legal status to approximately 500,000 undocumented migrants currently in the country. The amnesty initiative follows Spain's pattern of periodic regularization programs, having conducted similar exercises six times between 1986 and 2005. Immigration officers had initially planned to strike over workload concerns related to processing the amnesty applications but reached a deal to ease their burden. The program addresses labor shortages in key sectors of the Spanish economy while regularizing workers in informal employment. This EU-member initiative reflects broader European debates about migration management and labor force needs in an aging continent.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/rss"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/16/spain-immigration-officers-cancel-strike"}
+      ],
+      "tags": ["migration", "economy", "governance"]
+    },
+    {
+      "headline": "EU Commission proposes power bill cuts through taxation and grid cost reforms",
+      "summary": "The European Commission has announced a proposal to reduce electricity bills for European households by cutting energy taxes and reforming grid costs. The initiative aims to ease the fiscal burden on consumers and support economic activity across member states facing energy affordability challenges. The proposal addresses concerns about energy costs' impact on household budgets and industrial competitiveness as Europe transitions its energy systems. The reform focuses on taxation structures and grid infrastructure charges that have contributed to elevated energy prices in recent years. This policy move reflects EU commitment to supporting citizen welfare amid ongoing economic pressures.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/16/eu-to-slash-power-bills"}
+      ],
+      "tags": ["economy", "regulation", "climate"]
+    },
+    {
+      "headline": "EU doubles steel tariffs to 50% in response to cheap Chinese imports",
+      "summary": "The European Union has doubled steel tariffs to 50% as part of efforts to combat flooding of European markets by cheap Chinese imports. The tariff increase aims to protect EU steel producers from unfair competition and maintain the viability of Europe's domestic steel industry. The move reflects broader EU trade protectionism concerns and tensions with China over industrial subsidies and market access. This action is part of Europe's growing emphasis on strategic autonomy in critical industries and protection of domestic manufacturing capacity. The tariff decision signals EU willingness to use trade tools to defend its industrial base amid geopolitical shifts.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/rss"}
+      ],
+      "tags": ["trade", "economy", "regulation"]
+    },
+    {
+      "headline": "Peter Mandelson vetting failure triggers UK political crisis over US ambassador appointment",
+      "summary": "Peter Mandelson failed security vetting for the position of US ambassador but the Foreign Office overturned the decision, allowing him to take up the role. The disclosure has sparked calls for a public inquiry and opposition demands that Prime Minister Starmer resign if he misled parliament over the appointment. The vetting failure and its overturning raises questions about proper security procedures and political influence in senior diplomatic appointments. The incident reflects tensions between UK security agencies and political leadership regarding appointment processes. The controversy could impact UK-US relations at a sensitive time and raises concerns about the integrity of the vetting process for sensitive positions.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c747r3v90k3o"},
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c8dl8l5l008o"}
+      ],
+      "tags": ["politics", "governance", "defence"]
+    }
+  ]
+}

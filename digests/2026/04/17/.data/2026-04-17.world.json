@@ -1,0 +1,84 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-17T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Israel-Lebanon ceasefire takes effect after Trump brokered deal",
+      "summary": "A 10-day ceasefire between Israel and Lebanon took effect on April 16-17, 2026, marking a significant de-escalation in the conflict between Israel and Hezbollah. The agreement was facilitated by the Trump administration as part of broader Middle East negotiations. Lebanese civilians celebrated on roads in southern regions, though some remained wary of Israel's commitment to the terms. The Israeli military reported violations of the ceasefire shortly after it began, creating tensions despite initial relief across Lebanon. The ceasefire is part of a broader complex web of negotiations involving Gaza, Iran, and other regional actors.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ1l5MUlwWXB0VjNPMDJGSmFMc2hPY1pzUm1nNl9wc1BpT1lyRURaeTVTdDU0TUVMOEhDQzJucVlVQjJPMEZXZHlnVUplYXhMczdIQTd0TmJmYmZXR0xON2RTRUA0T3AxNW1rWXJiQTVzU1Q4RVB3SUpZVUQ1ak9PbGJsRHdBUkwzUDBGTTM3a2Z5T0FVVlhMVlVqSm1LOGVCMUU"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/17/celebrations-in-lebanon-as-10-day-ceasefire-with-israel-begins?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "middle-east"]
+    },
+    {
+      "headline": "China intensifies Iran diplomacy amid prospects for ceasefire and economic talks",
+      "summary": "China has stepped up diplomatic efforts with Iran while simultaneously pursuing smooth relations with the Trump administration, seeking to stabilize the region as economic prospects improve. Talks are underway to end the Iran war and revive oil supplies, with energy markets responding positively to ceasefire prospects. International negotiators, including Pakistan's PM in Qatar, are engaged in regional talks to restore diplomatic momentum. Trump administration officials have indicated a deal with Tehran is close as part of their broader Middle East strategy. The diplomatic push reflects broader global interest in stabilizing energy markets and reducing geopolitical tensions.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHN3YzVBU0dxckpPVDdCN0xRYTZGX243VUI2UDBKZ2tTLVpOYzd5MzBuWTlJMXZEcU14ZnExQ0hzRzlfRm9LajRpTjczYi12clFMZ3FzcHVLUHYzcEJ4NHZzb2o2MnU2QVAyU3ZMOG5Da2wwRkxKUG43SHlNV3JLdXkwSWRiYzg4dC1ISDZ1Rm4xMDRFYXVhNXB0V01idW5rNElicEgwMzdmMXUzTmtsRDVnemkzSmc"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["diplomacy", "conflict", "economy"]
+    },
+    {
+      "headline": "Multiple school shootings kill dozens in Turkey within 48 hours",
+      "summary": "Turkey has been gripped by tragedy following multiple school shootings that claimed at least 24 lives within two days in mid-April. The first shooting occurred on Tuesday with at least 16 people injured, followed by a separate incident on Wednesday that killed nine students in Kahramanmaras. Turkish authorities have detained over 160 people in connection with online posts about the incidents. Hundreds attended funerals for the victims as the nation mourned. The shootings have sparked national grief and raised questions about youth violence and school security in the country.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFB1el8wMjRqTmhWVlhWUlBQV1NPQkhkR1EtbnlnNnR2TkkxX0NaaVFmWjFJRnQwbVRBRFB0M2ZuOHFQWTBubklPUW1sdlNuQUNMVUt6S3l3c29YQ0dwdTdHeWQwc0NYS29VNUJVdVRGY01nZ2xGeVk2QkJmMzVkTUx4cWx1aGhLc0o3VFhIN0tlaDUyVFNlcGZDUXYzTXpfRWNfVVNR"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/turkiye-grieves-students-killed-in-school-shooting?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["humanitarian", "tragedy", "violence"]
+    },
+    {
+      "headline": "Pope criticizes corruption and foreign exploitation during Cameroon visit",
+      "summary": "Pope Leo XIV has made an unusually forthright visit to conflict-hit Cameroon, directly criticizing corruption and foreign powers that exploit Africa for economic gain. The pontiff demanded that 'chains of corruption' be broken and lashed out at foreigners who extract resources from African nations. He visited Bamenda in the conflict-affected northwest region, urging peace amid deadly fighting and humanitarian crises. The Pope's strong rhetoric represents a departure from typical diplomatic restraint and reflects growing concerns about governance and external influence in Africa. The visit comes amid broader geopolitical tensions and the Pope's ongoing public disputes with the Trump administration.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVpxREJhMjYta3pMSEpnRUNYcjF5NENyTEZONV9JdS16V3EtNkpPemxvRHQ4eUNvZ1o3aVRyOVRHVmktaFYweEVzMU1LWm1QNC1SU3FqbldMQU5zOTktQ1RNNU9EVU5HVzVST1o5Nm9CVkFoeUx1VEF0Z3RPZEl0V1dkZU1DYUlYZFdQcjRFcXV4MGdINWhQeA"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["diplomacy", "governance", "humanitarian"]
+    },
+    {
+      "headline": "Over 250 Rohingya and Bangladeshi migrants missing after boat disaster in Andaman Sea",
+      "summary": "At least 250 people, primarily Rohingya refugees and Bangladeshi migrants, are missing and feared dead after a boat sank in the Andaman Sea between Thailand and Myanmar. The tragedy represents one of the deadliest maritime incidents involving migrant communities in recent years. Rescue operations are ongoing as authorities search for survivors in the waters. The disaster underscores the desperate conditions facing stateless Rohingya populations and economic migrants seeking to reach safer nations in Southeast Asia. The incident reflects broader humanitarian challenges in the region and the dangers faced by vulnerable populations fleeing conflict and poverty.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXo5bDA3TGhVTjN4cGNzWXRBekhOVThqX2tWN0FFeTAxRmVoZHItRU1XcEVFM3Z4enVDU01BQW55V3lzZTZQdUc3VGNYaGhWclZ3YTF0ejlzLTNnY1pCSHlQc3VBYVNjWl9fcl9wZFdsTnB0OGpEOUlnb2ZEMXdua2p6UVhDY1ZkZlh0YUQ5VVg4a2hQ"}
+      ],
+      "tags": ["humanitarian", "migration", "tragedy"]
+    },
+    {
+      "headline": "OpenAI invests over $20 billion in Cerebras chip manufacturing partnership",
+      "summary": "OpenAI has announced plans to spend more than $20 billion acquiring Cerebras chips and receiving an equity stake in the semiconductor company as part of a major infrastructure investment. The deal reflects growing demand for advanced computing chips to power artificial intelligence models and training systems. Cerebras specializes in wafer-scale processors designed for AI workloads, positioning it as a key supplier in the competitive AI hardware market. OpenAI's significant capital commitment signals the company's confidence in scaling AI capabilities and securing long-term supply chains for specialized processors. The investment highlights the trillion-dollar infrastructure demands of the AI industry and competition among major tech companies for computing capacity.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObi1YYzV0bzRTTmxRbVp6X0pvMS12c0VLZ0ZUNVUtblA2WE52ZDByNDJlOEc2QmtxMUZpMlc0MlJUNGJjRDRZc1NQTnloSmxQbERCVTlucHFXcHlycUJLZm05ME81amZKcmdBTnl3ZGpfTF96NVN2OUVFU3BhWmt3ZkpkNWdqYVpXbjcwdkJnYmpEZWh6NW9JUURIRjdVQXZTNFc4TS1wM2NRUzdMYTc1T2JGNDA1TlE"}
+      ],
+      "tags": ["technology", "economy", "infrastructure"]
+    },
+    {
+      "headline": "Tesla seeks experienced Taiwan chip engineers for advanced Terafab semiconductor project",
+      "summary": "Tesla is actively recruiting Taiwan's chip engineers for its Terafab project, signaling a major push into semiconductor manufacturing. The move reflects Tesla's strategy to reduce dependence on external chip suppliers and develop proprietary semiconductor technology for its vehicles and energy systems. Taiwan's advanced semiconductor expertise makes it a prime target for talent acquisition in the highly competitive chip design and manufacturing sector. The recruitment effort comes amid global semiconductor supply chain vulnerabilities and geopolitical tensions over semiconductor production. Tesla's vertical integration into chip design and manufacturing could reshape the automotive and energy storage industries.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRG9QekpGTnBsZmxzM2c2QTdWMms0T2s3X09yb2tGNFpPc3k0NURZTTVpWWlIZ0pLc1NYOHVmcGdmUjZfU2s5YUc0X1B1QlNITzZVeG5OZ0JDOVhNcklDbkdhY24yUzR6aG5ZVFFscWlFVWlwV1ZVeUxCaGdnUU9HQmt3WC1ZU0U1NGVoSmxIWHlsVHZPY1o2cUh2M2lIMXBWNExYVnNvMnh5MFkyUDZLOGxZTVZuZw"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    },
+    {
+      "headline": "France arrests 1982 Jewish restaurant attack suspect after 44-year search",
+      "summary": "French authorities have arrested Mahmoud Khader Abed Adra, a fugitive sought for over four decades in connection with a 1982 attack on a Jewish restaurant in Paris. Palestinian authorities surrendered Abed Adra to French jurisdiction, ending a decades-long manhunt. The arrest closes a significant cold case and represents a major development in addressing historical terrorist attacks in Europe. The 1982 bombing was a notable incident in the history of Middle Eastern terrorism in Western Europe. The case demonstrates ongoing international cooperation in prosecuting perpetrators of historical violence and the persistence of victims' families in seeking justice.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/17/france-arrests-suspect-over-1982-attack-on-jewish-restaurant?traffic_source=rss"}
+      ],
+      "tags": ["crime", "diplomacy", "history"]
+    }
+  ]
+}
