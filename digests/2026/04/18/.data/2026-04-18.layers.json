@@ -1,0 +1,393 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-18T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Govt thanks UAE for cooperation leading to Kinahan arrest",
+        "summary": "The Irish Government has expressed its gratitude to United Arab Emirates authorities for their cooperation in a garda investigation that resulted in the arrest of a leader of the Kinahan Organised Crime Group. This marks a significant development in Ireland's efforts to dismantle one of the country's most notorious criminal organisations. The Kinahan family has been linked to numerous violent crimes and is considered a major threat to law enforcement in Ireland. International cooperation between Irish garda\u00ed and overseas authorities has proven crucial in pursuing members of the group. The arrest represents a major victory in Ireland's ongoing struggle against organised crime.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0418/1568880-daniel-kinahan/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Irish banking shake-up: Monzo launches as PTSB deal signals new competition for traditional banks",
+        "summary": "Ireland's banking sector is undergoing significant disruption as digital challenger banks expand their presence in the market. Monzo has launched operations in Ireland while an Austrian bank has pledged to maintain PTSB's headquarters in Dublin, signalling continued investment in the sector. The entry of new fintech players is intensifying competition against traditional banks, forcing them to adapt their business models and services. These developments reflect broader trends in European banking toward digital-first approaches and increased competition. Irish banks will need to innovate and enhance their offerings to retain customers in an increasingly competitive landscape.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/business/companies/arid-41829461.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "business"
+        ]
+      },
+      {
+        "headline": "At this rate, no-one will believe there's a heave against Martin unless he quits live on TV",
+        "summary": "A leadership challenge within Fianna F\u00e1il against the party leader has been characterised as lacking substance and momentum. Political commentators have noted the tepid nature of recent attempts to challenge the leadership, suggesting that credibility has eroded around such efforts. This reflects ongoing internal party tensions and potential factional divisions within the governing party. The lack of conviction in recent heaves has diminished their political impact and public perception. The commentary suggests that only dramatic action could revive belief in such challenges among party members and the electorate.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/is-fianna-fail-the-party-that-cried-wolf-7015819-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "President Connolly in Spain to attend democracy event",
+        "summary": "Ireland's President Catherine Connolly is undertaking her first overseas trip in the presidential role, travelling to Spain to participate in an international democracy conference. This represents an important diplomatic engagement for the Irish state on the international stage. The visit underscores Ireland's commitment to democratic values and international cooperation on governance issues. President Connolly's participation in the democracy conference reflects Ireland's active role in European and global discussions on political systems. The trip marks a symbolic and substantive beginning to her international diplomatic activities as President.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0418/1568836-president-connolly-spain/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Winner of Late Late Show country music contest initially didn't feel 'country enough' to apply",
+        "summary": "The newly crowned winner of the Late Late Show's country music competition initially harboured doubts about their suitability for the contest due to feeling insufficiently grounded in country music culture. The contest winner has secured an exciting opportunity to open for international star Shania Twain during performances in Limerick this summer. This represents a significant career advancement for the emerging musician and demonstrates the platform's value in promoting Irish musical talent. The story highlights the journey of self-doubt overcome through talent and determination. The Late Late Show continues its tradition of launching Irish entertainment careers.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41829644.html"
+          }
+        ],
+        "tags": [
+          "culture",
+          "social"
+        ]
+      },
+      {
+        "headline": "Patrick Horgan: Liam Cahill has not got deserved credit for Tipperary All-Ireland win",
+        "summary": "Sports commentator Patrick Horgan has argued that Tipperary manager Liam Cahill deserves greater recognition for guiding the team to All-Ireland victory. Horgan suggests that if Cork can get their best players performing at the highest level against Tipperary in an upcoming Sunday match, they could edge what should be a closely contested game. The analysis reflects the competitive nature of hurling at the elite level and the importance of managerial influence on team performance. The commentary highlights ongoing discussion about tactical approaches and leadership in inter-county hurling. These matches remain among the most significant sporting events in the Irish sporting calendar.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport-columnists/arid-41829584.html"
+          }
+        ],
+        "tags": [
+          "sport",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-18T12:00:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok_no_today_stories",
+      "euronews": "ok_no_today_stories"
+    },
+    "stories": [
+      {
+        "headline": "P\u00e9ter Magyar's Tisza Party Wins Landslide Victory in Hungary, Ending Orb\u00e1n's 16-Year Rule",
+        "summary": "Hungary has delivered a historic political verdict: P\u00e9ter Magyar's opposition Tisza Party has won a decisive landslide victory, ending Prime Minister Viktor Orb\u00e1n's 16-year dominance and delivering him his first major election defeat. With 97.35% of precincts counted, the centre-right Tisza secured 138 seats in the 199-seat parliament on 53.6% of the vote, giving them a two-thirds supermajority that would allow constitutional amendments. Orb\u00e1n's Fidesz party collapsed to 55 seats with just 37.8% support, a historic reversal driven largely by voter concerns about entrenched government corruption. The election recorded a historic turnout of 79.52%, with more than 5.8 million citizens casting ballots\u2014the highest in Hungary's post-1990 democratic history. Magyar, a 45-year-old lawyer who was until recently a staunch Orb\u00e1n loyalist, is expected to become the next prime minister and usher in a significant shift in Hungary's governance and European alignment.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c4g40npz37lo"
+          },
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz"
+          },
+          {
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/world/hungary/hungary-parliamentary-election-results-rcna273661"
+          }
+        ],
+        "tags": [
+          "elections",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "UK PM Starmer Faces Resignation Pressure Over Lord Mandelson Security Vetting Scandal",
+        "summary": "UK Prime Minister Keir Starmer is under intense pressure to resign following revelations that Lord Mandelson, appointed as ambassador to the United States, failed security vetting but was approved anyway after Foreign Office officials overruled the security recommendation. Starmer has stated he was not informed of Mandelson's failed vetting before the appointment was publicly announced and claims he is \"furious\" about the breakdown in government communication. The 72-year-old Mandelson was denied security clearance in late January 2025 following confidential background checks, but Foreign Office permanent secretary Olly Robbins used rarely-invoked authority to override the security decision. Starmer has since fired Robbins and faces opposition accusations that he knowingly misled Parliament about the vetting process. Conservative leader Kemi Badenoch has demanded his resignation, arguing that if the Prime Minister does not know what's happening in his own office, he should not lead the country.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c17v2452vglo"
+          },
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/04/16/europe/peter-mandelson-failed-security-vetting-intl"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/world/uk/2026/04/17/how-did-peter-mandelson-fail-security-vetting-but-still-get-approved/"
+          }
+        ],
+        "tags": [
+          "governance",
+          "politics",
+          "UK"
+        ]
+      },
+      {
+        "headline": "EU's New Border Biometric System Creates Chaos at European Airports, Up to 4-Hour Delays",
+        "summary": "The European Union's new Entry/Exit System (EES) biometric border control mechanism has created significant operational chaos across European airports since its full implementation on April 10, 2026, with travellers facing queues of up to three to four hours during peak times. The system replaces manual passport stamping with digital recording of entries, exits, and refusals for non-EU travellers, capturing biometric data including facial images and fingerprints. Major European hubs including Paris Charles de Gaulle, Berlin Brandenburg, Barcelona El Prat, Athens, and airports in Spain, Italy, Germany, Belgium, and Greece have experienced severe congestion. The Guardian reports the situation threatens to worsen into a full collapse by the summer tourist season, while the European Commission disputes these accounts, claiming the system operates normally with an average processing time of just 70 seconds per traveller. The discrepancy between ground-level reports of multi-hour delays and official EU claims highlights a significant implementation challenge for the automated system across the 29 Schengen countries where it now operates.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c4g40npz37lo"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://eu.news-pravda.com/world/2026/04/16/186989.html"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Germany Deploys Bundeswehr Engineers to Poland's Eastern Border for Fortifications",
+        "summary": "Germany is launching a multi-year military engineering deployment to Poland, sending Bundeswehr troops to assist with the construction of border fortifications as part of Operation \"Eastern Shield,\" a comprehensive programme to harden Poland's 418-kilometre border with Belarus and Russia's Kaliningrad enclave. An initial contingent of 50 German engineers began deployment in April 2026 and will remain through the end of 2027, undertaking non-combat engineering tasks including the construction of anti-tank ditches, barbed wire installations, trenches, and concrete bunkers. This marks the first time since German reunification that Bundeswehr personnel have participated in building permanent fortifications on Polish soil, reflecting heightened security concerns in NATO's eastern flank following Russia's invasion of Ukraine. The deployment reflects increasing European defence coordination and concerns about Russian military capabilities near NATO borders, with Germany and Poland working to strengthen regional security architecture. The operation demonstrates broader NATO and EU commitment to reinforcing eastern European defences against potential Russian threats.",
+        "sources": [
+          {
+            "name": "Notes from Poland",
+            "url": "https://notesfrompoland.com/2025/12/14/germany-to-deploy-troops-to-poland-to-help-bolster-eastern-flank-defences/"
+          },
+          {
+            "name": "Military.com",
+            "url": "https://www.military.com/daily-news/investigations-and-features/2025/12/15/germany-construct-defenses-poland-deploy-more-troops-lithuania-russian-threat-nato-grows.html"
+          }
+        ],
+        "tags": [
+          "defence",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "European Union Marks 75th Anniversary of Treaty of Paris, Celebrates ECSC Foundation",
+        "summary": "On April 18, 2026, the European Union commemorates 75 years since the signing of the Treaty of Paris, which in 1951 established the European Coal and Steel Community (ECSC)\u2014the foundational institution that ultimately evolved into the modern European Union. The ECSC represented a groundbreaking effort to promote peace and economic cooperation among Western European nations in the post-World War II period by pooling coal and steel resources under supranational governance. This historic anniversary underscores the EU's institutional and philosophical origins in collective security, economic integration, and shared democratic governance across Europe. The commemoration comes at a time of significant European political change, including Hungary's historic election result and ongoing discussions about EU border management and defence coordination. The 75-year milestone marks both the EU's achievements in maintaining peace and prosperity across its member states and raises questions about the organisation's future direction in an increasingly complex geopolitical landscape.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          },
+          {
+            "name": "EUbusiness",
+            "url": "https://www.eubusiness.com/politics/eucalendar/"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "history"
+        ]
+      },
+      {
+        "headline": "ECB Faces Uncertainty Ahead of April 29-30 Rate Decision Amid Inflation Concerns",
+        "summary": "The European Central Bank's monetary policy committee faces a critical decision on April 29-30, 2026, with financial markets currently pricing in a hold on interest rates at the April meeting followed by a potential rate hike in June, though significant uncertainty persists about the ECB's future direction. The main refinancing rate currently stands at 2.15%, with traders majority-expecting the key rate to reach at least 2.5% by year-end\u2014a potential 50 basis point increase from current levels. ECB officials have warned of a \"layer cake of shocks\" affecting eurozone economic outlook, as they balance inflation concerns with growth expectations: headline inflation is projected at 2.6% for 2026 while GDP growth is forecast at just 0.9% for the year. The upcoming decision will be crucial for eurozone economies already facing challenges from border system disruptions, geopolitical tensions affecting eastern member states, and broader economic headwinds. With less than two weeks remaining until the rate decision, ECB policymakers appear divided on the optimal policy path forward, signalling continued volatility in financial markets ahead of the announcement.",
+        "sources": [
+          {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/04/16/ecb-interest-rates-hike-inflation-iran-washington.html"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.rte.ie/news/business/2026/0408/1567166-traders-still-pricing-2-ecb-rate-hikes/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "regulation"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-18T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Iran reopens Strait of Hormuz amid Israel-Lebanon ceasefire, but US blockade persists",
+        "summary": "Iran announced the reopening of the Strait of Hormuz, a critical strategic waterway, following the implementation of a 10-day ceasefire between Israel and Hezbollah in Lebanon. The reopening signals a potential de-escalation after weeks of intense conflict and rising tensions in the Middle East. However, President Trump indicated the United States will maintain its naval blockade of Iranian ports, limiting the practical impact of Iran's move. Oil prices dropped sharply on the news, with Brent crude sinking by approximately 10 percent as markets reacted to reduced supply constraints. The situation remains fragile, with Iran threatening potential closure of the strait and neither side fully committing to long-term peace.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BCZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "economy"
+        ]
+      },
+      {
+        "headline": "UN warns South Sudan faces imminent full-scale famine and state collapse",
+        "summary": "UN aid chief Tom Fletcher warned that South Sudan is at critical risk of slipping into full-scale famine and potential state collapse, signaling one of the world's most severe humanitarian emergencies. The situation reflects years of civil conflict, economic instability, and displacement that have eroded the nation's capacity to feed its population. Fletcher's warning underscores the urgent need for international humanitarian intervention and sustained aid delivery to prevent mass starvation. The crisis is compounded by ongoing regional instability and limited access for aid organizations. This humanitarian catastrophe carries implications for regional refugee flows and international peacekeeping commitments.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "conflict",
+          "health"
+        ]
+      },
+      {
+        "headline": "Israel-Lebanon ceasefire takes hold with Hezbollah backing amid hopes for stability",
+        "summary": "A 10-day ceasefire between Israel and Hezbollah-backed forces in Lebanon commenced, halting weeks of intense fighting that had displaced thousands and inflicted significant casualties. The truce marks a rare moment of de-escalation in the region and has been welcomed by Lebanese civilians celebrating the return to relative peace. Thousands of displaced persons have already begun returning from Israel to their homes in southern Lebanon following the ceasefire announcement. However, substantial obstacles remain to translating the temporary halt into lasting peace, including unresolved political disputes and the underlying causes of the conflict. The ceasefire's success will be critical in determining whether the broader regional tensions can be eased.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Migration deaths in ICE custody reach record high of 29 under Trump administration",
+        "summary": "Twenty-nine migrants have died in U.S. Immigration and Customs Enforcement custody since October 2025, surpassing the previous record of 28 deaths set in 2004. The sharp increase has raised serious concerns about detention conditions, medical care standards, and accountability within the immigration enforcement system. An Associated Press investigation revealed that ICE expanded hiring dramatically without maintaining rigorous vetting standards, potentially contributing to systemic failures. Human rights groups have raised alarms about the fate of deported migrants, particularly Salvadorans, who routinely face detention and disappearance in their home countries. These developments underscore tensions between immigration enforcement and humanitarian obligations under international law.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOE1Wb1hoSEVIRVo4WkxudFZCLXprWEJmQTJhUktTS2U3M1MwM3JPYnFTTVRvR3hPRVJfTlBOelc2R3lXbDFCUlhIOG1XaFMzV3BRNF8xTmFlcE1RWVYwYm1TQzB1bzlGek5XRHZlRmtxSXkzeVZHUXphNEVJV0NBdUxnSWxxZWNqVjBjcFVWQ1IyWWZNWG50ZEV4S2NaVVgtdlRB?oc=5"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "trade",
+          "health"
+        ]
+      },
+      {
+        "headline": "China demonstrates humanoid robotics capabilities with half-marathon showcase event",
+        "summary": "China held a significant humanoid robot half-marathon event designed to showcase the nation's advancing robotics and artificial intelligence capabilities. The event represents a major milestone in Chinese technological development and underscores the country's strategic focus on robotics innovation and automation. The demonstration highlights competitive dynamics in global technology sectors, where China is rapidly closing the gap with Western nations in cutting-edge fields. Such public showcases serve both as technology validation and as signals of national innovation prowess in the broader geopolitical technology race. The event suggests China's confidence in its robotics development trajectory and may influence investment and competitive responses from other nations.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjZYSTh3QkhpNnlGaWhKSEdtNUY2ei1TMnUwbi1VYTN4bG5aN2RWVTdXT0F6ODNseVRGT2xoMUhSN3BqN1pGZ040SjFiYlBmMzdpRVVBRl91S2dZZ1B5N1BtOHl6R0J4WmRWNHI3Zjh5WXQ5d2lINlZuWHlkUjU1Wk9FSUNjdTVQTEVVNEpjN3hNQU5QN1dxTmtmbE1zdnBzTFpZSElFNUNMWmpOQWs4V3hJa2s?oc=5"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Pope Leo XIV begins African tour in Cameroon amid global engagement efforts",
+        "summary": "Pope Leo XIV is on an official visit to Cameroon, where he celebrated an open-air Mass attended by thousands of faithful in the West African nation. The papal tour represents the Catholic Church's continued emphasis on engagement with the African continent, which has become increasingly central to global Catholicism. The visit follows the Pope's stated commitment to bringing the Church's message to underserved regions and strengthening ties with African communities. The tour is scheduled to continue with stops in Angola, extending the Pope's presence across multiple Sub-Saharan nations. Such high-profile papal visits carry diplomatic significance and reinforce the Vatican's role in international religious and cultural dialogue.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "humanitarian",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Japan introduces new terminology for extreme heat days following record-breaking summer",
+        "summary": "Japan has officially unveiled new terminology to describe days with temperatures at or above 40 degrees Celsius, translating roughly to \"cruelly hot,\" \"brutally hot,\" or \"severely hot.\" The decision reflects Japan's recent experience with exceptionally high temperatures during the previous summer season, which set records for the nation. The naming convention acknowledges the growing severity and frequency of extreme heat events, likely connected to broader climate change patterns affecting East Asia. The terminology aims to raise public awareness about heat dangers and encourage preparedness for recurring extreme weather events. This linguistic innovation represents a broader global trend of societies adapting language and infrastructure to address climate-related challenges.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "climate",
+          "health",
+          "technology"
+        ]
+      }
+    ]
+  }
+}

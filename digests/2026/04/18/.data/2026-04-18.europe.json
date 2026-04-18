@@ -1,0 +1,72 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-18T12:00:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok_no_today_stories",
+    "euronews": "ok_no_today_stories"
+  },
+  "stories": [
+    {
+      "headline": "Péter Magyar's Tisza Party Wins Landslide Victory in Hungary, Ending Orbán's 16-Year Rule",
+      "summary": "Hungary has delivered a historic political verdict: Péter Magyar's opposition Tisza Party has won a decisive landslide victory, ending Prime Minister Viktor Orbán's 16-year dominance and delivering him his first major election defeat. With 97.35% of precincts counted, the centre-right Tisza secured 138 seats in the 199-seat parliament on 53.6% of the vote, giving them a two-thirds supermajority that would allow constitutional amendments. Orbán's Fidesz party collapsed to 55 seats with just 37.8% support, a historic reversal driven largely by voter concerns about entrenched government corruption. The election recorded a historic turnout of 79.52%, with more than 5.8 million citizens casting ballots—the highest in Hungary's post-1990 democratic history. Magyar, a 45-year-old lawyer who was until recently a staunch Orbán loyalist, is expected to become the next prime minister and usher in a significant shift in Hungary's governance and European alignment.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c4g40npz37lo"},
+        {"name": "CNN", "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz"},
+        {"name": "NBC News", "url": "https://www.nbcnews.com/world/hungary/hungary-parliamentary-election-results-rcna273661"}
+      ],
+      "tags": ["elections", "governance", "EU"]
+    },
+    {
+      "headline": "UK PM Starmer Faces Resignation Pressure Over Lord Mandelson Security Vetting Scandal",
+      "summary": "UK Prime Minister Keir Starmer is under intense pressure to resign following revelations that Lord Mandelson, appointed as ambassador to the United States, failed security vetting but was approved anyway after Foreign Office officials overruled the security recommendation. Starmer has stated he was not informed of Mandelson's failed vetting before the appointment was publicly announced and claims he is \"furious\" about the breakdown in government communication. The 72-year-old Mandelson was denied security clearance in late January 2025 following confidential background checks, but Foreign Office permanent secretary Olly Robbins used rarely-invoked authority to override the security decision. Starmer has since fired Robbins and faces opposition accusations that he knowingly misled Parliament about the vetting process. Conservative leader Kemi Badenoch has demanded his resignation, arguing that if the Prime Minister does not know what's happening in his own office, he should not lead the country.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c17v2452vglo"},
+        {"name": "CNN", "url": "https://www.cnn.com/2026/04/16/europe/peter-mandelson-failed-security-vetting-intl"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/world/uk/2026/04/17/how-did-peter-mandelson-fail-security-vetting-but-still-get-approved/"}
+      ],
+      "tags": ["governance", "politics", "UK"]
+    },
+    {
+      "headline": "EU's New Border Biometric System Creates Chaos at European Airports, Up to 4-Hour Delays",
+      "summary": "The European Union's new Entry/Exit System (EES) biometric border control mechanism has created significant operational chaos across European airports since its full implementation on April 10, 2026, with travellers facing queues of up to three to four hours during peak times. The system replaces manual passport stamping with digital recording of entries, exits, and refusals for non-EU travellers, capturing biometric data including facial images and fingerprints. Major European hubs including Paris Charles de Gaulle, Berlin Brandenburg, Barcelona El Prat, Athens, and airports in Spain, Italy, Germany, Belgium, and Greece have experienced severe congestion. The Guardian reports the situation threatens to worsen into a full collapse by the summer tourist season, while the European Commission disputes these accounts, claiming the system operates normally with an average processing time of just 70 seconds per traveller. The discrepancy between ground-level reports of multi-hour delays and official EU claims highlights a significant implementation challenge for the automated system across the 29 Schengen countries where it now operates.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c4g40npz37lo"},
+        {"name": "Euronews", "url": "https://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"},
+        {"name": "The Guardian", "url": "https://eu.news-pravda.com/world/2026/04/16/186989.html"}
+      ],
+      "tags": ["EU", "regulation", "governance"]
+    },
+    {
+      "headline": "Germany Deploys Bundeswehr Engineers to Poland's Eastern Border for Fortifications",
+      "summary": "Germany is launching a multi-year military engineering deployment to Poland, sending Bundeswehr troops to assist with the construction of border fortifications as part of Operation \"Eastern Shield,\" a comprehensive programme to harden Poland's 418-kilometre border with Belarus and Russia's Kaliningrad enclave. An initial contingent of 50 German engineers began deployment in April 2026 and will remain through the end of 2027, undertaking non-combat engineering tasks including the construction of anti-tank ditches, barbed wire installations, trenches, and concrete bunkers. This marks the first time since German reunification that Bundeswehr personnel have participated in building permanent fortifications on Polish soil, reflecting heightened security concerns in NATO's eastern flank following Russia's invasion of Ukraine. The deployment reflects increasing European defence coordination and concerns about Russian military capabilities near NATO borders, with Germany and Poland working to strengthen regional security architecture. The operation demonstrates broader NATO and EU commitment to reinforcing eastern European defences against potential Russian threats.",
+      "sources": [
+        {"name": "Notes from Poland", "url": "https://notesfrompoland.com/2025/12/14/germany-to-deploy-troops-to-poland-to-help-bolster-eastern-flank-defences/"},
+        {"name": "Military.com", "url": "https://www.military.com/daily-news/investigations-and-features/2025/12/15/germany-construct-defenses-poland-deploy-more-troops-lithuania-russian-threat-nato-grows.html"}
+      ],
+      "tags": ["defence", "governance", "EU"]
+    },
+    {
+      "headline": "European Union Marks 75th Anniversary of Treaty of Paris, Celebrates ECSC Foundation",
+      "summary": "On April 18, 2026, the European Union commemorates 75 years since the signing of the Treaty of Paris, which in 1951 established the European Coal and Steel Community (ECSC)—the foundational institution that ultimately evolved into the modern European Union. The ECSC represented a groundbreaking effort to promote peace and economic cooperation among Western European nations in the post-World War II period by pooling coal and steel resources under supranational governance. This historic anniversary underscores the EU's institutional and philosophical origins in collective security, economic integration, and shared democratic governance across Europe. The commemoration comes at a time of significant European political change, including Hungary's historic election result and ongoing discussions about EU border management and defence coordination. The 75-year milestone marks both the EU's achievements in maintaining peace and prosperity across its member states and raises questions about the organisation's future direction in an increasingly complex geopolitical landscape.",
+      "sources": [
+        {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events_en"},
+        {"name": "EUbusiness", "url": "https://www.eubusiness.com/politics/eucalendar/"}
+      ],
+      "tags": ["EU", "governance", "history"]
+    },
+    {
+      "headline": "ECB Faces Uncertainty Ahead of April 29-30 Rate Decision Amid Inflation Concerns",
+      "summary": "The European Central Bank's monetary policy committee faces a critical decision on April 29-30, 2026, with financial markets currently pricing in a hold on interest rates at the April meeting followed by a potential rate hike in June, though significant uncertainty persists about the ECB's future direction. The main refinancing rate currently stands at 2.15%, with traders majority-expecting the key rate to reach at least 2.5% by year-end—a potential 50 basis point increase from current levels. ECB officials have warned of a \"layer cake of shocks\" affecting eurozone economic outlook, as they balance inflation concerns with growth expectations: headline inflation is projected at 2.6% for 2026 while GDP growth is forecast at just 0.9% for the year. The upcoming decision will be crucial for eurozone economies already facing challenges from border system disruptions, geopolitical tensions affecting eastern member states, and broader economic headwinds. With less than two weeks remaining until the rate decision, ECB policymakers appear divided on the optimal policy path forward, signalling continued volatility in financial markets ahead of the announcement.",
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/04/16/ecb-interest-rates-hike-inflation-iran-washington.html"},
+        {"name": "Irish Times", "url": "https://www.rte.ie/news/business/2026/0408/1567166-traders-still-pricing-2-ecb-rate-hikes/"}
+      ],
+      "tags": ["economy", "EU", "regulation"]
+    }
+  ]
+}

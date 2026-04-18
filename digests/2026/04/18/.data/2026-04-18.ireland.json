@@ -1,0 +1,61 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-18T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Govt thanks UAE for cooperation leading to Kinahan arrest",
+      "summary": "The Irish Government has expressed its gratitude to United Arab Emirates authorities for their cooperation in a garda investigation that resulted in the arrest of a leader of the Kinahan Organised Crime Group. This marks a significant development in Ireland's efforts to dismantle one of the country's most notorious criminal organisations. The Kinahan family has been linked to numerous violent crimes and is considered a major threat to law enforcement in Ireland. International cooperation between Irish gardaí and overseas authorities has proven crucial in pursuing members of the group. The arrest represents a major victory in Ireland's ongoing struggle against organised crime.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/2026/0418/1568880-daniel-kinahan/"}
+      ],
+      "tags": ["crime", "politics", "defence"]
+    },
+    {
+      "headline": "Irish banking shake-up: Monzo launches as PTSB deal signals new competition for traditional banks",
+      "summary": "Ireland's banking sector is undergoing significant disruption as digital challenger banks expand their presence in the market. Monzo has launched operations in Ireland while an Austrian bank has pledged to maintain PTSB's headquarters in Dublin, signalling continued investment in the sector. The entry of new fintech players is intensifying competition against traditional banks, forcing them to adapt their business models and services. These developments reflect broader trends in European banking toward digital-first approaches and increased competition. Irish banks will need to innovate and enhance their offerings to retain customers in an increasingly competitive landscape.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/companies/arid-41829461.html"}
+      ],
+      "tags": ["economy", "business"]
+    },
+    {
+      "headline": "At this rate, no-one will believe there's a heave against Martin unless he quits live on TV",
+      "summary": "A leadership challenge within Fianna Fáil against the party leader has been characterised as lacking substance and momentum. Political commentators have noted the tepid nature of recent attempts to challenge the leadership, suggesting that credibility has eroded around such efforts. This reflects ongoing internal party tensions and potential factional divisions within the governing party. The lack of conviction in recent heaves has diminished their political impact and public perception. The commentary suggests that only dramatic action could revive belief in such challenges among party members and the electorate.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/is-fianna-fail-the-party-that-cried-wolf-7015819-Apr2026/"}
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "President Connolly in Spain to attend democracy event",
+      "summary": "Ireland's President Catherine Connolly is undertaking her first overseas trip in the presidential role, travelling to Spain to participate in an international democracy conference. This represents an important diplomatic engagement for the Irish state on the international stage. The visit underscores Ireland's commitment to democratic values and international cooperation on governance issues. President Connolly's participation in the democracy conference reflects Ireland's active role in European and global discussions on political systems. The trip marks a symbolic and substantive beginning to her international diplomatic activities as President.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/2026/0418/1568836-president-connolly-spain/"}
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Winner of Late Late Show country music contest initially didn't feel 'country enough' to apply",
+      "summary": "The newly crowned winner of the Late Late Show's country music competition initially harboured doubts about their suitability for the contest due to feeling insufficiently grounded in country music culture. The contest winner has secured an exciting opportunity to open for international star Shania Twain during performances in Limerick this summer. This represents a significant career advancement for the emerging musician and demonstrates the platform's value in promoting Irish musical talent. The story highlights the journey of self-doubt overcome through talent and determination. The Late Late Show continues its tradition of launching Irish entertainment careers.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41829644.html"}
+      ],
+      "tags": ["culture", "social"]
+    },
+    {
+      "headline": "Patrick Horgan: Liam Cahill has not got deserved credit for Tipperary All-Ireland win",
+      "summary": "Sports commentator Patrick Horgan has argued that Tipperary manager Liam Cahill deserves greater recognition for guiding the team to All-Ireland victory. Horgan suggests that if Cork can get their best players performing at the highest level against Tipperary in an upcoming Sunday match, they could edge what should be a closely contested game. The analysis reflects the competitive nature of hurling at the elite level and the importance of managerial influence on team performance. The commentary highlights ongoing discussion about tactical approaches and leadership in inter-county hurling. These matches remain among the most significant sporting events in the Irish sporting calendar.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport-columnists/arid-41829584.html"}
+      ],
+      "tags": ["sport", "social"]
+    }
+  ]
+}

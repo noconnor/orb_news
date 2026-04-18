@@ -1,0 +1,76 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-18T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran reopens Strait of Hormuz amid Israel-Lebanon ceasefire, but US blockade persists",
+      "summary": "Iran announced the reopening of the Strait of Hormuz, a critical strategic waterway, following the implementation of a 10-day ceasefire between Israel and Hezbollah in Lebanon. The reopening signals a potential de-escalation after weeks of intense conflict and rising tensions in the Middle East. However, President Trump indicated the United States will maintain its naval blockade of Iranian ports, limiting the practical impact of Iran's move. Oil prices dropped sharply on the news, with Brent crude sinking by approximately 10 percent as markets reacted to reduced supply constraints. The situation remains fragile, with Iran threatening potential closure of the strait and neither side fully committing to long-term peace.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BCZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates"}
+      ],
+      "tags": ["diplomacy", "conflict", "economy"]
+    },
+    {
+      "headline": "UN warns South Sudan faces imminent full-scale famine and state collapse",
+      "summary": "UN aid chief Tom Fletcher warned that South Sudan is at critical risk of slipping into full-scale famine and potential state collapse, signaling one of the world's most severe humanitarian emergencies. The situation reflects years of civil conflict, economic instability, and displacement that have eroded the nation's capacity to feed its population. Fletcher's warning underscores the urgent need for international humanitarian intervention and sustained aid delivery to prevent mass starvation. The crisis is compounded by ongoing regional instability and limited access for aid organizations. This humanitarian catastrophe carries implications for regional refugee flows and international peacekeeping commitments.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss"}
+      ],
+      "tags": ["humanitarian", "conflict", "health"]
+    },
+    {
+      "headline": "Israel-Lebanon ceasefire takes hold with Hezbollah backing amid hopes for stability",
+      "summary": "A 10-day ceasefire between Israel and Hezbollah-backed forces in Lebanon commenced, halting weeks of intense fighting that had displaced thousands and inflicted significant casualties. The truce marks a rare moment of de-escalation in the region and has been welcomed by Lebanese civilians celebrating the return to relative peace. Thousands of displaced persons have already begun returning from Israel to their homes in southern Lebanon following the ceasefire announcement. However, substantial obstacles remain to translating the temporary halt into lasting peace, including unresolved political disputes and the underlying causes of the conflict. The ceasefire's success will be critical in determining whether the broader regional tensions can be eased.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Migration deaths in ICE custody reach record high of 29 under Trump administration",
+      "summary": "Twenty-nine migrants have died in U.S. Immigration and Customs Enforcement custody since October 2025, surpassing the previous record of 28 deaths set in 2004. The sharp increase has raised serious concerns about detention conditions, medical care standards, and accountability within the immigration enforcement system. An Associated Press investigation revealed that ICE expanded hiring dramatically without maintaining rigorous vetting standards, potentially contributing to systemic failures. Human rights groups have raised alarms about the fate of deported migrants, particularly Salvadorans, who routinely face detention and disappearance in their home countries. These developments underscore tensions between immigration enforcement and humanitarian obligations under international law.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOE1Wb1hoSEVIRVo4WkxudFZCLXprWEJmQTJhUktTS2U3M1MwM3JPYnFTTVRvR3hPRVJfTlBOelc2R3lXbDFCUlhIOG1XaFMzV3BRNF8xTmFlcE1RWVYwYm1TQzB1bzlGek5XRHZlRmtxSXkzeVZHUXphNEVJV0NBdUxnSWxxZWNqVjBjcFVWQ1IyWWZNWG50ZEV4S2NaVVgtdlRB?oc=5"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump"}
+      ],
+      "tags": ["humanitarian", "trade", "health"]
+    },
+    {
+      "headline": "China demonstrates humanoid robotics capabilities with half-marathon showcase event",
+      "summary": "China held a significant humanoid robot half-marathon event designed to showcase the nation's advancing robotics and artificial intelligence capabilities. The event represents a major milestone in Chinese technological development and underscores the country's strategic focus on robotics innovation and automation. The demonstration highlights competitive dynamics in global technology sectors, where China is rapidly closing the gap with Western nations in cutting-edge fields. Such public showcases serve both as technology validation and as signals of national innovation prowess in the broader geopolitical technology race. The event suggests China's confidence in its robotics development trajectory and may influence investment and competitive responses from other nations.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjZYSTh3QkhpNnlGaWhKSEdtNUY2ei1TMnUwbi1VYTN4bG5aN2RWVTdXT0F6ODNseVRGT2xoMUhSN3BqN1pGZ040SjFiYlBmMzdpRVVBRl91S2dZZ1B5N1BtOHl6R0J4WmRWNHI3Zjh5WXQ5d2lINlZuWHlkUjU1Wk9FSUNjdTVQTEVVNEpjN3hNQU5QN1dxTmtmbE1zdnBzTFpZSElFNUNMWmpOQWs4V3hJa2s?oc=5"}
+      ],
+      "tags": ["technology", "economy", "diplomacy"]
+    },
+    {
+      "headline": "Pope Leo XIV begins African tour in Cameroon amid global engagement efforts",
+      "summary": "Pope Leo XIV is on an official visit to Cameroon, where he celebrated an open-air Mass attended by thousands of faithful in the West African nation. The papal tour represents the Catholic Church's continued emphasis on engagement with the African continent, which has become increasingly central to global Catholicism. The visit follows the Pope's stated commitment to bringing the Church's message to underserved regions and strengthening ties with African communities. The tour is scheduled to continue with stops in Angola, extending the Pope's presence across multiple Sub-Saharan nations. Such high-profile papal visits carry diplomatic significance and reinforce the Vatican's role in international religious and cultural dialogue.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["diplomacy", "humanitarian", "governance"]
+    },
+    {
+      "headline": "Japan introduces new terminology for extreme heat days following record-breaking summer",
+      "summary": "Japan has officially unveiled new terminology to describe days with temperatures at or above 40 degrees Celsius, translating roughly to \"cruelly hot,\" \"brutally hot,\" or \"severely hot.\" The decision reflects Japan's recent experience with exceptionally high temperatures during the previous summer season, which set records for the nation. The naming convention acknowledges the growing severity and frequency of extreme heat events, likely connected to broader climate change patterns affecting East Asia. The terminology aims to raise public awareness about heat dangers and encourage preparedness for recurring extreme weather events. This linguistic innovation represents a broader global trend of societies adapting language and infrastructure to address climate-related challenges.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["climate", "health", "technology"]
+    }
+  ]
+}

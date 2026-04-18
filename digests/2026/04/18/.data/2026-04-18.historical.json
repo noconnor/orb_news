@@ -1,0 +1,45 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Péter Magyar's Tisza Party Wins Landslide Victory in Hungary, Ending Orbán's 16-Year Rule",
+      "story_topic": "Hungary Orban election authoritarian rule",
+      "historical_event": "Overthrow of Slobodan Milošević / October 5th Revolution (Serbia, 2000); Hungarian Revolution of 1956; 1989 Polish Parliamentary Election; Romanian Revolution of 1989",
+      "date_range": "1956; 1989; 2000",
+      "summary": "The popular revulsions against entrenched authoritarian-leaning rule that swept Eastern Europe in 1989 — from Poland's watershed semi-free parliamentary election that ended communist dominance to the Romanian revolution that overthrew Ceaușescu — established the template of mass mobilisation as the decisive check on leaders who had dismantled institutional constraints around themselves. The Hungarian Revolution of 1956, though brutally suppressed, demonstrated the depth of popular yearning for self-determination that eventually found expression in 1989. Serbia's October 5th Revolution in 2000, when citizens occupied state institutions to force Milošević from power after he refused to accept electoral defeat, offers the most direct regional parallel: a leader who had systematically weakened independent institutions, captured the media, and rewritten electoral rules was ultimately undone by a unified opposition and overwhelming voter turnout. Magyar's victory follows precisely this pattern — an opposition figure who broke from the ruling establishment, unified a fractured opposition, and channelled popular anger about corruption into a supermajority mandate.",
+      "parallel_analysis": "As with the post-Milošević transition, the deeper challenge will now be dismantling the institutional architecture of control Orbán built over sixteen years, rather than simply replacing the person at the top. History shows that removing an entrenched leader is often the easier part; reversing the structural capture of courts, media, and electoral rules requires sustained political will and institutional reform over years.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+        "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+        "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Romanian_revolution"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Iran reopens Strait of Hormuz amid Israel-Lebanon ceasefire, but US blockade persists",
+      "story_topic": "Strait of Hormuz blockade",
+      "historical_event": "The Suez Crisis (1956); The Tanker War (1984–1988); Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_range": "1956; 1973; 1984–1988",
+      "summary": "The closure and reopening of strategic maritime chokepoints under military and political pressure has repeatedly reshaped global energy markets and geopolitical alignments. The 1956 Suez Crisis demonstrated both the economic vulnerability created by dependence on single maritime corridors and the limits of great-power coercion when superpower interests diverged. The Tanker War of 1984–1988, fought in the Strait of Hormuz during the Iran-Iraq conflict, established the modern template: attacks on oil shipping, insurance disruption, and eventual US naval escort operations as Washington sought to keep the strait open against Iranian pressure. The 1973 Arab oil embargo showed how quickly energy supply disruptions translate into broader economic shocks, triggering recession, inflation and lasting structural changes in Western energy policy.",
+      "parallel_analysis": "The current episode follows this pattern closely: a regional conflict creates a chokepoint threat, markets react violently, and great-power naval presence becomes the backstop that ultimately shapes the terms of de-escalation. The persistence of the US blockade alongside the strait's reopening suggests the standoff remains unresolved at a deeper level, echoing the way Suez and the Tanker War both produced temporary accommodations that did not resolve the underlying strategic tensions.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "UK PM Starmer Faces Resignation Pressure Over Lord Mandelson Security Vetting Scandal",
+      "story_topic": "UK government security vetting scandal",
+      "historical_event": "The Profumo Affair (1963)",
+      "date_range": "1961–1964",
+      "summary": "The Profumo affair was a defining political scandal of early 1960s Britain in which Secretary of State for War John Profumo was found to have lied to Parliament about his relationship with 19-year-old model Christine Keeler, who was simultaneously involved with Soviet naval attaché Yevgeny Ivanov — a GRU intelligence officer. Cabinet Secretary Norman Brook had warned Profumo about his associations in August 1961, but the warning went unheeded and unescalated. When the affair broke publicly in March 1963, Profumo delivered a personal statement to the Commons denying 'any impropriety whatsoever' — a lie that proved fatal when the truth emerged three months later. The subsequent Lord Denning inquiry found no actual security breach had occurred, but that determination did nothing to save Harold Macmillan's government: the scandal destroyed its credibility, contributed to Macmillan's resignation in October 1963, and played a role in the Conservatives' defeat in the 1964 general election.",
+      "parallel_analysis": "The parallel with the Mandelson affair is structurally close: a senior figure with a history of prior controversies was appointed to a sensitive role; security concerns were either missed or overridden within the machinery of government; and the Prime Minister's claim not to have known about the problem is being tested against the basic expectation that leaders are responsible for what happens in their name. As with Macmillan, the most damaging charge Starmer faces is not necessarily personal wrongdoing but the perception — in the Denning inquiry's phrase — of a leadership that was 'ludicrously naïve or incompetent or deceitful — or all three.'",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Profumo_affair"
+      ]
+    }
+  ]
+}
