@@ -1,0 +1,78 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-19T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Govt thanks UAE for cooperation as Daniel Kinahan apprehended in organised crime breakthrough",
+      "summary": "Irish authorities announced the arrest of Daniel Kinahan, a major organised crime leader, following international collaboration with the United Arab Emirates. The apprehension represents a significant success for Irish law enforcement in tackling serious criminal activity and international drug trafficking networks. Officials acknowledged the crucial role played by UAE cooperation in enabling the arrest. This development follows years of investigations into Kinahan's alleged involvement in organised crime operations. The arrest has implications for dismantling transnational criminal enterprises with Irish connections.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0418/1568880-daniel-kinahan/"}
+      ],
+      "tags": ["crime", "politics", "international"]
+    },
+    {
+      "headline": "Taoiseach faces renewed pressure from Fianna Fáil TDs over fuel protest response",
+      "summary": "Irish government ministers pledged support for the Taoiseach amid growing internal party dissent over his handling of recent fuel protests. A number of Fianna Fáil TDs submitted letters requesting meetings to discuss the direction of the party, signaling discontent with the government's response to disruptive fuel blockades. The fuel protests have exposed vulnerabilities in the state's ability to manage coordinated industrial action and raised questions about the government's crisis management approach. Political analysts identified this as a significant challenge to party unity and leadership credibility. The controversy highlights the rising power of decentralised protest movements in Irish politics.",
+      "sources": [
+        {"name": "BreakingNews.ie (WebSearch fallback)", "url": "https://www.breakingnews.ie/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/opinion/commentanalysis/arid-41829029.html"}
+      ],
+      "tags": ["politics", "economy", "social"]
+    },
+    {
+      "headline": "Hundreds protest in Dublin to protect Ireland's neutrality amid Middle East tensions",
+      "summary": "Demonstrators gathered in Dublin's city centre to demand that Ireland's military neutrality be protected in light of escalating tensions in the Middle East. Protesters condemned US-Israeli military actions against Iran and called for a public referendum on Ireland's Triple Lock constitutional provision governing military participation. The rally reflects growing public concern about Ireland's potential entanglement in international conflicts and the implications of deeper NATO or US alliance involvement. The neutrality debate intersects with Ireland's EU presidency responsibilities and strategic positioning in European security architecture. This represents a significant grassroots mobilisation around constitutional and foreign policy issues.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/18/hundreds-demonstrate-in-dublin-to-demand-irelands-neutrality-be-protected/"}
+      ],
+      "tags": ["politics", "defence", "social"]
+    },
+    {
+      "headline": "President convenes Council of State to examine constitutionality of International Protection Bill",
+      "summary": "The President of Ireland convened the Council of State to assess the constitutional validity of the proposed International Protection Bill 2026. This formal procedure allows for expert examination of the Bill's compliance with the Irish Constitution before potential enactment. The International Protection Bill addresses asylum and refugee policy, an increasingly significant area of Irish and European policy debate. The Council of State's involvement indicates potential constitutional sensitivities around the legislation. The outcome of this review will influence how Ireland proceeds with immigration and protection policy reform.",
+      "sources": [
+        {"name": "BreakingNews.ie (WebSearch fallback)", "url": "https://www.breakingnews.ie/"}
+      ],
+      "tags": ["politics", "social", "defence"]
+    },
+    {
+      "headline": "Waterford IT cybersecurity firm secures €13.2m investment, creating 125 new jobs",
+      "summary": "An information technology company based in Waterford announced a €13.2 million investment, with plans to create 125 new positions in cybersecurity and artificial intelligence sectors. The investment reflects growing demand for specialised tech talent in emerging fields and demonstrates corporate confidence in the Irish economy and talent pool. The expansion will strengthen Waterford's position as a regional technology hub outside Dublin's dominant tech sector. The jobs will focus on high-value cybersecurity and AI expertise, addressing critical skills gaps in Ireland's digital economy. This development contributes to regional economic diversification and foreign direct investment in Ireland's tech sector.",
+      "sources": [
+        {"name": "BreakingNews.ie (WebSearch fallback)", "url": "https://www.breakingnews.ie/"}
+      ],
+      "tags": ["economy", "technology", "social"]
+    },
+    {
+      "headline": "Are fuel protestors right? Ireland considers energy sovereignty through offshore drilling debate",
+      "summary": "Irish policymakers and the public are engaged in debate over whether Ireland should pursue offshore oil and gas drilling, prompted by recent fuel protests. Various analyses suggest billions of barrels' worth of hydrocarbon reserves could exist beneath Irish seabed, raising questions about national energy independence and economic opportunity. The fuel blockades have highlighted Ireland's vulnerability to supply disruptions and reliance on imported fuel, intensifying discussion around domestic energy production capacity. The drilling debate intersects with climate policy commitments, environmental protection, and long-term energy strategy. This discussion reflects competing priorities between energy sovereignty, economic development, and environmental stewardship.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/should-ireland-drill-for-oil-7016295-Apr2026/"}
+      ],
+      "tags": ["economy", "energy", "politics"]
+    },
+    {
+      "headline": "Northern Ireland investment fund accused of indirectly financing Israeli military aircraft manufacturing",
+      "summary": "A Northern Ireland investment arm faced legal scrutiny over allegations that its investment portfolio includes stakes in companies involved in manufacturing Israeli F-35 fighter aircraft. A court examined whether the fund's indirect financing of international arms manufacturing and potentially associated human rights concerns should be permitted under investment principles. The case raises questions about ethical investment responsibility, corporate accountability in arms supply chains, and cross-border regulatory frameworks. The dispute highlights tensions between financial returns and moral responsibility in institutional investment decisions. This represents a significant cross-border Irish issue touching on international law, investment ethics, and human rights concerns.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/18/northern-ireland-investment-arm-accused-of-helping-fund-israeli-f-35-fighter-aircraft/"}
+      ],
+      "tags": ["defence", "politics", "economy"]
+    },
+    {
+      "headline": "German Chancellor Merz expresses confidence in Ireland's readiness for EU presidency",
+      "summary": "German Chancellor Friedrich Merz publicly stated his assessment that Ireland is well-prepared for its upcoming European Union presidency, despite acknowledged security concerns facing the EU. Merz's endorsement reflects confidence in Irish institutional capacity and diplomatic readiness to manage EU affairs during a period of geopolitical uncertainty. The statement comes amid broader discussions about European defence and security architecture in the context of international tensions. Ireland's EU presidency represents a significant moment for Irish diplomacy and European leadership at a time of strategic challenges. The German support signals cross-border backing for Ireland's presidency agenda and institutional capabilities.",
+      "sources": [
+        {"name": "BreakingNews.ie (WebSearch fallback)", "url": "https://www.breakingnews.ie/"}
+      ],
+      "tags": ["politics", "EU", "defence"]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-19T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Iran closes Strait of Hormuz, halts US talks as Middle East tensions escalate",
+      "summary": "Iran's Islamic Revolutionary Guard Corps announced the Strait of Hormuz has been closed and will remain shut until the US ceases blockading Iranian ports, marking a significant escalation in regional tensions. Iranian Deputy Foreign Minister Saeed Khatibzadeh stated that no date has been set for negotiations with the United States, citing Washington's refusal to abandon \"maximalist\" demands as a key obstacle. The closure of this critical shipping waterway through which a significant portion of global oil passes represents a major geopolitical flashpoint. This comes amid broader Middle East instability, including recent Israel-Lebanon ceasefire agreements. The development underscores the fragility of diplomatic efforts and the potential for economic disruption to global energy markets.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed"},
+        {"name": "NPR", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "North Korea conducts seventh ballistic missile test of 2026",
+      "summary": "North Korea launched multiple ballistic missiles toward the sea off its east coast in the latest weapons test, marking the seventh such ballistic missile launch this year. The missiles were fired from the Sinpo area in eastern North Korea. The repeated tests demonstrate Pyongyang's commitment to advancing its military capabilities despite international sanctions and diplomatic isolation. Each test provides technical data to improve the regime's arsenal and extends the range and reliability of its weapons systems. The launches are likely intended to display strength ahead of potential negotiations and assert North Korea's status as a nuclear power.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast"},
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUNKM1Vad2RNTThEaGpxUElvdWZEb09pY2ZiR25yNXJUQ0tZZTVCOXNXalJmdExXMlFQWkp5WGdTWGgzMmlhVjhtRnRyVU9ucW5vN3F2WkduMDZHMERMaUZEMUROR1JWbHR3N2R4OVJBcUJfZmRGd2dndWtsTlo4dWdzQ2tJVmdvT0R6ZjFlYnppZHRpN3lOMXpxTGtxdw"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "French peacekeeper killed in southern Lebanon amid regional tensions",
+      "summary": "A French peacekeeper serving as part of the UN peacekeeping mission in southern Lebanon was killed in an attack on April 19, 2026. French President Emmanuel Macron blamed Hezbollah for the incident, though the Iran-backed armed group denied \"any connection\" to the killing. The attack highlights the dangerous environment faced by international peacekeepers in the region amid ongoing Israeli-Lebanese tensions. France maintains a commitment to the UN's peacekeeping operations in Lebanon, which are designed to prevent cross-border conflict between Israel and Hezbollah. The incident underscores the fragile security situation along the Israel-Lebanon border and the challenges of maintaining peace in one of the Middle East's most volatile regions.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "Humanoid robots outpace humans in Beijing half-marathon, demonstrating rapid technological advances",
+      "summary": "In a notable demonstration of progress in robotics and artificial intelligence, humanoid robots completed a half-marathon race in Beijing faster than the human participants, according to reports on April 19, 2026. The achievement represents a significant milestone in the development of bipedal robotic systems capable of sustained physical performance comparable to or exceeding human athletic capability. The feat highlights China's investment in advanced robotics and autonomous systems technology. The robots' superior performance in endurance racing suggests rapid progress in areas including motor control, energy efficiency, and overall mechanical reliability. This development has implications for future applications of humanoid robots in labor-intensive industries and raises questions about the pace of technological disruption in human-centered fields.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkctZm8yRDBvMEszWklVUVNDZHNkUkpJQ3oxZGxrdXE2ZjItdWp0dFM0THZsakUyNFdJd2ZuSzhtMXRmNTE4elcwenFmTkRSWE5nMmNtSmNMaU5IOTlEMkZYT2VyUXNUWHNRMVc4WjQwM2d0bFhNLVpNMFRLR0JPT2JZWU14UlVsU2ZOY0FpdHF1dkJWZVNnOVkweWsyWEt6X3duZGQ3SDdhbHJfR282M0k3REZHYVY5S1NPXw?oc=5"}
+      ],
+      "tags": ["technology", "economy"]
+    },
+    {
+      "headline": "Mass shooting in Ukraine's capital kills six, injures 14 as gunman is neutralized",
+      "summary": "A gunman opened fire in Ukraine's capital city, killing six people and injuring at least 14 others before being shot and killed by police. The incident represents a significant security incident during a period of heightened tension in Ukraine due to ongoing military conflict with Russia. Emergency services responded quickly to apprehend the shooter, preventing further casualties. The attack has raised concerns about security in Ukrainian cities and the psychological toll of prolonged conflict on civilians. Investigations into the shooter's motives and any potential connections to the broader conflict are ongoing.",
+      "sources": [
+        {"name": "NPR", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "Israel and Lebanon agree to 10-day ceasefire as regional tensions moderate temporarily",
+      "summary": "Israel and Lebanon reached an agreement on a 10-day ceasefire beginning April 16, 2026, as diplomatic efforts seek to de-escalate cross-border tensions between the two nations. The temporary halt in hostilities provides a window for negotiations and humanitarian relief in border communities. Women displaced from southern Lebanon have relocated temporarily to vacant housing in central Beirut, illustrating the humanitarian impact of the conflict. The ceasefire represents a modest step toward reducing violence in the region, though underlying tensions and disputes remain unresolved. International mediators continue efforts to broker a more permanent settlement and prevent future escalations along the volatile Israel-Lebanon border.",
+      "sources": [
+        {"name": "NPR", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Global economic growth slows amid renewed inflationary pressures, IMF reports",
+      "summary": "The International Monetary Fund's April 2026 World Economic Outlook reveals that global economic growth is slowing while inflationary pressures are re-emerging across multiple regions. The report indicates that the combination of geopolitical tensions, supply chain disruptions, and commodity price volatility continue to challenge the global economy. Rising inflation threatens central banks' monetary policy objectives and could trigger new rounds of interest rate hikes that further dampen growth prospects. Developing economies face particular vulnerability to capital outflows and currency depreciation. The outlook suggests prolonged economic uncertainty and the need for coordinated policy responses among major economies to prevent deeper slowdowns.",
+      "sources": [
+        {"name": "IMF", "url": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"}
+      ],
+      "tags": ["economy", "climate"]
+    }
+  ]
+}

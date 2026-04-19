@@ -1,0 +1,82 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-19T06:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Ukrainian gunman kills at least six in Kyiv shooting",
+      "summary": "A gunman opened fire in a residential neighborhood in Kyiv on Saturday, killing at least six people and injuring ten others before barricading himself inside a supermarket. Ukrainian President Volodymyr Zelensky announced the incident and confirmed that police killed the suspected attacker during an arrest attempt. The shooting marked one of the deadliest incidents in Ukraine in recent months and raised concerns about civilian safety amid ongoing conflict. Details about the shooter's motives remain unclear at this time. The incident occurred in a populated area of the capital city.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260418-shooter-opens-fire-in-kyiv-district-several-dead-mayor-says"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/18/ukraine-gunman-opens-fire-in-kyiv-killing-several-people-mayor-vitali-klitschko-said"}
+      ],
+      "tags": ["Europe", "Ukraine", "violence"]
+    },
+    {
+      "headline": "Far-right and left-wing leaders hold competing European gatherings",
+      "summary": "Competing political rallies took place across Europe on Saturday as far-right leaders gathered in Milan to discuss immigration and EU regulations, while left-wing leaders convened in Barcelona under Spanish PM Pedro Sánchez and Brazil's Luiz Inácio Lula da Silva to counter the far-right surge. The Milan rally drew thousands of attendees and highlighted the ideological divisions within European politics. The Barcelona gathering focused on strengthening democratic institutions and opposing what participants characterized as threats to democracy. Both events underscored deepening political polarization across the continent.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260418-europe-s-far-right-leaders-gather-in-milan-rally-against-immigration"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260418-sanchez-lula-rally-left-wing-leaders-in-spain-amid-far-right-surge"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/18/europes-patriots-rally-in-milan-against-immigration-while-salvini-backs-russian-oil"}
+      ],
+      "tags": ["politics", "elections", "governance"]
+    },
+    {
+      "headline": "French peacekeeper killed in southern Lebanon amid ceasefire tensions",
+      "summary": "A French UN peacekeeper was killed in southern Lebanon on Sunday, with President Emmanuel Macron blaming Hezbollah for the attack. The Iran-backed militant group denied any connection to the incident. The killing occurred amid heightened tensions over a fragile ten-day ceasefire agreement between Israel and Hezbollah, with Israel accusing the group of ceasefire violations. The death marks a significant escalation in regional tensions and raises questions about the stability of the ceasefire arrangement. France has a significant military and peacekeeping presence in the region through the UN.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/18/lebanon-president-says-his-country-is-in-a-new-phase-after-israel-truce"}
+      ],
+      "tags": ["defence", "diplomacy", "conflict"]
+    },
+    {
+      "headline": "EU biometric border control system causes widespread airport chaos",
+      "summary": "The European Union's new Entry/Exit System (EES) biometric border control system has created significant disruptions at airports across Europe, with passport control times increased by three to four times due to technical glitches. Travelers at major European airports including those in France, Germany, Belgium, Italy, Spain, and Greece have experienced queues lasting several hours. The system, designed to strengthen border security through fingerprint and facial recognition technology, has exposed infrastructure and software challenges that officials fear could worsen during the approaching tourist season. European airport authorities are working to resolve the technical issues and optimize processing procedures.",
+      "sources": [
+        {"name": "The Guardian (via reports)", "url": "https://belgium.news-pravda.com/en/world/2026/04/16/10129.html"}
+      ],
+      "tags": ["regulation", "EU", "governance"]
+    },
+    {
+      "headline": "EU chemical producers seek investigation into Chinese acquisition",
+      "summary": "European chemical manufacturers have formally requested that the European Commission investigate a Chinese group's acquisition of a UK competitor facility, fearing the deal could circumvent existing anti-dumping duties on EU chemical imports. The acquisition raises concerns about economic competition and the application of EU trade protections through third-country backdoor arrangements. The request highlights ongoing tensions between Brussels and Beijing over foreign investment, trade practices, and industrial policy. EU regulators are examining whether the transaction violates foreign investment screening protocols. The case reflects broader European anxiety about Chinese industrial expansion and market access.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/18/exclusive-eu-based-chemical-producers-ask-commission-to-probe-chinese-group-over-deal-in-t"}
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "Ukraine strikes Russian oil facilities as Moscow sustains heavy drone assault",
+      "summary": "Ukrainian forces struck multiple Russian oil refineries with drone operations while simultaneously repelling a large-scale Russian assault involving 219 drones targeting Ukrainian territory. The reciprocal attacks underscore the intensity of military operations across the eastern front despite diplomatic efforts. Ukrainian defense systems successfully intercepted the majority of incoming Russian drones, though some targeted civilian and military infrastructure. Russia continues to focus on degrading Ukrainian energy supplies through refinery attacks and oil facility strikes. The ongoing military campaign demonstrates sustained technological capabilities on both sides despite months of conflict.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/18/moscow-bombards-ukraine-while-kyiv-targets-russian-oil-facilities"}
+      ],
+      "tags": ["conflict", "defence", "Europe"]
+    },
+    {
+      "headline": "French cinema legend Nathalie Baye dies at age 77",
+      "summary": "Acclaimed French actress Nathalie Baye, a prominent figure in French cinema, passed away at the age of 77. President Emmanuel Macron released a statement saying France had 'loved, dreamed and grown up' with the celebrated performer, underscoring her significance in French cultural life. Baye's career spanned decades and included numerous acclaimed performances in French and international films. Her death marks the loss of a major icon of French cinema and culture. Tributes have been paid by cultural figures and government officials across Europe.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o"}
+      ],
+      "tags": ["culture", "Europe"]
+    },
+    {
+      "headline": "British PM Starmer faces resignation calls over controversial US envoy appointment",
+      "summary": "Opposition leaders are demanding British Prime Minister Keir Starmer's resignation following his appointment of Peter Mandelson as US envoy, despite Mandelson's failure to clear security clearance procedures. The appointment has triggered significant political controversy and raised questions about government vetting processes and decision-making standards. Critics argue the appointment represents a serious breach of standard security protocols for sensitive diplomatic positions. The controversy reflects broader tensions within British politics and the government's international relations strategy. Starmer's office has defended the decision as appropriate despite the security clearance concerns.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/18/starmer-faces-calls-to-step-down-after-appointing-epstein-associate"}
+      ],
+      "tags": ["governance", "politics", "EU"]
+    }
+  ]
+}

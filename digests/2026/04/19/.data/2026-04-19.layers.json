@@ -1,0 +1,412 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-19T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Govt thanks UAE for cooperation as Daniel Kinahan apprehended in organised crime breakthrough",
+        "summary": "Irish authorities announced the arrest of Daniel Kinahan, a major organised crime leader, following international collaboration with the United Arab Emirates. The apprehension represents a significant success for Irish law enforcement in tackling serious criminal activity and international drug trafficking networks. Officials acknowledged the crucial role played by UAE cooperation in enabling the arrest. This development follows years of investigations into Kinahan's alleged involvement in organised crime operations. The arrest has implications for dismantling transnational criminal enterprises with Irish connections.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0418/1568880-daniel-kinahan/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics",
+          "international"
+        ]
+      },
+      {
+        "headline": "Taoiseach faces renewed pressure from Fianna F\u00e1il TDs over fuel protest response",
+        "summary": "Irish government ministers pledged support for the Taoiseach amid growing internal party dissent over his handling of recent fuel protests. A number of Fianna F\u00e1il TDs submitted letters requesting meetings to discuss the direction of the party, signaling discontent with the government's response to disruptive fuel blockades. The fuel protests have exposed vulnerabilities in the state's ability to manage coordinated industrial action and raised questions about the government's crisis management approach. Political analysts identified this as a significant challenge to party unity and leadership credibility. The controversy highlights the rising power of decentralised protest movements in Irish politics.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie (WebSearch fallback)",
+            "url": "https://www.breakingnews.ie/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/opinion/commentanalysis/arid-41829029.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "social"
+        ]
+      },
+      {
+        "headline": "Hundreds protest in Dublin to protect Ireland's neutrality amid Middle East tensions",
+        "summary": "Demonstrators gathered in Dublin's city centre to demand that Ireland's military neutrality be protected in light of escalating tensions in the Middle East. Protesters condemned US-Israeli military actions against Iran and called for a public referendum on Ireland's Triple Lock constitutional provision governing military participation. The rally reflects growing public concern about Ireland's potential entanglement in international conflicts and the implications of deeper NATO or US alliance involvement. The neutrality debate intersects with Ireland's EU presidency responsibilities and strategic positioning in European security architecture. This represents a significant grassroots mobilisation around constitutional and foreign policy issues.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/18/hundreds-demonstrate-in-dublin-to-demand-irelands-neutrality-be-protected/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence",
+          "social"
+        ]
+      },
+      {
+        "headline": "President convenes Council of State to examine constitutionality of International Protection Bill",
+        "summary": "The President of Ireland convened the Council of State to assess the constitutional validity of the proposed International Protection Bill 2026. This formal procedure allows for expert examination of the Bill's compliance with the Irish Constitution before potential enactment. The International Protection Bill addresses asylum and refugee policy, an increasingly significant area of Irish and European policy debate. The Council of State's involvement indicates potential constitutional sensitivities around the legislation. The outcome of this review will influence how Ireland proceeds with immigration and protection policy reform.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie (WebSearch fallback)",
+            "url": "https://www.breakingnews.ie/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "social",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Waterford IT cybersecurity firm secures \u20ac13.2m investment, creating 125 new jobs",
+        "summary": "An information technology company based in Waterford announced a \u20ac13.2 million investment, with plans to create 125 new positions in cybersecurity and artificial intelligence sectors. The investment reflects growing demand for specialised tech talent in emerging fields and demonstrates corporate confidence in the Irish economy and talent pool. The expansion will strengthen Waterford's position as a regional technology hub outside Dublin's dominant tech sector. The jobs will focus on high-value cybersecurity and AI expertise, addressing critical skills gaps in Ireland's digital economy. This development contributes to regional economic diversification and foreign direct investment in Ireland's tech sector.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie (WebSearch fallback)",
+            "url": "https://www.breakingnews.ie/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "social"
+        ]
+      },
+      {
+        "headline": "Are fuel protestors right? Ireland considers energy sovereignty through offshore drilling debate",
+        "summary": "Irish policymakers and the public are engaged in debate over whether Ireland should pursue offshore oil and gas drilling, prompted by recent fuel protests. Various analyses suggest billions of barrels' worth of hydrocarbon reserves could exist beneath Irish seabed, raising questions about national energy independence and economic opportunity. The fuel blockades have highlighted Ireland's vulnerability to supply disruptions and reliance on imported fuel, intensifying discussion around domestic energy production capacity. The drilling debate intersects with climate policy commitments, environmental protection, and long-term energy strategy. This discussion reflects competing priorities between energy sovereignty, economic development, and environmental stewardship.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/should-ireland-drill-for-oil-7016295-Apr2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Northern Ireland investment fund accused of indirectly financing Israeli military aircraft manufacturing",
+        "summary": "A Northern Ireland investment arm faced legal scrutiny over allegations that its investment portfolio includes stakes in companies involved in manufacturing Israeli F-35 fighter aircraft. A court examined whether the fund's indirect financing of international arms manufacturing and potentially associated human rights concerns should be permitted under investment principles. The case raises questions about ethical investment responsibility, corporate accountability in arms supply chains, and cross-border regulatory frameworks. The dispute highlights tensions between financial returns and moral responsibility in institutional investment decisions. This represents a significant cross-border Irish issue touching on international law, investment ethics, and human rights concerns.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/04/18/northern-ireland-investment-arm-accused-of-helping-fund-israeli-f-35-fighter-aircraft/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "German Chancellor Merz expresses confidence in Ireland's readiness for EU presidency",
+        "summary": "German Chancellor Friedrich Merz publicly stated his assessment that Ireland is well-prepared for its upcoming European Union presidency, despite acknowledged security concerns facing the EU. Merz's endorsement reflects confidence in Irish institutional capacity and diplomatic readiness to manage EU affairs during a period of geopolitical uncertainty. The statement comes amid broader discussions about European defence and security architecture in the context of international tensions. Ireland's EU presidency represents a significant moment for Irish diplomacy and European leadership at a time of strategic challenges. The German support signals cross-border backing for Ireland's presidency agenda and institutional capabilities.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie (WebSearch fallback)",
+            "url": "https://www.breakingnews.ie/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "EU",
+          "defence"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-19T06:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Ukrainian gunman kills at least six in Kyiv shooting",
+        "summary": "A gunman opened fire in a residential neighborhood in Kyiv on Saturday, killing at least six people and injuring ten others before barricading himself inside a supermarket. Ukrainian President Volodymyr Zelensky announced the incident and confirmed that police killed the suspected attacker during an arrest attempt. The shooting marked one of the deadliest incidents in Ukraine in recent months and raised concerns about civilian safety amid ongoing conflict. Details about the shooter's motives remain unclear at this time. The incident occurred in a populated area of the capital city.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260418-shooter-opens-fire-in-kyiv-district-several-dead-mayor-says"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/18/ukraine-gunman-opens-fire-in-kyiv-killing-several-people-mayor-vitali-klitschko-said"
+          }
+        ],
+        "tags": [
+          "Europe",
+          "Ukraine",
+          "violence"
+        ]
+      },
+      {
+        "headline": "Far-right and left-wing leaders hold competing European gatherings",
+        "summary": "Competing political rallies took place across Europe on Saturday as far-right leaders gathered in Milan to discuss immigration and EU regulations, while left-wing leaders convened in Barcelona under Spanish PM Pedro S\u00e1nchez and Brazil's Luiz In\u00e1cio Lula da Silva to counter the far-right surge. The Milan rally drew thousands of attendees and highlighted the ideological divisions within European politics. The Barcelona gathering focused on strengthening democratic institutions and opposing what participants characterized as threats to democracy. Both events underscored deepening political polarization across the continent.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260418-europe-s-far-right-leaders-gather-in-milan-rally-against-immigration"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260418-sanchez-lula-rally-left-wing-leaders-in-spain-amid-far-right-surge"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/18/europes-patriots-rally-in-milan-against-immigration-while-salvini-backs-russian-oil"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "governance"
+        ]
+      },
+      {
+        "headline": "French peacekeeper killed in southern Lebanon amid ceasefire tensions",
+        "summary": "A French UN peacekeeper was killed in southern Lebanon on Sunday, with President Emmanuel Macron blaming Hezbollah for the attack. The Iran-backed militant group denied any connection to the incident. The killing occurred amid heightened tensions over a fragile ten-day ceasefire agreement between Israel and Hezbollah, with Israel accusing the group of ceasefire violations. The death marks a significant escalation in regional tensions and raises questions about the stability of the ceasefire arrangement. France has a significant military and peacekeeping presence in the region through the UN.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/18/lebanon-president-says-his-country-is-in-a-new-phase-after-israel-truce"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "EU biometric border control system causes widespread airport chaos",
+        "summary": "The European Union's new Entry/Exit System (EES) biometric border control system has created significant disruptions at airports across Europe, with passport control times increased by three to four times due to technical glitches. Travelers at major European airports including those in France, Germany, Belgium, Italy, Spain, and Greece have experienced queues lasting several hours. The system, designed to strengthen border security through fingerprint and facial recognition technology, has exposed infrastructure and software challenges that officials fear could worsen during the approaching tourist season. European airport authorities are working to resolve the technical issues and optimize processing procedures.",
+        "sources": [
+          {
+            "name": "The Guardian (via reports)",
+            "url": "https://belgium.news-pravda.com/en/world/2026/04/16/10129.html"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU chemical producers seek investigation into Chinese acquisition",
+        "summary": "European chemical manufacturers have formally requested that the European Commission investigate a Chinese group's acquisition of a UK competitor facility, fearing the deal could circumvent existing anti-dumping duties on EU chemical imports. The acquisition raises concerns about economic competition and the application of EU trade protections through third-country backdoor arrangements. The request highlights ongoing tensions between Brussels and Beijing over foreign investment, trade practices, and industrial policy. EU regulators are examining whether the transaction violates foreign investment screening protocols. The case reflects broader European anxiety about Chinese industrial expansion and market access.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/18/exclusive-eu-based-chemical-producers-ask-commission-to-probe-chinese-group-over-deal-in-t"
+          }
+        ],
+        "tags": [
+          "trade",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Ukraine strikes Russian oil facilities as Moscow sustains heavy drone assault",
+        "summary": "Ukrainian forces struck multiple Russian oil refineries with drone operations while simultaneously repelling a large-scale Russian assault involving 219 drones targeting Ukrainian territory. The reciprocal attacks underscore the intensity of military operations across the eastern front despite diplomatic efforts. Ukrainian defense systems successfully intercepted the majority of incoming Russian drones, though some targeted civilian and military infrastructure. Russia continues to focus on degrading Ukrainian energy supplies through refinery attacks and oil facility strikes. The ongoing military campaign demonstrates sustained technological capabilities on both sides despite months of conflict.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/18/moscow-bombards-ukraine-while-kyiv-targets-russian-oil-facilities"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "Europe"
+        ]
+      },
+      {
+        "headline": "French cinema legend Nathalie Baye dies at age 77",
+        "summary": "Acclaimed French actress Nathalie Baye, a prominent figure in French cinema, passed away at the age of 77. President Emmanuel Macron released a statement saying France had 'loved, dreamed and grown up' with the celebrated performer, underscoring her significance in French cultural life. Baye's career spanned decades and included numerous acclaimed performances in French and international films. Her death marks the loss of a major icon of French cinema and culture. Tributes have been paid by cultural figures and government officials across Europe.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o"
+          }
+        ],
+        "tags": [
+          "culture",
+          "Europe"
+        ]
+      },
+      {
+        "headline": "British PM Starmer faces resignation calls over controversial US envoy appointment",
+        "summary": "Opposition leaders are demanding British Prime Minister Keir Starmer's resignation following his appointment of Peter Mandelson as US envoy, despite Mandelson's failure to clear security clearance procedures. The appointment has triggered significant political controversy and raised questions about government vetting processes and decision-making standards. Critics argue the appointment represents a serious breach of standard security protocols for sensitive diplomatic positions. The controversy reflects broader tensions within British politics and the government's international relations strategy. Starmer's office has defended the decision as appropriate despite the security clearance concerns.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/18/starmer-faces-calls-to-step-down-after-appointing-epstein-associate"
+          }
+        ],
+        "tags": [
+          "governance",
+          "politics",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-19T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Iran closes Strait of Hormuz, halts US talks as Middle East tensions escalate",
+        "summary": "Iran's Islamic Revolutionary Guard Corps announced the Strait of Hormuz has been closed and will remain shut until the US ceases blockading Iranian ports, marking a significant escalation in regional tensions. Iranian Deputy Foreign Minister Saeed Khatibzadeh stated that no date has been set for negotiations with the United States, citing Washington's refusal to abandon \"maximalist\" demands as a key obstacle. The closure of this critical shipping waterway through which a significant portion of global oil passes represents a major geopolitical flashpoint. This comes amid broader Middle East instability, including recent Israel-Lebanon ceasefire agreements. The development underscores the fragility of diplomatic efforts and the potential for economic disruption to global energy markets.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "North Korea conducts seventh ballistic missile test of 2026",
+        "summary": "North Korea launched multiple ballistic missiles toward the sea off its east coast in the latest weapons test, marking the seventh such ballistic missile launch this year. The missiles were fired from the Sinpo area in eastern North Korea. The repeated tests demonstrate Pyongyang's commitment to advancing its military capabilities despite international sanctions and diplomatic isolation. Each test provides technical data to improve the regime's arsenal and extends the range and reliability of its weapons systems. The launches are likely intended to display strength ahead of potential negotiations and assert North Korea's status as a nuclear power.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast"
+          },
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUNKM1Vad2RNTThEaGpxUElvdWZEb09pY2ZiR25yNXJUQ0tZZTVCOXNXalJmdExXMlFQWkp5WGdTWGgzMmlhVjhtRnRyVU9ucW5vN3F2WkduMDZHMERMaUZEMUROR1JWbHR3N2R4OVJBcUJfZmRGd2dndWtsTlo4dWdzQ2tJVmdvT0R6ZjFlYnppZHRpN3lOMXpxTGtxdw"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "French peacekeeper killed in southern Lebanon amid regional tensions",
+        "summary": "A French peacekeeper serving as part of the UN peacekeeping mission in southern Lebanon was killed in an attack on April 19, 2026. French President Emmanuel Macron blamed Hezbollah for the incident, though the Iran-backed armed group denied \"any connection\" to the killing. The attack highlights the dangerous environment faced by international peacekeepers in the region amid ongoing Israeli-Lebanese tensions. France maintains a commitment to the UN's peacekeeping operations in Lebanon, which are designed to prevent cross-border conflict between Israel and Hezbollah. The incident underscores the fragile security situation along the Israel-Lebanon border and the challenges of maintaining peace in one of the Middle East's most volatile regions.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Humanoid robots outpace humans in Beijing half-marathon, demonstrating rapid technological advances",
+        "summary": "In a notable demonstration of progress in robotics and artificial intelligence, humanoid robots completed a half-marathon race in Beijing faster than the human participants, according to reports on April 19, 2026. The achievement represents a significant milestone in the development of bipedal robotic systems capable of sustained physical performance comparable to or exceeding human athletic capability. The feat highlights China's investment in advanced robotics and autonomous systems technology. The robots' superior performance in endurance racing suggests rapid progress in areas including motor control, energy efficiency, and overall mechanical reliability. This development has implications for future applications of humanoid robots in labor-intensive industries and raises questions about the pace of technological disruption in human-centered fields.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkctZm8yRDBvMEszWklVUVNDZHNkUkpJQ3oxZGxrdXE2ZjItdWp0dFM0THZsakUyNFdJd2ZuSzhtMXRmNTE4elcwenFmTkRSWE5nMmNtSmNMaU5IOTlEMkZYT2VyUXNUWHNRMVc4WjQwM2d0bFhNLVpNMFRLR0JPT2JZWU14UlVsU2ZOY0FpdHF1dkJWZVNnOVkweWsyWEt6X3duZGQ3SDdhbHJfR282M0k3REZHYVY5S1NPXw?oc=5"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Mass shooting in Ukraine's capital kills six, injures 14 as gunman is neutralized",
+        "summary": "A gunman opened fire in Ukraine's capital city, killing six people and injuring at least 14 others before being shot and killed by police. The incident represents a significant security incident during a period of heightened tension in Ukraine due to ongoing military conflict with Russia. Emergency services responded quickly to apprehend the shooter, preventing further casualties. The attack has raised concerns about security in Ukrainian cities and the psychological toll of prolonged conflict on civilians. Investigations into the shooter's motives and any potential connections to the broader conflict are ongoing.",
+        "sources": [
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Israel and Lebanon agree to 10-day ceasefire as regional tensions moderate temporarily",
+        "summary": "Israel and Lebanon reached an agreement on a 10-day ceasefire beginning April 16, 2026, as diplomatic efforts seek to de-escalate cross-border tensions between the two nations. The temporary halt in hostilities provides a window for negotiations and humanitarian relief in border communities. Women displaced from southern Lebanon have relocated temporarily to vacant housing in central Beirut, illustrating the humanitarian impact of the conflict. The ceasefire represents a modest step toward reducing violence in the region, though underlying tensions and disputes remain unresolved. International mediators continue efforts to broker a more permanent settlement and prevent future escalations along the volatile Israel-Lebanon border.",
+        "sources": [
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Global economic growth slows amid renewed inflationary pressures, IMF reports",
+        "summary": "The International Monetary Fund's April 2026 World Economic Outlook reveals that global economic growth is slowing while inflationary pressures are re-emerging across multiple regions. The report indicates that the combination of geopolitical tensions, supply chain disruptions, and commodity price volatility continue to challenge the global economy. Rising inflation threatens central banks' monetary policy objectives and could trigger new rounds of interest rate hikes that further dampen growth prospects. Developing economies face particular vulnerability to capital outflows and currency depreciation. The outlook suggests prolonged economic uncertainty and the need for coordinated policy responses among major economies to prevent deeper slowdowns.",
+        "sources": [
+          {
+            "name": "IMF",
+            "url": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate"
+        ]
+      }
+    ]
+  }
+}
