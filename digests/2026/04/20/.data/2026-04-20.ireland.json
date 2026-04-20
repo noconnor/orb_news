@@ -1,0 +1,38 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-20T06:01:23Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Call for new system to reduce uninsured vehicles on Irish roads",
+      "summary": "The Motor Insurers' Bureau of Ireland (MIBI) is calling for the introduction of a new system to help reduce the number of uninsured vehicles on Irish roads, with one in 15 vehicles reportedly uninsured. The insurance industry is seeking administrative and policing methods to improve compliance with mandatory vehicle coverage requirements. This follows ongoing concerns about uninsured driving across the country. The issue represents a significant risk to road safety and legitimate road users. The proposed system would aim to enforce continuous vehicle coverage through more effective detection and enforcement mechanisms.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0420/1569077-system-uninsured-drivers/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/20/one-in-15-vehicles-in-ireland-is-uninsured-says-industry-as-it-seeks-new-policing-method/"}
+      ],
+      "tags": ["economy", "transport", "policy"]
+    },
+    {
+      "headline": "GRA conference to hear calls to tackle threats against gardaí",
+      "summary": "Members of An Garda Síochána are calling for an agreed policy to be drafted to target people issuing direct and personal threats against gardaí members. The issue will be discussed at the Garda Representative Association (GRA) conference. Threats against police officers have become an increasing concern within law enforcement. The proposed policy would establish a coordinated approach to addressing such threats. This reflects broader challenges faced by the force in maintaining officer safety and morale.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0420/1569056-threats-against-gardai/"}
+      ],
+      "tags": ["crime", "politics", "defence"]
+    },
+    {
+      "headline": "Dublin housing crisis deepens as landlords rent rooms in converted offices",
+      "summary": "A former Clare Street office building in Dublin 2 now houses up to 22 people paying up to €890 for bed spaces in a multi-occupancy arrangement. The conversion highlights the severe shortage of affordable housing in Dublin's city centre. Landlords are operating in increasingly difficult financial conditions, according to reports. The arrangement reflects the desperation of renters seeking accommodation in an expensive market. The situation underscores ongoing pressures on Dublin's housing supply and rental affordability.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/clare-street-dublin-bed-spaces-7007748-Apr2026/"}
+      ],
+      "tags": ["housing", "social", "economy"]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-20T06:01:23Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Call for new system to reduce uninsured vehicles on Irish roads",
+        "summary": "The Motor Insurers' Bureau of Ireland (MIBI) is calling for the introduction of a new system to help reduce the number of uninsured vehicles on Irish roads, with one in 15 vehicles reportedly uninsured. The insurance industry is seeking administrative and policing methods to improve compliance with mandatory vehicle coverage requirements. This follows ongoing concerns about uninsured driving across the country. The issue represents a significant risk to road safety and legitimate road users. The proposed system would aim to enforce continuous vehicle coverage through more effective detection and enforcement mechanisms.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0420/1569077-system-uninsured-drivers/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/20/one-in-15-vehicles-in-ireland-is-uninsured-says-industry-as-it-seeks-new-policing-method/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "transport",
+          "policy"
+        ]
+      },
+      {
+        "headline": "GRA conference to hear calls to tackle threats against garda\u00ed",
+        "summary": "Members of An Garda S\u00edoch\u00e1na are calling for an agreed policy to be drafted to target people issuing direct and personal threats against garda\u00ed members. The issue will be discussed at the Garda Representative Association (GRA) conference. Threats against police officers have become an increasing concern within law enforcement. The proposed policy would establish a coordinated approach to addressing such threats. This reflects broader challenges faced by the force in maintaining officer safety and morale.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0420/1569056-threats-against-gardai/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Dublin housing crisis deepens as landlords rent rooms in converted offices",
+        "summary": "A former Clare Street office building in Dublin 2 now houses up to 22 people paying up to \u20ac890 for bed spaces in a multi-occupancy arrangement. The conversion highlights the severe shortage of affordable housing in Dublin's city centre. Landlords are operating in increasingly difficult financial conditions, according to reports. The arrangement reflects the desperation of renters seeking accommodation in an expensive market. The situation underscores ongoing pressures on Dublin's housing supply and rental affordability.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/clare-street-dublin-bed-spaces-7007748-Apr2026/"
+          }
+        ],
+        "tags": [
+          "housing",
+          "social",
+          "economy"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-20T07:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Bulgaria's Radev wins parliamentary election, signalling shift in EU politics",
+        "summary": "Former President Rumen Radev's centre-left Progressive Bulgaria party secured a decisive victory in parliamentary elections on April 19-20, with early results showing 45% support compared to 12.5% for the opposition GERB party. This is Bulgaria's eighth election in five years, following political instability and mass protests. Radev, a eurosceptic who has repeatedly opposed military aid to Ukraine and called for dialogue with Russia, is now positioned to become prime minister. His victory marks a significant shift in Bulgarian politics and adds complexity to EU decision-making, as his government is likely to oppose some EU foreign policy positions, particularly regarding Ukraine support. The election reflects broader European tensions between pro-EU centrist forces and those skeptical of aggressive EU foreign policy.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/04/19/bulgaria-exit-polls-former-president-rumen-radev-set-to-win-parliamentary-vote"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-19/bulgarian-russia-sympathizer-radev-secures-decisive-election-win"
+          }
+        ],
+        "tags": [
+          "elections",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU biometric border system causes chaos at airports across Europe",
+        "summary": "The newly implemented Entry/Exit System (EES) for biometric border control has created severe disruptions at airports across Europe, with passengers facing queues lasting 3-4 hours to pass through customs. The system, which replaced manual passport stamping across Schengen countries and associated nations, became operational on April 10, 2026. Airports in France, Germany, Belgium, Italy, Spain, and Greece report significant delays, raising concerns ahead of the upcoming tourist season. The European Commission has disputed reports of widespread problems, claiming the process typically takes about 70 seconds, but on-the-ground reports tell a different story. The technical issues threaten to undermine one of Europe's key achievements\u2014the Schengen free movement area\u2014and may require urgent intervention to prevent further disruptions.",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://belgium.news-pravda.com/en/world/2026/04/16/10130.html"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU population projected to fall by 12% by 2100 amid aging crisis",
+        "summary": "The European Union faces a dramatic demographic shift, with projections showing the EU population will decline by 53 million people by 2100, representing a 12% reduction. According to Euronews analysis of demographic data, by the end of the century, one in three Europeans will be over 65 years old, fundamentally reshaping the continent's economic and social structure. Immigration plays a crucial role in explaining demographic variations between nations, with some countries facing steeper population declines than others. This demographic transition has profound implications for the EU's workforce, pension systems, healthcare infrastructure, and economic competitiveness. The projections underscore the urgency of EU policies addressing aging populations, immigration integration, and workforce sustainability.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/health/2026/04/20/eu-population-to-fall-by-12-by-2100-which-countries-will-decline-the-most"
+          }
+        ],
+        "tags": [
+          "climate",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU co-legislators reach deal to protect European steel industry from global overcapacity",
+        "summary": "The European Council and European Parliament have struck a provisional agreement on new regulations designed to protect the EU steel industry from the effects of global overcapacity. The deal represents coordinated EU action to strengthen the competitiveness and resilience of Europe's critical steel sector amid international trade pressures. This agreement comes as EU policymakers grapple with economic challenges and the need to maintain strategic industrial capacity within Europe. The protective measures are intended to shield European steel producers while maintaining compliance with international trade frameworks. This development reflects growing EU concerns about industrial competitiveness and the need for coordinated policy responses to global economic competition.",
+        "sources": [
+          {
+            "name": "European Council",
+            "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/13/council-and-european-parliament-strike-deal-to-protect-eu-s-steel-industry-from-global-overcapacity/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EPP Group pushes for 10% EU budget increase and enhanced security measures",
+        "summary": "The European People's Party (EPP) Group is calling for a 10% increase in the EU's long-term budget (Multiannual Financial Framework) and demanding swift adoption of enhanced security measures amid escalating geopolitical tensions involving Iran in the Middle East. The EPP Group is pressing the European Parliament to vote on the next MFF framework during the April plenary session to secure the funding increases. Additionally, the EPP is advocating for decisive European action to protect EU security interests as part of an informal EU summit scheduled for April 23-24. This push reflects growing concerns within Europe about security threats and the need for adequate financial resources to respond to geopolitical challenges. The budget debate underscores tensions within EU decision-making between fiscal conservatives and those advocating for increased European strategic autonomy.",
+        "sources": [
+          {
+            "name": "EPP Group",
+            "url": "https://www.eppgroup.eu/newsroom/the-week-ahead-april-20-24-2026"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Hungary's pro-EU candidate defeats Orb\u00e1n, marking major shift in European politics",
+        "summary": "Hungary held parliamentary elections resulting in a decisive victory for a pro-EU candidate over Viktor Orb\u00e1n, a Russia-friendly politician who had wielded considerable influence within EU decision-making. European leaders including German Chancellor Angela Merkel, French President Emmanuel Macron, Polish Prime Minister Donald Tusk, and European Commission President Ursula von der Leyen congratulated the winning candidate on the result. Orb\u00e1n's defeat is celebrated across the EU as a victory for democratic values and closer European integration, though questions remain about Hungary's political future. Hungary has exercised the EU veto more frequently than any other member state, with 21 of the 48 vetoes cast by EU countries coming from Budapest over recent years. This election result suggests potential changes to Hungary's blocking positions within EU decision-making and may facilitate smoother EU policy coordination on Ukraine, defense, and other strategic issues.",
+        "sources": [
+          {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html"
+          },
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/04/13/e-u-revels-in-defeat-of-hungary-s-viktor-orban-trump-ally-who-defied-brussels"
+          }
+        ],
+        "tags": [
+          "elections",
+          "EU",
+          "defence"
+        ]
+      },
+      {
+        "headline": "EU launches age verification app to protect children online",
+        "summary": "The European Union has developed and deployed a user-friendly age verification application designed to protect children from inappropriate online content. The app allows users to prove their age when accessing online services by using official identification documents such as passports or ID cards. The system operates anonymously, works across all devices, and is built on open-source technology, ensuring privacy while maintaining security. This initiative represents the EU's commitment to digital safety and child protection in the online sphere. The tool enables parents, platforms, and regulators to work together more effectively to create safer digital environments for young people, aligning with broader EU regulatory frameworks around digital services and child safety.",
+        "sources": [
+          {
+            "name": "European Union News",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "EU",
+          "governance"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-20T05:00:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US seizes Iranian cargo ship in Strait of Hormuz; Tehran vows swift response",
+        "summary": "The United States Navy seized an Iranian-flagged cargo ship near the Strait of Hormuz on April 19, marking a significant military escalation amid ongoing US-Iran tensions. Iran's government condemned the action as piracy and vowed a swift response, with the incident occurring hours after the US President announced plans to send a diplomatic team to Pakistan for peace talks. The seizure has intensified geopolitical instability in one of the world's most critical maritime chokepoints, through which a significant portion of global oil supplies passes daily. The incident follows the US and Israeli attacks on Iran on February 28, and has sparked concerns about the broader Middle East peace process. Markets have reacted volatility to the seizure, with oil prices experiencing sharp fluctuations and concerns growing about potential further escalation.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXBYREl4Q2RERUhiN1RsQ3VjME95MDhjTXNtYjFzMWo1XzFsd0puZ21EUkxVTTNvS2tKekp1ZERHQUJJeWU3S1hVRjk0YWRodlVXZW10bW9oVFA0VURUd2REQ2NGc0lMSUx1dzR2RzVRUDczazBrdXZuNUY2am9MSjIzbzZ1dDZfd0pGSUc0TDRnRlc2LXF6ZEI4VlRPTU1QeS1qd2tKb3hHcm1MSGEySXBxWktxZDJ2Mng0dDJDMUZOU0U"
+          },
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXBYREl4Q2RERUhiN1RsQ3VjME95MDhjTXNtYjFzMWo1XzFsd0puZ21EUkxVTTNvS2tKekp1ZERHQUJJeWU3S1hVRjk0YWRodlVXZW10bW9oVFA0VURUd2REQ2NGc0lMSUx1dzR2RzVRUDczazBrdXZuNUY2am9MSjIzbzZ1dDZfd0pGSUc0TDRnRlc2LXF6ZEI4VlRPTU1QeS1qd2tKb3hHcm1MSGEySXBxWktxZDJ2Mng0dDJDMUZOU0U"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5yjzy35825o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Oil prices surge amid US-Iran tensions and mixed ceasefire signals",
+        "summary": "Global oil markets experienced significant volatility as the US seizure of an Iranian cargo ship near the Strait of Hormuz coincided with conflicting reports from Washington and Tehran about ceasefire negotiations. Brent crude rose more than 7 percent in response to the seizure, reflecting investor concerns about potential supply disruptions from the world's most critical maritime chokepoint. The price movements underscore the sensitivity of global energy markets to Middle East geopolitical developments and demonstrate how military actions can cascade into economic consequences across all sectors dependent on stable energy costs. This latest surge follows months of unstable oil markets since the US and Israel attacked Iran on February 28, creating persistent uncertainty for producers and consumers worldwide. Governments around the world have been forced to implement measures such as fuel rations and subsidies to mitigate the impact of rising energy prices on their citizens.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzk2N1VxOGtVVVJ0Y21yQnlOcjlOX3BhUUoyRDB6OVRhWndlcmUtdUZDcHpmcUhDanRGU3h0bm1QVmZBX3hzbmJfNVJjUFRISDJBOHhTdzQ0SXRXNjE0OW5WcE41QjY5OWg1ZDdpeXlrVDlndTE1ZXhFYWZCaHVGNm56ekprdGU4TXRtV2VDc2Q4TXBsT2t0MmYtOHJpV3dGam5PS29aTQ"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5yjzy35825o"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Humanoid robot sprints to victory in Beijing half-marathon, breaking human world record",
+        "summary": "A humanoid robot successfully completed a competitive half-marathon in Beijing, achieving a time that surpassed the human world record for the distance. This technological breakthrough represents a significant milestone in robotics and autonomous systems, demonstrating advances in machine performance, endurance algorithms, and physical engineering. The achievement raises important questions about the future of human-machine competition in sports and broader implications for automation capabilities across various industries. The robot's victory marks a moment of convergence between human athletic achievement and artificial intelligence development, symbolizing the accelerating pace of technological progress globally. The event has garnered international attention as a demonstration of China's technological advancement and the future of human-robot interaction in competitive contexts.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXBYREl4Q2RERUhiN1RsQ3VjME95MDhjTXNtYjFzMWo1XzFsd0puZ21EUkxVTTNvS2tKekp1ZERHQUJJeWU3S1hVRjk0YWRodlVXZW10bW9oVFA0VURUd2REQ2NGc0lMSUx1dzR2RzVRUDczazBrdXZuNUY2am9MSjIzbzZ1dDZfd0pGSUc0TDRnRlc2LXF6ZEI4VlRPTU1QeS1qd2tKb3hHcm1MSGEySXBxWktxZDJ2Mng0dDJDMUZOU0U"
+          }
+        ],
+        "tags": [
+          "technology",
+          "innovation",
+          "asia"
+        ]
+      },
+      {
+        "headline": "Israeli soldier desecrates Jesus Christ statue in Lebanon, sparking international outrage",
+        "summary": "A photograph showing an Israeli soldier damaging a religious statue of Jesus Christ in southern Lebanon has sparked widespread condemnation and outrage across the Muslim world and among Christian communities globally. The incident represents a continuation of heightened tensions along the Israel-Lebanon border and raises concerns about cultural and religious desecration amid ongoing conflict. The desecration has been criticized as a violation of religious respect and has amplified existing regional tensions, with critics citing the symbolic nature of the act in a conflict already marked by deep sectarian divisions. International observers have noted the incident as emblematic of broader challenges in maintaining humanitarian standards and respect for religious sites during military conflicts. The event has drawn attention from religious leaders and human rights organizations worldwide, contributing to calls for greater protection of cultural heritage during armed conflicts.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/outrage-after-israeli-soldier-desecrates-statue-of-jesus-christ-in-lebanon"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "religion",
+          "middle-east"
+        ]
+      },
+      {
+        "headline": "Pope Francis visits Angola, prays at historic shrine with colonial slave trade connections",
+        "summary": "Pope Francis traveled to Angola where he prayed at a significant Catholic shrine that served as a center of the African slave trade during the colonial period. The visit carries deep symbolic weight, acknowledging both the spiritual significance of the site and its dark historical role in one of humanity's greatest humanitarian tragedies. The papal visit provides an opportunity for reflection on the legacy of colonialism and slavery in Africa, and represents the Catholic Church's effort to confront historical injustices and promote reconciliation across the African continent. The pilgrimage underscores the Pope's broader mission to advance spiritual healing and dialogue within regions marked by historical trauma. Francis has emphasized throughout his papacy the Church's responsibility to acknowledge and address historical wrongs, making this visit part of a larger effort to foster understanding and healing across generations and cultures.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXBYREl4Q2RERUhiN1RsQ3VjME95MDhjTXNtYjFzMWo1XzFsd0puZ21EUkxVTTNvS2tKekp1ZERHQUJJeWU3S1hVRjk0YWRodlVXZW10bW9oVPA0VURUd2REQ2NGc0lMSUx1dzR2RzVRUDczazBrdXZuNUY2am9MSjIzbzZ1dDZfd0pGSUc0TDRnRlc2LXF6ZEI4VlRPTU1QeS1qd2tKb3hHcm1MSGEySXBxWktxZDJ2Mng0dDJDMUZOU0U"
+          }
+        ],
+        "tags": [
+          "religion",
+          "diplomacy",
+          "africa"
+        ]
+      },
+      {
+        "headline": "Bulgaria's Progressive Bulgaria wins landslide victory in parliamentary elections",
+        "summary": "Bulgaria's general parliamentary election resulted in a significant victory for the Progressive Bulgaria party, which secured approximately 45 percent of votes, far outpacing the liberal PP-DB coalition which garnered only 15 percent. The election outcome reflects substantial shifts in Bulgarian voter preferences and political alignment within the European Union. The decisive result suggests major changes in Bulgaria's domestic policy direction and could influence the country's broader approach to EU governance and international relations. Early results indicate a significant mandate for progressive policies, representing a notable moment in recent Eastern European politics. The election outcome may have implications for Bulgaria's participation in EU initiatives and its internal economic and social policy priorities.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "europe"
+        ]
+      },
+      {
+        "headline": "US military raises maximum enlistment age to 42 amid recruiting challenges",
+        "summary": "The United States Army announced it has increased the maximum age limit for military enlistment to 42 years old, a significant policy change aimed at addressing ongoing recruitment shortfalls. The modification reflects challenges the military has faced in attracting sufficient numbers of qualified personnel through traditional recruitment channels and demographics. The policy change represents a strategic effort to expand the eligible recruitment pool and respond to evolving staffing requirements across the armed services. Higher enlistment age limits may attract individuals transitioning from other careers or those seeking new opportunities later in life, potentially broadening the military's access to experienced personnel. The change signals acknowledgment of demographic pressures on military recruitment and reflects broader discussions globally about workforce composition and aging populations in developed nations.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42"
+          }
+        ],
+        "tags": [
+          "military",
+          "policy",
+          "defense"
+        ]
+      }
+    ]
+  }
+}

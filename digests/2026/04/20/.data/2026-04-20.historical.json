@@ -1,0 +1,52 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US seizes Iranian cargo ship in Strait of Hormuz; Tehran vows swift response",
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War and the 1973 Oil Crisis (synthesis)",
+      "date_range": "1973–1988",
+      "summary": "The current crisis draws on a deep well of historical precedent for great-power confrontation over Gulf shipping lanes and their consequences for global energy markets. During the 1973 Arab Oil Embargo, OPEC nations cut off exports to the United States in retaliation for US support of Israel during the Yom Kippur War, causing oil prices to quadruple and triggering recessions across the industrialised world. A decade later, the Iran-Iraq War produced the so-called Tanker War of 1984–1988, during which both belligerents deliberately attacked neutral oil tankers in the Gulf; the United States eventually reflagged Kuwaiti tankers and deployed naval escorts, culminating in direct US-Iranian naval clashes. The 1980 Operation Eagle Claw — the aborted US hostage-rescue mission — remains a cautionary tale about the fog of operations conducted at the edge of two countries' willingness to risk open war. The Suez Crisis of 1956 offers a parallel from a different angle: a seizure of a strategically vital waterway that set off a military intervention only to be reversed under great-power pressure.",
+      "parallel_analysis": "What today's confrontation shares with all of these episodes is the fundamental brittleness of arrangements that channel vast volumes of energy through a small number of physical bottlenecks: once a great power signals willingness to use or contest control of those bottlenecks, the cascading economic and diplomatic consequences are extremely difficult to contain. The seizure of an Iranian civilian cargo vessel mirrors the escalatory logic of the Tanker War, where individual incidents rapidly drew in outside powers and threatened to transform a regional conflict into a broader confrontation. The 7 percent Brent crude surge following the seizure echoes the oil-price shock dynamics documented across all of these historical episodes.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Hungary's pro-EU candidate defeats Orbán, marking major shift in European politics",
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "Eastern European Democratic Transitions and the Popular Front (synthesis)",
+      "date_range": "1930s–2000",
+      "summary": "Hungary's election sits within a broader European pattern of political contestation between pro-European and nationalist, Russia-adjacent forces. The Popular Front movements of the 1930s attempted to build broad democratic coalitions against the rise of fascism across Europe, with varying success. The Hungarian Revolution of 1956 demonstrated both the depth of popular desire for autonomy from Soviet domination and the brutal limits imposed by great-power spheres of influence. The 1989 Polish parliamentary election and the Romanian Revolution showed how rapidly apparently entrenched authoritarian governments could collapse once a critical mass of the electorate decided to act. More recently, the October 5th Revolution in Serbia in 2000 illustrated how a determined civil society movement, supported by a united opposition, could dislodge a deeply entrenched populist leader.",
+      "parallel_analysis": "Hungary 2026 adds a new chapter to this sequence: a democratic transfer achieved through the ballot box in a country where institutional guardrails had been systematically eroded, suggesting that electoral accountability can survive even determined efforts to tilt the playing field. The EU's use of financial conditionality as a lever against democratic backsliding — which created persistent domestic friction for the Orbán government — echoes the Luxembourg Compromise tradition of using institutional mechanisms to constrain member-state behaviour. Whether the new Hungarian government restores judicial independence quickly enough to unlock suspended cohesion funds will be the first practical test of whether this electoral result translates into durable institutional reform.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Popular_Front",
+        "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+        "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Romanian_revolution",
+        "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Bulgaria's Radev wins parliamentary election, signalling shift in EU politics",
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "The Empty Chair Crisis, the Korean War Stalemate, and the Popular Front (synthesis)",
+      "date_range": "1930s–1966",
+      "summary": "Bulgaria's position within the EU echoes recurring historical tensions between collective European institutions and member states pursuing divergent national or geopolitical interests. The Empty Chair Crisis of 1965–1966, when de Gaulle withdrew France's representatives from EU Council meetings, established a precedent for using non-cooperation as leverage within institutions that formally require consensus; the resulting Luxembourg Compromise enshrined the principle that member states could invoke vital national interests to block decisions. The Korean War Stalemate offers a different but relevant parallel: a conflict that could not be won by either side militarily but that also could not be resolved diplomatically, producing a frozen equilibrium that shaped the security architecture around it for decades. The 1930s Popular Front experience illustrates the fragility of anti-authoritarian coalitions when economic grievances and national identity politics are in play.",
+      "parallel_analysis": "Radev's victory is a reminder that the EU's political geography cannot be reduced to a simple pro-integration versus anti-integration binary: genuine grievances about governance, economic conditions, and the costs of confrontation with Russia can produce eurosceptic electoral results from the democratic left as readily as from the nationalist right. The Empty Chair Crisis precedent is particularly apt: just as de Gaulle's France used institutional non-cooperation to assert national interests within a body it nominally supported, a Radev government may selectively block EU measures on Ukraine while remaining broadly within the European framework. The contrast with Hungary — where Orbán's departure is celebrated as a pro-EU victory — illustrates how rapidly the geopolitical balance within EU decision-making can shift in unpredictable directions.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Popular_Front"
+      ]
+    }
+  ]
+}

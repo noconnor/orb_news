@@ -1,0 +1,73 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-20T07:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Bulgaria's Radev wins parliamentary election, signalling shift in EU politics",
+      "summary": "Former President Rumen Radev's centre-left Progressive Bulgaria party secured a decisive victory in parliamentary elections on April 19-20, with early results showing 45% support compared to 12.5% for the opposition GERB party. This is Bulgaria's eighth election in five years, following political instability and mass protests. Radev, a eurosceptic who has repeatedly opposed military aid to Ukraine and called for dialogue with Russia, is now positioned to become prime minister. His victory marks a significant shift in Bulgarian politics and adds complexity to EU decision-making, as his government is likely to oppose some EU foreign policy positions, particularly regarding Ukraine support. The election reflects broader European tensions between pro-EU centrist forces and those skeptical of aggressive EU foreign policy.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election"},
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/04/19/bulgaria-exit-polls-former-president-rumen-radev-set-to-win-parliamentary-vote"},
+        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-19/bulgarian-russia-sympathizer-radev-secures-decisive-election-win"}
+      ],
+      "tags": ["elections", "EU", "governance"]
+    },
+    {
+      "headline": "EU biometric border system causes chaos at airports across Europe",
+      "summary": "The newly implemented Entry/Exit System (EES) for biometric border control has created severe disruptions at airports across Europe, with passengers facing queues lasting 3-4 hours to pass through customs. The system, which replaced manual passport stamping across Schengen countries and associated nations, became operational on April 10, 2026. Airports in France, Germany, Belgium, Italy, Spain, and Greece report significant delays, raising concerns ahead of the upcoming tourist season. The European Commission has disputed reports of widespread problems, claiming the process typically takes about 70 seconds, but on-the-ground reports tell a different story. The technical issues threaten to undermine one of Europe's key achievements—the Schengen free movement area—and may require urgent intervention to prevent further disruptions.",
+      "sources": [
+        {"name": "The Guardian", "url": "https://belgium.news-pravda.com/en/world/2026/04/16/10130.html"}
+      ],
+      "tags": ["regulation", "EU", "governance"]
+    },
+    {
+      "headline": "EU population projected to fall by 12% by 2100 amid aging crisis",
+      "summary": "The European Union faces a dramatic demographic shift, with projections showing the EU population will decline by 53 million people by 2100, representing a 12% reduction. According to Euronews analysis of demographic data, by the end of the century, one in three Europeans will be over 65 years old, fundamentally reshaping the continent's economic and social structure. Immigration plays a crucial role in explaining demographic variations between nations, with some countries facing steeper population declines than others. This demographic transition has profound implications for the EU's workforce, pension systems, healthcare infrastructure, and economic competitiveness. The projections underscore the urgency of EU policies addressing aging populations, immigration integration, and workforce sustainability.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/health/2026/04/20/eu-population-to-fall-by-12-by-2100-which-countries-will-decline-the-most"}
+      ],
+      "tags": ["climate", "governance", "EU"]
+    },
+    {
+      "headline": "EU co-legislators reach deal to protect European steel industry from global overcapacity",
+      "summary": "The European Council and European Parliament have struck a provisional agreement on new regulations designed to protect the EU steel industry from the effects of global overcapacity. The deal represents coordinated EU action to strengthen the competitiveness and resilience of Europe's critical steel sector amid international trade pressures. This agreement comes as EU policymakers grapple with economic challenges and the need to maintain strategic industrial capacity within Europe. The protective measures are intended to shield European steel producers while maintaining compliance with international trade frameworks. This development reflects growing EU concerns about industrial competitiveness and the need for coordinated policy responses to global economic competition.",
+      "sources": [
+        {"name": "European Council", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/13/council-and-european-parliament-strike-deal-to-protect-eu-s-steel-industry-from-global-overcapacity/"}
+      ],
+      "tags": ["economy", "trade", "EU"]
+    },
+    {
+      "headline": "EPP Group pushes for 10% EU budget increase and enhanced security measures",
+      "summary": "The European People's Party (EPP) Group is calling for a 10% increase in the EU's long-term budget (Multiannual Financial Framework) and demanding swift adoption of enhanced security measures amid escalating geopolitical tensions involving Iran in the Middle East. The EPP Group is pressing the European Parliament to vote on the next MFF framework during the April plenary session to secure the funding increases. Additionally, the EPP is advocating for decisive European action to protect EU security interests as part of an informal EU summit scheduled for April 23-24. This push reflects growing concerns within Europe about security threats and the need for adequate financial resources to respond to geopolitical challenges. The budget debate underscores tensions within EU decision-making between fiscal conservatives and those advocating for increased European strategic autonomy.",
+      "sources": [
+        {"name": "EPP Group", "url": "https://www.eppgroup.eu/newsroom/the-week-ahead-april-20-24-2026"}
+      ],
+      "tags": ["EU", "governance", "defence"]
+    },
+    {
+      "headline": "Hungary's pro-EU candidate defeats Orbán, marking major shift in European politics",
+      "summary": "Hungary held parliamentary elections resulting in a decisive victory for a pro-EU candidate over Viktor Orbán, a Russia-friendly politician who had wielded considerable influence within EU decision-making. European leaders including German Chancellor Angela Merkel, French President Emmanuel Macron, Polish Prime Minister Donald Tusk, and European Commission President Ursula von der Leyen congratulated the winning candidate on the result. Orbán's defeat is celebrated across the EU as a victory for democratic values and closer European integration, though questions remain about Hungary's political future. Hungary has exercised the EU veto more frequently than any other member state, with 21 of the 48 vetoes cast by EU countries coming from Budapest over recent years. This election result suggests potential changes to Hungary's blocking positions within EU decision-making and may facilitate smoother EU policy coordination on Ukraine, defense, and other strategic issues.",
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html"},
+        {"name": "Washington Post", "url": "https://www.washingtonpost.com/world/2026/04/13/e-u-revels-in-defeat-of-hungary-s-viktor-orban-trump-ally-who-defied-brussels"}
+      ],
+      "tags": ["elections", "EU", "defence"]
+    },
+    {
+      "headline": "EU launches age verification app to protect children online",
+      "summary": "The European Union has developed and deployed a user-friendly age verification application designed to protect children from inappropriate online content. The app allows users to prove their age when accessing online services by using official identification documents such as passports or ID cards. The system operates anonymously, works across all devices, and is built on open-source technology, ensuring privacy while maintaining security. This initiative represents the EU's commitment to digital safety and child protection in the online sphere. The tool enables parents, platforms, and regulators to work together more effectively to create safer digital environments for young people, aligning with broader EU regulatory frameworks around digital services and child safety.",
+      "sources": [
+        {"name": "European Union News", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["regulation", "EU", "governance"]
+    }
+  ]
+}
