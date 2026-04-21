@@ -1,0 +1,46 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Trump administration declares no Hormuz blockade lift until Iran deal reached",
+      "story_topic": "Strait of Hormuz blockade",
+      "historical_event": "Synthesis: Suez Crisis / Arab Oil Embargo / Tanker War / 1990 Oil Shock / Operation Eagle Claw",
+      "date_range": "1956 / 1973 / 1984–1988 / 1990 / 1980",
+      "summary": "The use of strategic waterways and energy supply as instruments of geopolitical coercion has deep precedent. The Suez Crisis of 1956 showed how the interdiction of a single canal could paralyse Western European oil imports and precipitate a superpower confrontation. The Arab Oil Embargo of 1973 demonstrated that partial withholding of supply could trigger global recession and permanently alter the geopolitical weight of energy-producing states. The Tanker War of 1984–1988 placed the Strait of Hormuz at the centre of great-power naval competition, with US, Soviet and European warships escorting commercial vessels through the same waters now blockaded by Washington. The 1990 oil price shock and Operation Eagle Claw further illustrate how American entanglement with Iranian and Gulf affairs has historically oscillated between military brinkmanship and negotiated pause, but rarely produced durable settlement.",
+      "parallel_analysis": "The current blockade echoes each of these episodes: a powerful actor exploiting maritime geography to extract concessions, global markets absorbing the uncertainty, and smaller dependent economies — Ireland's spring forecast among them — recalibrating around a risk they cannot control. Each historical precedent ended with partial resolution rather than structural settlement, suggesting the current standoff is unlikely to be the last.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Japan lifts ban on lethal weapons exports, marking major shift from pacifist policy",
+      "story_topic": "Japan arms export ban",
+      "historical_event": "Japan's Three Principles on Arms Exports (1967–2014)",
+      "date_range": "1947–2026",
+      "summary": "Japan's arms export prohibition was not a spontaneous reaction to any single event but the codified expression of a national identity forged in the aftermath of catastrophic military defeat. Article 9 of the 1947 constitution, drafted during American occupation and enacted in May of that year, formally renounced war as a sovereign right and prohibited Japan from maintaining offensive military forces. The Three Principles on Arms Exports, adopted by the National Diet in 1967, translated that pacifist orientation into trade policy, banning weapons sales to communist bloc nations, countries under UN embargo, and states involved in armed conflict; a 1976 government announcement extended the prohibition to effectively all destinations. Japan's defence industry remained circumscribed for nearly half a century, a commercially costly arrangement that reflected deep public unease about rearmament. The partial relaxation under Prime Minister Shinzo Abe in 2014, replacing the Three Principles with the Three Principles on Defence Equipment Transfers, began the erosion of the prohibition; the April 2026 decision completes it.",
+      "parallel_analysis": "Each step in the dismantling of Japan's arms export restrictions has followed the same logic — strategic necessity overcoming constitutional scruple — and each has prompted the same debate about whether Japan is incrementally abandoning the post-war order it helped construct or simply catching up with a world that never fully shared its pacifist premises. The 2026 decision is qualitatively different from the 2014 reinterpretation in that it removes the categorical prohibition on lethal exports rather than merely redefining defensive intent, marking a threshold Japan's post-war architects would not have anticipated crossing.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Japanese_arms-export_ban",
+        "https://en.wikipedia.org/wiki/Article_9_of_the_Constitution_of_Japan"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Bulgaria's Pro-Russian Former President Radev Wins Landslide Election Victory",
+      "story_topic": "Bulgaria Russia alignment",
+      "historical_event": "People's Republic of Bulgaria and Soviet Alignment (1946–1990)",
+      "date_range": "1946–1990",
+      "summary": "Bulgaria's gravitational pull toward Russia is not a novelty of the post-Cold War era but a pattern woven into the country's political culture over more than a century. The People's Republic of Bulgaria, established in 1946 under Communist Party leader Georgi Dimitrov after a 1944 coup that deposed the monarchy, became one of the most loyal Soviet satellites in the Warsaw Pact. Under Dimitrov and the long subsequent rule of Todor Zhivkov, the country collectivised agriculture, rapidly industrialised along Soviet lines, and cultivated a close identification with Moscow that outlasted the utility of the relationship. When communist rule ended in November 1989 and Bulgaria transitioned to multiparty democracy the following year, it did so relatively peacefully — but the structural legacies of four decades of Soviet alignment did not dissolve with the regime. Repeated episodes of anti-corruption populism and EU-backed reform have proved better at generating election cycles than at transforming the underlying cultural and institutional orientation toward Moscow.",
+      "parallel_analysis": "Radev's landslide is most usefully read not as a Bulgarian lurch toward authoritarianism but as the latest expression of a political culture that has never fully resolved its relationship with Russia. The EU's enlargement process has proved better at accommodating than at transforming this dynamic, and the outcome places one more member state in the column of unreliable partners for any coordinated European response to Russian pressure.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria",
+        "https://en.wikipedia.org/wiki/Elections_in_Bulgaria"
+      ]
+    }
+  ]
+}

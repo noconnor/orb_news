@@ -1,0 +1,449 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-21T07:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Cabinet to hear proposed exemptions for modular homes amid housing shortage",
+        "summary": "The Irish government is considering planning exemptions that would allow modular housing units up to 45 square metres to be built in residential gardens, potentially accelerating housing delivery. The proposal comes as a response to Ireland's ongoing housing crisis and reflects broader efforts to streamline planning processes for rapid housing development. Limerick councillors recently rejected a proposal for 500 modular homes at Janesboro Park, highlighting tensions between local communities and housing needs. The cabinet is expected to discuss the proposed exemptions, which would simplify planning requirements for small-scale residential developments. This initiative signals the government's commitment to exploring alternative construction methods and faster housing delivery mechanisms.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0421/1569267-cabinet-modular-homes/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41830946.html"
+          }
+        ],
+        "tags": [
+          "housing",
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Garda\u00ed raise concerns over EU Presidency policing operations and adequate resourcing",
+        "summary": "The Garda Representative Association expressed concerns at its conference about whether law enforcement will have adequate resources to police Ireland's upcoming EU Presidency. The concerns highlight potential challenges in coordinating policing operations at a time when EU affairs demand increased security and organizational efforts. Garda\u00ed have also faced challenges during recent fuel protests, where officers' personal details including home addresses and children's school locations were posted online by protesters. These incidents underscore broader concerns about garda safety and working conditions during high-profile events. The association's intervention signals growing anxiety within the force about capacity and support for major policing commitments.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0421/1569266-gra-garda-representative-association-conference/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41830889.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence",
+          "social"
+        ]
+      },
+      {
+        "headline": "Government forecasts economic growth despite geopolitical headwinds from Middle East conflict",
+        "summary": "Ireland's government economic projections indicate sustained growth despite potential disruption from prolonged Middle East conflict, reflecting confidence in the domestic economy's resilience. The spring economic forecast suggests the Irish economy will continue expanding even under severe scenarios involving extended regional tensions. This positive outlook reflects Ireland's economic fundamentals and diversified economy, though external factors including geopolitical instability could present risks. The forecast comes as global markets face uncertainty over US-Iran tensions and broader Middle East developments. Ireland's economic performance remains a key indicator of government policy effectiveness as it navigates international challenges.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0421/1569257-spring-economic-forecast/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Teacher burnout crisis deepens as study reveals 'unrealistic expectations' from parents",
+        "summary": "A new study has found that nearly half of surveyed teachers in Northern Ireland and the island are considering quitting their profession, with unrealistic expectations from parents identified as a major contributor to burnout. The research highlights increasing pressure on educators, suggesting systemic issues within the education sector regarding workload, support, and professional respect. Teacher burnout has significant implications for education quality and student outcomes across Ireland. The findings underscore broader social concerns about working conditions and mental health in the profession. Education policymakers are facing mounting pressure to address these issues through improved support structures and realistic expectations management.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/04/21/unrealistic-expectations-from-parents-fuelling-teacher-burnout-study-finds/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "education"
+        ]
+      },
+      {
+        "headline": "Rising road deaths prompt urgent calls for stricter drink-driving enforcement measures",
+        "summary": "Garda\u00ed and medical professionals are calling for urgent changes to Ireland's drink-driving laws and enforcement, citing rising road death statistics that indicate the current approach is insufficient. The push for reform reflects growing concerns about road safety and the need for more stringent penalties and enforcement mechanisms. Enforcement challenges have been identified as a key barrier to reducing dangerous driving behaviour. Medical professionals are aligning with law enforcement in advocating for stronger legislative measures to address the problem. The campaign signals recognition that current policies may not adequately deter dangerous driving and that comprehensive reform is needed.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie (via WebSearch)",
+            "url": "https://ground.news/interest/ireland"
+          }
+        ],
+        "tags": [
+          "transport",
+          "health",
+          "crime"
+        ]
+      },
+      {
+        "headline": "Research institute urges Minister to investigate online platforms facilitating sexual exploitation",
+        "summary": "A research institute has called on the Justice Minister to investigate 'pimping websites' and other online platforms that facilitate sexual exploitation and trafficking. The call highlights gaps in regulation of digital platforms that enable illicit activities including sexual abuse and exploitation. The initiative reflects growing awareness of how internet platforms can be exploited for criminal purposes despite legal protections. The research institute's intervention seeks government intervention to close regulatory loopholes and better protect vulnerable populations. This issue sits at the intersection of crime prevention, digital regulation, and victim protection.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0421/1569255-sexual-exploitation/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Sligo bridge development raises environmental concerns for protected bird species",
+        "summary": "Residents and environmental campaigners have expressed concerns about Sligo's proposed Eastern Garvoge Bridge initiative, fearing it could negatively impact protected wildlife populations in the area. The \u20ac50 million project has drawn scrutiny from conservation advocates who worry about potential ecological damage despite regulatory oversight. Environmental impact assessments are a standard part of major infrastructure projects, but local stakeholders continue to raise questions about adequate protections. The bridge project represents the broader tension between infrastructure development needs and environmental conservation in Ireland. Community engagement and environmental monitoring will be critical to addressing concerns during implementation.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/sligo-bridge-risk-to-swans-7013388-Apr2026/"
+          }
+        ],
+        "tags": [
+          "environment",
+          "politics",
+          "transport"
+        ]
+      },
+      {
+        "headline": "National Archives releases 48 Centenarian Ambassadors for 1926 Census records public access",
+        "summary": "The National Archives of Ireland has announced 48 'Centenarian Ambassadors' to support public access to the newly released 1926 Census records, marking a significant milestone in Irish historical documentation. The 1926 Census represents a crucial historical document capturing Ireland at a pivotal moment in its development as an independent state. The ambassador programme aims to facilitate public engagement with these records and help people research family history and genealogy. Public access to census records is invaluable for historians, genealogists, and the broader public interested in Irish heritage. This release represents an important contribution to preserving and sharing Ireland's historical record.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie (via WebSearch)",
+            "url": "https://ground.news/interest/ireland"
+          }
+        ],
+        "tags": [
+          "social",
+          "culture",
+          "history"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-21T12:00:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Bulgaria's Pro-Russian Former President Radev Wins Landslide Election Victory",
+        "summary": "Former President Rumen Radev has secured a landslide victory in Bulgaria's parliamentary election, with his Progressive Bulgaria party winning 44.7% of the vote, far exceeding forecasts. A euroskeptic and former fighter pilot opposed to military support for Ukraine, Radev campaigned on anti-corruption and ending oligarchic governance amid a cost of living crisis. His victory marks one of the strongest single-party results in a generation and could end chronic political instability that led to eight elections in five years. However, the result raises concerns about Bulgaria's EU and NATO alignment, as Radev has called for renewed Russian relations and criticized EU policies. The outcome reflects public frustration with political turmoil and a desire for change, though it may push the EU member state closer to Moscow's interests.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260420-bulgaria-s-kremlin-friendly-former-president-radev-wins-parliamentary-election"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/20/who-is-rumen-radev-the-former-fighter-pilot-on-course-to-be-bulgarias-next-pm"
+          }
+        ],
+        "tags": [
+          "elections",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Macron and Tusk Discuss Enhanced France-Poland Defense Collaboration and Nuclear Deterrence",
+        "summary": "French President Emmanuel Macron met with Polish Prime Minister Donald Tusk in Gdansk to explore deepened defense cooperation, with discussions focusing on Poland's potential contribution to France's nuclear deterrent. The talks reflect broader European concerns about U.S. commitment to NATO as Washington's European focus wavers. Macron emphasized a \"European preference\" for military procurement to strengthen continental autonomy and reduce reliance on American capabilities. France and Poland, as two major EU powers, are seeking to establish a stronger independent defense posture amid evolving security threats in Europe. The partnership signals an attempt to build European strategic sovereignty and military capability independent of transatlantic frameworks.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260420-macron-meets-tusk-poland-european-defence-collaboration"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/20/france-and-poland-discuss-boosted-defence-ties-as-us-commitment-to-europe-wavers"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU Members Consider Suspending Cooperation Agreement with Israel Over Gaza Conduct",
+        "summary": "The European Union is assessing member states' willingness to take measures against Israel, with Spain leading calls to suspend the EU-Israel cooperation agreement amid concerns over conduct in Gaza, Lebanon, and the West Bank. EU foreign policy chief signaled that member states would formally discuss the cooperation agreement at upcoming meetings. Spain's push reflects growing European concerns about civilian casualties and humanitarian implications of Israeli military operations in contested territories. However, the proposal faces broad opposition from other EU member states, suggesting a suspension is unlikely to succeed. The debate highlights internal EU divisions over Middle East policy and Israel relations, with some member states prioritizing human rights concerns while others maintain closer strategic ties.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260420-eu-gauge-member-states-willingness-take-measures-against-israel"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/20/spains-call-to-suspend-eu-israel-agreement-set-to-fail-amid-broad-opposition"
+          }
+        ],
+        "tags": [
+          "EU",
+          "diplomacy",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "EU Biometric Border Control System Creates Airport Chaos Across Europe",
+        "summary": "The EU's new Entry/Exit System (EES) biometric control system has caused significant disruptions at European airports since its April 10 implementation, with passengers in France, Germany, Belgium, Italy, Spain and Greece experiencing queues of 3-4 hours. The system requires non-EU travelers to register biometric data including photos and fingerprints at Schengen borders, replacing traditional passport stamps. Technical glitches have severely increased processing times, raising concerns about potential collapse during the upcoming summer tourist season. The European Commission claims individual registration takes about 70 seconds, but actual wait times far exceed this estimate. The implementation across all 29 Schengen countries highlights coordination challenges for large-scale EU digital initiatives and threatens to disrupt cross-border travel.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c79jg43vd8no"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "trade",
+          "EU"
+        ]
+      },
+      {
+        "headline": "UK Prime Minister Starmer Admits Error in Appointing Peter Mandelson Despite Failed Security Vetting",
+        "summary": "British Prime Minister Keir Starmer acknowledged a significant misjudgment in appointing Peter Mandelson as U.S. ambassador despite the former Labour minister failing security vetting related to connections to Jeffrey Epstein. Starmer told Parliament that officials deliberately withheld the failed vetting result from him, claiming he would not have appointed Mandelson had he known. The controversy involves concerns about Mandelson's past associations and raises questions about governmental transparency and vetting procedures. UK police are investigating potential misconduct allegations against the former minister. The incident has damaged public trust in government decision-making and prompted calls for Starmer's resignation, though the Prime Minister has resisted stepping down.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cx2wllel54no"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/20/uk-pm-starmer-admits-mandelson-envoy-appointment-was-a-mistake-amid-epstein-row"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Hungary's New PM-Elect P\u00e9ter Magyar Signals Priority Engagement with Poland",
+        "summary": "P\u00e9ter Magyar, Hungary's prime minister-elect, has made his first diplomatic priority a meeting with Polish Prime Minister Donald Tusk in Warsaw, signaling a shift in Central European politics. Magyar's visit to Poland before traditional engagements with Brussels or Vienna represents a new approach to Hungarian foreign policy. The meeting reflects growing ties between Hungary and Poland as both nations navigate EU governance challenges and regional security concerns. Magyar's leadership marks a potential realignment in Central European politics and suggests closer coordination between Hungary and Poland on EU policy matters. The symbolic choice of Poland as the first diplomatic stop underscores Magyar's focus on intra-European rather than trans-Atlantic relationships.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/20/watch-magyar-visits-tusk-will-there-be-a-warsaw-on-the-danube"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "European Union Considers Freezing \u20ac1.5 Billion in Funding to Serbia Over Rule of Law Concerns",
+        "summary": "The European Union is considering freezing approximately \u20ac1.5 billion in EU funds destined for Serbia amid serious scrutiny of the country's rule of law record and democratic standards. EU Commissioner warnings highlighted \"pressure on the judiciary, restrictions on media freedom\" and other governance failures. The funding freeze represents significant leverage in the EU's efforts to enforce democratic standards among member states and candidates. Serbia, which is pursuing EU membership, faces critical scrutiny of its judicial independence, press freedom, and governance structures. The potential suspension signals the EU's commitment to enforcing rule of law requirements, though it may create tensions with a key Balkan nation seeking closer European integration.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/20/eu-considers-freezing-serbias-15-billion-in-eu-funds-amid-rule-of-law-scrutiny"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Europol Operation Traces 45 Ukrainian Children Forcibly Deported to Russia Since Invasion",
+        "summary": "Europol operatives conducting a 'hackathon' sleuthing operation have successfully traced 45 Ukrainian children who were forcibly deported to Russia since the 2022 invasion. Tens of thousands of Ukrainian children have been relocated to Russia during the ongoing conflict, raising serious humanitarian and international law concerns. The tracing effort represents a significant enforcement action against forced deportations, which constitute war crimes under international law. The operation demonstrates collaborative European law enforcement efforts to document and track victims of alleged Russian war crimes. The cases of these Ukrainian children illustrate the humanitarian crisis within the broader conflict and Europe's commitment to investigating alleged violations of international humanitarian law.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/20/europol-hackathon-sleuths-trace-45-ukrainian-children-forcibly-deported-to-russia"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "conflict",
+          "defence"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-21T05:30:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Japan lifts ban on lethal weapons exports, marking major shift from pacifist policy",
+        "summary": "Japan has approved the lifting of its decades-long ban on lethal weapons exports, clearing the way for future sales including fighter jets and combat drones. This represents a significant departure from Japan's post-World War II pacifist stance and reflects shifting geopolitical priorities in East Asia amid tensions with China and North Korea. The move enables Japanese defense manufacturers to compete in the global arms market and deepen security partnerships with allied nations. The policy change was approved by Japan's government on April 20-21, 2026. Implications include potential regional arms race dynamics and shifting balance of power in Asia-Pacific security arrangements.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://www.reuters.com"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "defence",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Apple names John Ternus as new CEO, Tim Cook transitions to executive chairman",
+        "summary": "Apple announced that John Ternus, a veteran of the company's hardware division, will assume the role of Chief Executive Officer, while 65-year-old Tim Cook steps down from the position to become executive chairman. The transition is scheduled for September 2026 and marks a significant leadership change at one of the world's most valuable technology companies. Ternus, known for his work on iPhone and Mac product lines, is positioned to lead Apple through an era of increased focus on artificial intelligence and emerging technologies. Cook has led Apple for over a decade and will maintain strategic oversight as executive chairman. The move signals continuity in Apple's leadership while introducing fresh direction for the company's future.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://www.reuters.com"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c1kr19lry18o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Trump administration declares no Hormuz blockade lift until Iran deal reached",
+        "summary": "The Trump administration stated that the United States will not lift its blockade in the Strait of Hormuz until a deal is negotiated with Iran, escalating tensions in a critical global shipping corridor. The declaration comes amid ongoing uncertainty about Iran's participation in Pakistan-mediated peace talks and reports of tankers stranded by the standoff. The blockade impacts global oil supplies and energy prices, with markets responding to renewed geopolitical risk in the region. Oil prices have risen in response to the tensions and ongoing uncertainty about negotiations. The standoff underscores deep divisions between the US and Iran over nuclear policy and regional influence.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://www.reuters.com"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Cuba holds diplomatic talks with US officials, seeks end to energy embargo",
+        "summary": "Cuban government officials confirmed they held talks with American counterparts on the island nation, describing the exchange as respectful and professional. Cuba is pressing the United States to lift its energy embargo, a longstanding point of contention between the two nations. The meeting represents a potential diplomatic opening between the countries following years of tension and represents the latest in a series of engagement attempts. The discussions signal possible movement on normalizing bilateral relations and addressing economic restrictions. Observers note the talks occur amid broader changes in Trump administration approaches to international engagement.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/21/cuba-confirms-meeting-with-us-official-wants-end-to-trumps-energy-blockade"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Humanoid robot surpasses human half-marathon world record in Beijing athletic competition",
+        "summary": "A humanoid robot has broken the human world record for a half-marathon, completing the 21.1-kilometer distance in Beijing faster than the fastest human competitor ever has. The technological achievement demonstrates significant advances in robotic endurance, mobility, and mechanical efficiency compared to biological systems. The robot's performance at the athletic event highlights rapid progress in humanoid robotics and raises questions about the future boundaries between human and machine athletic competition. The feat occurred during a public athletic competition in Beijing on April 20, 2026. The achievement has implications for future Olympic policies and sports governance regarding robotic participation.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "headline": "Japan on high alert for major earthquake following initial seismic event",
+        "summary": "Japan's Meteorological Agency has warned of the possibility of a much stronger earthquake occurring within the coming week, as the nation remains on heightened alert following an initial seismic event. The agency lifted tsunami warnings but cautioned that a more powerful quake could strike in the next seven days. This elevated threat level underscores the seismic vulnerability of Japan, which sits on the Pacific Ring of Fire and experiences frequent earthquake activity. Residents and authorities are being urged to prepare emergency response measures and ensure disaster readiness. The warning comes during a critical period as Japan prepares for potential natural disasters.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/czd7m7d699do"
+          }
+        ],
+        "tags": [
+          "climate",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Canadian tourist killed in shooting at Mexico's Teotihuac\u00e1n archaeological site",
+        "summary": "A Canadian citizen was killed in a shooting incident at Mexico's iconic Teotihuac\u00e1n pyramids archaeological site, with multiple other injuries reported at the popular tourist destination. The incident raises serious security concerns at one of Mexico's most visited heritage sites. The shooting occurred weeks before Mexico is scheduled to host the FIFA World Cup, raising questions about visitor safety at major attractions and public venues. Authorities are investigating the circumstances and motives behind the incident. The event underscores ongoing security challenges Mexico faces at tourist attractions and during major international events.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "crime"
+        ]
+      },
+      {
+        "headline": "Algeria sentences former industry minister in high-profile corruption case",
+        "summary": "Algeria's court system has handed prison sentences ranging from three to ten years in a significant corruption case involving a former industry minister and several other officials. The case reflects ongoing efforts by Algerian authorities to address systemic corruption within the government and senior ministries. The convictions include the ex-minister and multiple co-defendants charged in connection with corrupt practices and abuse of office. The sentencing demonstrates judicial action against high-level public figures accused of financial wrongdoing. The case has broader implications for governance and anti-corruption efforts across North Africa and the Maghreb region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/21/algerias-ex-minister-of-industry-jailed-in-high-profile-corruption-case"
+          }
+        ],
+        "tags": [
+          "governance",
+          "crime"
+        ]
+      }
+    ]
+  }
+}

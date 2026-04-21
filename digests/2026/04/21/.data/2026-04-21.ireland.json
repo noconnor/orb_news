@@ -1,0 +1,79 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-21T07:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Cabinet to hear proposed exemptions for modular homes amid housing shortage",
+      "summary": "The Irish government is considering planning exemptions that would allow modular housing units up to 45 square metres to be built in residential gardens, potentially accelerating housing delivery. The proposal comes as a response to Ireland's ongoing housing crisis and reflects broader efforts to streamline planning processes for rapid housing development. Limerick councillors recently rejected a proposal for 500 modular homes at Janesboro Park, highlighting tensions between local communities and housing needs. The cabinet is expected to discuss the proposed exemptions, which would simplify planning requirements for small-scale residential developments. This initiative signals the government's commitment to exploring alternative construction methods and faster housing delivery mechanisms.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0421/1569267-cabinet-modular-homes/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41830946.html"}
+      ],
+      "tags": ["housing", "politics", "economy"]
+    },
+    {
+      "headline": "Gardaí raise concerns over EU Presidency policing operations and adequate resourcing",
+      "summary": "The Garda Representative Association expressed concerns at its conference about whether law enforcement will have adequate resources to police Ireland's upcoming EU Presidency. The concerns highlight potential challenges in coordinating policing operations at a time when EU affairs demand increased security and organizational efforts. Gardaí have also faced challenges during recent fuel protests, where officers' personal details including home addresses and children's school locations were posted online by protesters. These incidents underscore broader concerns about garda safety and working conditions during high-profile events. The association's intervention signals growing anxiety within the force about capacity and support for major policing commitments.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0421/1569266-gra-garda-representative-association-conference/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41830889.html"}
+      ],
+      "tags": ["politics", "defence", "social"]
+    },
+    {
+      "headline": "Government forecasts economic growth despite geopolitical headwinds from Middle East conflict",
+      "summary": "Ireland's government economic projections indicate sustained growth despite potential disruption from prolonged Middle East conflict, reflecting confidence in the domestic economy's resilience. The spring economic forecast suggests the Irish economy will continue expanding even under severe scenarios involving extended regional tensions. This positive outlook reflects Ireland's economic fundamentals and diversified economy, though external factors including geopolitical instability could present risks. The forecast comes as global markets face uncertainty over US-Iran tensions and broader Middle East developments. Ireland's economic performance remains a key indicator of government policy effectiveness as it navigates international challenges.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0421/1569257-spring-economic-forecast/"}
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "Teacher burnout crisis deepens as study reveals 'unrealistic expectations' from parents",
+      "summary": "A new study has found that nearly half of surveyed teachers in Northern Ireland and the island are considering quitting their profession, with unrealistic expectations from parents identified as a major contributor to burnout. The research highlights increasing pressure on educators, suggesting systemic issues within the education sector regarding workload, support, and professional respect. Teacher burnout has significant implications for education quality and student outcomes across Ireland. The findings underscore broader social concerns about working conditions and mental health in the profession. Education policymakers are facing mounting pressure to address these issues through improved support structures and realistic expectations management.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/04/21/unrealistic-expectations-from-parents-fuelling-teacher-burnout-study-finds/"}
+      ],
+      "tags": ["health", "social", "education"]
+    },
+    {
+      "headline": "Rising road deaths prompt urgent calls for stricter drink-driving enforcement measures",
+      "summary": "Gardaí and medical professionals are calling for urgent changes to Ireland's drink-driving laws and enforcement, citing rising road death statistics that indicate the current approach is insufficient. The push for reform reflects growing concerns about road safety and the need for more stringent penalties and enforcement mechanisms. Enforcement challenges have been identified as a key barrier to reducing dangerous driving behaviour. Medical professionals are aligning with law enforcement in advocating for stronger legislative measures to address the problem. The campaign signals recognition that current policies may not adequately deter dangerous driving and that comprehensive reform is needed.",
+      "sources": [
+        {"name": "BreakingNews.ie (via WebSearch)", "url": "https://ground.news/interest/ireland"}
+      ],
+      "tags": ["transport", "health", "crime"]
+    },
+    {
+      "headline": "Research institute urges Minister to investigate online platforms facilitating sexual exploitation",
+      "summary": "A research institute has called on the Justice Minister to investigate 'pimping websites' and other online platforms that facilitate sexual exploitation and trafficking. The call highlights gaps in regulation of digital platforms that enable illicit activities including sexual abuse and exploitation. The initiative reflects growing awareness of how internet platforms can be exploited for criminal purposes despite legal protections. The research institute's intervention seeks government intervention to close regulatory loopholes and better protect vulnerable populations. This issue sits at the intersection of crime prevention, digital regulation, and victim protection.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0421/1569255-sexual-exploitation/"}
+      ],
+      "tags": ["crime", "social", "politics"]
+    },
+    {
+      "headline": "Sligo bridge development raises environmental concerns for protected bird species",
+      "summary": "Residents and environmental campaigners have expressed concerns about Sligo's proposed Eastern Garvoge Bridge initiative, fearing it could negatively impact protected wildlife populations in the area. The €50 million project has drawn scrutiny from conservation advocates who worry about potential ecological damage despite regulatory oversight. Environmental impact assessments are a standard part of major infrastructure projects, but local stakeholders continue to raise questions about adequate protections. The bridge project represents the broader tension between infrastructure development needs and environmental conservation in Ireland. Community engagement and environmental monitoring will be critical to addressing concerns during implementation.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/sligo-bridge-risk-to-swans-7013388-Apr2026/"}
+      ],
+      "tags": ["environment", "politics", "transport"]
+    },
+    {
+      "headline": "National Archives releases 48 Centenarian Ambassadors for 1926 Census records public access",
+      "summary": "The National Archives of Ireland has announced 48 'Centenarian Ambassadors' to support public access to the newly released 1926 Census records, marking a significant milestone in Irish historical documentation. The 1926 Census represents a crucial historical document capturing Ireland at a pivotal moment in its development as an independent state. The ambassador programme aims to facilitate public engagement with these records and help people research family history and genealogy. Public access to census records is invaluable for historians, genealogists, and the broader public interested in Irish heritage. This release represents an important contribution to preserving and sharing Ireland's historical record.",
+      "sources": [
+        {"name": "BreakingNews.ie (via WebSearch)", "url": "https://ground.news/interest/ireland"}
+      ],
+      "tags": ["social", "culture", "history"]
+    }
+  ]
+}

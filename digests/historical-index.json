@@ -14,13 +14,13 @@
     },
     {
       "story_topic": "Valerie's Law parental rights legislation",
-      "historical_event": "Megan's Law (United States, 1994–1996)",
+      "historical_event": "Megan's Law (United States, 1994\u20131996)",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Megan%27s_Law"
     },
     {
       "story_topic": "CAB cryptocurrency asset seizure powers",
-      "historical_event": "Racketeer Influenced and Corrupt Organizations Act — RICO (United States, 1970)",
+      "historical_event": "Racketeer Influenced and Corrupt Organizations Act \u2014 RICO (United States, 1970)",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Racketeer_Influenced_and_Corrupt_Organizations_Act"
     },
@@ -44,13 +44,13 @@
     },
     {
       "story_topic": "Russia-Ukraine aerial terror campaign",
-      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940\u20131941)",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II"
     },
     {
       "story_topic": "Myanmar military authoritarian consolidation",
-      "historical_event": "1962 Burmese Coup d'état and Ne Win's Military Rule",
+      "historical_event": "1962 Burmese Coup d'\u00e9tat and Ne Win's Military Rule",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1962_Burmese_coup_d%27%C3%A9tat"
     },
@@ -116,7 +116,7 @@
     },
     {
       "story_topic": "Russia-Ukraine war stalemate",
-      "historical_event": "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+      "historical_event": "The Empty Chair Crisis and Luxembourg Compromise (France, 1965\u20131966)",
       "date_first_used": "2026-04-05",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Luxembourg_compromise"
     },
@@ -185,6 +185,24 @@
       "historical_event": "The Popular Front (1930s)",
       "date_first_used": "2026-04-19",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Popular_Front"
+    },
+    {
+      "story_topic": "Japan arms export ban",
+      "historical_event": "Japan's Three Principles on Arms Exports (1967\u20132014)",
+      "date_first_used": "2026-04-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_arms-export_ban"
+    },
+    {
+      "story_topic": "Japan arms export ban",
+      "historical_event": "Article 9 of the Constitution of Japan (1947)",
+      "date_first_used": "2026-04-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Article_9_of_the_Constitution_of_Japan"
+    },
+    {
+      "story_topic": "Bulgaria Russia alignment",
+      "historical_event": "People's Republic of Bulgaria and Soviet Alignment (1946\u20131990)",
+      "date_first_used": "2026-04-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria"
     }
   ]
 }

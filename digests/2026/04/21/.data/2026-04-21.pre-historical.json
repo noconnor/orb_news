@@ -1,0 +1,313 @@
+{
+  "stories": [
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'UK government security vetting scandal' — 1 prior parallels, room for more. Must not reuse: The Profumo Affair (1963)",
+      "existing_parallels": [
+        "The Profumo Affair (1963)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Profumo_affair"
+      ],
+      "matched_topic": "UK government security vetting scandal",
+      "headline": "Japan lifts ban on lethal weapons exports, marking major shift from pacifist policy"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Apple names John Ternus as new CEO, Tim Cook transitions to executive chairman"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Strait of Hormuz blockade'",
+      "existing_parallels": [
+        "The Suez Crisis",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Strait of Hormuz blockade",
+      "headline": "Trump administration declares no Hormuz blockade lift until Iran deal reached"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Cuba holds diplomatic talks with US officials, seeks end to energy embargo"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Humanoid robot surpasses human half-marathon world record in Beijing athletic competition"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Japan on high alert for major earthquake following initial seismic event"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Canadian tourist killed in shooting at Mexico's Teotihuacán archaeological site"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Algeria sentences former industry minister in high-profile corruption case"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Bulgaria's Pro-Russian Former President Radev Wins Landslide Election Victory"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Macron and Tusk Discuss Enhanced France-Poland Defense Collaboration and Nuclear Deterrence"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Israel-Lebanon conflict' — 1 prior parallels, room for more. Must not reuse: 1982 Lebanon War (Operation Peace for Galilee)",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "EU Members Consider Suspending Cooperation Agreement with Israel Over Gaza Conduct"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Biometric Border Control System Creates Airport Chaos Across Europe"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'UK government security vetting scandal' — 1 prior parallels, room for more. Must not reuse: The Profumo Affair (1963)",
+      "existing_parallels": [
+        "The Profumo Affair (1963)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Profumo_affair"
+      ],
+      "matched_topic": "UK government security vetting scandal",
+      "headline": "UK Prime Minister Starmer Admits Error in Appointing Peter Mandelson Despite Failed Security Vetting"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Hungary's New PM-Elect Péter Magyar Signals Priority Engagement with Poland"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "European Union Considers Freezing €1.5 Billion in Funding to Serbia Over Rule of Law Concerns"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Russia-Ukraine war stalemate'",
+      "existing_parallels": [
+        "Korean War Stalemate",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Russia-Ukraine war stalemate",
+      "headline": "Europol Operation Traces 45 Ukrainian Children Forcibly Deported to Russia Since Invasion"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Cabinet to hear proposed exemptions for modular homes amid housing shortage"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Gardaí raise concerns over EU Presidency policing operations and adequate resourcing"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)",
+        "Night of the Big Wind (1839)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Government forecasts economic growth despite geopolitical headwinds from Middle East conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Teacher burnout crisis deepens as study reveals 'unrealistic expectations' from parents"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Rising road deaths prompt urgent calls for stricter drink-driving enforcement measures"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Research institute urges Minister to investigate online platforms facilitating sexual exploitation"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Sligo bridge development raises environmental concerns for protected bird species"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "National Archives releases 48 Centenarian Ambassadors for 1926 Census records public access"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Strait of Hormuz blockade",
+      "historical_event": "The Suez Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Suez_Crisis"
+    },
+    {
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "Korean War Stalemate",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+      "date_first_used": "2026-04-05",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Irish Land War (1879-1882)",
+      "date_first_used": "2026-04-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Land_War"
+    },
+    {
+      "story_topic": "UK government security vetting scandal",
+      "historical_event": "The Profumo Affair (1963)",
+      "date_first_used": "2026-04-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Profumo_affair"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

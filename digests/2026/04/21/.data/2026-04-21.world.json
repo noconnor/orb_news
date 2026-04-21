@@ -1,0 +1,85 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-21T05:30:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Japan lifts ban on lethal weapons exports, marking major shift from pacifist policy",
+      "summary": "Japan has approved the lifting of its decades-long ban on lethal weapons exports, clearing the way for future sales including fighter jets and combat drones. This represents a significant departure from Japan's post-World War II pacifist stance and reflects shifting geopolitical priorities in East Asia amid tensions with China and North Korea. The move enables Japanese defense manufacturers to compete in the global arms market and deepen security partnerships with allied nations. The policy change was approved by Japan's government on April 20-21, 2026. Implications include potential regional arms race dynamics and shifting balance of power in Asia-Pacific security arrangements.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://www.reuters.com"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy"},
+        {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports"}
+      ],
+      "tags": ["diplomacy", "defence", "geopolitics"]
+    },
+    {
+      "headline": "Apple names John Ternus as new CEO, Tim Cook transitions to executive chairman",
+      "summary": "Apple announced that John Ternus, a veteran of the company's hardware division, will assume the role of Chief Executive Officer, while 65-year-old Tim Cook steps down from the position to become executive chairman. The transition is scheduled for September 2026 and marks a significant leadership change at one of the world's most valuable technology companies. Ternus, known for his work on iPhone and Mac product lines, is positioned to lead Apple through an era of increased focus on artificial intelligence and emerging technologies. Cook has led Apple for over a decade and will maintain strategic oversight as executive chairman. The move signals continuity in Apple's leadership while introducing fresh direction for the company's future.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://www.reuters.com"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c1kr19lry18o"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down"}
+      ],
+      "tags": ["technology", "economy"]
+    },
+    {
+      "headline": "Trump administration declares no Hormuz blockade lift until Iran deal reached",
+      "summary": "The Trump administration stated that the United States will not lift its blockade in the Strait of Hormuz until a deal is negotiated with Iran, escalating tensions in a critical global shipping corridor. The declaration comes amid ongoing uncertainty about Iran's participation in Pakistan-mediated peace talks and reports of tankers stranded by the standoff. The blockade impacts global oil supplies and energy prices, with markets responding to renewed geopolitical risk in the region. Oil prices have risen in response to the tensions and ongoing uncertainty about negotiations. The standoff underscores deep divisions between the US and Iran over nuclear policy and regional influence.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo"},
+        {"name": "Reuters (via Google News)", "url": "https://www.reuters.com"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Cuba holds diplomatic talks with US officials, seeks end to energy embargo",
+      "summary": "Cuban government officials confirmed they held talks with American counterparts on the island nation, describing the exchange as respectful and professional. Cuba is pressing the United States to lift its energy embargo, a longstanding point of contention between the two nations. The meeting represents a potential diplomatic opening between the countries following years of tension and represents the latest in a series of engagement attempts. The discussions signal possible movement on normalizing bilateral relations and addressing economic restrictions. Observers note the talks occur amid broader changes in Trump administration approaches to international engagement.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/21/cuba-confirms-meeting-with-us-official-wants-end-to-trumps-energy-blockade"}
+      ],
+      "tags": ["diplomacy", "economy", "trade"]
+    },
+    {
+      "headline": "Humanoid robot surpasses human half-marathon world record in Beijing athletic competition",
+      "summary": "A humanoid robot has broken the human world record for a half-marathon, completing the 21.1-kilometer distance in Beijing faster than the fastest human competitor ever has. The technological achievement demonstrates significant advances in robotic endurance, mobility, and mechanical efficiency compared to biological systems. The robot's performance at the athletic event highlights rapid progress in humanoid robotics and raises questions about the future boundaries between human and machine athletic competition. The feat occurred during a public athletic competition in Beijing on April 20, 2026. The achievement has implications for future Olympic policies and sports governance regarding robotic participation.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["technology", "innovation"]
+    },
+    {
+      "headline": "Japan on high alert for major earthquake following initial seismic event",
+      "summary": "Japan's Meteorological Agency has warned of the possibility of a much stronger earthquake occurring within the coming week, as the nation remains on heightened alert following an initial seismic event. The agency lifted tsunami warnings but cautioned that a more powerful quake could strike in the next seven days. This elevated threat level underscores the seismic vulnerability of Japan, which sits on the Pacific Ring of Fire and experiences frequent earthquake activity. Residents and authorities are being urged to prepare emergency response measures and ensure disaster readiness. The warning comes during a critical period as Japan prepares for potential natural disasters.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/czd7m7d699do"}
+      ],
+      "tags": ["climate", "humanitarian"]
+    },
+    {
+      "headline": "Canadian tourist killed in shooting at Mexico's Teotihuacán archaeological site",
+      "summary": "A Canadian citizen was killed in a shooting incident at Mexico's iconic Teotihuacán pyramids archaeological site, with multiple other injuries reported at the popular tourist destination. The incident raises serious security concerns at one of Mexico's most visited heritage sites. The shooting occurred weeks before Mexico is scheduled to host the FIFA World Cup, raising questions about visitor safety at major attractions and public venues. Authorities are investigating the circumstances and motives behind the incident. The event underscores ongoing security challenges Mexico faces at tourist attractions and during major international events.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo"}
+      ],
+      "tags": ["humanitarian", "crime"]
+    },
+    {
+      "headline": "Algeria sentences former industry minister in high-profile corruption case",
+      "summary": "Algeria's court system has handed prison sentences ranging from three to ten years in a significant corruption case involving a former industry minister and several other officials. The case reflects ongoing efforts by Algerian authorities to address systemic corruption within the government and senior ministries. The convictions include the ex-minister and multiple co-defendants charged in connection with corrupt practices and abuse of office. The sentencing demonstrates judicial action against high-level public figures accused of financial wrongdoing. The case has broader implications for governance and anti-corruption efforts across North Africa and the Maghreb region.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/21/algerias-ex-minister-of-industry-jailed-in-high-profile-corruption-case"}
+      ],
+      "tags": ["governance", "crime"]
+    }
+  ]
+}
