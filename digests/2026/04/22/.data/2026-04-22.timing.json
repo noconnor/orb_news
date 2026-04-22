@@ -1,0 +1,16 @@
+{
+  "steps": {
+    "setup_s": 18,
+    "gather_s": 120,
+    "preprocess_s": 37,
+    "digest_s": 303,
+    "audio_s": 155
+  },
+  "total_s": 633,
+  "cost_estimate_usd": {
+    "gather_haiku": 0.12,
+    "digest_sonnet": 0.3,
+    "audio": 0.0,
+    "total": 0.42
+  }
+}

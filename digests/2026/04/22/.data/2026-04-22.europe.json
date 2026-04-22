@@ -1,0 +1,80 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-22T06:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU Court Rules Hungary's Anti-LGBTQ Law Violates Human Rights",
+      "summary": "The European Court of Justice delivered a landmark ruling on April 21, 2026, finding that Hungary's anti-LGBTQ legislation breaches EU law on multiple grounds, including violations of fundamental rights and European values. The law, enacted in 2021 under Prime Minister Viktor Orbán, restricted LGBTQ content for minors and banned advertising promoting same-sex relationships or genderqueer identities. The court determined the legislation infringed on the rights of transgender and non-heterosexual individuals, as well as the values of human dignity, equality, and minority rights enshrined in the Treaty on European Union. This marks the first time an EU member state has been found guilty of breaching EU law based on its founding values. The ruling comes days after Orbán's electoral defeat, with opposition leader Péter Magyar's Tisza party winning a landslide victory and set to take office in mid-May.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights"},
+        {"name": "ABC News", "url": "https://abcnews.com/International/wireStory/hungarys-anti-lgbtq-legislation-violates-eu-law-court-132229886"},
+        {"name": "GCN (Irish)", "url": "https://gcn.ie/eu-court-hungary-anti-lgbtq-propaganda-law-ruling/"}
+      ],
+      "tags": ["EU", "governance", "human-rights"]
+    },
+    {
+      "headline": "EU's New Biometric Border System Causes Widespread Airport Chaos Across Schengen Zone",
+      "summary": "Europe's new Entry/Exit System (EES) biometric border control system, which went into full effect on April 10, 2026, has created unprecedented chaos at major European airports with queues lasting two to four hours. The system requires all non-EU travellers to provide fingerprints and facial recognition data as they enter or exit the Schengen Area, replacing traditional passport stamping with a fully digital framework. Major airports including Paris Charles de Gaulle, Madrid-Barajas, Barcelona, Frankfurt, and Amsterdam have experienced severe delays, forcing airlines to cancel boarding and leaving travellers stranded. A particularly severe incident at Milan's Linate airport saw only 34 of 156 passengers board an Easyjet flight to Manchester after hours-long queues, with one family forced to spend over €1,800 for alternative flights. The EU has permitted member states limited flexibility to partially suspend EES operations for up to 90 days during the summer travel season to manage congestion.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/travel/2026/04/14/a-systemic-failure-how-the-new-entryexit-system-ees-brought-chaos-to-eu-border-control"},
+        {"name": "The Guardian", "url": "https://eu.news-pravda.com/world/2026/04/16/186989.html"}
+      ],
+      "tags": ["EU", "regulation", "travel"]
+    },
+    {
+      "headline": "Baby Food Contamination Crisis: Rat Poison Found in HiPP Products Across Austria, Czech Republic, and Slovakia",
+      "summary": "An extortion attempt has resulted in the discovery of rat poison in jars of HiPP baby food across Austria, the Czech Republic, and Slovakia in mid-April 2026. The German manufacturer confirmed that rat poison was found in 190-gram jars of carrot and potato baby food designed for infants aged five months and above, sold through supermarket chains including SPAR, EUROSPAR, and INTERSPAR. An email sent to the company demanded €2 million with threats to contaminate jars in three supermarkets. HiPP stated the jars left their facilities in perfect condition, describing the contamination as a criminal act under investigation by authorities. The company issued a precautionary recall of all baby food products sold through affected retailers, offering full refunds without requiring receipts. If consumed, rat poison can inhibit blood clotting and cause bleeding gums, nosebleeds, and bruising.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/health/2026/04/20/rat-poison-baby-food-austria"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/4/20/baby-food-recalled-after-rat-poison-found-in-jar"},
+        {"name": "CBC News", "url": "https://www.cbc.ca/news/world/rat-poison-austria-baby-food-9.7169654"}
+      ],
+      "tags": ["health", "safety", "crime"]
+    },
+    {
+      "headline": "Ukraine Completes Druzhba Pipeline Repairs, Unlocking Blocked €90 Billion EU Loan",
+      "summary": "Ukrainian President Volodymyr Zelenskyy announced on April 21, 2026, that the Soviet-era Druzhba oil pipeline carrying Russian oil to Europe has been repaired and is ready to resume operations, potentially unlocking a crucial €90 billion EU loan that has been blocked by Hungary. The pipeline was damaged in late January by Russian attacks, but Hungary and Slovakia accused Ukraine of deliberately obstructing Russian oil deliveries to pressure them into supporting the EU loan. Zelenskyy stated that Ukraine fulfilled the EU's conditions by repairing the pipeline, with the initial loan allocation including €16.7 billion for financial support and €28.3 billion for military support over two years. Top EU officials expressed cautious optimism that approval could come within days, ending months of political deadlock. The completion of repairs represents a significant diplomatic breakthrough that could strengthen Ukraine's position during the war while maintaining energy flows to Central European allies.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work"},
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/04/21/zelenskyy-announces-druzhba-oil-pipeline-repaired-and-can-resume-operation"},
+        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-21/zelenskiy-says-druzhba-oil-can-resume-paving-way-for-eu-loan"}
+      ],
+      "tags": ["EU", "economy", "energy"]
+    },
+    {
+      "headline": "EU Trade Deficit with China Expands as 80 Percent of Chinese Companies Plan Further European Investment",
+      "summary": "The European Union faces a mounting trade imbalance with China as Chinese companies signal plans for expanded investment in Europe. In 2025, the EU exported €199.6 billion in goods to China while importing €559.4 billion, resulting in a €359.8 billion deficit and marking a 6.5% decline in EU exports while Chinese imports increased 6.4%. Approximately 80% of Chinese companies already operating in the EU plan to expand their investments over the next three years, driven by efforts to bypass trade barriers and capitalize on Europe's green and digital transition initiatives. As of 2023, China's investment stock in the EU stood at €65 billion, with Chinese foreign direct investment reaching €9.4 billion in 2024. The European Parliament held a public hearing on April 15, 2026, addressing trade and investment relations, as the bloc grapples with concerns over unfair competition and the risk of industrial decline and unemployment across member states.",
+      "sources": [
+        {"name": "LSE Blog", "url": "https://blogs.lse.ac.uk/europpblog/2026/04/15/eu-china-trade-economic-cooperation-investment/"},
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/04/15/is-the-european-union-reliant-on-trade-with-china"},
+        {"name": "EU Eurostat", "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260410-2"}
+      ],
+      "tags": ["trade", "economy", "regulation"]
+    },
+    {
+      "headline": "Trump Extends Iran Ceasefire Indefinitely Following Pakistan's Diplomatic Request",
+      "summary": "US President Donald Trump announced on April 22, 2026, that he is extending the ceasefire between the United States and Iran indefinitely at the request of Pakistan's Prime Minister and top military officials. The extension provides space for continued high-stakes peace talks between the two countries for a second round of negotiations. Pakistan has positioned itself as a key diplomatic intermediary in efforts to resolve the escalating US-Iran conflict. The indefinite extension represents the second instance in recent weeks of the Trump administration backing away from escalation threats, signalling a shift toward sustained diplomacy. While the conflict primarily involves US and Iranian interests, the geopolitical ramifications have significant implications for European energy security, Middle Eastern stability, and broader international trade dynamics.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/04/22/trump-extends-ceasefire-with-iran-indefinitely-at-pakistans-request-to-allow-for-diplomati"},
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o"}
+      ],
+      "tags": ["diplomacy", "geopolitics", "conflict"]
+    },
+    {
+      "headline": "EU Achieves Record Greenhouse Gas Emission Reductions While Strengthening Climate Commitments",
+      "summary": "The European Union has reduced greenhouse gas emissions by 40% since 1990, according to new data released in April 2026, demonstrating significant progress in meeting its climate targets. The achievement underscores the EU's commitment to its green transition agenda and positions the bloc as a global leader in climate action. Three EU member states have reached the target of 90% HPV vaccination coverage among girls by age 15, reducing cervical cancer risk and advancing public health goals across the bloc. The EU continues to implement comprehensive environmental and health policies aimed at protecting European citizens while maintaining economic competitiveness. These developments reflect the EU's broader focus on sustainable development, public health improvements, and transition to renewable energy sources.",
+      "sources": [
+        {"name": "EU News and Events", "url": "https://european-union.europa.eu/news-and-events_en"},
+        {"name": "Mayer Brown Europe Daily News", "url": "https://www.mayerbrown.com/en/insights/publications/2026/04/europe-daily-news/europe-daily-news-apr2026"}
+      ],
+      "tags": ["climate", "health", "EU"]
+    }
+  ]
+}

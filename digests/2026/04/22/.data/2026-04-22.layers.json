@@ -1,0 +1,425 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-22T06:05:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "National Children's Hospital continues to miss completion targets with 19 prior delays",
+        "summary": "The National Children's Hospital project faces ongoing delays, with the Health Minister stating she has no completion date she can 'stand over' due to 19 previous missed targets. This high-profile infrastructure project has become emblematic of cost and schedule overruns in Irish healthcare construction. The hospital's recurring delays have drawn criticism from politicians and patient advocacy groups awaiting the facility's opening. The project has become a significant political issue affecting confidence in the government's infrastructure delivery. No firm timeline has been established for when the hospital will open to patients.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/health-minister-jennifer-carroll-macneill-national-childrens-hospital-bam-7019764-Apr2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "politics",
+          "infrastructure"
+        ]
+      },
+      {
+        "headline": "Significant gaps identified in Ireland's free contraception scheme affecting vulnerable women",
+        "summary": "The National Women's Council has identified major exclusions in Ireland's free contraception programme, highlighting gaps that affect women over 35, asylum seekers, and undocumented women. The scheme, intended to improve access to contraception, falls short of providing universal coverage across all demographics. The gaps disproportionately impact vulnerable populations who face the greatest barriers to accessing reproductive healthcare. The findings suggest the policy requires revision to meet its stated objectives of ensuring equitable access. Calls are growing for the government to address these exclusions in the coming budget or policy review.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41831342.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "policy"
+        ]
+      },
+      {
+        "headline": "Millions allocated to combat Northern Ireland's 'epidemic' of violence against women",
+        "summary": "The next phase of the Stormont initiative addressing violence against women has received substantial funding, recognising Northern Ireland's elevated femicide and violence rates. The initiative addresses systemic misogyny and aims to reduce the alarming prevalence of violence affecting women in the region. The funding represents a significant commitment from devolved authorities to tackle the issue. Context shows that Northern Ireland has experienced persistently high rates of intimate partner violence and femicide compared to other UK regions. The programme will focus on prevention, victim support, and perpetrator accountability.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/social-affairs/2026/04/21/millions-earmarked-to-tackle-northern-irelands-epidemic-of-violence-against-women/"
+          }
+        ],
+        "tags": [
+          "social",
+          "politics",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Kinahan cartel members face ongoing enforcement following Daniel Kinahan's arrest",
+        "summary": "The Garda Commissioner has characterised the Kinahan cartel as having 'spread misery and death' in Ireland and internationally, following the arrest of cartel leader Daniel Kinahan. Irish law enforcement has intensified efforts against the organised crime group, which has been linked to violent drug trafficking and international criminal operations. The Garda leadership praised the work of officers including the late senior detective John O'Driscoll in combating the cartel. The arrest marks a significant development in multi-year efforts to dismantle the criminal network. The cartel has been a major focus of Irish and international policing agencies.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/21/garda-commissioner-justin-kelly-daniel-kinahan-arrest-cartel-dubai/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Civil service union calls for expanded remote working due to fuel costs and congestion",
+        "summary": "The public sector union Forsa has called for increased remote working arrangements for civil servants, citing rising fuel prices and traffic congestion as drivers of the proposal. The union argues that flexible work options would reduce costs for employees and improve work-life balance while maintaining productivity. The proposal comes as Ireland grapples with cost-of-living pressures affecting both workers and the state budget. Remote working has become a priority issue in ongoing negotiations between unions and the Civil Service. The debate reflects broader workforce trends and economic pressures affecting public sector employment.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/forsa-calls-for-more-remote-working-for-civil-service-staff-due-to-fuel-costs-and-congestion-7019025-Apr2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Northern Ireland hospital doctors to ballot on industrial action over pay",
+        "summary": "The British Medical Association has rejected a 3.5% pay recommendation for Northern Ireland hospital doctors, deemed 'unacceptable' by the union, triggering plans for a formal ballot on potential industrial action. The dispute reflects wider tensions over medical professional pay across the UK and Ireland. Hospital doctors face cost-of-living pressures and wage stagnation relative to inflation. This development could affect healthcare services across Northern Ireland if strike action proceeds. The outcome of the ballot will signal the intensity of the dispute and potential impact on patient services.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/21/northern-ireland-hospital-doctors-to-be-balloted-on-industrial-action/"
+          }
+        ],
+        "tags": [
+          "health",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "One in three hip and knee replacement patients identified with obesity in health audit",
+        "summary": "An analysis of over 43,000 joint replacement surgeries reveals that one in three hip and knee replacement patients had obesity, reflecting rising weight-related health challenges in Ireland. Despite the elevated obesity levels among patients undergoing these procedures, complication and mortality rates remained stable. The audit highlights the growing prevalence of weight-related conditions driving demand for orthopaedic procedures. The findings raise questions about preventive health approaches and early intervention for obesity-related conditions. Healthcare planners will likely use this data to inform future service capacity planning and preventive health strategies.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41831423.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Jobseeker activity surges 36% in early 2026 amid expanding employment opportunities",
+        "summary": "Morgan McKinley employment data indicates jobseeker activity increased 36% in early 2026 compared to the preceding quarter, reflecting a dynamic job market with expanding opportunities. The surge suggests positive economic conditions and employer confidence in hiring. The data provides insight into labour market momentum as Ireland's economy continues to develop. Increased jobseeker activity typically indicates both opportunity and competition for available positions. The trend suggests sustained economic growth and employment expansion across various sectors.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/business/companies/arid-41831381.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-22T06:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "EU Court Rules Hungary's Anti-LGBTQ Law Violates Human Rights",
+        "summary": "The European Court of Justice delivered a landmark ruling on April 21, 2026, finding that Hungary's anti-LGBTQ legislation breaches EU law on multiple grounds, including violations of fundamental rights and European values. The law, enacted in 2021 under Prime Minister Viktor Orb\u00e1n, restricted LGBTQ content for minors and banned advertising promoting same-sex relationships or genderqueer identities. The court determined the legislation infringed on the rights of transgender and non-heterosexual individuals, as well as the values of human dignity, equality, and minority rights enshrined in the Treaty on European Union. This marks the first time an EU member state has been found guilty of breaching EU law based on its founding values. The ruling comes days after Orb\u00e1n's electoral defeat, with opposition leader P\u00e9ter Magyar's Tisza party winning a landslide victory and set to take office in mid-May.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights"
+          },
+          {
+            "name": "ABC News",
+            "url": "https://abcnews.com/International/wireStory/hungarys-anti-lgbtq-legislation-violates-eu-law-court-132229886"
+          },
+          {
+            "name": "GCN (Irish)",
+            "url": "https://gcn.ie/eu-court-hungary-anti-lgbtq-propaganda-law-ruling/"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "human-rights"
+        ]
+      },
+      {
+        "headline": "EU's New Biometric Border System Causes Widespread Airport Chaos Across Schengen Zone",
+        "summary": "Europe's new Entry/Exit System (EES) biometric border control system, which went into full effect on April 10, 2026, has created unprecedented chaos at major European airports with queues lasting two to four hours. The system requires all non-EU travellers to provide fingerprints and facial recognition data as they enter or exit the Schengen Area, replacing traditional passport stamping with a fully digital framework. Major airports including Paris Charles de Gaulle, Madrid-Barajas, Barcelona, Frankfurt, and Amsterdam have experienced severe delays, forcing airlines to cancel boarding and leaving travellers stranded. A particularly severe incident at Milan's Linate airport saw only 34 of 156 passengers board an Easyjet flight to Manchester after hours-long queues, with one family forced to spend over \u20ac1,800 for alternative flights. The EU has permitted member states limited flexibility to partially suspend EES operations for up to 90 days during the summer travel season to manage congestion.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/travel/2026/04/14/a-systemic-failure-how-the-new-entryexit-system-ees-brought-chaos-to-eu-border-control"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://eu.news-pravda.com/world/2026/04/16/186989.html"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "travel"
+        ]
+      },
+      {
+        "headline": "Baby Food Contamination Crisis: Rat Poison Found in HiPP Products Across Austria, Czech Republic, and Slovakia",
+        "summary": "An extortion attempt has resulted in the discovery of rat poison in jars of HiPP baby food across Austria, the Czech Republic, and Slovakia in mid-April 2026. The German manufacturer confirmed that rat poison was found in 190-gram jars of carrot and potato baby food designed for infants aged five months and above, sold through supermarket chains including SPAR, EUROSPAR, and INTERSPAR. An email sent to the company demanded \u20ac2 million with threats to contaminate jars in three supermarkets. HiPP stated the jars left their facilities in perfect condition, describing the contamination as a criminal act under investigation by authorities. The company issued a precautionary recall of all baby food products sold through affected retailers, offering full refunds without requiring receipts. If consumed, rat poison can inhibit blood clotting and cause bleeding gums, nosebleeds, and bruising.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/health/2026/04/20/rat-poison-baby-food-austria"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/4/20/baby-food-recalled-after-rat-poison-found-in-jar"
+          },
+          {
+            "name": "CBC News",
+            "url": "https://www.cbc.ca/news/world/rat-poison-austria-baby-food-9.7169654"
+          }
+        ],
+        "tags": [
+          "health",
+          "safety",
+          "crime"
+        ]
+      },
+      {
+        "headline": "Ukraine Completes Druzhba Pipeline Repairs, Unlocking Blocked \u20ac90 Billion EU Loan",
+        "summary": "Ukrainian President Volodymyr Zelenskyy announced on April 21, 2026, that the Soviet-era Druzhba oil pipeline carrying Russian oil to Europe has been repaired and is ready to resume operations, potentially unlocking a crucial \u20ac90 billion EU loan that has been blocked by Hungary. The pipeline was damaged in late January by Russian attacks, but Hungary and Slovakia accused Ukraine of deliberately obstructing Russian oil deliveries to pressure them into supporting the EU loan. Zelenskyy stated that Ukraine fulfilled the EU's conditions by repairing the pipeline, with the initial loan allocation including \u20ac16.7 billion for financial support and \u20ac28.3 billion for military support over two years. Top EU officials expressed cautious optimism that approval could come within days, ending months of political deadlock. The completion of repairs represents a significant diplomatic breakthrough that could strengthen Ukraine's position during the war while maintaining energy flows to Central European allies.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/04/21/zelenskyy-announces-druzhba-oil-pipeline-repaired-and-can-resume-operation"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-21/zelenskiy-says-druzhba-oil-can-resume-paving-way-for-eu-loan"
+          }
+        ],
+        "tags": [
+          "EU",
+          "economy",
+          "energy"
+        ]
+      },
+      {
+        "headline": "EU Trade Deficit with China Expands as 80 Percent of Chinese Companies Plan Further European Investment",
+        "summary": "The European Union faces a mounting trade imbalance with China as Chinese companies signal plans for expanded investment in Europe. In 2025, the EU exported \u20ac199.6 billion in goods to China while importing \u20ac559.4 billion, resulting in a \u20ac359.8 billion deficit and marking a 6.5% decline in EU exports while Chinese imports increased 6.4%. Approximately 80% of Chinese companies already operating in the EU plan to expand their investments over the next three years, driven by efforts to bypass trade barriers and capitalize on Europe's green and digital transition initiatives. As of 2023, China's investment stock in the EU stood at \u20ac65 billion, with Chinese foreign direct investment reaching \u20ac9.4 billion in 2024. The European Parliament held a public hearing on April 15, 2026, addressing trade and investment relations, as the bloc grapples with concerns over unfair competition and the risk of industrial decline and unemployment across member states.",
+        "sources": [
+          {
+            "name": "LSE Blog",
+            "url": "https://blogs.lse.ac.uk/europpblog/2026/04/15/eu-china-trade-economic-cooperation-investment/"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/04/15/is-the-european-union-reliant-on-trade-with-china"
+          },
+          {
+            "name": "EU Eurostat",
+            "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260410-2"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Trump Extends Iran Ceasefire Indefinitely Following Pakistan's Diplomatic Request",
+        "summary": "US President Donald Trump announced on April 22, 2026, that he is extending the ceasefire between the United States and Iran indefinitely at the request of Pakistan's Prime Minister and top military officials. The extension provides space for continued high-stakes peace talks between the two countries for a second round of negotiations. Pakistan has positioned itself as a key diplomatic intermediary in efforts to resolve the escalating US-Iran conflict. The indefinite extension represents the second instance in recent weeks of the Trump administration backing away from escalation threats, signalling a shift toward sustained diplomacy. While the conflict primarily involves US and Iranian interests, the geopolitical ramifications have significant implications for European energy security, Middle Eastern stability, and broader international trade dynamics.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/22/trump-extends-ceasefire-with-iran-indefinitely-at-pakistans-request-to-allow-for-diplomati"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "EU Achieves Record Greenhouse Gas Emission Reductions While Strengthening Climate Commitments",
+        "summary": "The European Union has reduced greenhouse gas emissions by 40% since 1990, according to new data released in April 2026, demonstrating significant progress in meeting its climate targets. The achievement underscores the EU's commitment to its green transition agenda and positions the bloc as a global leader in climate action. Three EU member states have reached the target of 90% HPV vaccination coverage among girls by age 15, reducing cervical cancer risk and advancing public health goals across the bloc. The EU continues to implement comprehensive environmental and health policies aimed at protecting European citizens while maintaining economic competitiveness. These developments reflect the EU's broader focus on sustainable development, public health improvements, and transition to renewable energy sources.",
+        "sources": [
+          {
+            "name": "EU News and Events",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          },
+          {
+            "name": "Mayer Brown Europe Daily News",
+            "url": "https://www.mayerbrown.com/en/insights/publications/2026/04/europe-daily-news/europe-daily-news-apr2026"
+          }
+        ],
+        "tags": [
+          "climate",
+          "health",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-22T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump extends US-Iran ceasefire amid fragile peace talks",
+        "summary": "US President Trump announced an extension of the ceasefire with Iran just hours before it was set to expire on April 22, marking the second time in two weeks he has backed away from escalating the conflict. The decision came at Pakistan's diplomatic request, as the nation works to broker broader peace negotiations between Washington and Tehran. The extension provides additional time for peace talks, though details on its duration remain unclear and Iran has not yet confirmed attendance at planned discussions in Pakistan. Stock markets responded positively to the news, though energy markets showed mixed signals as investors assessed the outlook for lasting negotiations. The development represents a significant diplomatic maneuver in a region marked by heightened tensions.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFZJOE9ma2lEV3F2d1E2Q1hrelFLSVBqQ1otM2dSSm9GRXRQbE84bl9sd3NhNVhPZzhsdF9WdXVwMVlXem51bmlKWnFJamttSG8wdnN2eTM1VHFMRmZFOWI4R3JPZ3dUSWQtd0pIRmZ3dTl5OTJpUDVpaUpFZkFwTzdhQWVRSVJiT3JMS05UOGNaWmttdUQxQ00yN2N0UzdpWi1vMmZySnBVRjZqb05DOXNVMTZlQQ?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Pakistan emerges as key mediator in US-Iran peace negotiations",
+        "summary": "Pakistan has taken a central role in brokering peace talks between the United States and Iran, requesting the ceasefire extension and hosting planned discussions in Islamabad. The diplomatic effort reflects Pakistan's strategic position in South Asia and its interests in regional stability and de-escalation. Pakistani citizens are watching closely to see whether the diplomatic boost from hosting these negotiations will translate into concrete gains for their own country, including potential economic and security benefits. The success of Pakistan's mediation could enhance its international standing while advancing its own foreign policy objectives. This development underscores Pakistan's importance as a regional player despite its own domestic challenges.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/21/nx-s1-5791760/as-pakistan-seeks-to-broker-u-s-iran-peace-citizens-watch-for-gains-at-home"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Colombian mercenaries documented supporting Sudan's RSF rebel forces",
+        "summary": "Research by the Conflict Insights Group, using phone tracking technology, has documented the involvement of Colombian mercenaries backing the Rapid Support Forces (RSF) in Sudan's ongoing civil conflict. The evidence reveals international actors providing military support to one of Africa's warring factions, expanding the scope of foreign involvement in the Sudanese war. This documentation of external military support underscores how regional conflicts increasingly draw international participants and highlights the complex web of actors fueling the humanitarian crisis. The RSF, initially emerging as a paramilitary force, has become a major combatant in Sudan's devastating civil war that has displaced millions. The revelation of Colombian involvement raises questions about recruitment networks and the globalization of conflict.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Indonesia legally recognizes domestic workers after 22-year struggle",
+        "summary": "Indonesia has achieved a major milestone in labor rights by legally recognizing domestic workers, concluding a 22-year campaign by workers' advocates and civil society organizations. The country is home to approximately 4.2 million domestic workers, of which nearly 90% are women, many of whom have historically faced exploitation, wage theft, and unsafe working conditions. This legal recognition provides domestic workers with formal protections, labor rights, and access to social safety nets previously denied to them. The achievement represents a significant victory for labor movements in Southeast Asia and sets a precedent for other nations with large domestic worker populations. Indonesia's action demonstrates progress toward formalizing the informal economy and protecting vulnerable populations.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c1mkvjkg10no"
+          }
+        ],
+        "tags": [
+          "social",
+          "economy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Pope condemns resource colonization during Africa minerals address",
+        "summary": "Pope Francis has criticized the colonization of Africa's mineral resources while arriving in Equatorial Guinea for official visits, highlighting ongoing concerns about the continent's economic exploitation. The Pope's remarks address the historical and contemporary pattern of foreign powers and corporations extracting Africa's natural wealth while leaving local populations economically marginalized. His statement carries particular weight given the Catholic Church's influence across Africa and its role in advocacy for social justice. The pontiff's criticism reflects broader international concern about fair trade, resource sovereignty, and equitable development in African nations. The visit underscores the Vatican's engagement with issues of global equity and development.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://apnews.com"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Argentina's Milei demonstrates solidarity with Israel at independence celebrations",
+        "summary": "Argentine President Javier Milei participated prominently in Israel's 78th Independence Day celebrations, singing and lighting a ceremonial torch at official ceremonies. Milei's active engagement signals Argentina's strengthened diplomatic and political alignment with Israel, a significant shift in Argentina's international posture. The display of solidarity reflects broader geopolitical realignments in Latin American foreign policy toward Israel. Milei, a right-wing libertarian leader elected in late 2023, has taken notably pro-Israel positions that contrast with Argentina's historical balance in Middle Eastern affairs. This public demonstration of support has implications for Argentina's relationships within Latin America and its positioning on Middle Eastern issues.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics",
+          "governance"
+        ]
+      },
+      {
+        "headline": "FIFA expands World Cup ticket sales with premium pricing tiers",
+        "summary": "FIFA has unlocked additional World Cup tickets for the 2026 tournament while introducing new premium-priced ticket categories, sparking criticism from fans concerned about affordability. The football governing body's decision to expand ticket availability comes alongside steeper pricing tiers that exclude some supporters from attending matches. The move reflects tensions between maximizing revenue from the tournament and maintaining accessibility for global fans. FIFA's approach to ticketing has long been controversial, balancing commercial interests against the World Cup's traditional role as a major sporting event accessible to diverse audiences. The new pricing structure may further concentrate attendance among wealthier fans and corporate interests.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/sports/2026/4/22/fifa-unlocks-more-world-cup-tickets-and-adds-new-more-expensive-categories"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "technology"
+        ]
+      }
+    ]
+  }
+}

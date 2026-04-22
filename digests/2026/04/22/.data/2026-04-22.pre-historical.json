@@ -1,0 +1,321 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict energy market shock'",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "Trump extends US-Iran ceasefire amid fragile peace talks"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Pakistan emerges as key mediator in US-Iran peace negotiations"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict' — 3 prior parallels, room for more. Must not reuse: The Tanker War (1984-1988), Iran-Iraq War (1980-1988), Operation Eagle Claw (1980)",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Colombian mercenaries documented supporting Sudan's RSF rebel forces"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Indonesia legally recognizes domestic workers after 22-year struggle"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Pope condemns resource colonization during Africa minerals address"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Argentina's Milei demonstrates solidarity with Israel at independence celebrations"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "FIFA expands World Cup ticket sales with premium pricing tiers"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Valerie's Law parental rights legislation' — 1 prior parallels, room for more. Must not reuse: Megan's Law (United States, 1994–1996)",
+      "existing_parallels": [
+        "Megan's Law (United States, 1994–1996)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Megan%27s_Law"
+      ],
+      "matched_topic": "Valerie's Law parental rights legislation",
+      "headline": "EU Court Rules Hungary's Anti-LGBTQ Law Violates Human Rights"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU's New Biometric Border System Causes Widespread Airport Chaos Across Schengen Zone"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Baby Food Contamination Crisis: Rat Poison Found in HiPP Products Across Austria, Czech Republic, and Slovakia"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Russia-Ukraine war stalemate'",
+      "existing_parallels": [
+        "Korean War Stalemate",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "The Popular Front (1930s)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Popular_Front"
+      ],
+      "matched_topic": "Russia-Ukraine war stalemate",
+      "headline": "Ukraine Completes Druzhba Pipeline Repairs, Unlocking Blocked €90 Billion EU Loan"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Trade Deficit with China Expands as 80 Percent of Chinese Companies Plan Further European Investment"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict energy market shock'",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "Trump Extends Iran Ceasefire Indefinitely Following Pakistan's Diplomatic Request"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "EU Achieves Record Greenhouse Gas Emission Reductions While Strengthening Climate Commitments"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "National Children's Hospital continues to miss completion targets with 19 prior delays"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Significant gaps identified in Ireland's free contraception scheme affecting vulnerable women"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Millions allocated to combat Northern Ireland's 'epidemic' of violence against women"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Kinahan cartel members face ongoing enforcement following Daniel Kinahan's arrest"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Civil service union calls for expanded remote working due to fuel costs and congestion"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Northern Ireland hospital doctors to ballot on industrial action over pay"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "One in three hip and knee replacement patients identified with obesity in health audit"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Jobseeker activity surges 36% in early 2026 amid expanding employment opportunities"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Valerie's Law parental rights legislation",
+      "historical_event": "Megan's Law (United States, 1994–1996)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Megan%27s_Law"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "Korean War Stalemate",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "story_topic": "Iran-US conflict energy market shock",
+      "historical_event": "The 1990 Oil Price Shock",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+      "date_first_used": "2026-04-05",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw (1980)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Irish Land War (1879-1882)",
+      "date_first_used": "2026-04-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Land_War"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

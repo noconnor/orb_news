@@ -1,0 +1,77 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-22T06:05:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "National Children's Hospital continues to miss completion targets with 19 prior delays",
+      "summary": "The National Children's Hospital project faces ongoing delays, with the Health Minister stating she has no completion date she can 'stand over' due to 19 previous missed targets. This high-profile infrastructure project has become emblematic of cost and schedule overruns in Irish healthcare construction. The hospital's recurring delays have drawn criticism from politicians and patient advocacy groups awaiting the facility's opening. The project has become a significant political issue affecting confidence in the government's infrastructure delivery. No firm timeline has been established for when the hospital will open to patients.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/health-minister-jennifer-carroll-macneill-national-childrens-hospital-bam-7019764-Apr2026/"}
+      ],
+      "tags": ["health", "politics", "infrastructure"]
+    },
+    {
+      "headline": "Significant gaps identified in Ireland's free contraception scheme affecting vulnerable women",
+      "summary": "The National Women's Council has identified major exclusions in Ireland's free contraception programme, highlighting gaps that affect women over 35, asylum seekers, and undocumented women. The scheme, intended to improve access to contraception, falls short of providing universal coverage across all demographics. The gaps disproportionately impact vulnerable populations who face the greatest barriers to accessing reproductive healthcare. The findings suggest the policy requires revision to meet its stated objectives of ensuring equitable access. Calls are growing for the government to address these exclusions in the coming budget or policy review.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41831342.html"}
+      ],
+      "tags": ["health", "social", "policy"]
+    },
+    {
+      "headline": "Millions allocated to combat Northern Ireland's 'epidemic' of violence against women",
+      "summary": "The next phase of the Stormont initiative addressing violence against women has received substantial funding, recognising Northern Ireland's elevated femicide and violence rates. The initiative addresses systemic misogyny and aims to reduce the alarming prevalence of violence affecting women in the region. The funding represents a significant commitment from devolved authorities to tackle the issue. Context shows that Northern Ireland has experienced persistently high rates of intimate partner violence and femicide compared to other UK regions. The programme will focus on prevention, victim support, and perpetrator accountability.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/social-affairs/2026/04/21/millions-earmarked-to-tackle-northern-irelands-epidemic-of-violence-against-women/"}
+      ],
+      "tags": ["social", "politics", "defence"]
+    },
+    {
+      "headline": "Kinahan cartel members face ongoing enforcement following Daniel Kinahan's arrest",
+      "summary": "The Garda Commissioner has characterised the Kinahan cartel as having 'spread misery and death' in Ireland and internationally, following the arrest of cartel leader Daniel Kinahan. Irish law enforcement has intensified efforts against the organised crime group, which has been linked to violent drug trafficking and international criminal operations. The Garda leadership praised the work of officers including the late senior detective John O'Driscoll in combating the cartel. The arrest marks a significant development in multi-year efforts to dismantle the criminal network. The cartel has been a major focus of Irish and international policing agencies.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/21/garda-commissioner-justin-kelly-daniel-kinahan-arrest-cartel-dubai/"}
+      ],
+      "tags": ["crime", "politics", "defence"]
+    },
+    {
+      "headline": "Civil service union calls for expanded remote working due to fuel costs and congestion",
+      "summary": "The public sector union Forsa has called for increased remote working arrangements for civil servants, citing rising fuel prices and traffic congestion as drivers of the proposal. The union argues that flexible work options would reduce costs for employees and improve work-life balance while maintaining productivity. The proposal comes as Ireland grapples with cost-of-living pressures affecting both workers and the state budget. Remote working has become a priority issue in ongoing negotiations between unions and the Civil Service. The debate reflects broader workforce trends and economic pressures affecting public sector employment.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/forsa-calls-for-more-remote-working-for-civil-service-staff-due-to-fuel-costs-and-congestion-7019025-Apr2026/"}
+      ],
+      "tags": ["economy", "politics", "transport"]
+    },
+    {
+      "headline": "Northern Ireland hospital doctors to ballot on industrial action over pay",
+      "summary": "The British Medical Association has rejected a 3.5% pay recommendation for Northern Ireland hospital doctors, deemed 'unacceptable' by the union, triggering plans for a formal ballot on potential industrial action. The dispute reflects wider tensions over medical professional pay across the UK and Ireland. Hospital doctors face cost-of-living pressures and wage stagnation relative to inflation. This development could affect healthcare services across Northern Ireland if strike action proceeds. The outcome of the ballot will signal the intensity of the dispute and potential impact on patient services.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/21/northern-ireland-hospital-doctors-to-be-balloted-on-industrial-action/"}
+      ],
+      "tags": ["health", "politics", "social"]
+    },
+    {
+      "headline": "One in three hip and knee replacement patients identified with obesity in health audit",
+      "summary": "An analysis of over 43,000 joint replacement surgeries reveals that one in three hip and knee replacement patients had obesity, reflecting rising weight-related health challenges in Ireland. Despite the elevated obesity levels among patients undergoing these procedures, complication and mortality rates remained stable. The audit highlights the growing prevalence of weight-related conditions driving demand for orthopaedic procedures. The findings raise questions about preventive health approaches and early intervention for obesity-related conditions. Healthcare planners will likely use this data to inform future service capacity planning and preventive health strategies.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41831423.html"}
+      ],
+      "tags": ["health", "economy"]
+    },
+    {
+      "headline": "Jobseeker activity surges 36% in early 2026 amid expanding employment opportunities",
+      "summary": "Morgan McKinley employment data indicates jobseeker activity increased 36% in early 2026 compared to the preceding quarter, reflecting a dynamic job market with expanding opportunities. The surge suggests positive economic conditions and employer confidence in hiring. The data provides insight into labour market momentum as Ireland's economy continues to develop. Increased jobseeker activity typically indicates both opportunity and competition for available positions. The trend suggests sustained economic growth and employment expansion across various sectors.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/companies/arid-41831381.html"}
+      ],
+      "tags": ["economy", "politics"]
+    }
+  ]
+}
