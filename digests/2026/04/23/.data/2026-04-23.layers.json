@@ -1,0 +1,444 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-23T06:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Government launches national AI skills platform as doctors increasingly adopt AI in clinical practice",
+        "summary": "The Irish government has launched a new national artificial intelligence training platform providing broader access to AI skill development, coinciding with findings that 58% of doctors now use AI in clinical practice within the last year, with more than one in five using it daily. The platform aims to equip workers and professionals with AI capabilities as the technology becomes increasingly embedded in healthcare and other sectors. This development reflects Ireland's strategic focus on AI adoption and digital upskilling across the economy. The move signals government commitment to ensuring Irish healthcare professionals and the broader workforce can effectively integrate AI tools into their practice.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0423/1569642-ai-skills-platform/"
+          },
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0423/1569625-ai-clinical-practice/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "health",
+          "technology"
+        ]
+      },
+      {
+        "headline": "D\u00e1il bye-elections to be officially set as Minister signs election order",
+        "summary": "Minister for Housing and Local Government James Browne will sign the election order to officially set the date for two D\u00e1il bye-elections, bringing forward the formal process for filling vacant seats in the lower house. The bye-elections represent standard democratic renewal processes following D\u00e1il vacancies. The formal signing of the election order marks a key procedural step in the parliamentary timeline. This development follows established constitutional procedures for filling parliamentary vacancies through direct democratic voting.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0423/1569669-dail-bye-elections/"
+          }
+        ],
+        "tags": [
+          "politics"
+        ]
+      },
+      {
+        "headline": "Housing crisis deepens as rental properties through HAP scheme more than halve since December",
+        "summary": "The number of properties available to rent through the Housing Assistance Payment scheme has more than halved since December 2025, reflecting the deepening housing shortage facing Ireland. Under the HAP scheme, eligible individuals source private rented accommodation with rent paid by their local council, making it a critical support mechanism for vulnerable renters. The dramatic decline in available properties indicates worsening conditions in the private rental market and reduced participation by landlords. This development signals an urgent escalation in Ireland's housing crisis, directly impacting thousands of tenants dependent on rental support schemes.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41832143.html"
+          }
+        ],
+        "tags": [
+          "housing",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Over 30% of women face barriers accessing Ireland's free contraception scheme, report reveals",
+        "summary": "A new report has found that more than 30% of women face significant barriers when attempting to access Ireland's free contraception scheme, with particular challenges identified for migrant women, LGBTQ+ individuals, Travellers, and people with disabilities. The findings highlight systemic accessibility issues with a government program intended to improve reproductive healthcare access and affordability. The barriers documented include administrative, language, cultural, and identity-related obstacles that prevent vulnerable populations from benefiting from the scheme. These findings underscore the gap between policy intention and practical implementation in ensuring equitable healthcare access across diverse communities.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/22/more-than-30-of-women-face-barriers-accessing-the-free-contraception-scheme-report-finds/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social"
+        ]
+      },
+      {
+        "headline": "Housing charity warns of tenant protection risks in modular garden homes plan",
+        "summary": "The housing charity Threshold has raised significant concerns about proposed changes to planning exemptions and rent-a-room regulations that could undermine tenant protections in the context of modular garden homes. The organisation warns that exemptions could inadvertently create loopholes allowing landlords to circumvent established tenancy laws. The planned policy changes were intended to accelerate housing supply through modular construction, but Threshold argues this risks trading protection for vulnerable tenants against increased housing units. These concerns highlight the delicate balance between housing supply expansion and maintaining robust renter safeguards in Ireland.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/housing-planning/2026/04/22/threshold-warns-modular-garden-homes-risk-creating-licensee-loophole-in-tenant-protections/"
+          }
+        ],
+        "tags": [
+          "housing",
+          "social"
+        ]
+      },
+      {
+        "headline": "Government reports substantial shift among EU states on Israel policy ahead of Occupied Territories Bill",
+        "summary": "Foreign Affairs Minister Miche\u00e1l Martin reported significant progress on Ireland's Occupied Territories Bill, noting a substantial shift in attitudes among EU member states regarding Israel policy. The development reflects evolving European perspectives on the Israeli-Palestinian conflict and international humanitarian law. Minister M\u00e1ire McEntee highlighted the diplomatic momentum being built on the issue, with multiple EU states moving toward stronger positions on Palestinian rights. This progress comes as Ireland intensifies its diplomatic efforts to advance the bill while maintaining engagement with international partners on Middle East policy.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/22/substantial-shift-among-eu-states-on-israel-says-mcentee/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Taoiseach to attend EU meeting in Cyprus amid energy and Ukraine tensions",
+        "summary": "Taoiseach Miche\u00e1l Martin will participate in an EU member state meeting in Cyprus to discuss pressing European issues including energy costs, Middle Eastern tensions, and the ongoing situation in Ukraine. The gathering brings together European leadership to address multiple geopolitical and economic challenges affecting the continent. Ireland's participation underscores its commitment to coordinated EU responses on these critical issues. The discussions are expected to cover energy policy solutions to address affordability concerns across member states, alongside foreign policy coordination on regional security matters.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0423/1569670-taoiseach-eu-meeting/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Electricity Association of Ireland releases guidance to help consumers reduce energy costs",
+        "summary": "The Electricity Association of Ireland has published a consumer guide addressing ongoing household energy affordability concerns affecting Irish households. The guidance provides practical recommendations for reducing energy consumption and managing household electricity costs. The initiative responds to persistent consumer concerns about energy price pressures impacting household budgets and living standards. The release of consumer-focused guidance represents the industry's engagement with the broader energy affordability crisis facing Irish homes and businesses.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0423/1569667-eai-consumers-guide/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-23T10:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "EU unblocks \u20ac90 billion Ukraine loan after pipeline dispute resolution",
+        "summary": "The European Union has approved a \u20ac90 billion loan for Ukraine following the resolution of Hungary's contentious veto over the Druzhba oil pipeline. Ukraine reopened the damaged pipeline, allowing oil to flow to Hungary and Slovakia while clearing the path for critical EU financing. The loan was delayed when Hungary's Prime Minister Viktor Orb\u00e1n blocked approval over the pipeline closure, which had disrupted energy supplies to Central European nations. With the pipeline restoration, EU member states can now proceed with the loan disbursement, providing essential financial support for Ukraine's wartime reconstruction efforts. The decision marks a significant diplomatic victory for EU coordination despite internal divisions over Russia-related energy issues.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260422-eu-gives-preliminary-approval-to-unblock-90-bn-euro-loan"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/22/eu-launches-procedure-to-unblock-90bn-ukraine-loan-and-new-russia-sanctions"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Germany halves economic growth forecast amid Iran conflict energy shock",
+        "summary": "Germany has dramatically reduced its GDP growth forecast from 1% to 0.5% due to the economic fallout from the Iran-Israel conflict affecting global energy supplies. Europe's largest economy faces a significant energy shock as jet fuel prices soar and supply chains face disruption. The downgrade reflects deep concerns about sustained energy price inflation across the continent and its impact on industrial competitiveness. Germany's revised forecast signals broader economic challenges for European economies dependent on stable energy supplies. The energy crisis is expected to affect pricing and economic activity for months or even years, according to European Commission officials.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/04/22/germany-halves-gdp-forecast-from-1-to-05-due-to-iran-war-fallout"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "UK and France agree three-year deal to curb Channel migrant crossings",
+        "summary": "The UK and France have announced a three-year bilateral agreement aimed at reducing irregular migrant crossings in the Channel. The deal includes deployment of at least 50 riot-trained French police officers to tackle violence and hostile crowds at French beaches, funded by British contributions. The agreement represents a fresh collaborative approach to managing one of Europe's most contentious migration challenges. France will strengthen coastal enforcement operations while the UK provides financial support for border policing efforts. The partnership demonstrates European governments' commitment to joint security solutions for managing migration pressures.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cz0ev7enk2lo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260422-uk-france-agree-three-year-deal-to-curb-channel-migrant-crossings"
+          }
+        ],
+        "tags": [
+          "migration",
+          "governance",
+          "defence"
+        ]
+      },
+      {
+        "headline": "EU court rules Hungary's anti-LGBTQ law violates bloc standards",
+        "summary": "The European Court of Justice has declared that Hungary's anti-LGBTQ legislation breaches EU rules in a landmark human rights ruling with significant implications for EU governance. The decision represents a major setback for Hungary's government policies under Viktor Orb\u00e1n and sets an important precedent for LGBTQ rights protection across the bloc. Luxembourg's foreign minister Xavier Bettel publicly criticized Orb\u00e1n's law during their meeting, stating that while being gay is not a choice, being homophobic is. The ruling tests the position of Hungary's new Prime Minister P\u00e9ter Magyar, who has signaled openness to EU reforms compared to his predecessor. The decision reinforces the EU's commitment to fundamental rights and non-discrimination principles in member state legislation.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/landmark-eu-court-ruling-rejects-hungary-anti-lgbtq-law"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/22/luxembourg-s-foreign-minister-criticizes-orban-s-lgbt-law"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Moldovan oligarch sentenced to 19 years for \u20ac1 billion fraud",
+        "summary": "Vlad Plahotniuc, once Moldova's richest oligarch, has been convicted and sentenced to 19 years in prison for masterminding a massive \u20ac1 billion fraud that involved approximately 12% of Moldova's GDP. The conviction represents a major victory for Moldova's anti-corruption efforts and rule of law initiatives. Plahotniuc, a former Democratic Party kingpin, had fled Moldova in 2019 amid multiple corruption allegations but was ultimately prosecuted in absentia. The case underscores widespread financial crimes within Eastern European elites and the challenges countries face in recovering stolen state assets. The sentence reinforces Moldova's judicial independence and commitment to combating oligarchic corruption, which has historically undermined governance in the region.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cwykz04e4ndo"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/22/moldovan-oligarch-vladimir-plahotniuc-sentenced-to-19-years-in-prison-over-1bn-fraud"
+          }
+        ],
+        "tags": [
+          "governance",
+          "economy",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Germany unveils first-ever military strategy amid regional tensions",
+        "summary": "Germany's Defence Minister has unveiled the country's first-ever comprehensive military strategy, signaling a major shift in defence posture as tensions with Russia escalate. The Bundeswehr will prioritize speed, deterrence capacity, and technological advancement, including development of extended-range precision strike capabilities. The strategy represents Germany's most significant military modernization since the Cold War and reflects changing security perspectives within Europe. The focus on faster response times and enhanced deterrence capabilities indicates growing concerns about Russian military ambitions in Eastern Europe. The unveiling occurs amid broader European rearmament efforts and represents a historic shift in German defence policy traditionally constrained by post-WWII military limitations.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/22/speed-and-deterrence-germanys-defence-minister-unveils-first-ever-military-strategy"
+          }
+        ],
+        "tags": [
+          "defence",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Lufthansa Group cancels 20,000 flights as jet fuel prices soar",
+        "summary": "The Lufthansa Group, encompassing major carriers including Austrian Airlines, Brussels Airlines, ITA Airways, and SWISS, has announced the cancellation of 20,000 flights through October due to soaring jet fuel costs. The airline group is concentrating flight reductions on unprofitable short-haul routes, representing a dramatic reduction in European air capacity. The mass cancellations reflect the severe economic impact of energy price inflation across Europe's aviation sector. Jet fuel prices have surged due to geopolitical tensions affecting global energy markets, creating unsustainable operational costs for airlines. The cancellations signal broader disruption to European travel and commerce as the energy crisis continues to strain transportation infrastructure.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/travel/2026/04/22/lufthansa-group-cancels-20000-flights-as-jet-fuel-prices-soar"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "G7 omits climate change from Paris meeting to avoid US clash",
+        "summary": "The G7 environment ministers' meeting in Paris has excluded climate change from its agenda to prevent disagreement with the United States over climate policy. France, chairing the meeting, opted to sideline climate discussions to maintain G7 unity and avoid confrontation with the Trump administration. The decision represents a significant departure from the G7's traditional commitment to coordinated climate action and global climate commitments. The omission reflects broader tensions within the G7 regarding divergent climate policies between the US and European members. The exclusion underscores the challenges facing international cooperation on climate policy and signals a potential weakening of collective G7 climate ambitions during a critical period for global environmental action.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260423-g7-climate-change-omits-paris-meeting-us-france"
+          }
+        ],
+        "tags": [
+          "climate",
+          "trade",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-23T06:01:23Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US-Iran tensions escalate as blockade deepens, threatening global oil supplies",
+        "summary": "Tensions between the US and Iran have reached critical levels as both nations conduct military operations in the Strait of Hormuz, with Iran seizing container ships and the US intercepting Iranian oil tankers. Despite Trump's announcement of a ceasefire extension at Pakistan's request, the situation remains volatile, with shipping disruptions affecting global energy markets. Oil prices have fluctuated amid concerns that the standoff could disrupt supplies through one of the world's most critical waterways. The Trump administration is engaged in mediation efforts, though diplomatic progress has been limited. The escalation is driving up costs across global industries, from aviation fuel to manufacturing, creating widespread economic uncertainty.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Israeli airstrike kills Lebanese journalist, raising concerns over ceasefire stability",
+        "summary": "An Israeli military strike in southern Lebanon killed journalist Amal Khalil and wounded fellow reporter Zeinab Faraj in what witnesses described as a 'double-tap' attack targeting the same location twice. The incident occurred as ceasefire negotiations were set to take place in Washington, raising questions about the commitment to maintaining peace along the Israel-Lebanon border. The attack underscores the fragility of the ceasefire and the ongoing military tensions in the region despite diplomatic efforts. International observers have expressed alarm at attacks targeting media personnel, which are protected under international humanitarian law. The strike adds pressure to peace talks already complicated by broader US-Iran tensions.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c80m4822m1no"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Ukraine reopens Druzhba pipeline, unlocking critical EU financial support",
+        "summary": "Ukraine has successfully completed repairs to the Druzhba pipeline, a crucial energy infrastructure project that had been stalled for months amid disputes over oil supplies to Hungary. The reopening of this strategic transport corridor is expected to unlock billions in EU financial support that had been frozen pending resolution of the pipeline issue. The achievement represents a significant diplomatic breakthrough, demonstrating Ukraine's commitment to maintaining European energy security while balancing concerns from neighboring EU states. European leaders have welcomed the development as it addresses longstanding tensions over Hungary's objections to transit sanctions on Russian oil. The resolution is expected to accelerate EU aid disbursements to support Ukraine's ongoing conflict and economic stabilization.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo"
+          }
+        ],
+        "tags": [
+          "economy",
+          "diplomacy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Iran cuts off global internet access, forcing citizens to flee country for connectivity",
+        "summary": "Iran has taken the extreme step of severing its access to the global internet, effectively cutting off its population from international communication networks and forcing thousands of citizens to cross borders into Turkey simply to access online services and make video calls. The unprecedented move represents one of the most severe restrictions on digital communication by any nation-state and reflects escalating tensions during the ongoing standoff with the US. Citizens report traveling to neighboring countries to reconnect with family, access information, and maintain business operations, creating a humanitarian crisis centered on digital access. The action coincides with heightened military tensions and the internal security crackdown accompanying external conflicts. The internet shutdown also serves as a tool for controlling information flow and suppressing dissent during a period of unprecedented regional instability.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey"
+          }
+        ],
+        "tags": [
+          "technology",
+          "humanitarian",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Microsoft commits $18 billion to AI infrastructure development in Australia",
+        "summary": "Microsoft has announced a major $18 billion investment in Australia to develop artificial intelligence infrastructure and cloud computing capabilities, signaling the tech giant's commitment to expanding AI operations in the Asia-Pacific region. The investment includes building data centers and expanding workforce capabilities to support growing demand for AI services from Australian businesses and institutions. The move reflects broader competition among major tech companies to establish regional AI hubs and secure access to computing resources outside the US. Australia's government has welcomed the investment as a boost to the economy and technological development. The project is expected to create thousands of jobs and position Australia as a major player in the global AI technology supply chain.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Pope Leo criticizes mineral colonization during African tour, advocates prison reform",
+        "summary": "Pope Leo has delivered passionate speeches during his tour of Africa criticizing the historical and ongoing colonial exploitation of the continent's mineral resources by wealthy nations and international corporations. The pontiff visited Equatorial Guinea where he specifically advocated for reform of the nation's prison system, emphasizing the need for more humane treatment of incarcerated individuals. His remarks represent a rare and direct papal criticism of global economic structures that perpetuate inequality and resource extraction in developing nations. The Pope's tour has highlighted religious leadership on issues of social justice, economic fairness, and human dignity. The speeches are expected to influence Vatican policy toward African nations and international development discussions.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c80m4822m1no"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/22/pope-leo-urges-justice-reform-in-equatorial-guineas-prisons"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "humanitarian",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Indonesia grants legal recognition to 4.2 million domestic workers, major labor rights victory",
+        "summary": "Indonesia has achieved a landmark milestone by granting full legal recognition and worker protections to its 4.2 million domestic workers, ending decades of advocacy and activism by labor rights organizations. The recognition brings domestic workers under national labor laws, providing protections for wages, working hours, and safety standards that were previously unavailable. This represents one of the largest expansions of labor rights in Southeast Asia and serves as a model for other developing nations with large informal domestic worker populations. The victory comes after extensive grassroots campaigning by worker organizations and international labor advocates who highlighted widespread exploitation and abuse in the sector. The legal framework is expected to improve working conditions and reduce vulnerabilities for millions of women and migrants in domestic service positions.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c1mkvjkg10no"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Renewable energy overtakes global electricity demand for first time",
+        "summary": "Global renewable energy sources have surpassed fossil fuels as the primary source of electricity generation worldwide, marking a historic milestone in the global energy transition. The achievement was driven primarily by explosive growth in solar power installations in China and India, which together account for the majority of new renewable capacity additions globally. This represents a fundamental shift in global energy infrastructure away from carbon-intensive fuels and demonstrates the accelerating pace of the clean energy transition. The milestone comes amid intensifying climate change impacts and growing international commitments to net-zero emissions targets. Continued growth in renewable capacity is expected to further reduce emissions and improve global air quality while creating new economic opportunities in the clean energy sector.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "climate",
+          "economy",
+          "technology"
+        ]
+      }
+    ]
+  }
+}

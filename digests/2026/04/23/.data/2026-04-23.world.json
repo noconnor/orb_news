@@ -1,0 +1,85 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-23T06:01:23Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US-Iran tensions escalate as blockade deepens, threatening global oil supplies",
+      "summary": "Tensions between the US and Iran have reached critical levels as both nations conduct military operations in the Strait of Hormuz, with Iran seizing container ships and the US intercepting Iranian oil tankers. Despite Trump's announcement of a ceasefire extension at Pakistan's request, the situation remains volatile, with shipping disruptions affecting global energy markets. Oil prices have fluctuated amid concerns that the standoff could disrupt supplies through one of the world's most critical waterways. The Trump administration is engaged in mediation efforts, though diplomatic progress has been limited. The escalation is driving up costs across global industries, from aviation fuel to manufacturing, creating widespread economic uncertainty.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Israeli airstrike kills Lebanese journalist, raising concerns over ceasefire stability",
+      "summary": "An Israeli military strike in southern Lebanon killed journalist Amal Khalil and wounded fellow reporter Zeinab Faraj in what witnesses described as a 'double-tap' attack targeting the same location twice. The incident occurred as ceasefire negotiations were set to take place in Washington, raising questions about the commitment to maintaining peace along the Israel-Lebanon border. The attack underscores the fragility of the ceasefire and the ongoing military tensions in the region despite diplomatic efforts. International observers have expressed alarm at attacks targeting media personnel, which are protected under international humanitarian law. The strike adds pressure to peace talks already complicated by broader US-Iran tensions.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c80m4822m1no"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "Ukraine reopens Druzhba pipeline, unlocking critical EU financial support",
+      "summary": "Ukraine has successfully completed repairs to the Druzhba pipeline, a crucial energy infrastructure project that had been stalled for months amid disputes over oil supplies to Hungary. The reopening of this strategic transport corridor is expected to unlock billions in EU financial support that had been frozen pending resolution of the pipeline issue. The achievement represents a significant diplomatic breakthrough, demonstrating Ukraine's commitment to maintaining European energy security while balancing concerns from neighboring EU states. European leaders have welcomed the development as it addresses longstanding tensions over Hungary's objections to transit sanctions on Russian oil. The resolution is expected to accelerate EU aid disbursements to support Ukraine's ongoing conflict and economic stabilization.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo"}
+      ],
+      "tags": ["economy", "diplomacy", "trade"]
+    },
+    {
+      "headline": "Iran cuts off global internet access, forcing citizens to flee country for connectivity",
+      "summary": "Iran has taken the extreme step of severing its access to the global internet, effectively cutting off its population from international communication networks and forcing thousands of citizens to cross borders into Turkey simply to access online services and make video calls. The unprecedented move represents one of the most severe restrictions on digital communication by any nation-state and reflects escalating tensions during the ongoing standoff with the US. Citizens report traveling to neighboring countries to reconnect with family, access information, and maintain business operations, creating a humanitarian crisis centered on digital access. The action coincides with heightened military tensions and the internal security crackdown accompanying external conflicts. The internet shutdown also serves as a tool for controlling information flow and suppressing dissent during a period of unprecedented regional instability.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey"}
+      ],
+      "tags": ["technology", "humanitarian", "conflict"]
+    },
+    {
+      "headline": "Microsoft commits $18 billion to AI infrastructure development in Australia",
+      "summary": "Microsoft has announced a major $18 billion investment in Australia to develop artificial intelligence infrastructure and cloud computing capabilities, signaling the tech giant's commitment to expanding AI operations in the Asia-Pacific region. The investment includes building data centers and expanding workforce capabilities to support growing demand for AI services from Australian businesses and institutions. The move reflects broader competition among major tech companies to establish regional AI hubs and secure access to computing resources outside the US. Australia's government has welcomed the investment as a boost to the economy and technological development. The project is expected to create thousands of jobs and position Australia as a major player in the global AI technology supply chain.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    },
+    {
+      "headline": "Pope Leo criticizes mineral colonization during African tour, advocates prison reform",
+      "summary": "Pope Leo has delivered passionate speeches during his tour of Africa criticizing the historical and ongoing colonial exploitation of the continent's mineral resources by wealthy nations and international corporations. The pontiff visited Equatorial Guinea where he specifically advocated for reform of the nation's prison system, emphasizing the need for more humane treatment of incarcerated individuals. His remarks represent a rare and direct papal criticism of global economic structures that perpetuate inequality and resource extraction in developing nations. The Pope's tour has highlighted religious leadership on issues of social justice, economic fairness, and human dignity. The speeches are expected to influence Vatican policy toward African nations and international development discussions.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c80m4822m1no"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/22/pope-leo-urges-justice-reform-in-equatorial-guineas-prisons"}
+      ],
+      "tags": ["diplomacy", "humanitarian", "economy"]
+    },
+    {
+      "headline": "Indonesia grants legal recognition to 4.2 million domestic workers, major labor rights victory",
+      "summary": "Indonesia has achieved a landmark milestone by granting full legal recognition and worker protections to its 4.2 million domestic workers, ending decades of advocacy and activism by labor rights organizations. The recognition brings domestic workers under national labor laws, providing protections for wages, working hours, and safety standards that were previously unavailable. This represents one of the largest expansions of labor rights in Southeast Asia and serves as a model for other developing nations with large informal domestic worker populations. The victory comes after extensive grassroots campaigning by worker organizations and international labor advocates who highlighted widespread exploitation and abuse in the sector. The legal framework is expected to improve working conditions and reduce vulnerabilities for millions of women and migrants in domestic service positions.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c1mkvjkg10no"}
+      ],
+      "tags": ["humanitarian", "economy", "governance"]
+    },
+    {
+      "headline": "Renewable energy overtakes global electricity demand for first time",
+      "summary": "Global renewable energy sources have surpassed fossil fuels as the primary source of electricity generation worldwide, marking a historic milestone in the global energy transition. The achievement was driven primarily by explosive growth in solar power installations in China and India, which together account for the majority of new renewable capacity additions globally. This represents a fundamental shift in global energy infrastructure away from carbon-intensive fuels and demonstrates the accelerating pace of the clean energy transition. The milestone comes amid intensifying climate change impacts and growing international commitments to net-zero emissions targets. Continued growth in renewable capacity is expected to further reduce emissions and improve global air quality while creating new economic opportunities in the clean energy sector.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["climate", "economy", "technology"]
+    }
+  ]
+}

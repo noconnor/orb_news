@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-23",
+  "update_type": "morning",
+  "steps": {
+    "setup": {
+      "start": 1776920417,
+      "end": 1776920429,
+      "duration_s": 12
+    },
+    "gather": {
+      "start": 1776920429,
+      "end": 1776920520,
+      "duration_s": 91,
+      "notes": "ireland=62s, europe=90s, world=47s (parallel)"
+    },
+    "preprocess_historical": {
+      "duration_s": 2
+    },
+    "digest_write": {
+      "duration_s": 222
+    },
+    "audio": {
+      "start": 1776920786,
+      "end": 1776920915,
+      "duration_s": 129
+    },
+    "commit": {
+      "start": 1776920915,
+      "end": null,
+      "duration_s": null
+    }
+  },
+  "models_used": {
+    "gather": "haiku",
+    "digest_writer": "sonnet",
+    "audio": "script (no LLM)"
+  },
+  "cost_estimate_usd": {
+    "gather_haiku_x3": 0.04,
+    "digest_writer_sonnet": 0.12,
+    "audio": 0.0,
+    "orchestrator": 0.05,
+    "total_approx": 0.21
+  }
+}

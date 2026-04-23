@@ -1,0 +1,78 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-23T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Government launches national AI skills platform as doctors increasingly adopt AI in clinical practice",
+      "summary": "The Irish government has launched a new national artificial intelligence training platform providing broader access to AI skill development, coinciding with findings that 58% of doctors now use AI in clinical practice within the last year, with more than one in five using it daily. The platform aims to equip workers and professionals with AI capabilities as the technology becomes increasingly embedded in healthcare and other sectors. This development reflects Ireland's strategic focus on AI adoption and digital upskilling across the economy. The move signals government commitment to ensuring Irish healthcare professionals and the broader workforce can effectively integrate AI tools into their practice.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/2026/0423/1569642-ai-skills-platform/"},
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0423/1569625-ai-clinical-practice/"}
+      ],
+      "tags": ["economy", "health", "technology"]
+    },
+    {
+      "headline": "Dáil bye-elections to be officially set as Minister signs election order",
+      "summary": "Minister for Housing and Local Government James Browne will sign the election order to officially set the date for two Dáil bye-elections, bringing forward the formal process for filling vacant seats in the lower house. The bye-elections represent standard democratic renewal processes following Dáil vacancies. The formal signing of the election order marks a key procedural step in the parliamentary timeline. This development follows established constitutional procedures for filling parliamentary vacancies through direct democratic voting.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0423/1569669-dail-bye-elections/"}
+      ],
+      "tags": ["politics"]
+    },
+    {
+      "headline": "Housing crisis deepens as rental properties through HAP scheme more than halve since December",
+      "summary": "The number of properties available to rent through the Housing Assistance Payment scheme has more than halved since December 2025, reflecting the deepening housing shortage facing Ireland. Under the HAP scheme, eligible individuals source private rented accommodation with rent paid by their local council, making it a critical support mechanism for vulnerable renters. The dramatic decline in available properties indicates worsening conditions in the private rental market and reduced participation by landlords. This development signals an urgent escalation in Ireland's housing crisis, directly impacting thousands of tenants dependent on rental support schemes.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41832143.html"}
+      ],
+      "tags": ["housing", "economy"]
+    },
+    {
+      "headline": "Over 30% of women face barriers accessing Ireland's free contraception scheme, report reveals",
+      "summary": "A new report has found that more than 30% of women face significant barriers when attempting to access Ireland's free contraception scheme, with particular challenges identified for migrant women, LGBTQ+ individuals, Travellers, and people with disabilities. The findings highlight systemic accessibility issues with a government program intended to improve reproductive healthcare access and affordability. The barriers documented include administrative, language, cultural, and identity-related obstacles that prevent vulnerable populations from benefiting from the scheme. These findings underscore the gap between policy intention and practical implementation in ensuring equitable healthcare access across diverse communities.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/22/more-than-30-of-women-face-barriers-accessing-the-free-contraception-scheme-report-finds/"}
+      ],
+      "tags": ["health", "social"]
+    },
+    {
+      "headline": "Housing charity warns of tenant protection risks in modular garden homes plan",
+      "summary": "The housing charity Threshold has raised significant concerns about proposed changes to planning exemptions and rent-a-room regulations that could undermine tenant protections in the context of modular garden homes. The organisation warns that exemptions could inadvertently create loopholes allowing landlords to circumvent established tenancy laws. The planned policy changes were intended to accelerate housing supply through modular construction, but Threshold argues this risks trading protection for vulnerable tenants against increased housing units. These concerns highlight the delicate balance between housing supply expansion and maintaining robust renter safeguards in Ireland.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/housing-planning/2026/04/22/threshold-warns-modular-garden-homes-risk-creating-licensee-loophole-in-tenant-protections/"}
+      ],
+      "tags": ["housing", "social"]
+    },
+    {
+      "headline": "Government reports substantial shift among EU states on Israel policy ahead of Occupied Territories Bill",
+      "summary": "Foreign Affairs Minister Micheál Martin reported significant progress on Ireland's Occupied Territories Bill, noting a substantial shift in attitudes among EU member states regarding Israel policy. The development reflects evolving European perspectives on the Israeli-Palestinian conflict and international humanitarian law. Minister Máire McEntee highlighted the diplomatic momentum being built on the issue, with multiple EU states moving toward stronger positions on Palestinian rights. This progress comes as Ireland intensifies its diplomatic efforts to advance the bill while maintaining engagement with international partners on Middle East policy.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/22/substantial-shift-among-eu-states-on-israel-says-mcentee/"}
+      ],
+      "tags": ["politics", "diplomacy"]
+    },
+    {
+      "headline": "Taoiseach to attend EU meeting in Cyprus amid energy and Ukraine tensions",
+      "summary": "Taoiseach Micheál Martin will participate in an EU member state meeting in Cyprus to discuss pressing European issues including energy costs, Middle Eastern tensions, and the ongoing situation in Ukraine. The gathering brings together European leadership to address multiple geopolitical and economic challenges affecting the continent. Ireland's participation underscores its commitment to coordinated EU responses on these critical issues. The discussions are expected to cover energy policy solutions to address affordability concerns across member states, alongside foreign policy coordination on regional security matters.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0423/1569670-taoiseach-eu-meeting/"}
+      ],
+      "tags": ["politics", "economy"]
+    },
+    {
+      "headline": "Electricity Association of Ireland releases guidance to help consumers reduce energy costs",
+      "summary": "The Electricity Association of Ireland has published a consumer guide addressing ongoing household energy affordability concerns affecting Irish households. The guidance provides practical recommendations for reducing energy consumption and managing household electricity costs. The initiative responds to persistent consumer concerns about energy price pressures impacting household budgets and living standards. The release of consumer-focused guidance represents the industry's engagement with the broader energy affordability crisis facing Irish homes and businesses.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0423/1569667-eai-consumers-guide/"}
+      ],
+      "tags": ["economy", "social"]
+    }
+  ]
+}

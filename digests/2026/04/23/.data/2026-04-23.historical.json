@@ -1,0 +1,47 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US-Iran tensions escalate as blockade deepens, threatening global oil supplies",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis; The Tanker War (1984–1988); The 1990 Oil Price Shock; Operation Eagle Claw (1980)",
+      "date_range": "1973; 1984–1988; 1990; 1980",
+      "summary": "The 1973 Arab oil embargo caused oil prices to quadruple, producing recession and a lasting restructuring of Western energy policy. The Tanker War of 1984–1988 saw deliberate weaponisation of maritime commerce through attacks on neutral shipping in the Gulf, drawing in US naval escorts. The 1990 oil price shock removed roughly 4.3 million barrels per day from global supply almost instantaneously following Iraq's invasion of Kuwait, contracting global growth in a pattern closely mirroring current Hormuz closure modelling. Operation Eagle Claw in 1980 illustrated how even a single military miscalculation in the Gulf can dramatically escalate a volatile standoff. The present crisis synthesises elements of all these precedents — oil-choke-point leverage, Tanker War naval confrontation mechanics, and 1990-style GDP shock dynamics — but plays out with far tighter global supply margins and a Europe already under fiscal strain.",
+      "parallel_analysis": "Each of these Gulf crises produced a sharp, broad-based economic shock that persisted long after the immediate military trigger had subsided. What distinguishes the current episode is the simultaneous pressure from a prolonged Ukraine conflict draining European fiscal reserves, meaning Western governments face this energy shock with far less fiscal headroom than their predecessors possessed. The synthesis of all four precedents suggests the standoff has both the political leverage dynamics of 1973 and the naval escalation risks of 1984–1988, compounded by modern supply-chain integration that amplifies contagion velocity.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "EU unblocks €90 billion Ukraine loan after pipeline dispute resolution",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II (1944–1945); The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966); Korean War Stalemate",
+      "date_range": "1944–1945; 1965–1966; 1950–1953",
+      "summary": "The Allied strategic bombing campaign against German oil infrastructure from 1944 demonstrated how control of energy supply lines can be weaponised to hasten the collapse of an adversary's war-making capacity — the same logic underlies Russia's targeting of Ukrainian energy infrastructure and Ukraine's leverage over Druzhba transit. The Empty Chair Crisis of 1965–1966, when France boycotted Council meetings to resist majority voting, produced the Luxembourg Compromise and is the constitutional ancestor of Hungary's current blocking tactics within EU unanimity requirements. The Korean War armistice negotiations dragged on for two years while fighting continued, illustrating how military stalemates persist even when both sides recognise the cost — shaping the background calculus of every EU financing decision tied to Ukraine's ability to sustain its front lines. Ukraine's pipeline restoration represents a calculated trade-off: short-term energy transit concessions in exchange for unlocking macro-financial support vital to wartime state functions.",
+      "parallel_analysis": "The Druzhba resolution navigates energy leverage, institutional veto politics, and the economics of sustained conflict simultaneously. Hungary's ability to hold a €90 billion package hostage over a bilateral energy dispute exposes the structural fragility of EU financial commitments when political disagreements intersect with energy dependency — precisely the dynamic the Luxembourg Compromise was designed to entrench. EU leaders regard each incremental breakthrough as consequential far beyond its immediate financial value because the precedents set now will define the architecture of future solidarity commitments.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Korean_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Iran cuts off global internet access, forcing citizens to flee country for connectivity",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Iran-Iraq War (1980–1988); Operation Eagle Claw (1980); The Tanker War (1984–1988)",
+      "date_range": "1980–1988; 1980; 1984–1988",
+      "summary": "The Iran-Iraq War demonstrated how an Iranian regime under sustained existential pressure prioritises internal cohesion and information control over international norms, prosecuting an eight-year conflict while maintaining tight domestic censorship. Operation Eagle Claw showed how a high-stakes military confrontation can rapidly transform an internal political crisis into a nationalist rallying moment, giving the regime pretext for tightening domestic control. The Tanker War established the playbook of disrupting international commerce as coercive leverage, and the domestic information suppression that accompanied that earlier phase provides historical context for why the regime views the internet shutdown as a logical component of the same strategic toolkit. The shutdown extends these historical patterns into the digital domain with a thoroughness that authoritarian predecessors could not technically achieve.",
+      "parallel_analysis": "The synthesis of these parallels suggests the internet shutdown is not a reactive panic measure but a deliberate, historically-grounded instrument of regime consolidation deployed alongside military escalation. The digital dimension represents a qualitatively new form of population control — the regime can now enforce informational siege conditions that previously would have required physical curfews and press censorship, and the fact that citizens must physically cross a border to regain connectivity marks a profound extension of state sovereignty over individual communication.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/Tanker_war"
+      ]
+    }
+  ]
+}
