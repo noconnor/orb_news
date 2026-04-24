@@ -209,6 +209,18 @@
       "historical_event": "Article 7 Proceedings against Hungary and Poland (2017–2024)",
       "date_first_used": "2026-04-22",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Article_7_of_the_Treaty_on_European_Union"
+    },
+    {
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Marshall Plan (1948–1952)",
+      "date_first_used": "2026-04-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan"
+    },
+    {
+      "story_topic": "tech industry mass layoffs",
+      "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "date_first_used": "2026-04-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
     }
   ]
 }

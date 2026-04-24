@@ -1,0 +1,389 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "The Suez Crisis",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "US and Iran deadlocked over Strait of Hormuz as Trump orders military action against Iranian vessels"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Lebanon-Israel ceasefire extended by 3 weeks amid broader Middle East tensions"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "EU approves $106 billion loan package for Ukraine after Hungary withdraws veto"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Meta announces 10% workforce reduction following strategic business changes"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "European airlines cancel tens of thousands of flights due to jet fuel cost crisis from Iran conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "White House alleges mass artificial intelligence theft by Chinese firms targeting US models"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "FDA approves first gene therapy treatment for hereditary deafness"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'UK government security vetting scandal' — 1 prior parallels, room for more. Must not reuse: The Profumo Affair (1963)",
+      "existing_parallels": [
+        "The Profumo Affair (1963)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Profumo_affair"
+      ],
+      "matched_topic": "UK government security vetting scandal",
+      "headline": "US soldier charged with insider trading on Polymarket platform using classified information"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU approves €90 billion loan for Ukraine after Hungary lifts two-month veto"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "12 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Suez Crisis",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The 1990 Oil Price Shock",
+        "The Winter War (1939-1940)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "The Profumo Affair (1963)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Profumo_affair",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "EU leaders convene in Cyprus summit to discuss Ukraine, defence, and energy security"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Bulgaria Russia alignment'",
+      "existing_parallels": [
+        "People's Republic of Bulgaria and Soviet Alignment (1946–1990)",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+      ],
+      "matched_topic": "Bulgaria Russia alignment",
+      "headline": "Bulgaria's pro-Russian former president Radev wins parliamentary election"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Valerie's Law parental rights legislation' — 2 prior parallels, room for more. Must not reuse: Megan's Law (United States, 1994–1996), The Popular Front (1930s)",
+      "existing_parallels": [
+        "Megan's Law (United States, 1994–1996)",
+        "The Popular Front (1930s)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Megan%27s_Law",
+        "https://en.wikipedia.org/wiki/Popular_Front"
+      ],
+      "matched_topic": "Valerie's Law parental rights legislation",
+      "headline": "EU court rejects Hungary's anti-LGBTQ legislation as violation of EU rules"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Train collision near Copenhagen leaves 18 injured in major emergency response"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "European renewable energy boom cuts electricity prices by 25 percent amid energy crisis"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "The Suez Crisis",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Electric vehicle sales surge nearly 50 percent in EU amid Iran conflict energy concerns"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Eurozone private sector contraction raises recession fears amid Iran war effects"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Meta confirms 10% global workforce cuts, threatening Irish jobs"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Irish peacekeepers prepare for final Lebanon deployment as UNIFIL mission changes"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Children's Ombudsman warns of 'stomach-churning' state care crisis"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Dublin City Council approves €100m St Stephen's Green Shopping Centre redevelopment"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "High Court allows Enoch Burke's disciplinary hearing to proceed"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ireland meets all EU air pollution reduction targets for 2024"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Pfizer threatens 102 job losses at Cork manufacturing facility"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Irish government announces substantial support packages for agriculture and transport sectors"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Valerie's Law parental rights legislation",
+      "historical_event": "Megan's Law (United States, 1994–1996)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Megan%27s_Law"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Irish Land War (1879-1882)",
+      "date_first_used": "2026-04-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Land_War"
+    },
+    {
+      "story_topic": "UK government security vetting scandal",
+      "historical_event": "The Profumo Affair (1963)",
+      "date_first_used": "2026-04-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Profumo_affair"
+    },
+    {
+      "story_topic": "Bulgaria Russia alignment",
+      "historical_event": "People's Republic of Bulgaria and Soviet Alignment (1946–1990)",
+      "date_first_used": "2026-04-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

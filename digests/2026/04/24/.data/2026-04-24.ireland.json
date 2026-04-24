@@ -1,0 +1,87 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-24T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Meta confirms 10% global workforce cuts, threatening Irish jobs",
+      "summary": "Facebook parent company Meta announced it will cut 10% of its global workforce, affecting approximately 8,000 staff worldwide. The decision raises concerns specifically for Irish employment, given Meta's significant operations and presence in the country. Meta has substantial manufacturing and technology operations in Ireland, making the company a major employer. The layoffs represent a significant contraction following a period of rapid expansion and high hiring. The move reflects broader economic pressures facing major tech firms in 2026.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0424/1569874-meta-layoffs/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/"}
+      ],
+      "tags": ["economy", "technology", "employment"]
+    },
+    {
+      "headline": "Irish peacekeepers prepare for final Lebanon deployment as UNIFIL mission changes",
+      "summary": "Three hundred and forty-four Irish peacekeepers are preparing for their deployment to Lebanon with UNIFIL next month, marking the final mission in this operational form. The 128 Infantry Battalion will travel with 318 soldiers in May as part of Ireland's long-standing commitment to UN peacekeeping. This deployment represents a historic milestone for the Irish Defence Forces, as it signals the end of an era for how this particular mission has been conducted. The timing comes amid ongoing regional tensions and increased peacekeeper casualties in the area. Irish troops have maintained a consistent peacekeeping presence in Lebanon for decades.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0423/1569854-end-of-an-era-as-battalion-trains-ahead-of-unfil-mission/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/irish-troops-prepare-for-last-full-lebanon-deployment-as-death-toll-of-peacekeepers-mounts-7021685-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/"}
+      ],
+      "tags": ["defence", "politics", "international"]
+    },
+    {
+      "headline": "Children's Ombudsman warns of 'stomach-churning' state care crisis",
+      "summary": "The Ombudsman for Children, Niall Muldoon, has issued a stark warning about the state's failure to adequately care for vulnerable young people in its care system. Muldoon described conditions as 'stomach-churning' and highlighted that the State is putting children at serious risk through poor forward planning. There is no legal status for the widely-used Special Emergency Arrangements, making them 'dangerous' according to the Ombudsman. Inspectors have found residents at an IPAS centre in the mid-west living in tented accommodation despite 146 vacancies in on-site facilities. The crisis demands urgent government action to address systemic failures in child protection and welfare.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/investigations-unit/2026/0423/1569864-stomach-churning-ombudsman-urges-govt-to-act-on-care-crisis/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/childrens-ombudsman-says-states-poor-forward-planning-is-putting-children-in-care-at-risk-7022110-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/"}
+      ],
+      "tags": ["social", "health", "politics"]
+    },
+    {
+      "headline": "Dublin City Council approves €100m St Stephen's Green Shopping Centre redevelopment",
+      "summary": "Dublin City Council has granted planning permission for the major redevelopment of Stephen's Green Shopping Centre, a landmark project valued at €100 million. The approval moves forward a significant regeneration scheme for one of Dublin's iconic retail locations, despite some local opposition. A campaign group called Save Stephen's Green lodged objections backed by a petition of 20,000 signatures, but the council approved the project. The redevelopment is expected to revitalize the ageing shopping centre and contribute to Dublin's economic activity. The decision represents a major investment in Dublin city centre infrastructure and retail.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/dublin/2026/0423/1569852-stephens-green-redevelopment/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/green-light-for-e100m-rejuvenation-of-iconic-landmark-st-stephens-green-shopping-centre-7022049-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/"}
+      ],
+      "tags": ["economy", "housing", "politics"]
+    },
+    {
+      "headline": "High Court allows Enoch Burke's disciplinary hearing to proceed",
+      "summary": "The High Court has ruled that an oral hearing to assess the dismissal of Enoch Burke from Wilson's Hospital School will proceed as scheduled. Burke, a jailed anti-transgender teacher, sought an injunction to defer the hearing, but the court rejected his application. The decision clears the way for the school's disciplinary panel to conduct a formal oral hearing on the merits of Burke's case. The hearing comes amid ongoing legal battles between Burke and his former employer over his dismissal. The case has become a flashpoint in broader debates about religious liberty, education policy, and transgender rights in Ireland.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/enoch-burke-fails-in-legal-bid-to-stop-disciplinary-hearing-7022038-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/23/panel-meeting-to-assess-enoch-burkes-dismissal-will-go-ahead-high-court-rules/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41832989.html"}
+      ],
+      "tags": ["politics", "education", "law"]
+    },
+    {
+      "headline": "Ireland meets all EU air pollution reduction targets for 2024",
+      "summary": "The Environmental Protection Agency has reported that Ireland has successfully complied with all its European Union air pollution reduction targets for 2024. This achievement demonstrates Ireland's commitment to meeting strict environmental standards set by the EU. The EPA's positive assessment comes as air quality remains a key focus area for Irish environmental policy and public health. Meeting these targets reflects improvements in industrial emissions, transport regulations, and other pollution control measures across the country. The success provides a baseline as Ireland continues working toward even more ambitious climate and environmental goals.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0423/1569871-epa-report/"}
+      ],
+      "tags": ["environment", "health", "policy"]
+    },
+    {
+      "headline": "Pfizer threatens 102 job losses at Cork manufacturing facility",
+      "summary": "Pharmaceutical giant Pfizer has confirmed it is evaluating its manufacturing network and faces the potential loss of 102 jobs at its Ringaskiddy facility in Cork. The company cited an expected decline in demand as the reason for reviewing its operations in Ireland. The announcement triggered an urgent response from Siptu, Ireland's largest trade union, which called for immediate talks with the company. Pfizer's Cork facility has been a major employer in the region for decades, and any significant job losses would have substantial economic impact on Munster. The situation highlights vulnerability in Ireland's pharmaceutical manufacturing sector to global market fluctuations.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/pfizer-ringaskiddy-jobs-7021087-Apr2026/"}
+      ],
+      "tags": ["economy", "employment", "business"]
+    },
+    {
+      "headline": "Irish government announces substantial support packages for agriculture and transport sectors",
+      "summary": "The Taoiseach announced that substantial support packages will be rolled out for the agriculture and transport sectors, with measures designed to significantly reduce green diesel costs. The announcement came in response to ongoing fuel price protests and concerns from hauliers and farmers about rising operational costs. The government emphasizes the packages represent a targeted response to the pressures facing these critical sectors. The Tánaiste ruled out a broader 'mini budget' but confirmed the focused support approach made sense given sector priorities. The measures aim to provide relief while managing broader fiscal considerations.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/substantial-packages-to-be-announced-under-agriculture-and-transport-schemes-taoiseach-says-7021776-Apr2026/"}
+      ],
+      "tags": ["economy", "politics", "transport"]
+    }
+  ]
+}

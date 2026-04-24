@@ -1,0 +1,109 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-24T12:00:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU approves €90 billion loan for Ukraine after Hungary lifts two-month veto",
+      "summary": "European Union leaders have unblocked a long-delayed €90 billion financial support package for Ukraine after Hungary ended its two-month obstruction, with the first payment expected imminently. The breakthrough came after Ukraine repaired the Druzhba pipeline, removing the key issue blocking Hungarian Prime Minister Viktor Orbán's approval. EU President emphasized that the funds are critical to supporting Ukraine's economic stability and wartime needs. Ukrainian President Zelenskyy welcomed the decision and stressed that Ukraine needs full EU membership rather than symbolic membership. The funding decision was part of a broader EU leaders' summit held in Cyprus that also addressed Ukraine's accession prospects.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260423-zelensky-to-join-european-leaders-in-cyprus-as-eu-unblocks-%E2%82%AC90bn-ukraine-loan"
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/23/eu-approves-90-billion-loan-for-ukraine-after-hungary-lifts-controversial-veto"
+        }
+      ],
+      "tags": ["EU", "economy", "Ukraine", "diplomacy"]
+    },
+    {
+      "headline": "EU leaders convene in Cyprus summit to discuss Ukraine, defence, and energy security",
+      "summary": "European Union heads of state and government gathered in Cyprus on April 23-24 to address critical strategic issues affecting the bloc. The agenda included discussions on Ukraine's path to EU membership, mutual defence protocols under Article 42.7, energy security amid Middle East tensions, and maritime responses in the Strait of Hormuz. Leaders focused on developing concrete protocols for collective defence while responding to global geopolitical pressures affecting European energy markets. The summit reflected the EU's determination to strengthen security cooperation while maintaining support for Ukraine in its conflict with Russia.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/04/23/eu-leaders-meet-in-cyprus-to-talk-ukraine-hormuz-energy-and-mutual-defence"
+        },
+        {
+          "name": "European Parliament",
+          "url": "https://www.europarl.europa.eu/news/en/press-room/20260423IPR41854/"
+        }
+      ],
+      "tags": ["EU", "defence", "diplomacy", "governance"]
+    },
+    {
+      "headline": "Bulgaria's pro-Russian former president Radev wins parliamentary election",
+      "summary": "Rumen Radev, Bulgaria's Kremlin-friendly former president, secured a parliamentary majority in Bulgaria's elections on April 20, marking a significant shift toward pro-Russian alignment in the EU. Radev described his victory as a 'victory of hope,' appealing to voters concerned about economic hardship and EU policies. The election result reflects growing divisions within the EU over its approach to Russia, as Bulgaria's new leadership is expected to take a more accommodating stance toward Moscow. This outcome adds complexity to EU unanimity requirements, particularly on Russia sanctions and Ukraine support decisions.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260420-bulgaria-s-kremlin-friendly-former-president-radev-wins-parliamentary-election"
+        }
+      ],
+      "tags": ["elections", "governance", "geopolitics", "EU"]
+    },
+    {
+      "headline": "EU court rejects Hungary's anti-LGBTQ legislation as violation of EU rules",
+      "summary": "The European Court of Justice delivered a landmark ruling against Hungary's 2021 anti-LGBTQ law, finding it violates foundational EU regulations on fundamental rights and freedoms. The decision represents a significant victory for human rights advocates and the European Commission in its ongoing dispute with Hungary over democratic standards and minority protections. Hungary's legislation had restricted public visibility of LGBTQ content and limited recognition of diverse family structures, drawing criticism from across the EU. The ruling underscores the EU's commitment to enforcing human rights standards across member states despite political tensions with Budapest.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/landmark-eu-court-ruling-rejects-hungary-anti-lgbtq-law"
+        }
+      ],
+      "tags": ["governance", "human rights", "EU regulation"]
+    },
+    {
+      "headline": "Train collision near Copenhagen leaves 18 injured in major emergency response",
+      "summary": "A significant train collision occurred near Copenhagen, Denmark on April 23, resulting in at least 18 people injured and triggering a large-scale emergency response. The incident prompted deployment of emergency services and raised questions about railway safety and coordination in Scandinavia. The collision represents one of Denmark's most serious recent transport incidents and has led to investigations into the causes. Emergency crews worked to assist the injured and clear the affected train line, disrupting regional transport services.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260423-train-collision-in-denmark-prompts-massive-emergency-response-near-copenhagen"
+        }
+      ],
+      "tags": ["transport", "emergency", "safety"]
+    },
+    {
+      "headline": "European renewable energy boom cuts electricity prices by 25 percent amid energy crisis",
+      "summary": "Europe's rapidly expanding renewable energy capacity has delivered substantial price reductions, with data showing electricity costs have fallen 25 percent as solar and wind power generation increases across the continent. The trend reflects the EU's strategic shift toward green energy independence, reducing vulnerability to fossil fuel supply disruptions and price volatility. Increased renewable penetration is decoupling Europe from global energy shocks, particularly important given Middle East tensions affecting oil and gas supplies. The price cuts demonstrate economic benefits from the EU's climate transition, though experts caution that long-term structural reforms are needed to sustain gains.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/04/24/decoupling-from-fossil-fuel-shocks-europes-electricity-made-25-cheaper-thanks-to-solar-and-"
+        }
+      ],
+      "tags": ["climate", "economy", "energy", "regulation"]
+    },
+    {
+      "headline": "Electric vehicle sales surge nearly 50 percent in EU amid Iran conflict energy concerns",
+      "summary": "EU electric vehicle sales accelerated dramatically in March, climbing nearly 50 percent as consumers and fleet operators respond to energy security concerns triggered by the Iran war and Strait of Hormuz disruptions. The surge reflects growing awareness of energy vulnerabilities and demand for alternatives to petroleum-dependent transport. Geopolitical instability in the Middle East has made EV adoption more attractive as a hedging strategy against fossil fuel price volatility. The acceleration supports EU climate goals while strengthening energy independence from global conflicts affecting traditional oil and gas supplies.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/23/ev-sales-spike-nearly-50-in-the-eu-in-march-amid-iran-war-energy-fears"
+        }
+      ],
+      "tags": ["economy", "climate", "trade"]
+    },
+    {
+      "headline": "Eurozone private sector contraction raises recession fears amid Iran war effects",
+      "summary": "The eurozone economy showed signs of significant strain in April, with private sector contraction marking the weakest performance in nearly 18 months, raising concerns about potential recession as geopolitical tensions affect European markets. The Iran conflict's impact on global energy supplies and shipping has created headwinds for European manufacturing and services sectors. Economists warn that energy price volatility and supply chain disruptions could accelerate economic slowdown across the EU. The contraction data underscores the vulnerability of European economies to Middle East geopolitical developments and energy market shocks.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/business/2026/04/23/iran-war-effects-on-europe-is-a-recession-already-unfolding"
+        }
+      ],
+      "tags": ["economy", "trade", "geopolitics"]
+    }
+  ]
+}

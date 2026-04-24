@@ -1,0 +1,81 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-24T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US and Iran deadlocked over Strait of Hormuz as Trump orders military action against Iranian vessels",
+      "summary": "Oil prices surged above $106 per barrel as tensions escalated between the US and Iran over control of the strategically vital Strait of Hormuz. President Trump ordered US military forces to \"shoot and kill\" Iranian small boats attempting to navigate the waterway, representing a major escalation in geopolitical conflict. The standoff directly impacts global oil markets and shipping, with experts warning of disruptions to international energy supplies. Goldman Sachs analysts predict Gulf oil output will rebound only if the Hormuz situation stabilizes within months. The crisis reflects broader US-Iran tensions and affects global commerce dependent on this critical sea lane.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGFfSlR2bzRVYUJjekt5UlU3ZFlaLWc1aXI2SXFmMEhaUWhuYVFEN0hFNC00QzlOZ0d3eGFqUEt5RGcxS2JLVTZsVFNKZUlxM0Ytd09mRVBTdy1Fc3E1MUNSeGZOOWNaWlh1WS1sYS1MN3pwX0ZJWVlyRXZBbXlBWEV4eEZVcUMzWnRFWA?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz"},
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1A4UWE1aThHNDBZTWtwZGZEQ3dLTjhFYVZjOElwQVFzZGduOGZtMWxKY0gzZG9lOGo0RFdraWdoTXVYSmp6R1Z4S2l1YzRlcTFiS2lOaDFqaFUzQnMxVnhkYmtnRHp6WUU4LUNMaXdWNHNmY0t2aEtYUTJ4ZDlpVDVCNk5pc2V3dFBSMG1WaUp1aWFXN1Z5TldnNnZsWi01SFM4QkFWLXdWb3VwVnkzbGxZZUJrb29CdVE?oc=5"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Lebanon-Israel ceasefire extended by 3 weeks amid broader Middle East tensions",
+      "summary": "President Trump announced that Lebanon and Israel have agreed to extend their ceasefire agreement by three weeks, providing temporary relief from military hostilities between the two nations. The extension represents diplomatic progress amid escalating tensions across the Middle East region. Meanwhile, Al Jazeera reports ongoing Israeli military operations in Gaza, where the health ministry reports a death toll of 72,568 with over 172,000 injured. The ceasefire extension comes amid complex regional dynamics involving multiple conflict zones and international diplomatic efforts. The agreement's success in holding will be crucial for regional stability.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxMelNwSEpkem41T2p4ckNYOTRySUZ1Y2dXdm1mUlF4cHZMSmFqTHpYcnJLVk8zdHoyTHY0NWNERTdSUDlQdDF3N2Rtem1uT1NtOGNITS02YW9zcGFUTmtnaGtSYWRyRXVLaGVka1pQMWlkb3NRS2U0SHJ4UmRoWFlWN21aaW1VWFVhTlY2bWpRNUdhNzRJeXJyNmYzZlg0c2pvY1NhUlBsRElWSXY4QW5DVFdPeWg?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "EU approves $106 billion loan package for Ukraine after Hungary withdraws veto",
+      "summary": "The European Union approved a substantial $106 billion loan package to support Ukraine's economic and reconstruction needs, following Hungary's decision to lift its veto on the funding. The aid represents a major commitment from the EU to Ukraine's continued stability and recovery amid ongoing geopolitical tensions. This financial support is critical for Ukraine's ability to sustain itself economically while managing the impacts of regional conflict. The unanimous approval demonstrates renewed unity among EU member states on supporting Ukraine. The funding will help strengthen Ukraine's economy and development prospects.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2QtZDh0OTl5VlBLQ0tkb2tWQWlIa0JoblBPZlJqOVQ3RmRXYWhjRmFadGg1V3BtNEtFcUY3NG9fY05GWWNRZjd3ZzNPRF9xNXVPbFNYOWUxNnZmRTJXRE1BQWExSDRjZUJtbVRERElsSlN4XzVWM282VFlyc1NjdXdNNUtpODN5LW52c1lsb2NxcnJfQkM2Q1haSWw?oc=5"}
+      ],
+      "tags": ["economy", "diplomacy", "trade"]
+    },
+    {
+      "headline": "Meta announces 10% workforce reduction following strategic business changes",
+      "summary": "Meta, the parent company of Facebook and Instagram, announced it will lay off 10% of its global workforce as part of a strategic pivot in the company's operations. The cuts follow recent court challenges and represent the company's response to changing business conditions and competitive pressures in the technology sector. The layoffs affect thousands of employees across Meta's global operations and reflect broader restructuring in the tech industry. The decision comes as Meta increases investments in artificial intelligence capabilities. The workforce reduction marks a significant shift in the company's growth trajectory.",
+      "sources": [
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/23/nx-s1-5797855/meta-layoffs-10-percent-staff"}
+      ],
+      "tags": ["economy", "technology"]
+    },
+    {
+      "headline": "European airlines cancel tens of thousands of flights due to jet fuel cost crisis from Iran conflict",
+      "summary": "Airlines across Europe are slashing thousands of flights as jet fuel costs spike dramatically due to geopolitical tensions affecting oil supplies. The surge in fuel prices, driven by the US-Iran conflict and regional instability, has forced major European carriers to significantly reduce their flight schedules. The disruption impacts travel across the continent and demonstrates how Middle East tensions directly affect European civilian infrastructure. Airlines are struggling with rapidly rising operational costs that threaten profitability and service reliability. The crisis underscores Europe's dependence on global energy markets and vulnerability to geopolitical shocks.",
+      "sources": [
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs"}
+      ],
+      "tags": ["economy", "conflict"]
+    },
+    {
+      "headline": "White House alleges mass artificial intelligence theft by Chinese firms targeting US models",
+      "summary": "A White House memo released by national security advisor Michael Kratsios claims that Chinese firms are systematically stealing and wrongfully distilling American artificial intelligence models. The allegations represent a significant escalation in US-China technology competition and intellectual property disputes. The memo identifies Chinese companies as the primary culprits in what officials describe as widespread AI theft. The claims highlight growing US concerns about protecting advanced technology from international espionage and unauthorized use. The allegations could trigger further trade tensions and technology restrictions between the two countries.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["technology", "diplomacy", "trade"]
+    },
+    {
+      "headline": "FDA approves first gene therapy treatment for hereditary deafness",
+      "summary": "The US Food and Drug Administration has approved the first gene therapy treatment for hereditary deafness, marking a significant medical breakthrough in genetic medicine. Regeneron's treatment represents the first approved therapy of its kind for this rare genetic condition, offering hope to patients with inherited forms of deafness. The approval demonstrates advancing capabilities in gene therapy and personalized medicine technologies. The therapy addresses a previously untreatable genetic condition, opening new possibilities for similar treatments. This milestone reflects progress in converting scientific research into clinical applications for rare genetic disorders.",
+      "sources": [
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/23/nx-s1-5795526/deafness-gene-therapy-regeneron"}
+      ],
+      "tags": ["health", "technology"]
+    },
+    {
+      "headline": "US soldier charged with insider trading on Polymarket platform using classified information",
+      "summary": "A US soldier has been charged with illegal insider trading after allegedly using classified information to place bets on Polymarket regarding the removal of Venezuelan President Maduro. The case marks the first criminal charges related to suspected insider trading on the cryptocurrency-based prediction platform. The allegations raise serious concerns about operational security and the misuse of classified government information for personal financial gain. The incident highlights vulnerabilities in how sensitive information is protected within military ranks. The charges underscores growing scrutiny of prediction market activities and the enforcement of laws against misusing classified data.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-polymarket-insider"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-24",
+  "steps": {
+    "setup_s": 14,
+    "gather_s": 129,
+    "combine_preprocess_s": 15,
+    "digest_writer_s": 263,
+    "audio_s": 114
+  },
+  "total_s": 535,
+  "tokens": {
+    "ireland_gather": 50416,
+    "europe_gather": 44700,
+    "world_gather": 45287,
+    "digest_writer": 50200
+  },
+  "estimated_cost_usd": {
+    "gather_haiku": 0.11,
+    "digest_sonnet": 0.45,
+    "total": 0.56
+  }
+}

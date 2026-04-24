@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US and Iran deadlocked over Strait of Hormuz as Trump orders military action against Iranian vessels",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "The Tanker War and the 1973 Oil Crisis (1973–1988)",
+      "date_range": "1973–1988",
+      "summary": "The weaponisation of the Strait of Hormuz draws on a long history of Gulf chokepoint confrontations. During the Iran-Iraq War of the 1980s, both sides systematically attacked oil tankers in what became known as the Tanker War, prompting the United States to re-flag Kuwaiti vessels and deploy naval escorts under Operation Earnest Will. The earlier 1973 Oil Crisis, triggered by the Arab oil embargo, demonstrated how swiftly energy supply disruptions translate into crippling price spikes, recessions, and lasting shifts in industrial and consumer behaviour — including the first serious push toward fuel efficiency standards and alternative energy. Operation Eagle Claw in 1980 and the 1990 Oil Price Shock that followed Iraq's invasion of Kuwait further cemented the pattern: when military force intersects with Persian Gulf waterways, global markets respond immediately and painfully.",
+      "parallel_analysis": "Today's deadlock echoes each of these episodes simultaneously. Trump's shoot-to-kill order recalls the naval brinkmanship of the Tanker War era, while the economic cascades — spiking crude, grounded aircraft, recessionary PMI readings — mirror the demand destruction and structural energy transition that followed 1973. The difference this time is that Europe enters the crisis with a rapidly expanding renewable base that earlier generations lacked, offering at least a partial shock absorber that the continent did not have when OPEC first turned off the tap.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "EU approves €90 billion loan for Ukraine after Hungary lifts two-month veto",
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Marshall Plan (1948–1952)",
+      "date_range": "1948–1952",
+      "summary": "The Marshall Plan, officially the European Recovery Program, was an American initiative that transferred $13.3 billion (roughly $137 billion in today's money) to seventeen Western European nations between 1948 and 1952. Proposed by Secretary of State George Marshall in his June 1947 Harvard speech and signed into law by President Truman the following April, the plan was explicitly designed to stabilise war-damaged economies, prevent the spread of Soviet influence, and bind recipient countries into a web of economic cooperation that would make future conflicts less likely. By 1952, every participating nation had surpassed its pre-war economic output, and industrial production across the region was at least 35 percent above the 1938 baseline. The Soviet Union rejected participation and organised the competing Molotov Plan for Eastern Bloc nations instead, deepening the continent's division.",
+      "parallel_analysis": "The EU's €90 billion Ukraine package operates in a recognisably similar strategic logic: large-scale external financial support to sustain a country under existential pressure, with the explicit aim of binding it more tightly into a Western institutional framework. The Marshall Plan's central lesson — that economic stabilisation buys political alignment as much as it buys recovery — runs through the EU's Ukraine strategy just as clearly today. Where the original plan faced Soviet obstruction from outside, today's equivalent has faced obstruction from within, in the form of Hungary's veto, underscoring how the EU's unanimous decision-making requirements create leverage for dissenters that Marshall Plan architects, working through a separate American agency, never had to manage.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Marshall_Plan"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Meta confirms 10% global workforce cuts, threatening Irish jobs",
+      "story_topic": "tech industry mass layoffs",
+      "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "date_range": "2000–2002",
+      "summary": "The dot-com bubble peaked on 10 March 2000 when the NASDAQ Composite reached 5,048 points before plunging 78 percent by October 2002, erasing approximately $5 trillion in market capitalisation. The crash triggered a sweeping glut in the job market for programmers and technology workers as companies that had hired aggressively through the boom were forced to slash workforces or shut down entirely. High-profile casualties included Pets.com, Webvan, and Boo.com, while established giants such as Cisco lost 80 percent of their stock value. University computer science enrolment dropped noticeably, and the excess office infrastructure — empty server rooms, liquidated Aeron chairs — became symbols of how rapidly the industry's expansion had outrun sustainable demand.",
+      "parallel_analysis": "Meta's 10 percent cut is not a dot-com collapse, but it belongs to the same recurring cycle in which technology companies overhire during periods of cheap capital and strong advertising markets, then retrench when conditions tighten. Ireland is particularly exposed to this cycle because its economic model concentrates employment and tax revenue in a small number of large US technology multinationals. Just as the dot-com crash revealed how fragile cities that had become dependent on a single booming sector could be, today's tech layoff wave tests whether Ireland's industrial policy diversification has kept pace with its multinational dependency.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Dot-com_bubble"
+      ]
+    }
+  ]
+}
