@@ -221,6 +221,18 @@
       "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
       "date_first_used": "2026-04-24",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
+    },
+    {
+      "story_topic": "Gaza ceasefire violations",
+      "historical_event": "The 2008 Israel–Hamas Ceasefire",
+      "date_first_used": "2026-04-25",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2008_Israel%E2%80%93Hamas_ceasefire"
+    },
+    {
+      "story_topic": "NATO alliance internal tensions",
+      "historical_event": "France’s Withdrawal from NATO’s Integrated Military Command (1966)",
+      "date_first_used": "2026-04-25",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/France_and_NATO"
     }
   ]
 }

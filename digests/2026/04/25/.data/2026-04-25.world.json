@@ -1,0 +1,90 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-25T12:00:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US Envoys Head to Pakistan for Direct Iran Peace Talks as Negotiations Escalate",
+      "summary": "US negotiators Jared Kushner and Steve Witkoff are traveling to Islamabad where Iran's Foreign Minister Abbas Araghchi is already present, signaling the first direct diplomatic engagement in the ongoing Iran conflict. The talks represent a significant development in efforts to de-escalate tensions that have been mounting since hostilities began. Both delegations are expected to discuss pathways toward a ceasefire and broader agreement, with the US positioning itself as a mediator between conflicting regional interests. The negotiations come as the global economic impact of the conflict intensifies, with rising fuel prices affecting economies worldwide. Success in these talks could fundamentally alter the trajectory of the Middle East conflict and reduce international economic strain.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-trump-dispatches-negotiating-team"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cm29m732vgno"}
+      ],
+      "tags": ["diplomacy", "conflict", "economy"]
+    },
+    {
+      "headline": "Israel and Lebanon Extend Ceasefire for Three Weeks amid Regional Tensions",
+      "summary": "Israel and Lebanon have agreed to extend their ceasefire arrangement by three weeks, though hostilities continue despite the truce. The extension provides a diplomatic reprieve in a region already destabilized by the broader Iran conflict, though military operations persist in contested areas. The ceasefire's fragility is evident in ongoing clashes between Israeli forces and Hezbollah fighters, raising questions about the sustainability of the agreement. The extension was facilitated by international mediators seeking to prevent further escalation in the Middle East. This temporary pause is critical for civilian populations and represents a test of whether diplomatic solutions can hold under mounting regional pressures.",
+      "sources": [
+        {"name": "Reuters", "url": "https://www.reuters.com"},
+        {"name": "AP News", "url": "https://apnews.com"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "Iran War Takes Global Economic Toll, Disrupting Trade and Raising Fuel Costs Worldwide",
+      "summary": "The ongoing Iran conflict is producing cascading economic consequences across the globe, with fuel prices rising sharply and supply chains disrupted from Egypt to Vietnam. The economic strain is particularly acute in developing nations where energy costs represent a larger proportion of household budgets, forcing governments to impose emergency measures such as nighttime closures for restaurants and cafes. Food security is deteriorating in multiple regions as agricultural costs surge and transportation becomes more expensive. Thousands of seafarers remain stranded on ships caught in US blockades of Iranian ports, exacerbating the maritime economic crisis. The conflict's economic footprint demonstrates how Middle Eastern instability creates ripple effects impacting billions of people worldwide.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/24/nx-s1-5775733/war-in-iran-food-fuel-global-south"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/24/nx-s1-5797793/thousands-of-seafarers-stranded-by-ongoing-us-blockade-on-strait-of-hormuz"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/videos/ckgwlgyyyv0o"}
+      ],
+      "tags": ["economy", "conflict", "humanitarian"]
+    },
+    {
+      "headline": "Gaza Violence Escalates as Israeli Forces Kill 12 Palestinians Despite Ongoing Ceasefire",
+      "summary": "Israeli military operations in Gaza have intensified, resulting in the deaths of at least 12 Palestinians including six police officers, despite international agreements intended to maintain a ceasefire in the territory. The escalation undermines confidence in fragile truce arrangements and demonstrates the challenges of maintaining ceasefires amid high-tension conflicts. Hamas and Palestinian officials have condemned the attacks as evidence of international failure to enforce the agreed-upon terms, raising questions about the viability of the peace framework. The killings include civilians and security forces, indicating the indiscriminate nature of the military operations. These incidents threaten to derail diplomatic progress and increase humanitarian suffering in an already devastated civilian population.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cz67qjn48eqo"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "Justice Department Authorizes Firing Squads for Federal Executions, Escalating Capital Punishment",
+      "summary": "The Trump administration's Justice Department has announced it will permit firing squads as a method of execution, joining gas chambers and electrocution as permitted capital punishment techniques. The policy shift represents a dramatic escalation in the federal government's approach to capital punishment, reversing decades of moves toward limiting execution methods. Justice Department officials argue the move will strengthen deterrence and expedite the resolution of death penalty cases, though critics warn of risks to innocent defendants already on death row. The decision reflects the Trump administration's broader commitment to expanding capital punishment across the federal system. Human rights advocates have condemned the move as contrary to international humanitarian standards and US values.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cg73l2d079ko"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/24/nx-s1-5798990/doj-firing-squads-executions-trump-capital-punishment"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/24/trump-administration-to-prioritize-seeking-death-penalty-use-firing-squads"}
+      ],
+      "tags": ["governance", "trade"]
+    },
+    {
+      "headline": "Ukraine and Russia Complete Prisoner Exchange of 193 Combatants Each",
+      "summary": "Ukraine and Russia have conducted a significant prisoner exchange facilitated by the United States and United Arab Emirates, with each side releasing 193 captured combatants. The exchange represents one of the major confidence-building measures in the ongoing conflict and demonstrates the potential for dialogue between the warring parties. The operation required complex coordination between multiple international mediators to ensure the safe and orderly exchange of prisoners. Such exchanges are critical for reducing tensions and providing humanitarian relief to prisoners' families on both sides. The successful completion of this exchange suggests that diplomatic channels remain open despite the broader military conflict.",
+      "sources": [
+        {"name": "Reuters", "url": "https://www.reuters.com"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "US Appeals Court Strikes Down Trump's Asylum Ban at Border as Illegal",
+      "summary": "A federal appeals court has ruled that President Trump's executive order to ban asylum applications at the US-Mexico border violates federal immigration law and exceeds presidential authority. The court determined that existing law permits asylum seekers to apply for protection regardless of presidential declarations, establishing that immigration statutes cannot be overridden by executive order. The ruling directly contradicts the administration's characterization of border conditions as an invasion justifying exceptional measures. The decision sets up a likely Supreme Court appeal and represents a significant legal rebuke to the Trump administration's immigration policies. The case illustrates ongoing constitutional tensions over executive power and immigration authority.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/24/g-s1-118707/trump-asylum-ban-us-mexico-border-illegal"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal"}
+      ],
+      "tags": ["governance", "diplomacy"]
+    },
+    {
+      "headline": "Google Announces $40 Billion Investment in AI Rival Anthropic",
+      "summary": "Google has announced a major strategic investment of up to $40 billion in Anthropic, an AI company founded by former OpenAI executives, representing one of the largest technology partnerships in recent years. The investment demonstrates the intense competition among technology giants for dominance in artificial intelligence development and reflects growing concerns about technology leadership. Anthropic specializes in developing safe and responsible AI systems, with Google's investment positioning it as a major backer in the AI race against rivals like OpenAI and other emerging competitors. The deal highlights the consolidation of AI development around major technology companies and raises questions about innovation concentration. The partnership is expected to accelerate development of advanced AI capabilities while addressing regulatory concerns about AI safety.",
+      "sources": [
+        {"name": "Reuters", "url": "https://www.reuters.com"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c4gjkj7975po"}
+      ],
+      "tags": ["technology", "economy"]
+    }
+  ]
+}

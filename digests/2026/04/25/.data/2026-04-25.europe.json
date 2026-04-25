@@ -1,0 +1,78 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-25T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Pentagon considers suspending Spain from NATO over defense spending and military base disputes",
+      "summary": "An internal Pentagon email reveals the US administration is considering sanctions against Spain, including potential suspension from NATO, citing insufficient defense spending and blocked military bases for Iran operations. NATO's secretary general responded that the alliance has no provision to expel or suspend members. The tension reflects broader friction between the Trump administration and European allies over their commitment to military expenditure and regional security roles. Spain's stance on Iran military operations appears to be a key point of contention between Washington and Madrid. The situation underscores deepening transatlantic divisions on defense strategy and NATO's fundamental cohesion.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cz78x703lrvo"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/24/pentagon-considers-suspending-spain-from-nato"}
+      ],
+      "tags": ["defence", "NATO", "diplomacy"]
+    },
+    {
+      "headline": "EU and US deepen strategic cooperation on critical minerals amid competition with China",
+      "summary": "The European Union and United States signed a Memorandum of Understanding to strengthen collaboration on critical minerals supply chains, a key vulnerability in their economic and defense strategies. EU Trade Commissioner Maroš Šefčovič emphasized accelerated delivery of shared goals through the partnership. The initiative responds to growing concerns about China's dominance in rare earth elements and processing, which has strategic implications for European technology and defense sectors. The cooperation framework aims to secure supply chains essential for renewable energy, semiconductors, and advanced manufacturing. This represents a significant economic and strategic alignment between the EU and US on a critical global competition issue.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/24/eu-and-us-deepen-cooperation-on-critical-minerals-amid-concerns-over-chinas-dominance"}
+      ],
+      "tags": ["EU", "trade", "economy"]
+    },
+    {
+      "headline": "EU leaders approve €90 billion loan for Ukraine as funding uncertainty persists",
+      "summary": "European Union leaders unblocked a €90 billion support loan for Ukraine following resolution of a pipeline repair dispute that had temporarily delayed the decision. President Zelensky participated in the EU summit in Cyprus where the funding approval was finalized. The loan represents a critical boost to Ukraine's economy amid ongoing military operations and reconstruction needs. The initial delay highlighted tensions within the EU over energy infrastructure and support mechanisms for Kyiv. The approval demonstrates EU commitment to long-term Ukrainian financial stability despite complex negotiations among member states.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260423-zelensky-to-join-european-leaders-in-cyprus-as-eu-unblocks-%E2%82%AC90bn-ukraine-loan"}
+      ],
+      "tags": ["EU", "economy", "governance"]
+    },
+    {
+      "headline": "EU court delivers landmark ruling rejecting Hungary's anti-LGBTQ legislation as human rights violation",
+      "summary": "The European Court of Justice ruled that Hungary's anti-LGBTQ laws breach EU regulations, marking what observers describe as the largest human rights case in EU history. The decision reinforces EU protections for sexual and gender minority rights across member states. Hungary's legislation had sought to impose restrictions that conflicted with EU fundamental rights principles and Charter protections. The ruling represents significant enforcement of EU-wide human rights standards against national legislation deemed discriminatory. The decision carries implications for other member states considering similar legislation and strengthens judicial protection for LGBTQ citizens across Europe.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/landmark-eu-court-ruling-rejects-hungary-anti-lgbtq-law"}
+      ],
+      "tags": ["EU", "governance", "regulation"]
+    },
+    {
+      "headline": "EU leaders commit to strengthening security and economic partnerships with Middle East",
+      "summary": "Senior EU officials met with counterparts from Lebanon, Egypt, Syria, Jordan, and the Gulf Cooperation Council in Nicosia during an EU summit to deepen ties and minimize regional instability effects. The meetings focused on balancing security cooperation with economic partnership opportunities across the strategically vital Middle East region. EU officials emphasized the importance of strengthening ties given geopolitical volatility and shared interests in energy security and counter-terrorism. The diplomatic engagement reflects the EU's pivot toward direct engagement with regional players beyond traditional Western alliances. The summit outcomes suggest coordinated EU strategy for managing Middle East developments and protecting European interests.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/24/eu-leaders-vow-to-boost-security-and-economic-ties-with-middle-east-to-minimise-effect-of-"}
+      ],
+      "tags": ["EU", "defence", "diplomacy"]
+    },
+    {
+      "headline": "Train collision in Denmark injures at least 18 passengers near Copenhagen",
+      "summary": "A train collision occurred near Copenhagen requiring a massive emergency response with helicopter evacuations deployed to transport injured passengers to hospitals. At least 18 people sustained injuries in the incident on Denmark's rail network. Emergency services mobilized rapidly to manage the accident scene and provide medical assistance to those affected. Danish transport authorities launched an investigation into the causes of the collision. The incident highlighted both the dangers of rail transportation and the effectiveness of Danish emergency response systems in managing transport disasters.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260423-train-collision-in-denmark-prompts-massive-emergency-response-near-copenhagen"}
+      ],
+      "tags": ["transport", "emergency", "safety"]
+    },
+    {
+      "headline": "Rat poison contamination discovered in European baby food sparks product recalls",
+      "summary": "Rat poison was discovered in baby food products across multiple European countries including Austria, the Czech Republic, and Slovakia, triggering immediate product recalls by manufacturer Hipp. The contamination affected five jars of baby food, with the company claiming to be victims of a blackmail scheme involving unknown parties who mixed poison into six cans and demanded €2 million. Food safety authorities across affected nations coordinated rapid response to prevent consumer harm and identify source of contamination. The incident prompted heightened food safety monitoring across Europe. Hipp cooperated with authorities while emphasizing their security protocols and commitment to investigating the criminal extortion attempt.",
+      "sources": [
+        {"name": "Deutsche Welle", "url": "https://md.news-pravda.com/en/world/2026/04/21/95726.html"}
+      ],
+      "tags": ["health", "regulation", "safety"]
+    },
+    {
+      "headline": "Chernobyl disaster commemorated 40 years after nuclear accident affected millions",
+      "summary": "Europe marked four decades since the Chernobyl nuclear disaster, which affected more than 3.5 million people across the region. The 1986 accident remains one of history's worst nuclear incidents, with long-term health and environmental consequences persisting across Eastern Europe. Commemorations highlighted ongoing remediation efforts, health monitoring of affected populations, and lessons learned about nuclear safety protocols. The anniversary prompted reflection on the disaster's transnational impact and the importance of international nuclear safety standards. The event serves as a reminder of nuclear risks and the need for robust environmental and health protections in energy production.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/40-years-since-the-chernobyl-disaster"}
+      ],
+      "tags": ["climate", "health", "governance"]
+    }
+  ]
+}

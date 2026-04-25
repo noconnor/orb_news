@@ -1,0 +1,74 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-25T10:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Homelessness hits record high with 17,517 people in emergency accommodation",
+      "summary": "Ireland has reached a new record for homelessness, with 17,517 people currently in emergency accommodation, of whom 5,571 are children. The figures represent a 19% increase in child homelessness since the previous year, marking a significant deterioration in housing security across the country. This crisis reflects ongoing challenges in the availability and affordability of housing, a major policy concern for the Irish government. The scale of the problem has prompted calls from advocacy groups and political parties for immediate action on housing and affordability measures.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/emergency-accommodation-homelessness-7022478-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/social-affairs/2026/04/24/child-homelessness-up-by-19-since-last-year-new-figures-show/"}
+      ],
+      "tags": ["housing", "social", "economy"]
+    },
+    {
+      "headline": "Sinn Féin demands emergency mini-budget as party holds Ard Fheis in Belfast",
+      "summary": "Sinn Féin's Finance Spokesperson called for immediate implementation of an emergency mini-budget during the party's Ard Fheis in Belfast, citing cost-of-living pressures and economic challenges facing Irish households. The party is seeking to build momentum ahead of its push for government participation, positioning itself as a viable alternative to the current coalition. Party leader Mary Lou McDonald is scheduled to give a live television address on Saturday evening to outline the party's vision. The Ard Fheis reflects ongoing political tension over fiscal policy in response to economic headwinds.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0424/1570021-sf-ard-fheis/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/sinn-fein-ard-fheis-belfast-7021828-Apr2026/"}
+      ],
+      "tags": ["politics", "economy"]
+    },
+    {
+      "headline": "Civil service applicants wrongly given incorrect scores and rankings in major errors",
+      "summary": "Thousands of civil service job applicants were given incorrect assessment scores and rankings following an administrative error in the recruitment process. The mistake affected the merit rankings that determine the order in which candidates are offered employment, creating potential injustices for affected applicants. The civil service has had to acknowledge and address the errors, raising questions about quality control in government recruitment systems. This incident has sparked concerns about the reliability of the civil service's hiring mechanisms and may require remedial action for those disadvantaged by the errors.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/civil-service-applicants-given-incorrect-scores-and-rankings-7021987-Apr2026/"}
+      ],
+      "tags": ["politics", "economy"]
+    },
+    {
+      "headline": "Revenue seizes €3.1 million worth of herbal cannabis at Dublin Airport",
+      "summary": "Customs authorities at Dublin Airport seized herbal cannabis valued at over €3.1 million across four separate incidents, with three of the seizures involving passengers disembarking from flights originating in Doha, Qatar, and one from Thailand. The large-scale drug seizure demonstrates the ongoing challenge of international drug trafficking through Irish ports of entry and highlights the vigilance required by customs and revenue agencies. The contraband was detected during routine screening and confiscated before reaching distribution networks. The incident underscores Ireland's role as a potential transit point for international drug smuggling operations.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0424/1570078-jordan-carroll-court/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/herbal-cannabis-flown-on-four-flights-worth-a-combined-€3.1m-seized-at-dublin-airport-revenue-7023159-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/24/revenue-seizes-more-than-31m-worth-of-herbal-cannabis-at-dublin-airport/"}
+      ],
+      "tags": ["crime", "transport"]
+    },
+    {
+      "headline": "Ireland to demand compensation from Israel for destruction of Irish Aid-backed school in West Bank",
+      "summary": "The Irish government announced plans to seek compensation from Israel following the destruction of a school in the occupied West Bank that was supported by Irish Aid development funding. The school served approximately 60 children from the local Palestinian community and was damaged during settler activity in the territory. The Department of Foreign Affairs has taken a formal diplomatic stance on the matter, asserting Ireland's right to redress for damage to its development projects. This incident reflects tensions between Ireland's support for Palestinian development and broader geopolitical conflicts in the Middle East.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/ireland-israel-compensation-school-palestine-destroyed-7022442-Apr2026/"}
+      ],
+      "tags": ["politics", "defence"]
+    },
+    {
+      "headline": "Jet fuel prices threaten summer schedules for Aer Lingus and Ryanair",
+      "summary": "Ireland's major airlines Aer Lingus and Ryanair have confirmed reductions to their summer flight schedules in response to rising jet fuel prices and supply chain disruptions affecting aviation fuel availability. The airlines' decision to cut capacity reflects the significant operational cost pressures facing the aviation sector and may impact Irish holiday travel plans. Fuel price volatility has become a persistent challenge for European carriers, particularly during peak summer travel seasons. Consumers should expect potential capacity reductions and may face higher ticket prices if fuel costs remain elevated.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/primetime/2026/0424/1570026-could-jet-fuel-prices-threaten-your-summer-flight-plans/"}
+      ],
+      "tags": ["economy", "transport"]
+    },
+    {
+      "headline": "School principal suspended after stealing over €100,000 to fund gambling addiction",
+      "summary": "A school principal was suspended from teaching following confirmation by the High Court of offences involving the theft of over €100,000 from school funds to support a gambling addiction. The principal's conduct, involving more than 380 separate theft incidents over two years, was deemed incompatible with the teaching profession. The Teaching Council imposed a one-month suspension as part of disciplinary proceedings. The case highlights concerns about financial oversight in educational institutions and the personal vulnerabilities that can lead educators to commit serious breaches of trust.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/24/principal-who-stole-100000-from-school-has-suspension-confirmed-by-high-court/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41833442.html"}
+      ],
+      "tags": ["crime", "social"]
+    }
+  ]
+}
