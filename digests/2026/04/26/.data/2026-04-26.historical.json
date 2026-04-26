@@ -1,0 +1,42 @@
+{
+  "parallels": [
+    {
+      "type": "new",
+      "story_headline": "Shooting at White House Correspondents' Dinner Leaves Officer Dead",
+      "story_topic": "US presidential security incident",
+      "historical_event": "Attempted Assassination of Ronald Reagan (1981)",
+      "date_range": "1981",
+      "summary": "On 30 March 1981, John Hinckley Jr. fired six shots at President Reagan as he exited the Washington Hilton Hotel following a speaking engagement, striking the President with a ricocheting bullet that lodged near his heart and wounding three others, including White House Press Secretary James Brady, who suffered permanent brain damage. Reagan was rushed to hospital by the Secret Service and survived, but the attack exposed significant vulnerabilities in the protective cordon around a sitting president at semi-public events in the nation's capital. Hinckley was later found not guilty by reason of insanity and institutionalised, while the case reignited a national debate on gun control that eventually produced the Brady Handgun Violence Prevention Act.",
+      "parallel_analysis": "Just as the 1981 Washington Hilton shooting forced a wholesale reassessment of presidential movement protocols and public-event security doctrine, the attack at the White House Correspondents' Dinner will likely trigger an equally searching review of how law enforcement secures the President in Washington's social calendar. Civilian venues hosting high-profile presidential appearances create inherently difficult security environments, a lesson that resonates across decades of attempts at such gatherings. The 1981 attack illustrates how even well-protected presidents remain vulnerable at the intersection of public access and political ceremony.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Russia Launches Largest Drone and Missile Barrage of the War Against Ukraine",
+      "story_topic": "Russia-Ukraine aerial terror campaign",
+      "historical_event": "Strategic Bombing in World War II — The Blitz and German Terror Bombing (1940–1941); The Winter War (1939–1940); The Tanker War (1984–1988)",
+      "date_range": "1939–1945; 1984–1988",
+      "summary": "Russia's sustained campaign of drone and missile strikes against Ukrainian cities draws direct comparisons to the strategic terror bombing campaigns of the Second World War, most famously the German Blitz against British cities, which killed more than 43,000 civilians and destroyed vast urban centres. The doctrine of using aerial bombardment to break civilian morale and destroy infrastructure was central to German strategy, just as Russia's targeting of Ukrainian power grids, water systems, and residential districts appears designed to erode both the population's will and the state's functional capacity. The Winter War of 1939–1940, in which the Soviet Union subjected Finnish cities to aerial bombardment, provides a further parallel of a large authoritarian power using air power to coerce a smaller neighbour. As with the Blitz, where British civilian resilience ultimately frustrated German strategic aims, Ukraine's continued resistance reflects how terror bombing historically fails to achieve rapid capitulation.",
+      "parallel_analysis": "Saturday's attack — the largest of the conflict — suggests Russia is intensifying pressure as diplomatic channels remain fractured, echoing the pattern of escalating bombardment seen in the later phases of the Tanker War when military actors sought to force outcomes through maximum destruction rather than negotiation. The incursion of drone debris into Romanian airspace adds a new alliance-level dimension that the historical record of border spillover in earlier conflicts suggests is both predictable and politically dangerous.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Tanker_war"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "EU Approves €106 Billion Loan Package for Ukraine, Ending Months of Deadlock",
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Lend-Lease Act (1941)",
+      "date_range": "1941–1945",
+      "summary": "The Lend-Lease Act, signed by President Franklin D. Roosevelt on 11 March 1941, authorised the supply of military equipment, food, and industrial materials to Allied nations fighting Nazi Germany and Imperial Japan without immediate payment. The total value of Lend-Lease assistance eventually reached $50.1 billion — roughly $690 billion in today's money — representing 17 percent of total US wartime expenditure, with the British Empire receiving $31.4 billion and the Soviet Union $11.3 billion. Roosevelt justified the programme with his famous garden hose analogy, framing massive financial intervention as practical mutual defence rather than charity. The programme faced intense domestic political opposition from Republican isolationists who feared it would drag the United States into a European war, but ultimately passed on the grounds that supporting allied resistance was cheaper and safer than confronting a victorious adversary alone. Stalin himself later acknowledged that without Western material support the Soviet Union could not have sustained its resistance to Germany.",
+      "parallel_analysis": "The EU's €106 billion loan package mirrors the logic of Lend-Lease: a major power outside the immediate conflict provides decisive financial and material support to a smaller ally, framing the assistance as shared strategic interest rather than charity. Just as the 1941 Act ended months of US congressional deadlock over the appropriate form and scale of Allied support, the EU package broke a prolonged political impasse over conditionality and collateral. The historical verdict on Lend-Lease — that it was essential to Allied survival — provides the implicit justification for the EU's own willingness to commit to such unprecedented scale.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Lend-Lease"
+      ]
+    }
+  ]
+}

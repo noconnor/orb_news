@@ -14,13 +14,13 @@
     },
     {
       "story_topic": "Valerie's Law parental rights legislation",
-      "historical_event": "Megan's Law (United States, 1994–1996)",
+      "historical_event": "Megan's Law (United States, 1994\u20131996)",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Megan%27s_Law"
     },
     {
       "story_topic": "CAB cryptocurrency asset seizure powers",
-      "historical_event": "Racketeer Influenced and Corrupt Organizations Act — RICO (United States, 1970)",
+      "historical_event": "Racketeer Influenced and Corrupt Organizations Act \u2014 RICO (United States, 1970)",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Racketeer_Influenced_and_Corrupt_Organizations_Act"
     },
@@ -44,13 +44,13 @@
     },
     {
       "story_topic": "Russia-Ukraine aerial terror campaign",
-      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940\u20131941)",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II"
     },
     {
       "story_topic": "Myanmar military authoritarian consolidation",
-      "historical_event": "1962 Burmese Coup d'état and Ne Win's Military Rule",
+      "historical_event": "1962 Burmese Coup d'\u00e9tat and Ne Win's Military Rule",
       "date_first_used": "2026-04-03",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1962_Burmese_coup_d%27%C3%A9tat"
     },
@@ -116,7 +116,7 @@
     },
     {
       "story_topic": "Russia-Ukraine war stalemate",
-      "historical_event": "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+      "historical_event": "The Empty Chair Crisis and Luxembourg Compromise (France, 1965\u20131966)",
       "date_first_used": "2026-04-05",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Luxembourg_compromise"
     },
@@ -188,7 +188,7 @@
     },
     {
       "story_topic": "Japan arms export ban",
-      "historical_event": "Japan's Three Principles on Arms Exports (1967–2014)",
+      "historical_event": "Japan's Three Principles on Arms Exports (1967\u20132014)",
       "date_first_used": "2026-04-21",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_arms-export_ban"
     },
@@ -200,39 +200,51 @@
     },
     {
       "story_topic": "Bulgaria Russia alignment",
-      "historical_event": "People's Republic of Bulgaria and Soviet Alignment (1946–1990)",
+      "historical_event": "People's Republic of Bulgaria and Soviet Alignment (1946\u20131990)",
       "date_first_used": "2026-04-21",
       "wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria"
     },
     {
       "story_topic": "EU values enforcement Hungary",
-      "historical_event": "Article 7 Proceedings against Hungary and Poland (2017–2024)",
+      "historical_event": "Article 7 Proceedings against Hungary and Poland (2017\u20132024)",
       "date_first_used": "2026-04-22",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Article_7_of_the_Treaty_on_European_Union"
     },
     {
       "story_topic": "EU Ukraine financial support",
-      "historical_event": "The Marshall Plan (1948–1952)",
+      "historical_event": "The Marshall Plan (1948\u20131952)",
       "date_first_used": "2026-04-24",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan"
     },
     {
       "story_topic": "tech industry mass layoffs",
-      "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000\u20132002)",
       "date_first_used": "2026-04-24",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
     },
     {
       "story_topic": "Gaza ceasefire violations",
-      "historical_event": "The 2008 Israel–Hamas Ceasefire",
+      "historical_event": "The 2008 Israel\u2013Hamas Ceasefire",
       "date_first_used": "2026-04-25",
       "wikipedia_url": "https://en.wikipedia.org/wiki/2008_Israel%E2%80%93Hamas_ceasefire"
     },
     {
       "story_topic": "NATO alliance internal tensions",
-      "historical_event": "France’s Withdrawal from NATO’s Integrated Military Command (1966)",
+      "historical_event": "France\u2019s Withdrawal from NATO\u2019s Integrated Military Command (1966)",
       "date_first_used": "2026-04-25",
       "wikipedia_url": "https://en.wikipedia.org/wiki/France_and_NATO"
+    },
+    {
+      "story_topic": "US presidential security incident",
+      "historical_event": "Attempted Assassination of Ronald Reagan (1981)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+    },
+    {
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Lend-Lease Act (1941)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lend-Lease"
     }
   ]
 }

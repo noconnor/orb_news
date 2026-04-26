@@ -1,0 +1,69 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-26T06:01:23Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Garda Burnout Warning as EU Presidency Looms",
+      "summary": "Garda leadership has raised serious concerns about officer exhaustion during Ireland's upcoming EU presidency, warning that the demands could see gardaí working weeks without proper rest. The Garda Representative Association expressed alarm that burnout could affect operational effectiveness during this critical period. Officers are expected to take on additional duties related to the EU presidency while maintaining regular policing responsibilities. The warning highlights ongoing staffing pressures within Irish law enforcement and the challenge of balancing international commitments with domestic security needs. This comes at a time when the force is already stretched across multiple operational priorities.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/garda-eu-presidency-james-morrisroe-burn-out-warning-7022352-Apr2026/"}
+      ],
+      "tags": ["politics", "defence"]
+    },
+    {
+      "headline": "Catholic Bishops Condemn International Protection Act Over Child Detention Concerns",
+      "summary": "The Catholic Bishops' Conference has strongly criticized the International Protection Act, citing concerns about the detention of children in immigration processes. The migrants' council chair described the provisions as deeply regrettable, arguing they are anti-family and neither fair nor just. The act establishes detention procedures for people seeking international protection, and bishops argue these measures conflict with Catholic social teaching on family unity and human dignity. The criticism reflects growing debate in Ireland about the balance between asylum processing and child welfare protections. This represents significant institutional pushback against government immigration policy from a major social voice.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/25/catholic-bishops-condemn-international-protection-act-as-anti-family-and-neither-fair-nor-just/"}
+      ],
+      "tags": ["social", "politics"]
+    },
+    {
+      "headline": "Major Drug Seizure Uncovered in Hidden Car Compartment in Blackrock",
+      "summary": "A vehicle stopped in Blackrock, County Dublin yielded a hidden compartment containing €117,000 in suspected crime proceeds and evidence of a €5 million cash movement scheme. Court documents revealed a detailed tick-list of cash movements, suggesting an organized criminal operation with significant financial scope. The discovery highlights the sophistication of money laundering operations within Ireland and the ongoing drug trafficking enterprise. Gardaí continue investigating the source and intended recipients of the funds. The case underscores law enforcement efforts to disrupt serious criminal networks operating in the greater Dublin area.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/25/hidden-car-compartment-contained-5m-tick-list-of-cash-movements-court-hears/"}
+      ],
+      "tags": ["crime", "economy"]
+    },
+    {
+      "headline": "Extensive Gorse Fires Grip Blackstairs Mountains Amid High Fire Risk",
+      "summary": "Extensive gorse fires took hold overnight on the Blackstairs Mountains, prompting authorities to issue an orange high forest fire risk rating extending until Monday. The public has been urged to avoid lighting any fires in affected areas as tinder-dry conditions persist across the region. Firefighting efforts continue to combat the blazes, which could spread rapidly given current weather conditions and vegetation dryness. The fire danger poses risks to both natural habitats and nearby communities. Emergency services are monitoring the situation closely as weather patterns develop over the weekend.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/25/extensive-gorse-fires-took-hold-on-blackstairs-mountains-overnight/"}
+      ],
+      "tags": ["weather", "social"]
+    },
+    {
+      "headline": "Ireland's Enduring Housing Crisis: Supply and Affordability Remain Major Challenges",
+      "summary": "A new analysis of historical census data reveals that housing pressures documented over a century ago continue to plague modern Ireland, with persistent challenges around supply, affordability, and overcrowding. Comparing data from Ireland's first Free State census to contemporary housing metrics shows systemic problems have not been adequately resolved despite decades of policy efforts. The analysis identifies overcrowding in rental properties and the gap between housing demand and construction capacity as critical issues. Affordability pressures remain particularly acute in urban centers where supply lags behind population growth. The findings suggest that current housing policy interventions may be insufficient to address the scale and complexity of the challenge.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/spotlight/arid-41832884.html"}
+      ],
+      "tags": ["housing", "economy"]
+    },
+    {
+      "headline": "Teenager Killed in Donegal Road Collision",
+      "summary": "A teenager died in a fatal collision involving a car and motorbike in County Donegal. Emergency services responded to the incident, which resulted in one fatality with no additional injuries reported. The collision occurred on a public road, and gardaí are investigating the circumstances. Such incidents continue to highlight road safety concerns across rural Ireland. Relatives and emergency responders were called to the scene as the investigation commenced.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41834015.html"}
+      ],
+      "tags": ["transport", "social"]
+    },
+    {
+      "headline": "PSNI Security Operation Launched Following Belfast Police Station Incident",
+      "summary": "A significant security operation was initiated in Belfast following an incident at a Police Service of Northern Ireland (PSNI) station. The nature of the incident prompted a coordinated response from law enforcement authorities. Security operations of this scale indicate a serious incident with potential implications for public safety in the city. The operation reflects ongoing security challenges in Northern Ireland and the readiness of police to respond to critical incidents. Details of the incident remained under investigation as the operation continued.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ulster/2026/0426/1570228-psni-security-alert-belfast/"}
+      ],
+      "tags": ["politics", "defence"]
+    }
+  ]
+}

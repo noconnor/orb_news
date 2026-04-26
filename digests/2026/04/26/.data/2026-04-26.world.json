@@ -1,0 +1,80 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-26T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "rss_failed_used_websearch",
+    "npr": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "US-Iran peace talks collapse as Trump cancels envoys' Pakistan trip",
+      "summary": "President Trump cancelled a scheduled trip by top U.S. negotiators to Pakistan for Iran peace talks on April 26, minutes after Iranian Foreign Minister Abbas Araghchi departed from Islamabad. Trump stated Iran did not make a satisfactory offer for resuming negotiations. Iran's government subsequently rejected the notion of talks occurring under what it described as a siege, referring to ongoing U.S. military pressure in the region. The diplomatic breakdown marks a significant escalation in U.S.-Iran tensions and threatens the ceasefire framework that has been in place. The collapse comes amid broader Middle East instability, including tensions between Israel and Hezbollah in Lebanon.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHUxRzhYUFVlcW1OQktGLTlzTjg0bU0zazNSbnZCQ1Q5ak9YTmxwT1VEWDdxY29Kb1dpV2xKMmp2d1IwdUV3WWl6ejJIT2RiTlYwQndFY3cyX2NMc0dZTjdMTUhpRkVSR2I0MVE1ZmpxUmlibzk4OUh2aGFBY1Q5elg3NEt6Sm9DLXNiVThOeEZISzhBYnRIekR3NUdyUzljYWFwVDVMVGNpakp4SDVFc3RyVQ?oc=5"}
+      ],
+      "tags": ["diplomacy", "conflict", "geopolitics"]
+    },
+    {
+      "headline": "Colombia bus bombing kills at least 14 people, blamed on dissident FARC",
+      "summary": "A bus laden with explosives detonated on Colombia's Pan-American Highway to Venezuela on April 26, killing at least 14 people and wounding numerous others. Colombian authorities attributed the attack to a dissident faction of the FARC rebel group, which has split into multiple splinter organizations since the 2016 peace accord. The bombing represents one of the deadliest attacks in the region in recent months and highlights the ongoing security challenges posed by armed groups operating in strategic transport corridors. The incident underscores the continued fragmentation of Colombia's illegal armed landscape despite the demobilization agreement. The attack threatens to destabilize the region and raises questions about the effectiveness of counterinsurgency efforts.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "humanitarian", "crime"]
+    },
+    {
+      "headline": "Gunfire and explosions rock Mali capital in coordinated armed group attacks",
+      "summary": "Mali's capital Bamako and other key cities experienced one of the most significant coordinated attacks in recent years on April 26, with armed groups including jihadist insurgents and separatist rebels launching simultaneous operations. The attacks exploit worsening insecurity in the Sahel region, where multiple armed factions compete for territorial control and resources. The coordinated nature of the assault indicates a potential shift in militant strategy and operational capability in West Africa. The incident underscores the deteriorating security situation across the Sahel and the challenges facing government forces in containing multiple threats simultaneously. The attacks have raised international concerns about regional stability and the effectiveness of counterterrorism efforts in West Africa.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["conflict", "security", "geopolitics"]
+    },
+    {
+      "headline": "Israel orders intensified Hezbollah strikes despite ceasefire extension agreement",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu ordered the IDF to vigorously attack Hezbollah targets in Lebanon on April 26, contradicting a recent ceasefire extension agreement reached during White House talks on Thursday. The directive came despite Trump's announcement that Israel and Lebanon had agreed to extend the existing ceasefire by three weeks. The order signals potential instability in the Israel-Lebanon arrangement and raises questions about Netanyahu's commitment to diplomatic solutions. The escalation risks undermining recent diplomatic progress in the Middle East and could trigger broader regional conflict. International observers are concerned that the resumption of military operations could derail fragile peace negotiations across the region.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Shooting incident at White House Correspondents Dinner; suspect apprehended",
+      "summary": "A shooting occurred at the White House Correspondents' Dinner in Washington, DC on April 26, with President Trump present at the event. The suspect was quickly apprehended by security personnel, and Trump was evacuated from the venue to safety. Trump confirmed that First Lady Melania Trump and Vice President JD Vance remained unharmed during the incident. The shooter was described as a suspect in custody, with initial reports describing the individual as 'a sick person.' One law enforcement officer was killed and another critically injured in the security response. The incident prompted immediate security reviews and raised questions about event security protocols at high-profile government functions.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHUxRzhYUFVlcW1OQktGLTlzTjg0bU0zazNSbnZCQ1Q5ak9YTmxwT1VEWDdxY29Kb1dpV2xKMmp2d1IwdUV3WWl6ejJIT2RiTlYwQndFY3cyX2NMc0dZTjdMTUhpRkVSR2I0MVE1ZmpxUmlibzk4OUh2aGFBY1Q5elg3NEt6Sm9DLXNiVThOeEZISzhBYnRIekR3NUdyUzljYWFwVDVMVGNpakp4SDVFc3RyVQ?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZQakJkcXZlVGV6dUc4eG5KVkRzclliNzhSZEJGcHU5aC16dTVHamgwb0Zkb2tIczlUV194ODF4aWFxemZkWnZubGtaTUNiYjN2OGg1TE1kV19VT2ZPc0s2Y1ZzcFUwcUdBMFBkUHY4TkYxYUNoUllCV3pxQml2OUhXZTNJc1ZxU3dXR2J4bEJEUTMtQTVWOWpXR19nR1JqN3h4bGwwWlVpNTVCOHB0TVdqc0FyZw?oc=5"}
+      ],
+      "tags": ["security", "politics", "crime"]
+    },
+    {
+      "headline": "EU approves 106 billion euro loan package for Ukraine",
+      "summary": "The European Union approved a EUR 106 billion loan package on April 26 to support Ukraine's economic and military needs over the next two years. The approval ended months of political deadlock within EU institutions over the aid package. The substantial financial commitment represents a significant gesture of EU solidarity with Ukraine amid ongoing geopolitical tensions in Eastern Europe. The funds are intended to address both immediate military defense requirements and longer-term economic reconstruction and stabilization. The EU decision reflects broader Western commitment to supporting Ukraine's sovereignty and territorial integrity against external threats.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["economy", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Trump administration targets foreign tech companies' access to US AI models",
+      "summary": "The Trump administration announced a crackdown on foreign technology companies' exploitation of U.S. artificial intelligence models on April 26, with China explicitly singled out as a primary concern. The policy targeting reflects concerns about China narrowing the technological gap with the United States in the rapidly advancing AI sector. U.S. officials are implementing measures to restrict foreign access to advanced American AI systems and training data. The action represents an escalation in tech-focused economic competition between the U.S. and China. The move could have significant implications for global AI development, international tech partnerships, and the future landscape of artificial intelligence innovation.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["technology", "trade", "diplomacy"]
+    },
+    {
+      "headline": "ICE detains family days after court ordered release",
+      "summary": "U.S. Immigration and Customs Enforcement (ICE) detained a family less than two days after a federal court ordered their release, according to legal representatives. The detention came shortly after judicial authorization for the family's freedom, raising concerns about compliance with court orders and due process protections. Immigration attorneys characterize the action as a potential violation of court directives and administrative procedure. The incident highlights ongoing tensions between federal enforcement agencies and the judiciary over immigration detention practices. The case may have implications for immigration policy and the authority of courts to enforce release orders.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQndhd1hScmdhNTctaGNCeFNGX2RoRWtRRDE3ZWcwSWRTRGpyZDNSMjZPams0OHNONFlVSHNTaHpKa2Z5MXJuODVXWE1WQ0tNQm1vQl9hYWdTeUc2dkRFbVJaeHVhc2JzSFpvNm9xQVF0eE0yNHViNWR0Y0ViTjdjU25kRkNoR1Nibnlaa1gxcWh2SE1TTTVya1VubHE5djZlaks4dGZsbDZVVVdzZVE3SFFkOWE1b2FNanVObEl3?oc=5"}
+      ],
+      "tags": ["politics", "humanitarian", "governance"]
+    }
+  ]
+}

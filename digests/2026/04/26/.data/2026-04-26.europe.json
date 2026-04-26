@@ -1,0 +1,63 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-26T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia Intensifies Drone and Missile Campaign Against Ukraine",
+      "summary": "Russia launched a major assault on Ukraine with over 660 drones and missiles on Friday night, killing at least six people and injuring more than 30 others. The heaviest casualties were reported in the eastern city of Dnipro, where Russian forces struck residential areas. Ukrainian authorities and EU sources confirm the unprecedented scale of the overnight attack. The assault underscores ongoing Russian military pressure on Ukraine and the humanitarian crisis affecting civilians. This represents a significant escalation in a conflict that directly impacts EU border security and humanitarian commitments.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/european-strikes-kill-several-in-ukraine-s-dnipro"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260425-major-russia-drone-and-missile-attack-kills-several-wounds-dozens-in-ukraine"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/25/drone-crashes-in-romania-as-russia-strikes-neighbouring-ukraine"}
+      ],
+      "tags": ["conflict", "defence", "humanitarian"]
+    },
+    {
+      "headline": "Drone Crashes in Romania as Russian Military Activity Escalates Near EU Border",
+      "summary": "A drone crashed in Romania on Saturday as part of a wider Russian military barrage targeting neighbouring Ukraine. British fighter jets were scrambled in response and approximately 200 people were evacuated from the affected area. The incident demonstrates how the Ukraine conflict directly threatens EU member states, particularly those sharing borders with the conflict zone. Romanian authorities and NATO allies responded quickly to the security breach. The event highlights the precarious security situation facing Eastern European EU members amid ongoing Russian military operations.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/25/drone-crashes-in-romania-as-russia-strikes-neighbouring-ukraine"}
+      ],
+      "tags": ["defence", "EU", "conflict"]
+    },
+    {
+      "headline": "Montenegro Advances Toward EU Membership as Accession Talks Progress",
+      "summary": "Montenegro, a candidate for EU membership since 2010, is making significant progress toward joining the European Union. The Balkan nation hopes to become the EU's 28th member state by 2028, according to recent statements. Accession negotiations have accelerated in recent months, reflecting both Montenegrin reform efforts and EU enthusiasm for expanding eastward. The prospective membership aligns with the EU's broader strategy to integrate Balkan states into European structures. Successful accession would strengthen EU cohesion in the Balkans and expand the bloc's reach in Southeast Europe.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/25/montenegro-inches-closer-towards-eu-membership"}
+      ],
+      "tags": ["EU", "elections", "governance"]
+    },
+    {
+      "headline": "EU and US Deepen Cooperation on Critical Minerals Amid Chinese Competition",
+      "summary": "The European Union and United States signed a new memorandum to strengthen cooperation on critical minerals, a key strategic resource for both economies. EU Trade Commissioner Maroš Šefčovič highlighted that the agreement will accelerate the achievement of shared goals amid growing concerns about Chinese dominance in critical mineral production and supply chains. The partnership addresses both immediate resource security needs and long-term technological advancement. The deal reflects broader transatlantic alignment on ensuring economic resilience and technological independence from China. This cooperation is crucial for the EU's green energy transition and industrial competitiveness.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/24/eu-and-us-deepen-cooperation-on-critical-minerals-amid-concerns-over-chinas-dominance"}
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "EU Leaders Strengthen Security and Economic Ties with Middle East Region",
+      "summary": "European Union leaders met with officials from Lebanon, Egypt, Syria, Jordan, and Gulf Cooperation Council representatives in Nicosia to boost security and economic partnerships. The diplomatic engagement reflects the EU's strategy to deepen regional connections and minimise economic disruptions in European markets. The talks covered trade, investment, energy security, and regional stability. The meeting underscores the EU's commitment to playing an active role in Middle Eastern affairs despite challenges. Enhanced ties with the Middle East are critical for European energy security and economic interests in a volatile geopolitical environment.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/24/eu-leaders-vow-to-boost-security-and-economic-ties-with-middle-east-to-minimise-effect-of-"}
+      ],
+      "tags": ["diplomacy", "EU", "economy"]
+    },
+    {
+      "headline": "UK Steps Up Contingency Planning for Iran War-Related Supply Chain Disruptions",
+      "summary": "The United Kingdom is accelerating contingency planning for potential shortages and supply chain disruptions that could result from escalating tensions with Iran. British officials are monitoring stock levels across critical sectors and assessing vulnerability to international supply chain disruptions. The proactive planning reflects concerns about energy supplies, trading routes, and broader economic impacts. While primarily a UK concern, such disruptions would also affect European energy markets and trade. The contingency measures highlight the interconnected nature of European and global supply chains.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cm29m98md2do"}
+      ],
+      "tags": ["economy", "trade", "defence"]
+    }
+  ]
+}

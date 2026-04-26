@@ -1,0 +1,369 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-26T06:01:23Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Garda Burnout Warning as EU Presidency Looms",
+        "summary": "Garda leadership has raised serious concerns about officer exhaustion during Ireland's upcoming EU presidency, warning that the demands could see garda\u00ed working weeks without proper rest. The Garda Representative Association expressed alarm that burnout could affect operational effectiveness during this critical period. Officers are expected to take on additional duties related to the EU presidency while maintaining regular policing responsibilities. The warning highlights ongoing staffing pressures within Irish law enforcement and the challenge of balancing international commitments with domestic security needs. This comes at a time when the force is already stretched across multiple operational priorities.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/garda-eu-presidency-james-morrisroe-burn-out-warning-7022352-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Catholic Bishops Condemn International Protection Act Over Child Detention Concerns",
+        "summary": "The Catholic Bishops' Conference has strongly criticized the International Protection Act, citing concerns about the detention of children in immigration processes. The migrants' council chair described the provisions as deeply regrettable, arguing they are anti-family and neither fair nor just. The act establishes detention procedures for people seeking international protection, and bishops argue these measures conflict with Catholic social teaching on family unity and human dignity. The criticism reflects growing debate in Ireland about the balance between asylum processing and child welfare protections. This represents significant institutional pushback against government immigration policy from a major social voice.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/25/catholic-bishops-condemn-international-protection-act-as-anti-family-and-neither-fair-nor-just/"
+          }
+        ],
+        "tags": [
+          "social",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Major Drug Seizure Uncovered in Hidden Car Compartment in Blackrock",
+        "summary": "A vehicle stopped in Blackrock, County Dublin yielded a hidden compartment containing \u20ac117,000 in suspected crime proceeds and evidence of a \u20ac5 million cash movement scheme. Court documents revealed a detailed tick-list of cash movements, suggesting an organized criminal operation with significant financial scope. The discovery highlights the sophistication of money laundering operations within Ireland and the ongoing drug trafficking enterprise. Garda\u00ed continue investigating the source and intended recipients of the funds. The case underscores law enforcement efforts to disrupt serious criminal networks operating in the greater Dublin area.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/04/25/hidden-car-compartment-contained-5m-tick-list-of-cash-movements-court-hears/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Extensive Gorse Fires Grip Blackstairs Mountains Amid High Fire Risk",
+        "summary": "Extensive gorse fires took hold overnight on the Blackstairs Mountains, prompting authorities to issue an orange high forest fire risk rating extending until Monday. The public has been urged to avoid lighting any fires in affected areas as tinder-dry conditions persist across the region. Firefighting efforts continue to combat the blazes, which could spread rapidly given current weather conditions and vegetation dryness. The fire danger poses risks to both natural habitats and nearby communities. Emergency services are monitoring the situation closely as weather patterns develop over the weekend.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/25/extensive-gorse-fires-took-hold-on-blackstairs-mountains-overnight/"
+          }
+        ],
+        "tags": [
+          "weather",
+          "social"
+        ]
+      },
+      {
+        "headline": "Ireland's Enduring Housing Crisis: Supply and Affordability Remain Major Challenges",
+        "summary": "A new analysis of historical census data reveals that housing pressures documented over a century ago continue to plague modern Ireland, with persistent challenges around supply, affordability, and overcrowding. Comparing data from Ireland's first Free State census to contemporary housing metrics shows systemic problems have not been adequately resolved despite decades of policy efforts. The analysis identifies overcrowding in rental properties and the gap between housing demand and construction capacity as critical issues. Affordability pressures remain particularly acute in urban centers where supply lags behind population growth. The findings suggest that current housing policy interventions may be insufficient to address the scale and complexity of the challenge.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/spotlight/arid-41832884.html"
+          }
+        ],
+        "tags": [
+          "housing",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Teenager Killed in Donegal Road Collision",
+        "summary": "A teenager died in a fatal collision involving a car and motorbike in County Donegal. Emergency services responded to the incident, which resulted in one fatality with no additional injuries reported. The collision occurred on a public road, and garda\u00ed are investigating the circumstances. Such incidents continue to highlight road safety concerns across rural Ireland. Relatives and emergency responders were called to the scene as the investigation commenced.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41834015.html"
+          }
+        ],
+        "tags": [
+          "transport",
+          "social"
+        ]
+      },
+      {
+        "headline": "PSNI Security Operation Launched Following Belfast Police Station Incident",
+        "summary": "A significant security operation was initiated in Belfast following an incident at a Police Service of Northern Ireland (PSNI) station. The nature of the incident prompted a coordinated response from law enforcement authorities. Security operations of this scale indicate a serious incident with potential implications for public safety in the city. The operation reflects ongoing security challenges in Northern Ireland and the readiness of police to respond to critical incidents. Details of the incident remained under investigation as the operation continued.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ulster/2026/0426/1570228-psni-security-alert-belfast/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-26T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Russia Intensifies Drone and Missile Campaign Against Ukraine",
+        "summary": "Russia launched a major assault on Ukraine with over 660 drones and missiles on Friday night, killing at least six people and injuring more than 30 others. The heaviest casualties were reported in the eastern city of Dnipro, where Russian forces struck residential areas. Ukrainian authorities and EU sources confirm the unprecedented scale of the overnight attack. The assault underscores ongoing Russian military pressure on Ukraine and the humanitarian crisis affecting civilians. This represents a significant escalation in a conflict that directly impacts EU border security and humanitarian commitments.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/european-strikes-kill-several-in-ukraine-s-dnipro"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260425-major-russia-drone-and-missile-attack-kills-several-wounds-dozens-in-ukraine"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/25/drone-crashes-in-romania-as-russia-strikes-neighbouring-ukraine"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Drone Crashes in Romania as Russian Military Activity Escalates Near EU Border",
+        "summary": "A drone crashed in Romania on Saturday as part of a wider Russian military barrage targeting neighbouring Ukraine. British fighter jets were scrambled in response and approximately 200 people were evacuated from the affected area. The incident demonstrates how the Ukraine conflict directly threatens EU member states, particularly those sharing borders with the conflict zone. Romanian authorities and NATO allies responded quickly to the security breach. The event highlights the precarious security situation facing Eastern European EU members amid ongoing Russian military operations.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/25/drone-crashes-in-romania-as-russia-strikes-neighbouring-ukraine"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Montenegro Advances Toward EU Membership as Accession Talks Progress",
+        "summary": "Montenegro, a candidate for EU membership since 2010, is making significant progress toward joining the European Union. The Balkan nation hopes to become the EU's 28th member state by 2028, according to recent statements. Accession negotiations have accelerated in recent months, reflecting both Montenegrin reform efforts and EU enthusiasm for expanding eastward. The prospective membership aligns with the EU's broader strategy to integrate Balkan states into European structures. Successful accession would strengthen EU cohesion in the Balkans and expand the bloc's reach in Southeast Europe.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/25/montenegro-inches-closer-towards-eu-membership"
+          }
+        ],
+        "tags": [
+          "EU",
+          "elections",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU and US Deepen Cooperation on Critical Minerals Amid Chinese Competition",
+        "summary": "The European Union and United States signed a new memorandum to strengthen cooperation on critical minerals, a key strategic resource for both economies. EU Trade Commissioner Maro\u0161 \u0160ef\u010dovi\u010d highlighted that the agreement will accelerate the achievement of shared goals amid growing concerns about Chinese dominance in critical mineral production and supply chains. The partnership addresses both immediate resource security needs and long-term technological advancement. The deal reflects broader transatlantic alignment on ensuring economic resilience and technological independence from China. This cooperation is crucial for the EU's green energy transition and industrial competitiveness.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/24/eu-and-us-deepen-cooperation-on-critical-minerals-amid-concerns-over-chinas-dominance"
+          }
+        ],
+        "tags": [
+          "trade",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "EU Leaders Strengthen Security and Economic Ties with Middle East Region",
+        "summary": "European Union leaders met with officials from Lebanon, Egypt, Syria, Jordan, and Gulf Cooperation Council representatives in Nicosia to boost security and economic partnerships. The diplomatic engagement reflects the EU's strategy to deepen regional connections and minimise economic disruptions in European markets. The talks covered trade, investment, energy security, and regional stability. The meeting underscores the EU's commitment to playing an active role in Middle Eastern affairs despite challenges. Enhanced ties with the Middle East are critical for European energy security and economic interests in a volatile geopolitical environment.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/24/eu-leaders-vow-to-boost-security-and-economic-ties-with-middle-east-to-minimise-effect-of-"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "UK Steps Up Contingency Planning for Iran War-Related Supply Chain Disruptions",
+        "summary": "The United Kingdom is accelerating contingency planning for potential shortages and supply chain disruptions that could result from escalating tensions with Iran. British officials are monitoring stock levels across critical sectors and assessing vulnerability to international supply chain disruptions. The proactive planning reflects concerns about energy supplies, trading routes, and broader economic impacts. While primarily a UK concern, such disruptions would also affect European energy markets and trade. The contingency measures highlight the interconnected nature of European and global supply chains.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cm29m98md2do"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "defence"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-26T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "rss_failed_used_websearch",
+      "npr": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "US-Iran peace talks collapse as Trump cancels envoys' Pakistan trip",
+        "summary": "President Trump cancelled a scheduled trip by top U.S. negotiators to Pakistan for Iran peace talks on April 26, minutes after Iranian Foreign Minister Abbas Araghchi departed from Islamabad. Trump stated Iran did not make a satisfactory offer for resuming negotiations. Iran's government subsequently rejected the notion of talks occurring under what it described as a siege, referring to ongoing U.S. military pressure in the region. The diplomatic breakdown marks a significant escalation in U.S.-Iran tensions and threatens the ceasefire framework that has been in place. The collapse comes amid broader Middle East instability, including tensions between Israel and Hezbollah in Lebanon.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHUxRzhYUFVlcW1OQktGLTlzTjg0bU0zazNSbnZCQ1Q5ak9YTmxwT1VEWDdxY29Kb1dpV2xKMmp2d1IwdUV3WWl6ejJIT2RiTlYwQndFY3cyX2NMc0dZTjdMTUhpRkVSR2I0MVE1ZmpxUmlibzk4OUh2aGFBY1Q5elg3NEt6Sm9DLXNiVThOeEZISzhBYnRIekR3NUdyUzljYWFwVDVMVGNpakp4SDVFc3RyVQ?oc=5"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Colombia bus bombing kills at least 14 people, blamed on dissident FARC",
+        "summary": "A bus laden with explosives detonated on Colombia's Pan-American Highway to Venezuela on April 26, killing at least 14 people and wounding numerous others. Colombian authorities attributed the attack to a dissident faction of the FARC rebel group, which has split into multiple splinter organizations since the 2016 peace accord. The bombing represents one of the deadliest attacks in the region in recent months and highlights the ongoing security challenges posed by armed groups operating in strategic transport corridors. The incident underscores the continued fragmentation of Colombia's illegal armed landscape despite the demobilization agreement. The attack threatens to destabilize the region and raises questions about the effectiveness of counterinsurgency efforts.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "crime"
+        ]
+      },
+      {
+        "headline": "Gunfire and explosions rock Mali capital in coordinated armed group attacks",
+        "summary": "Mali's capital Bamako and other key cities experienced one of the most significant coordinated attacks in recent years on April 26, with armed groups including jihadist insurgents and separatist rebels launching simultaneous operations. The attacks exploit worsening insecurity in the Sahel region, where multiple armed factions compete for territorial control and resources. The coordinated nature of the assault indicates a potential shift in militant strategy and operational capability in West Africa. The incident underscores the deteriorating security situation across the Sahel and the challenges facing government forces in containing multiple threats simultaneously. The attacks have raised international concerns about regional stability and the effectiveness of counterterrorism efforts in West Africa.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "security",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Israel orders intensified Hezbollah strikes despite ceasefire extension agreement",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu ordered the IDF to vigorously attack Hezbollah targets in Lebanon on April 26, contradicting a recent ceasefire extension agreement reached during White House talks on Thursday. The directive came despite Trump's announcement that Israel and Lebanon had agreed to extend the existing ceasefire by three weeks. The order signals potential instability in the Israel-Lebanon arrangement and raises questions about Netanyahu's commitment to diplomatic solutions. The escalation risks undermining recent diplomatic progress in the Middle East and could trigger broader regional conflict. International observers are concerned that the resumption of military operations could derail fragile peace negotiations across the region.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Shooting incident at White House Correspondents Dinner; suspect apprehended",
+        "summary": "A shooting occurred at the White House Correspondents' Dinner in Washington, DC on April 26, with President Trump present at the event. The suspect was quickly apprehended by security personnel, and Trump was evacuated from the venue to safety. Trump confirmed that First Lady Melania Trump and Vice President JD Vance remained unharmed during the incident. The shooter was described as a suspect in custody, with initial reports describing the individual as 'a sick person.' One law enforcement officer was killed and another critically injured in the security response. The incident prompted immediate security reviews and raised questions about event security protocols at high-profile government functions.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHUxRzhYUFVlcW1OQktGLTlzTjg0bU0zazNSbnZCQ1Q5ak9YTmxwT1VEWDdxY29Kb1dpV2xKMmp2d1IwdUV3WWl6ejJIT2RiTlYwQndFY3cyX2NMc0dZTjdMTUhpRkVSR2I0MVE1ZmpxUmlibzk4OUh2aGFBY1Q5elg3NEt6Sm9DLXNiVThOeEZISzhBYnRIekR3NUdyUzljYWFwVDVMVGNpakp4SDVFc3RyVQ?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZQakJkcXZlVGV6dUc4eG5KVkRzclliNzhSZEJGcHU5aC16dTVHamgwb0Zkb2tIczlUV194ODF4aWFxemZkWnZubGtaTUNiYjN2OGg1TE1kV19VT2ZPc0s2Y1ZzcFUwcUdBMFBkUHY4TkYxYUNoUllCV3pxQml2OUhXZTNJc1ZxU3dXR2J4bEJEUTMtQTVWOWpXR19nR1JqN3h4bGwwWlVpNTVCOHB0TVdqc0FyZw?oc=5"
+          }
+        ],
+        "tags": [
+          "security",
+          "politics",
+          "crime"
+        ]
+      },
+      {
+        "headline": "EU approves 106 billion euro loan package for Ukraine",
+        "summary": "The European Union approved a EUR 106 billion loan package on April 26 to support Ukraine's economic and military needs over the next two years. The approval ended months of political deadlock within EU institutions over the aid package. The substantial financial commitment represents a significant gesture of EU solidarity with Ukraine amid ongoing geopolitical tensions in Eastern Europe. The funds are intended to address both immediate military defense requirements and longer-term economic reconstruction and stabilization. The EU decision reflects broader Western commitment to supporting Ukraine's sovereignty and territorial integrity against external threats.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Trump administration targets foreign tech companies' access to US AI models",
+        "summary": "The Trump administration announced a crackdown on foreign technology companies' exploitation of U.S. artificial intelligence models on April 26, with China explicitly singled out as a primary concern. The policy targeting reflects concerns about China narrowing the technological gap with the United States in the rapidly advancing AI sector. U.S. officials are implementing measures to restrict foreign access to advanced American AI systems and training data. The action represents an escalation in tech-focused economic competition between the U.S. and China. The move could have significant implications for global AI development, international tech partnerships, and the future landscape of artificial intelligence innovation.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "technology",
+          "trade",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "ICE detains family days after court ordered release",
+        "summary": "U.S. Immigration and Customs Enforcement (ICE) detained a family less than two days after a federal court ordered their release, according to legal representatives. The detention came shortly after judicial authorization for the family's freedom, raising concerns about compliance with court orders and due process protections. Immigration attorneys characterize the action as a potential violation of court directives and administrative procedure. The incident highlights ongoing tensions between federal enforcement agencies and the judiciary over immigration detention practices. The case may have implications for immigration policy and the authority of courts to enforce release orders.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQndhd1hScmdhNTctaGNCeFNGX2RoRWtRRDE3ZWcwSWRTRGpyZDNSMjZPams0OHNONFlVSHNTaHpKa2Z5MXJuODVXWE1WQ0tNQm1vQl9hYWdTeUc2dkRFbVJaeHVhc2JzSFpvNm9xQVF0eE0yNHViNWR0Y0ViTjdjU25kRkNoR1Nibnlaa1gxcWh2SE1TTTVya1VubHE5djZlaks4dGZsbDZVVVdzZVE3SFFkOWE1b2FNanVObEl3?oc=5"
+          }
+        ],
+        "tags": [
+          "politics",
+          "humanitarian",
+          "governance"
+        ]
+      }
+    ]
+  }
+}
