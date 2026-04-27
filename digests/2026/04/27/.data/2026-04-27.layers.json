@@ -1,0 +1,423 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-27T06:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Ireland at bottom of EU defence spending table",
+        "summary": "Ireland faces scrutiny over its defence spending, which stands at just 0.2% of GDP and 0.3% of GNP according to provisional economic data, placing the country at the lower end of EU defence expenditure rankings. This comes as European security concerns mount amid ongoing geopolitical tensions. The figures underscore Ireland's relatively modest military investment compared to its EU peers. Defence spending remains a sensitive political issue in Ireland given the country's long-standing military neutrality policy. The government has faced ongoing calls from some quarters to increase defence spending in response to evolving security threats.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41834261.html"
+          }
+        ],
+        "tags": [
+          "defence",
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "High electricity prices discouraging Irish homeowners from heat pump investment",
+        "summary": "Homeowners across Ireland are being deterred from investing in heat pump retrofitting due to soaring electricity prices, according to Ireland's sustainable energy authority adviser. The cost of retrofitting homes with heat pumps has become prohibitively expensive for many households, particularly as construction costs remain inflated following international disruptions. The energy crisis is creating a barrier to Ireland's climate transition goals, which rely heavily on electrifying heating systems. High electricity bills make the economic case for switching from fossil fuel heating less compelling for budget-conscious householders. The situation highlights tensions between immediate energy affordability and long-term climate objectives in Ireland.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/heat-pumps-retrofitting-seai-7022382-Apr2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate",
+          "housing"
+        ]
+      },
+      {
+        "headline": "Government explores options to reduce household energy bills",
+        "summary": "The Irish government announced it will prepare a range of options to help reduce the burden of household energy costs on families across the country. Finance Minister confirmed the government is considering targeted grants and accessible financing mechanisms to address energy affordability. This initiative reflects growing concern over the impact of high energy bills on Irish households. The government's approach aims to balance financial support with sustainable energy transition objectives. Specific proposals are expected to be developed in coming weeks as the government seeks to provide relief without undermining its climate goals.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41834468.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics",
+          "health"
+        ]
+      },
+      {
+        "headline": "Government accused of quietly phasing out early intervention education classes",
+        "summary": "The Irish government faces allegations of covertly reducing early intervention educational services, with seven early intervention classes in Cork alone converted to autism-specific classes since 2020. Early intervention programmes provide targeted support to children with developmental delays or additional needs at critical stages of their education. The conversion of these classes is seen as a narrowing of support services available to vulnerable children. Minimal new early intervention provision has been added despite ongoing demand from schools and families. The accusation suggests a shift in policy priorities away from broad early support services toward more specialized autism services.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41834267.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Three regional bus routes facing cancellation sparks transport concerns",
+        "summary": "Plans to drop three regional bus routes have drawn sharp criticism from elected representatives who argue that reliable public transport is essential infrastructure, not a luxury service. The proposed cancellations would impact rural and regional communities dependent on bus services for connectivity and economic participation. Transport analysts warn that cutting regional routes undermines government efforts to improve public transport accessibility outside major urban centers. The moves could isolate communities and disproportionately affect elderly residents, students, and workers without access to private vehicles. The controversy highlights ongoing tensions between public transport operators' financial pressures and social equity concerns in rural Ireland.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41834186.html"
+          }
+        ],
+        "tags": [
+          "transport",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Devastating wildfires in Mourne Mountains prompt large-scale emergency response",
+        "summary": "More than 50 firefighters battled devastating wildfires in the Mourne Mountains in Co Down over the weekend, with the blazes continuing into Sunday as emergency crews worked to contain the spread. The Mourne Mountains, a popular beauty spot in Northern Ireland, were evacuated as a precaution during the emergency response. The scale of the firefighting operation underscores the severity of the wildfire threat and the risk posed by extended dry conditions. The incident highlights cross-border environmental and safety concerns affecting both Northern Ireland and the wider island. Warm, dry weather earlier in the week created ideal conditions for rapid fire spread in the mountainous terrain.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/26/more-than-50-firefighters-battle-devastating-wildfires-in-the-mourne-mountains/"
+          }
+        ],
+        "tags": [
+          "weather",
+          "transport",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Man charged in connection with death of mother in Galway assault",
+        "summary": "A 33-year-old man has been charged in connection with the death of his mother following a serious assault at an apartment complex in Galway. The victim, Milena Ostojic (65), died after being attacked at her home on Friday night. The incident shocked the local Galway community and prompted a rapid Garda investigation. The charges represent a significant development in what began as an assault investigation but ultimately resulted in a fatality. The case underscores ongoing concerns about domestic violence and family-related incidents across Ireland.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0426/1570272-galway-death/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/26/man-arrested-after-woman-65-dies-following-assault-in-co-galway/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Car exploded outside Northern Ireland police station in security incident",
+        "summary": "Two babies were evacuated by police officers after a car exploded outside a police station on the outskirts of Belfast, prompting a major security response. Homes in the surrounding area were evacuated as a precaution following the incident. The explosion raised immediate security concerns and triggered investigations by Northern Ireland police. The incident involving the evacuation of infants highlighted the potential danger posed to civilians in the vicinity. Such incidents underscore ongoing security challenges and the need for vigilance in Northern Ireland.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/26/two-babies-evacuated-by-officers-when-car-exploded-outside-northern-ireland-police-station/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "crime",
+          "politics"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-27T07:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "EU Parliament votes on AI regulation and digital markets reform",
+        "summary": "The European Parliament held its plenary session in Strasbourg from April 27-30, advancing major regulatory initiatives. MEPs are adopting positions on delaying high-risk AI system provisions and banning 'AI nudifier' systems, while reviewing the Digital Markets Act for quicker compliance proceedings and closer scrutiny of AI-driven tools. The Parliament also voted on strengthening protections for sexual assault victims through common EU legislation and new animal protection rules for dogs and cats. These coordinated regulatory efforts reflect the EU's strategy to balance technological innovation with citizen protection across digital, AI, and consumer rights.",
+        "sources": [
+          {
+            "name": "European Parliament",
+            "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27"
+          },
+          {
+            "name": "WebSearch: EU news",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "technology",
+          "governance"
+        ]
+      },
+      {
+        "headline": "China warns EU over 'Made in Europe' plan amid trade tensions",
+        "summary": "China has criticized the EU's 'Made in Europe' initiative, vowing countermeasures against what Beijing views as protectionist policies. The proposed regulations would mandate that companies receiving public funds in key strategic sectors\u2014including automotive, renewable energy, and steel\u2014adhere to specific local content thresholds designed to reduce dependence on Chinese components. This move reflects broader EU concerns about supply chain vulnerabilities and economic sovereignty, particularly in critical industries essential for the green energy transition. The conflict represents a significant escalation in trade tensions between the bloc and Beijing.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260427-china-warns-eu-made-in-europe-plan-countermeasures"
+          }
+        ],
+        "tags": [
+          "trade",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Europe's data centre boom positions region as AI infrastructure hub",
+        "summary": "Europe is experiencing rapid growth in data centre infrastructure to support the expanding artificial intelligence sector, with Germany and the UK leading the continent in capacity. While the United States maintains a significant global advantage with more than double the EU total, Europe's strategic positioning in renewable energy and technology expertise is attracting substantial investment in AI-supporting data centres. This infrastructure expansion is critical for the EU's digital autonomy strategy and aims to reduce dependence on external AI computing resources. The development represents a key pillar of European competitiveness in emerging technology sectors.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/next/2026/04/27/which-country-in-europe-has-the-most-data-centres-driving-the-ai-boom"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU approves \u20ac90 billion Ukraine support loan and 20th sanctions package against Russia",
+        "summary": "The European Council has adopted a substantial \u20ac90 billion support loan to Ukraine alongside the 20th round of sanctions targeting Russia's economy and military-industrial capabilities. The new sanctions package hits energy revenues, military production, trade, and financial services, including cryptocurrency transactions used to circumvent existing restrictions. This coordinated response demonstrates the EU's continued commitment to supporting Ukraine's sovereignty while systematically degrading Russia's ability to sustain its military operations. The dual approach of financial support and escalating economic pressure reflects the EU's long-term strategy in the conflict.",
+        "sources": [
+          {
+            "name": "EU Council",
+            "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/23/russia-s-war-of-aggression-against-ukraine-20th-round-of-stern-eu-sanctions-hits-energy-military-industrial-complex-trade-and-financial-services-including-crypto/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU grapples with energy security amid Iran conflict and jet fuel supply concerns",
+        "summary": "The European Commission is actively exploring contingency measures to secure jet fuel supplies following supply disruptions related to the Iran conflict, including potential imports from the United States and new minimum reserve quotas for fuel stocks. While current assessments indicate no immediate widespread shortages or anticipated mass flight cancellations over the summer, the EU is treating energy security as a critical vulnerability requiring proactive policy response. This situation reflects broader European concerns about strategic autonomy and the need for diversified energy sourcing independent of volatile geopolitical events. The energy crisis underscores the EU's ongoing efforts to strengthen resilience across critical infrastructure.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages"
+          }
+        ],
+        "tags": [
+          "energy",
+          "defence",
+          "EU"
+        ]
+      },
+      {
+        "headline": "European Youth Week 2026 celebrates three decades of volunteer engagement",
+        "summary": "European Youth Week runs from April 24 to May 1, 2026, promoting civic participation and active citizenship across the continent with a focus on solidarity and fairness. The initiative marks 30 years of organized volunteer engagement in Europe and provides a platform for young people to engage with EU institutions and advocate for policy positions affecting their generation. This year's program coincides with broader EU efforts to strengthen democratic participation and address youth concerns including the digital transition, sustainability, and social equality. The week represents a key element of the EU's strategy to deepen citizen engagement in governance.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU",
+          "social"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-27T04:30:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US-Iran Peace Talks Stall as Both Sides Dig In; Oil Markets React",
+        "summary": "Diplomatic negotiations between the United States and Iran have stalled in Islamabad as both nations remain far apart on key conditions for ending the war. Iran's Foreign Minister Abbas Araghchi has left Pakistan to meet with Russian officials, signaling a shift in diplomatic strategy. The US reportedly cancelled a planned envoy visit to Pakistan, dampening hopes for immediate breakthroughs. Oil prices surged nearly 2 percent on the news of deadlocked talks, with Goldman Sachs raising its oil price forecasts due to tight global supplies. The impasse reflects deep disagreements over reopening the Strait of Hormuz and broader war terms, with each side presenting proposals the other has rejected.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFM3aHJMV0FzVHVSaGcwVEx2VlhKa0x5azA4SXJGT1dmS3pva1pZS1hpbnRHcE1aRV9pNEhDOU15STEwYmJOTUtOZUZQWGV2czcza1FvSDE4elkyUnhDS3F6V19TWWgtci0xVWYzMjNCY1NVOXZnZWtENEcxVWl0WFRzaFZXbkFjWW9SWTMxa19aWUFhbmVqTlBTdFFWR1ktdWxZMC1jcjZHU3RFenRNc0RkU25fWTFBUDlyT2l1Q2NrNWM?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Israel Intensifies Military Operations in Lebanon Despite Ceasefire Extension",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu has ordered the military to conduct vigorous attacks against Hezbollah in Lebanon, resulting in six deaths despite an extended ceasefire agreement. Satellite imagery shows the massive scale of destruction inflicted on southern Lebanese towns by Israeli forces, with entire residential areas leveled. The escalation violates the ceasefire terms and signals Israel's determination to maintain military pressure on the militant group. Hezbollah has rejected Netanyahu's allegations that it is undermining the ceasefire, accusing Israel of the actual violations. The continued violence threatens the stability of the already fragile agreement and could precipitate wider regional conflict.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Mali's Defense Minister Killed in Coordinated Rebel Attacks Wave",
+        "summary": "Mali's defense minister was killed during a coordinated wave of attacks launched by jihadist militants and separatist groups across the nation, marking a significant escalation in the country's security crisis. The assaults highlight the deteriorating situation in Mali, where armed groups have intensified their operations despite the presence of Russian military advisors and government forces. The coordinated nature of the attacks suggests a degree of organization and capability among disparate militant factions. Mali's security situation has deteriorated markedly in recent years as armed groups, including al-Qaeda-linked organizations, expand their influence and control. The death of the defense minister underscores the government's struggle to maintain authority and protect its institutions.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali?traffic_source=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "security",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Global EV Demand Surges as Iran War Drives Up Fuel Costs",
+        "summary": "Electric vehicle sales are experiencing rapid growth across multiple markets worldwide as the escalating Iran conflict drives petroleum prices higher, making gasoline and diesel vehicles significantly more expensive to operate. Countries from Australia to Vietnam are reporting increased EV adoption as consumers respond to higher fuel costs with purchases of more efficient alternatives. The economic impact of the war is reshaping energy markets and consumer behavior globally, accelerating the transition away from fossil fuels. Major economies and manufacturers are seizing the opportunity to boost EV market share during this period of high fuel prices. The trend underscores how geopolitical conflicts can have far-reaching economic consequences across multiple sectors and regions.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Colombia Highway Bombing Kills 19 Amid Pre-Election Violence Surge",
+        "summary": "A bomb attack on a Colombian highway in the Cauca region claimed 19 lives and injured dozens of others, occurring amid a broader surge in violence as the nation prepares for elections next month. The attack demonstrated the capability of armed groups to conduct sophisticated operations targeting civilian infrastructure and demonstrates the security challenges facing the country. Dashcam footage released shows the moment of the explosion, capturing the devastating force of the blast. The timing of the attack ahead of elections reflects attempts by criminal and militant groups to destabilize the political process and exert influence. Violence by drug trafficking organizations and armed insurgent groups has intensified dramatically in recent months, threatening Colombia's democratic institutions.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "security"
+        ]
+      },
+      {
+        "headline": "Kenya's Sebastian Sawe Breaks Historic 2-Hour Marathon Barrier",
+        "summary": "Kenyan runner Sebastian Sawe has shattered the elusive 2-hour marathon barrier, becoming the first person to win a marathon in sub-2-hour time, completing the London Marathon in 1 hour, 59 minutes, and 30 seconds. Sawe's achievement crushes the previous world record by 65 seconds, representing one of the most significant breakthroughs in modern athletics history. The milestone comes as elite marathoners have been progressively approaching this psychological and physiological barrier over the past decade. Kenya's dominance in distance running continues, with East African runners controlling the top rankings globally. Sawe's triumph is celebrated internationally as a remarkable human achievement in endurance sport.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSEhCd0dTV0JYZjVDbWwyNThVY05uVnREWUlfdXFualgtbWY1SWdZZjlkNVRNWVhSUzlGRDVzaUE2SHVEVGwxSEpwalgwb2VMS1VxOEZZZTNZaWVyNUhma1c2MGttMFc5V3pLX1N1VWFDVjFFS1EzT3dpeW5FblFVaHpnT09Ubk9qXy1HU2p5QWNxQWRlS2JHd19ZNE9hemR0M256bXVR?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/26/nx-s1-5800057/kenya-sabastian-sawe-first-person-2-hour-marathon-london"
+          }
+        ],
+        "tags": [
+          "sport",
+          "achievement",
+          "culture"
+        ]
+      },
+      {
+        "headline": "India's Sun Pharma Acquires US-Listed Organon in $11.8 Billion Deal",
+        "summary": "India's Sun Pharmaceutical has agreed to acquire US-listed pharmaceutical company Organon in an $11.8 billion transaction, marking a major cross-border deal in the global pharmaceutical industry. The acquisition reflects India's growing capacity and ambition to compete internationally in the high-value pharmaceutical sector. Sun Pharma's expansion into US-listed assets strengthens its global footprint and market position. The deal signals confidence in pharmaceutical markets despite global economic uncertainties and demonstrates India's emergence as a significant player in international M&A activity. The transaction is expected to create synergies in research, development, and manufacturing capabilities across both companies.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0Y4NFc5aDZpdXQxOFJuZmRGaGF3NE5hSnQ3bEIxNy1WQ2J4LVVRY3JVWHBOMGxiZGRzNlFKOUxReVFvTnBJSkJJRkhkd3laS1BEaEg4Q190X3pSYkp5b3Y4RXo3RlZqVTlZcUdnYVFXMTMzaFpoc3FwckliTkUzeUdNV044cHNKb3dFNjlzX1g2S2JRNHFwRFR4U0dEQm1qb0ZZa3V0T0c2eHA3REQtWkVDZGdXLW5EUHdLdnJ3?oc=5"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "business"
+        ]
+      },
+      {
+        "headline": "Former Israeli Prime Ministers Bennett and Lapid Unite to Challenge Netanyahu",
+        "summary": "Two former Israeli prime ministers, Naftali Bennett and Yair Lapid, have joined forces to form a united opposition alliance aimed at challenging Prime Minister Benjamin Netanyahu in upcoming elections. The coalition represents an attempt to consolidate fragmented opposition forces against Netanyahu's government. Bennett and Lapid bring significant political experience and electoral credibility to the challenge, having previously served as leaders of their respective parties. The alliance signals deep divisions within Israeli politics over Netanyahu's conduct of the war and governance. The outcome of the next elections will be determined by whether this unity holds and whether voters rally around the opposition message.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2MtTW5nQWFXN3ZwbkNmTElGVDF1VWllc1FSamE0THRaNVBGNTBzNFdfVXE2Nzl2MV91bXhBVzJFMWJTOEl4d1FxakZaNmVrZ2lGdEtLNVF6R2F0Zy1abnFGX0otVGktYkdlS1RFbHpsVDlpWmhsdmZLc2xxczFnZmxCMUU5OW1RNkFDa09NWlBzZ2ZLRHcxRklaYlFEdDhS?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "governance"
+        ]
+      }
+    ]
+  }
+}

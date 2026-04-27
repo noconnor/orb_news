@@ -1,0 +1,78 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-27T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Ireland at bottom of EU defence spending table",
+      "summary": "Ireland faces scrutiny over its defence spending, which stands at just 0.2% of GDP and 0.3% of GNP according to provisional economic data, placing the country at the lower end of EU defence expenditure rankings. This comes as European security concerns mount amid ongoing geopolitical tensions. The figures underscore Ireland's relatively modest military investment compared to its EU peers. Defence spending remains a sensitive political issue in Ireland given the country's long-standing military neutrality policy. The government has faced ongoing calls from some quarters to increase defence spending in response to evolving security threats.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41834261.html"}
+      ],
+      "tags": ["defence", "politics", "economy"]
+    },
+    {
+      "headline": "High electricity prices discouraging Irish homeowners from heat pump investment",
+      "summary": "Homeowners across Ireland are being deterred from investing in heat pump retrofitting due to soaring electricity prices, according to Ireland's sustainable energy authority adviser. The cost of retrofitting homes with heat pumps has become prohibitively expensive for many households, particularly as construction costs remain inflated following international disruptions. The energy crisis is creating a barrier to Ireland's climate transition goals, which rely heavily on electrifying heating systems. High electricity bills make the economic case for switching from fossil fuel heating less compelling for budget-conscious householders. The situation highlights tensions between immediate energy affordability and long-term climate objectives in Ireland.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/heat-pumps-retrofitting-seai-7022382-Apr2026/"}
+      ],
+      "tags": ["economy", "climate", "housing"]
+    },
+    {
+      "headline": "Government explores options to reduce household energy bills",
+      "summary": "The Irish government announced it will prepare a range of options to help reduce the burden of household energy costs on families across the country. Finance Minister confirmed the government is considering targeted grants and accessible financing mechanisms to address energy affordability. This initiative reflects growing concern over the impact of high energy bills on Irish households. The government's approach aims to balance financial support with sustainable energy transition objectives. Specific proposals are expected to be developed in coming weeks as the government seeks to provide relief without undermining its climate goals.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41834468.html"}
+      ],
+      "tags": ["economy", "politics", "health"]
+    },
+    {
+      "headline": "Government accused of quietly phasing out early intervention education classes",
+      "summary": "The Irish government faces allegations of covertly reducing early intervention educational services, with seven early intervention classes in Cork alone converted to autism-specific classes since 2020. Early intervention programmes provide targeted support to children with developmental delays or additional needs at critical stages of their education. The conversion of these classes is seen as a narrowing of support services available to vulnerable children. Minimal new early intervention provision has been added despite ongoing demand from schools and families. The accusation suggests a shift in policy priorities away from broad early support services toward more specialized autism services.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41834267.html"}
+      ],
+      "tags": ["health", "politics", "social"]
+    },
+    {
+      "headline": "Three regional bus routes facing cancellation sparks transport concerns",
+      "summary": "Plans to drop three regional bus routes have drawn sharp criticism from elected representatives who argue that reliable public transport is essential infrastructure, not a luxury service. The proposed cancellations would impact rural and regional communities dependent on bus services for connectivity and economic participation. Transport analysts warn that cutting regional routes undermines government efforts to improve public transport accessibility outside major urban centers. The moves could isolate communities and disproportionately affect elderly residents, students, and workers without access to private vehicles. The controversy highlights ongoing tensions between public transport operators' financial pressures and social equity concerns in rural Ireland.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41834186.html"}
+      ],
+      "tags": ["transport", "politics", "social"]
+    },
+    {
+      "headline": "Devastating wildfires in Mourne Mountains prompt large-scale emergency response",
+      "summary": "More than 50 firefighters battled devastating wildfires in the Mourne Mountains in Co Down over the weekend, with the blazes continuing into Sunday as emergency crews worked to contain the spread. The Mourne Mountains, a popular beauty spot in Northern Ireland, were evacuated as a precaution during the emergency response. The scale of the firefighting operation underscores the severity of the wildfire threat and the risk posed by extended dry conditions. The incident highlights cross-border environmental and safety concerns affecting both Northern Ireland and the wider island. Warm, dry weather earlier in the week created ideal conditions for rapid fire spread in the mountainous terrain.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/26/more-than-50-firefighters-battle-devastating-wildfires-in-the-mourne-mountains/"}
+      ],
+      "tags": ["weather", "transport", "defence"]
+    },
+    {
+      "headline": "Man charged in connection with death of mother in Galway assault",
+      "summary": "A 33-year-old man has been charged in connection with the death of his mother following a serious assault at an apartment complex in Galway. The victim, Milena Ostojic (65), died after being attacked at her home on Friday night. The incident shocked the local Galway community and prompted a rapid Garda investigation. The charges represent a significant development in what began as an assault investigation but ultimately resulted in a fatality. The case underscores ongoing concerns about domestic violence and family-related incidents across Ireland.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/2026/0426/1570272-galway-death/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/26/man-arrested-after-woman-65-dies-following-assault-in-co-galway/"}
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "Car exploded outside Northern Ireland police station in security incident",
+      "summary": "Two babies were evacuated by police officers after a car exploded outside a police station on the outskirts of Belfast, prompting a major security response. Homes in the surrounding area were evacuated as a precaution following the incident. The explosion raised immediate security concerns and triggered investigations by Northern Ireland police. The incident involving the evacuation of infants highlighted the potential danger posed to civilians in the vicinity. Such incidents underscore ongoing security challenges and the need for vigilance in Northern Ireland.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/26/two-babies-evacuated-by-officers-when-car-exploded-outside-northern-ireland-police-station/"}
+      ],
+      "tags": ["defence", "crime", "politics"]
+    }
+  ]
+}

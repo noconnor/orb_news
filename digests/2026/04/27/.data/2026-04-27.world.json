@@ -1,0 +1,88 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-27T04:30:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US-Iran Peace Talks Stall as Both Sides Dig In; Oil Markets React",
+      "summary": "Diplomatic negotiations between the United States and Iran have stalled in Islamabad as both nations remain far apart on key conditions for ending the war. Iran's Foreign Minister Abbas Araghchi has left Pakistan to meet with Russian officials, signaling a shift in diplomatic strategy. The US reportedly cancelled a planned envoy visit to Pakistan, dampening hopes for immediate breakthroughs. Oil prices surged nearly 2 percent on the news of deadlocked talks, with Goldman Sachs raising its oil price forecasts due to tight global supplies. The impasse reflects deep disagreements over reopening the Strait of Hormuz and broader war terms, with each side presenting proposals the other has rejected.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFM3aHJMV0FzVHVSaGcwVEx2VlhKa0x5azA4SXJGT1dmS3pva1pZS1hpbnRHcE1aRV9pNEhDOU15STEwYmJOTUtOZUZQWGV2czcza1FvSDE4elkyUnhDS3F6V19TWWgtci0xVWYzMjNCY1NVOXZnZWtENEcxVWl0WFRzaFZXbkFjWW9SWTMxa19aWUFhbmVqTlBTdFFWR1ktdWxZMC1jcjZHU3RFenRNc0RkU25fWTFBUDlyT2l1Q2NrNWM?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran"}
+      ],
+      "tags": ["diplomacy", "conflict", "economy"]
+    },
+    {
+      "headline": "Israel Intensifies Military Operations in Lebanon Despite Ceasefire Extension",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu has ordered the military to conduct vigorous attacks against Hezbollah in Lebanon, resulting in six deaths despite an extended ceasefire agreement. Satellite imagery shows the massive scale of destruction inflicted on southern Lebanese towns by Israeli forces, with entire residential areas leveled. The escalation violates the ceasefire terms and signals Israel's determination to maintain military pressure on the militant group. Hezbollah has rejected Netanyahu's allegations that it is undermining the ceasefire, accusing Israel of the actual violations. The continued violence threatens the stability of the already fragile agreement and could precipitate wider regional conflict.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Mali's Defense Minister Killed in Coordinated Rebel Attacks Wave",
+      "summary": "Mali's defense minister was killed during a coordinated wave of attacks launched by jihadist militants and separatist groups across the nation, marking a significant escalation in the country's security crisis. The assaults highlight the deteriorating situation in Mali, where armed groups have intensified their operations despite the presence of Russian military advisors and government forces. The coordinated nature of the attacks suggests a degree of organization and capability among disparate militant factions. Mali's security situation has deteriorated markedly in recent years as armed groups, including al-Qaeda-linked organizations, expand their influence and control. The death of the defense minister underscores the government's struggle to maintain authority and protect its institutions.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali?traffic_source=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "security", "humanitarian"]
+    },
+    {
+      "headline": "Global EV Demand Surges as Iran War Drives Up Fuel Costs",
+      "summary": "Electric vehicle sales are experiencing rapid growth across multiple markets worldwide as the escalating Iran conflict drives petroleum prices higher, making gasoline and diesel vehicles significantly more expensive to operate. Countries from Australia to Vietnam are reporting increased EV adoption as consumers respond to higher fuel costs with purchases of more efficient alternatives. The economic impact of the war is reshaping energy markets and consumer behavior globally, accelerating the transition away from fossil fuels. Major economies and manufacturers are seizing the opportunity to boost EV market share during this period of high fuel prices. The trend underscores how geopolitical conflicts can have far-reaching economic consequences across multiple sectors and regions.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss"}
+      ],
+      "tags": ["economy", "climate", "trade"]
+    },
+    {
+      "headline": "Colombia Highway Bombing Kills 19 Amid Pre-Election Violence Surge",
+      "summary": "A bomb attack on a Colombian highway in the Cauca region claimed 19 lives and injured dozens of others, occurring amid a broader surge in violence as the nation prepares for elections next month. The attack demonstrated the capability of armed groups to conduct sophisticated operations targeting civilian infrastructure and demonstrates the security challenges facing the country. Dashcam footage released shows the moment of the explosion, capturing the devastating force of the blast. The timing of the attack ahead of elections reflects attempts by criminal and militant groups to destabilize the political process and exert influence. Violence by drug trafficking organizations and armed insurgent groups has intensified dramatically in recent months, threatening Colombia's democratic institutions.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "humanitarian", "security"]
+    },
+    {
+      "headline": "Kenya's Sebastian Sawe Breaks Historic 2-Hour Marathon Barrier",
+      "summary": "Kenyan runner Sebastian Sawe has shattered the elusive 2-hour marathon barrier, becoming the first person to win a marathon in sub-2-hour time, completing the London Marathon in 1 hour, 59 minutes, and 30 seconds. Sawe's achievement crushes the previous world record by 65 seconds, representing one of the most significant breakthroughs in modern athletics history. The milestone comes as elite marathoners have been progressively approaching this psychological and physiological barrier over the past decade. Kenya's dominance in distance running continues, with East African runners controlling the top rankings globally. Sawe's triumph is celebrated internationally as a remarkable human achievement in endurance sport.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSEhCd0dTV0JYZjVDbWwyNThVY05uVnREWUlfdXFualgtbWY1SWdZZjlkNVRNWVhSUzlGRDVzaUE2SHVEVGwxSEpwalgwb2VMS1VxOEZZZTNZaWVyNUhma1c2MGttMFc5V3pLX1N1VWFDVjFFS1EzT3dpeW5FblFVaHpnT09Ubk9qXy1HU2p5QWNxQWRlS2JHd19ZNE9hemR0M256bXVR?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/04/26/nx-s1-5800057/kenya-sabastian-sawe-first-person-2-hour-marathon-london"}
+      ],
+      "tags": ["sport", "achievement", "culture"]
+    },
+    {
+      "headline": "India's Sun Pharma Acquires US-Listed Organon in $11.8 Billion Deal",
+      "summary": "India's Sun Pharmaceutical has agreed to acquire US-listed pharmaceutical company Organon in an $11.8 billion transaction, marking a major cross-border deal in the global pharmaceutical industry. The acquisition reflects India's growing capacity and ambition to compete internationally in the high-value pharmaceutical sector. Sun Pharma's expansion into US-listed assets strengthens its global footprint and market position. The deal signals confidence in pharmaceutical markets despite global economic uncertainties and demonstrates India's emergence as a significant player in international M&A activity. The transaction is expected to create synergies in research, development, and manufacturing capabilities across both companies.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0Y4NFc5aDZpdXQxOFJuZmRGaGF3NE5hSnQ3bEIxNy1WQ2J4LVVRY3JVWHBOMGxiZGRzNlFKOUxReVFvTnBJSkJJRkhkd3laS1BEaEg4Q190X3pSYkp5b3Y4RXo3RlZqVTlZcUdnYVFXMTMzaFpoc3FwckliTkUzeUdNV044cHNKb3dFNjlzX1g2S2JRNHFwRFR4U0dEQm1qb0ZZa3V0T0c2eHA3REQtWkVDZGdXLW5EUHdLdnJ3?oc=5"}
+      ],
+      "tags": ["economy", "trade", "business"]
+    },
+    {
+      "headline": "Former Israeli Prime Ministers Bennett and Lapid Unite to Challenge Netanyahu",
+      "summary": "Two former Israeli prime ministers, Naftali Bennett and Yair Lapid, have joined forces to form a united opposition alliance aimed at challenging Prime Minister Benjamin Netanyahu in upcoming elections. The coalition represents an attempt to consolidate fragmented opposition forces against Netanyahu's government. Bennett and Lapid bring significant political experience and electoral credibility to the challenge, having previously served as leaders of their respective parties. The alliance signals deep divisions within Israeli politics over Netanyahu's conduct of the war and governance. The outcome of the next elections will be determined by whether this unity holds and whether voters rally around the opposition message.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2MtTW5nQWFXN3ZwbkNmTElGVDF1VWllc1FSamE0THRaNVBGNTBzNFdfVXE2Nzl2MV91bXhBVzJFMWJTOEl4d1FxakZaNmVrZ2lGdEtLNVF6R2F0Zy1abnFGX0otVGktYkdlS1RFbHpsVDlpWmhsdmZLc2xxczFnZmxCMUU5OW1RNkFDa09NWlBzZ2ZLRHcxRklaYlFEdDhS?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss"}
+      ],
+      "tags": ["politics", "elections", "governance"]
+    }
+  ]
+}

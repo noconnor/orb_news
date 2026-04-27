@@ -1,0 +1,83 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-27T07:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU Parliament votes on AI regulation and digital markets reform",
+      "summary": "The European Parliament held its plenary session in Strasbourg from April 27-30, advancing major regulatory initiatives. MEPs are adopting positions on delaying high-risk AI system provisions and banning 'AI nudifier' systems, while reviewing the Digital Markets Act for quicker compliance proceedings and closer scrutiny of AI-driven tools. The Parliament also voted on strengthening protections for sexual assault victims through common EU legislation and new animal protection rules for dogs and cats. These coordinated regulatory efforts reflect the EU's strategy to balance technological innovation with citizen protection across digital, AI, and consumer rights.",
+      "sources": [
+        {
+          "name": "European Parliament",
+          "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27"
+        },
+        {
+          "name": "WebSearch: EU news",
+          "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+        }
+      ],
+      "tags": ["EU", "regulation", "technology", "governance"]
+    },
+    {
+      "headline": "China warns EU over 'Made in Europe' plan amid trade tensions",
+      "summary": "China has criticized the EU's 'Made in Europe' initiative, vowing countermeasures against what Beijing views as protectionist policies. The proposed regulations would mandate that companies receiving public funds in key strategic sectors—including automotive, renewable energy, and steel—adhere to specific local content thresholds designed to reduce dependence on Chinese components. This move reflects broader EU concerns about supply chain vulnerabilities and economic sovereignty, particularly in critical industries essential for the green energy transition. The conflict represents a significant escalation in trade tensions between the bloc and Beijing.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260427-china-warns-eu-made-in-europe-plan-countermeasures"
+        }
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "Europe's data centre boom positions region as AI infrastructure hub",
+      "summary": "Europe is experiencing rapid growth in data centre infrastructure to support the expanding artificial intelligence sector, with Germany and the UK leading the continent in capacity. While the United States maintains a significant global advantage with more than double the EU total, Europe's strategic positioning in renewable energy and technology expertise is attracting substantial investment in AI-supporting data centres. This infrastructure expansion is critical for the EU's digital autonomy strategy and aims to reduce dependence on external AI computing resources. The development represents a key pillar of European competitiveness in emerging technology sectors.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/next/2026/04/27/which-country-in-europe-has-the-most-data-centres-driving-the-ai-boom"
+        }
+      ],
+      "tags": ["technology", "economy", "EU"]
+    },
+    {
+      "headline": "EU approves €90 billion Ukraine support loan and 20th sanctions package against Russia",
+      "summary": "The European Council has adopted a substantial €90 billion support loan to Ukraine alongside the 20th round of sanctions targeting Russia's economy and military-industrial capabilities. The new sanctions package hits energy revenues, military production, trade, and financial services, including cryptocurrency transactions used to circumvent existing restrictions. This coordinated response demonstrates the EU's continued commitment to supporting Ukraine's sovereignty while systematically degrading Russia's ability to sustain its military operations. The dual approach of financial support and escalating economic pressure reflects the EU's long-term strategy in the conflict.",
+      "sources": [
+        {
+          "name": "EU Council",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/23/russia-s-war-of-aggression-against-ukraine-20th-round-of-stern-eu-sanctions-hits-energy-military-industrial-complex-trade-and-financial-services-including-crypto/"
+        }
+      ],
+      "tags": ["defence", "EU", "governance"]
+    },
+    {
+      "headline": "EU grapples with energy security amid Iran conflict and jet fuel supply concerns",
+      "summary": "The European Commission is actively exploring contingency measures to secure jet fuel supplies following supply disruptions related to the Iran conflict, including potential imports from the United States and new minimum reserve quotas for fuel stocks. While current assessments indicate no immediate widespread shortages or anticipated mass flight cancellations over the summer, the EU is treating energy security as a critical vulnerability requiring proactive policy response. This situation reflects broader European concerns about strategic autonomy and the need for diversified energy sourcing independent of volatile geopolitical events. The energy crisis underscores the EU's ongoing efforts to strengthen resilience across critical infrastructure.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages"
+        }
+      ],
+      "tags": ["energy", "defence", "EU"]
+    },
+    {
+      "headline": "European Youth Week 2026 celebrates three decades of volunteer engagement",
+      "summary": "European Youth Week runs from April 24 to May 1, 2026, promoting civic participation and active citizenship across the continent with a focus on solidarity and fairness. The initiative marks 30 years of organized volunteer engagement in Europe and provides a platform for young people to engage with EU institutions and advocate for policy positions affecting their generation. This year's program coincides with broader EU efforts to strengthen democratic participation and address youth concerns including the digital transition, sustainability, and social equality. The week represents a key element of the EU's strategy to deepen citizen engagement in governance.",
+      "sources": [
+        {
+          "name": "European Union",
+          "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+        }
+      ],
+      "tags": ["governance", "EU", "social"]
+    }
+  ]
+}
