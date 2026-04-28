@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-28",
+  "update_type": "morning",
+  "steps": {
+    "setup": {
+      "start": 1777352423,
+      "end": 1777352436,
+      "duration_s": 13
+    },
+    "gather": {
+      "start": 1777352444,
+      "end": 1777352534,
+      "duration_s": 90,
+      "notes": "3 haiku agents in parallel + combine_layers"
+    },
+    "preprocess_historical": {
+      "duration_s": 1,
+      "notes": "Python script — instant"
+    },
+    "digest_writer": {
+      "start": 1777352549,
+      "end": 1777352851,
+      "duration_s": 302,
+      "notes": "1 sonnet agent"
+    },
+    "audio": {
+      "start": 1777352858,
+      "end": 1777353006,
+      "duration_s": 148,
+      "notes": "Edge TTS — 6 sections, ~11 minutes total audio"
+    }
+  },
+  "totals": {
+    "wall_clock_s": 583,
+    "wall_clock_min": 9.7
+  },
+  "tokens": {
+    "haiku_total": 152938,
+    "sonnet_total": 50957
+  },
+  "cost_estimate_usd": {
+    "haiku": 0.15,
+    "sonnet": 0.40,
+    "tts": 0.00,
+    "total": 0.55
+  }
+}

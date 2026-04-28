@@ -1,0 +1,53 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Iran Proposes Strait of Hormuz Reopening as US-Iran War Stalemate Deepens",
+      "story_topic": "Strait of Hormuz blockade",
+      "historical_event": "Multiple Crises at the World's Critical Chokepoints (Suez Crisis, 1973 Oil Crisis, Tanker War, 1990 Oil Price Shock, Allied Oil Campaign, Operation Eagle Claw)",
+      "date_range": "1944–1990",
+      "summary": "A synthesis of nine existing parallels — including the Suez Crisis of 1956, the Arab Oil Embargo and 1973 Oil Crisis, the Tanker War of 1984–1988, the 1990 oil price shock, the Allied Oil Campaign of 1944–1945, and Operation Eagle Claw (1980) — illustrates the recurring pattern of geopolitical crises at critical maritime chokepoints. Each episode showed how the threat or reality of disrupting a single waterway rapidly translates into global economic pain, energy market shocks, and cascading political consequences for great powers. The Korean War stalemate and the Luxembourg Compromise also provide context for how prolonged standoffs resist resolution and how unanimity mechanisms shape collective responses.",
+      "parallel_analysis": "The current US-Iran deadlock over the Strait of Hormuz follows a well-worn historical script: a party in a weaker military position uses chokepoint leverage to extract diplomatic concessions from a stronger adversary, while global economic actors bear the collateral cost. History consistently shows these crises resolve through negotiated off-ramps rather than military dominance alone, and that each month of delay compounds costs for the global economy disproportionately borne by countries and populations furthest from the conflict.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "King Charles III Addresses US Congress During Four-Day White House State Visit",
+      "story_topic": "UK-US royal state visit",
+      "historical_event": "1991 State Visit by Elizabeth II to the United States",
+      "date_range": "May 1991",
+      "summary": "From 14 to 26 May 1991, Queen Elizabeth II and Prince Philip visited the United States during President George H. W. Bush's administration, marking the third state visit and fourth official visit by the reigning monarch to America. The visit occurred in the immediate aftermath of the Gulf War, reflecting strong Anglo-American diplomatic ties during a pivotal geopolitical moment. On 16 May 1991, Elizabeth became the first British monarch to address a joint session of Congress, speaking in the House Chamber just weeks after a US-led coalition — including British forces — expelled Iraqi troops from Kuwait. The Queen told lawmakers that 'the best progress is made when Europeans and Americans act in concert,' a formulation whose weight derived precisely from being delivered by a head of state above partisan politics. The visit ranged beyond Washington: the royal couple toured Florida, became the first British monarchs to visit Texas, and stopped at NASA's Johnson Space Centre in Houston, symbolically linking the alliance to science and exploration as well as security. The programme was designed to project Anglo-American solidarity at a moment when the new world order was still being defined and competing visions of Europe's future created friction across the Atlantic.",
+      "parallel_analysis": "Charles's 2026 visit draws directly on the 1991 template: a monarch before Congress, a White House state dinner, and a message to the world that whatever the current strains — over Iran, tariffs or Greenland — the foundational partnership endures. The parallel is sharpened by the fact that Charles, like his mother in 1991, has become only the second British monarch ever to address Congress, cementing a dynastic thread of monarchical diplomacy that successive prime ministers cannot replicate. Just as Elizabeth's 1991 visit helped consolidate the transatlantic coalition following the Gulf War, Charles's 2026 visit is intended to stabilise the relationship at a moment of comparable geopolitical uncertainty.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1991_state_visit_by_Elizabeth_II_to_the_United_States"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "EU Approves 90 Billion Euro Ukraine Loan and 20th Sanctions Package Against Russia",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Western Financial and Economic Support for Allies Under Siege (Lend-Lease, Marshall Plan, Allied Oil Campaign, Luxembourg Compromise)",
+      "date_range": "1941–1966",
+      "summary": "A synthesis of six existing parallels illuminates the EU's approach to Ukraine. The Lend-Lease Act of 1941 provided the economic foundation for Allied resistance by supplying Britain and the Soviet Union on credit before American entry into the war. The Marshall Plan of 1948–1952 rebuilt Western European economies at enormous cost while anchoring recipient states to the Western alliance through political conditionality. The Allied Oil Campaign of 1944–1945 demonstrated that targeting an adversary's fuel supply — as the shadow fleet sanctions seek to do against Russia — is a proven mechanism of economic warfare. The Luxembourg Compromise of 1966, which resolved France's Empty Chair Crisis, established the unanimity principle that both enabled Hungary and Slovakia to block the 20th sanctions package and ultimately gave them leverage to extract a pipeline concession from Ukraine before relenting.",
+      "parallel_analysis": "The EU's €90 billion loan and sweeping sanctions package follows the logic of Lend-Lease and the Marshall Plan: treating financial support for an embattled partner as strategic investment rather than charity, premised on the calculation that a Ukrainian defeat would impose far greater costs on European security than the loans themselves. The Hungary-Slovakia dynamic — bloc unanimity enabling holdouts to extract concessions — is the direct institutional heir of the Luxembourg Compromise, illustrating how the EU's foundational decision-making rules simultaneously constrain and shape its foreign policy capacity.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+      ]
+    }
+  ]
+}

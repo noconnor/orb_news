@@ -1,0 +1,85 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-28T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran Proposes Strait of Hormuz Reopening as US-Iran War Stalemate Deepens",
+      "summary": "Iranian officials have proposed reopening the Strait of Hormuz—a critical chokepoint for global oil shipping—conditional on the United States lifting its blockade and ending the war. The proposal comes as Trump administration officials expressed dissatisfaction with Tehran's latest peace overture, while oil prices rose 1% amid continued Middle East tensions. The UN has warned that the prolonged standoff risks triggering a global food emergency. Iranian officials have been conducting intensive diplomatic outreach, with the country's foreign minister visiting Russia to seek political backing as talks with Washington remain stalled. The impasse underscores the deepening geopolitical crisis affecting energy markets and global supply chains.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc"},
+        {"name": "AP News", "url": "https://apnews.com"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Deadly Train Collision in Indonesia Kills 14 as Rescue Operations Continue Near Jakarta",
+      "summary": "Two trains collided on the outskirts of Jakarta, Indonesia on Monday, with rescuers confirming 14 deaths and continuing efforts to extract people trapped in the wreckage. The head of Indonesia's national rescue agency reported that evacuation operations were ongoing as emergency responders worked to remove survivors from the damaged train cars. The collision marks one of Indonesia's deadliest rail accidents in recent years, raising renewed concerns about rail safety infrastructure in Southeast Asia. Rescue teams faced the challenge of accessing victims pinned in the debris and coordinating medical response. The incident occurred during a period of heightened global attention to transportation safety standards.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3ZobHVEckwwaE9BUTBROERmS0JST2ZNc0ZWaC1Bd3E0VjdpOGFXRThsWXliSUVxQkhQX3AyQXVJUUg5Y2NKNUlsY1BSVkdIZ1RIUWQwRHhYbEF4RG5EeWg1YU9MUzZHR1F3bjdfWW9EbnlwaGJ0YzFuUUkyQnJsZ3Y1ZXVNbFRaeFNBa3kxWVdfRjlpM0t2aEFYVzIzRnBZNS1sWkxiVVU5ZnhLY2Ewa0pYVWZUS2x1TE44bkJ1X3ZLYWpiZmtaZw"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/28/five-killed-in-train-crash-near-indonesias-jakarta-rescue-efforts-ongoing"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o"}
+      ],
+      "tags": ["humanitarian", "transport"]
+    },
+    {
+      "headline": "Suspect in White House Correspondents' Dinner Shooting Charged with Attempting to Assassinate Trump",
+      "summary": "Cole Tomas Allen has been officially charged with attempting to assassinate US President Donald Trump following a shooting at the White House Correspondents' Association Dinner on Saturday. The attack, which occurred during a prominent media and political event, raised significant questions about presidential security protocols and how the alleged gunman gained proximity to the president. According to eyewitness accounts, performers and attendees were forced to take cover during the incident, though Trump was able to duck for safety. The arrest and formal charges represent a serious national security incident that has prompted scrutiny of Secret Service procedures at high-profile events. The case highlights ongoing security challenges for protecting American political leadership.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/suspect-in-press-gala-shooting-charged-with-attempting-to-kill-trump"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cr717nglye0o"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "Italian Court Extradites Chinese Hacker Accused of Stealing COVID-19 Vaccine Research",
+      "summary": "Italy has extradited 34-year-old Xu Zewei to the United States to face charges of cyber-espionage and theft of intellectual property. US prosecutors allege that Zewei conducted hacking operations targeting universities to steal vaccine research during the COVID-19 pandemic, representing a significant breach of scientific security and international intellectual property protections. The extradition underscores escalating tensions over Chinese cyber operations targeting critical research institutions. The case highlights vulnerabilities in protecting sensitive health and scientific data during international crises and the risks posed by state-sponsored cyber operations. Italy's decision to extradite reflects strengthening transatlantic cooperation on cybersecurity and intellectual property enforcement.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/28/italy-extradites-alleged-chinese-cyber-espionage-suspect-to-us"}
+      ],
+      "tags": ["technology", "trade", "health"]
+    },
+    {
+      "headline": "Mexican Military Captures Jalisco Cartel Commander 'El Jardinero' in Major Drug Trafficking Operation",
+      "summary": "The Mexican Navy's special forces successfully apprehended Jalisco New Generation Cartel leader known as 'El Jardinero,' who was discovered hiding in a ditch. Mexican military forces also captured another cartel commander, Audias Flores, in separate operations with documented footage released by the military. The operations represent significant enforcement actions against one of Mexico's most powerful and violent drug trafficking organizations. These captures underscore ongoing Mexican government efforts to disrupt major cartel operations, though the Jalisco cartel remains a dominant force in Mexico's drug trade. The military operations demonstrate the personal risks cartel leaders face while highlighting the persistent challenges Mexico's security forces encounter in combating organized crime networks.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/28/mexicos-jalisco-drug-cartel-commander-el-jardinero-found-hiding-in-ditch"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "Coordinated Attacks by Armed Groups in Mali Signal Strategic Alliance Among Insurgent Forces",
+      "summary": "Armed groups operating across Mali appear to be joining forces to conduct coordinated attacks, marking a significant shift in the country's ongoing security crisis. Al Jazeera analysis indicates that the alignment of previously separate insurgent organizations suggests a strategic consolidation of anti-government forces. The coordinated nature of recent attacks represents an escalation beyond traditional fragmented violence, potentially increasing pressure on Mali's already-stretched security forces. The developments underscore the complexity of West African security threats and the challenge of countering unified insurgent coalitions. This alignment could have broader regional implications for stability across the Sahel.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/whats-driving-the-coordinated-attacks-across-mali"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "South Sudan Passenger Plane Crashes Near Capital Juba, Killing All 14 on Board",
+      "summary": "A passenger aircraft crashed southwest of South Sudan's capital city Juba, resulting in the deaths of all 14 people on board. The incident marks a significant aviation tragedy in the East African nation, which has faced ongoing challenges with aging aircraft and limited aviation infrastructure. The crash adds to South Sudan's humanitarian crisis, already characterized by conflict and displacement. Aviation accidents in the region often reflect broader infrastructure and maintenance challenges that limit safe air transport options for civilians and humanitarian personnel. The tragedy underscores the persistent aviation safety risks in fragile states.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/14-killed-in-south-sudan-plane-crash-near-capital-juba"}
+      ],
+      "tags": ["humanitarian", "transport"]
+    },
+    {
+      "headline": "King Charles III Arrives at White House for Four-Day State Visit as US-UK Relations Advance",
+      "summary": "British King Charles III and Queen Camilla arrived at the White House for a four-day state visit, where they were greeted by US President Donald Trump. The royal visit represents a significant diplomatic event reinforcing transatlantic relations during a period of global geopolitical tension. The timing of the state visit—coinciding with ongoing Iran-US tensions and security concerns highlighted by the White House Correspondents' Dinner incident—demonstrates the importance of sustained US-UK alliance coordination. Royal state visits typically include meetings addressing bilateral trade, security cooperation, and strategic alignment. The visit underscores continued British-American partnership amid evolving international challenges.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/king-charles-iii-arrives-at-white-house-for-four-day-us-visit"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk"}
+      ],
+      "tags": ["diplomacy", "trade"]
+    }
+  ]
+}

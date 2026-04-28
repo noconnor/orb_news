@@ -1,0 +1,463 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-28T08:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Government to withdraw State accommodation housing 16,000 Ukrainians",
+        "summary": "The Irish government has agreed to begin withdrawing State-provided tourist and commercial accommodation currently housing approximately 16,000 Ukrainian refugees. Justice Minister Jim O'Callaghan secured Cabinet approval for the plan on April 27. Ukrainians who arrived before March 2024 will lose housing support unless they are assessed as vulnerable. The move marks a significant shift in Ireland's approach to accommodating Ukrainian arrivals following Russia's invasion. The government aims to transition responsibility while supporting those deemed to need ongoing assistance.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0427/1570501-ukraine-ireland-accommodation/"
+          },
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/government-to-begin-withdrawing-accommodation-ukrainians-7025598-Apr2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41835062.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "social",
+          "housing"
+        ]
+      },
+      {
+        "headline": "Woman dies following assault in Waterford city",
+        "summary": "A woman in her 40s died following an assault at a residence in Grange Heights, Waterford city on the evening of April 27. A man has been arrested in connection with the incident and is being questioned as part of the investigation. Emergency services responded to the scene at approximately 6:15pm. Garda\u00ed are continuing their investigation into the circumstances surrounding the fatal assault. The incident has prompted renewed attention to personal safety and violence in Irish communities.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0427/1570516-waterford-city-assault/"
+          },
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/man-arrested-woman-dies-assault-waterford-city-7025675-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/27/woman-40s-dies-in-fatal-assault-in-waterford/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41835146.html"
+          }
+        ],
+        "tags": [
+          "crime",
+          "safety"
+        ]
+      },
+      {
+        "headline": "PSNI releases footage of car bomb attack on Belfast police station",
+        "summary": "Police in Northern Ireland released video footage of a car bomb explosion outside a police station in Dunmurry, Belfast on Saturday night, April 26. The attack, attributed to the New IRA, represents the second car bomb attack on police infrastructure in just one month. Senior PSNI officers condemned the \"reckless\" and \"cowardly\" nature of the attack, which poses serious dangers to officers and the public. Two infants were among those evacuated from nearby properties. The incident underscores ongoing security challenges and dissident republican violence in Northern Ireland.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ulster/2026/0427/1570391-psni-dunmurry-ni/"
+          },
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/car-explosion-belfast-2-7024798-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/04/27/terrorism-is-always-wrong-ni-leaders-condemn-bomb-attack-outside-dunmurry-psni-station/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "security",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Fast-track housing developments stuck in planning limbo",
+        "summary": "More than 6,000 fast-track housing units remain stalled in Ireland's planning system due to legal challenges and administrative delays in deciding applications. The Strategic Housing Development (SHD) process, designed to accelerate housing delivery, has been hampered by judicial reviews and procedural obstacles. This backlog undermines government efforts to address Ireland's severe housing shortage and affordability crisis. The delays represent a significant setback to housing supply targets and contribute to continued pressure on rental and purchase prices. Addressing the planning bottleneck has become a priority for policymakers concerned with housing availability.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/thousands-fast-track-shd-homes-planning-sytem-judicial-reviews-delays-7025961-Apr2026/"
+          }
+        ],
+        "tags": [
+          "housing",
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Meta contractor Covalen announces 700 job cuts in Ireland",
+        "summary": "Covalen, a Meta contractor, has announced that over 700 jobs are at risk across its Irish operations. The cuts follow recent redundancies of more than 300 workers and predominantly affect workers in AI annotation roles on Meta projects. Irish government has been appealed to for intervention to support affected workers. The announcement reflects broader tech sector downsizing and comes amid economic uncertainty in the sector. The job losses represent a significant impact on Ireland's tech employment landscape and local economies where Covalen operates.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/meta-ireland-7025272-Apr2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/04/27/government-intervention-sought-as-700-jobs-threatened-at-meta-contractor-covalen/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "employment"
+        ]
+      },
+      {
+        "headline": "Consumer sentiment falls amid rising fuel prices",
+        "summary": "Irish consumer sentiment has declined again in April as fuel price hikes and domestic economic tensions weigh on household confidence. Rising energy costs are impacting households' purchasing power and financial outlook. The deteriorating sentiment reflects broader economic headwinds affecting Ireland, including inflation pressures and cost-of-living concerns. Consumer confidence indices have been declining, signaling potential impacts on retail spending and economic activity. Government measures to support household energy costs remain under discussion as policymakers seek to address affordability concerns.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/business/economy/arid-41834831.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "health"
+        ]
+      },
+      {
+        "headline": "One in three Irish adults have experienced fraud, Central Bank reports",
+        "summary": "The Central Bank of Ireland reports that over one-third (35%) of Irish adults have experienced fraud, highlighting a significant and widespread problem. However, more than one-third of fraud victims never report their experiences to authorities, indicating a serious under-reporting issue. The data reveals a substantial gap between the prevalence of fraud and official reporting statistics. This reporting gap hampers authorities' understanding of the true extent of fraud and impacts law enforcement's ability to pursue perpetrators. The Central Bank's findings underscore the need for increased public awareness and victim support mechanisms.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0428/1570525-fraud-report/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social",
+          "health"
+        ]
+      },
+      {
+        "headline": "Claire's Accessories closes all Ireland and UK stores with 1,300 redundancies",
+        "summary": "Claire's Accessories has announced the closure of all its stores across Ireland and the UK, resulting in 1,300 job losses. The decision follows private equity owner Modella Capital's hiring of Kroll to oversee the administration. The closures represent a significant loss of retail employment across both countries and affect established high street presence in shopping centres nationwide. The move reflects challenges in the bricks-and-mortar retail sector and changing consumer shopping habits. Affected employees face redundancy proceedings as the company winds down operations.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/claires-accessories-shuts-all-ireland-and-uk-stores-7025632-Apr2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "employment"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-28T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "King Charles III Addresses US Congress as State Visit Begins",
+        "summary": "King Charles III arrived at the White House on April 28 for a four-day state visit marking the 250th anniversary of American independence. The British monarch delivered a speech to Congress, only the second time a British monarch has addressed a joint congressional session. The visit comes amid strained UK-US relations, with tensions over Iran policy and other geopolitical issues. A formal state dinner was held in the East Room of the White House. The visit reflects efforts to strengthen the historic transatlantic relationship during a period of international uncertainty.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c9d4dzwdp53o"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/04/28/king-charles-iii-welcomed-at-the-white-house-as-four-day-state-visit-begins"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "governance",
+          "UK-US relations"
+        ]
+      },
+      {
+        "headline": "EU Approves 90 Billion Euro Ukraine Loan and 20th Sanctions Package Against Russia",
+        "summary": "The European Union formally approved a 90-billion-euro support loan to Ukraine and adopted its 20th comprehensive sanctions package against Russia on April 23, with final implementation on April 28. The sanctions package targets Russia's energy, banking, financial services, trade sectors and cryptocurrency networks, representing the largest package of individual listings in two years. The measures include further restrictions on Russia's shadow fleet of ageing oil tankers and expanded economic restrictions on Russian military-industrial complex. The agreement was reached after Hungary and Slovakia dropped objections once Ukraine restarted oil flows through the Druzhba pipeline. The package represents the EU's continued commitment to supporting Ukraine while punishing Russian aggression.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia"
+          }
+        ],
+        "tags": [
+          "EU",
+          "defence",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "EU's New Border Management System Becomes Fully Operational Across Schengen Countries",
+        "summary": "The European Union's new automated border management system went fully operational across all Schengen countries on April 28, 2026. The system replaces the traditional manual passport stamping process with a fully automated registration system for non-EU nationals travelling to the EU. The new system enhances security, efficiency and convenience for travellers and border authorities. This represents a significant modernization of Schengen border procedures and strengthens the EU's external border management capabilities. The implementation reflects the EU's ongoing digital transformation efforts in security and administrative processes.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "governance"
+        ]
+      },
+      {
+        "headline": "UK PM Starmer Faces Parliamentary Vote on Mandelson Vetting Inquiry",
+        "summary": "British Prime Minister Keir Starmer faced a parliamentary vote on April 28 regarding a possible inquiry into whether he misled the House of Commons over the appointment of Peter Mandelson as British ambassador to Washington. Mandelson, a controversial figure with ties to Jeffrey Epstein, reportedly failed security vetting but was appointed to the post regardless. The Conservative Party initiated the vote as Starmer's political standing weakens following a recent landslide election victory. Starmer has vowed to remain as Labour leader and fight to the end, but his popularity has significantly declined and party members are growing increasingly critical. The inquiry outcome could have serious implications for his political future.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o"
+          },
+          {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/04/20/starmer-uk-epstein-mandelson/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "governance",
+          "UK"
+        ]
+      },
+      {
+        "headline": "European Parliament Debates Pet Protection, Antisemitism, and Budget Negotiations",
+        "summary": "The European Parliament plenary session from April 27-30 addressed multiple critical issues affecting EU citizens and institutions. MEPs approved new rules to protect dogs and cats by banning abusive and cruel practices. Parliament also debated antisemitism following recent attacks in the Netherlands and Belgium, calling for stronger measures. MEPs discussed digital markets enforcement, cyberbullying legislation, and the EU's long-term budget negotiations. The European Commission is expected to table new legislation establishing a common definition of rape based on freely given, informed and revocable consent. These debates reflect the Parliament's focus on consumer protection, fundamental rights and the EU's policy agenda.",
+        "sources": [
+          {
+            "name": "European Parliament",
+            "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27"
+          },
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "governance",
+          "social"
+        ]
+      },
+      {
+        "headline": "Trump Threatens New Tariffs on European Allies Amid Greenland Tensions",
+        "summary": "US President Trump has threatened new tariffs on European allies as tensions escalate over Greenland amid escalating annexation threats. European nations are responding by sending additional troops to Greenland to counter the US pressure and assert their sovereignty. The situation represents a significant source of tension in transatlantic relations and threatens European economic interests through potential trade restrictions. European leaders are mobilizing to protect their strategic interests in the Arctic region. The escalating tensions underline broader divisions emerging between the US and European allies on geopolitical strategy.",
+        "sources": [
+          {
+            "name": "European news sources",
+            "url": "https://www.euronews.com/"
+          }
+        ],
+        "tags": [
+          "trade",
+          "defence",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU LIFE 2026 Programme Hosts Info Days on Environmental Funding Priorities",
+        "summary": "The European Commission's EU LIFE 2026 programme hosted online info days from April 28-30, 2026, highlighting priority topics for 2026 funding calls and the LIFE sub-programmes. The programme focuses on supporting environmental and climate projects across the EU. The info days provide funding guidance for projects addressing climate change, biodiversity protection, and sustainable resource management. The LIFE programme is a key EU funding mechanism for environmental initiatives. These events represent the EU's commitment to advancing environmental sustainability goals.",
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://cinea.ec.europa.eu/news-events/events/eu-life-2026-info-days-2026-04-28_en"
+          }
+        ],
+        "tags": [
+          "EU",
+          "climate",
+          "regulation"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-28T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Iran Proposes Strait of Hormuz Reopening as US-Iran War Stalemate Deepens",
+        "summary": "Iranian officials have proposed reopening the Strait of Hormuz\u2014a critical chokepoint for global oil shipping\u2014conditional on the United States lifting its blockade and ending the war. The proposal comes as Trump administration officials expressed dissatisfaction with Tehran's latest peace overture, while oil prices rose 1% amid continued Middle East tensions. The UN has warned that the prolonged standoff risks triggering a global food emergency. Iranian officials have been conducting intensive diplomatic outreach, with the country's foreign minister visiting Russia to seek political backing as talks with Washington remain stalled. The impasse underscores the deepening geopolitical crisis affecting energy markets and global supply chains.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc"
+          },
+          {
+            "name": "AP News",
+            "url": "https://apnews.com"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Deadly Train Collision in Indonesia Kills 14 as Rescue Operations Continue Near Jakarta",
+        "summary": "Two trains collided on the outskirts of Jakarta, Indonesia on Monday, with rescuers confirming 14 deaths and continuing efforts to extract people trapped in the wreckage. The head of Indonesia's national rescue agency reported that evacuation operations were ongoing as emergency responders worked to remove survivors from the damaged train cars. The collision marks one of Indonesia's deadliest rail accidents in recent years, raising renewed concerns about rail safety infrastructure in Southeast Asia. Rescue teams faced the challenge of accessing victims pinned in the debris and coordinating medical response. The incident occurred during a period of heightened global attention to transportation safety standards.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3ZobHVEckwwaE9BUTBROERmS0JST2ZNc0ZWaC1Bd3E0VjdpOGFXRThsWXliSUVxQkhQX3AyQXVJUUg5Y2NKNUlsY1BSVkdIZ1RIUWQwRHhYbEF4RG5EeWg1YU9MUzZHR1F3bjdfWW9EbnlwaGJ0YzFuUUkyQnJsZ3Y1ZXVNbFRaeFNBa3kxWVdfRjlpM0t2aEFYVzIzRnBZNS1sWkxiVVU5ZnhLY2Ewa0pYVWZUS2x1TE44bkJ1X3ZLYWpiZmtaZw"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/28/five-killed-in-train-crash-near-indonesias-jakarta-rescue-efforts-ongoing"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Suspect in White House Correspondents' Dinner Shooting Charged with Attempting to Assassinate Trump",
+        "summary": "Cole Tomas Allen has been officially charged with attempting to assassinate US President Donald Trump following a shooting at the White House Correspondents' Association Dinner on Saturday. The attack, which occurred during a prominent media and political event, raised significant questions about presidential security protocols and how the alleged gunman gained proximity to the president. According to eyewitness accounts, performers and attendees were forced to take cover during the incident, though Trump was able to duck for safety. The arrest and formal charges represent a serious national security incident that has prompted scrutiny of Secret Service procedures at high-profile events. The case highlights ongoing security challenges for protecting American political leadership.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/suspect-in-press-gala-shooting-charged-with-attempting-to-kill-trump"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cr717nglye0o"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Italian Court Extradites Chinese Hacker Accused of Stealing COVID-19 Vaccine Research",
+        "summary": "Italy has extradited 34-year-old Xu Zewei to the United States to face charges of cyber-espionage and theft of intellectual property. US prosecutors allege that Zewei conducted hacking operations targeting universities to steal vaccine research during the COVID-19 pandemic, representing a significant breach of scientific security and international intellectual property protections. The extradition underscores escalating tensions over Chinese cyber operations targeting critical research institutions. The case highlights vulnerabilities in protecting sensitive health and scientific data during international crises and the risks posed by state-sponsored cyber operations. Italy's decision to extradite reflects strengthening transatlantic cooperation on cybersecurity and intellectual property enforcement.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/28/italy-extradites-alleged-chinese-cyber-espionage-suspect-to-us"
+          }
+        ],
+        "tags": [
+          "technology",
+          "trade",
+          "health"
+        ]
+      },
+      {
+        "headline": "Mexican Military Captures Jalisco Cartel Commander 'El Jardinero' in Major Drug Trafficking Operation",
+        "summary": "The Mexican Navy's special forces successfully apprehended Jalisco New Generation Cartel leader known as 'El Jardinero,' who was discovered hiding in a ditch. Mexican military forces also captured another cartel commander, Audias Flores, in separate operations with documented footage released by the military. The operations represent significant enforcement actions against one of Mexico's most powerful and violent drug trafficking organizations. These captures underscore ongoing Mexican government efforts to disrupt major cartel operations, though the Jalisco cartel remains a dominant force in Mexico's drug trade. The military operations demonstrate the personal risks cartel leaders face while highlighting the persistent challenges Mexico's security forces encounter in combating organized crime networks.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/28/mexicos-jalisco-drug-cartel-commander-el-jardinero-found-hiding-in-ditch"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Coordinated Attacks by Armed Groups in Mali Signal Strategic Alliance Among Insurgent Forces",
+        "summary": "Armed groups operating across Mali appear to be joining forces to conduct coordinated attacks, marking a significant shift in the country's ongoing security crisis. Al Jazeera analysis indicates that the alignment of previously separate insurgent organizations suggests a strategic consolidation of anti-government forces. The coordinated nature of recent attacks represents an escalation beyond traditional fragmented violence, potentially increasing pressure on Mali's already-stretched security forces. The developments underscore the complexity of West African security threats and the challenge of countering unified insurgent coalitions. This alignment could have broader regional implications for stability across the Sahel.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/whats-driving-the-coordinated-attacks-across-mali"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "South Sudan Passenger Plane Crashes Near Capital Juba, Killing All 14 on Board",
+        "summary": "A passenger aircraft crashed southwest of South Sudan's capital city Juba, resulting in the deaths of all 14 people on board. The incident marks a significant aviation tragedy in the East African nation, which has faced ongoing challenges with aging aircraft and limited aviation infrastructure. The crash adds to South Sudan's humanitarian crisis, already characterized by conflict and displacement. Aviation accidents in the region often reflect broader infrastructure and maintenance challenges that limit safe air transport options for civilians and humanitarian personnel. The tragedy underscores the persistent aviation safety risks in fragile states.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/14-killed-in-south-sudan-plane-crash-near-capital-juba"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "transport"
+        ]
+      },
+      {
+        "headline": "King Charles III Arrives at White House for Four-Day State Visit as US-UK Relations Advance",
+        "summary": "British King Charles III and Queen Camilla arrived at the White House for a four-day state visit, where they were greeted by US President Donald Trump. The royal visit represents a significant diplomatic event reinforcing transatlantic relations during a period of global geopolitical tension. The timing of the state visit\u2014coinciding with ongoing Iran-US tensions and security concerns highlighted by the White House Correspondents' Dinner incident\u2014demonstrates the importance of sustained US-UK alliance coordination. Royal state visits typically include meetings addressing bilateral trade, security cooperation, and strategic alignment. The visit underscores continued British-American partnership amid evolving international challenges.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/king-charles-iii-arrives-at-white-house-for-four-day-us-visit"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "trade"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-28T08:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Government to withdraw State accommodation housing 16,000 Ukrainians",
+      "summary": "The Irish government has agreed to begin withdrawing State-provided tourist and commercial accommodation currently housing approximately 16,000 Ukrainian refugees. Justice Minister Jim O'Callaghan secured Cabinet approval for the plan on April 27. Ukrainians who arrived before March 2024 will lose housing support unless they are assessed as vulnerable. The move marks a significant shift in Ireland's approach to accommodating Ukrainian arrivals following Russia's invasion. The government aims to transition responsibility while supporting those deemed to need ongoing assistance.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0427/1570501-ukraine-ireland-accommodation/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/government-to-begin-withdrawing-accommodation-ukrainians-7025598-Apr2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41835062.html"}
+      ],
+      "tags": ["politics", "social", "housing"]
+    },
+    {
+      "headline": "Woman dies following assault in Waterford city",
+      "summary": "A woman in her 40s died following an assault at a residence in Grange Heights, Waterford city on the evening of April 27. A man has been arrested in connection with the incident and is being questioned as part of the investigation. Emergency services responded to the scene at approximately 6:15pm. Gardaí are continuing their investigation into the circumstances surrounding the fatal assault. The incident has prompted renewed attention to personal safety and violence in Irish communities.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0427/1570516-waterford-city-assault/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/man-arrested-woman-dies-assault-waterford-city-7025675-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/27/woman-40s-dies-in-fatal-assault-in-waterford/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41835146.html"}
+      ],
+      "tags": ["crime", "safety"]
+    },
+    {
+      "headline": "PSNI releases footage of car bomb attack on Belfast police station",
+      "summary": "Police in Northern Ireland released video footage of a car bomb explosion outside a police station in Dunmurry, Belfast on Saturday night, April 26. The attack, attributed to the New IRA, represents the second car bomb attack on police infrastructure in just one month. Senior PSNI officers condemned the \"reckless\" and \"cowardly\" nature of the attack, which poses serious dangers to officers and the public. Two infants were among those evacuated from nearby properties. The incident underscores ongoing security challenges and dissident republican violence in Northern Ireland.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ulster/2026/0427/1570391-psni-dunmurry-ni/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/car-explosion-belfast-2-7024798-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/04/27/terrorism-is-always-wrong-ni-leaders-condemn-bomb-attack-outside-dunmurry-psni-station/"}
+      ],
+      "tags": ["defence", "security", "politics"]
+    },
+    {
+      "headline": "Fast-track housing developments stuck in planning limbo",
+      "summary": "More than 6,000 fast-track housing units remain stalled in Ireland's planning system due to legal challenges and administrative delays in deciding applications. The Strategic Housing Development (SHD) process, designed to accelerate housing delivery, has been hampered by judicial reviews and procedural obstacles. This backlog undermines government efforts to address Ireland's severe housing shortage and affordability crisis. The delays represent a significant setback to housing supply targets and contribute to continued pressure on rental and purchase prices. Addressing the planning bottleneck has become a priority for policymakers concerned with housing availability.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/thousands-fast-track-shd-homes-planning-sytem-judicial-reviews-delays-7025961-Apr2026/"}
+      ],
+      "tags": ["housing", "economy", "politics"]
+    },
+    {
+      "headline": "Meta contractor Covalen announces 700 job cuts in Ireland",
+      "summary": "Covalen, a Meta contractor, has announced that over 700 jobs are at risk across its Irish operations. The cuts follow recent redundancies of more than 300 workers and predominantly affect workers in AI annotation roles on Meta projects. Irish government has been appealed to for intervention to support affected workers. The announcement reflects broader tech sector downsizing and comes amid economic uncertainty in the sector. The job losses represent a significant impact on Ireland's tech employment landscape and local economies where Covalen operates.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/meta-ireland-7025272-Apr2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/04/27/government-intervention-sought-as-700-jobs-threatened-at-meta-contractor-covalen/"}
+      ],
+      "tags": ["economy", "technology", "employment"]
+    },
+    {
+      "headline": "Consumer sentiment falls amid rising fuel prices",
+      "summary": "Irish consumer sentiment has declined again in April as fuel price hikes and domestic economic tensions weigh on household confidence. Rising energy costs are impacting households' purchasing power and financial outlook. The deteriorating sentiment reflects broader economic headwinds affecting Ireland, including inflation pressures and cost-of-living concerns. Consumer confidence indices have been declining, signaling potential impacts on retail spending and economic activity. Government measures to support household energy costs remain under discussion as policymakers seek to address affordability concerns.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/economy/arid-41834831.html"}
+      ],
+      "tags": ["economy", "health"]
+    },
+    {
+      "headline": "One in three Irish adults have experienced fraud, Central Bank reports",
+      "summary": "The Central Bank of Ireland reports that over one-third (35%) of Irish adults have experienced fraud, highlighting a significant and widespread problem. However, more than one-third of fraud victims never report their experiences to authorities, indicating a serious under-reporting issue. The data reveals a substantial gap between the prevalence of fraud and official reporting statistics. This reporting gap hampers authorities' understanding of the true extent of fraud and impacts law enforcement's ability to pursue perpetrators. The Central Bank's findings underscore the need for increased public awareness and victim support mechanisms.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0428/1570525-fraud-report/"}
+      ],
+      "tags": ["crime", "social", "health"]
+    },
+    {
+      "headline": "Claire's Accessories closes all Ireland and UK stores with 1,300 redundancies",
+      "summary": "Claire's Accessories has announced the closure of all its stores across Ireland and the UK, resulting in 1,300 job losses. The decision follows private equity owner Modella Capital's hiring of Kroll to oversee the administration. The closures represent a significant loss of retail employment across both countries and affect established high street presence in shopping centres nationwide. The move reflects challenges in the bricks-and-mortar retail sector and changing consumer shopping habits. Affected employees face redundancy proceedings as the company winds down operations.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/claires-accessories-shuts-all-ireland-and-uk-stores-7025632-Apr2026/"}
+      ],
+      "tags": ["economy", "employment"]
+    }
+  ]
+}
