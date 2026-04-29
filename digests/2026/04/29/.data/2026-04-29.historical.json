@@ -1,0 +1,41 @@
+{
+  "parallels": [
+    {
+      "type": "new",
+      "story_headline": "UAE Quits OPEC in Major Blow to Oil Cartel as Middle East War Deepens",
+      "story_topic": "UAE OPEC withdrawal",
+      "historical_event": "Qatar's Withdrawal from OPEC (2019)",
+      "date_range": "2018–2019",
+      "summary": "Qatar announced its withdrawal from OPEC effective 1 January 2019, citing a desire to focus on natural gas production and to assert autonomy from Gulf neighbours following the 2017 Qatar diplomatic crisis in which Saudi Arabia, the UAE, Bahrain, and Egypt severed relations with Doha. The departure illustrated how geopolitical fractures within the Gulf Cooperation Council could override purely economic calculations about cartel membership. Qatar had been an OPEC member since 1961, making the exit a symbolic as well as structural break. Like the UAE today, Qatar framed its decision in terms of national interest and long-term economic strategy. OPEC subsequently struggled to present a unified front, though it retained enough coherence to manage supply agreements through the COVID-19 shock of 2020 and the energy crisis of 2022.",
+      "parallel_analysis": "The UAE's exit in 2026 echoes Qatar's logic but at far greater scale, removing a producer with roughly twice Qatar's output and doing so during active military conflict — suggesting the institutional bonds of OPEC may be loosening beyond the cartel's ability to repair. Both departures reflect the same underlying tension: geopolitical realignment making the costs of OPEC membership outweigh its benefits for member states with independent strategic ambitions.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/OPEC"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "China Detains 70 Panamanian Ships in Escalating Canal Standoff",
+      "story_topic": "Panama Canal sovereignty dispute",
+      "historical_event": "The Torrijos-Carter Treaties (1977)",
+      "date_range": "1964–1999",
+      "summary": "The Torrijos-Carter Treaties, signed on 7 September 1977 by US President Jimmy Carter and Panamanian leader Omar Torrijos, resolved nearly three-quarters of a century of tension over sovereignty of the Panama Canal Zone. The original 1903 Hay-Bunau-Varilla Treaty had granted the United States control over a ten-mile-wide strip of Panamanian territory in perpetuity, generating mounting resentment that culminated in the deadly flag riots of January 1964. Torrijos, who came to power in a 1968 military coup, made renegotiation of the canal treaties a defining national cause. The 1977 agreements guaranteed that full operational control of the canal would transfer to Panama on 31 December 1999, which it did — ending nearly a century of American dominion over the waterway.",
+      "parallel_analysis": "China's 2026 detention of Panamanian-flagged ships represents a different kind of pressure — coercive economic leverage rather than territorial occupation — but it similarly forces Panama to defend the independence of its most strategically vital national asset against a larger power intent on shaping its governance. The lesson of the Torrijos era is that external pressure on Panamanian sovereignty tends to harden rather than soften domestic resolve.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Torrijos%E2%80%93Carter_Treaties"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "EU Approves €90 Billion Ukraine Loan After Hungary Drops Veto",
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Marshall Plan and Lend-Lease (1941–1952)",
+      "date_range": "1941–1952",
+      "summary": "The EU's sustained financial commitment to Ukraine finds its most instructive historical echoes in two American precedents: the Lend-Lease Act of 1941 and the Marshall Plan of 1948–1952. Lend-Lease enabled the United States to supply Britain and the Soviet Union with war material before America formally entered the Second World War, providing a lifeline to embattled democracies without requiring immediate repayment. The Marshall Plan then addressed post-conflict reconstruction, channelling approximately $13 billion into sixteen European economies, explicitly linking economic recovery to political stabilisation and the containment of Soviet influence. Both programmes faced domestic political resistance — Lend-Lease was deeply contested in an isolationist Congress, while the Marshall Plan required Truman to frame European recovery as a Cold War necessity.",
+      "parallel_analysis": "The EU's Ukraine packages echo both precedents: like Lend-Lease, they provide financial oxygen to a state under active military pressure; like the Marshall Plan, they are premised on the idea that political stability in the recipient country is inseparable from the security of the donor bloc. Hungary's vetoes recall the congressional isolationist resistance to Lend-Lease, and their resolution through bilateral dealmaking reflects the same pragmatic logic that eventually broke the impasse in Washington in 1941.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease"
+      ]
+    }
+  ]
+}

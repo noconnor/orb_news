@@ -1,0 +1,72 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-29T05:00:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran-US tensions escalate amid naval blockade and oil market reaction",
+      "summary": "Oil prices have risen significantly following reports that the Trump administration intends to maintain or extend its naval blockade of Iran, prolonging Middle East supply disruptions. President Trump stated that Tehran has reached out requesting the blockade be lifted, indicating ongoing diplomatic tensions. The blockade continues to affect global energy markets, with crude prices responding to expectations of sustained Iranian supply constraints. This geopolitical standoff has broader implications for global oil prices and regional stability. The situation underscores persistent tension between US and Iranian interests in the strategic Persian Gulf region.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "UAE departs OPEC in major blow to oil cartel amid Middle East tensions",
+      "summary": "The United Arab Emirates announced its withdrawal from OPEC, marking a significant fracture in the world's most powerful oil cartel. The UAE cited prioritization of its \"national interests\" as the reason for the departure, dealing a substantial blow to OPEC's cohesion during a period of heightened Middle East tensions. The move reflects shifting geopolitical dynamics and disagreements within the organization regarding production policies and regional strategies. The departure could affect global oil market stability and OPEC's ability to coordinate supply and pricing strategies. This development represents one of the most significant organizational challenges OPEC has faced in recent years.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkRnVTlZMUhRaEl2QnlWWDU0eW4xYzFteWdmRVJlaFNweTRkSElodlp1QlJmMzZncXRKQkFnSnUtSTQ5RVVfRXdqT09rQjE5dEluTUpjc0hZMUNPall0T212U1ItMUhpTk5oOU9OWDV5R0p3aEN3bDJKNlhxLUZ3aFB4YW9EMzE2NzkzYURxbkRyUGp2dVVWWlFqalVJYTFIdUE?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec-as-oil-cartel-takes-blow-during-war-on-iran?traffic_source=rss"}
+      ],
+      "tags": ["economy", "trade", "diplomacy"]
+    },
+    {
+      "headline": "Israel-Palestine conflict spreads to Lebanon as Israeli attacks kill rescue workers",
+      "summary": "Lebanon's Prime Minister condemned what he described as Israeli \"war crimes\" after an Israeli attack killed three rescue workers operating in the country. The incident highlights expanding regional violence beyond Gaza, with humanitarian workers becoming targets in cross-border operations. The attack raises serious international law concerns regarding the protection of non-combatants and humanitarian personnel. Israel-Lebanon tensions have escalated significantly, with incidents like this intensifying calls for accountability and ceasefire negotiations. The killing of rescue workers represents a critical escalation that threatens broader regional stability and humanitarian operations.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "Ukraine accuses Israel of importing Russian-stolen grain amid conflict",
+      "summary": "Ukraine's government accused Israel of importing grain that was allegedly stolen by Russia during its ongoing invasion, with President Zelenskyy warning of potential sanctions against Israel. The accusation adds a new dimension to the Russia-Ukraine conflict, implicating third countries in the movement of goods taken during military occupation. Ukraine claims Russian forces have systematically looted grain supplies, and suggests Israel may be complicit through purchasing these materials. Zelenskyy's threat of sanctions represents escalating diplomatic pressure on Israel regarding its economic interactions related to the conflict. This dispute highlights the complex global economic entanglements created by the war and concerns about sanctions circumvention.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3lHMzB5TV9rTzMtRC1wVkxtOVdrU3dJb2pURHNoNVFKaGdCTTdWSHVpSGktWTRoTUEyX0l5STNsZGliSFZLaW9HZFZUSjZYck42WjlKazBrelZMM01hSm5aZ2pfdHVQOEhyWGhjbnphd2o2bUsybHlsTXVWSU1uMDdPaFhOMmJWTXllY1M0aXpMRnA5cGVwM1JmRQ?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/29/ukraines-accusation-against-israel-over-russian-stolen-grain"}
+      ],
+      "tags": ["conflict", "trade", "diplomacy"]
+    },
+    {
+      "headline": "China detains Panamanian ships in escalating Panama Canal dispute",
+      "summary": "China detained nearly 70 Panamanian-flagged ships in retaliation following a Panamanian Supreme Court ruling related to the Panama Canal, drawing criticism from the US and Latin American countries. The mass detention represents a significant escalation in tensions between China and Panama over control and governance of the strategically vital waterway. The US and regional allies view the Chinese action as an attempt to pressure Panama through economic coercion. The Panama Canal remains one of the world's most critical shipping routes, making this dispute a matter of international concern. The incident reflects broader US-China competition for influence in Latin America and control of critical infrastructure.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/29/us-latin-america-countries-criticise-chinas-retaliation-over-panama-canal?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "trade", "diplomacy"]
+    },
+    {
+      "headline": "Mali military leader consolidates control following alleged coup attempt",
+      "summary": "Mali's military leader reasserted control over the country following an alleged coup attempt, declaring that the nation remains \"under control.\" The incident underscores ongoing political instability in the West African nation, which has experienced multiple military interventions in recent years. The exact nature and scope of the alleged coup attempt remain unclear, but the military's rapid assertion of authority suggests potential internal power struggles. Mali's situation reflects broader governance challenges in the Sahel region, complicated by militant extremism, foreign military presence, and weak civilian institutions. The stability of Mali has implications for regional security and the effectiveness of international military interventions in West Africa.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "governance", "diplomacy"]
+    },
+    {
+      "headline": "King Charles III strengthens US-UK diplomatic ties during Washington visit",
+      "summary": "British King Charles III conducted intensive diplomatic engagements in Washington, including meetings with President Trump and Congress, emphasizing the strength of the US-UK transatlantic alliance. The White House characterized the relationship between the two leaders in dramatic terms, highlighting the importance both nations place on maintaining their special relationship. Such high-level royal visits serve as important diplomatic gestures reinforcing bilateral ties and coordinating on shared security and economic interests. The timing of the visit occurs amid complex international developments and underscores the continued centrality of the US-UK relationship in global affairs. The diplomatic engagement reflects both nations' commitment to strengthening institutional and personal ties at the highest levels.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkxFNVg3UzljM3A0T0twVmZrcEJ6Vm9yT0RSckhQbmhfSFdLdXNlYVZHS2lUNE5iQmQ5bmJOYVZZdTB6ZXRha2xwM3o3WU1NNjdPc1NocHhLemxhRkZWU2RHeVQtb1BYWFdCZ3QxMkxzeUg5RWNqeWVBVGpaYmI4cERNb29qbjh6TkRwZWszdS00VGh6bGpPazBWMUhGLXI5blhkVA?oc=5"}
+      ],
+      "tags": ["diplomacy", "trade", "governance"]
+    }
+  ]
+}

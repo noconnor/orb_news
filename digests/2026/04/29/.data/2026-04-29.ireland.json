@@ -1,0 +1,69 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-29T10:00:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Government to announce fuel support scheme",
+      "summary": "The Irish Government is set to announce a new fuel support scheme on April 29, aimed at providing relief to households affected by energy costs. The scheme represents a policy response to ongoing energy affordability concerns facing Irish families and businesses. This follows previous support measures the Government has implemented. The announcement comes as energy prices remain a significant issue for consumers across the country. Details of the scheme's scope and implementation timeline are expected to be provided during the announcement.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0429/1570745-fuel-supports-scheme/"}
+      ],
+      "tags": ["economy", "politics", "energy"]
+    },
+    {
+      "headline": "Ireland needs €700m annually to restore nature and support environmental stewardship",
+      "summary": "A report from the Independent Advisory Committee on Nature Restoration has found that Ireland requires €700 million invested annually to restore nature and support farmers, fishers, and foresters in environmental protection efforts. The investment would enable sustainable management of Ireland's natural resources and biodiversity. The report highlights the financial commitment needed to meet environmental restoration goals and support rural communities dependent on natural resource sectors. This addresses both ecological restoration and economic support for affected workers. The findings represent a significant policy challenge for the Government regarding budgetary allocation.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0429/1570761-environment-report/"}
+      ],
+      "tags": ["economy", "environment", "agriculture"]
+    },
+    {
+      "headline": "Rental reform confusion causing landlords to wrongly evict tenants, charity warns",
+      "summary": "Threshold, a tenants' support charity, has warned that confusion surrounding rental reform legislation is leading landlords to carry out wrongful evictions. The charity supported more than 10,000 households in the first quarter of 2026, indicating widespread housing insecurity issues. The confusion suggests the rental reform process has created uncertainty among both landlords and tenants regarding legal rights and obligations. This raises concerns about housing stability and tenant protections during the transition period. The issue highlights the need for clearer communication and implementation of rental reform policies.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/housing-planning/2026/04/29/rental-reform-confusion-causing-landlords-to-wrongly-evict-tenants-support-charity-warns/"}
+      ],
+      "tags": ["housing", "social", "politics"]
+    },
+    {
+      "headline": "Four arrested in connection with Edenderry house fire deaths",
+      "summary": "Four individuals have been arrested in connection with a house fire in Edenderry that killed four-year-old Tadgh Farrell and his 60-year-old great-aunt Mary Holt on December 6, 2025. The arrests represent a significant development in the investigation into the fatal fire, bringing potential accountability for those involved. The case has drawn considerable public attention due to the tragic loss of a young child and vulnerable adult. The arrests suggest investigators have gathered sufficient evidence to pursue charges. The outcome of this investigation will likely have important implications for fire safety and criminal accountability in Ireland.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/three-arrested-edenderry-fire-tadhg-farrell-mary-holt-7026425-Apr2026/"}
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "Gardaí investigate incident involving child and firearm in Ireland",
+      "summary": "Gardaí are investigating an incident in which a child reportedly fired a gun that was dropped by an armed suspect. Two males have been arrested in connection with the incident. The case raises serious concerns about firearm safety and security, particularly regarding incidents involving minors. The investigation is ongoing and details about how the child accessed the weapon are being examined. This incident highlights risks associated with armed crime and weapons handling in Irish communities.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41835806.html"}
+      ],
+      "tags": ["crime", "social", "defence"]
+    },
+    {
+      "headline": "International cyber experts gather in Dublin for major cybersecurity conference",
+      "summary": "International cybersecurity experts are convening in Dublin on April 29 for a major conference focused on emerging cyber threats. The event brings together leading specialists from across the globe to discuss current and emerging cybersecurity challenges. Dublin's hosting of this conference reflects Ireland's growing prominence in the technology and cybersecurity sectors. The gathering provides an opportunity for knowledge sharing and networking among security professionals. The conference highlights Ireland's role as a hub for technology and security expertise in Europe.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0429/1570711-cybersecurity-conference-dublin/"}
+      ],
+      "tags": ["technology", "politics", "economy"]
+    },
+    {
+      "headline": "Dublin retail sector considers supporting addiction treatment funding amid theft crisis",
+      "summary": "Dublin retail groups have indicated openness to helping fund support programs for individuals struggling with addiction who are involved in retail theft. The initiative emerged from discussions involving former UK Government advisors and senior police officers meeting with Dublin Town and other retail organizations. The approach represents a shift toward addressing root causes of retail crime rather than purely enforcement-focused responses. The retail sector recognizes connections between addiction and theft, and sees investment in treatment as a potential solution. This collaborative approach between retailers, government advisors, and law enforcement demonstrates a multi-stakeholder response to Dublin's retail crime challenges.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/retail-theft-dublin-7026415-Apr2026/"}
+      ],
+      "tags": ["crime", "social", "health"]
+    }
+  ]
+}

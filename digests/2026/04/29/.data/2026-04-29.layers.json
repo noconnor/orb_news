@@ -1,0 +1,382 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-29T10:00:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Government to announce fuel support scheme",
+        "summary": "The Irish Government is set to announce a new fuel support scheme on April 29, aimed at providing relief to households affected by energy costs. The scheme represents a policy response to ongoing energy affordability concerns facing Irish families and businesses. This follows previous support measures the Government has implemented. The announcement comes as energy prices remain a significant issue for consumers across the country. Details of the scheme's scope and implementation timeline are expected to be provided during the announcement.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0429/1570745-fuel-supports-scheme/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics",
+          "energy"
+        ]
+      },
+      {
+        "headline": "Ireland needs \u20ac700m annually to restore nature and support environmental stewardship",
+        "summary": "A report from the Independent Advisory Committee on Nature Restoration has found that Ireland requires \u20ac700 million invested annually to restore nature and support farmers, fishers, and foresters in environmental protection efforts. The investment would enable sustainable management of Ireland's natural resources and biodiversity. The report highlights the financial commitment needed to meet environmental restoration goals and support rural communities dependent on natural resource sectors. This addresses both ecological restoration and economic support for affected workers. The findings represent a significant policy challenge for the Government regarding budgetary allocation.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0429/1570761-environment-report/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "environment",
+          "agriculture"
+        ]
+      },
+      {
+        "headline": "Rental reform confusion causing landlords to wrongly evict tenants, charity warns",
+        "summary": "Threshold, a tenants' support charity, has warned that confusion surrounding rental reform legislation is leading landlords to carry out wrongful evictions. The charity supported more than 10,000 households in the first quarter of 2026, indicating widespread housing insecurity issues. The confusion suggests the rental reform process has created uncertainty among both landlords and tenants regarding legal rights and obligations. This raises concerns about housing stability and tenant protections during the transition period. The issue highlights the need for clearer communication and implementation of rental reform policies.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/housing-planning/2026/04/29/rental-reform-confusion-causing-landlords-to-wrongly-evict-tenants-support-charity-warns/"
+          }
+        ],
+        "tags": [
+          "housing",
+          "social",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Four arrested in connection with Edenderry house fire deaths",
+        "summary": "Four individuals have been arrested in connection with a house fire in Edenderry that killed four-year-old Tadgh Farrell and his 60-year-old great-aunt Mary Holt on December 6, 2025. The arrests represent a significant development in the investigation into the fatal fire, bringing potential accountability for those involved. The case has drawn considerable public attention due to the tragic loss of a young child and vulnerable adult. The arrests suggest investigators have gathered sufficient evidence to pursue charges. The outcome of this investigation will likely have important implications for fire safety and criminal accountability in Ireland.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/three-arrested-edenderry-fire-tadhg-farrell-mary-holt-7026425-Apr2026/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Garda\u00ed investigate incident involving child and firearm in Ireland",
+        "summary": "Garda\u00ed are investigating an incident in which a child reportedly fired a gun that was dropped by an armed suspect. Two males have been arrested in connection with the incident. The case raises serious concerns about firearm safety and security, particularly regarding incidents involving minors. The investigation is ongoing and details about how the child accessed the weapon are being examined. This incident highlights risks associated with armed crime and weapons handling in Irish communities.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41835806.html"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social",
+          "defence"
+        ]
+      },
+      {
+        "headline": "International cyber experts gather in Dublin for major cybersecurity conference",
+        "summary": "International cybersecurity experts are convening in Dublin on April 29 for a major conference focused on emerging cyber threats. The event brings together leading specialists from across the globe to discuss current and emerging cybersecurity challenges. Dublin's hosting of this conference reflects Ireland's growing prominence in the technology and cybersecurity sectors. The gathering provides an opportunity for knowledge sharing and networking among security professionals. The conference highlights Ireland's role as a hub for technology and security expertise in Europe.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0429/1570711-cybersecurity-conference-dublin/"
+          }
+        ],
+        "tags": [
+          "technology",
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Dublin retail sector considers supporting addiction treatment funding amid theft crisis",
+        "summary": "Dublin retail groups have indicated openness to helping fund support programs for individuals struggling with addiction who are involved in retail theft. The initiative emerged from discussions involving former UK Government advisors and senior police officers meeting with Dublin Town and other retail organizations. The approach represents a shift toward addressing root causes of retail crime rather than purely enforcement-focused responses. The retail sector recognizes connections between addiction and theft, and sees investment in treatment as a potential solution. This collaborative approach between retailers, government advisors, and law enforcement demonstrates a multi-stakeholder response to Dublin's retail crime challenges.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/retail-theft-dublin-7026415-Apr2026/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social",
+          "health"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-29T08:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Hungary's new PM Magyar proposes June summit with Zelensky to reset Ukraine relations",
+        "summary": "Peter Magyar, Hungary's newly elected Prime Minister, has proposed a reconciliation meeting with Ukrainian President Volodymyr Zelensky scheduled for June. The proposal aims to address ongoing disputes between Budapest and Kyiv, particularly regarding the treatment of ethnic Hungarian minorities in Ukraine. This development marks a potential shift in Hungary's approach to Ukrainian relations, which have been strained under previous leadership. The summit represents an effort to bridge diplomatic gaps amid broader European support for Ukraine. Magyar's initiative signals Hungary's possible realignment within EU consensus on Ukraine policy.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260428-hungary-s-pm-elect-magyar-offers-to-meet-ukraine-s-zelensky-in-june"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "Ukraine",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU members approve \u20ac90 billion loan for Ukraine as Hungary removes veto",
+        "summary": "European Union leaders have approved a \u20ac90 billion financial aid package for Ukraine following Hungary's removal of its veto, which had previously blocked the decision. The breakthrough came after Hungary's pipeline repair agreement was completed, resolving a key dispute. This substantial funding represents a critical show of solidarity from the EU toward Ukraine amid its ongoing conflict with Russia. The approval demonstrates the EU's commitment to supporting Ukraine's reconstruction and operational needs. The funding package is expected to provide crucial economic support for Ukraine's stability and defense capabilities.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260423-zelensky-to-join-european-leaders-in-cyprus-as-eu-unblocks-%E2%82%AC90bn-ukraine-loan"
+          }
+        ],
+        "tags": [
+          "EU",
+          "economy",
+          "Ukraine"
+        ]
+      },
+      {
+        "headline": "Amsterdam becomes world's first capital to ban fossil fuel advertisements",
+        "summary": "Amsterdam has achieved a historic milestone by becoming the world's first capital city to implement a comprehensive ban on fossil fuel advertising. The ban prohibits advertisements promoting flights, cruise ships, and petrol vehicles, signaling a major commitment to climate action and the green energy transition. The move reflects growing pressure across Europe to address climate change through regulatory measures affecting consumer behavior and corporate marketing. Amsterdam's decision is expected to influence other European cities and set a precedent for climate-focused urban policy. The initiative represents a significant step in Europe's broader effort to reduce fossil fuel dependence and accelerate the renewable energy transition.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/tv-shows/focus/20260427-amsterdam-becomes-world-s-first-capital-to-ban-fossil-fuel-ads"
+          }
+        ],
+        "tags": [
+          "climate",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Europe attracting top AI talent as US visa restrictions drive brain drain",
+        "summary": "European countries are experiencing a significant influx of artificial intelligence talent as restrictive US visa policies drive tech workers to seek opportunities abroad. The shift positions Europe as an increasingly attractive hub for AI development and research, emerging as a third major market for global AI talent alongside the United States and Asia. Cities across the EU are seeing rising investment in AI infrastructure and talent acquisition initiatives. This brain gain presents opportunities for European competitiveness in the burgeoning AI sector. The migration of talent could strengthen Europe's technological sovereignty and innovation capabilities in this critical emerging industry.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://euronews.com/next/2026/04/29/which-european-countries-are-attracting-the-worlds-top-ai-talent"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Aviation fuel shortages threaten widespread flight cancellations across Europe in June and July",
+        "summary": "European aviation experts warn that fuel shortages are increasing the likelihood of flight cancellations across the continent during peak summer travel months in June and July. The disruptions are expected to affect short-haul flights within Europe first, with consequences for both passengers and airlines. The shortage reflects broader energy supply challenges affecting Europe's infrastructure and economy. Airlines and aviation authorities are developing contingency plans to manage potential disruptions. The forecast raises concerns about the impact on European tourism and business travel during the critical summer season.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/odds-of-flights-cancellations-in-june-and-july-are-increasing-every-day-expert-says"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Media freedom under threat across EU as political interference in public broadcasting spreads",
+        "summary": "Campaigners and media freedom advocates are warning that political interference in public broadcasting is becoming increasingly widespread across the European Union, posing a serious threat to fundamental press freedoms. The deteriorating media landscape is characterized by political pressure on news outlets and editorial independence. Experts emphasize that when media freedom erodes, broader democratic institutions and civil liberties quickly follow. The trend reflects concerning developments in EU governance and democratic standards across member states. Strengthening media independence has become an urgent priority for EU institutions and international watchdog organizations.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/when-media-freedom-goes-the-rest-is-not-far-behind-campaigner-says"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Train collision near Copenhagen injures at least 18 people, prompts major emergency response",
+        "summary": "A collision between two trains near Copenhagen has resulted in multiple casualties, with at least 18 people injured in the incident. Emergency responders mobilized a massive response, airlifting multiple casualties to hospitals in the Danish capital. The accident represents a significant transportation safety incident affecting commuters and raising questions about rail safety protocols in Denmark. Investigation into the collision's cause has been launched by Danish authorities. The incident underscores the importance of rail infrastructure safety and maintenance across European transport networks.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260423-train-collision-in-denmark-prompts-massive-emergency-response-near-copenhagen"
+          }
+        ],
+        "tags": [
+          "transport",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "China issues warning against EU's 'Made in Europe' industrial policy, threatens countermeasures",
+        "summary": "Beijing has formally objected to the European Union's proposed 'Made in Europe' initiative, which aims to establish local content thresholds for public funding in critical sectors including vehicles, green technology, and steel. China warns that the policy represents an unfair trade practice and has threatened to implement retaliatory countermeasures against EU interests. The dispute highlights growing economic tensions between the EU and China amid Europe's push for industrial sovereignty and reduced dependence on Chinese manufacturing. The 'Made in Europe' framework represents EU efforts to strengthen domestic capacity in strategic sectors. The row underscores widening EU-China trade friction and competing visions for global economic governance.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260427-china-warns-eu-made-in-europe-plan-countermeasures"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-29T05:00:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Iran-US tensions escalate amid naval blockade and oil market reaction",
+        "summary": "Oil prices have risen significantly following reports that the Trump administration intends to maintain or extend its naval blockade of Iran, prolonging Middle East supply disruptions. President Trump stated that Tehran has reached out requesting the blockade be lifted, indicating ongoing diplomatic tensions. The blockade continues to affect global energy markets, with crude prices responding to expectations of sustained Iranian supply constraints. This geopolitical standoff has broader implications for global oil prices and regional stability. The situation underscores persistent tension between US and Iranian interests in the strategic Persian Gulf region.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "UAE departs OPEC in major blow to oil cartel amid Middle East tensions",
+        "summary": "The United Arab Emirates announced its withdrawal from OPEC, marking a significant fracture in the world's most powerful oil cartel. The UAE cited prioritization of its \"national interests\" as the reason for the departure, dealing a substantial blow to OPEC's cohesion during a period of heightened Middle East tensions. The move reflects shifting geopolitical dynamics and disagreements within the organization regarding production policies and regional strategies. The departure could affect global oil market stability and OPEC's ability to coordinate supply and pricing strategies. This development represents one of the most significant organizational challenges OPEC has faced in recent years.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkRnVTlZMUhRaEl2QnlWWDU0eW4xYzFteWdmRVJlaFNweTRkSElodlp1QlJmMzZncXRKQkFnSnUtSTQ5RVVfRXdqT09rQjE5dEluTUpjc0hZMUNPall0T212U1ItMUhpTk5oOU9OWDV5R0p3aEN3bDJKNlhxLUZ3aFB4YW9EMzE2NzkzYURxbkRyUGp2dVVWWlFqalVJYTFIdUE?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec-as-oil-cartel-takes-blow-during-war-on-iran?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Israel-Palestine conflict spreads to Lebanon as Israeli attacks kill rescue workers",
+        "summary": "Lebanon's Prime Minister condemned what he described as Israeli \"war crimes\" after an Israeli attack killed three rescue workers operating in the country. The incident highlights expanding regional violence beyond Gaza, with humanitarian workers becoming targets in cross-border operations. The attack raises serious international law concerns regarding the protection of non-combatants and humanitarian personnel. Israel-Lebanon tensions have escalated significantly, with incidents like this intensifying calls for accountability and ceasefire negotiations. The killing of rescue workers represents a critical escalation that threatens broader regional stability and humanitarian operations.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Ukraine accuses Israel of importing Russian-stolen grain amid conflict",
+        "summary": "Ukraine's government accused Israel of importing grain that was allegedly stolen by Russia during its ongoing invasion, with President Zelenskyy warning of potential sanctions against Israel. The accusation adds a new dimension to the Russia-Ukraine conflict, implicating third countries in the movement of goods taken during military occupation. Ukraine claims Russian forces have systematically looted grain supplies, and suggests Israel may be complicit through purchasing these materials. Zelenskyy's threat of sanctions represents escalating diplomatic pressure on Israel regarding its economic interactions related to the conflict. This dispute highlights the complex global economic entanglements created by the war and concerns about sanctions circumvention.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3lHMzB5TV9rTzMtRC1wVkxtOVdrU3dJb2pURHNoNVFKaGdCTTdWSHVpSGktWTRoTUEyX0l5STNsZGliSFZLaW9HZFZUSjZYck42WjlKazBrelZMM01hSm5aZ2pfdHVQOEhyWGhjbnphd2o2bUsybHlsTXVWSU1uMDdPaFhOMmJWTXllY1M0aXpMRnA5cGVwM1JmRQ?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/29/ukraines-accusation-against-israel-over-russian-stolen-grain"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "trade",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "China detains Panamanian ships in escalating Panama Canal dispute",
+        "summary": "China detained nearly 70 Panamanian-flagged ships in retaliation following a Panamanian Supreme Court ruling related to the Panama Canal, drawing criticism from the US and Latin American countries. The mass detention represents a significant escalation in tensions between China and Panama over control and governance of the strategically vital waterway. The US and regional allies view the Chinese action as an attempt to pressure Panama through economic coercion. The Panama Canal remains one of the world's most critical shipping routes, making this dispute a matter of international concern. The incident reflects broader US-China competition for influence in Latin America and control of critical infrastructure.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/29/us-latin-america-countries-criticise-chinas-retaliation-over-panama-canal?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "trade",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Mali military leader consolidates control following alleged coup attempt",
+        "summary": "Mali's military leader reasserted control over the country following an alleged coup attempt, declaring that the nation remains \"under control.\" The incident underscores ongoing political instability in the West African nation, which has experienced multiple military interventions in recent years. The exact nature and scope of the alleged coup attempt remain unclear, but the military's rapid assertion of authority suggests potential internal power struggles. Mali's situation reflects broader governance challenges in the Sahel region, complicated by militant extremism, foreign military presence, and weak civilian institutions. The stability of Mali has implications for regional security and the effectiveness of international military interventions in West Africa.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "King Charles III strengthens US-UK diplomatic ties during Washington visit",
+        "summary": "British King Charles III conducted intensive diplomatic engagements in Washington, including meetings with President Trump and Congress, emphasizing the strength of the US-UK transatlantic alliance. The White House characterized the relationship between the two leaders in dramatic terms, highlighting the importance both nations place on maintaining their special relationship. Such high-level royal visits serve as important diplomatic gestures reinforcing bilateral ties and coordinating on shared security and economic interests. The timing of the visit occurs amid complex international developments and underscores the continued centrality of the US-UK relationship in global affairs. The diplomatic engagement reflects both nations' commitment to strengthening institutional and personal ties at the highest levels.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkxFNVg3UzljM3A0T0twVmZrcEJ6Vm9yT0RSckhQbmhfSFdLdXNlYVZHS2lUNE5iQmQ5bmJOYVZZdTB6ZXRha2xwM3o3WU1NNjdPc1NocHhLemxhRkZWU2RHeVQtb1BYWFdCZ3QxMkxzeUg5RWNqeWVBVGpaYmI4cERNb29qbjh6TkRwZWszdS00VGh6bGpPazBWMUhGLXI5blhkVA?oc=5"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "trade",
+          "governance"
+        ]
+      }
+    ]
+  }
+}

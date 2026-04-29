@@ -1,0 +1,77 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-29T08:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Hungary's new PM Magyar proposes June summit with Zelensky to reset Ukraine relations",
+      "summary": "Peter Magyar, Hungary's newly elected Prime Minister, has proposed a reconciliation meeting with Ukrainian President Volodymyr Zelensky scheduled for June. The proposal aims to address ongoing disputes between Budapest and Kyiv, particularly regarding the treatment of ethnic Hungarian minorities in Ukraine. This development marks a potential shift in Hungary's approach to Ukrainian relations, which have been strained under previous leadership. The summit represents an effort to bridge diplomatic gaps amid broader European support for Ukraine. Magyar's initiative signals Hungary's possible realignment within EU consensus on Ukraine policy.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260428-hungary-s-pm-elect-magyar-offers-to-meet-ukraine-s-zelensky-in-june"}
+      ],
+      "tags": ["diplomacy", "Ukraine", "EU"]
+    },
+    {
+      "headline": "EU members approve €90 billion loan for Ukraine as Hungary removes veto",
+      "summary": "European Union leaders have approved a €90 billion financial aid package for Ukraine following Hungary's removal of its veto, which had previously blocked the decision. The breakthrough came after Hungary's pipeline repair agreement was completed, resolving a key dispute. This substantial funding represents a critical show of solidarity from the EU toward Ukraine amid its ongoing conflict with Russia. The approval demonstrates the EU's commitment to supporting Ukraine's reconstruction and operational needs. The funding package is expected to provide crucial economic support for Ukraine's stability and defense capabilities.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260423-zelensky-to-join-european-leaders-in-cyprus-as-eu-unblocks-%E2%82%AC90bn-ukraine-loan"}
+      ],
+      "tags": ["EU", "economy", "Ukraine"]
+    },
+    {
+      "headline": "Amsterdam becomes world's first capital to ban fossil fuel advertisements",
+      "summary": "Amsterdam has achieved a historic milestone by becoming the world's first capital city to implement a comprehensive ban on fossil fuel advertising. The ban prohibits advertisements promoting flights, cruise ships, and petrol vehicles, signaling a major commitment to climate action and the green energy transition. The move reflects growing pressure across Europe to address climate change through regulatory measures affecting consumer behavior and corporate marketing. Amsterdam's decision is expected to influence other European cities and set a precedent for climate-focused urban policy. The initiative represents a significant step in Europe's broader effort to reduce fossil fuel dependence and accelerate the renewable energy transition.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/tv-shows/focus/20260427-amsterdam-becomes-world-s-first-capital-to-ban-fossil-fuel-ads"}
+      ],
+      "tags": ["climate", "regulation", "EU"]
+    },
+    {
+      "headline": "Europe attracting top AI talent as US visa restrictions drive brain drain",
+      "summary": "European countries are experiencing a significant influx of artificial intelligence talent as restrictive US visa policies drive tech workers to seek opportunities abroad. The shift positions Europe as an increasingly attractive hub for AI development and research, emerging as a third major market for global AI talent alongside the United States and Asia. Cities across the EU are seeing rising investment in AI infrastructure and talent acquisition initiatives. This brain gain presents opportunities for European competitiveness in the burgeoning AI sector. The migration of talent could strengthen Europe's technological sovereignty and innovation capabilities in this critical emerging industry.",
+      "sources": [
+        {"name": "Euronews", "url": "https://euronews.com/next/2026/04/29/which-european-countries-are-attracting-the-worlds-top-ai-talent"}
+      ],
+      "tags": ["technology", "economy", "EU"]
+    },
+    {
+      "headline": "Aviation fuel shortages threaten widespread flight cancellations across Europe in June and July",
+      "summary": "European aviation experts warn that fuel shortages are increasing the likelihood of flight cancellations across the continent during peak summer travel months in June and July. The disruptions are expected to affect short-haul flights within Europe first, with consequences for both passengers and airlines. The shortage reflects broader energy supply challenges affecting Europe's infrastructure and economy. Airlines and aviation authorities are developing contingency plans to manage potential disruptions. The forecast raises concerns about the impact on European tourism and business travel during the critical summer season.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/odds-of-flights-cancellations-in-june-and-july-are-increasing-every-day-expert-says"}
+      ],
+      "tags": ["economy", "EU", "climate"]
+    },
+    {
+      "headline": "Media freedom under threat across EU as political interference in public broadcasting spreads",
+      "summary": "Campaigners and media freedom advocates are warning that political interference in public broadcasting is becoming increasingly widespread across the European Union, posing a serious threat to fundamental press freedoms. The deteriorating media landscape is characterized by political pressure on news outlets and editorial independence. Experts emphasize that when media freedom erodes, broader democratic institutions and civil liberties quickly follow. The trend reflects concerning developments in EU governance and democratic standards across member states. Strengthening media independence has become an urgent priority for EU institutions and international watchdog organizations.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/when-media-freedom-goes-the-rest-is-not-far-behind-campaigner-says"}
+      ],
+      "tags": ["governance", "EU", "regulation"]
+    },
+    {
+      "headline": "Train collision near Copenhagen injures at least 18 people, prompts major emergency response",
+      "summary": "A collision between two trains near Copenhagen has resulted in multiple casualties, with at least 18 people injured in the incident. Emergency responders mobilized a massive response, airlifting multiple casualties to hospitals in the Danish capital. The accident represents a significant transportation safety incident affecting commuters and raising questions about rail safety protocols in Denmark. Investigation into the collision's cause has been launched by Danish authorities. The incident underscores the importance of rail infrastructure safety and maintenance across European transport networks.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260423-train-collision-in-denmark-prompts-massive-emergency-response-near-copenhagen"}
+      ],
+      "tags": ["transport", "EU", "governance"]
+    },
+    {
+      "headline": "China issues warning against EU's 'Made in Europe' industrial policy, threatens countermeasures",
+      "summary": "Beijing has formally objected to the European Union's proposed 'Made in Europe' initiative, which aims to establish local content thresholds for public funding in critical sectors including vehicles, green technology, and steel. China warns that the policy represents an unfair trade practice and has threatened to implement retaliatory countermeasures against EU interests. The dispute highlights growing economic tensions between the EU and China amid Europe's push for industrial sovereignty and reduced dependence on Chinese manufacturing. The 'Made in Europe' framework represents EU efforts to strengthen domestic capacity in strategic sectors. The row underscores widening EU-China trade friction and competing visions for global economic governance.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260427-china-warns-eu-made-in-europe-plan-countermeasures"}
+      ],
+      "tags": ["trade", "economy", "EU"]
+    }
+  ]
+}
