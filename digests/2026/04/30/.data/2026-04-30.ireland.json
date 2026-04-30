@@ -1,0 +1,82 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-04-30T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Prison crisis worsens with overcrowding reaching record 6,000 inmates",
+      "summary": "Irish prisons are facing a critical overcrowding crisis as inmate numbers approach 6,000, marking a new record. Prison officers have denounced conditions as a 'national scandal', citing escalating violence, intimidation, weapon smuggling, and drug distribution fuelled by severe overcrowding. The prison service faces growing security concerns, including potential implications from cartel boss extradition cases. The situation represents an immediate threat to both staff safety and inmate welfare. Government officials have not announced concrete measures to address the structural capacity problem underlying this crisis.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0430/1570970-prison-officers-conference/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41836475.html"}
+      ],
+      "tags": ["politics", "crime", "social"]
+    },
+    {
+      "headline": "Government announces fuel support scheme for farmers following protests",
+      "summary": "The government has unveiled two schemes worth €100 million and €120 million respectively to provide fuel support payments to farmers and agricultural contractors by late June. The commitment comes following recent farmer protests over fuel costs and represents a major policy response to agricultural sector pressures. The scheme addresses immediate concerns raised by the farming community regarding operational viability. The delayed timeline for payments (by end of June) indicates complex implementation requirements. This resolves an acute political issue but carries significant fiscal implications for the state budget.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0429/1570745-fuel-supports-scheme/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/fuel-support-scheme-7026614-Apr2026/"}
+      ],
+      "tags": ["politics", "economy", "agriculture"]
+    },
+    {
+      "headline": "One in seven Irish households unable to afford adequate heating, ESRI reports",
+      "summary": "The Economic and Social Research Institute (ESRI) has published research revealing that 14 percent of Irish households in 2024 were unable to afford adequate warmth, indicating persistent energy poverty. The ESRI simultaneously criticized government proposals for universal energy credits as prohibitively expensive, contradicting recommendations from the Tánaiste's office. The report highlights structural inequality in energy access across Irish society and raises questions about cost-of-living policy effectiveness. Energy poverty correlates with health vulnerabilities and reduced economic participation among affected households. The findings inform ongoing debate about whether universal or targeted support mechanisms better address fuel poverty.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0430/1570961-esri-fuel-poverty/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/esri-energy-credits-poverty-research-7027231-Apr2026/"}
+      ],
+      "tags": ["economy", "health", "social"]
+    },
+    {
+      "headline": "National Children's Hospital remains without updated completion deadline",
+      "summary": "The National Paediatric Hospital Development Board has failed to establish a revised completion timeline for the National Children's Hospital project, frustrating oversight efforts by the Public Accounts Committee. The hospital continues to face substantial defects affecting construction completion, including ventilation noise issues, water drainage failures, and numerous structural problems affecting both clinical and non-clinical areas. The project has become emblematic of delays and cost overruns in major Irish infrastructure development. The lack of a definitive completion deadline signals ongoing project management challenges and raises questions about oversight mechanisms. This remains one of Ireland's most contentious infrastructure projects, with significant implications for paediatric healthcare delivery.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0429/1570945-nch-deadline/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41836451.html"}
+      ],
+      "tags": ["politics", "health", "economy"]
+    },
+    {
+      "headline": "Oracle plans significant job cuts affecting 150 Irish-based workers",
+      "summary": "Technology multinational Oracle has announced plans to reduce its Irish workforce, with approximately 150 jobs at risk. The Irish government has been formally notified of the redundancy programme. Oracle maintains substantial operations in Ireland as part of its European infrastructure, making the job losses significant for the domestic technology sector and local employment. The company has not publicly disclosed specific reasons for the reduction or a definitive timeline for implementation. The cuts reflect broader technology sector challenges with hiring freezes and workforce reductions occurring across major multinational firms globally.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0429/1570890-fears-for-150-irish-based-jobs-at-oracle/"}
+      ],
+      "tags": ["economy", "employment", "technology"]
+    },
+    {
+      "headline": "Dublin Central byelection campaign formally launches with six candidates registered",
+      "summary": "Six candidates have officially registered for the Dublin Central byelection, with polling scheduled for Friday, May 22, 2026. Notable candidates include Gerry Hutch, entering the electoral arena following his acquittal in the Regency Hotel murder trial. The byelection will determine representation for the Dublin Central constituency and carries significant political implications as a test of voter sentiment in a traditionally competitive urban Dublin seat. The campaign period will span approximately three weeks. Results from this byelection are expected to influence broader political dynamics ahead of potential general election considerations.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/gerry-hutch-among-six-candidates-officially-register-dublin-central-7027067-Apr2026/"}
+      ],
+      "tags": ["politics", "elections"]
+    },
+    {
+      "headline": "Israeli military intercepts Gaza aid flotilla carrying President Connolly's sister",
+      "summary": "The Israeli military has begun intercepting a Gaza aid flotilla that includes Dr Margaret Connolly, sister of Irish President Michael D. Connolly, who set sail on Sunday from Europe. The flotilla was intended to deliver humanitarian assistance to Gaza amid ongoing conflict-related humanitarian concerns. The interception raises diplomatic questions regarding the involvement of the Irish President's family member in the operation. Humanitarian aid deliveries to Gaza remain contested, with varying international responses to such initiatives. The incident may prompt diplomatic communications between Ireland and Israel regarding the detained flotilla and its humanitarian cargo.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/israel-begins-intercepting-gaza-aid-flotilla-margaret-connolly-7027457-Apr2026/"}
+      ],
+      "tags": ["politics", "international", "humanitarian"]
+    },
+    {
+      "headline": "Murder charge filed in Waterford city death investigation",
+      "summary": "A 39-year-old man, Tomas Marvenek, has been charged with the murder of Yveta Donovalova, a 43-year-old mother of three, in Waterford city. The victim was discovered with stab wounds at her home on Monday, April 28. Marvenek appeared before Waterford District Court and has been remanded in custody pending further proceedings. The case highlights ongoing domestic violence and serious crime concerns within Irish communities. Investigation details suggest a complex background to the incident. The case will proceed through the Irish criminal justice system with court dates established for continued hearings.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/courts/2026/0429/1570881-marvanek-courts/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/04/29/man-39-remanded-in-custody-charged-with-murder-of-yveta-donovalova-in-co-waterford/"}
+      ],
+      "tags": ["crime", "courts"]
+    }
+  ]
+}

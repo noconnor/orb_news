@@ -1,0 +1,94 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-04-30T06:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "no_today_items",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU Parliament debates antisemitism following attacks in Netherlands and Belgium",
+      "summary": "The European Parliament is holding debates on how the EU can tackle antisemitism in response to recent violent attacks in the Netherlands and Belgium. The issue has become a focal point for EU lawmakers during the April 27-30 plenary session in Strasbourg, reflecting growing concerns about rising antisemitic incidents across member states. The debate addresses both immediate security responses and longer-term policy measures to combat discrimination and hate crimes. This discussion highlights the EU's commitment to protecting religious communities and upholding fundamental rights across the union. The parliamentary focus underscores the seriousness with which European institutions treat threats to minority safety.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/"
+        },
+        {
+          "name": "European Parliament News",
+          "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27"
+        }
+      ],
+      "tags": ["governance", "regulation", "EU"]
+    },
+    {
+      "headline": "GDPR celebrates 10 years as Europe's landmark data protection framework",
+      "summary": "April 30, 2026 marks the 10th anniversary of the General Data Protection Regulation's adoption, one of the world's most influential data protection laws. The GDPR established comprehensive rights for individuals regarding their personal data and created binding obligations for organizations handling that data across Europe. Over the past decade, the framework has become a global standard, influencing data protection laws in countries beyond the EU and shaping how digital platforms operate. The regulation continues to evolve with enforcement and interpretations adapting to new technologies and business models. The milestone reflects Europe's commitment to privacy rights and digital governance at a time when data collection and use remain contested issues globally.",
+      "sources": [
+        {
+          "name": "European Union News",
+          "url": "https://european-union.europa.eu/news-and-events_en"
+        }
+      ],
+      "tags": ["regulation", "governance", "EU"]
+    },
+    {
+      "headline": "EU Commission finds Meta in breach of Digital Services Act over child protections",
+      "summary": "The European Commission has issued a preliminary finding that Meta's Instagram and Facebook platforms violated the Digital Services Act by failing to adequately reduce risks for children under 13 accessing their services. This enforcement action represents a significant test of the EU's regulatory framework for digital platforms, which came into force in 2024. The breach concerns insufficient safeguards against minors accessing age-restricted content and features designed for older users. The ruling demonstrates the Commission's commitment to enforcing strict digital regulations and protecting minors online. Potential remedies and fines are expected as the investigation proceeds, signaling stricter compliance requirements ahead for large technology platforms operating in Europe.",
+      "sources": [
+        {
+          "name": "European Union News",
+          "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+        }
+      ],
+      "tags": ["regulation", "EU", "technology"]
+    },
+    {
+      "headline": "Europol taskforce arrests 280 suspects in 'violence for hire' crackdown",
+      "summary": "A multinational Europol taskforce has arrested 280 suspects across multiple European countries as part of a coordinated operation targeting the 'violence for hire' criminal economy. The operation revealed the extent to which organized crime groups are expanding criminal services including contract violence, intimidation, and extortion. The arrests represent significant progress in disrupting criminal networks that profit from violence-for-hire services, a growing concern for European law enforcement. The coordinated effort involved police from multiple EU member states and demonstrates the value of cross-border cooperation through Europol. The crackdown highlights ongoing security challenges and the need for sustained international cooperation to combat organized crime across Europe.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/"
+        }
+      ],
+      "tags": ["defence", "governance", "EU"]
+    },
+    {
+      "headline": "European Union and United States launch strategic critical minerals partnership",
+      "summary": "The EU and US have formalized a strategic partnership on critical minerals through a Memorandum of Understanding and joint EU-US Action Plan for Critical Minerals Supply Chain Resilience. This initiative addresses shared concerns about supply chain vulnerabilities for essential materials required for green energy, defense, and digital technologies. The partnership aims to diversify sourcing, strengthen processing capabilities, and reduce dependence on potentially unreliable suppliers. By coordinating procurement and developing joint strategic reserves, the US and EU intend to build more resilient supply chains for minerals critical to economic competitiveness and energy transition goals. The agreement reflects broader transatlantic efforts to strengthen economic security amid geopolitical shifts and the accelerating transition to renewable energy.",
+      "sources": [
+        {
+          "name": "European Union News",
+          "url": "https://european-union.europa.eu/news-and-events_en"
+        }
+      ],
+      "tags": ["trade", "economy", "EU"]
+    },
+    {
+      "headline": "EU to support Liberty Steel Belgium workers with €2 million assistance package",
+      "summary": "EU lawmakers are expected to approve €2 million in targeted support for workers who lost employment following the bankruptcy of Liberty Steel Belgium. The funding is intended to help affected workers transition to new employment and receive retraining assistance through the EU's solidarity mechanisms. The support reflects the EU's commitment to protecting workers displaced by major corporate failures and ensuring economic security in affected regions. Liberty Steel's collapse had significant local economic impact in Belgium, affecting hundreds of jobs in the steel industry. The EU assistance demonstrates how European institutions coordinate with member states to mitigate economic shocks and support workforce transitions during industrial restructuring.",
+      "sources": [
+        {
+          "name": "European Parliament News",
+          "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27"
+        }
+      ],
+      "tags": ["economy", "governance", "EU"]
+    },
+    {
+      "headline": "Sweden seizes Russian 'shadow fleet' vessel amid maritime enforcement drive",
+      "summary": "Swedish authorities have confiscated a falsely-flagged Russian vessel operating as part of the 'shadow fleet' used to circumvent international sanctions and transport sanctioned commodities. The seizure represents ongoing enforcement of sanctions regimes against Russia and efforts to disrupt illegal maritime commerce. Shadow fleet vessels use deceptive flags and ownership structures to hide their Russian connections while transporting oil and other restricted goods. The interception demonstrates Sweden's commitment to maritime security and compliance with international sanctions, particularly following Russia's invasion of Ukraine. The action reinforces European determination to prevent sanctions evasion and maintain the integrity of international maritime laws and trade restrictions.",
+      "sources": [
+        {
+          "name": "European news sources",
+          "url": "https://www.euronews.com/"
+        }
+      ],
+      "tags": ["defence", "trade", "EU"]
+    }
+  ]
+}

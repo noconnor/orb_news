@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-30",
+  "update_type": "morning",
+  "steps": {
+    "setup_s": 9,
+    "gather_s": 100,
+    "preprocess_historical_s": 0,
+    "digest_write_s": 276,
+    "audio_s": 100,
+    "commit_s": 0
+  },
+  "total_s": 505,
+  "stories_per_layer": {"ireland": 8, "europe": 7, "world": 8},
+  "sources_success": "15/15",
+  "audio_sections": 6,
+  "audio_duration_s": 705.8,
+  "models": {
+    "gather": "haiku",
+    "digest_writer": "sonnet",
+    "audio": "edge-tts (no LLM)"
+  },
+  "estimated_cost_usd": 0.16
+}

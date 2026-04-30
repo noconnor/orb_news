@@ -1,0 +1,424 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-04-30T06:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Prison crisis worsens with overcrowding reaching record 6,000 inmates",
+        "summary": "Irish prisons are facing a critical overcrowding crisis as inmate numbers approach 6,000, marking a new record. Prison officers have denounced conditions as a 'national scandal', citing escalating violence, intimidation, weapon smuggling, and drug distribution fuelled by severe overcrowding. The prison service faces growing security concerns, including potential implications from cartel boss extradition cases. The situation represents an immediate threat to both staff safety and inmate welfare. Government officials have not announced concrete measures to address the structural capacity problem underlying this crisis.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0430/1570970-prison-officers-conference/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41836475.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Government announces fuel support scheme for farmers following protests",
+        "summary": "The government has unveiled two schemes worth \u20ac100 million and \u20ac120 million respectively to provide fuel support payments to farmers and agricultural contractors by late June. The commitment comes following recent farmer protests over fuel costs and represents a major policy response to agricultural sector pressures. The scheme addresses immediate concerns raised by the farming community regarding operational viability. The delayed timeline for payments (by end of June) indicates complex implementation requirements. This resolves an acute political issue but carries significant fiscal implications for the state budget.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0429/1570745-fuel-supports-scheme/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/fuel-support-scheme-7026614-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "agriculture"
+        ]
+      },
+      {
+        "headline": "One in seven Irish households unable to afford adequate heating, ESRI reports",
+        "summary": "The Economic and Social Research Institute (ESRI) has published research revealing that 14 percent of Irish households in 2024 were unable to afford adequate warmth, indicating persistent energy poverty. The ESRI simultaneously criticized government proposals for universal energy credits as prohibitively expensive, contradicting recommendations from the T\u00e1naiste's office. The report highlights structural inequality in energy access across Irish society and raises questions about cost-of-living policy effectiveness. Energy poverty correlates with health vulnerabilities and reduced economic participation among affected households. The findings inform ongoing debate about whether universal or targeted support mechanisms better address fuel poverty.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0430/1570961-esri-fuel-poverty/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/esri-energy-credits-poverty-research-7027231-Apr2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "health",
+          "social"
+        ]
+      },
+      {
+        "headline": "National Children's Hospital remains without updated completion deadline",
+        "summary": "The National Paediatric Hospital Development Board has failed to establish a revised completion timeline for the National Children's Hospital project, frustrating oversight efforts by the Public Accounts Committee. The hospital continues to face substantial defects affecting construction completion, including ventilation noise issues, water drainage failures, and numerous structural problems affecting both clinical and non-clinical areas. The project has become emblematic of delays and cost overruns in major Irish infrastructure development. The lack of a definitive completion deadline signals ongoing project management challenges and raises questions about oversight mechanisms. This remains one of Ireland's most contentious infrastructure projects, with significant implications for paediatric healthcare delivery.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0429/1570945-nch-deadline/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41836451.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "health",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Oracle plans significant job cuts affecting 150 Irish-based workers",
+        "summary": "Technology multinational Oracle has announced plans to reduce its Irish workforce, with approximately 150 jobs at risk. The Irish government has been formally notified of the redundancy programme. Oracle maintains substantial operations in Ireland as part of its European infrastructure, making the job losses significant for the domestic technology sector and local employment. The company has not publicly disclosed specific reasons for the reduction or a definitive timeline for implementation. The cuts reflect broader technology sector challenges with hiring freezes and workforce reductions occurring across major multinational firms globally.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0429/1570890-fears-for-150-irish-based-jobs-at-oracle/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "employment",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Dublin Central byelection campaign formally launches with six candidates registered",
+        "summary": "Six candidates have officially registered for the Dublin Central byelection, with polling scheduled for Friday, May 22, 2026. Notable candidates include Gerry Hutch, entering the electoral arena following his acquittal in the Regency Hotel murder trial. The byelection will determine representation for the Dublin Central constituency and carries significant political implications as a test of voter sentiment in a traditionally competitive urban Dublin seat. The campaign period will span approximately three weeks. Results from this byelection are expected to influence broader political dynamics ahead of potential general election considerations.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/gerry-hutch-among-six-candidates-officially-register-dublin-central-7027067-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Israeli military intercepts Gaza aid flotilla carrying President Connolly's sister",
+        "summary": "The Israeli military has begun intercepting a Gaza aid flotilla that includes Dr Margaret Connolly, sister of Irish President Michael D. Connolly, who set sail on Sunday from Europe. The flotilla was intended to deliver humanitarian assistance to Gaza amid ongoing conflict-related humanitarian concerns. The interception raises diplomatic questions regarding the involvement of the Irish President's family member in the operation. Humanitarian aid deliveries to Gaza remain contested, with varying international responses to such initiatives. The incident may prompt diplomatic communications between Ireland and Israel regarding the detained flotilla and its humanitarian cargo.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/israel-begins-intercepting-gaza-aid-flotilla-margaret-connolly-7027457-Apr2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "international",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Murder charge filed in Waterford city death investigation",
+        "summary": "A 39-year-old man, Tomas Marvenek, has been charged with the murder of Yveta Donovalova, a 43-year-old mother of three, in Waterford city. The victim was discovered with stab wounds at her home on Monday, April 28. Marvenek appeared before Waterford District Court and has been remanded in custody pending further proceedings. The case highlights ongoing domestic violence and serious crime concerns within Irish communities. Investigation details suggest a complex background to the incident. The case will proceed through the Irish criminal justice system with court dates established for continued hearings.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/courts/2026/0429/1570881-marvanek-courts/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/04/29/man-39-remanded-in-custody-charged-with-murder-of-yveta-donovalova-in-co-waterford/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "courts"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-04-30T06:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "no_today_items",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "EU Parliament debates antisemitism following attacks in Netherlands and Belgium",
+        "summary": "The European Parliament is holding debates on how the EU can tackle antisemitism in response to recent violent attacks in the Netherlands and Belgium. The issue has become a focal point for EU lawmakers during the April 27-30 plenary session in Strasbourg, reflecting growing concerns about rising antisemitic incidents across member states. The debate addresses both immediate security responses and longer-term policy measures to combat discrimination and hate crimes. This discussion highlights the EU's commitment to protecting religious communities and upholding fundamental rights across the union. The parliamentary focus underscores the seriousness with which European institutions treat threats to minority safety.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/"
+          },
+          {
+            "name": "European Parliament News",
+            "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27"
+          }
+        ],
+        "tags": [
+          "governance",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "GDPR celebrates 10 years as Europe's landmark data protection framework",
+        "summary": "April 30, 2026 marks the 10th anniversary of the General Data Protection Regulation's adoption, one of the world's most influential data protection laws. The GDPR established comprehensive rights for individuals regarding their personal data and created binding obligations for organizations handling that data across Europe. Over the past decade, the framework has become a global standard, influencing data protection laws in countries beyond the EU and shaping how digital platforms operate. The regulation continues to evolve with enforcement and interpretations adapting to new technologies and business models. The milestone reflects Europe's commitment to privacy rights and digital governance at a time when data collection and use remain contested issues globally.",
+        "sources": [
+          {
+            "name": "European Union News",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU Commission finds Meta in breach of Digital Services Act over child protections",
+        "summary": "The European Commission has issued a preliminary finding that Meta's Instagram and Facebook platforms violated the Digital Services Act by failing to adequately reduce risks for children under 13 accessing their services. This enforcement action represents a significant test of the EU's regulatory framework for digital platforms, which came into force in 2024. The breach concerns insufficient safeguards against minors accessing age-restricted content and features designed for older users. The ruling demonstrates the Commission's commitment to enforcing strict digital regulations and protecting minors online. Potential remedies and fines are expected as the investigation proceeds, signaling stricter compliance requirements ahead for large technology platforms operating in Europe.",
+        "sources": [
+          {
+            "name": "European Union News",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "EU",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Europol taskforce arrests 280 suspects in 'violence for hire' crackdown",
+        "summary": "A multinational Europol taskforce has arrested 280 suspects across multiple European countries as part of a coordinated operation targeting the 'violence for hire' criminal economy. The operation revealed the extent to which organized crime groups are expanding criminal services including contract violence, intimidation, and extortion. The arrests represent significant progress in disrupting criminal networks that profit from violence-for-hire services, a growing concern for European law enforcement. The coordinated effort involved police from multiple EU member states and demonstrates the value of cross-border cooperation through Europol. The crackdown highlights ongoing security challenges and the need for sustained international cooperation to combat organized crime across Europe.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "European Union and United States launch strategic critical minerals partnership",
+        "summary": "The EU and US have formalized a strategic partnership on critical minerals through a Memorandum of Understanding and joint EU-US Action Plan for Critical Minerals Supply Chain Resilience. This initiative addresses shared concerns about supply chain vulnerabilities for essential materials required for green energy, defense, and digital technologies. The partnership aims to diversify sourcing, strengthen processing capabilities, and reduce dependence on potentially unreliable suppliers. By coordinating procurement and developing joint strategic reserves, the US and EU intend to build more resilient supply chains for minerals critical to economic competitiveness and energy transition goals. The agreement reflects broader transatlantic efforts to strengthen economic security amid geopolitical shifts and the accelerating transition to renewable energy.",
+        "sources": [
+          {
+            "name": "European Union News",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU to support Liberty Steel Belgium workers with \u20ac2 million assistance package",
+        "summary": "EU lawmakers are expected to approve \u20ac2 million in targeted support for workers who lost employment following the bankruptcy of Liberty Steel Belgium. The funding is intended to help affected workers transition to new employment and receive retraining assistance through the EU's solidarity mechanisms. The support reflects the EU's commitment to protecting workers displaced by major corporate failures and ensuring economic security in affected regions. Liberty Steel's collapse had significant local economic impact in Belgium, affecting hundreds of jobs in the steel industry. The EU assistance demonstrates how European institutions coordinate with member states to mitigate economic shocks and support workforce transitions during industrial restructuring.",
+        "sources": [
+          {
+            "name": "European Parliament News",
+            "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27"
+          }
+        ],
+        "tags": [
+          "economy",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Sweden seizes Russian 'shadow fleet' vessel amid maritime enforcement drive",
+        "summary": "Swedish authorities have confiscated a falsely-flagged Russian vessel operating as part of the 'shadow fleet' used to circumvent international sanctions and transport sanctioned commodities. The seizure represents ongoing enforcement of sanctions regimes against Russia and efforts to disrupt illegal maritime commerce. Shadow fleet vessels use deceptive flags and ownership structures to hide their Russian connections while transporting oil and other restricted goods. The interception demonstrates Sweden's commitment to maritime security and compliance with international sanctions, particularly following Russia's invasion of Ukraine. The action reinforces European determination to prevent sanctions evasion and maintain the integrity of international maritime laws and trade restrictions.",
+        "sources": [
+          {
+            "name": "European news sources",
+            "url": "https://www.euronews.com/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "trade",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-04-30T12:00:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "websearch_fallback"
+    },
+    "stories": [
+      {
+        "headline": "US military escalation against Iran sends oil prices to highest since 2022",
+        "summary": "Crude oil prices surged to their highest levels in four years following reports that the US Central Command has prepared military strike plans against Iran. President Trump is being briefed on new options to resolve the standoff, including 'short and powerful' strikes. The blockade of Iranian ports and threat of military action have sparked pro-government rallies in Tehran demanding an end to US pressure. Markets reacted swiftly to the escalation, with energy prices reflecting concerns about potential supply disruptions through the strategic Hormuz Strait. The geopolitical tension marks a critical moment in US-Iran relations with global economic consequences.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenNidWVwSUNlZUxVRDFaR3N2NVdjRXdmTmJNZGk2T2prVmh6bTJndHR1bm1PUmhmbjN2dkpMYTN5NG5IZlFNUExLclNlcWJMVzFrd1VjTXoxRlFEWmtPbDlGZ055WlJVbEhESGRob0hPVFVKemt2aDNhaGpDR1RzZmRORVM3M0RmbjhuY0ctSGlYaEJXYkVtbmZtZnZZNnZHX3FVcXNIQm4wOXJ1Mk83dXFILXdmQi0xcFYzMw?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "US indicts Mexican Sinaloa state governor and nine others over drug cartel links",
+        "summary": "US federal prosecutors have charged Governor Ruben Rocha Moya of Sinaloa state and nine other current and former Mexican officials with working in collaboration with cartel leaders. The indictment alleges that the officials used their positions to facilitate drug trafficking operations. This case highlights the persistent problem of state capture by criminal organizations in Mexico and signals a major law enforcement action targeting corruption at the highest political levels. Rocha Moya comes from the same political party as Mexican President Claudia Sheinbaum, making the indictment politically sensitive. The charges underscore the ongoing struggle between Mexican authorities and powerful drug trafficking organizations.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "crime",
+          "diplomacy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "London stabbing of two Jewish men classified as terrorism; suspect arrested",
+        "summary": "London police have officially classified a stabbing attack targeting two Jewish men as an act of terror, with the suspect now in custody. Law enforcement released bodycam footage of the arrest showing the apprehension of the individual responsible for the attack. The designation as terrorism reflects growing concerns about targeted violence against Jewish communities in the UK. The incident occurred amid heightened tensions related to Middle East conflicts and has prompted renewed discussions about security at community events. The case underscores broader concerns about extremist-motivated attacks in Western cities.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://apnews.com"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/london-police-release-bodycam-of-arrest-after-two-jewish-men-stabbed?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "security",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Israel seizes Global Sumud Flotilla boats over 1,000km from Gaza",
+        "summary": "Israeli military forces intercepted approximately a dozen humanitarian aid boats from the Global Sumud Flotilla en route to Gaza, despite the vessels being intercepted far from their intended destination\u2014over 1,000 kilometers away. The operation demonstrates Israel's blockade enforcement against Gaza-bound aid shipments. The seizure has drawn international criticism over humanitarian access and the treatment of aid missions. The incident reflects ongoing tensions surrounding the Gaza maritime boundary and international efforts to deliver humanitarian assistance. The action raises questions about international maritime law and the scope of Israeli security operations.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/israel-seizes-global-sumud-flotilla-boats-1000km-away-from-gaza?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Christchurch mass killer Brenton Tarrant's appeal bid rejected; conviction upheld",
+        "summary": "New Zealand's appeals court has decisively rejected white supremacist Brenton Tarrant's attempt to overturn his conviction, ruling his appeal 'utterly devoid of merit.' Tarrant carried out the 2019 Christchurch mosque shooting that killed 51 people in one of the worst mass shooting incidents in the country's history. The court's decision affirms the guilty verdict and keeps Tarrant's conviction intact. The ruling provides closure and confirmation of justice to victims' families and the affected Muslim community. The case remains a landmark example of New Zealand's response to extremist terrorism and its commitment to prosecuting such crimes.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "justice",
+          "security"
+        ]
+      },
+      {
+        "headline": "Australia proposes digital services tax targeting Meta, Google, TikTok",
+        "summary": "The Australian government has announced plans to introduce legislation requiring Meta, Google, and TikTok to pay a proportion of their revenue in exchange for using news content, with draft legislation expected to be tabled in Parliament by July 2026. The proposal is part of a broader effort to support news organizations and journalists in the digital age. Similar measures have been debated in other democracies struggling with the economics of digital news distribution. The tax would fundamentally reshape how major technology platforms compensate for news content they distribute. Australia joins growing global momentum for regulating big tech's relationship with the media industry.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/sections/world/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Kenya's Sabastian Sawe breaks marathon record, becomes first to run under two hours competitively",
+        "summary": "Kenyan marathon runner Sabastian Sawe achieved a historic milestone by becoming the first athlete to complete a marathon in under two hours in a competitive race setting. The achievement marks a significant breakthrough in long-distance running and earned Sawe a jubilant homecoming celebration in Kenya. The sub-two-hour marathon has long been considered the sport's ultimate barrier, and Sawe's accomplishment represents years of training, athletic development, and the continued dominance of East African runners in distance events. The feat demonstrates Kenya's continued excellence in endurance sports. Sawe's victory is expected to inspire a new generation of runners globally.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "sport",
+          "achievement",
+          "culture"
+        ]
+      },
+      {
+        "headline": "Heavy firefight erupts in Mali between military and armed rebels",
+        "summary": "Video footage has emerged showing intense combat operations in Mali between the country's military forces and armed opposition groups, with reports describing heavy gunfire exchanges. The conflict reflects ongoing instability in the Sahel region of West Africa, where multiple armed groups vie for control and influence. Mali has experienced persistent security challenges following military coups and the withdrawal of international peacekeeping forces. The fighting underscores the humanitarian and security crisis affecting civilians in the region. The incident highlights the precarious security situation and the challenges faced by Mali's military in maintaining territorial control.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "security"
+        ]
+      }
+    ]
+  }
+}

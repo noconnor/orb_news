@@ -1,0 +1,45 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US military escalation against Iran sends oil prices to highest since 2022",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Synthesis: Arab Oil Embargo (1973), Suez Crisis (1956), Tanker War (1984–1988), Iran-Iraq War (1980–1988), Operation Eagle Claw (1980), 1990 Oil Price Shock",
+      "date_range": "1956–1990",
+      "summary": "The US-Iran standoff draws on a long history of Middle Eastern flashpoints reshaping global energy markets. The 1973 Arab Oil Embargo reduced supply by 25 percent and quadrupled prices. The Suez Crisis of 1956 established that control of critical maritime chokepoints is inseparable from geopolitical leverage. The Tanker War of 1984–1988 saw both sides attack neutral oil tankers in the Gulf, prompting US Navy escorts under Operation Earnest Will. Operation Eagle Claw in 1980 demonstrated the limits of US military power projection against Iran. The 1990 oil price shock, triggered by Iraq's invasion of Kuwait, showed how sudden Gulf instability transmits into global recession risk.",
+      "parallel_analysis": "Each of these episodes ended with markets overreacting to supply fears before negotiation, alternative supply, and demand destruction restored equilibrium. Today's blockade of Iranian ports and preparation of strike options represents perhaps the most direct US military pressure on Iran since the hostage crisis. Historical precedent suggests that even partial disruption of Hormuz flows would have cascading effects on Asian manufacturing economies far beyond the immediate parties to the dispute.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Israel seizes Global Sumud Flotilla boats over 1,000km from Gaza",
+      "story_topic": "Gaza aid flotilla interception",
+      "historical_event": "2010 Gaza Flotilla Raid (Operation Sea Breeze / Operation Sky Winds)",
+      "date_range": "May 2010",
+      "summary": "On 31 May 2010, Israeli naval commandos intercepted six ships in international waters of the Mediterranean, with the lead vessel MV Mavi Marmara carrying 590 passengers including Turkish and international activists. Commandos boarded from helicopters in the pre-dawn hours and encountered resistance from a group of activists; nine activists were killed and ten Israeli soldiers were wounded. The UN Human Rights Council found the raid illegal, describing the level of force as disproportionate and marked by unacceptable brutality. The subsequent UN Palmer Report upheld the legality of the blockade itself but called the force used excessive and unreasonable. The diplomatic fallout was severe: Turkey recalled its ambassador and relations between the two countries deteriorated sharply. Israel subsequently eased the civilian goods elements of its blockade under international pressure. The 2010 raid remains the defining precedent for questions about the legality and proportionality of maritime interceptions of humanitarian vessels attempting to reach Gaza.",
+      "parallel_analysis": "The parallels with the 2026 Global Sumud Flotilla seizure are direct — boats intercepted far from Gaza in international waters, passengers including nationals of states friendly to Israel's allies, and questions about the proportionality of force applied. The presence of the Irish President's sister among those detained raises the diplomatic stakes beyond bilateral protest toward potential EU-level engagement. Whether this episode follows the 2010 trajectory of eventual compromise under international pressure, or hardens into a new sustained confrontation, will depend on whether the political cost of the interdiction proves higher than in the Mavi Marmara case.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/2010_Gaza_flotilla_raid"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "London stabbing of two Jewish men classified as terrorism; suspect arrested",
+      "story_topic": "antisemitism Europe targeted violence",
+      "historical_event": "Kristallnacht (November 1938)",
+      "date_range": "9–10 November 1938",
+      "summary": "Kristallnacht, the two-night pogrom of 9–10 November 1938, saw coordinated violence against Jews across Nazi Germany, Austria, and the Sudetenland. Rioters destroyed more than 1,400 synagogues and prayer rooms, damaged or demolished over 7,000 Jewish-owned businesses, ransacked homes, and facilitated the arrest of approximately 30,000 Jewish men transported to concentration camps. The violence was incited through a coded speech by Propaganda Minister Joseph Goebbels following the assassination of a German diplomat in Paris, demonstrating how political leadership can channel social hostility into organised mass violence. The international response included recalled ambassadors, severed diplomatic relations, and Britain's launch of the Kindertransport refugee programme. Historians regard Kristallnacht as the visible hinge between legal discrimination and genocidal violence, the moment at which state-sanctioned persecution became visible enough that bystander nations could no longer claim ignorance. The regime subsequently imposed a one-billion-Reichsmark collective fine on Jews, forcing victims to pay for the damage caused by their attackers.",
+      "parallel_analysis": "Contemporary incidents are emphatically different in scale and political context — they arise not from state direction but from a confluence of extremist ideology, imported geopolitical conflicts, and algorithmic amplification of hatred. Yet the European parliamentary debates in Strasbourg this week reflect a recognition that the direction of travel matters as much as any single incident: episodes of targeted violence, left unaddressed by consistent legal enforcement and political leadership, can normalise hostility toward a community in ways that become structurally entrenched. The lesson of 1938 is not that Europe is inevitably repeating itself, but that early and forceful institutional response is the variable that changed outcomes across historical cases.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Kristallnacht"
+      ]
+    }
+  ]
+}

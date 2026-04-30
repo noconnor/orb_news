@@ -1,0 +1,81 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-04-30T12:00:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "websearch_fallback"
+  },
+  "stories": [
+    {
+      "headline": "US military escalation against Iran sends oil prices to highest since 2022",
+      "summary": "Crude oil prices surged to their highest levels in four years following reports that the US Central Command has prepared military strike plans against Iran. President Trump is being briefed on new options to resolve the standoff, including 'short and powerful' strikes. The blockade of Iranian ports and threat of military action have sparked pro-government rallies in Tehran demanding an end to US pressure. Markets reacted swiftly to the escalation, with energy prices reflecting concerns about potential supply disruptions through the strategic Hormuz Strait. The geopolitical tension marks a critical moment in US-Iran relations with global economic consequences.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenNidWVwSUNlZUxVRDFaR3N2NVdjRXdmTmJNZGk2T2prVmh6bTJndHR1bm1PUmhmbjN2dkpMYTN5NG5IZlFNUExLclNlcWJMVzFrd1VjTXoxRlFEWmtPbDlGZ055WlJVbEhESGRob0hPVFVKemt2aDNhaGpDR1RzZmRORVM3M0RmbjhuY0ctSGlYaEJXYkVtbmZtZnZZNnZHX3FVcXNIQm4wOXJ1Mk83dXFILXdmQi0xcFYzMw?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "US indicts Mexican Sinaloa state governor and nine others over drug cartel links",
+      "summary": "US federal prosecutors have charged Governor Ruben Rocha Moya of Sinaloa state and nine other current and former Mexican officials with working in collaboration with cartel leaders. The indictment alleges that the officials used their positions to facilitate drug trafficking operations. This case highlights the persistent problem of state capture by criminal organizations in Mexico and signals a major law enforcement action targeting corruption at the highest political levels. Rocha Moya comes from the same political party as Mexican President Claudia Sheinbaum, making the indictment politically sensitive. The charges underscore the ongoing struggle between Mexican authorities and powerful drug trafficking organizations.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["crime", "diplomacy", "governance"]
+    },
+    {
+      "headline": "London stabbing of two Jewish men classified as terrorism; suspect arrested",
+      "summary": "London police have officially classified a stabbing attack targeting two Jewish men as an act of terror, with the suspect now in custody. Law enforcement released bodycam footage of the arrest showing the apprehension of the individual responsible for the attack. The designation as terrorism reflects growing concerns about targeted violence against Jewish communities in the UK. The incident occurred amid heightened tensions related to Middle East conflicts and has prompted renewed discussions about security at community events. The case underscores broader concerns about extremist-motivated attacks in Western cities.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://apnews.com"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/london-police-release-bodycam-of-arrest-after-two-jewish-men-stabbed?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "security", "humanitarian"]
+    },
+    {
+      "headline": "Israel seizes Global Sumud Flotilla boats over 1,000km from Gaza",
+      "summary": "Israeli military forces intercepted approximately a dozen humanitarian aid boats from the Global Sumud Flotilla en route to Gaza, despite the vessels being intercepted far from their intended destination—over 1,000 kilometers away. The operation demonstrates Israel's blockade enforcement against Gaza-bound aid shipments. The seizure has drawn international criticism over humanitarian access and the treatment of aid missions. The incident reflects ongoing tensions surrounding the Gaza maritime boundary and international efforts to deliver humanitarian assistance. The action raises questions about international maritime law and the scope of Israeli security operations.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/israel-seizes-global-sumud-flotilla-boats-1000km-away-from-gaza?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "Christchurch mass killer Brenton Tarrant's appeal bid rejected; conviction upheld",
+      "summary": "New Zealand's appeals court has decisively rejected white supremacist Brenton Tarrant's attempt to overturn his conviction, ruling his appeal 'utterly devoid of merit.' Tarrant carried out the 2019 Christchurch mosque shooting that killed 51 people in one of the worst mass shooting incidents in the country's history. The court's decision affirms the guilty verdict and keeps Tarrant's conviction intact. The ruling provides closure and confirmation of justice to victims' families and the affected Muslim community. The case remains a landmark example of New Zealand's response to extremist terrorism and its commitment to prosecuting such crimes.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["conflict", "justice", "security"]
+    },
+    {
+      "headline": "Australia proposes digital services tax targeting Meta, Google, TikTok",
+      "summary": "The Australian government has announced plans to introduce legislation requiring Meta, Google, and TikTok to pay a proportion of their revenue in exchange for using news content, with draft legislation expected to be tabled in Parliament by July 2026. The proposal is part of a broader effort to support news organizations and journalists in the digital age. Similar measures have been debated in other democracies struggling with the economics of digital news distribution. The tax would fundamentally reshape how major technology platforms compensate for news content they distribute. Australia joins growing global momentum for regulating big tech's relationship with the media industry.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["economy", "trade", "technology"]
+    },
+    {
+      "headline": "Kenya's Sabastian Sawe breaks marathon record, becomes first to run under two hours competitively",
+      "summary": "Kenyan marathon runner Sabastian Sawe achieved a historic milestone by becoming the first athlete to complete a marathon in under two hours in a competitive race setting. The achievement marks a significant breakthrough in long-distance running and earned Sawe a jubilant homecoming celebration in Kenya. The sub-two-hour marathon has long been considered the sport's ultimate barrier, and Sawe's accomplishment represents years of training, athletic development, and the continued dominance of East African runners in distance events. The feat demonstrates Kenya's continued excellence in endurance sports. Sawe's victory is expected to inspire a new generation of runners globally.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["sport", "achievement", "culture"]
+    },
+    {
+      "headline": "Heavy firefight erupts in Mali between military and armed rebels",
+      "summary": "Video footage has emerged showing intense combat operations in Mali between the country's military forces and armed opposition groups, with reports describing heavy gunfire exchanges. The conflict reflects ongoing instability in the Sahel region of West Africa, where multiple armed groups vie for control and influence. Mali has experienced persistent security challenges following military coups and the withdrawal of international peacekeeping forces. The fighting underscores the humanitarian and security crisis affecting civilians in the region. The incident highlights the precarious security situation and the challenges faced by Mali's military in maintaining territorial control.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "humanitarian", "security"]
+    }
+  ]
+}

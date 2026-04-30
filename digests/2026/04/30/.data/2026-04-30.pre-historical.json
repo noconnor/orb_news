@@ -1,0 +1,327 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Suez Crisis",
+        "The 1990 Oil Price Shock",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "US military escalation against Iran sends oil prices to highest since 2022"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "US indicts Mexican Sinaloa state governor and nine others over drug cartel links"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'US presidential security incident' — 1 prior parallels, room for more. Must not reuse: Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "London stabbing of two Jewish men classified as terrorism; suspect arrested"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'US presidential security incident' — 1 prior parallels, room for more. Must not reuse: Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Israel seizes Global Sumud Flotilla boats over 1,000km from Gaza"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Christchurch mass killer Brenton Tarrant's appeal bid rejected; conviction upheld"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'tech industry mass layoffs' — 1 prior parallels, room for more. Must not reuse: The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "existing_parallels": [
+        "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Dot-com_bubble"
+      ],
+      "matched_topic": "tech industry mass layoffs",
+      "headline": "Australia proposes digital services tax targeting Meta, Google, TikTok"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Kenya's Sabastian Sawe breaks marathon record, becomes first to run under two hours competitively"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'US presidential security incident'",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Heavy firefight erupts in Mali between military and armed rebels"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Parliament debates antisemitism following attacks in Netherlands and Belgium"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "GDPR celebrates 10 years as Europe's landmark data protection framework"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Commission finds Meta in breach of Digital Services Act over child protections"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Finland-Russia border security' — 1 prior parallels, room for more. Must not reuse: The Winter War (1939-1940)",
+      "existing_parallels": [
+        "The Winter War (1939-1940)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Winter_War"
+      ],
+      "matched_topic": "Finland-Russia border security",
+      "headline": "Europol taskforce arrests 280 suspects in 'violence for hire' crackdown"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "European Union and United States launch strategic critical minerals partnership"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU to support Liberty Steel Belgium workers with €2 million assistance package"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The Winter War (1939-1940)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Sweden seizes Russian 'shadow fleet' vessel amid maritime enforcement drive"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'UK government security vetting scandal' — 1 prior parallels, room for more. Must not reuse: The Profumo Affair (1963)",
+      "existing_parallels": [
+        "The Profumo Affair (1963)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Profumo_affair"
+      ],
+      "matched_topic": "UK government security vetting scandal",
+      "headline": "Prison crisis worsens with overcrowding reaching record 6,000 inmates"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Government announces fuel support scheme for farmers following protests"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "One in seven Irish households unable to afford adequate heating, ESRI reports"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "National Children's Hospital remains without updated completion deadline"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Oracle plans significant job cuts affecting 150 Irish-based workers"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Dublin Central byelection campaign formally launches with six candidates registered"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israeli military intercepts Gaza aid flotilla carrying President Connolly's sister"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Murder charge filed in Waterford city death investigation"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Finland-Russia border security",
+      "historical_event": "The Winter War (1939-1940)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II (1944-1945)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Irish Land War (1879-1882)",
+      "date_first_used": "2026-04-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Land_War"
+    },
+    {
+      "story_topic": "UK government security vetting scandal",
+      "historical_event": "The Profumo Affair (1963)",
+      "date_first_used": "2026-04-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Profumo_affair"
+    },
+    {
+      "story_topic": "tech industry mass layoffs",
+      "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "date_first_used": "2026-04-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
+    },
+    {
+      "story_topic": "US presidential security incident",
+      "historical_event": "Attempted Assassination of Ronald Reagan (1981)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

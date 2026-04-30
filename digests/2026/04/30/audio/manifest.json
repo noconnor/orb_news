@@ -1,0 +1,56 @@
+{
+  "voices": [
+    "en-IE-EmilyNeural",
+    "en-IE-ConnorNeural",
+    "en-GB-SoniaNeural",
+    "en-GB-RyanNeural",
+    "en-AU-NatashaNeural",
+    "en-US-AriaNeural",
+    "en-NZ-MollyNeural",
+    "en-ZA-LeahNeural"
+  ],
+  "sections": {
+    "top-story-1": {
+      "file": "top-story-1.mp3",
+      "voice": "en-NZ-MollyNeural",
+      "duration_s": 120.9,
+      "size_bytes": 1208736,
+      "chars": 3033
+    },
+    "top-story-2": {
+      "file": "top-story-2.mp3",
+      "voice": "en-GB-RyanNeural",
+      "duration_s": 112.7,
+      "size_bytes": 1126656,
+      "chars": 3460
+    },
+    "top-story-3": {
+      "file": "top-story-3.mp3",
+      "voice": "en-ZA-LeahNeural",
+      "duration_s": 132.3,
+      "size_bytes": 1323216,
+      "chars": 3695
+    },
+    "world": {
+      "file": "world.mp3",
+      "voice": "en-US-AriaNeural",
+      "duration_s": 114.9,
+      "size_bytes": 1149120,
+      "chars": 3383
+    },
+    "europe": {
+      "file": "europe.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "duration_s": 106.6,
+      "size_bytes": 1066320,
+      "chars": 3201
+    },
+    "ireland": {
+      "file": "ireland.mp3",
+      "voice": "en-IE-ConnorNeural",
+      "duration_s": 118.4,
+      "size_bytes": 1183824,
+      "chars": 3626
+    }
+  }
+}
