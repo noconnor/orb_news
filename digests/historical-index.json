@@ -275,6 +275,18 @@
       "historical_event": "Kristallnacht (November 1938)",
       "date_first_used": "2026-04-30",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Kristallnacht"
+    },
+    {
+      "story_topic": "Gaza aid flotilla interception",
+      "historical_event": "Aliyah Bet — British Interception of Jewish Refugee Ships (1945–1948)",
+      "date_first_used": "2026-05-01",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aliyah_Bet"
+    },
+    {
+      "story_topic": "UK terror threat escalation antisemitism",
+      "historical_event": "The 7 July 2005 London Bombings",
+      "date_first_used": "2026-05-01",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/7_July_2005_London_bombings"
     }
   ]
 }

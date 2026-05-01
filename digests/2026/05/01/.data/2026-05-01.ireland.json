@@ -1,0 +1,61 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-01T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Criminal gangs in Irish prisons nearly double to 34 in past year",
+      "summary": "The Irish Prison Service reported that recognised criminal gangs in the prison system have grown to 34, with gang membership increasing by 25% over the past year. Violent incidents increased 37.5% from 1,093 in 2024 to 1,503 in 2025, while direct attacks on prison officers rose 23% from 107 to 132. Major organised crime groups including the Kinahan transnational crime group and the Hutch Organised Crime Group are organising drone deliveries of weapons, drugs and contraband into prisons. The overcrowded system struggles to manage these groups, with 16 different gangs kept separate daily at Mountjoy prison through staggered exercise times. The escalating crisis poses significant operational challenges to the Irish Prison Service and has become a matter of urgent national concern.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0501/1571180-prison-officers-conference/"
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/irish-prison-service-7028284-May2026/"
+        }
+      ],
+      "tags": ["crime", "politics", "social"]
+    },
+    {
+      "headline": "Trade unions demand government action on cost-of-living crisis on May Day",
+      "summary": "The Irish Congress of Trade Unions (ICTU) and Dublin Council of Trade Unions held their annual May Day rally and march on May 1st, with the theme 'Can You Afford to Live?' highlighting how the affordability and housing crises are affecting workers and young people. ICTU leadership stated that workers will not 'quietly absorb the cost of a crisis they did not cause,' with rents topping €2,000 monthly and wages failing to cover basic living expenses. Union members are determined to secure inflation-busting pay increases, with industrial action threatened if demands are not met at the negotiating table. The National Youth Council of Ireland used the occasion to call for the immediate abolition of sub-minimum wage rates for young workers, noting that Ireland remains one of only a few EU countries where workers under 20 can legally earn below minimum wage.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/2026/0501/1571151-unions-may-day/"
+        }
+      ],
+      "tags": ["economy", "politics", "social"]
+    },
+    {
+      "headline": "Government fuel support scheme affecting banking payments on May Day",
+      "summary": "European May Day falls on Friday May 1st, with European institutions including the European Central Bank closing for the holiday, which operates the banking settlement system across Europe. While Irish banks remain open on May 1st, some electronic euro payments cannot be processed to bank accounts in Ireland or elsewhere in Europe due to the closure of the ECB settlement system. This affects businesses attempting to process transactions and workers receiving payments, creating potential payment disruptions during a key holiday period. The impact extends across the EU, highlighting the coordination challenges of integrated European financial systems during holiday periods.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/2026/0501/1571151-unions-may-day/"
+        }
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "Waterford hurling club Ballygunner to receive formal recognition",
+      "summary": "Ballygunner's senior hurling team accomplishments are to receive formal recognition from Waterford City and County Council. The honour reflects the club's continued excellence and contributions to sport and community in the Waterford region. This recognition underscores the importance of hurling in Irish sporting culture and the council's commitment to honouring local sporting achievements.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/munster/2026/0501/1571204-ballygunner-waterford/"
+        }
+      ],
+      "tags": ["sport", "social"]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US-Iran tensions escalate with naval blockade and calls for new military strikes",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis; The Tanker War (1984–1988); The Suez Crisis (1956); Operation Eagle Claw (1980); The 1990 Oil Price Shock",
+      "date_range": "1956; 1973; 1980; 1984–1988; 1990",
+      "summary": "The current US naval blockade of Iranian crude draws on a deep well of precedent in which energy chokepoints have upended global economies and tested alliance cohesion. In 1973, Arab OPEC members embargoed oil exports to nations supporting Israel, triggering a fourfold price spike that reshaped energy policy for a generation. A decade later, during the Iran-Iraq War, both sides struck tankers in the Persian Gulf in what became known as the Tanker War, prompting the US Navy to escort reflagged Kuwaiti vessels through the Strait of Hormuz. The 1956 Suez Crisis showed the limits of unilateral action in strategically vital waterways when Britain and France were forced to withdraw under US and Soviet pressure. Operation Eagle Claw in 1980 illustrated that US military overreach in Iran can backfire catastrophically and entrench adversarial postures for decades. The 1990 oil price shock — triggered by Iraq's invasion of Kuwait — caused a near-doubling of crude prices within weeks, destabilising economies under inflation pressure.",
+      "parallel_analysis": "Taken together, these precedents suggest that naval blockades and military threats can impose severe economic costs on adversaries but also reliably globalise those costs, raising the question of how long Washington's allies and its own consumers will absorb the price of confrontation. The strain on transatlantic unity — most visible in the public dispute between Trump and German Chancellor Merz — echoes the allied fractures that preceded and followed multiple past engagements in the Gulf.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Israel intercepts Gaza aid flotilla in international waters, drawing international condemnation",
+      "story_topic": "Gaza aid flotilla interception",
+      "historical_event": "Aliyah Bet — British Interception of Jewish Refugee Ships (1945–1948)",
+      "date_range": "1945–1948",
+      "summary": "Between 1945 and 1948, the Royal Navy systematically intercepted ships attempting to bring Holocaust survivors to Mandatory Palestine under the Aliyah Bet ('illegal' immigration) operations. British naval forces captured more than half of approximately 120 vessels; more than 100,000 people attempted the journey, with over 1,600 drowning at sea, while as many as 50,000 intercepted passengers were interned in camps in Cyprus, Atlit, and post-war Germany. The pivotal moment came with the 1947 interception of the Exodus, carrying 4,515 survivors; British authorities forcibly returned the passengers to Europe, generating widespread international condemnation that became a propaganda catastrophe and accelerated pressure for a resolution to the Palestine question. The operation demonstrated how the act of intercepting civilian vessels carrying populations claiming humanitarian necessity — even in waters far from the blockaded territory — tends to shift international debate from the legitimacy of the blockade itself to the conduct of the intercepting power.",
+      "parallel_analysis": "The structural parallel to Israel's 2026 interception of the Gaza flotilla near Crete is not one of moral equivalence but of recurring pattern: a state with naval superiority intercepts civilian vessels in international waters, invoking security justifications that much of the international community rejects as disproportionate. Then as now, the detention of journalists and humanitarian workers aboard the intercepted vessels proved particularly damaging to the intercepting power's international standing, and the optics of force applied against unarmed civilians in open water overshadowed the legal arguments advanced in justification.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Aliyah_Bet"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "UK Raises Terror Threat Level to Severe After Antisemitic Attacks",
+      "story_topic": "UK terror threat escalation antisemitism",
+      "historical_event": "The 7 July 2005 London Bombings",
+      "date_range": "2005",
+      "summary": "On 7 July 2005, four suicide bombers detonated devices on three Underground trains and a double-decker bus in central London during the morning rush hour, killing 52 civilians of many nationalities and injuring nearly 800 — the deadliest terrorist attack on British soil since Lockerbie. The government immediately raised the threat level to its highest tier, closed the Tube and bus network, and deployed armed police under shoot-to-kill orders. Two weeks later, heightened alert and shoot-to-kill powers contributed to the fatal shooting of Jean Charles de Menezes, an innocent Brazilian man, illustrating the dangerous operational pressures generated by maximum-alert conditions. The bombings produced lasting changes to MI5 procedures, Underground emergency protocols, and coroner practices for mass-casualty events, cementing a counter-terrorism framework that defined British security policy for the following decade.",
+      "parallel_analysis": "Today's threat elevation differs in scale — two stabbings, grave as they are, do not constitute a mass-casualty event — but the structural logic is similar: a specific, ideologically motivated attack in a major city triggers an institutional response calibrated to prevent imitation and escalation. The 7/7 precedent also carries a cautionary dimension: the pressure to act decisively in the immediate aftermath of a terror-linked incident brings its own risks, as the Menezes case showed, and institutions deploying expanded security powers must navigate the tension between protective action and the civil liberties of the broader public.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/7_July_2005_London_bombings"
+      ]
+    }
+  ]
+}

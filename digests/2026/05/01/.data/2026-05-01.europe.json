@@ -1,0 +1,73 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-01T05:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "UK Raises Terror Threat Level to Severe After Antisemitic Attacks",
+      "summary": "The UK's Joint Terrorism Analysis Centre raised the national terror threat level from \"substantial\" to \"severe\" on May 1, 2026, marking the first increase to this second-highest level in over four years. The escalation followed antisemitic attacks in the Golders Green area of North London, where two Jewish men were stabbed. The \"severe\" designation means security officials assess that a terrorist attack is highly likely within the next six months. Prime Minister Keir Starmer announced substantial new government funding for policing and security at Jewish community sites, including synagogues, schools, and community centres. The heightened alert reflects broader concerns about rising antisemitism and extremism across the UK.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cq6p4pz6p62o"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/30/uk-raises-terror-threat-level-to-severe-after-two-jewish-men-stabbed-in-north-london"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260430-starmer-heckled-with-jew-harmer-shouts-after-london-knife-attack"}
+      ],
+      "tags": ["security", "UK", "terrorism"]
+    },
+    {
+      "headline": "Trump Threatens Troop Withdrawal from Germany, Escalating Tensions with Merz",
+      "summary": "President Trump announced the United States is reviewing and may reduce its military presence in Germany, with the decision to be made imminently. This threat emerged amid escalating tensions between Trump and German Chancellor Friedrich Merz over the U.S.-Israel conflict with Iran, with Merz having criticized Washington for being \"humiliated\" by Iranian leadership. The U.S. currently maintains over 36,000 active-duty troops in Germany—the largest contingent in Europe—with major bases at Ramstein Air Base and Grafenwoehr Training Area, both critical to regional and global operations. Germany responded that it was \"prepared\" for any potential troop reductions, though security experts warned such withdrawals would be strategically counterproductive, removing a crucial logistical hub for operations across Europe, Africa, and the Middle East. Trump expanded the threat to include possible reductions from Italy and Spain as well.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/germany-says-prepared-for-any-us-troop-reduction"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/04/30/trump-launches-fresh-tirade-against-merz-after-troop-withdrawal-threat"},
+        {"name": "WebSearch (CNBC)", "url": "https://www.cnbc.com/2026/04/30/us-reviews-cutting-troop-numbers-in-germany-amid-trumps-berlin-feud-.html"}
+      ],
+      "tags": ["defence", "EU", "geopolitics"]
+    },
+    {
+      "headline": "Venice Biennale International Jury Resigns Over Italy's Opposition to Russian Participation",
+      "summary": "The international jury of the Venice Biennale art exhibition resigned on April 30, 2026, in protest over Italy's government opposition to Russian participation in the prestigious art show. The Italian government, under Prime Minister Giorgia Meloni, blocked Russia's involvement in the international exhibition as part of broader EU sanctions and diplomatic isolation following the Ukraine conflict. The resignation reflects ongoing tensions within the European arts community over balancing democratic values and cultural openness with geopolitical positions. The Venice Biennale is one of Europe's most prestigious contemporary art exhibitions, held biennially and attracting artists and visitors from around the world.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/culture/2026/04/30/venice-biennales-international-jury-resigns-as-italys-government-opposes-russias-participa"}
+      ],
+      "tags": ["EU", "culture", "geopolitics"]
+    },
+    {
+      "headline": "Vessel Carrying Grain Ukraine Claims Was Stolen by Russia Will Not Unload in Israel",
+      "summary": "Ukraine has requested Israel prevent a ship carrying grain that Kyiv claims was stolen by Russia from occupied territories from unloading its cargo at Israeli ports. The grain shipment, purportedly seized from Ukrainian agricultural production in Russia-occupied zones, became the subject of international dispute as Ukraine sought to block its sale and prevent Russia from profiting from the alleged theft. The incident highlights ongoing tensions in the Ukraine-Russia conflict over agricultural resources and illustrates the far-reaching effects of the war on global trade networks, with repercussions affecting countries across the Middle East and beyond. The dispute underscores broader concerns about Russian enforcement of sanctions and the protection of Ukrainian assets during wartime.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/vessel-carrying-grain-ukraine-says-stolen-by-russia-will-not-unload-in-israel-kyiv-says"}
+      ],
+      "tags": ["conflict", "trade", "Ukraine"]
+    },
+    {
+      "headline": "EU's New Automated Border Management System Fully Operational Across Schengen Zone",
+      "summary": "The European Union's modernized border management system became fully operational on May 1, 2026, across all Schengen countries, replacing the traditional manual passport stamping process with an automated registration system. The new system enhances security for non-EU nationals entering the zone while improving efficiency and convenience at border crossings. The implementation represents a significant step in the EU's digital transformation efforts and aims to streamline intra-Schengen travel while maintaining robust security protocols. The automated system was designed to replace outdated manual procedures and provide real-time data integration across member states, improving coordination and threat detection at external Schengen borders.",
+      "sources": [
+        {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["EU", "regulation", "governance"]
+    },
+    {
+      "headline": "Bus and Car Plunge into Seine River Near Paris; Four Occupants Rescued",
+      "summary": "A bus and car fell into the Seine River near Paris on April 30, 2026, with emergency services successfully rescuing all four people aboard the bus. The incident prompted an immediate response from Paris emergency services, with rescue operations conducted in the river to extract passengers from the submerged vehicles. The cause of the incident was not immediately disclosed, but authorities launched an investigation into the circumstances leading to the vehicles' entry into the water. The successful rescue demonstrated the effectiveness of emergency response protocols in the French capital, though the incident raises questions about river crossing safety and vehicle barriers in the affected area.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/video/20260430-bus-and-car-fall-into-seine-river-near-paris-four-people-rescued"}
+      ],
+      "tags": ["France", "transport", "safety"]
+    },
+    {
+      "headline": "European Payment System Shutdown Disrupts Bank Transfers Across EU",
+      "summary": "The European payment system experienced a scheduled closure from May 1-3, 2026, temporarily blocking bank transfers across EU member states during the maintenance window. The disruption affects routine banking operations and financial transactions across the continent, with customers and businesses advised to plan transfers accordingly during the shutdown period. The maintenance is part of ongoing upgrades to European payment infrastructure, designed to enhance security and system capacity. The shutdown underscores the critical role of centralized payment systems in the modern European economy and the operational challenges of maintaining and upgrading such large-scale digital infrastructure.",
+      "sources": [
+        {"name": "Pravda EU", "url": "https://eu.news-pravda.com/world/2026/04/30/191613.html"}
+      ],
+      "tags": ["EU", "economy", "regulation"]
+    }
+  ]
+}

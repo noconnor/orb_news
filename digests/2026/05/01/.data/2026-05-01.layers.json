@@ -1,0 +1,383 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-01T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Criminal gangs in Irish prisons nearly double to 34 in past year",
+        "summary": "The Irish Prison Service reported that recognised criminal gangs in the prison system have grown to 34, with gang membership increasing by 25% over the past year. Violent incidents increased 37.5% from 1,093 in 2024 to 1,503 in 2025, while direct attacks on prison officers rose 23% from 107 to 132. Major organised crime groups including the Kinahan transnational crime group and the Hutch Organised Crime Group are organising drone deliveries of weapons, drugs and contraband into prisons. The overcrowded system struggles to manage these groups, with 16 different gangs kept separate daily at Mountjoy prison through staggered exercise times. The escalating crisis poses significant operational challenges to the Irish Prison Service and has become a matter of urgent national concern.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0501/1571180-prison-officers-conference/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/irish-prison-service-7028284-May2026/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Trade unions demand government action on cost-of-living crisis on May Day",
+        "summary": "The Irish Congress of Trade Unions (ICTU) and Dublin Council of Trade Unions held their annual May Day rally and march on May 1st, with the theme 'Can You Afford to Live?' highlighting how the affordability and housing crises are affecting workers and young people. ICTU leadership stated that workers will not 'quietly absorb the cost of a crisis they did not cause,' with rents topping \u20ac2,000 monthly and wages failing to cover basic living expenses. Union members are determined to secure inflation-busting pay increases, with industrial action threatened if demands are not met at the negotiating table. The National Youth Council of Ireland used the occasion to call for the immediate abolition of sub-minimum wage rates for young workers, noting that Ireland remains one of only a few EU countries where workers under 20 can legally earn below minimum wage.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0501/1571151-unions-may-day/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Government fuel support scheme affecting banking payments on May Day",
+        "summary": "European May Day falls on Friday May 1st, with European institutions including the European Central Bank closing for the holiday, which operates the banking settlement system across Europe. While Irish banks remain open on May 1st, some electronic euro payments cannot be processed to bank accounts in Ireland or elsewhere in Europe due to the closure of the ECB settlement system. This affects businesses attempting to process transactions and workers receiving payments, creating potential payment disruptions during a key holiday period. The impact extends across the EU, highlighting the coordination challenges of integrated European financial systems during holiday periods.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0501/1571151-unions-may-day/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Waterford hurling club Ballygunner to receive formal recognition",
+        "summary": "Ballygunner's senior hurling team accomplishments are to receive formal recognition from Waterford City and County Council. The honour reflects the club's continued excellence and contributions to sport and community in the Waterford region. This recognition underscores the importance of hurling in Irish sporting culture and the council's commitment to honouring local sporting achievements.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/munster/2026/0501/1571204-ballygunner-waterford/"
+          }
+        ],
+        "tags": [
+          "sport",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-01T05:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "UK Raises Terror Threat Level to Severe After Antisemitic Attacks",
+        "summary": "The UK's Joint Terrorism Analysis Centre raised the national terror threat level from \"substantial\" to \"severe\" on May 1, 2026, marking the first increase to this second-highest level in over four years. The escalation followed antisemitic attacks in the Golders Green area of North London, where two Jewish men were stabbed. The \"severe\" designation means security officials assess that a terrorist attack is highly likely within the next six months. Prime Minister Keir Starmer announced substantial new government funding for policing and security at Jewish community sites, including synagogues, schools, and community centres. The heightened alert reflects broader concerns about rising antisemitism and extremism across the UK.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cq6p4pz6p62o"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/30/uk-raises-terror-threat-level-to-severe-after-two-jewish-men-stabbed-in-north-london"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260430-starmer-heckled-with-jew-harmer-shouts-after-london-knife-attack"
+          }
+        ],
+        "tags": [
+          "security",
+          "UK",
+          "terrorism"
+        ]
+      },
+      {
+        "headline": "Trump Threatens Troop Withdrawal from Germany, Escalating Tensions with Merz",
+        "summary": "President Trump announced the United States is reviewing and may reduce its military presence in Germany, with the decision to be made imminently. This threat emerged amid escalating tensions between Trump and German Chancellor Friedrich Merz over the U.S.-Israel conflict with Iran, with Merz having criticized Washington for being \"humiliated\" by Iranian leadership. The U.S. currently maintains over 36,000 active-duty troops in Germany\u2014the largest contingent in Europe\u2014with major bases at Ramstein Air Base and Grafenwoehr Training Area, both critical to regional and global operations. Germany responded that it was \"prepared\" for any potential troop reductions, though security experts warned such withdrawals would be strategically counterproductive, removing a crucial logistical hub for operations across Europe, Africa, and the Middle East. Trump expanded the threat to include possible reductions from Italy and Spain as well.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/germany-says-prepared-for-any-us-troop-reduction"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/04/30/trump-launches-fresh-tirade-against-merz-after-troop-withdrawal-threat"
+          },
+          {
+            "name": "WebSearch (CNBC)",
+            "url": "https://www.cnbc.com/2026/04/30/us-reviews-cutting-troop-numbers-in-germany-amid-trumps-berlin-feud-.html"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Venice Biennale International Jury Resigns Over Italy's Opposition to Russian Participation",
+        "summary": "The international jury of the Venice Biennale art exhibition resigned on April 30, 2026, in protest over Italy's government opposition to Russian participation in the prestigious art show. The Italian government, under Prime Minister Giorgia Meloni, blocked Russia's involvement in the international exhibition as part of broader EU sanctions and diplomatic isolation following the Ukraine conflict. The resignation reflects ongoing tensions within the European arts community over balancing democratic values and cultural openness with geopolitical positions. The Venice Biennale is one of Europe's most prestigious contemporary art exhibitions, held biennially and attracting artists and visitors from around the world.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/culture/2026/04/30/venice-biennales-international-jury-resigns-as-italys-government-opposes-russias-participa"
+          }
+        ],
+        "tags": [
+          "EU",
+          "culture",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Vessel Carrying Grain Ukraine Claims Was Stolen by Russia Will Not Unload in Israel",
+        "summary": "Ukraine has requested Israel prevent a ship carrying grain that Kyiv claims was stolen by Russia from occupied territories from unloading its cargo at Israeli ports. The grain shipment, purportedly seized from Ukrainian agricultural production in Russia-occupied zones, became the subject of international dispute as Ukraine sought to block its sale and prevent Russia from profiting from the alleged theft. The incident highlights ongoing tensions in the Ukraine-Russia conflict over agricultural resources and illustrates the far-reaching effects of the war on global trade networks, with repercussions affecting countries across the Middle East and beyond. The dispute underscores broader concerns about Russian enforcement of sanctions and the protection of Ukrainian assets during wartime.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/vessel-carrying-grain-ukraine-says-stolen-by-russia-will-not-unload-in-israel-kyiv-says"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "trade",
+          "Ukraine"
+        ]
+      },
+      {
+        "headline": "EU's New Automated Border Management System Fully Operational Across Schengen Zone",
+        "summary": "The European Union's modernized border management system became fully operational on May 1, 2026, across all Schengen countries, replacing the traditional manual passport stamping process with an automated registration system. The new system enhances security for non-EU nationals entering the zone while improving efficiency and convenience at border crossings. The implementation represents a significant step in the EU's digital transformation efforts and aims to streamline intra-Schengen travel while maintaining robust security protocols. The automated system was designed to replace outdated manual procedures and provide real-time data integration across member states, improving coordination and threat detection at external Schengen borders.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Bus and Car Plunge into Seine River Near Paris; Four Occupants Rescued",
+        "summary": "A bus and car fell into the Seine River near Paris on April 30, 2026, with emergency services successfully rescuing all four people aboard the bus. The incident prompted an immediate response from Paris emergency services, with rescue operations conducted in the river to extract passengers from the submerged vehicles. The cause of the incident was not immediately disclosed, but authorities launched an investigation into the circumstances leading to the vehicles' entry into the water. The successful rescue demonstrated the effectiveness of emergency response protocols in the French capital, though the incident raises questions about river crossing safety and vehicle barriers in the affected area.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/video/20260430-bus-and-car-fall-into-seine-river-near-paris-four-people-rescued"
+          }
+        ],
+        "tags": [
+          "France",
+          "transport",
+          "safety"
+        ]
+      },
+      {
+        "headline": "European Payment System Shutdown Disrupts Bank Transfers Across EU",
+        "summary": "The European payment system experienced a scheduled closure from May 1-3, 2026, temporarily blocking bank transfers across EU member states during the maintenance window. The disruption affects routine banking operations and financial transactions across the continent, with customers and businesses advised to plan transfers accordingly during the shutdown period. The maintenance is part of ongoing upgrades to European payment infrastructure, designed to enhance security and system capacity. The shutdown underscores the critical role of centralized payment systems in the modern European economy and the operational challenges of maintaining and upgrading such large-scale digital infrastructure.",
+        "sources": [
+          {
+            "name": "Pravda EU",
+            "url": "https://eu.news-pravda.com/world/2026/04/30/191613.html"
+          }
+        ],
+        "tags": [
+          "EU",
+          "economy",
+          "regulation"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-01T06:01:23Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US-Iran tensions escalate with naval blockade and calls for new military strikes",
+        "summary": "The US naval blockade of Iran's oil exports has intensified a broader geopolitical crisis, with crude supplies being stored on floating vessels as shipping through the Strait of Hormuz remains disrupted. Oil prices have surged to their highest levels since 2022, with analysts warning of further increases if military escalation continues. The Trump administration is reportedly considering new military options including waves of \"short and powerful\" strikes on Iranian targets. Iran's Supreme Leader has vowed to protect nuclear and missile capabilities, while offering to reopen the Strait of Hormuz if the US lifts its blockade and ceases hostilities. The conflict has no signs of immediate resolution, creating a prolonged state of uncertainty for global energy markets and international relations.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN0xvd3g1SmVhWDV0WmxKUktrbWxYQ3pSWDJKeU1sYXdHVGVsaUpRa1IycEo2dHY4ZFd0czNtczNfVHE2cWJNZmxLM0x3Qm9KcVRDdWZPUko4NUhyYXBBMkNsdEhkNExaZ0kzbUE4aXZqTm05ZnJfa2wzODAyUjRYajcwNkJ4ZGxRcDZycDRSdWwzZzZ5ay03b3lnb1hXLWFhSW9uMC1ReDlEbGdBeDFVemhyTlp2UUxyX1FPTko5NWNCQTFvRmRmTjRvYw"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "economy",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Global inflation pressures mount as Iran conflict disrupts energy markets",
+        "summary": "Eurozone inflation has risen to 3 percent, directly linked to the oil price shocks caused by the US blockade of Iranian crude exports and ongoing regional tensions. Energy prices spiked dramatically with US gasoline reaching $4.30 per gallon, the highest in recent months. The blockade has forced Iranian oil supplies into floating storage, artificially constraining supply and driving prices upward. Trump administration officials have suggested that prices will decline once the Iran conflict concludes, but analysts warn of continued volatility. This inflationary pressure is affecting multiple economies globally, with particular strain on countries dependent on energy imports.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSk5nM0dmN0pLeTEwTDE5N0RjaHgwSXp2QlN5d2VaMnpVOU1RczZHSDVJUVlaMXpDVzdxd19TX3RWU0hzZlRYYkMySVJlVjBIN2M4V3JuSzVhUzZWN3FUVTI2VU55MlQ2QU5RTXJCWEV0N1Z1OWF2RXUwRlU5a2dpVDk3TllGeFZ5NThCd2FPd3dsc3RW?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Israel intercepts Gaza aid flotilla in international waters, drawing international condemnation",
+        "summary": "Israeli naval forces intercepted a 22-boat Gaza aid flotilla near Crete, detaining approximately 175 pro-Palestinian activists in what authorities claim was an interception of materials bound for Gaza. The operation occurred in international waters near Greek territory, prompting swift diplomatic responses from multiple nations and organizations. Italy condemned the action as unlawful, and international media freedom organizations criticized the detention of journalists aboard the vessels, including Al Jazeera staff. The interception has intensified debate over maritime law enforcement in the region and humanitarian access to Gaza. Pro-Palestinian groups argue the blockade violates international law, while Israeli officials defend the security operation.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3ZoUnVNSVlINEptUVdOak1DY3E0cmlYb04ydUhySWVhLUdUS2hrTFRIbjc2SlRra2RSV0hMdW1oX2VZeTBUMmc2dnZqSmhEZF9zRndhUVJ2NkIyMHR1RTNLcUI5NlJPVnd3dlJFSTVOanVDV3dlakp5Vm1wWjkwUHJPLUFqVWlZTnJDN0ZfM09hOWdjMlRseVh6U2Fva2JKTW5sOF94UlRkNVpGcUJqZjJmcmdjUQ?oc=5"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "diplomacy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Myanmar's ousted leader Aung San Suu Kyi moved from prison to house arrest",
+        "summary": "Myanmar's military junta transferred Aung San Suu Kyi from prison to house arrest, a development tied to a prisoner pardon related to a major Buddhist religious holiday. The move marks a shift in her status after years of detention following the 2021 military coup that ousted her elected government. However, her son Kim Aris has expressed alarm over the secrecy surrounding her new location and the lack of authoritative confirmation of her wellbeing from official sources. The Nobel Peace Prize laureate remains under military control with significant restrictions on her freedom and contact with the outside world. The change in detention status offers some hope for advocates of democratic restoration in Myanmar, though fundamental questions about her security and future remain.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/30/myanmars-former-leader-aung-san-suu-kyi-moved-from-prison-to-house-arrest?traffic_source=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/30/g-s1-119543/myanmar-junta-says-suu-kyi-moved-to-house-arrest-doubts-linger"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "diplomacy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Transatlantic relations strain over Iran policy as Trump threatens German troop reductions",
+        "summary": "US-Germany relations have deteriorated as the Trump administration considers cutting American troop deployments in Germany amid disagreements over the Iran conflict strategy. German Chancellor Friedrich Merz has publicly criticized US military approaches to the Iran war, prompting Trump to signal potential military withdrawal. The dispute reflects broader NATO tensions and diverging security perspectives between Washington and Berlin. Germany, which hosts significant US military infrastructure and personnel, faces uncertainty about America's commitment to European security commitments. The public spat underscores challenges in maintaining transatlantic unity during a period of global instability and geopolitical competition.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "defence",
+          "governance"
+        ]
+      },
+      {
+        "headline": "China extends soft power reach with zero-tariff trade agreement covering most African nations",
+        "summary": "China has scrapped tariffs for all but one African nation, implementing a broad zero-tariff regime that analysts say significantly boosts Beijing's economic and diplomatic influence across the continent. The move positions China as a major trade partner for African economies and complements its long-standing Belt and Road Initiative infrastructure investments. The policy offers preferential access to Chinese markets for African goods, though economists note the gains may be unevenly distributed across different African states and sectors. The initiative is part of China's broader strategy to deepen economic ties and political alignment with Africa at a time of increasing great power competition for influence on the continent. The tariff elimination strengthens China's position in its rivalry with Western nations for African resources and political support.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "trade",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Mali's security crisis deepens as Islamist militants tighten blockade on capital",
+        "summary": "An Islamist militant group has intensified a blockade of Mali's capital in the aftermath of the assassination of the country's defence minister and a series of coordinated nationwide attacks. The deteriorating security situation threatens to collapse government control over the capital and destabilize the broader Sahel region. Russia maintains a military presence in Mali despite the escalating insurgency, adding another layer of geopolitical complexity to the crisis. International observers warn that the blockade and military pressure could tip Mali's political situation into a state of complete government failure. The situation has implications for regional stability and the broader fight against extremism in West Africa.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXphMTZEcEUyWFBuWldmSDdXS200ams4MjJDRzFkbk1sclR3NzZObERnekFSM1J6MmNTVDdNR3BVRnZDVGpTNDl1M2tsaTVzckJDaFB6WlpQaFU3ekNLUVFrZHd5NDdfbDkxc3hta0ZKeXdOQ1FpUVpCbHJ5aGtFMlVXV1JvWWxnWkxiVnJqOHRJTFZaU3JHbHNzd2JuazdKQnJVRm5xMDdoWU1aUi1R"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Global markets respond to geopolitical shifts as US-China tensions and trade realignments reshape economic landscape",
+        "summary": "International relations are undergoing significant realignment, with the US pursuing new strategic partnerships while tensions with China persist. The Trump administration approved a major Canada-US oil pipeline expansion project, reflecting coordination on North American energy infrastructure. Additionally, the US has resumed commercial flights to Venezuela following the abduction of Nicolas Maduro, marking a normalization of previously hostile relations. Concurrently, China is executing a strategic economic pivot toward Africa through tariff elimination, while tensions remain high over Taiwan. These simultaneous geopolitical moves signal a period of major power jockeying for influence and economic advantage across multiple regions and sectors.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlJ2dll4V25zaVVPYkc3YjZHR0Ztb3BqTEtpdVcybF9hTHZ1eUtIbDV2OWRfLU9qb2VVekc1NnZHNGxzNE9LWkFKRkhBZ09UWms2RjQ1cDBFdHFVU1BKb3lTNnNuN1dtTUdlaW5sRTlFWldyX3ZxczNFNDdjb1NBNlE1NHNiVGE5eDFmcDlON3d5Tng1QV9EbVNoaW9ORVRkVkxDbUNTZGRvNjNnSkxqcjhXOVBnZ2hVNUE"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "trade"
+        ]
+      }
+    ]
+  }
+}
