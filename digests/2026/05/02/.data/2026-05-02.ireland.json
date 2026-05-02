@@ -1,0 +1,61 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-02T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Prison overcrowding crisis deepens as capacity deemed 'absolutely exhausted' with inmate population near 6,000",
+      "summary": "The Irish Prison Service has warned that prison capacity is 'absolutely exhausted' with the inmate population surging close to 6,000, far exceeding designed capacity. Hundreds of prisoners are reportedly sleeping on floors while violence and safety concerns escalate within facilities. The overcrowding crisis has become a critical issue for the justice system, raising questions about prisoner welfare and institutional stability. Sources indicate that the surge reflects both increased crime rates and sentencing patterns. The situation demands urgent policy intervention and potential infrastructure expansion to address the mounting pressure on the penal system.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41837687.html"}
+      ],
+      "tags": ["crime", "social", "politics"]
+    },
+    {
+      "headline": "Dublin Central byelection candidates Ray McAdam and John Stephens clash over key issues as campaign intensifies",
+      "summary": "Fine Gael's Ray McAdam and Fianna Fáil's John Stephens engaged with constituents on Glasnevin streets this week, representing the heated competition for the Dublin Central seat. The civil war byelection has drawn significant interest with candidates facing tough questions from voters on pressing local and national issues. This contest is one of two byelections scheduled for May 22, reflecting ongoing political change at national level. The exchanges demonstrate the competitive nature of Irish politics as parties vie for representation in critical constituencies. The outcome of these byelections could signal broader voter sentiment ahead of potential general election campaigning.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/dublin-central-john-stephens-and-ray-mcadam-7028946-May2026/"}
+      ],
+      "tags": ["politics", "elections"]
+    },
+    {
+      "headline": "Study reveals gambling advertisements on social media disproportionately targeting young Irish men with millions of views",
+      "summary": "Research highlights how social media algorithms amplify betting advertisements specifically to younger male audiences in Ireland, with data showing 12.6 million male views of gambling ads. The study raises significant concerns about inadequate regulation of online gambling marketing and potential harm to vulnerable demographics. Young men appear particularly susceptible to algorithmic targeting of betting content, contributing to growing public health concerns. Regulators and industry observers question whether current frameworks adequately protect consumers from aggressive online marketing tactics. The findings suggest a need for stricter advertising controls and greater transparency in algorithmic content distribution.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/spotlight/arid-41836904.html"}
+      ],
+      "tags": ["social", "regulation", "health"]
+    },
+    {
+      "headline": "Seven Irish activists detained after Gaza flotilla is intercepted by Israel released in Greece",
+      "summary": "Seven Irish citizens were detained by Israeli authorities after their boats from a Gaza solidarity flotilla were intercepted in international waters off Greece. The activists have since been released in Greece following the incident, which raised diplomatic and human rights concerns. The interception highlighted ongoing tensions surrounding Gaza aid missions and international responses to Israeli security operations. The detained Irish activists' experience drew attention from Irish civil society and diaspora communities. Their release marks a resolution to the immediate crisis, though the broader geopolitical implications of such interventions remain contested internationally.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/01/seven-irish-activists-on-gaza-flotilla-detained-by-israel-released-in-greece/"}
+      ],
+      "tags": ["politics", "defence", "social"]
+    },
+    {
+      "headline": "Dublin MetroLink project issues tender for €7.3 billion contract to supply trains, stations and operations",
+      "summary": "Expressions of interest have been issued for a major €7.3 billion contract to supply trains, tracks, stations, and operate the 19-kilometre MetroLink service connecting Dublin. This critical infrastructure project represents one of Ireland's largest public transport investments in recent years, aimed at transforming Dublin's transit capacity. The tender process marks a significant milestone toward realizing the long-delayed MetroLink, which has faced years of planning and design phases. The contract will cover both the supply of rolling stock and infrastructure components as well as operational services for the new transport corridor. Successful completion of this project is expected to substantially improve commuter connectivity and reduce congestion in the Greater Dublin Area.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/dublin/2026/05/01/invitation-issued-to-bid-for-73bn-metrolink-contract/"}
+      ],
+      "tags": ["economy", "transport", "politics"]
+    },
+    {
+      "headline": "Killarney brewery site sale disputed as international bidder claims €5.85 million offer was overlooked",
+      "summary": "An international investor has raised transparency concerns after claiming that a higher bid of €5.85 million for a Killarney brewery site was overlooked in a contested sales process. The dispute highlights questions about fairness and openness in property transaction procedures, particularly involving significant commercial assets. The international bidder's claims suggest potential procedural irregularities or conflicts of interest in how the sale was conducted. The controversy reflects broader concerns about commercial real estate transactions in Ireland and the need for transparent processes. The situation underscores tensions between local stakeholders and international capital in regional Irish communities.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/companies/arid-41837708.html"}
+      ],
+      "tags": ["economy", "business", "politics"]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-02T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US to cut troop levels in Germany by 5,000 amid transatlantic tensions",
+      "summary": "The United States has announced plans to reduce its military deployment to Germany by 5,000 troops, marking a significant shift in post-Cold War transatlantic relations. The decision comes amid escalating tensions between Trump and German Chancellor Merz over Iran policy and defense spending. Germany's defense establishment expressed preparedness to adapt to reduced American military presence, though the move underscores broader questions about NATO commitments and European security autonomy. The reduction reflects Trump's broader push for European nations to increase their own defense expenditures and reduce reliance on US military guarantees. The announcement signals potential restructuring of US military posture in Europe, with implications for NATO's eastern flank and collective defense arrangements.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c0729d374mxo"}
+      ],
+      "tags": ["defence", "diplomacy", "EU"]
+    },
+    {
+      "headline": "Trump threatens to raise US tariffs on EU cars to 25%, accusing bloc of non-compliance",
+      "summary": "President Trump announced plans to increase tariffs on European cars to 25%, up from the 15% agreed in a trade deal with the EU last July. Trump accused the European Commission of failing to comply with the existing agreement, escalating trade tensions between Washington and Brussels. EU Commission President Ursula von der Leyen negotiated the original deal, which was intended to resolve automotive trade disputes. The threatened increase poses a significant threat to European automakers and could trigger retaliatory measures from the EU. This move reflects Trump's broader protectionist stance and represents a major challenge to transatlantic trade relations heading into a crucial economic period.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/01/trump-says-will-raise-us-tariffs-on-eu-cars-to-25-accusing-bloc-of-not-complying-with-deal"}
+      ],
+      "tags": ["trade", "economy", "EU"]
+    },
+    {
+      "headline": "EU-Mercosur trade deal takes provisional effect despite legal challenges",
+      "summary": "The European Union's free-trade agreement with Mercosur (Argentina, Brazil, Paraguay, and Uruguay) came into provisional effect on Friday despite ongoing legal challenges. The deal had faced opposition from environmental groups and some EU member states concerned about deforestation and agricultural practices in South America. The provisional implementation allows the agreement to function while formal ratification procedures continue through individual EU member states. The agreement reduces tariffs on a range of goods and opens new market opportunities for both blocs. This marks a significant moment for EU trade policy, particularly as the bloc seeks to diversify trade relationships amid rising geopolitical tensions.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/05/01/contentious-eu-mercosur-trade-deal-takes-provisional-effect"}
+      ],
+      "tags": ["trade", "regulation", "economy"]
+    },
+    {
+      "headline": "After Orbán's electoral defeat, EU faces critical questions about Ukraine's accession path",
+      "summary": "The imminent departure of Hungarian Prime Minister Viktor Orbán from power following electoral defeat is forcing EU leaders to confront uncomfortable questions about Ukraine's accession process. Orbán had been a major obstacle to Ukraine's EU membership bid, repeatedly blocking or delaying decisions in favor of negotiations. His defeat clears a significant diplomatic hurdle for Ukraine's integration into the European Union. The transition offers an opportunity for EU institutions to move forward with enlargement policy and strengthen ties with the war-affected country. However, the EU must now address the broader implications of Orbán's tenure and ensure institutional safeguards to prevent similar blockades in the future.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/01/after-orbans-defeat-the-eu-faces-tough-questions-about-ukraines-accession"}
+      ],
+      "tags": ["EU", "governance", "diplomacy"]
+    },
+    {
+      "headline": "Arson attack on Macedonian synagogue linked to Islamic State, security officials confirm",
+      "summary": "Security officials have linked an arson attack on a synagogue in Skopje, North Macedonia to the Islamic State terrorist organization. The attack represents part of a broader pattern of antisemitic violence across Europe attributed to ISIS-inspired operatives. Investigators determined that the ideology driving the attack aligns with IS's explicitly hostile stance toward Jewish communities. The incident follows similar attacks in multiple European countries in recent months, raising concerns about coordinated extremist activity. The attack highlights ongoing security vulnerabilities across European cities and the persistent threat posed by transnational terrorist networks operating within the continent.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/01/arson-attack-at-skopje-synagogue-linked-to-so-called-islamic-state-officials-say"}
+      ],
+      "tags": ["defence", "security", "terrorism"]
+    },
+    {
+      "headline": "France and Germany dispatch firefighters to combat major woodland blazes in Netherlands",
+      "summary": "France and Germany have deployed firefighters to assist the Netherlands in battling a series of major woodland fires that erupted mid-week. Many of the blazes broke out on military training land, including an active artillery range, creating additional hazards for emergency responders. Windy weather conditions have exacerbated the fires, with flames spreading rapidly across affected areas. The cross-border emergency response demonstrates EU solidarity and coordinated crisis management during environmental emergencies. The incident underscores the growing impact of climate-related hazards on European infrastructure and the increasing need for transnational emergency cooperation protocols.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/01/france-and-germany-send-firefighters-to-help-battle-woodland-blazes-in-netherlands"}
+      ],
+      "tags": ["climate", "EU", "governance"]
+    },
+    {
+      "headline": "Industrial crisis challenges EU's economic model and competitive future",
+      "summary": "The European Union and France are confronting a critical industrial crisis that threatens to reshape the bloc's economic foundations and competitive standing. The crisis encompasses deindustrialization, technological decline, and structural economic challenges that require urgent systemic responses. EU institutions and national governments are grappling with how to maintain Europe's social and economic models while adapting to rapid global technological change and shifting geopolitical competition. Analysis indicates the industrial challenges have exposed vulnerabilities in Europe's capacity to innovate and compete at the global level. Policymakers are debating whether existing EU frameworks and national policies can adequately address these structural problems or whether fundamental reforms are needed.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/video/20260501-the-industrial-crisis-has-challenging-both-the-eu-and-france-s-distinct-social-and-economic-models"}
+      ],
+      "tags": ["economy", "EU", "regulation"]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-02T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US Navy Imposes Blockade on Iranian Ports Amid Escalating Tensions",
+      "summary": "The United States has launched a naval blockade targeting Iranian ports near the Strait of Hormuz as part of escalated military operations. President Trump characterized the naval actions as resembling piracy, suggesting US forces are seizing Iranian vessels and cargo in contested waters. This move represents a significant escalation in US-Iran military confrontation, with broader implications for global oil markets and regional stability. The blockade intensifies existing tensions between Washington and Tehran, affecting international shipping routes critical to global energy security. The operation signals a more aggressive stance in Trump's Middle East policy compared to diplomatic approaches pursued by previous administrations.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVc1ZkgxV3lpblVzQXlQU0oxM2xSbG15WmdYd0NscGg2Yy1xZVA2VFJ3RTJnTXpWQnhjRWdLQnBlSDlYTnBnS0NieGg4bXhYUEVFZGFkaHhfVlhEZ3ptNVk3dEZneTV5MmR0Y1A5dlpIczlxMGJtY3l3a1JRY1RPZGxPSWdfZFlBUVRnc0pPOE12WnN5X2I5MXpBYW5TWUkzWkNnRWJfelMzVGdYcmJkWWRuTnFlMk1UblNpSXFYcw?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "US Announces 5,000 Troop Withdrawal from Germany Amid NATO Tensions",
+      "summary": "The United States has announced plans to withdraw 5,000 military personnel from Germany, signaling a significant shift in NATO force posture and reflecting deteriorating relations between Washington and Berlin. The decision comes amid disputes over Iran policy and demonstrates growing friction between the Trump administration and German Chancellor Merz. This reduction marks one of the largest US troop withdrawals from Europe in recent years and raises concerns among European allies about American commitment to collective defense. The move is likely to have substantial implications for NATO's eastern flank, particularly regarding deterrence against Russian aggression. The withdrawal reflects broader transatlantic tensions and uncertainty about US reliability as a security partner.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUxnTi1fcnFiX0tMTlpIQmdIOGFIQk80clBPWENGTS1FcllKZHRqVlhDZGlud0FGam1WVGctME5QdHgtZHVaUDdaRnhPeUYtTmJrVm5qVldOSDN3N0haYVpzOUU4SVFhSnRXU3FBWkdmckloU1FsQ01DSlA2eS1vaXlvb1E4Mmc2alJ4bVplZXYyNVYtb2FwOA?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c0729d374mxo"
+        }
+      ],
+      "tags": ["diplomacy", "defence", "geopolitics"]
+    },
+    {
+      "headline": "Trump Administration Bypasses Congress on $8.6 Billion Military Sales to Middle East",
+      "summary": "The Trump administration has approved $8.6 billion in military sales to Middle East allies without full congressional review, circumventing standard oversight procedures for arms deals. The decision represents a significant expansion of executive authority in military spending and arms transfers. This action provides advanced weaponry to regional partners but raises concerns about accountability and the circumvention of legislative oversight mechanisms designed to ensure responsible arms sales. The timing coincides with broader Middle East policy shifts and intensified military operations in the region. The sales reinforce US military presence and influence in a strategically critical area while potentially destabilizing regional balances.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUR4TjloMGRWaElBQnBQQ3RZLW1tWlpUVkxQaHZyRGZfVUJjRFo4dkx5YnZyNFFvdkVCT3U4TnVIQWNIYktYSDJiaDB6alROdVhlaHBuVloybVBCUldOMUFjbHQzODdleEJjLVRnb2JPOGYxWWdHaGRyTUlUcjRRZHlwcGhGN0VQX3JjeHJ3eDVtN2s2UGNxZDcyQ18tTjBnQkw4MUViMzBmR0FjaHBQeTRLSEFrQQ?oc=5"
+        }
+      ],
+      "tags": ["diplomacy", "trade", "geopolitics"]
+    },
+    {
+      "headline": "US Court Restricts Abortion Access by Blocking Mail-Order Mifepristone Distribution",
+      "summary": "A US federal appeals court has issued a ruling that restricts access to mifepristone, the medication used in medication abortion, by prohibiting mail-order distribution. The decision significantly limits access to medication abortion, which represents the most common abortion procedure in the United States. This ruling has immediate implications for millions of American women seeking abortion care and sets a precedent that may influence global reproductive rights debates. The restriction raises questions about access equity and healthcare rights at a time when abortion policy remains contentious. The ruling reflects ongoing legal and political battles over reproductive autonomy and has sparked significant public reaction including court challenges.",
+      "sources": [
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFg4VW55R0NfeXB2QmR3Y09Ydi1nYXhUWXdKRlBHTEhTLUdQZDdwSXVJbkpBX0Q1R29NdDBmZDk0cDZsY0tuOHBrVTMtQllpSEZIVG5EMk5Zb1JZWjQ3UE82TE42U3ZOZ2kxRGFlbmRCMXlzY2EzUkdNc2RqbW9PNnA1SXd4VGxfVmE3RFBuZWZ1N2E5NzRDUWtzSng?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo"
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone"
+        }
+      ],
+      "tags": ["health", "governance", "humanitarian"]
+    },
+    {
+      "headline": "Cuba Condemns New Trump Sanctions as 'Collective Punishment'",
+      "summary": "The Cuban government has formally rejected newly imposed Trump administration sanctions, characterizing them as collective punishment of the Cuban people. The sanctions represent an intensification of US economic pressure on the island nation and reflect a hardening of Trump's approach to US-Cuba relations. The Cuban condemnation highlights the human cost of economic sanctions and the ongoing standoff between Washington and Havana. This action signals a reversal of any diplomatic warming and reinforces the decades-long US-Cuba economic embargo. The dispute carries implications for regional stability in the Caribbean and bilateral relations with broader hemispheric consequences.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people"
+        }
+      ],
+      "tags": ["diplomacy", "economy", "geopolitics"]
+    },
+    {
+      "headline": "Wyoming Approves First Advanced Nuclear Reactor License of the Century",
+      "summary": "Wyoming has celebrated approval for a new advanced nuclear reactor, backed by Bill Gates' company and supported by federal funding, marking the first such facility licensed in the United States this century. The reactor represents a significant development in next-generation nuclear technology aimed at addressing climate change and energy security challenges. The project demonstrates renewed US interest in nuclear power as a clean energy source and signals potential growth in advanced nuclear technology globally. The facility still faces implementation challenges but has received substantial government support indicating long-term commitment to nuclear innovation. This development may influence international energy policy and climate strategies as nations seek low-carbon power sources.",
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/05/02/nx-s1-5798892/wyoming-celebrates-nuclear-renaissance-as-feds-approve-license-for-a-new-reactor"
+        }
+      ],
+      "tags": ["technology", "climate", "economy"]
+    },
+    {
+      "headline": "Trump Claims Ceasefire Negates Need for Congressional War Authorization on Iran",
+      "summary": "President Trump has asserted that existing ceasefire arrangements with Iran eliminate the constitutional requirement for congressional authorization of military action, claiming hostilities have effectively terminated. The argument challenges established war powers law and reflects ongoing constitutional tensions between executive and legislative branches over military authority. This position represents a significant escalation in Trump's interpretation of presidential war powers and contradicts the legal framework established by the War Powers Resolution. The claim raises constitutional questions about the scope of executive authority and has drawn criticism from lawmakers concerned about erosion of congressional oversight. The dispute reflects broader questions about checks and balances in military decision-making during ongoing regional conflicts.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o"
+        }
+      ],
+      "tags": ["conflict", "governance", "diplomacy"]
+    }
+  ]
+}

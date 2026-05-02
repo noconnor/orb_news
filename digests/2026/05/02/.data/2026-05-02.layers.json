@@ -1,0 +1,356 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-02T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Prison overcrowding crisis deepens as capacity deemed 'absolutely exhausted' with inmate population near 6,000",
+        "summary": "The Irish Prison Service has warned that prison capacity is 'absolutely exhausted' with the inmate population surging close to 6,000, far exceeding designed capacity. Hundreds of prisoners are reportedly sleeping on floors while violence and safety concerns escalate within facilities. The overcrowding crisis has become a critical issue for the justice system, raising questions about prisoner welfare and institutional stability. Sources indicate that the surge reflects both increased crime rates and sentencing patterns. The situation demands urgent policy intervention and potential infrastructure expansion to address the mounting pressure on the penal system.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41837687.html"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Dublin Central byelection candidates Ray McAdam and John Stephens clash over key issues as campaign intensifies",
+        "summary": "Fine Gael's Ray McAdam and Fianna F\u00e1il's John Stephens engaged with constituents on Glasnevin streets this week, representing the heated competition for the Dublin Central seat. The civil war byelection has drawn significant interest with candidates facing tough questions from voters on pressing local and national issues. This contest is one of two byelections scheduled for May 22, reflecting ongoing political change at national level. The exchanges demonstrate the competitive nature of Irish politics as parties vie for representation in critical constituencies. The outcome of these byelections could signal broader voter sentiment ahead of potential general election campaigning.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/dublin-central-john-stephens-and-ray-mcadam-7028946-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Study reveals gambling advertisements on social media disproportionately targeting young Irish men with millions of views",
+        "summary": "Research highlights how social media algorithms amplify betting advertisements specifically to younger male audiences in Ireland, with data showing 12.6 million male views of gambling ads. The study raises significant concerns about inadequate regulation of online gambling marketing and potential harm to vulnerable demographics. Young men appear particularly susceptible to algorithmic targeting of betting content, contributing to growing public health concerns. Regulators and industry observers question whether current frameworks adequately protect consumers from aggressive online marketing tactics. The findings suggest a need for stricter advertising controls and greater transparency in algorithmic content distribution.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/spotlight/arid-41836904.html"
+          }
+        ],
+        "tags": [
+          "social",
+          "regulation",
+          "health"
+        ]
+      },
+      {
+        "headline": "Seven Irish activists detained after Gaza flotilla is intercepted by Israel released in Greece",
+        "summary": "Seven Irish citizens were detained by Israeli authorities after their boats from a Gaza solidarity flotilla were intercepted in international waters off Greece. The activists have since been released in Greece following the incident, which raised diplomatic and human rights concerns. The interception highlighted ongoing tensions surrounding Gaza aid missions and international responses to Israeli security operations. The detained Irish activists' experience drew attention from Irish civil society and diaspora communities. Their release marks a resolution to the immediate crisis, though the broader geopolitical implications of such interventions remain contested internationally.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/01/seven-irish-activists-on-gaza-flotilla-detained-by-israel-released-in-greece/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence",
+          "social"
+        ]
+      },
+      {
+        "headline": "Dublin MetroLink project issues tender for \u20ac7.3 billion contract to supply trains, stations and operations",
+        "summary": "Expressions of interest have been issued for a major \u20ac7.3 billion contract to supply trains, tracks, stations, and operate the 19-kilometre MetroLink service connecting Dublin. This critical infrastructure project represents one of Ireland's largest public transport investments in recent years, aimed at transforming Dublin's transit capacity. The tender process marks a significant milestone toward realizing the long-delayed MetroLink, which has faced years of planning and design phases. The contract will cover both the supply of rolling stock and infrastructure components as well as operational services for the new transport corridor. Successful completion of this project is expected to substantially improve commuter connectivity and reduce congestion in the Greater Dublin Area.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/dublin/2026/05/01/invitation-issued-to-bid-for-73bn-metrolink-contract/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "transport",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Killarney brewery site sale disputed as international bidder claims \u20ac5.85 million offer was overlooked",
+        "summary": "An international investor has raised transparency concerns after claiming that a higher bid of \u20ac5.85 million for a Killarney brewery site was overlooked in a contested sales process. The dispute highlights questions about fairness and openness in property transaction procedures, particularly involving significant commercial assets. The international bidder's claims suggest potential procedural irregularities or conflicts of interest in how the sale was conducted. The controversy reflects broader concerns about commercial real estate transactions in Ireland and the need for transparent processes. The situation underscores tensions between local stakeholders and international capital in regional Irish communities.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/business/companies/arid-41837708.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "business",
+          "politics"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-02T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US to cut troop levels in Germany by 5,000 amid transatlantic tensions",
+        "summary": "The United States has announced plans to reduce its military deployment to Germany by 5,000 troops, marking a significant shift in post-Cold War transatlantic relations. The decision comes amid escalating tensions between Trump and German Chancellor Merz over Iran policy and defense spending. Germany's defense establishment expressed preparedness to adapt to reduced American military presence, though the move underscores broader questions about NATO commitments and European security autonomy. The reduction reflects Trump's broader push for European nations to increase their own defense expenditures and reduce reliance on US military guarantees. The announcement signals potential restructuring of US military posture in Europe, with implications for NATO's eastern flank and collective defense arrangements.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c0729d374mxo"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Trump threatens to raise US tariffs on EU cars to 25%, accusing bloc of non-compliance",
+        "summary": "President Trump announced plans to increase tariffs on European cars to 25%, up from the 15% agreed in a trade deal with the EU last July. Trump accused the European Commission of failing to comply with the existing agreement, escalating trade tensions between Washington and Brussels. EU Commission President Ursula von der Leyen negotiated the original deal, which was intended to resolve automotive trade disputes. The threatened increase poses a significant threat to European automakers and could trigger retaliatory measures from the EU. This move reflects Trump's broader protectionist stance and represents a major challenge to transatlantic trade relations heading into a crucial economic period.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/01/trump-says-will-raise-us-tariffs-on-eu-cars-to-25-accusing-bloc-of-not-complying-with-deal"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU-Mercosur trade deal takes provisional effect despite legal challenges",
+        "summary": "The European Union's free-trade agreement with Mercosur (Argentina, Brazil, Paraguay, and Uruguay) came into provisional effect on Friday despite ongoing legal challenges. The deal had faced opposition from environmental groups and some EU member states concerned about deforestation and agricultural practices in South America. The provisional implementation allows the agreement to function while formal ratification procedures continue through individual EU member states. The agreement reduces tariffs on a range of goods and opens new market opportunities for both blocs. This marks a significant moment for EU trade policy, particularly as the bloc seeks to diversify trade relationships amid rising geopolitical tensions.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/05/01/contentious-eu-mercosur-trade-deal-takes-provisional-effect"
+          }
+        ],
+        "tags": [
+          "trade",
+          "regulation",
+          "economy"
+        ]
+      },
+      {
+        "headline": "After Orb\u00e1n's electoral defeat, EU faces critical questions about Ukraine's accession path",
+        "summary": "The imminent departure of Hungarian Prime Minister Viktor Orb\u00e1n from power following electoral defeat is forcing EU leaders to confront uncomfortable questions about Ukraine's accession process. Orb\u00e1n had been a major obstacle to Ukraine's EU membership bid, repeatedly blocking or delaying decisions in favor of negotiations. His defeat clears a significant diplomatic hurdle for Ukraine's integration into the European Union. The transition offers an opportunity for EU institutions to move forward with enlargement policy and strengthen ties with the war-affected country. However, the EU must now address the broader implications of Orb\u00e1n's tenure and ensure institutional safeguards to prevent similar blockades in the future.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/01/after-orbans-defeat-the-eu-faces-tough-questions-about-ukraines-accession"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Arson attack on Macedonian synagogue linked to Islamic State, security officials confirm",
+        "summary": "Security officials have linked an arson attack on a synagogue in Skopje, North Macedonia to the Islamic State terrorist organization. The attack represents part of a broader pattern of antisemitic violence across Europe attributed to ISIS-inspired operatives. Investigators determined that the ideology driving the attack aligns with IS's explicitly hostile stance toward Jewish communities. The incident follows similar attacks in multiple European countries in recent months, raising concerns about coordinated extremist activity. The attack highlights ongoing security vulnerabilities across European cities and the persistent threat posed by transnational terrorist networks operating within the continent.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/01/arson-attack-at-skopje-synagogue-linked-to-so-called-islamic-state-officials-say"
+          }
+        ],
+        "tags": [
+          "defence",
+          "security",
+          "terrorism"
+        ]
+      },
+      {
+        "headline": "France and Germany dispatch firefighters to combat major woodland blazes in Netherlands",
+        "summary": "France and Germany have deployed firefighters to assist the Netherlands in battling a series of major woodland fires that erupted mid-week. Many of the blazes broke out on military training land, including an active artillery range, creating additional hazards for emergency responders. Windy weather conditions have exacerbated the fires, with flames spreading rapidly across affected areas. The cross-border emergency response demonstrates EU solidarity and coordinated crisis management during environmental emergencies. The incident underscores the growing impact of climate-related hazards on European infrastructure and the increasing need for transnational emergency cooperation protocols.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/01/france-and-germany-send-firefighters-to-help-battle-woodland-blazes-in-netherlands"
+          }
+        ],
+        "tags": [
+          "climate",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Industrial crisis challenges EU's economic model and competitive future",
+        "summary": "The European Union and France are confronting a critical industrial crisis that threatens to reshape the bloc's economic foundations and competitive standing. The crisis encompasses deindustrialization, technological decline, and structural economic challenges that require urgent systemic responses. EU institutions and national governments are grappling with how to maintain Europe's social and economic models while adapting to rapid global technological change and shifting geopolitical competition. Analysis indicates the industrial challenges have exposed vulnerabilities in Europe's capacity to innovate and compete at the global level. Policymakers are debating whether existing EU frameworks and national policies can adequately address these structural problems or whether fundamental reforms are needed.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/video/20260501-the-industrial-crisis-has-challenging-both-the-eu-and-france-s-distinct-social-and-economic-models"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "regulation"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-02T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US Navy Imposes Blockade on Iranian Ports Amid Escalating Tensions",
+        "summary": "The United States has launched a naval blockade targeting Iranian ports near the Strait of Hormuz as part of escalated military operations. President Trump characterized the naval actions as resembling piracy, suggesting US forces are seizing Iranian vessels and cargo in contested waters. This move represents a significant escalation in US-Iran military confrontation, with broader implications for global oil markets and regional stability. The blockade intensifies existing tensions between Washington and Tehran, affecting international shipping routes critical to global energy security. The operation signals a more aggressive stance in Trump's Middle East policy compared to diplomatic approaches pursued by previous administrations.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVc1ZkgxV3lpblVzQXlQU0oxM2xSbG15WmdYd0NscGg2Yy1xZVA2VFJ3RTJnTXpWQnhjRWdLQnBlSDlYTnBnS0NieGg4bXhYUEVFZGFkaHhfVlhEZ3ptNVk3dEZneTV5MmR0Y1A5dlpIczlxMGJtY3l3a1JRY1RPZGxPSWdfZFlBUVRnc0pPOE12WnN5X2I5MXpBYW5TWUkzWkNnRWJfelMzVGdYcmJkWWRuTnFlMk1UblNpSXFYcw?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "US Announces 5,000 Troop Withdrawal from Germany Amid NATO Tensions",
+        "summary": "The United States has announced plans to withdraw 5,000 military personnel from Germany, signaling a significant shift in NATO force posture and reflecting deteriorating relations between Washington and Berlin. The decision comes amid disputes over Iran policy and demonstrates growing friction between the Trump administration and German Chancellor Merz. This reduction marks one of the largest US troop withdrawals from Europe in recent years and raises concerns among European allies about American commitment to collective defense. The move is likely to have substantial implications for NATO's eastern flank, particularly regarding deterrence against Russian aggression. The withdrawal reflects broader transatlantic tensions and uncertainty about US reliability as a security partner.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUxnTi1fcnFiX0tMTlpIQmdIOGFIQk80clBPWENGTS1FcllKZHRqVlhDZGlud0FGam1WVGctME5QdHgtZHVaUDdaRnhPeUYtTmJrVm5qVldOSDN3N0haYVpzOUU4SVFhSnRXU3FBWkdmckloU1FsQ01DSlA2eS1vaXlvb1E4Mmc2alJ4bVplZXYyNVYtb2FwOA?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c0729d374mxo"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "defence",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Trump Administration Bypasses Congress on $8.6 Billion Military Sales to Middle East",
+        "summary": "The Trump administration has approved $8.6 billion in military sales to Middle East allies without full congressional review, circumventing standard oversight procedures for arms deals. The decision represents a significant expansion of executive authority in military spending and arms transfers. This action provides advanced weaponry to regional partners but raises concerns about accountability and the circumvention of legislative oversight mechanisms designed to ensure responsible arms sales. The timing coincides with broader Middle East policy shifts and intensified military operations in the region. The sales reinforce US military presence and influence in a strategically critical area while potentially destabilizing regional balances.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUR4TjloMGRWaElBQnBQQ3RZLW1tWlpUVkxQaHZyRGZfVUJjRFo4dkx5YnZyNFFvdkVCT3U4TnVIQWNIYktYSDJiaDB6alROdVhlaHBuVloybVBCUldOMUFjbHQzODdleEJjLVRnb2JPOGYxWWdHaGRyTUlUcjRRZHlwcGhGN0VQX3JjeHJ3eDVtN2s2UGNxZDcyQ18tTjBnQkw4MUViMzBmR0FjaHBQeTRLSEFrQQ?oc=5"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "trade",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "US Court Restricts Abortion Access by Blocking Mail-Order Mifepristone Distribution",
+        "summary": "A US federal appeals court has issued a ruling that restricts access to mifepristone, the medication used in medication abortion, by prohibiting mail-order distribution. The decision significantly limits access to medication abortion, which represents the most common abortion procedure in the United States. This ruling has immediate implications for millions of American women seeking abortion care and sets a precedent that may influence global reproductive rights debates. The restriction raises questions about access equity and healthcare rights at a time when abortion policy remains contentious. The ruling reflects ongoing legal and political battles over reproductive autonomy and has sparked significant public reaction including court challenges.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFg4VW55R0NfeXB2QmR3Y09Ydi1nYXhUWXdKRlBHTEhTLUdQZDdwSXVJbkpBX0Q1R29NdDBmZDk0cDZsY0tuOHBrVTMtQllpSEZIVG5EMk5Zb1JZWjQ3UE82TE42U3ZOZ2kxRGFlbmRCMXlzY2EzUkdNc2RqbW9PNnA1SXd4VGxfVmE3RFBuZWZ1N2E5NzRDUWtzSng?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone"
+          }
+        ],
+        "tags": [
+          "health",
+          "governance",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Cuba Condemns New Trump Sanctions as 'Collective Punishment'",
+        "summary": "The Cuban government has formally rejected newly imposed Trump administration sanctions, characterizing them as collective punishment of the Cuban people. The sanctions represent an intensification of US economic pressure on the island nation and reflect a hardening of Trump's approach to US-Cuba relations. The Cuban condemnation highlights the human cost of economic sanctions and the ongoing standoff between Washington and Havana. This action signals a reversal of any diplomatic warming and reinforces the decades-long US-Cuba economic embargo. The dispute carries implications for regional stability in the Caribbean and bilateral relations with broader hemispheric consequences.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Wyoming Approves First Advanced Nuclear Reactor License of the Century",
+        "summary": "Wyoming has celebrated approval for a new advanced nuclear reactor, backed by Bill Gates' company and supported by federal funding, marking the first such facility licensed in the United States this century. The reactor represents a significant development in next-generation nuclear technology aimed at addressing climate change and energy security challenges. The project demonstrates renewed US interest in nuclear power as a clean energy source and signals potential growth in advanced nuclear technology globally. The facility still faces implementation challenges but has received substantial government support indicating long-term commitment to nuclear innovation. This development may influence international energy policy and climate strategies as nations seek low-carbon power sources.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5798892/wyoming-celebrates-nuclear-renaissance-as-feds-approve-license-for-a-new-reactor"
+          }
+        ],
+        "tags": [
+          "technology",
+          "climate",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Trump Claims Ceasefire Negates Need for Congressional War Authorization on Iran",
+        "summary": "President Trump has asserted that existing ceasefire arrangements with Iran eliminate the constitutional requirement for congressional authorization of military action, claiming hostilities have effectively terminated. The argument challenges established war powers law and reflects ongoing constitutional tensions between executive and legislative branches over military authority. This position represents a significant escalation in Trump's interpretation of presidential war powers and contradicts the legal framework established by the War Powers Resolution. The claim raises constitutional questions about the scope of executive authority and has drawn criticism from lawmakers concerned about erosion of congressional oversight. The dispute reflects broader questions about checks and balances in military decision-making during ongoing regional conflicts.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "governance",
+          "diplomacy"
+        ]
+      }
+    ]
+  }
+}

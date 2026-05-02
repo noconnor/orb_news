@@ -1,0 +1,48 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US Navy Imposes Blockade on Iranian Ports Amid Escalating Tensions",
+      "story_topic": "Strait of Hormuz blockade",
+      "historical_event": "Synthesis: Suez Crisis, Arab Oil Embargo, Tanker War, 1990 Oil Price Shock, Iran-Iraq War, Operation Eagle Claw",
+      "date_range": "1956–1990",
+      "summary": "The current US naval blockade of Iranian ports draws on six precedents synthesised together. The 1956 Suez Crisis showed how control of a strategic waterway could reshape global alliances and that no single power could unilaterally dominate critical sea lanes. The 1973 Arab Oil Embargo demonstrated that deliberate disruption of energy supply routes delivers devastating economic shocks to industrialised economies. The Tanker War of 1984–1988 showed how attacks on Gulf shipping escalate into major-power naval involvement and unpredictable incidents. The 1990 Kuwait invasion produced an immediate oil price shock, illustrating how Hormuz-adjacent conflict translates into instant global market turmoil. The Iran-Iraq War's eight-year duration showed how regional conflict in the Gulf generates sustained international instability. Operation Eagle Claw in 1980 demonstrated the catastrophic risks of military adventurism against Iran.",
+      "parallel_analysis": "Trump's 'piracy' framing synthesises all these precedents into a single candid acknowledgement that economic coercion and force projection have merged. The blockade combines the Suez lesson of great-power overreach, the oil-embargo lesson of economic weaponisation, and the Tanker War lesson of how naval confrontation in confined waters invites uncontrolled escalation. It may be the most explicit official admission in modern US history that state action and piracy have converged.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "US Announces 5,000 Troop Withdrawal from Germany Amid NATO Tensions",
+      "story_topic": "NATO alliance internal tensions",
+      "historical_event": "Synthesis: France's Withdrawal from NATO Integrated Command (1966), Tanker War, Iran-Iraq War, Operation Eagle Claw",
+      "date_range": "1966–1988",
+      "summary": "De Gaulle's 1966 withdrawal of France from NATO's integrated military command is the primary precedent: driven by sovereignty concerns about US dominance, it expelled allied forces from French soil, relocated NATO headquarters from Paris to Brussels, and created four decades of French semi-detachment from the alliance's military structures. The parallel is direct — European strategic autonomy arguments today echo de Gaulle's almost exactly. The Tanker War, Iran-Iraq War, and Operation Eagle Claw episodes show how Middle East flashpoints generate alliance friction, as they did during the Reagan era when European allies disagreed sharply with US military posture in the Gulf.",
+      "parallel_analysis": "France's 1966 withdrawal shows alliances can absorb serious ruptures — France rejoined NATO's integrated command in 2009 — but reconstruction of trust took a generation. Trump's troop withdrawal combines de Gaulle's symbolic gesture with the economic leverage of tariff threats, making it a more comprehensive pressure on the alliance than any single NATO crisis of the Cold War era. The lesson from 1966 is that once a major ally breaks trust with collective defence structures, the damage is durable even when eventually repaired.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/France_and_NATO",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "US Court Restricts Abortion Access by Blocking Mail-Order Mifepristone Distribution",
+      "story_topic": "US reproductive rights federal restriction",
+      "historical_event": "The Comstock Act of 1873",
+      "date_range": "1873–present",
+      "summary": "The Comstock Act was signed into law by President Ulysses S. Grant on 3 March 1873, making it a federal crime to use the US Postal Service to transport obscene materials — a category that explicitly included drugs, devices, and information related to contraception and abortion. Its champion, anti-vice crusader Anthony Comstock, served as a US Postal Inspector and secured over 3,600 arrests during his career. The Act held largely intact for six decades; the 1936 ruling in United States v. One Package began carving out medical exceptions, and the reproductive rights decisions of the 1960s and 1970s further eroded the statute. Congress removed its contraceptive provisions in 1971, and Roe v. Wade in 1973 appeared to render its abortion clauses moot. However, the 2022 Dobbs decision revived the Comstock framework as a live legal instrument: the same postal prohibition that defined Victorian-era reproductive control became doctrinal scaffolding for restricting mail-order medication abortion.",
+      "parallel_analysis": "The current ruling does not cite Comstock by name, but the structural parallel is historically exact: federal power deployed through postal and distribution channels to limit reproductive access. A law drafted to suppress contraceptive pamphlets in the 1870s is once again shaping reproductive choices a century and a half later. The legal continuity is unbroken — the Comstock abortion provisions were never formally repealed, only rendered dormant by Roe, and Dobbs brought them back to life.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Comstock_Act_of_1873"
+      ]
+    }
+  ]
+}
