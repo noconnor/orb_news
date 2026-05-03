@@ -1,0 +1,368 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-03T10:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Dublin City Half Marathon draws 13,200 participants with road closures across capital",
+        "summary": "The Dublin City Half Marathon took place on Sunday, May 3, with 13,200 participants \u2014 the second year of the event and an increase from the inaugural race. The 21.1km route started on O'Connell Street at 8:30am and wound through the North Side, out to Raheny and along the Clontarf seafront before finishing in the North East Inner-City. Major road closures were implemented across Dublin city centre, with Transport for Ireland coordinating alternative routes for residents and commuters. Defending champion Killian Mooney from Dundrum South Dublin A.C. returned to defend his title after winning the inaugural 2025 race.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/regional/2026/0503/1571504-dublin-city-half-marathon/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/dublin-city-half-marathon-info-7029090-May2026/"
+          }
+        ],
+        "tags": [
+          "sport",
+          "transport",
+          "Dublin"
+        ]
+      },
+      {
+        "headline": "Belfast City Marathon returns with 15,000-18,000 participants on May 3",
+        "summary": "The Belfast City Marathon made its return on Sunday, May 3, 2026, as one of Northern Ireland's largest annual sporting events. The AIMS-certified race began at Stormont at 9am and finished in Ormeau Park, featuring the 26.2-mile route that showcases Belfast's famous landmarks and attractions. The marathon had already sold out by January, with charity places remaining the only avenue for securing spots in the full marathon. Road closures came into effect from 6am across Belfast, with all routes expected to reopen by 4:30pm, and additional rail services were laid on from surrounding towns to facilitate participant arrival.",
+        "sources": [
+          {
+            "name": "The Irish News",
+            "url": "https://www.irishnews.com/news/northern-ireland/belfast-city-marathon-2026-times-route-map-and-road-closures-guide-WPP2RHKGGZEFXGNJQDQHVXQVN4/"
+          }
+        ],
+        "tags": [
+          "sport",
+          "transport",
+          "Northern Ireland"
+        ]
+      },
+      {
+        "headline": "Cork International Choral Festival concludes 2026 edition with closing gala performance",
+        "summary": "The Cork International Choral Festival concluded its 2026 programme on May 3 with a closing gala concert, marking the end of a five-day festival that ran from April 29 to May 3. The festival featured an expansive programme including 7 gala concerts, 70 national competing choirs, 45 national non-competitive choirs, and 12 international choirs competing across 12 competitions. Over 250 volunteers contributed to the festival, which also included 9 workshops and numerous community events. The festival remains one of Europe's premier international choral events, celebrated for its high standards, eclectic programming, and welcoming atmosphere for participants and audiences alike.",
+        "sources": [
+          {
+            "name": "Cork International Choral Festival",
+            "url": "https://www.corkchoral.ie/"
+          },
+          {
+            "name": "PureCork.ie",
+            "url": "https://www.purecork.ie/whats-on/11141484/cork-international-choral-festival"
+          }
+        ],
+        "tags": [
+          "culture",
+          "social",
+          "Cork"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-03T12:45:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump Announces Withdrawal of 5,000 US Troops from Germany Amid NATO Tensions",
+        "summary": "President Trump has announced the withdrawal of 5,000 American military personnel stationed in Germany, following Chancellor Friedrich Merz's criticism of US Iran war policy. The move marks a significant shift in transatlantic defence arrangements and has drawn concern from NATO allies and senior Republican lawmakers who view Germany as a critical strategic hub for European operations. German officials have responded by stating they are 'prepared' for any troop reductions, though military analysts warn the withdrawal would eliminate essential logistical and refuelling capabilities for US Air Force operations. The decision reflects growing tensions between Washington and Berlin over Middle East strategy and broader questions about America's commitment to European security. This development has prompted calls for stronger European defence self-reliance, particularly from France and Germany.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cd9pn541jjlo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20250501-washington-will-pull-some-5-000-us-troops-from-germany-as-rift-over-iran-war-widens"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/02/trump-follows-through-on-threats-as-he-announces-significant-troop-withdrawal-from-germany"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Trump Escalates Trade War: 25% Auto Tariffs on EU Threatens German Economy \u20ac18 Billion",
+        "summary": "President Trump has raised US tariffs on European automobiles to 25 percent, up from the previously agreed 15 percent rate, in escalation of his trade dispute with the European Union. The move threatens to cost Germany approximately \u20ac18 billion in economic impact, particularly affecting the country's critical auto manufacturing sector. Trump justified the tariff increase by accusing the EU of failing to comply with a trade deal agreed with Commission President Ursula von der Leyen last July. The escalation signals Trump's willingness to use protectionist measures to pressure European economies and represents a fundamental shift from the negotiated framework established months earlier. European officials are assessing the implications for economic growth and considering potential retaliatory measures.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/video/20260502-new-tariff-hike-could-cost-germany-18bn-1"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/01/trump-says-will-raise-us-tariffs-on-eu-cars-to-25-accusing-bloc-of-not-complying-with-deal"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "European Summer Holidays at Risk as Jet Fuel Shortage Escalates Across the Continent",
+        "summary": "European airlines are facing a critical fuel crisis as kerosene prices skyrocket, threatening to disrupt summer travel across the continent. Airlines including Transavia have already begun cancelling flights, and aviation experts warn that short-haul European routes face the greatest disruption risk, with June and July cancellation odds increasing daily. The shortage stems from global fuel supply constraints, potentially linked to Middle East instability and sanctions-related disruptions affecting shipping routes and fuel availability. European governments and the aviation industry are implementing contingency plans to mitigate passenger cancellations during peak holiday season. Energy ministers across Europe are coordinating responses to stabilise fuel supplies and prevent widespread transport disruption.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c794zd1vqn4o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260502-summer-holidays-up-in-the-air-as-europe-braces-for-jet-fuel-shortage"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Slovakia's Fico Pledges Support for Ukraine's EU Membership Following Zelensky Call",
+        "summary": "Slovakia's Prime Minister Robert Fico has signalled support for Ukraine's European Union membership following a direct conversation with President Zelensky, marking a significant shift from Hungary's isolated opposition to Ukraine's EU accession. The leaders have invited each other to meet, signalling a warming of bilateral relations despite previous tensions over Budapest's stance on the Ukraine conflict. Fico's backing is particularly significant given the Visegrad Group's traditional alignment and demonstrates growing consensus among Central European nations on Ukraine's European future. The development strengthens Ukraine's path toward EU integration and reflects a broader realignment of Central European positions on the conflict and post-war reconstruction priorities. This statement comes as Hungary's new leader P\u00e9ter Magyar also extends reconciliation overtures to Kyiv.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/02/robert-fico-will-back-ukraines-eu-membership-after-call-zelenskyy-says"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Iran Executes Dissident Karate Champion as Death Toll Continues Amid International Concern",
+        "summary": "Iran has executed 21-year-old karate athlete Sassan Azadvar following his arrest during recent protest activities, continuing a surge in capital punishments that has drawn strong condemnation from the UN and international human rights organizations. The execution represents part of a broader crackdown involving multiple death sentences handed down for alleged espionage charges and protest participation. A Nobel Peace Prize laureate, Narges Mohammadi, has been hospitalised amid deteriorating health conditions following imprisonment, with family sources suspecting a cardiac event. The escalation of executions and persecution of activists has prompted urgent calls from international bodies for Tehran to halt the death penalty wave and ensure due process protections. These developments underscore deepening human rights concerns within Iran and its international isolation.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/01/iran-executes-21-year-old-karate-champion-as-un-warns-of-death-penalty-surge"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/02/iran-executes-two-more-over-spying-for-israel"
+          }
+        ],
+        "tags": [
+          "governance",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU-Mercosur Trade Deal Takes Provisional Effect Despite Legal Challenges",
+        "summary": "The European Union-Mercosur free-trade agreement has taken provisional effect as of May 1, creating new commercial opportunities for European exporters to South America despite ongoing legal challenges from member states. The agreement cuts tariffs on key EU exports including automobiles, pharmaceuticals, and agri-food products, potentially generating significant economic benefits for European businesses. The provisional implementation proceeds despite formal objections from some member states who raised concerns about environmental standards and agricultural competition. The deal represents a major trade engagement between the EU and the four-country Mercosur bloc (Argentina, Brazil, Paraguay, and Uruguay), expanding market access after years of negotiations. The provisional application allows the accord to proceed while legal proceedings regarding member state compliance continue.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/05/01/contentious-eu-mercosur-trade-deal-takes-provisional-effect"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Climate Crisis Forces First EU Relocation: Greek Villages Face Displacement Over Extreme Weather",
+        "summary": "Greece has become the location of Europe's first climate-driven mass relocation as villages face displacement due to intensifying extreme weather events and environmental degradation. Residents describe a collective trauma following catastrophic storms, with one villager characterising the psychological impact as 'collective PTSD' amid ongoing fears of future disasters. The displacement represents a critical inflection point for Europe's climate adaptation policies and urban planning frameworks, demonstrating the tangible human consequences of climate change. Environmental scientists warn that similar relocations may become increasingly necessary across Mediterranean and vulnerable regions as climate impacts accelerate. The Greek government's response reflects broader EU concerns about climate resilience and the need for coordinated relocation and adaptation funding strategies.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/02/a-sense-of-dread-europes-first-climate-migrants-live-in-constant-fear-of-extreme-weather"
+          }
+        ],
+        "tags": [
+          "climate",
+          "humanitarian",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Hungary's New Leader D\u00e9fends Appointing Relative as Justice Minister Amid Reform Promises",
+        "summary": "Hungary's incoming Prime Minister P\u00e9ter Magyar has defended his appointment of a brother-in-law to the justice ministry position, despite his electoral campaign promising to clean up Hungarian politics and restore institutional checks and balances. The appointment has drawn scrutiny from observers who question whether the move aligns with Magyar's anti-corruption platform and pledges to dismantle Viktor Orb\u00e1n's legacy. Magyar has extended reconciliation overtures to Ukraine and is pushing for the release of frozen EU funding, signalling a shift in Budapest's EU relations after years of tensions under Orb\u00e1n's governance. The justice ministry role is particularly significant given Hungary's rule-of-law concerns and ongoing EU concerns about judicial independence. The contradiction between campaign promises and appointment decisions raises questions about Hungary's institutional reform trajectory.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/01/hungarys-peter-magyar-defends-appointing-brother-in-law-as-countrys-justice-minister"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU",
+          "politics"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-03T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump Signals Possible Iran Strikes as He Reviews Peace Proposal",
+        "summary": "Iran submitted a 14-point peace proposal on May 3, but Trump expressed doubt it is acceptable and warned that US strikes could resume if Tehran 'misbehaves.' The development comes after a fragile ceasefire that paused direct US-Israeli military operations against Iran, though regional tensions remain high with continued Israeli strikes in Lebanon and broader economic disruption across Iran. The administration's skepticism reflects the precarious state of diplomatic efforts following months of military escalation in the Middle East. Iran's economy has deteriorated significantly during the conflict, with millions of jobs lost and prices surging despite the nominal ceasefire. The outcome of Trump's review will likely determine whether the region moves toward sustained de-escalation or renewed confrontation.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Israel Continues Strikes on Lebanon Despite Ceasefire, Dozens Killed",
+        "summary": "Israeli airstrikes on southern Lebanon have killed at least 13 to 41 people according to various reports, with attacks continuing despite an ongoing ceasefire agreement. The strikes on May 2-3 targeted southern Lebanese areas where Hezbollah maintains presence, resulting in deaths including women and children. The persistence of military operations under a nominal ceasefire reflects the fragile nature of regional agreements and ongoing security concerns driving both Israeli and militant operations. The humanitarian toll continues to mount with communities in southern Lebanon facing destruction and displacement even as diplomatic efforts proceed elsewhere in the Middle East. The escalation represents a test of whether ceasefire arrangements can hold amid tactical military pressures.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cd7pn0zywggo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "US to Withdraw 5,000 Troops from Germany Amid NATO Concerns",
+        "summary": "The Trump administration announced on May 1-2 that it will withdraw 5,000 US troops from Germany over the next 6-12 months, a move that has sparked concerns among senior Republicans and NATO allies about European security arrangements. Germany's defense ministry has attempted to downplay the impact, though the withdrawal represents a significant reduction in American military presence on the continent. The decision reflects ongoing tensions in the US-European relationship and broader questions about America's commitment to NATO defense obligations. The timing is significant given ongoing security challenges in Eastern Europe related to the Russia-Ukraine conflict and broader geopolitical competition with Russia. Defense experts and European officials have expressed concern about the implications for NATO's deterrence posture and the balance of power in Europe.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cd9pn541jjlo"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "defence",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Taiwan President Defies Beijing with African Diplomatic Visit",
+        "summary": "Taiwan's President Lai Ching-te arrived in Eswatini on May 3 to begin a diplomatic visit that Beijing had attempted to prevent through airspace restrictions. China issued a sharp rebuke, calling Lai a 'rat' and condemning the journey as a challenge to its sovereignty. The visit demonstrates Taiwan's continued efforts to maintain diplomatic relationships with remaining allies despite Chinese pressure and military posturing across the Taiwan Strait. The incident highlights ongoing tensions between Taiwan, China, and the international community regarding Taiwan's diplomatic space and freedom of movement. Taiwan's persistence in conducting international relations despite Chinese opposition underscores the complex geopolitical competition in the region and Taiwan's determination to sustain its international presence.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Iranian Nobel Laureate's Health Crisis Raises Concern Amid Tensions",
+        "summary": "Narges Mohammadi, a jailed Iranian Nobel Prize laureate and human rights activist, was hospitalized on May 2-3 following a serious health crisis while in custody. The 54-year-old prisoner's transfer to hospital came after her health reportedly deteriorated significantly, prompting international concern about her welfare and treatment. Mohammadi has been imprisoned for her activism and advocacy for human rights, making her health emergency a symbol of broader concerns about prisoners' rights in Iran. Her case has drawn attention from international human rights organizations and world leaders who have called for her release. The incident occurs amid the broader geopolitical tensions following the Iran war and ceasefire negotiations, adding a humanitarian dimension to international concerns about Iran.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c362pd8epw9o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "conflict",
+          "health"
+        ]
+      },
+      {
+        "headline": "Oil Tanker Hijacked Off Yemen Coast, Second Incident in 10 Days",
+        "summary": "An oil tanker was hijacked off the coast of Yemen on May 2 and taken toward Somalia, marking the second major vessel hijacking in 10 days and signaling a resurgence in maritime piracy. The incident reflects deteriorating security conditions in the Red Sea and surrounding waters, complicated by the ongoing regional conflict and disruption from the Iran war affecting shipping routes. Maritime authorities warn that at least four vessel hijackings have occurred in recent weeks, threatening global energy supplies and international shipping. The piracy incidents are occurring as shipping firms face heightened risks navigating regional tensions, with some vessels seeking alternative routes and incurring additional costs. The hijackings underscore the broader implications of Middle Eastern conflicts on global trade and energy security.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cpwprl0v2npo"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "conflict"
+        ]
+      }
+    ]
+  }
+}

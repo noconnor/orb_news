@@ -1,0 +1,82 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-03T12:45:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Trump Announces Withdrawal of 5,000 US Troops from Germany Amid NATO Tensions",
+      "summary": "President Trump has announced the withdrawal of 5,000 American military personnel stationed in Germany, following Chancellor Friedrich Merz's criticism of US Iran war policy. The move marks a significant shift in transatlantic defence arrangements and has drawn concern from NATO allies and senior Republican lawmakers who view Germany as a critical strategic hub for European operations. German officials have responded by stating they are 'prepared' for any troop reductions, though military analysts warn the withdrawal would eliminate essential logistical and refuelling capabilities for US Air Force operations. The decision reflects growing tensions between Washington and Berlin over Middle East strategy and broader questions about America's commitment to European security. This development has prompted calls for stronger European defence self-reliance, particularly from France and Germany.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cd9pn541jjlo"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20250501-washington-will-pull-some-5-000-us-troops-from-germany-as-rift-over-iran-war-widens"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/02/trump-follows-through-on-threats-as-he-announces-significant-troop-withdrawal-from-germany"}
+      ],
+      "tags": ["defence", "diplomacy", "EU"]
+    },
+    {
+      "headline": "Trump Escalates Trade War: 25% Auto Tariffs on EU Threatens German Economy €18 Billion",
+      "summary": "President Trump has raised US tariffs on European automobiles to 25 percent, up from the previously agreed 15 percent rate, in escalation of his trade dispute with the European Union. The move threatens to cost Germany approximately €18 billion in economic impact, particularly affecting the country's critical auto manufacturing sector. Trump justified the tariff increase by accusing the EU of failing to comply with a trade deal agreed with Commission President Ursula von der Leyen last July. The escalation signals Trump's willingness to use protectionist measures to pressure European economies and represents a fundamental shift from the negotiated framework established months earlier. European officials are assessing the implications for economic growth and considering potential retaliatory measures.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/video/20260502-new-tariff-hike-could-cost-germany-18bn-1"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/01/trump-says-will-raise-us-tariffs-on-eu-cars-to-25-accusing-bloc-of-not-complying-with-deal"}
+      ],
+      "tags": ["trade", "economy", "regulation"]
+    },
+    {
+      "headline": "European Summer Holidays at Risk as Jet Fuel Shortage Escalates Across the Continent",
+      "summary": "European airlines are facing a critical fuel crisis as kerosene prices skyrocket, threatening to disrupt summer travel across the continent. Airlines including Transavia have already begun cancelling flights, and aviation experts warn that short-haul European routes face the greatest disruption risk, with June and July cancellation odds increasing daily. The shortage stems from global fuel supply constraints, potentially linked to Middle East instability and sanctions-related disruptions affecting shipping routes and fuel availability. European governments and the aviation industry are implementing contingency plans to mitigate passenger cancellations during peak holiday season. Energy ministers across Europe are coordinating responses to stabilise fuel supplies and prevent widespread transport disruption.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c794zd1vqn4o"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260502-summer-holidays-up-in-the-air-as-europe-braces-for-jet-fuel-shortage"}
+      ],
+      "tags": ["economy", "climate", "trade"]
+    },
+    {
+      "headline": "Slovakia's Fico Pledges Support for Ukraine's EU Membership Following Zelensky Call",
+      "summary": "Slovakia's Prime Minister Robert Fico has signalled support for Ukraine's European Union membership following a direct conversation with President Zelensky, marking a significant shift from Hungary's isolated opposition to Ukraine's EU accession. The leaders have invited each other to meet, signalling a warming of bilateral relations despite previous tensions over Budapest's stance on the Ukraine conflict. Fico's backing is particularly significant given the Visegrad Group's traditional alignment and demonstrates growing consensus among Central European nations on Ukraine's European future. The development strengthens Ukraine's path toward EU integration and reflects a broader realignment of Central European positions on the conflict and post-war reconstruction priorities. This statement comes as Hungary's new leader Péter Magyar also extends reconciliation overtures to Kyiv.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/02/robert-fico-will-back-ukraines-eu-membership-after-call-zelenskyy-says"}
+      ],
+      "tags": ["EU", "governance", "diplomacy"]
+    },
+    {
+      "headline": "Iran Executes Dissident Karate Champion as Death Toll Continues Amid International Concern",
+      "summary": "Iran has executed 21-year-old karate athlete Sassan Azadvar following his arrest during recent protest activities, continuing a surge in capital punishments that has drawn strong condemnation from the UN and international human rights organizations. The execution represents part of a broader crackdown involving multiple death sentences handed down for alleged espionage charges and protest participation. A Nobel Peace Prize laureate, Narges Mohammadi, has been hospitalised amid deteriorating health conditions following imprisonment, with family sources suspecting a cardiac event. The escalation of executions and persecution of activists has prompted urgent calls from international bodies for Tehran to halt the death penalty wave and ensure due process protections. These developments underscore deepening human rights concerns within Iran and its international isolation.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/01/iran-executes-21-year-old-karate-champion-as-un-warns-of-death-penalty-surge"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/02/iran-executes-two-more-over-spying-for-israel"}
+      ],
+      "tags": ["governance", "humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "EU-Mercosur Trade Deal Takes Provisional Effect Despite Legal Challenges",
+      "summary": "The European Union-Mercosur free-trade agreement has taken provisional effect as of May 1, creating new commercial opportunities for European exporters to South America despite ongoing legal challenges from member states. The agreement cuts tariffs on key EU exports including automobiles, pharmaceuticals, and agri-food products, potentially generating significant economic benefits for European businesses. The provisional implementation proceeds despite formal objections from some member states who raised concerns about environmental standards and agricultural competition. The deal represents a major trade engagement between the EU and the four-country Mercosur bloc (Argentina, Brazil, Paraguay, and Uruguay), expanding market access after years of negotiations. The provisional application allows the accord to proceed while legal proceedings regarding member state compliance continue.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/05/01/contentious-eu-mercosur-trade-deal-takes-provisional-effect"}
+      ],
+      "tags": ["trade", "economy", "regulation"]
+    },
+    {
+      "headline": "Climate Crisis Forces First EU Relocation: Greek Villages Face Displacement Over Extreme Weather",
+      "summary": "Greece has become the location of Europe's first climate-driven mass relocation as villages face displacement due to intensifying extreme weather events and environmental degradation. Residents describe a collective trauma following catastrophic storms, with one villager characterising the psychological impact as 'collective PTSD' amid ongoing fears of future disasters. The displacement represents a critical inflection point for Europe's climate adaptation policies and urban planning frameworks, demonstrating the tangible human consequences of climate change. Environmental scientists warn that similar relocations may become increasingly necessary across Mediterranean and vulnerable regions as climate impacts accelerate. The Greek government's response reflects broader EU concerns about climate resilience and the need for coordinated relocation and adaptation funding strategies.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/02/a-sense-of-dread-europes-first-climate-migrants-live-in-constant-fear-of-extreme-weather"}
+      ],
+      "tags": ["climate", "humanitarian", "governance"]
+    },
+    {
+      "headline": "Hungary's New Leader Défends Appointing Relative as Justice Minister Amid Reform Promises",
+      "summary": "Hungary's incoming Prime Minister Péter Magyar has defended his appointment of a brother-in-law to the justice ministry position, despite his electoral campaign promising to clean up Hungarian politics and restore institutional checks and balances. The appointment has drawn scrutiny from observers who question whether the move aligns with Magyar's anti-corruption platform and pledges to dismantle Viktor Orbán's legacy. Magyar has extended reconciliation overtures to Ukraine and is pushing for the release of frozen EU funding, signalling a shift in Budapest's EU relations after years of tensions under Orbán's governance. The justice ministry role is particularly significant given Hungary's rule-of-law concerns and ongoing EU concerns about judicial independence. The contradiction between campaign promises and appointment decisions raises questions about Hungary's institutional reform trajectory.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/01/hungarys-peter-magyar-defends-appointing-brother-in-law-as-countrys-justice-minister"}
+      ],
+      "tags": ["governance", "EU", "politics"]
+    }
+  ]
+}

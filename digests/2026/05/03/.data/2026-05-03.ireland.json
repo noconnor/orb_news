@@ -1,0 +1,39 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-03T10:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Dublin City Half Marathon draws 13,200 participants with road closures across capital",
+      "summary": "The Dublin City Half Marathon took place on Sunday, May 3, with 13,200 participants — the second year of the event and an increase from the inaugural race. The 21.1km route started on O'Connell Street at 8:30am and wound through the North Side, out to Raheny and along the Clontarf seafront before finishing in the North East Inner-City. Major road closures were implemented across Dublin city centre, with Transport for Ireland coordinating alternative routes for residents and commuters. Defending champion Killian Mooney from Dundrum South Dublin A.C. returned to defend his title after winning the inaugural 2025 race.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/regional/2026/0503/1571504-dublin-city-half-marathon/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/dublin-city-half-marathon-info-7029090-May2026/"}
+      ],
+      "tags": ["sport", "transport", "Dublin"]
+    },
+    {
+      "headline": "Belfast City Marathon returns with 15,000-18,000 participants on May 3",
+      "summary": "The Belfast City Marathon made its return on Sunday, May 3, 2026, as one of Northern Ireland's largest annual sporting events. The AIMS-certified race began at Stormont at 9am and finished in Ormeau Park, featuring the 26.2-mile route that showcases Belfast's famous landmarks and attractions. The marathon had already sold out by January, with charity places remaining the only avenue for securing spots in the full marathon. Road closures came into effect from 6am across Belfast, with all routes expected to reopen by 4:30pm, and additional rail services were laid on from surrounding towns to facilitate participant arrival.",
+      "sources": [
+        {"name": "The Irish News", "url": "https://www.irishnews.com/news/northern-ireland/belfast-city-marathon-2026-times-route-map-and-road-closures-guide-WPP2RHKGGZEFXGNJQDQHVXQVN4/"}
+      ],
+      "tags": ["sport", "transport", "Northern Ireland"]
+    },
+    {
+      "headline": "Cork International Choral Festival concludes 2026 edition with closing gala performance",
+      "summary": "The Cork International Choral Festival concluded its 2026 programme on May 3 with a closing gala concert, marking the end of a five-day festival that ran from April 29 to May 3. The festival featured an expansive programme including 7 gala concerts, 70 national competing choirs, 45 national non-competitive choirs, and 12 international choirs competing across 12 competitions. Over 250 volunteers contributed to the festival, which also included 9 workshops and numerous community events. The festival remains one of Europe's premier international choral events, celebrated for its high standards, eclectic programming, and welcoming atmosphere for participants and audiences alike.",
+      "sources": [
+        {"name": "Cork International Choral Festival", "url": "https://www.corkchoral.ie/"},
+        {"name": "PureCork.ie", "url": "https://www.purecork.ie/whats-on/11141484/cork-international-choral-festival"}
+      ],
+      "tags": ["culture", "social", "Cork"]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-03",
+  "update_type": "morning",
+  "steps": {
+    "setup": {
+      "start": 1777784411,
+      "end": 1777784424,
+      "duration_s": 13
+    },
+    "gather": {
+      "start": 1777784424,
+      "end": 1777784550,
+      "duration_s": 126
+    },
+    "digest_write": {
+      "start": 1777784574,
+      "end": 1777784830,
+      "duration_s": 256
+    },
+    "audio": {
+      "start": 1777784830,
+      "end": 1777784987,
+      "duration_s": 157
+    }
+  },
+  "total_duration_s": 576,
+  "token_estimate": {
+    "text_file_bytes": 99392,
+    "baseline_tokens": 24848,
+    "estimated_input_tokens": 74544,
+    "haiku_input": 33544,
+    "haiku_output": 6708,
+    "sonnet_input": 26090,
+    "sonnet_output": 6522,
+    "opus_input": 30000,
+    "opus_output": 8000,
+    "estimated_cost_usd": 1.28
+  }
+}

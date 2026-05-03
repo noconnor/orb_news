@@ -1,0 +1,72 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-03T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Trump Signals Possible Iran Strikes as He Reviews Peace Proposal",
+      "summary": "Iran submitted a 14-point peace proposal on May 3, but Trump expressed doubt it is acceptable and warned that US strikes could resume if Tehran 'misbehaves.' The development comes after a fragile ceasefire that paused direct US-Israeli military operations against Iran, though regional tensions remain high with continued Israeli strikes in Lebanon and broader economic disruption across Iran. The administration's skepticism reflects the precarious state of diplomatic efforts following months of military escalation in the Middle East. Iran's economy has deteriorated significantly during the conflict, with millions of jobs lost and prices surging despite the nominal ceasefire. The outcome of Trump's review will likely determine whether the region moves toward sustained de-escalation or renewed confrontation.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Israel Continues Strikes on Lebanon Despite Ceasefire, Dozens Killed",
+      "summary": "Israeli airstrikes on southern Lebanon have killed at least 13 to 41 people according to various reports, with attacks continuing despite an ongoing ceasefire agreement. The strikes on May 2-3 targeted southern Lebanese areas where Hezbollah maintains presence, resulting in deaths including women and children. The persistence of military operations under a nominal ceasefire reflects the fragile nature of regional agreements and ongoing security concerns driving both Israeli and militant operations. The humanitarian toll continues to mount with communities in southern Lebanon facing destruction and displacement even as diplomatic efforts proceed elsewhere in the Middle East. The escalation represents a test of whether ceasefire arrangements can hold amid tactical military pressures.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cd7pn0zywggo"}
+      ],
+      "tags": ["conflict", "humanitarian", "geopolitics"]
+    },
+    {
+      "headline": "US to Withdraw 5,000 Troops from Germany Amid NATO Concerns",
+      "summary": "The Trump administration announced on May 1-2 that it will withdraw 5,000 US troops from Germany over the next 6-12 months, a move that has sparked concerns among senior Republicans and NATO allies about European security arrangements. Germany's defense ministry has attempted to downplay the impact, though the withdrawal represents a significant reduction in American military presence on the continent. The decision reflects ongoing tensions in the US-European relationship and broader questions about America's commitment to NATO defense obligations. The timing is significant given ongoing security challenges in Eastern Europe related to the Russia-Ukraine conflict and broader geopolitical competition with Russia. Defense experts and European officials have expressed concern about the implications for NATO's deterrence posture and the balance of power in Europe.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cd9pn541jjlo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"}
+      ],
+      "tags": ["diplomacy", "defence", "geopolitics"]
+    },
+    {
+      "headline": "Taiwan President Defies Beijing with African Diplomatic Visit",
+      "summary": "Taiwan's President Lai Ching-te arrived in Eswatini on May 3 to begin a diplomatic visit that Beijing had attempted to prevent through airspace restrictions. China issued a sharp rebuke, calling Lai a 'rat' and condemning the journey as a challenge to its sovereignty. The visit demonstrates Taiwan's continued efforts to maintain diplomatic relationships with remaining allies despite Chinese pressure and military posturing across the Taiwan Strait. The incident highlights ongoing tensions between Taiwan, China, and the international community regarding Taiwan's diplomatic space and freedom of movement. Taiwan's persistence in conducting international relations despite Chinese opposition underscores the complex geopolitical competition in the region and Taiwan's determination to sustain its international presence.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance"}
+      ],
+      "tags": ["diplomacy", "geopolitics", "conflict"]
+    },
+    {
+      "headline": "Iranian Nobel Laureate's Health Crisis Raises Concern Amid Tensions",
+      "summary": "Narges Mohammadi, a jailed Iranian Nobel Prize laureate and human rights activist, was hospitalized on May 2-3 following a serious health crisis while in custody. The 54-year-old prisoner's transfer to hospital came after her health reportedly deteriorated significantly, prompting international concern about her welfare and treatment. Mohammadi has been imprisoned for her activism and advocacy for human rights, making her health emergency a symbol of broader concerns about prisoners' rights in Iran. Her case has drawn attention from international human rights organizations and world leaders who have called for her release. The incident occurs amid the broader geopolitical tensions following the Iran war and ceasefire negotiations, adding a humanitarian dimension to international concerns about Iran.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c362pd8epw9o"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition"}
+      ],
+      "tags": ["humanitarian", "conflict", "health"]
+    },
+    {
+      "headline": "Oil Tanker Hijacked Off Yemen Coast, Second Incident in 10 Days",
+      "summary": "An oil tanker was hijacked off the coast of Yemen on May 2 and taken toward Somalia, marking the second major vessel hijacking in 10 days and signaling a resurgence in maritime piracy. The incident reflects deteriorating security conditions in the Red Sea and surrounding waters, complicated by the ongoing regional conflict and disruption from the Iran war affecting shipping routes. Maritime authorities warn that at least four vessel hijackings have occurred in recent weeks, threatening global energy supplies and international shipping. The piracy incidents are occurring as shipping firms face heightened risks navigating regional tensions, with some vessels seeking alternative routes and incurring additional costs. The hijackings underscore the broader implications of Middle Eastern conflicts on global trade and energy security.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cpwprl0v2npo"}
+      ],
+      "tags": ["economy", "trade", "conflict"]
+    }
+  ]
+}
