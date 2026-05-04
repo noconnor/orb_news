@@ -1,0 +1,87 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-04T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Trump launches 'Project Freedom' to escort ships through Strait of Hormuz amid Iran tensions",
+      "summary": "President Trump announced a U.S. naval operation to escort stranded merchant ships through the Strait of Hormuz after two tankers were attacked in the disputed waterway. The initiative, dubbed 'Project Freedom,' began on May 4 amid escalating tensions between the U.S. and Iran following recent military conflicts. Iran has protested the operation, claiming it violates an existing ceasefire agreement and warning of consequences. Oil markets remained relatively flat despite the announcement, with Brent crude largely unmoved by Trump's plan. The operation represents a significant U.S. military commitment to securing global maritime commerce in one of the world's most strategically important shipping channels.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVRJTjB4dzJvQ2luQWJRdHZHOURiZDdYZ3pLTnFHVXEzc3ZpTFd5bHV6VzhkaGpOUTNEOVNKZ1VveWNZWk9YY0l5OXpQb195YXZqUFl4RnoxUnFCTS1hYzg1akFjWERzZDNwWmhLMHpPZFk2V0V1OTFXRDdoX3VTWE1jU1prSGZQcDY3SlJjeGdzUHp3cjBEUXM0Y0VWZWFPamduNFcxVTlmSDdaSzlWLTlsMnR6SnZaWGtPTEdCSmR3OUJZSXlv?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cn0px2x53k2o"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz"}
+      ],
+      "tags": ["diplomacy", "conflict", "economy"]
+    },
+    {
+      "headline": "Hantavirus outbreak on Atlantic cruise ship kills three, WHO confirms",
+      "summary": "Three passengers have died and several others have been hospitalized following a suspected hantavirus outbreak aboard a cruise ship in the Atlantic Ocean. The World Health Organization confirmed at least one case of hantavirus, with five additional suspected cases among the ship's passengers. Hantavirus, transmitted through contact with infected rodents or their droppings, can cause severe respiratory infections and has a mortality rate of up to 38 percent in some cases. The incident has raised concerns about infectious disease containment on large passenger vessels and public health protocols in maritime settings. Authorities are investigating the source of the contamination and tracing potential exposure among crew and other passengers.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cy0294829ndo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean"}
+      ],
+      "tags": ["health", "humanitarian"]
+    },
+    {
+      "headline": "U.S. announces withdrawal of 5,000 troops from Germany, raising NATO concerns",
+      "summary": "The Pentagon announced plans to withdraw 5,000 U.S. service members from Germany, prompting concerns among European allies about American commitment to NATO defense. The withdrawal coincides with broader defense spending discussions and represents a significant reduction in the U.S. military presence in Europe. German Chancellor Merz sought to downplay rifts with Washington despite the announcement, though U.S. Republicans have expressed support for the reduction. The move reflects evolving U.S. defense priorities and raises questions about burden-sharing within the NATO alliance at a time of heightened European security concerns. Military analysts warn that the withdrawal could signal shifting U.S. strategic focus away from European deterrence.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUt1QWV0ZmVhYXp1cFJISFA3dkVyNlFidmZRRVJSTG9QUFRXRm54Z0xaLUtyTTE5STlHdzZSRkJtQ2s0OUZYamdoWU9iaHlEbHdGUjh1dE9pVUhkZEpweXVUMDdMczFOUmQ2N0N6bDVCOEFKSlFpb09TUlZMa01yZUNkOWh5WEdyX0tlWEJlQWktaXY2V3hlaG45c21BN3RzTzA3TENmQy1ob0VVVUA"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"}
+      ],
+      "tags": ["defence", "diplomacy"]
+    },
+    {
+      "headline": "Ukraine strikes Russian 'shadow fleet' oil tankers while strengthened by Iran war lessons",
+      "summary": "Ukrainian forces have conducted drone attacks on Russian vessels operating as part of the 'shadow fleet,' vessels used to evade international sanctions on Russian oil exports. The attacks represent Kyiv's broader strategy to disrupt Russia's energy revenue and demonstrate military capabilities. President Zelensky recently visited the Persian Gulf region to showcase Ukraine's military strength and build international support amid ongoing conflict with Russia. Russian strikes have also continued, with reported strikes killing at least 10 Ukrainian personnel in recent days. The conflict continues to evolve with both sides employing increasingly sophisticated tactics, including maritime economic warfare and asymmetric drone operations.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/clyp41v1n1go"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire"}
+      ],
+      "tags": ["conflict", "economy"]
+    },
+    {
+      "headline": "Taiwan president completes Eswatini visit after China blocks overflight clearance",
+      "summary": "Taiwan's President completed a diplomatic visit to Eswatini (formerly Swaziland) after overcoming Chinese attempts to obstruct the journey by blocking overflight clearance for the presidential aircraft. China had criticized the visit as a 'stowaway-style escape farce,' reflecting escalating diplomatic tensions over Taiwan's international engagement. The successful visit underscores Taiwan's continued efforts to maintain diplomatic relationships despite Beijing's pressure and interference. Eswatini is one of a small number of nations that maintains formal diplomatic relations with Taiwan rather than the People's Republic of China. The incident highlights the ongoing geopolitical competition between Beijing and Taipei for international recognition and support.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGg2blFTWHBqNGZITFB0NVVUYkdLTGhQWXlacjNabmdFdFptQm5uVlN1ajFOQ2RxYl9xS01TNjJhWThZbXRMTXhuRGd3Z29kR1JrU0RTVFptTEI3cjlVcDFXclFiNVlIMW13VUZGbnhTblRSU0ZKM0ZWcmNwVVVvaWtIekdJQnJOeEpaNXp3"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c809ln029ldo"}
+      ],
+      "tags": ["diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Kenya battles devastating floods and landslides, death toll reaches 18",
+      "summary": "Kenya is grappling with a severe humanitarian crisis as ongoing heavy rains have triggered widespread flooding and landslides across the East African nation. At least 18 people have died, with many more missing or displaced from their homes and communities. The disaster has affected multiple regions, causing infrastructure damage, displacement of thousands, and immediate threats to food security and public health. Emergency services have launched rescue operations, including efforts to recover remains from flood-affected areas. Climate experts link the extreme weather patterns to broader regional climate variations, raising concerns about the vulnerability of East African communities to climate-related disasters and the need for improved disaster preparedness and resilience infrastructure.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/3/floods-and-landslides-kill-at-least-18-in-kenya"}
+      ],
+      "tags": ["humanitarian", "climate"]
+    },
+    {
+      "headline": "Iran jails Nobel laureate Nargol Talebi; family fears critical health deterioration",
+      "summary": "Concerns are mounting for imprisoned Iranian Nobel Peace Prize laureate Nargol Talebi, 54, after her family reports she has been transferred to a hospital following apparent health deterioration while in custody. The transfer raises serious questions about the conditions of her incarceration and Iran's treatment of political prisoners and human rights defenders. Talebi's imprisonment is part of Iran's broader crackdown on civil society activists and critics of the government. International human rights organizations have called for her immediate release, citing her humanitarian work and the arbitrary nature of her detention. The situation highlights the ongoing tensions between Iran's government and international human rights advocates over the treatment of activists and prisoners.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c362pd8epw9o"}
+      ],
+      "tags": ["humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "Nigeria summons South African envoy over violent attacks against Nigerian migrants",
+      "summary": "Nigeria has summoned South Africa's diplomatic envoy to protest escalating violence against Nigerian nationals during anti-migrant riots in South African cities. The clashes have turned violent as locals attack foreign workers and businesses, fueling tension between the two regional powers. Anti-migrant sentiment in South Africa has been rising amid unemployment and economic hardship, with xenophobic violence targeting foreign nationals from across Africa. Nigeria's diplomatic protest underscores the serious regional implications of the unrest and demands for protection of its citizens. The incidents reflect broader challenges in southern Africa regarding economic inequality, unemployment, and integration of migrant populations, while raising concerns about stability in the region.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c78q6e98878o"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    }
+  ]
+}

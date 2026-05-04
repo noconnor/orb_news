@@ -1,0 +1,79 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-04T07:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "European and Canadian Leaders Converge on Armenia for Major Summit",
+      "summary": "Nearly 50 world leaders, including Canadian Prime Minister Mark Carney and European officials, gathered in Yerevan for the 8th European Political Community summit on May 4, 2026. The high-level gathering addressed critical security concerns including the Iran conflict, ongoing Ukraine war, and shifting transatlantic relationships amid uncertainty over US policy under the Trump administration. The summit represents a significant diplomatic effort to maintain European unity and coordinate responses to regional crises. Key discussions centered on Ukraine support, with Armenian Prime Minister Pashinyan scheduled to hold separate talks focused on Ukraine's challenges.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cgkp1124y3yo"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260504-europe-canada-leaders-meet-in-armenia-amid-uncertainty-over-us-policy-trump-russia-ukraine-iran-war-nato"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/03/world-leaders-arrive-in-armena-for-eighth-epc-summit"}
+      ],
+      "tags": ["EU", "diplomacy", "governance"]
+    },
+    {
+      "headline": "UK to Enter Talks on Joining EU's 78 Billion Pound Ukraine Support Scheme",
+      "summary": "British Prime Minister Keir Starmer will participate in discussions to join the European Union's 78 billion pound financing scheme for Ukraine, marking a significant shift in UK-EU cooperation on security matters. The announcement comes as European leaders gather in Armenia, with Starmer meeting European counterparts at the summit. The scheme represents a major EU commitment to supporting Ukraine's economic recovery and military capabilities during the ongoing conflict with Russia. This move signals broader UK engagement with European defense and security initiatives beyond traditional NATO structures.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c1420e1p1l0o"}
+      ],
+      "tags": ["EU", "trade", "defence"]
+    },
+    {
+      "headline": "Ukrainian Forces Strike Russian Primorsk Oil Port in Strategic Escalation",
+      "summary": "Ukrainian unmanned systems conducted coordinated strikes against Russia's Primorsk oil port on the Baltic Sea and nearby vessels, targeting key energy infrastructure as part of Kyiv's strategy to limit Moscow's military and economic capacity. Ukrainian officials warned that the strikes could drive global oil prices higher, adding potential economic implications beyond the conflict zone. The operation underscores Ukraine's expanding capability to project force deep into Russian territory using drone technology. This escalation reflects the intensifying naval and economic warfare component of the Russia-Ukraine conflict.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260503-ukrainian-drones-strike-russia-baltic-sea-port-primorsk"}
+      ],
+      "tags": ["conflict", "defence", "economy"]
+    },
+    {
+      "headline": "Spanish Prime Minister's Aircraft Makes Emergency Landing in Turkey",
+      "summary": "Spain's Prime Minister Pedro Sánchez experienced a technical emergency requiring his aircraft to make an unscheduled landing in Ankara while traveling to the European Political Community summit in Armenia on May 4, 2026. The delegation successfully redirected to Turkey and planned to resume their journey to Yerevan on Monday morning. The incident did not prevent Sánchez's participation in the critical European summit discussing security and geopolitical challenges. Spain's presence at the summit underscores the continent-wide nature of discussions on Ukraine, security, and transatlantic relations.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260504-spanish-pm-pedro-s%C3%A1nchez-s-plane-makes-emergency-landing-in-turkey"}
+      ],
+      "tags": ["governance", "EU"]
+    },
+    {
+      "headline": "Amsterdam Bans Public Advertising of Meat and Fossil Fuels",
+      "summary": "Amsterdam's municipal authorities implemented restrictions on outdoor advertising for meat products and fossil fuels, aligning advertising regulations with the city's environmental sustainability goals. The ban reflects growing momentum among European cities to leverage municipal power to influence consumer behavior and corporate marketing practices around climate-sensitive products. The move positions Amsterdam at the forefront of European climate action beyond traditional regulatory mechanisms. Local officials view the advertising restriction as part of a broader strategy to support the city's sustainability objectives and reduce the promotional visibility of high-emission industries.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c9wejdekpwyo"}
+      ],
+      "tags": ["climate", "regulation", "EU"]
+    },
+    {
+      "headline": "NATO Holds Secretive Consultations with European Film and Television Industry",
+      "summary": "NATO conducted three private meetings with television and film industry professionals across Europe and the United States, prompting accusations of propaganda efforts from critics. The military alliance convened closed-door consultations with directors, producers, and screenwriters in Los Angeles, Brussels, and Paris, with plans for additional meetings with the Writers' Guild of Great Britain in London. The initiative has drawn criticism from those who view it as an attempt to leverage the arts for strategic messaging and narrative control. The meetings reflect NATO's efforts to coordinate messaging with cultural influencers during a period of heightened security concerns in Europe.",
+      "sources": [
+        {"name": "The Guardian", "url": "https://eu.news-pravda.com/world/2026/05/03/192465.html"}
+      ],
+      "tags": ["governance", "EU", "defence"]
+    },
+    {
+      "headline": "Alcoholism Epidemic Spreads Across Europe, Claiming Hundreds of Thousands of Lives",
+      "summary": "Alcoholism continues to cause hundreds of thousands of deaths annually across Europe, with liver diseases spreading in what health experts describe as a 'silent epidemic.' The crisis represents a major public health challenge across the continent, affecting multiple countries and populations. Alcohol-related diseases are creating significant burden on European healthcare systems and contributing to preventable mortality. The ongoing health crisis requires coordinated public health responses and awareness campaigns across European nations to address underlying factors driving increased alcohol consumption and associated health consequences.",
+      "sources": [
+        {"name": "The Guardian", "url": "https://latvia.news-pravda.com/en/world/2026/05/03/34176.html"}
+      ],
+      "tags": ["health", "EU"]
+    },
+    {
+      "headline": "Chocolate Industry Faces Scrutiny Over Child Labour and Supply Chain Ethics",
+      "summary": "The chocolate industry confronts ongoing challenges related to child labour exploitation, worker conditions, and environmental degradation in supply chains, with major producers like Tony's Chocolonely pushing for industry-wide collaboration on ethical sourcing. Industry leaders advocate for competing retailers while collaborating across supply chains to address systemic problems affecting cocoa-producing regions. The push for transparency and ethical practices reflects growing consumer awareness and regulatory pressure across Europe regarding corporate responsibility in global supply chains. Efforts to establish better practices highlight the tensions between commercial competitiveness and sustainability commitments in the food sector.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/05/04/child-labour-exploitation-and-deforestation-is-this-the-true-taste-of-chocolate"}
+      ],
+      "tags": ["trade", "regulation", "governance"]
+    }
+  ]
+}

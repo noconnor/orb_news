@@ -1,0 +1,390 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-04T06:01:23Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "T\u00e1naiste Simon Harris to discuss economic impact of Middle East conflict at EU finance summit",
+        "summary": "T\u00e1naiste and Minister for Finance Simon Harris is attending a two-day summit of EU finance ministers to discuss the economic implications of the ongoing war in Iran and the broader Middle East conflict. The summit, which began on May 4, 2026, brings together European financial leaders to assess how the geopolitical tensions are affecting EU economies and member states. This engagement reflects Ireland's involvement in European economic coordination during a period of international instability. The discussions are expected to focus on energy prices, trade flows, and financial market impacts resulting from the conflict.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/politics/2026/0504/1571574-economy-eu-summit/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "HSE acute hospitals lack adequate health and safety infrastructure, posing serious risk of injury",
+        "summary": "A concerning health and safety review has revealed that almost half of Ireland's acute hospitals lack a dedicated health and safety officer, creating risk of serious incidents or injuries across the HSE system. The findings indicate systemic gaps in the HSE's internal health and safety function, suggesting that many hospitals are operating below acceptable safety standards. This deficiency extends beyond staffing to broader gaps in safety protocols and oversight mechanisms. The issue highlights chronic underinvestment and resource constraints within Ireland's healthcare system. The discovery comes as the HSE continues to face pressure on multiple fronts, from emergency department overcrowding to staffing shortages.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/hses-own-health-and-safety-function-falling-short-7020780-May2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social"
+        ]
+      },
+      {
+        "headline": "Environmental groups threaten legal action over Trump's Doonbeg golf resort expansion due to protected snail species",
+        "summary": "Environmental organizations have lodged court action threats against expansion plans for Donald Trump's Doonbeg golf resort in County Clare, citing concerns about a threatened Irish snail species found on the property. The protected snail species faces extinction threats, and conservation groups argue that the resort development would further jeopardize the species' survival. The dispute highlights the tension between tourism and real estate development interests and environmental protection in Ireland. Trump previously stated such environmental concerns would not have featured on his agenda. The case represents a significant test of Ireland's environmental protections and planning regulations against international commercial interests.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/spotlight/arid-41837054.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social"
+        ]
+      },
+      {
+        "headline": "Trump announces US assistance for vessels stranded amid escalating Iran conflict",
+        "summary": "President Trump announced that the United States will provide assistance to commercial ships stranded in the Strait of Hormuz following reports of a vessel sustaining hits from unknown projectiles in the strategic waterway. The incident underscores the escalation of US-Israeli tensions with Iran in the region. The announcement comes as part of broader American efforts to maintain regional stability and protect international commerce. For Ireland, this development carries implications for EU energy security and trade flows that were being discussed at the finance ministers' summit. The incident marks another escalation in the already volatile Middle East situation.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/middle-east/2026/0504/1571611-middle-east-iran/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Limerick deliver statement performance in GAA hurling clash with Clare",
+        "summary": "Limerick delivered an emphatic display in their hurling matchup against Clare, demonstrating renewed form after a period of rebuilding. According to sports analysis, Clare appeared notably flat following a two-week break, underscoring preparation and momentum challenges in inter-county competition. The result positions Limerick strongly in the provincial campaign and highlights the competitive landscape of Munster hurling. Limerick's commanding performance serves as a statement of intent in their championship ambitions. The victory reflects the ongoing quality and consistency of Limerick hurling at the provincial level.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport-columnists-gaa/arid-41838762.html"
+          }
+        ],
+        "tags": [
+          "sport"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-04T07:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "European and Canadian Leaders Converge on Armenia for Major Summit",
+        "summary": "Nearly 50 world leaders, including Canadian Prime Minister Mark Carney and European officials, gathered in Yerevan for the 8th European Political Community summit on May 4, 2026. The high-level gathering addressed critical security concerns including the Iran conflict, ongoing Ukraine war, and shifting transatlantic relationships amid uncertainty over US policy under the Trump administration. The summit represents a significant diplomatic effort to maintain European unity and coordinate responses to regional crises. Key discussions centered on Ukraine support, with Armenian Prime Minister Pashinyan scheduled to hold separate talks focused on Ukraine's challenges.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cgkp1124y3yo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260504-europe-canada-leaders-meet-in-armenia-amid-uncertainty-over-us-policy-trump-russia-ukraine-iran-war-nato"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/03/world-leaders-arrive-in-armena-for-eighth-epc-summit"
+          }
+        ],
+        "tags": [
+          "EU",
+          "diplomacy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "UK to Enter Talks on Joining EU's 78 Billion Pound Ukraine Support Scheme",
+        "summary": "British Prime Minister Keir Starmer will participate in discussions to join the European Union's 78 billion pound financing scheme for Ukraine, marking a significant shift in UK-EU cooperation on security matters. The announcement comes as European leaders gather in Armenia, with Starmer meeting European counterparts at the summit. The scheme represents a major EU commitment to supporting Ukraine's economic recovery and military capabilities during the ongoing conflict with Russia. This move signals broader UK engagement with European defense and security initiatives beyond traditional NATO structures.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c1420e1p1l0o"
+          }
+        ],
+        "tags": [
+          "EU",
+          "trade",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Ukrainian Forces Strike Russian Primorsk Oil Port in Strategic Escalation",
+        "summary": "Ukrainian unmanned systems conducted coordinated strikes against Russia's Primorsk oil port on the Baltic Sea and nearby vessels, targeting key energy infrastructure as part of Kyiv's strategy to limit Moscow's military and economic capacity. Ukrainian officials warned that the strikes could drive global oil prices higher, adding potential economic implications beyond the conflict zone. The operation underscores Ukraine's expanding capability to project force deep into Russian territory using drone technology. This escalation reflects the intensifying naval and economic warfare component of the Russia-Ukraine conflict.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260503-ukrainian-drones-strike-russia-baltic-sea-port-primorsk"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Spanish Prime Minister's Aircraft Makes Emergency Landing in Turkey",
+        "summary": "Spain's Prime Minister Pedro S\u00e1nchez experienced a technical emergency requiring his aircraft to make an unscheduled landing in Ankara while traveling to the European Political Community summit in Armenia on May 4, 2026. The delegation successfully redirected to Turkey and planned to resume their journey to Yerevan on Monday morning. The incident did not prevent S\u00e1nchez's participation in the critical European summit discussing security and geopolitical challenges. Spain's presence at the summit underscores the continent-wide nature of discussions on Ukraine, security, and transatlantic relations.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260504-spanish-pm-pedro-s%C3%A1nchez-s-plane-makes-emergency-landing-in-turkey"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Amsterdam Bans Public Advertising of Meat and Fossil Fuels",
+        "summary": "Amsterdam's municipal authorities implemented restrictions on outdoor advertising for meat products and fossil fuels, aligning advertising regulations with the city's environmental sustainability goals. The ban reflects growing momentum among European cities to leverage municipal power to influence consumer behavior and corporate marketing practices around climate-sensitive products. The move positions Amsterdam at the forefront of European climate action beyond traditional regulatory mechanisms. Local officials view the advertising restriction as part of a broader strategy to support the city's sustainability objectives and reduce the promotional visibility of high-emission industries.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c9wejdekpwyo"
+          }
+        ],
+        "tags": [
+          "climate",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "NATO Holds Secretive Consultations with European Film and Television Industry",
+        "summary": "NATO conducted three private meetings with television and film industry professionals across Europe and the United States, prompting accusations of propaganda efforts from critics. The military alliance convened closed-door consultations with directors, producers, and screenwriters in Los Angeles, Brussels, and Paris, with plans for additional meetings with the Writers' Guild of Great Britain in London. The initiative has drawn criticism from those who view it as an attempt to leverage the arts for strategic messaging and narrative control. The meetings reflect NATO's efforts to coordinate messaging with cultural influencers during a period of heightened security concerns in Europe.",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://eu.news-pravda.com/world/2026/05/03/192465.html"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Alcoholism Epidemic Spreads Across Europe, Claiming Hundreds of Thousands of Lives",
+        "summary": "Alcoholism continues to cause hundreds of thousands of deaths annually across Europe, with liver diseases spreading in what health experts describe as a 'silent epidemic.' The crisis represents a major public health challenge across the continent, affecting multiple countries and populations. Alcohol-related diseases are creating significant burden on European healthcare systems and contributing to preventable mortality. The ongoing health crisis requires coordinated public health responses and awareness campaigns across European nations to address underlying factors driving increased alcohol consumption and associated health consequences.",
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://latvia.news-pravda.com/en/world/2026/05/03/34176.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Chocolate Industry Faces Scrutiny Over Child Labour and Supply Chain Ethics",
+        "summary": "The chocolate industry confronts ongoing challenges related to child labour exploitation, worker conditions, and environmental degradation in supply chains, with major producers like Tony's Chocolonely pushing for industry-wide collaboration on ethical sourcing. Industry leaders advocate for competing retailers while collaborating across supply chains to address systemic problems affecting cocoa-producing regions. The push for transparency and ethical practices reflects growing consumer awareness and regulatory pressure across Europe regarding corporate responsibility in global supply chains. Efforts to establish better practices highlight the tensions between commercial competitiveness and sustainability commitments in the food sector.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/05/04/child-labour-exploitation-and-deforestation-is-this-the-true-taste-of-chocolate"
+          }
+        ],
+        "tags": [
+          "trade",
+          "regulation",
+          "governance"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-04T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump launches 'Project Freedom' to escort ships through Strait of Hormuz amid Iran tensions",
+        "summary": "President Trump announced a U.S. naval operation to escort stranded merchant ships through the Strait of Hormuz after two tankers were attacked in the disputed waterway. The initiative, dubbed 'Project Freedom,' began on May 4 amid escalating tensions between the U.S. and Iran following recent military conflicts. Iran has protested the operation, claiming it violates an existing ceasefire agreement and warning of consequences. Oil markets remained relatively flat despite the announcement, with Brent crude largely unmoved by Trump's plan. The operation represents a significant U.S. military commitment to securing global maritime commerce in one of the world's most strategically important shipping channels.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVRJTjB4dzJvQ2luQWJRdHZHOURiZDdYZ3pLTnFHVXEzc3ZpTFd5bHV6VzhkaGpOUTNEOVNKZ1VveWNZWk9YY0l5OXpQb195YXZqUFl4RnoxUnFCTS1hYzg1akFjWERzZDNwWmhLMHpPZFk2V0V1OTFXRDdoX3VTWE1jU1prSGZQcDY3SlJjeGdzUHp3cjBEUXM0Y0VWZWFPamduNFcxVTlmSDdaSzlWLTlsMnR6SnZaWGtPTEdCSmR3OUJZSXlv?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cn0px2x53k2o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Hantavirus outbreak on Atlantic cruise ship kills three, WHO confirms",
+        "summary": "Three passengers have died and several others have been hospitalized following a suspected hantavirus outbreak aboard a cruise ship in the Atlantic Ocean. The World Health Organization confirmed at least one case of hantavirus, with five additional suspected cases among the ship's passengers. Hantavirus, transmitted through contact with infected rodents or their droppings, can cause severe respiratory infections and has a mortality rate of up to 38 percent in some cases. The incident has raised concerns about infectious disease containment on large passenger vessels and public health protocols in maritime settings. Authorities are investigating the source of the contamination and tracing potential exposure among crew and other passengers.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cy0294829ndo"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "U.S. announces withdrawal of 5,000 troops from Germany, raising NATO concerns",
+        "summary": "The Pentagon announced plans to withdraw 5,000 U.S. service members from Germany, prompting concerns among European allies about American commitment to NATO defense. The withdrawal coincides with broader defense spending discussions and represents a significant reduction in the U.S. military presence in Europe. German Chancellor Merz sought to downplay rifts with Washington despite the announcement, though U.S. Republicans have expressed support for the reduction. The move reflects evolving U.S. defense priorities and raises questions about burden-sharing within the NATO alliance at a time of heightened European security concerns. Military analysts warn that the withdrawal could signal shifting U.S. strategic focus away from European deterrence.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUt1QWV0ZmVhYXp1cFJISFA3dkVyNlFidmZRRVJSTG9QUFRXRm54Z0xaLUtyTTE5STlHdzZSRkJtQ2s0OUZYamdoWU9iaHlEbHdGUjh1dE9pVUhkZEpweXVUMDdMczFOUmQ2N0N6bDVCOEFKSlFpb09TUlZMa01yZUNkOWh5WEdyX0tlWEJlQWktaXY2V3hlaG45c21BN3RzTzA3TENmQy1ob0VVVUA"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Ukraine strikes Russian 'shadow fleet' oil tankers while strengthened by Iran war lessons",
+        "summary": "Ukrainian forces have conducted drone attacks on Russian vessels operating as part of the 'shadow fleet,' vessels used to evade international sanctions on Russian oil exports. The attacks represent Kyiv's broader strategy to disrupt Russia's energy revenue and demonstrate military capabilities. President Zelensky recently visited the Persian Gulf region to showcase Ukraine's military strength and build international support amid ongoing conflict with Russia. Russian strikes have also continued, with reported strikes killing at least 10 Ukrainian personnel in recent days. The conflict continues to evolve with both sides employing increasingly sophisticated tactics, including maritime economic warfare and asymmetric drone operations.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/clyp41v1n1go"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Taiwan president completes Eswatini visit after China blocks overflight clearance",
+        "summary": "Taiwan's President completed a diplomatic visit to Eswatini (formerly Swaziland) after overcoming Chinese attempts to obstruct the journey by blocking overflight clearance for the presidential aircraft. China had criticized the visit as a 'stowaway-style escape farce,' reflecting escalating diplomatic tensions over Taiwan's international engagement. The successful visit underscores Taiwan's continued efforts to maintain diplomatic relationships despite Beijing's pressure and interference. Eswatini is one of a small number of nations that maintains formal diplomatic relations with Taiwan rather than the People's Republic of China. The incident highlights the ongoing geopolitical competition between Beijing and Taipei for international recognition and support.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGg2blFTWHBqNGZITFB0NVVUYkdLTGhQWXlacjNabmdFdFptQm5uVlN1ajFOQ2RxYl9xS01TNjJhWThZbXRMTXhuRGd3Z29kR1JrU0RTVFptTEI3cjlVcDFXclFiNVlIMW13VUZGbnhTblRSU0ZKM0ZWcmNwVVVvaWtIekdJQnJOeEpaNXp3"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c809ln029ldo"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Kenya battles devastating floods and landslides, death toll reaches 18",
+        "summary": "Kenya is grappling with a severe humanitarian crisis as ongoing heavy rains have triggered widespread flooding and landslides across the East African nation. At least 18 people have died, with many more missing or displaced from their homes and communities. The disaster has affected multiple regions, causing infrastructure damage, displacement of thousands, and immediate threats to food security and public health. Emergency services have launched rescue operations, including efforts to recover remains from flood-affected areas. Climate experts link the extreme weather patterns to broader regional climate variations, raising concerns about the vulnerability of East African communities to climate-related disasters and the need for improved disaster preparedness and resilience infrastructure.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/3/floods-and-landslides-kill-at-least-18-in-kenya"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Iran jails Nobel laureate Nargol Talebi; family fears critical health deterioration",
+        "summary": "Concerns are mounting for imprisoned Iranian Nobel Peace Prize laureate Nargol Talebi, 54, after her family reports she has been transferred to a hospital following apparent health deterioration while in custody. The transfer raises serious questions about the conditions of her incarceration and Iran's treatment of political prisoners and human rights defenders. Talebi's imprisonment is part of Iran's broader crackdown on civil society activists and critics of the government. International human rights organizations have called for her immediate release, citing her humanitarian work and the arbitrary nature of her detention. The situation highlights the ongoing tensions between Iran's government and international human rights advocates over the treatment of activists and prisoners.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c362pd8epw9o"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Nigeria summons South African envoy over violent attacks against Nigerian migrants",
+        "summary": "Nigeria has summoned South Africa's diplomatic envoy to protest escalating violence against Nigerian nationals during anti-migrant riots in South African cities. The clashes have turned violent as locals attack foreign workers and businesses, fueling tension between the two regional powers. Anti-migrant sentiment in South Africa has been rising amid unemployment and economic hardship, with xenophobic violence targeting foreign nationals from across Africa. Nigeria's diplomatic protest underscores the serious regional implications of the unrest and demands for protection of its citizens. The incidents reflect broader challenges in southern Africa regarding economic inequality, unemployment, and integration of migrant populations, while raising concerns about stability in the region.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c78q6e98878o"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      }
+    ]
+  }
+}

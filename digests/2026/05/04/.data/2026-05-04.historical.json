@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Trump launches 'Project Freedom' to escort ships through Strait of Hormuz amid Iran tensions",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "The Tanker War and 1973 Oil Crisis",
+      "date_range": "1973–1988",
+      "summary": "During the Tanker War of 1984–1988, both Iran and Iraq attacked hundreds of neutral oil tankers in the Persian Gulf, prompting the United States to launch Operation Earnest Will in 1987 — the largest naval convoy operation since World War II — re-flagging Kuwaiti tankers and deploying warships to protect them. That intervention, like Project Freedom today, was framed as defending freedom of navigation and protecting the global oil supply from a regional power's coercive reach. A decade earlier, the Arab Oil Embargo of 1973 demonstrated with brutal clarity how disruption to Middle Eastern energy exports could cascade into recession across the industrialised world, sending oil prices up 300 percent and triggering fuel shortages from Dublin to Detroit. In both 1973 and the 1980s Tanker War, Western governments simultaneously sought military deterrence and economic insulation. Operation Eagle Claw in 1980 — the disastrous U.S. hostage rescue attempt — illustrated how Iranian brinkmanship can bait American overreach, a cautionary precedent as Washington commits naval assets to contested waters once again.",
+      "parallel_analysis": "Project Freedom directly mirrors Operation Earnest Will: a U.S. administration deploying naval assets to the Strait of Hormuz under the banner of protecting commercial shipping, while Tehran protests that the intervention violates agreed terms. The 1973 oil crisis adds a further layer — European finance ministers coordinating economic responses to Gulf disruptions today are performing a role their predecessors rehearsed fifty years ago. The historical record suggests that American naval presence in the Strait has consistently stabilised shipping lanes in the short term while entrenching the conditions for future escalation.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "European and Canadian Leaders Converge on Armenia for Major Summit",
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Marshall Plan and Post-War European Collective Action",
+      "date_range": "1948–1952",
+      "summary": "The Marshall Plan of 1948–1952 demonstrated that a shared external threat could override national reluctance and bring even former adversaries to the same table, with exhausted European nations pooling sovereignty and coordinating policy on an unprecedented scale. The EPC summit in Yerevan echoes that logic: just as European states in the late 1940s accepted American economic conditionality in exchange for collective protection, today's leaders are weaving together security commitments — including the UK's new willingness to rejoin EU funding structures — driven by the shared fear of Russian revanchism and U.S. strategic retrenchment. The Lend-Lease precedent is equally relevant: Britain's willingness to enter the €78 billion Ukraine financing scheme resembles the earlier dynamic in which outside powers initially hesitant about formal entanglement gradually accepted that their security interests were inextricably linked to the continent's stability. The Korean War stalemate of the early 1950s further reinforced that multilateral coalitions outperformed unilateral action in sustaining long conflicts against determined adversaries.",
+      "parallel_analysis": "The Yerevan summit's composition — nearly 50 leaders including Canada — mirrors the post-war coalition-building impulse of the late 1940s, when the spectre of Soviet expansion and American fatigue pushed European states toward integration they would otherwise have resisted. The UK's announced participation in the EU Ukraine fund represents a particularly striking parallel to the Lend-Lease dynamic: a power that had stood apart from a continental entanglement now accepting that its own security requires financial and political investment in the struggle.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease",
+        "https://en.wikipedia.org/wiki/Korean_War"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "U.S. announces withdrawal of 5,000 troops from Germany, raising NATO concerns",
+      "story_topic": "NATO alliance internal tensions",
+      "historical_event": "Post-Cold War USAREUR Drawdown",
+      "date_range": "1990–2013",
+      "summary": "At its Cold War peak in June 1962, the U.S. Army Europe command maintained 277,342 soldiers in West Germany, anchoring NATO's Central Front against a potential Warsaw Pact offensive. When the Soviet threat dissolved between 1989 and 1991, the drawdown was swift and sweeping: USAREUR shrank from 213,000 soldiers in 1990 to 122,000 in 1992, closing hundreds of bases and returning tens of thousands of families to the United States within months. By 2013 the force had been reduced further to around 30,000 soldiers in two brigade combat teams, and in April 2013 the last U.S. Army main battle tanks left Europe. Each round of reductions was accompanied by reassurances that the alliance remained robust and that European partners would compensate with their own capability investments. The debate is not new: as far back as 1971, Senator Mike Mansfield repeatedly introduced amendments calling for the U.S. to halve its European troop presence, arguing that prosperous allies should bear a greater share of their own defence — the same arguments Trump-era Republicans are advancing today.",
+      "parallel_analysis": "The announcement of 5,000 fewer U.S. troops in Germany is a fraction of the post-Cold War drawdowns, but it carries outsized symbolic weight because it arrives during active conflict in Europe rather than a period of perceived strategic tranquillity. The historical pattern is consistent: American troop reductions in Germany have repeatedly proved reversible when the security environment deteriorated — as happened with the 2022 reinforcements following Russia's full-scale invasion — but the political window for European self-reliance created by each departure has rarely been fully exploited before American forces returned. The Mansfield Amendment precedent shows that congressional pressure to reduce the European troop presence is a perennial feature of U.S. domestic politics, not a uniquely Trumpian innovation.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/United_States_Army_Europe_and_Africa"
+      ]
+    }
+  ]
+}

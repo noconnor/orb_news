@@ -1,0 +1,37 @@
+[
+  {
+    "name": "RT\u00c9 News",
+    "id": "rte",
+    "feed_url": "https://www.rte.ie/rss/news.xml",
+    "type": "rss",
+    "notes": "National broadcaster"
+  },
+  {
+    "name": "The Journal.ie",
+    "id": "thejournal",
+    "feed_url": "https://www.thejournal.ie/feed/",
+    "type": "rss",
+    "notes": "Local/social stories"
+  },
+  {
+    "name": "Irish Times",
+    "id": "irishtimes",
+    "feed_url": "https://www.irishtimes.com/cmlink/news-1.1319192",
+    "type": "rss",
+    "notes": "Quality broadsheet"
+  },
+  {
+    "name": "Irish Examiner",
+    "id": "irishexaminer",
+    "feed_url": "https://www.irishexaminer.com/feed/35-top_news.xml",
+    "type": "atom",
+    "notes": "Munster/regional coverage"
+  },
+  {
+    "name": "BreakingNews.ie",
+    "id": "breakingnews",
+    "feed_url": "https://feeds.breakingnews.ie/bntopstories",
+    "type": "rss",
+    "notes": "Wire-style headlines (may be blocked by WebFetch \u2014 use WebSearch fallback)"
+  }
+]
