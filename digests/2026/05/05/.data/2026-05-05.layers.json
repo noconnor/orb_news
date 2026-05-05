@@ -1,0 +1,409 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-05T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Two Irish passengers among those infected in hantavirus cruise ship outbreak",
+        "summary": "A luxury cruise ship held off West Africa has been struck by a hantavirus outbreak, with the World Health Organization confirming seven cases among passengers carrying primarily British, American, and Spanish nationals. Two Irish passengers are among those affected by the virus, a potentially serious hemorrhagic fever. A 69-year-old British man is being treated in intensive care as health authorities manage the outbreak. The incident highlights concerns about disease transmission on large cruise vessels and international health response coordination. Hantavirus infections can be severe, and the containment of this outbreak remains a priority for maritime and public health authorities.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/world/2026/0505/1571719-cruise-ship-virus/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/hantavirus-outbreak-dead-cruise-ship-7030680-May2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41839320.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "crime",
+          "international"
+        ]
+      },
+      {
+        "headline": "Garda\u00ed grapple with worrying surge in money-laundering crime across Ireland",
+        "summary": "Irish garda\u00ed are facing a significant increase in money-laundering offences, with investigators warning that detected crimes likely represent only a fraction of the true level of illicit financial activity. Law enforcement officials have urged officers to prioritize following money trails as a core investigative strategy. The surge in cases reflects broader challenges in combating sophisticated financial crimes and organised criminal networks. Authorities acknowledge the difficulty in detecting and prosecuting money-laundering schemes as criminals employ increasingly complex methods to conceal illicit proceeds. The trend underscores the need for enhanced coordination between financial institutions, law enforcement, and international partners to combat this growing crime category.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/05/05/gardai-grapple-with-worrying-surge-in-money-laundering-crime/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Taoiseach Miche\u00e1l Martin calls for serious consideration of nuclear power for Ireland's energy future",
+        "summary": "At a European summit in Armenia, Taoiseach Miche\u00e1l Martin stated that Ireland should \"consider seriously\" the nuclear power option as the State explores all available avenues for energy security. Martin's comments come amid broader European discussions on energy policy and security at the summit where he is meeting with fellow EU leaders. The government has indicated a willingness to examine nuclear as part of Ireland's energy transition away from fossil fuels. This represents a notable shift in Irish energy policy discourse, as nuclear power has been historically contentious in the country. The position aligns with European-level energy policy discussions aimed at achieving climate targets while ensuring energy security.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/taoiseach-nuclear-power-energy-ireland-7030692-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Ex-TD Marc MacSharry to continue lobbying for Beldare as company CEO faces jail threat for assault",
+        "summary": "Former TD Marc MacSharry is continuing his lobbying efforts on behalf of Beldare through his consulting firm Pontis Advisory, even as the company's CEO faces potential jail time over an assault conviction. Beldare was among the first clients MacSharry took on when establishing his new consulting venture, highlighting potential conflicts of interest in post-political lobbying. The situation raises questions about the appropriateness of political figures engaging corporate clients facing serious criminal charges. MacSharry's continued involvement signals Beldare's efforts to maintain political influence despite leadership turmoil. This case exemplifies broader concerns about the revolving door between politics and corporate lobbying in Ireland.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/05/ex-td-marc-macsharry-to-continue-lobbying-for-beldare-as-ceo-faces-jail-for-assault/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "crime",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Ireland's furniture fire safety regulations face potential repeal over toxic chemical concerns",
+        "summary": "Ireland's strict furniture fire safety laws, which have been an outlier in the EU regulatory landscape, may be scrapped due to concerns over toxic chemical exposure from flame retardants used to meet the standards. Furniture retailers including Ikea have called for rapid changes to the regulations, arguing the current rules create health and environmental risks. The regulations require specific fire performance standards that other EU countries do not impose, making Ireland's market distinct. Consumer safety advocates and industry groups have raised concerns about whether the current standards are worth the chemical exposure costs they generate. The government is examining whether to revise or abandon the regulations as part of broader product safety review.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/ireland-furniture-fire-safety-7025099-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "health",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Parents devastated by proposed Special Needs Assistant cuts in Irish schools",
+        "summary": "Parents of children requiring educational support have expressed significant concern over proposed cuts to Special Needs Assistant (SNA) positions in Irish schools, highlighting family worries about their children's educational needs and wellbeing. Letters from affected families detail the potential negative impact of reducing support staff who work directly with vulnerable students. The proposed cuts have triggered widespread opposition before the government's anticipated U-turn on the controversial review of the SNA programme. Education advocates argue that reducing SNAs contradicts the State's commitment to inclusive education and special needs support. The emotional testimony from parents underscores the critical role SNAs play in enabling children with special needs to access mainstream education.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/05/05/it-makes-no-sense-parents-devastated-by-proposed-sna-cuts-in-schools/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "health",
+          "social"
+        ]
+      },
+      {
+        "headline": "Ryanair emissions continue to rise while other Irish carbon polluters show reductions",
+        "summary": "Ryanair's greenhouse gas emissions have increased again despite the airline sector's broader push toward sustainability, as the carrier's rapid growth in passenger numbers outpaces emission reductions achieved per passenger. Environmental data shows that Ryanair's expansion strategy is driving overall emissions upward, diverging from emissions reductions achieved by other major Irish carbon polluters in sectors like energy and manufacturing. The airline's growth-first approach has implications for Ireland's climate commitments and carbon reduction targets. Ryanair's emission trends contrast with improving environmental performance across other large Irish industrial and energy companies. The company's expansion plans suggest emissions will continue rising unless the airline adopts more aggressive sustainability measures or faces regulatory pressure to reduce its carbon footprint.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/environment/2026/05/05/ryanair-emissions-rise-again-as-other-large-irish-carbon-polluters-show-reductions/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate",
+          "transport"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-05T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Two killed in car-ramming attack in eastern German city of Leipzig",
+        "summary": "A car drove into crowds in a pedestrian shopping area in Leipzig, Germany on May 4, killing two people and injuring at least 20 others in what authorities described as a suspected rampage attack. The driver, identified as a 33-year-old German citizen, was detained by police, who described him as \"psychologically conspicuous.\" The incident occurred on Grimmaische Strasse, which leads into central Leipzig's shopping district, and officials indicated they are still investigating the motivation behind the attack. Germany has experienced several car-ramming incidents in recent years, most notably the December 2024 Christmas market attack in Magdeburg that killed at least six people. The Leipzig incident underscores ongoing security concerns across Europe related to vehicle-based attacks.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/live-news/20260504-two-dead-after-car-ploughs-into-people-in-germany-s-leipzig-mayor"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/05/04/at-least-two-killed-after-car-drives-into-people-on-street-in-german-city-of-leipzig"
+          }
+        ],
+        "tags": [
+          "security",
+          "europe",
+          "germany"
+        ]
+      },
+      {
+        "headline": "Austria expels three Russian diplomats over signals espionage operations",
+        "summary": "Austria expelled three Russian Embassy staff members on May 4 over suspected signals intelligence operations targeting international organizations based in Vienna. Austrian authorities linked the expulsions to satellite dish installations on the Russian diplomatic compound's roof that they believe were used to intercept and transmit data via satellite internet from UN agencies, including the International Atomic Energy Agency, OPEC, and the OSCE. The Russian ambassador had been summoned in April to discuss the activities, and Russia refused to waive diplomatic immunity for the suspects when asked to do so by Austrian prosecutors. Austrian Foreign Minister Beate Meinl-Reisinger stated that using diplomatic immunity to commit espionage is unacceptable. The Russian Embassy condemned the expulsions as \"outrageous\" and \"politically motivated,\" threatening a harsh retaliatory response. This brings the total number of Russian diplomats Austria has expelled since 2020 to 14.",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-04/array-of-spy-antennas-prompts-austria-to-expel-russian-envoys"
+          },
+          {
+            "name": "ABC News",
+            "url": "https://abcnews.com/International/wireStory/austria-expels-3-russian-embassy-staff-suspected-antenna-132629706"
+          },
+          {
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com/news/world/europe/article/3352390/austria-expels-3-russian-diplomats-over-signals-spying"
+          }
+        ],
+        "tags": [
+          "EU",
+          "defence",
+          "espionage"
+        ]
+      },
+      {
+        "headline": "UK Prime Minister Starmer convenes antisemitism summit following attacks",
+        "summary": "British Prime Minister Keir Starmer hosted a Downing Street summit on May 5 bringing together leaders from across society to address antisemitism following a series of violent attacks on Jewish communities. The summit included roundtable meetings with participants from business, civil society, health, culture, higher education, and policing sectors, where attendees discussed how their sectors can strengthen efforts to combat antisemitism. The government's response follows recent incidents including a serious stabbing attack in London and arson attacks at Jewish memorials, prompting the national terrorism threat level to be raised to \"severe.\" The UK committed an additional 25 million pounds in funding to protect the country's estimated 290,000-strong Jewish community. The government also announced plans to introduce new antisemitism laws to strengthen national protection against what it describes as imminent threats.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/czd2l55d1e7o"
+          },
+          {
+            "name": "Haaretz",
+            "url": "https://www.haaretz.com/jewish/2026-05-05/ty-article/british-pm-starmer-to-host-downing-street-summit-to-address-antisemitism/0000019d-f5a4-df01-a3dd-f7ad909a0000"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-04/starmer-tells-uk-leaders-all-of-society-must-fight-antisemitism"
+          }
+        ],
+        "tags": [
+          "governance",
+          "security",
+          "UK"
+        ]
+      },
+      {
+        "headline": "European leaders gather in Armenia for major political summit with Zelensky",
+        "summary": "The European Political Community summit convened in Yerevan, Armenia on May 4 with Ukrainian President Volodymyr Zelensky attending his first presidential visit to Armenia in 24 years. The gathering brought together major European leaders including UK Prime Minister Keir Starmer and EU Foreign Policy Chief Ursula von der Leyen, along with prime ministers from Norway, Finland, and the Czech Republic. During bilateral meetings, Starmer and von der Leyen discussed UK participation in a 90-billion-euro EU loan package for Ukraine, with both agreeing that UK involvement would represent a significant advancement in the EU-UK defense industrial relationship. The summit highlighted Europe's solidarity with Ukraine amid ongoing Russian military operations and represented a rare diplomatic engagement for Zelensky beyond Ukraine's borders. The gathering underscored the importance of European unity and mutual defense cooperation in the current geopolitical climate.",
+        "sources": [
+          {
+            "name": "Kyiv Independent",
+            "url": "https://kyivindependent.com/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia"
+          }
+        ],
+        "tags": [
+          "EU",
+          "diplomacy",
+          "Ukraine"
+        ]
+      },
+      {
+        "headline": "British pubs close at accelerated rate amid cost pressures and tax increases",
+        "summary": "British pubs are closing at a rate of nearly two per day in 2026, according to the British Beer and Pub Association, with 161 closures recorded in the first three months of the year equating to around 2,400 lost jobs\u2014a 26% increase compared to the same period last year. The accelerating closure rate reflects mounting pressure from increased labor costs, rising business rates, and changing consumer habits, with rateable values in England and Wales set to increase by 30 percent on average. While the government introduced a 15% tax relief for pubs and music venues, industry leaders argue the relief falls short of addressing what they describe as a \"disproportionate tax burden\" that is wiping out pub profits despite strong customer demand. This represents a continuation of a broader trend, with 336 pubs closing in 2025 and over 2,000 pubs having shuttered since the coronavirus pandemic began in 2020. The closures highlight economic challenges facing the UK hospitality sector.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c9d355nw7jzo"
+          },
+          {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/economy/policy/articles/british-pubs-closing-rate-almost-015544903.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "UK",
+          "business"
+        ]
+      },
+      {
+        "headline": "Germany cuts 2026 economic growth forecast by half due to regional conflict impact",
+        "summary": "Germany officially halved its 2026 economic growth forecast to 0.5%, down from an initial projection of 1%, citing the impact of the Iran war and resulting energy price spikes. The revised outlook for 2027 was also lowered to 0.9% from 1.3%, reflecting ongoing economic headwinds. Germany's energy vulnerability has been exposed as crude oil prices spiked nearly 73% year-to-date, with the country relying on about 6% of its energy imports from the Middle East. Energy-intensive industries, which employ nearly 1 million workers and account for about 17% of industrial gross value added, face significant challenges from elevated energy costs. In response, Germany's coalition government agreed to a two-month tax relief on petrol and diesel worth approximately 1.6 billion euros. The Ifo Institute's business climate index dropped to 84.4 in April, its lowest level since May 2020, signaling weakening business confidence across Europe's largest economy.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/business/2026/04/22/germany-halves-gdp-forecast-from-1-to-05-due-to-iran-war-fallout"
+          },
+          {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/04/24/germany-iran-defense-war-energy-oil-price-shock-industry-fiscal-stimulus-middle-east-europe-inflation-growth.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "germany"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-05T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Iran escalates regional tensions with attacks on UAE as US mobilizes to protect Strait of Hormuz shipping",
+        "summary": "Iran launched military attacks on UAE oil facilities, prompting swift US military intervention to escort commercial vessels through the critical Strait of Hormuz waterway. The escalation marks a dangerous shift in regional geopolitical tensions, with the Trump administration working to reopen shipping lanes and maintain energy supply stability. South Korea announced plans to investigate a ship fire in the Strait, and multiple international leaders condemned the Iranian strikes. The incident has pushed ceasefire prospects to the brink as shipping companies and oil markets react to the heightened security risk. The confrontation threatens global energy supplies and raises concerns about broader Middle Eastern destabilization.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWNFbjJxYWppRk8zN2pzWlM4c0FsTGV6V2VXR1A1RksyYmlTMktEMXgxZ3lGZ1hRMU1nYmZJQ3UyRkJfWi0yZGZZUk4tUUpDRTRDeUp1Q0hyQ2xLVDIxVVh4SGJsY2hDNkpZeTZjb1RSOWpDNHd1VGZKeTNBVS05U2xsdmxqWVpWNVcxZ1lZX2RFZlVhbGZjbFZfQmNkVnFnSGNSMFlpNmtOTUswVXdueC1hT3ZiZE5sZHdMamZHaVJIZw"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXUxRXhtVUx6WExNYkQ1QmxKMlI0S1I4bElVWF9JQTFUUGNGU1B6M0VreHFUN2MwZDNId1NiS3NGRTdqMjNUd3IzLUtCbWV3bXBrRVhQS2c1RGxYN1gwT1dxbmpLS0tJTTc5S0lUbFg3WjJ2LUdBV0djXzNzYVpOSGRycU5OZVVFaTVWV09YcER0YmpTTHB6ems1ZVRuSll4cWw0?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Oil prices surge amid Middle East tensions as traders react to Strait of Hormuz disruptions",
+        "summary": "Brent crude oil prices rose nearly 6 percent following the Iranian attacks on UAE and subsequent US military operations in the Strait of Hormuz, one of the world's most critical energy chokepoints. Market volatility reflects investor concerns about potential long-term supply disruptions and geopolitical instability in the region. Financial markets responded with broader uncertainty, as equities declined on rising energy costs and reduced growth expectations. The price surge underscores the global dependency on Middle Eastern oil and the economic consequences of regional military escalation. Energy analysts warn that prolonged tensions could trigger a broader economic slowdown if shipping routes remain unstable.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTZ0LVpvcnZ5S20wVGpXU1gtNzhQV2tSTXNvLTA4VDYySHRpM250TVI4cjVycEtZRUdXM2pIVDNIYWFIejl0V0diVGx0Ylp1WFFCWVVpWHdHcHFMOVotSk81TjhUMnJCS0NJOFBzTVB4T0x4Y251dFRtUUEzdTRtX2xxZw"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Explosion at Chinese fireworks plant kills at least 21 people with dozens injured",
+        "summary": "A major explosion at a fireworks manufacturing facility in central China claimed at least 21 lives and injured 61 others, highlighting ongoing industrial safety challenges in the country's manufacturing sector. Emergency responders worked to secure the affected site and provide medical care for the injured. The incident raises questions about workplace safety standards and regulatory oversight in China's chemical and explosives industries. Factory explosions have recurred periodically across China, often linked to inadequate safety protocols or equipment failures. This incident reflects broader concerns about industrial accident prevention in developing manufacturing hubs.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Vehicle plows into pedestrians in Leipzig, Germany, killing two and injuring multiple people",
+        "summary": "A 33-year-old German citizen drove a vehicle into a crowd in a shopping area in Leipzig, Germany, killing two people and injuring numerous others. Authorities quickly detained the suspect and launched an investigation into the motivations behind the attack. The incident echoes previous vehicular attacks across Europe and raises security concerns in public gathering spaces. Investigators are examining whether the attack was politically or ideologically motivated, or driven by personal circumstances. The tragedy highlights ongoing vulnerability of crowded public areas to vehicle-based violence.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNDYjNLRFZNNWtEaS1WdHZUZGdwcFhvb3EwVU5DNEJBXy1RMzJJc0FKSlpXT281ZzhnSUpYVERZemctc1dwYmhubDc0WTY1SU81YXA0NFRlOXQ1ZG15XzYwU3FNcmtOUV8wNGNhNENCOWw2OWg2bUFva2RmUWgyWmw0dk1QNUdGdE41dm5OdnpyVFFiNDRFRmlR?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "security"
+        ]
+      },
+      {
+        "headline": "Report reveals 2022 China Eastern Airlines crash was caused by deliberate fuel cut-off",
+        "summary": "A comprehensive investigation report determined that a Boeing 737 crash in China in 2022, which killed all 132 people aboard, was caused by a deliberate fuel cut-off rather than mechanical failure or pilot error. The findings came four years after the aircraft plunged into a hillside in Guangxi province, marking one of the deadliest aviation incidents in recent years. The investigation's conclusions raise troubling questions about potential human intervention in the cockpit during the flight. The report was released to provide closure to families and inform future aviation safety protocols. The incident remains one of the most mysterious aviation disasters of the past decade.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Apple explores manufacturing partnerships with Intel and Samsung to expand US-based chip production",
+        "summary": "Apple is in discussions with Intel and Samsung to establish manufacturing capabilities for its main device processors within the United States, a strategic shift aimed at reducing supply chain dependencies and strengthening domestic semiconductor production. The move reflects broader efforts by US technology companies to diversify manufacturing away from Asia amid geopolitical tensions and supply chain vulnerabilities exposed by recent global disruptions. A domestically-based chip production capability would enhance Apple's operational resilience while supporting the US government's objectives for technology self-sufficiency. This development signals growing investment in American semiconductor manufacturing capacity and reflects competitive pressures in the global tech industry. Success would position the US as a more significant player in advanced processor manufacturing.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDZvaGVDUlk4YkJaSDJVVDNsaVBFYnZPaWZDZFZmMVpSc2ZGc0M3emFIS09jQk1OcUxJckVYQjJCekY3cTNOdDRYdG1LRFRVbFVPU2l5LXk2RTBxTjBZVEIxSEFqcHhzWkh2WGRhOXJGZkNEYlJieUpQOVZ1aGhFVlkyQTMyMUxRZ0Z0ZnVCQTRWNjhSdnRMd2I5YWRzdGJLN05XN09jQlhEX3ZQZllXcG05VGFCdDNnNjJObFJR"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "2026 Pulitzer Prize awards recognize excellence in journalism including global investigations",
+        "summary": "The 2026 Pulitzer Prize recipients were announced, with the Associated Press honored for a significant global investigation into government surveillance programs across multiple countries. The awards recognize outstanding journalism across numerous categories, from investigative reporting to breaking news coverage. The AP's recognition of international surveillance investigation underscores the importance of cross-border investigative journalism in exposing government overreach and protecting press freedom. Multiple news organizations were honored for their work on critical stories throughout the year. The Pulitzer Prizes remain one of the journalism industry's most prestigious recognition programs, highlighting quality reporting on matters of international significance.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkh3TE50cHc2cEFuT1QtNkQzdkFYT2NaMW4tc1N6MldOMVJVWlV5WU95OEtVR2dPa2hUUC15U3JYdVgxV3dUVXBuRTlVUHR2YWg0ZFZjbXRMeTFKeHpQLUhTYXNXOFBTc2k2NVYwYlc5X1ZVOXBUa0NMWFZyX0xOazkwd0tSTkZVUklISHJad01lckVtS2ctaXYtMkJNaWI5NzI1N1I2V04?oc=5"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/04/nx-s1-5803483/pulitzer-prize-winners-2026"
+          }
+        ],
+        "tags": [
+          "technology",
+          "diplomacy"
+        ]
+      }
+    ]
+  }
+}

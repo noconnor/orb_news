@@ -1,0 +1,98 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-05T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Two Irish passengers among those infected in hantavirus cruise ship outbreak",
+      "summary": "A luxury cruise ship held off West Africa has been struck by a hantavirus outbreak, with the World Health Organization confirming seven cases among passengers carrying primarily British, American, and Spanish nationals. Two Irish passengers are among those affected by the virus, a potentially serious hemorrhagic fever. A 69-year-old British man is being treated in intensive care as health authorities manage the outbreak. The incident highlights concerns about disease transmission on large cruise vessels and international health response coordination. Hantavirus infections can be severe, and the containment of this outbreak remains a priority for maritime and public health authorities.",
+      "sources": [
+        {
+          "name": "RTE News",
+          "url": "https://www.rte.ie/news/world/2026/0505/1571719-cruise-ship-virus/"
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/hantavirus-outbreak-dead-cruise-ship-7030680-May2026/"
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/munster/arid-41839320.html"
+        }
+      ],
+      "tags": ["health", "crime", "international"]
+    },
+    {
+      "headline": "Gardaí grapple with worrying surge in money-laundering crime across Ireland",
+      "summary": "Irish gardaí are facing a significant increase in money-laundering offences, with investigators warning that detected crimes likely represent only a fraction of the true level of illicit financial activity. Law enforcement officials have urged officers to prioritize following money trails as a core investigative strategy. The surge in cases reflects broader challenges in combating sophisticated financial crimes and organised criminal networks. Authorities acknowledge the difficulty in detecting and prosecuting money-laundering schemes as criminals employ increasingly complex methods to conceal illicit proceeds. The trend underscores the need for enhanced coordination between financial institutions, law enforcement, and international partners to combat this growing crime category.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/05/05/gardai-grapple-with-worrying-surge-in-money-laundering-crime/"
+        }
+      ],
+      "tags": ["crime", "economy", "politics"]
+    },
+    {
+      "headline": "Taoiseach Micheál Martin calls for serious consideration of nuclear power for Ireland's energy future",
+      "summary": "At a European summit in Armenia, Taoiseach Micheál Martin stated that Ireland should \"consider seriously\" the nuclear power option as the State explores all available avenues for energy security. Martin's comments come amid broader European discussions on energy policy and security at the summit where he is meeting with fellow EU leaders. The government has indicated a willingness to examine nuclear as part of Ireland's energy transition away from fossil fuels. This represents a notable shift in Irish energy policy discourse, as nuclear power has been historically contentious in the country. The position aligns with European-level energy policy discussions aimed at achieving climate targets while ensuring energy security.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/taoiseach-nuclear-power-energy-ireland-7030692-May2026/"
+        }
+      ],
+      "tags": ["politics", "economy", "defence"]
+    },
+    {
+      "headline": "Ex-TD Marc MacSharry to continue lobbying for Beldare as company CEO faces jail threat for assault",
+      "summary": "Former TD Marc MacSharry is continuing his lobbying efforts on behalf of Beldare through his consulting firm Pontis Advisory, even as the company's CEO faces potential jail time over an assault conviction. Beldare was among the first clients MacSharry took on when establishing his new consulting venture, highlighting potential conflicts of interest in post-political lobbying. The situation raises questions about the appropriateness of political figures engaging corporate clients facing serious criminal charges. MacSharry's continued involvement signals Beldare's efforts to maintain political influence despite leadership turmoil. This case exemplifies broader concerns about the revolving door between politics and corporate lobbying in Ireland.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/05/05/ex-td-marc-macsharry-to-continue-lobbying-for-beldare-as-ceo-faces-jail-for-assault/"
+        }
+      ],
+      "tags": ["politics", "crime", "economy"]
+    },
+    {
+      "headline": "Ireland's furniture fire safety regulations face potential repeal over toxic chemical concerns",
+      "summary": "Ireland's strict furniture fire safety laws, which have been an outlier in the EU regulatory landscape, may be scrapped due to concerns over toxic chemical exposure from flame retardants used to meet the standards. Furniture retailers including Ikea have called for rapid changes to the regulations, arguing the current rules create health and environmental risks. The regulations require specific fire performance standards that other EU countries do not impose, making Ireland's market distinct. Consumer safety advocates and industry groups have raised concerns about whether the current standards are worth the chemical exposure costs they generate. The government is examining whether to revise or abandon the regulations as part of broader product safety review.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/ireland-furniture-fire-safety-7025099-May2026/"
+        }
+      ],
+      "tags": ["politics", "health", "economy"]
+    },
+    {
+      "headline": "Parents devastated by proposed Special Needs Assistant cuts in Irish schools",
+      "summary": "Parents of children requiring educational support have expressed significant concern over proposed cuts to Special Needs Assistant (SNA) positions in Irish schools, highlighting family worries about their children's educational needs and wellbeing. Letters from affected families detail the potential negative impact of reducing support staff who work directly with vulnerable students. The proposed cuts have triggered widespread opposition before the government's anticipated U-turn on the controversial review of the SNA programme. Education advocates argue that reducing SNAs contradicts the State's commitment to inclusive education and special needs support. The emotional testimony from parents underscores the critical role SNAs play in enabling children with special needs to access mainstream education.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/education/2026/05/05/it-makes-no-sense-parents-devastated-by-proposed-sna-cuts-in-schools/"
+        }
+      ],
+      "tags": ["politics", "health", "social"]
+    },
+    {
+      "headline": "Ryanair emissions continue to rise while other Irish carbon polluters show reductions",
+      "summary": "Ryanair's greenhouse gas emissions have increased again despite the airline sector's broader push toward sustainability, as the carrier's rapid growth in passenger numbers outpaces emission reductions achieved per passenger. Environmental data shows that Ryanair's expansion strategy is driving overall emissions upward, diverging from emissions reductions achieved by other major Irish carbon polluters in sectors like energy and manufacturing. The airline's growth-first approach has implications for Ireland's climate commitments and carbon reduction targets. Ryanair's emission trends contrast with improving environmental performance across other large Irish industrial and energy companies. The company's expansion plans suggest emissions will continue rising unless the airline adopts more aggressive sustainability measures or faces regulatory pressure to reduce its carbon footprint.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/environment/2026/05/05/ryanair-emissions-rise-again-as-other-large-irish-carbon-polluters-show-reductions/"
+        }
+      ],
+      "tags": ["economy", "climate", "transport"]
+    }
+  ]
+}

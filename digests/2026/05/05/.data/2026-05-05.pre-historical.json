@@ -1,0 +1,267 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Suez Crisis",
+        "The 1990 Oil Price Shock",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Attempted Assassination of Ronald Reagan (1981)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Iran escalates regional tensions with attacks on UAE as US mobilizes to protect Strait of Hormuz shipping"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 3 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis, The Suez Crisis, The 1990 Oil Price Shock",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Suez Crisis",
+        "The 1990 Oil Price Shock"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Oil prices surge amid Middle East tensions as traders react to Strait of Hormuz disruptions"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Explosion at Chinese fireworks plant kills at least 21 people with dozens injured"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'US presidential security incident' — 2 prior parallels, room for more. Must not reuse: Attempted Assassination of Ronald Reagan (1981), Kristallnacht (November 1938)",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)",
+        "Kristallnacht (November 1938)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan",
+        "https://en.wikipedia.org/wiki/Kristallnacht"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Vehicle plows into pedestrians in Leipzig, Germany, killing two and injuring multiple people"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Report reveals 2022 China Eastern Airlines crash was caused by deliberate fuel cut-off"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'tech industry mass layoffs' — 1 prior parallels, room for more. Must not reuse: The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "existing_parallels": [
+        "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Dot-com_bubble"
+      ],
+      "matched_topic": "tech industry mass layoffs",
+      "headline": "Apple explores manufacturing partnerships with Intel and Samsung to expand US-based chip production"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "2026 Pulitzer Prize awards recognize excellence in journalism including global investigations"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'US presidential security incident' — 1 prior parallels, room for more. Must not reuse: Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Two killed in car-ramming attack in eastern German city of Leipzig"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Austria expels three Russian diplomats over signals espionage operations"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'UK terror threat escalation antisemitism' — 1 prior parallels, room for more. Must not reuse: The 7 July 2005 London Bombings",
+      "existing_parallels": [
+        "The 7 July 2005 London Bombings"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/7_July_2005_London_bombings"
+      ],
+      "matched_topic": "UK terror threat escalation antisemitism",
+      "headline": "UK Prime Minister Starmer convenes antisemitism summit following attacks"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European political polarisation' — 1 prior parallels, room for more. Must not reuse: The Popular Front (1930s)",
+      "existing_parallels": [
+        "The Popular Front (1930s)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Popular_Front"
+      ],
+      "matched_topic": "European political polarisation",
+      "headline": "European leaders gather in Armenia for major political summit with Zelensky"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "British pubs close at accelerated rate amid cost pressures and tax increases"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Germany cuts 2026 economic growth forecast by half due to regional conflict impact"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Two Irish passengers among those infected in hantavirus cruise ship outbreak"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Gardaí grapple with worrying surge in money-laundering crime across Ireland"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'UK government security vetting scandal' — 1 prior parallels, room for more. Must not reuse: The Profumo Affair (1963)",
+      "existing_parallels": [
+        "The Profumo Affair (1963)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Profumo_affair"
+      ],
+      "matched_topic": "UK government security vetting scandal",
+      "headline": "Taoiseach Micheál Martin calls for serious consideration of nuclear power for Ireland's energy future"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ex-TD Marc MacSharry to continue lobbying for Beldare as company CEO faces jail threat for assault"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ireland's furniture fire safety regulations face potential repeal over toxic chemical concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Parents devastated by proposed Special Needs Assistant cuts in Irish schools"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ryanair emissions continue to rise while other Irish carbon polluters show reductions"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "UK government security vetting scandal",
+      "historical_event": "The Profumo Affair (1963)",
+      "date_first_used": "2026-04-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Profumo_affair"
+    },
+    {
+      "story_topic": "European political polarisation",
+      "historical_event": "The Popular Front (1930s)",
+      "date_first_used": "2026-04-19",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Popular_Front"
+    },
+    {
+      "story_topic": "tech industry mass layoffs",
+      "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "date_first_used": "2026-04-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
+    },
+    {
+      "story_topic": "US presidential security incident",
+      "historical_event": "Attempted Assassination of Ronald Reagan (1981)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+    },
+    {
+      "story_topic": "UK terror threat escalation antisemitism",
+      "historical_event": "The 7 July 2005 London Bombings",
+      "date_first_used": "2026-05-01",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/7_July_2005_London_bombings"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Iran escalates regional tensions with attacks on UAE as US mobilizes to protect Strait of Hormuz shipping",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "The Tanker War and the Iran–Iraq War (1980–1988)",
+      "date_range": "1980–1988",
+      "summary": "The Tanker War of 1984–1988 saw Iran and Iraq attack hundreds of oil tankers transiting the Persian Gulf during their eight-year conflict, eventually drawing in US naval escorts under Operation Earnest Will. The broader Iran–Iraq War established the pattern of Iranian willingness to use its geographic position astride the Strait of Hormuz as strategic leverage. Operation Eagle Claw (1980) demonstrated early US military commitment to Persian Gulf access. The 1973 Arab Oil Embargo and the 1990 Gulf War oil price shock each illustrated how conflict threatening Persian Gulf supply triggers global market spikes, strategic reserve deployments, and intense diplomatic pressure to de-escalate. Germany's growth was already suppressed before the current escalation, reducing economic tolerance for a prolonged confrontation compared to previous cycles.",
+      "parallel_analysis": "The current Iranian attack on UAE infrastructure forcing a US military response is structurally similar to the Tanker War and Operation Earnest Will, with the same central dynamic of great powers intervening to protect commercial shipping and energy supply. However, the current episode occurs against a backdrop of weaker global growth and a more fragile European economy already battered by energy price shocks, meaning the margin for error before recessionary damage becomes irreversible is considerably narrower than in 1984–1988 or 1990.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Two killed in car-ramming attack in eastern German city of Leipzig",
+      "story_topic": "vehicle ramming attacks Europe",
+      "historical_event": "2016 Berlin Christmas Market Attack",
+      "date_range": "December 2016",
+      "summary": "On 19 December 2016, Anis Amri — a 24-year-old Tunisian asylum seeker who had been monitored by German intelligence as a radicalisation risk — drove a hijacked truck into the Christmas market at Breitscheidplatz in Berlin, killing 12 people and injuring 56 in the deadliest Islamist terrorist attack in modern German history. The attack exposed systemic failures in surveillance, intelligence-sharing, and deportation procedures. It belonged to a wave of European vehicle-ramming attacks that also included Nice (July 2016), Westminster Bridge (March 2017), and Barcelona Las Ramblas (August 2017). Each incident prompted fresh reviews of vehicle exclusion barriers, police response, and monitoring of at-risk individuals. Physical hardening of Christmas markets and symbolic sites subsequently displaced risk toward unprotected everyday spaces. The recurring pattern reveals a structural dilemma: improved security at known targets makes ordinary urban geography — a pedestrian shopping street on a Sunday afternoon — the residual vulnerability.",
+      "parallel_analysis": "The Leipzig attack follows the template of the Berlin 2016 incident in targeting an ordinary commercial pedestrian zone rather than a symbolic event, suggesting that years of hardening high-profile venues have not eliminated the underlying threat. Germany's response to Leipzig will again test whether security policy can evolve beyond reactive barrier installation toward more proactive approaches to detecting and intervening before vehicle-based attacks occur.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/2016_Berlin_Christmas_market_attack"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "European leaders gather in Armenia for major political summit with Zelensky",
+      "story_topic": "European Political Community summits",
+      "historical_event": "Founding of the European Political Community (2022)",
+      "date_range": "2022–present",
+      "summary": "The European Political Community was proposed by French President Emmanuel Macron on 9 May 2022 at the Conference on the Future of Europe, directly prompted by Russia's full-scale invasion of Ukraine. The inaugural summit in Prague in October 2022 gathered 44 states — a striking speed of institutional creation by European standards. The EPC operates as a light-touch intergovernmental forum modelled on the G7, with no dedicated secretariat, budget, or staff, allowing non-EU states including the UK, Ukraine, Turkey, and the South Caucasus republics to participate on equal terms. Russia and Belarus were explicitly excluded. By the eighth summit in Armenia (May 2026) — the first EPC gathering in the South Caucasus and the first to include Canada as a non-European participant — the forum had already facilitated EU monitoring missions in Armenia and become the primary platform for pan-European security coordination outside formal EU structures. The EPC's rapid evolution illustrates how existential external threats can drive European institutional innovation faster than decades of incremental treaty reform.",
+      "parallel_analysis": "The Armenia summit demonstrates how the EPC has in four years transformed from a French diplomatic proposal into the continent's leading forum for flexible, non-binding security dialogue — paralleling the post-1945 creation of the Council of Europe and NATO as ad hoc responses to existential threat that rapidly became permanent institutional fixtures. If the EPC continues to accumulate functions and convening power, it may eventually require the formalisation — secretariat, budget, legal personality — that its founders deliberately avoided, following the same institutional gravity that shaped the European Community from the 1957 Treaty of Rome onward.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/European_Political_Community"
+      ]
+    }
+  ]
+}

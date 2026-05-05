@@ -1,0 +1,70 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-05T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Two killed in car-ramming attack in eastern German city of Leipzig",
+      "summary": "A car drove into crowds in a pedestrian shopping area in Leipzig, Germany on May 4, killing two people and injuring at least 20 others in what authorities described as a suspected rampage attack. The driver, identified as a 33-year-old German citizen, was detained by police, who described him as \"psychologically conspicuous.\" The incident occurred on Grimmaische Strasse, which leads into central Leipzig's shopping district, and officials indicated they are still investigating the motivation behind the attack. Germany has experienced several car-ramming incidents in recent years, most notably the December 2024 Christmas market attack in Magdeburg that killed at least six people. The Leipzig incident underscores ongoing security concerns across Europe related to vehicle-based attacks.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o"},
+        {"name": "France24", "url": "https://www.france24.com/en/live-news/20260504-two-dead-after-car-ploughs-into-people-in-germany-s-leipzig-mayor"},
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/05/04/at-least-two-killed-after-car-drives-into-people-on-street-in-german-city-of-leipzig"}
+      ],
+      "tags": ["security", "europe", "germany"]
+    },
+    {
+      "headline": "Austria expels three Russian diplomats over signals espionage operations",
+      "summary": "Austria expelled three Russian Embassy staff members on May 4 over suspected signals intelligence operations targeting international organizations based in Vienna. Austrian authorities linked the expulsions to satellite dish installations on the Russian diplomatic compound's roof that they believe were used to intercept and transmit data via satellite internet from UN agencies, including the International Atomic Energy Agency, OPEC, and the OSCE. The Russian ambassador had been summoned in April to discuss the activities, and Russia refused to waive diplomatic immunity for the suspects when asked to do so by Austrian prosecutors. Austrian Foreign Minister Beate Meinl-Reisinger stated that using diplomatic immunity to commit espionage is unacceptable. The Russian Embassy condemned the expulsions as \"outrageous\" and \"politically motivated,\" threatening a harsh retaliatory response. This brings the total number of Russian diplomats Austria has expelled since 2020 to 14.",
+      "sources": [
+        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-05-04/array-of-spy-antennas-prompts-austria-to-expel-russian-envoys"},
+        {"name": "ABC News", "url": "https://abcnews.com/International/wireStory/austria-expels-3-russian-embassy-staff-suspected-antenna-132629706"},
+        {"name": "South China Morning Post", "url": "https://www.scmp.com/news/world/europe/article/3352390/austria-expels-3-russian-diplomats-over-signals-spying"}
+      ],
+      "tags": ["EU", "defence", "espionage"]
+    },
+    {
+      "headline": "UK Prime Minister Starmer convenes antisemitism summit following attacks",
+      "summary": "British Prime Minister Keir Starmer hosted a Downing Street summit on May 5 bringing together leaders from across society to address antisemitism following a series of violent attacks on Jewish communities. The summit included roundtable meetings with participants from business, civil society, health, culture, higher education, and policing sectors, where attendees discussed how their sectors can strengthen efforts to combat antisemitism. The government's response follows recent incidents including a serious stabbing attack in London and arson attacks at Jewish memorials, prompting the national terrorism threat level to be raised to \"severe.\" The UK committed an additional 25 million pounds in funding to protect the country's estimated 290,000-strong Jewish community. The government also announced plans to introduce new antisemitism laws to strengthen national protection against what it describes as imminent threats.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/czd2l55d1e7o"},
+        {"name": "Haaretz", "url": "https://www.haaretz.com/jewish/2026-05-05/ty-article/british-pm-starmer-to-host-downing-street-summit-to-address-antisemitism/0000019d-f5a4-df01-a3dd-f7ad909a0000"},
+        {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-05-04/starmer-tells-uk-leaders-all-of-society-must-fight-antisemitism"}
+      ],
+      "tags": ["governance", "security", "UK"]
+    },
+    {
+      "headline": "European leaders gather in Armenia for major political summit with Zelensky",
+      "summary": "The European Political Community summit convened in Yerevan, Armenia on May 4 with Ukrainian President Volodymyr Zelensky attending his first presidential visit to Armenia in 24 years. The gathering brought together major European leaders including UK Prime Minister Keir Starmer and EU Foreign Policy Chief Ursula von der Leyen, along with prime ministers from Norway, Finland, and the Czech Republic. During bilateral meetings, Starmer and von der Leyen discussed UK participation in a 90-billion-euro EU loan package for Ukraine, with both agreeing that UK involvement would represent a significant advancement in the EU-UK defense industrial relationship. The summit highlighted Europe's solidarity with Ukraine amid ongoing Russian military operations and represented a rare diplomatic engagement for Zelensky beyond Ukraine's borders. The gathering underscored the importance of European unity and mutual defense cooperation in the current geopolitical climate.",
+      "sources": [
+        {"name": "Kyiv Independent", "url": "https://kyivindependent.com/"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia"}
+      ],
+      "tags": ["EU", "diplomacy", "Ukraine"]
+    },
+    {
+      "headline": "British pubs close at accelerated rate amid cost pressures and tax increases",
+      "summary": "British pubs are closing at a rate of nearly two per day in 2026, according to the British Beer and Pub Association, with 161 closures recorded in the first three months of the year equating to around 2,400 lost jobs—a 26% increase compared to the same period last year. The accelerating closure rate reflects mounting pressure from increased labor costs, rising business rates, and changing consumer habits, with rateable values in England and Wales set to increase by 30 percent on average. While the government introduced a 15% tax relief for pubs and music venues, industry leaders argue the relief falls short of addressing what they describe as a \"disproportionate tax burden\" that is wiping out pub profits despite strong customer demand. This represents a continuation of a broader trend, with 336 pubs closing in 2025 and over 2,000 pubs having shuttered since the coronavirus pandemic began in 2020. The closures highlight economic challenges facing the UK hospitality sector.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c9d355nw7jzo"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/policy/articles/british-pubs-closing-rate-almost-015544903.html"}
+      ],
+      "tags": ["economy", "UK", "business"]
+    },
+    {
+      "headline": "Germany cuts 2026 economic growth forecast by half due to regional conflict impact",
+      "summary": "Germany officially halved its 2026 economic growth forecast to 0.5%, down from an initial projection of 1%, citing the impact of the Iran war and resulting energy price spikes. The revised outlook for 2027 was also lowered to 0.9% from 1.3%, reflecting ongoing economic headwinds. Germany's energy vulnerability has been exposed as crude oil prices spiked nearly 73% year-to-date, with the country relying on about 6% of its energy imports from the Middle East. Energy-intensive industries, which employ nearly 1 million workers and account for about 17% of industrial gross value added, face significant challenges from elevated energy costs. In response, Germany's coalition government agreed to a two-month tax relief on petrol and diesel worth approximately 1.6 billion euros. The Ifo Institute's business climate index dropped to 84.4 in April, its lowest level since May 2020, signaling weakening business confidence across Europe's largest economy.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/business/2026/04/22/germany-halves-gdp-forecast-from-1-to-05-due-to-iran-war-fallout"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/04/24/germany-iran-defense-war-energy-oil-price-shock-industry-fiscal-stimulus-middle-east-europe-inflation-growth.html"}
+      ],
+      "tags": ["economy", "EU", "germany"]
+    }
+  ]
+}

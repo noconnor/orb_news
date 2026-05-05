@@ -1,0 +1,76 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-05T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran escalates regional tensions with attacks on UAE as US mobilizes to protect Strait of Hormuz shipping",
+      "summary": "Iran launched military attacks on UAE oil facilities, prompting swift US military intervention to escort commercial vessels through the critical Strait of Hormuz waterway. The escalation marks a dangerous shift in regional geopolitical tensions, with the Trump administration working to reopen shipping lanes and maintain energy supply stability. South Korea announced plans to investigate a ship fire in the Strait, and multiple international leaders condemned the Iranian strikes. The incident has pushed ceasefire prospects to the brink as shipping companies and oil markets react to the heightened security risk. The confrontation threatens global energy supplies and raises concerns about broader Middle Eastern destabilization.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWNFbjJxYWppRk8zN2pzWlM4c0FsTGV6V2VXR1A1RksyYmlTMktEMXgxZ3lGZ1hRMU1nYmZJQ3UyRkJfWi0yZGZZUk4tUUpDRTRDeUp1Q0hyQ2xLVDIxVVh4SGJsY2hDNkpZeTZjb1RSOWpDNHd1VGZKeTNBVS05U2xsdmxqWVpWNVcxZ1lZX2RFZlVhbGZjbFZfQmNkVnFnSGNSMFlpNmtOTUswVXdueC1hT3ZiZE5sZHdMamZHaVJIZw"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXUxRXhtVUx6WExNYkQ1QmxKMlI0S1I4bElVWF9JQTFUUGNGU1B6M0VreHFUN2MwZDNId1NiS3NGRTdqMjNUd3IzLUtCbWV3bXBrRVhQS2c1RGxYN1gwT1dxbmpLS0tJTTc5S0lUbFg3WjJ2LUdBV0djXzNzYVpOSGRycU5OZVVFaTVWV09YcER0YmpTTHB6ems1ZVRuSll4cWw0?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Oil prices surge amid Middle East tensions as traders react to Strait of Hormuz disruptions",
+      "summary": "Brent crude oil prices rose nearly 6 percent following the Iranian attacks on UAE and subsequent US military operations in the Strait of Hormuz, one of the world's most critical energy chokepoints. Market volatility reflects investor concerns about potential long-term supply disruptions and geopolitical instability in the region. Financial markets responded with broader uncertainty, as equities declined on rising energy costs and reduced growth expectations. The price surge underscores the global dependency on Middle Eastern oil and the economic consequences of regional military escalation. Energy analysts warn that prolonged tensions could trigger a broader economic slowdown if shipping routes remain unstable.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTZ0LVpvcnZ5S20wVGpXU1gtNzhQV2tSTXNvLTA4VDYySHRpM250TVI4cjVycEtZRUdXM2pIVDNIYWFIejl0V0diVGx0Ylp1WFFCWVVpWHdHcHFMOVotSk81TjhUMnJCS0NJOFBzTVB4T0x4Y251dFRtUUEzdTRtX2xxZw"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss"}
+      ],
+      "tags": ["economy", "trade", "conflict"]
+    },
+    {
+      "headline": "Explosion at Chinese fireworks plant kills at least 21 people with dozens injured",
+      "summary": "A major explosion at a fireworks manufacturing facility in central China claimed at least 21 lives and injured 61 others, highlighting ongoing industrial safety challenges in the country's manufacturing sector. Emergency responders worked to secure the affected site and provide medical care for the injured. The incident raises questions about workplace safety standards and regulatory oversight in China's chemical and explosives industries. Factory explosions have recurred periodically across China, often linked to inadequate safety protocols or equipment failures. This incident reflects broader concerns about industrial accident prevention in developing manufacturing hubs.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss"}
+      ],
+      "tags": ["humanitarian", "economy"]
+    },
+    {
+      "headline": "Vehicle plows into pedestrians in Leipzig, Germany, killing two and injuring multiple people",
+      "summary": "A 33-year-old German citizen drove a vehicle into a crowd in a shopping area in Leipzig, Germany, killing two people and injuring numerous others. Authorities quickly detained the suspect and launched an investigation into the motivations behind the attack. The incident echoes previous vehicular attacks across Europe and raises security concerns in public gathering spaces. Investigators are examining whether the attack was politically or ideologically motivated, or driven by personal circumstances. The tragedy highlights ongoing vulnerability of crowded public areas to vehicle-based violence.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNDYjNLRFZNNWtEaS1WdHZUZGdwcFhvb3EwVU5DNEJBXy1RMzJJc0FKSlpXT281ZzhnSUpYVERZemctc1dwYmhubDc0WTY1SU81YXA0NFRlOXQ1ZG15XzYwU3FNcmtOUV8wNGNhNENCOWw2OWg2bUFva2RmUWgyWmw0dk1QNUdGdE41dm5OdnpyVFFiNDRFRmlR?oc=5"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["humanitarian", "security"]
+    },
+    {
+      "headline": "Report reveals 2022 China Eastern Airlines crash was caused by deliberate fuel cut-off",
+      "summary": "A comprehensive investigation report determined that a Boeing 737 crash in China in 2022, which killed all 132 people aboard, was caused by a deliberate fuel cut-off rather than mechanical failure or pilot error. The findings came four years after the aircraft plunged into a hillside in Guangxi province, marking one of the deadliest aviation incidents in recent years. The investigation's conclusions raise troubling questions about potential human intervention in the cockpit during the flight. The report was released to provide closure to families and inform future aviation safety protocols. The incident remains one of the most mysterious aviation disasters of the past decade.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["humanitarian", "technology"]
+    },
+    {
+      "headline": "Apple explores manufacturing partnerships with Intel and Samsung to expand US-based chip production",
+      "summary": "Apple is in discussions with Intel and Samsung to establish manufacturing capabilities for its main device processors within the United States, a strategic shift aimed at reducing supply chain dependencies and strengthening domestic semiconductor production. The move reflects broader efforts by US technology companies to diversify manufacturing away from Asia amid geopolitical tensions and supply chain vulnerabilities exposed by recent global disruptions. A domestically-based chip production capability would enhance Apple's operational resilience while supporting the US government's objectives for technology self-sufficiency. This development signals growing investment in American semiconductor manufacturing capacity and reflects competitive pressures in the global tech industry. Success would position the US as a more significant player in advanced processor manufacturing.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDZvaGVDUlk4YkJaSDJVVDNsaVBFYnZPaWZDZFZmMVpSc2ZGc0M3emFIS09jQk1OcUxJckVYQjJCekY3cTNOdDRYdG1LRFRVbFVPU2l5LXk2RTBxTjBZVEIxSEFqcHhzWkh2WGRhOXJGZkNEYlJieUpQOVZ1aGhFVlkyQTMyMUxRZ0Z0ZnVCQTRWNjhSdnRMd2I5YWRzdGJLN05XN09jQlhEX3ZQZllXcG05VGFCdDNnNjJObFJR"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    },
+    {
+      "headline": "2026 Pulitzer Prize awards recognize excellence in journalism including global investigations",
+      "summary": "The 2026 Pulitzer Prize recipients were announced, with the Associated Press honored for a significant global investigation into government surveillance programs across multiple countries. The awards recognize outstanding journalism across numerous categories, from investigative reporting to breaking news coverage. The AP's recognition of international surveillance investigation underscores the importance of cross-border investigative journalism in exposing government overreach and protecting press freedom. Multiple news organizations were honored for their work on critical stories throughout the year. The Pulitzer Prizes remain one of the journalism industry's most prestigious recognition programs, highlighting quality reporting on matters of international significance.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkh3TE50cHc2cEFuT1QtNkQzdkFYT2NaMW4tc1N6MldOMVJVWlV5WU95OEtVR2dPa2hUUC15U3JYdVgxV3dUVXBuRTlVUHR2YWg0ZFZjbXRMeTFKeHpQLUhTYXNXOFBTc2k2NVYwYlc5X1ZVOXBUa0NMWFZyX0xOazkwd0tSTkZVUklISHJad01lckVtS2ctaXYtMkJNaWI5NzI1N1I2V04?oc=5"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/04/nx-s1-5803483/pulitzer-prize-winners-2026"}
+      ],
+      "tags": ["technology", "diplomacy"]
+    }
+  ]
+}
