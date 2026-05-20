@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-20",
+  "steps": {
+    "setup_s": 14,
+    "gather_s": 125,
+    "preprocess_s": 0,
+    "digest_writer_s": 264,
+    "audio_s": 98,
+    "commit_s": 9
+  },
+  "total_s": 519,
+  "cost_estimate_usd": {
+    "gather_haiku_x3": 0.06,
+    "digest_writer_sonnet": 0.3,
+    "audio_local": 0.0,
+    "orchestrator": 0.1,
+    "total": 0.46,
+    "note": "Approximate; actual usage tokens shown in agent outputs"
+  }
+}

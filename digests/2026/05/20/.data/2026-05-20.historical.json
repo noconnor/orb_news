@@ -1,0 +1,47 @@
+{
+  "parallels": [
+    {
+      "type": "new",
+      "story_headline": "Pentagon Reduces US Military Brigades in Europe and Cancels Poland Deployment",
+      "story_topic": "NATO alliance internal tensions",
+      "historical_event": "War Powers Resolution (1973)",
+      "date_range": "1973",
+      "summary": "The War Powers Resolution was enacted on 7 November 1973 after Congress overrode President Nixon's veto, emerging from bipartisan fury over Nixon's secret bombing of Cambodia and the broader executive overreach of the Vietnam era. The resolution established that any president must notify Congress within 48 hours of committing armed forces to military action and restricts unauthorised operations to 60 days with a further 30-day withdrawal period. It was the culmination of years of frustration with presidents treating foreign troop deployments as an executive prerogative requiring no legislative sanction. Subsequent administrations have repeatedly tested the resolution's limits and courts have largely refused to adjudicate violations as non-justiciable political questions. More recent invocations include the 2019 Yemen War Powers Resolution and a succession of 2025–2026 resolutions targeting US military posture toward Iran, Venezuela, and Cuba.",
+      "parallel_analysis": "The Pentagon's unilateral reduction of European brigades and cancellation of the Poland deployment mirrors the long-running structural tension between a president who treats troop deployment as a tool of foreign policy leverage and a Congress that has periodically sought to reclaim constitutional authority over military commitments. Just as the War Powers Resolution was passed in response to executive overreach in Vietnam-era deployments, today's Senate Iran resolution reflects the same institutional contest — a legislature asserting itself against an administration that frames force posture as a presidential prerogative.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "US Senate advances resolution to limit Trump's power to wage war on Iran",
+      "story_topic": "Iran-US conflict",
+      "historical_event": "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+      "date_range": "1973",
+      "summary": "The War Powers Resolution, enacted 7 November 1973 after Congress overrode Nixon's veto, was the definitive modern legislative attempt to reassert control over military commitments following the Vietnam War's demonstration that an undeclared multi-decade conflict could be sustained entirely through executive action. The resolution established a 60-day clock on unauthorised troop commitments and required presidential consultation with Congress before deploying forces, though presidents from both parties have consistently characterised their actions as falling outside its constraints. Notable parallel invocations include the Senate's 2019 Yemen resolution and the cluster of 2025–2026 resolutions seeking to constrain Trump's military posture toward Iran and other adversaries. The resolution does not itself prevent military action but creates a political and legal record that constrains options and forces accountability.",
+      "parallel_analysis": "The Senate's advance of this Iran war powers resolution is a direct structural echo of the 1973 act — a legislature insisting on its constitutional war-declaration authority against an executive that treats the threat of military force as a diplomatic negotiating tool. Just as the War Powers Resolution did not ultimately prevent subsequent executive military operations, this resolution is unlikely by itself to stop military action against Iran, but it establishes a political record and forces a public accountability debate that mirrors the original intent of the 1973 legislation.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Xi Jinping and Vladimir Putin meet in Beijing amid geopolitical realignment",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_range": "1973–1974",
+      "summary": "The Arab oil embargo and 1973 oil crisis, the Korean War stalemate, the Allied oil campaign of WWII, the Empty Chair Crisis and Luxembourg Compromise, Bulgaria's Soviet alignment, the Tanker War, the Iran-Iraq War, and Operation Eagle Claw together illustrate how economic coercion, energy chokepoints, and strategic alignments among great powers have historically shaped — and disrupted — international order. The 1973 oil crisis in particular demonstrated how a regional conflict can weaponise global energy supply to coerce distant powers, a dynamic highly relevant to today's Strait of Hormuz disruptions and the Russia-China strategic partnership forming in response to US-led pressure.",
+      "parallel_analysis": "The Xi-Putin summit takes place in a context directly analogous to the geopolitical fracturing that characterised the 1970s: an energy price shock driven by Middle East conflict, a superpower in relative decline seeking leverage through military threats, and two major powers deepening alignment against Western-led order. Just as the 1973 oil crisis exposed the fragility of Western economic assumptions and accelerated non-Western alignment, today's Iran-driven energy disruption and Russia-China summit signal a comparable structural shift in the global balance.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    }
+  ]
+}

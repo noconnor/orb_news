@@ -1,0 +1,70 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-20T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Rental costs surge to record 4.4% following government housing reforms",
+      "summary": "New government housing reform measures introduced at the start of the year have coincided with unprecedented rental increases, with the national average monthly rent reaching €2,176. Data from Daft.ie reveals a 4.4% rise in rents following the policy changes, marking the highest increase recorded. The timing of the reforms and rental surge has sparked debate about their effectiveness in controlling housing costs. This follows broader concerns about housing affordability across Ireland, with construction and regulatory pressures continuing to shape the rental market. The findings suggest that recent policy interventions have not yet achieved their intended goal of moderating rent growth.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41847882.html"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/daft-report-2026-7044642-May2026/"}
+      ],
+      "tags": ["housing", "economy", "politics"]
+    },
+    {
+      "headline": "RTÉ management faces media committee hearing over payments controversy",
+      "summary": "Senior RTÉ management is scheduled to appear before the Joint Oireachtas Committee on Arts, Media, Communications, Culture and Sport to address an ongoing payments scandal. The controversy surrounding the national broadcaster has attracted significant political and public attention. The committee hearing represents a formal accountability mechanism for investigating the allegations and examining governance issues at RTÉ. This development highlights ongoing scrutiny of the state broadcaster's management practices and financial oversight. The appearance signals continued parliamentary focus on corporate governance and accountability in public institutions.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0520/1574221-rte-media-committee/"}
+      ],
+      "tags": ["politics", "governance"]
+    },
+    {
+      "headline": "Byelection campaign spending exceeds €250,000 as parties gear up for contests",
+      "summary": "Political parties have spent more than €250,000 on campaign activities for upcoming byelections, with spending concentrated among major parties. Fine Gael has emerged as the largest spender to date, significantly outpacing other parties in campaign investment. The substantial spending reflects the competitive nature of the byelection contests and the importance parties place on these contests. Expenditure patterns offer insight into parties' strategic priorities and resource allocation for maintaining parliamentary representation. The campaigns are set against a backdrop of broader political dynamics and competition for voter support.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/dublin-central-galway-west-byelection-spending-parties-posters-7044513-May2026/"}
+      ],
+      "tags": ["politics", "economy"]
+    },
+    {
+      "headline": "Cocaine treatment cases surge to 15,442 in latest year, reflecting ongoing social challenges",
+      "summary": "Treatment demand for cocaine use reached a record 15,442 cases in the past year, revealing significant public health concerns across Ireland. Social disadvantage remains a persistent characteristic among those seeking treatment, with unemployment and homelessness prominently featured in case profiles. The surge in treatment cases indicates both growing substance use patterns and increased access to treatment services. The data underscores the interconnection between economic hardship, homelessness, and addiction. These figures highlight the need for continued investment in social support infrastructure and addiction services to address root causes of substance abuse.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41847852.html"}
+      ],
+      "tags": ["health", "social"]
+    },
+    {
+      "headline": "King Charles and Queen Camilla visit Northern Ireland amid cultural engagement",
+      "summary": "King Charles III and Queen Camilla conducted the first day of their visit to Northern Ireland, joining in cultural activities including participation with the bodhrán at a fleadh in Belfast. The royal visit marks an engagement with Irish cultural traditions and local communities across the border. The couple's participation in traditional Irish music activities reflects efforts to strengthen connections with Northern Irish communities. This visit represents continued royal involvement in cultural and community relations on the island. The engagement demonstrates symbolic importance placed on cross-border cultural ties and royal presence in Northern Ireland.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/19/communities-come-together-for-a-few-tunes-as-charles-and-camilla-get-a-taste-of-a-belfast-fleadh/"}
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Irish citizens detained following Gaza aid mission by Israeli forces",
+      "summary": "Irish citizens were detained by Israeli forces while participating in a humanitarian aid flotilla mission to Gaza, with the Israeli ministry denying use of live ammunition during the boarding of two vessels. The Taoiseach and Tánaiste publicly condemned the detention of the Irish group, elevating the incident into diplomatic discourse. The incident reflects ongoing tensions surrounding humanitarian access to Gaza and international aid efforts. Ireland's government response underscores the country's position on humanitarian issues and international law. The detention of Irish citizens has brought international attention to broader questions about humanitarian access and the conduct of military operations affecting aid workers.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/19/taoiseach-and-tanaiste-condemn-detention-by-israel-of-irish-group-on-gaza-aid-flotilla/"}
+      ],
+      "tags": ["politics", "humanitarian"]
+    },
+    {
+      "headline": "Kerry Council writes off €655,000 in derelict site levies deemed unenforceable",
+      "summary": "Kerry County Council removed multiple properties from its derelict register and wrote off €655,000 in related levies following determination that the charges were unenforceable. Various inaccuracies in the derelict register necessitated the removal of sites and cancellation of associated financial obligations. The decision reflects broader challenges in property regulation and the enforcement of local authority levies. This case highlights administrative and legal complexities in managing derelict properties at the local level. The write-off demonstrates the financial impact of regulatory and recordkeeping issues on local government operations.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41847813.html"}
+      ],
+      "tags": ["economy", "governance"]
+    }
+  ]
+}

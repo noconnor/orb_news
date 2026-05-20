@@ -1,0 +1,75 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-20T07:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU Mobilises €144 Million Climate Aid for Spain, Romania, and Cyprus",
+      "summary": "The European Commission has proposed allocating €144 million from the European Union Solidarity Fund to help Spain, Romania, and Cyprus recover from devastating climate-related disasters in 2025. Spain will receive €120.4 million following severe droughts, heatwaves, and wildfires that claimed eight lives. Romania will receive €14.3 million for flood recovery, and Cyprus €9.2 million for wildfire recovery. This solidarity funding demonstrates the EU's commitment to supporting member states facing climate impacts. The allocation must still be approved by the European Parliament and Council before disbursement to member states.",
+      "sources": [
+        {"name": "European Commission", "url": "https://ec.europa.eu/regional_policy/whats-new/newsroom/18-05-2026-commission-proposes-eur144-million-from-the-european-union-solidarity-fund-to-help-spain-romania-and-cyprus-recover-from-climate-disasters_en"},
+        {"name": "European Sting", "url": "https://europeansting.com/2026/05/19/commission-proposes-e144-million-from-the-european-union-solidarity-fund-to-help-spain-romania-and-cyprus-recover-from-climate-disasters/"}
+      ],
+      "tags": ["climate", "EU", "solidarity"]
+    },
+    {
+      "headline": "MEPs Approve Stricter Foreign Investment Screening in Sensitive Sectors",
+      "summary": "The European Parliament voted with overwhelming support (508 in favour, 64 against, 90 abstentions) on May 19 to approve new EU rules for mandatory screening of foreign investments in strategic sectors including defence, semiconductors, artificial intelligence, critical raw materials, and financial services. The regulation aims to identify and address security and public order risks while remaining open to foreign capital inflows. Procedures for national screening mechanisms will be streamlined to reduce complexity and enhance cooperation among member states and the European Commission. The new regulation must still be formally approved by the EU Council before taking effect 18 months after adoption.",
+      "sources": [
+        {"name": "Sofia Globe", "url": "https://sofiaglobe.com/2026/05/19/european-parliament-approves-new-eu-rules-for-screening-of-foreign-investments/"},
+        {"name": "EACCNY", "url": "https://eaccny.com/news/european-parliament-protecting-eu-strategic-sectors-from-risky-foreign-investments/"}
+      ],
+      "tags": ["regulation", "governance", "EU"]
+    },
+    {
+      "headline": "Pentagon Reduces US Military Brigades in Europe and Cancels Poland Deployment",
+      "summary": "The U.S. Department of Defense has reduced Brigade Combat Teams deployed across Europe from four to three, returning to 2021 levels as part of a broader reduction of approximately 5,000 troops from the continent. Additionally, the Pentagon cancelled a planned deployment of 4,000 U.S.-based troops to Poland, with soldiers already stationed there ordered to return to the United States. The reduction follows a presidential order at the beginning of May and comes amid tensions over Europe's level of military support for other U.S. priorities. This move signals a significant shift in U.S. commitment to European defence and NATO presence.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260520-us-europe-troop-brigades-reduction-pentagon"},
+        {"name": "Washington Post", "url": "https://www.washingtonpost.com/national-security/2026/05/20/pentagon-says-us-will-cut-thousands-troops-europe/"}
+      ],
+      "tags": ["defence", "NATO", "diplomacy"]
+    },
+    {
+      "headline": "UK Loosens Russian Oil Sanctions Amid Global Energy Crisis",
+      "summary": "The United Kingdom has issued an open-ended license permitting indefinite imports of diesel fuel and aviation kerosene refined from Russian crude oil in third-party countries, with no expiration date. The policy shift was prompted by severe global energy challenges stemming from conflict in the Middle East and blockade of the Strait of Hormuz, a critical shipping route. Russia has slashed oil production due to Ukrainian drone strikes on ports and refineries, with output declining by an estimated 300,000 to 400,000 barrels per day. The UK Home Secretary retains authority to amend or revoke the waiver with advance notice, though this move raises questions about Europe's coordinated approach to Russia sanctions during energy shortages.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss"},
+        {"name": "UNITED24 Media", "url": "https://united24media.com/world/uk-issues-open-ended-waiver-for-fuel-refined-from-russian-crude-18984"}
+      ],
+      "tags": ["economy", "trade", "energy"]
+    },
+    {
+      "headline": "EU Commission Proposes Single-Ticket System for Cross-Border Train Travel",
+      "summary": "The European Commission unveiled a new proposal on May 13 to simplify cross-border rail travel across Europe through a 'one journey, one ticket, full rights' system. Passengers will be able to book single tickets covering multi-country journeys through a single platform, searching and comparing services from different rail operators regardless of borders. Enhanced passenger rights mean that if a traveller misses a connection due to any delay, they will be rerouted at no extra cost and receive compensation. Rail companies would have one year to update their systems after the regulation is approved. The Community of European Railways has expressed strong opposition, characterizing the proposal as regulatory overreach.",
+      "sources": [
+        {"name": "European Commission", "url": "https://commission.europa.eu/news-and-media/news/one-journey-one-ticket-full-rights-simplifying-train-travel-europe-2026-05-13_en"},
+        {"name": "Euronews", "url": "https://www.euronews.com/travel/2026/05/13/one-journey-one-ticket-eu-unveils-plan-to-simplify-rail-travel-across-borders"}
+      ],
+      "tags": ["regulation", "trade", "mobility"]
+    },
+    {
+      "headline": "Trump Administration Demands Increased Military Presence in Greenland",
+      "summary": "Confidential negotiations between the Trump administration, Denmark, and Greenlandic officials have been underway for four months regarding a dramatic increase in the American military presence on the Arctic island. The United States is seeking to revise long-standing military agreements to keep American troops in Greenland indefinitely and has demanded effective veto power over major investment agreements to exclude rival nations from the region. Local Greenlandic authorities view these demands as a serious violation of sovereignty, with local lawmaker Justus Hansen warning that acceptance would prevent true independence. The Pentagon has already sent military officers to inspect World War II-era infrastructure at Narsarsuaq airport. This geopolitical tension highlights Arctic strategy competition between global powers.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss"},
+        {"name": "La Voce di New York", "url": "https://lavocedinewyork.com/en/news/2026/05/19/trumps-attention-back-on-greenland-secret-talks-with-denmark-and-nuuk/"}
+      ],
+      "tags": ["defence", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "UK Deputy Ambassador to US Departs Unexpectedly",
+      "summary": "James Roscoe, the Deputy British Ambassador to the United States, has abruptly left his post following an unspecified incident. Roscoe held one of the most senior and high-profile positions in the British diplomatic service, making his sudden departure notable. The circumstances surrounding his resignation remain unclear, though the timing coincides with broader tensions in UK-US relations. This development signals potential strain in diplomatic relations between the two countries at a sensitive time.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c0520j079n2o?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["diplomacy", "governance"]
+    }
+  ]
+}

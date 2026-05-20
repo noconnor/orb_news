@@ -1,0 +1,78 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-20T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "rss_failed_used_websearch",
+    "npr": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Xi Jinping and Vladimir Putin meet in Beijing amid geopolitical realignment",
+      "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin held talks in Beijing following a recent US presidential visit to China. The summit signals continued strategic partnership between Moscow and Beijing despite international tensions. Putin and Xi discussed economic cooperation and key international regional issues, reinforcing the Russia-China alignment. The meeting comes at a moment of heightened global geopolitical tensions, particularly regarding Iran and Ukraine. The talks underscore the deepening Moscow-Beijing partnership as a counterweight to Western influence.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/20/chinas-xi-jinping-and-russian-president-vladimir-putin-meet-in-beijing?traffic_source=rss"}
+      ],
+      "tags": ["geopolitics", "diplomacy"]
+    },
+    {
+      "headline": "US Senate advances resolution to limit Trump's power to wage war on Iran",
+      "summary": "The US Senate advanced a resolution aimed at curbing President Trump's authority to launch military action against Iran without congressional approval. The vote was viewed as an unusual rebuke of the president amid escalating nuclear tensions with Tehran. The resolution represents congressional pushback against executive war powers during a period of intense diplomatic negotiations and military posturing. Senior Trump officials including Vice President JD Vance have stated the US is 'locked and loaded' for military action if nuclear talks fail. The measure underscores deep divisions over Iran policy within the US government.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "governance"]
+    },
+    {
+      "headline": "Trump administration signals readiness for military action as Iran nuclear negotiations intensify",
+      "summary": "US Vice President JD Vance stated that America is 'locked and loaded' for military operations if Iran nuclear negotiations fail, signaling the administration's preparedness for military escalation. The statement comes as tanker movements at the Strait of Hormuz suggest market reaction to escalating tensions. Trump and Vance have been discussing prospects for an Iran deal, yet simultaneously preparing military options. Iran has warned of 'surprises' if conflict resumes following Trump's ultimatum for nuclear negotiations. The dual approach of diplomatic engagement and military positioning reflects the administration's hardline strategy toward Tehran.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtCOC1FeFNhRG9yNTFpSUMzVVFkN2JFRXJSWGhTLUZ4SE1ueklHTzB2cEdSWGZOTy0ycE9pQkFKNDl0SHY5Y1p0UHIxdGxqZG0wX3FjS1VZZFFmcnZzU18xczQ1eUk4VGJWelp1blVYNjJMOFd6elZ2NWMxQlNqMla1SUV0TkF0RlhFeWpyWTU0czUwM2JLLW1pUDFfQTZWUnRRNmUta1p5ckhBb2hmM2RCcDg?oc=5"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "Nigeria and US joint operations kill 175 ISIL fighters in northeast counteroffensive",
+      "summary": "Nigeria's military reported that joint US-Nigeria military operations successfully killed 175 ISIL fighters in the country's northeast region. The operations represent intensified international cooperation against terrorist organizations in the Sahel. The strikes targeted terrorist groups operating in an area facing significant security challenges and humanitarian impacts. The partnership between US and Nigerian forces underscores the international dimension of counterterrorism efforts in West Africa. The offensive marks a significant blow to the Islamic State's presence in the region and reflects Washington's commitment to supporting regional security.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/20/nigeria-says-joint-us-strikes-kill-175-isil-fighters-in-countrys-northeast?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "counterterrorism"]
+    },
+    {
+      "headline": "Bodies of Italian divers recovered from underwater cave in Maldives",
+      "summary": "The bodies of two of five Italian divers who died in a deep underwater cave system in the Maldives have been recovered. The tragic incident highlighted the extreme risks involved in advanced recreational diving operations. The divers perished while exploring a complex underwater cave in one of the world's premier diving destinations. Recovery operations were challenging due to the depth and difficulty of accessing the cave environment. The incident has renewed discussions about safety protocols and training requirements for deep technical diving expeditions.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/bodies-of-italian-divers-recovered-from-cave-in-maldives?traffic_source=rss"}
+      ],
+      "tags": ["humanitarian", "tragedy"]
+    },
+    {
+      "headline": "American worker in Congo tests positive for Ebola as outbreak accelerates",
+      "summary": "An American working in the Democratic Republic of Congo has tested positive for Ebola, the CDC confirmed on May 20. The case represents international transmission risk as health officials warn the outbreak may be spreading faster than initially expected. The infected individual developed symptoms over the weekend and tested positive late Sunday, raising concerns about containment efforts. The case demonstrates how infectious disease outbreaks can rapidly cross borders and affect people from different nations. Health authorities are intensifying monitoring and prevention measures given the severity and transmissibility of Ebola.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/sections/world/"}
+      ],
+      "tags": ["health", "humanitarian"]
+    },
+    {
+      "headline": "Trump and family granted immunity from pending tax audits",
+      "summary": "The Trump administration has granted President Trump, his family, and his organization immunity from pending tax audits and legal examination. Democratic lawmakers immediately criticized the decision as an abuse of executive power and unprecedented preferential treatment. The immunity follows the establishment of a controversial fund designed to insulate the administration from legal scrutiny. The move raises constitutional questions about the separation of powers and equal application of tax law. The grant of immunity has intensified debate over executive authority and accountability within the Trump administration.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/20/us-president-trump-and-family-given-immunity-from-pending-tax-audits?traffic_source=rss"}
+      ],
+      "tags": ["governance", "economy"]
+    },
+    {
+      "headline": "Arsenal wins Premier League title, ending 22-year championship drought",
+      "summary": "Arsenal Football Club has secured the Premier League title, celebrating the end of a 22-year championship drought in English football's top division. The victory triggered jubilant celebrations among Arsenal fans across London and globally. The title win represents a major achievement for the club after years of near-misses and disappointment. Arsenal's success follows significant investment in squad development and managerial stability under Mikel Arteta. The triumph marks a significant moment in contemporary English football and represents a changing of the guard in the league's competitive landscape.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/arsenal-fans-erupt-after-team-secures-premier-league-crown?traffic_source=rss"}
+      ],
+      "tags": ["sport"]
+    }
+  ]
+}
