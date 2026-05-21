@@ -1,0 +1,68 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-21T08:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "NATO ministers convene as US signals potential withdrawal of security guarantees",
+      "summary": "NATO defence ministers met on May 21 as the Trump administration indicated plans to reduce its commitment to European security, citing burden-sharing concerns. The meeting focused on the alliance's strategic future amid depleted weapons stocks from the ongoing Iran conflict. European nations face growing pressure to increase defence spending and weapons production independently. The potential shift marks a significant departure from post-Cold War security arrangements that have anchored European stability for decades. Member states are now considering enhanced European defence capabilities and deepened Franco-German military cooperation.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/05/21/nato-ministers-meet-as-us-plans-to-pull-away-from-european-security"
+        }
+      ],
+      "tags": ["defence", "NATO", "governance"]
+    },
+    {
+      "headline": "Germany proposes Ukraine 'associate member' status in EU without voting rights",
+      "summary": "German Chancellor Friedrich Merz unveiled a proposal to grant Ukraine associate membership in the European Union while it pursues full accession, positioning it as a transitional status that would integrate Ukraine into EU structures while preserving voting power for current member states. The proposal reflects Germany's attempt to balance support for Ukraine with institutional concerns about rapid enlargement. Merz's initiative comes amid ongoing discussions about Ukraine's long-term place in the European order post-conflict. The associate status could provide economic and political benefits while addressing concerns from eastern European nations about decision-making processes. The proposal has sparked debate across EU capitals about the pace and terms of Ukrainian integration.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260521-germany-s-merz-proposes-ukraine-as-eu-associate-member-without-voting-rights"
+        }
+      ],
+      "tags": ["EU", "Ukraine", "governance"]
+    },
+    {
+      "headline": "German government moves to secure controlling stake in Franco-German weapons manufacturer KNDS",
+      "summary": "German authorities announced plans to acquire a 40% stake in KNDS, the Franco-German defence contractor, with intentions to eventually secure a majority holding through stake consolidation. The move underscores Germany's commitment to strengthening European defence industrial capacity amid heightened security concerns. KNDS produces critical weapons systems including tanks and armoured vehicles for multiple European NATO members. The acquisition represents Germany's broader strategy to consolidate its defence supply chain and reduce dependence on external suppliers. This development signals a significant shift in European military-industrial cooperation and German defence policy priorities.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/05/21/german-state-to-secure-40-stake-in-knds-weapons-firm-sources-say"
+        }
+      ],
+      "tags": ["defence", "economy", "EU"]
+    },
+    {
+      "headline": "Christian leaders across EU demand windfall tax on fossil fuel companies",
+      "summary": "Faith organizations from across the European Union united to call for a windfall tax on major fossil fuel producers, arguing that energy companies are reaping 'colossal profits' while Europe transitions away from carbon-intensive power. The religious leaders are pressuring the EU to use taxation as a mechanism to fund climate transition efforts and support communities affected by the energy sector's transformation. The joint statement represents an unusual convergence between religious institutions and environmental advocates on energy policy. The demand comes as the EU continues implementing its climate commitments while managing energy security concerns. Church leaders argue that moral responsibility requires redirecting fossil fuel profits toward sustainable energy development and just transition support.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/05/21/colossal-profits-christian-leaders-lambast-fossil-fuel-giants-as-they-demand-eu-windfall-t"
+        }
+      ],
+      "tags": ["climate", "regulation", "economy"]
+    },
+    {
+      "headline": "US Trump envoy calls for American military presence return to Greenland",
+      "summary": "US special envoy to Greenland Jeff Landry stated that the Trump administration must rebuild American military footprint in Greenland, citing historical military facilities and Arctic strategic importance. The statement reflects broader Trump administration focus on reasserting US presence in regions it views as geopolitically crucial. Greenland, a Danish autonomous territory, has become a focal point in US strategic planning due to Arctic resource wealth and military positioning relevant to NATO. The remarks have diplomatic implications for Denmark and could affect NATO's northern flank defence posture. The administration's interest in Greenland underscores a shift toward Arctic competition with Russia and China as emerging security priorities.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260521-us-needs-to-put-its-footprint-back-on-greenland-says-trump-envoy"
+        }
+      ],
+      "tags": ["defence", "diplomacy", "NATO"]
+    }
+  ]
+}

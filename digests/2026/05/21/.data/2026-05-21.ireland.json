@@ -1,0 +1,79 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-21T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Galway West By-Election Takes Place Amid Campaign Fever",
+      "summary": "Voters in Galway West are heading to the polls for a by-election on May 21, 2026, following campaign activities across the constituency. Election hopefuls have been canvassing extensively throughout the week, including near the residence of President Michael D Higgins. The by-election represents a significant political event for the western region and has generated considerable local media coverage. The election outcome will be closely watched as an indicator of voter sentiment and potential shifts in political preferences.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/galway-west-byelection-7045937-May2026/"}
+      ],
+      "tags": ["politics", "elections"]
+    },
+    {
+      "headline": "President's Sister Among 14 Irish Citizens Detained in Gaza Flotilla Incident",
+      "summary": "Fourteen Irish activists have been detained following an incident involving a Gaza-bound flotilla, with Dr Margaret Connolly, the sister of President Michael D Higgins, among those held. The Taoiseach has expressed disapproval of the way the detainees are being treated during their detention. The incident has sparked diplomatic concern and commentary from Irish government officials regarding the treatment of the Irish citizens involved. The detention of a close family member of the President has elevated the profile of the incident within Irish political circles and media.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/430-activists-gaza-flotilla-being-taken-to-israel-7045148-May2026/"}
+      ],
+      "tags": ["politics", "diplomacy", "social"]
+    },
+    {
+      "headline": "National Ambulance Service Pay Dispute to Resume Labour Court Talks",
+      "summary": "The National Ambulance Service pay dispute is set to return to the Labour Court for further negotiations on May 21, 2026. Talks have been ongoing as the service seeks resolution to compensation and working condition grievances affecting ambulance workers. The Labour Court intervention represents an official mediation effort to resolve the labour dispute and restore stability to emergency services. Resolution of the pay dispute is critical for ensuring continued effective operation of the ambulance service across the country.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0521/1574408-ambulance-dispute-talks/"}
+      ],
+      "tags": ["politics", "economy", "health"]
+    },
+    {
+      "headline": "Children's Ombudsman Reports 1,778 Complaints Over Public Services",
+      "summary": "The Ombudsman for Children's Office received 1,778 complaints in the previous year regarding children's public services, with education, child welfare services (Tusla), and healthcare generating the majority of grievances. The office has been actively intervening in cases, including instances where disabled children's support arrangements were changed without proper consultation. The high complaint volume highlights systemic issues across multiple government departments and public agencies responsible for child welfare and education. These findings underscore ongoing challenges in ensuring adequate protection and services for vulnerable children in Ireland.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0521/1574411-children-ombudsman-office-complaints/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/05/21/education-tusla-and-health-services-caused-bulk-of-complaints-to-childrens-ombudsman/"}
+      ],
+      "tags": ["health", "social", "politics"]
+    },
+    {
+      "headline": "More Than 100 Charities Report Funding Challenges Amid Uncertain Economic Outlook",
+      "summary": "One in four charities across Ireland are expressing uncertainty about their ability to sustain existing services throughout 2026, according to new reporting. More than 100 charities have raised concerns about funding sustainability and operational challenges ahead. The financial pressures facing the charitable sector reflect broader economic headwinds and reduced donor support in the current climate. These funding challenges threaten the continuity of vital social services provided by non-profit organizations across healthcare, poverty alleviation, and community support sectors.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0521/1574418-charities-funding/"}
+      ],
+      "tags": ["economy", "social"]
+    },
+    {
+      "headline": "Spanish Language Coordinator Killed in Hit-and-Run Incident on Dublin Road",
+      "summary": "Belén Arana Núñez, a 23-year-old Spanish language immersion camp coordinator, was fatally struck by a vehicle on the N11 Bray Road in Loughlinstown, Dublin. The incident occurred on May 20, 2026, and gardaí (Irish police) are appealing for witnesses to come forward with information. The victim was pronounced dead at the scene, and the investigation into the hit-and-run has become a priority for local law enforcement. The incident highlights ongoing road safety concerns on major Dublin thoroughfares.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/20/gardai-appeal-for-witnesses-after-spanish-woman-23-hit-and-killed-by-car-in-dublin/"}
+      ],
+      "tags": ["crime", "transport"]
+    },
+    {
+      "headline": "Noah Donohoe Inquest Continues with Evidence of Teen's Final Movements",
+      "summary": "The inquest into the death of Noah Donohoe, a 14-year-old who disappeared in June 2020, has continued with the presentation of video evidence showing the teenager cycling through Belfast city centre shortly before his disappearance. The footage provides documentary evidence of his last-known movements prior to his death, with his body later discovered in a storm drain. The inquest jury has been reviewing the chronology of events and evidence surrounding the case, which has attracted significant media and public attention. The proceedings aim to establish the circumstances and cause of death in this high-profile case.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/noah-donohoe-2-7046098-May2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/05/20/footage-of-some-of-noah-donohoes-last-known-movements-show-to-inquest-jury/"}
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "Sharlene Mawdsley Sets Personal Record in 400m Sprint Competition",
+      "summary": "Tipperary sprinter Sharlene Mawdsley achieved a new personal record in the 400m event during her first individual outdoor race of the season, surpassing her previous best time from the Paris Olympics. The accomplished athlete continues to demonstrate strong competitive form and progression in track and field athletics. Mawdsley's performance marks a significant personal achievement and reflects her continued development as an elite Irish athlete. The result bodes well for her prospects in upcoming national and international competition.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport/othersport/arid-41848482.html"}
+      ],
+      "tags": ["sport"]
+    }
+  ]
+}

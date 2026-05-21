@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-21",
+  "update_type": "morning",
+  "steps": {
+    "setup_s": 14,
+    "gather_s": 115,
+    "preprocess_s": 17,
+    "digest_s": 397,
+    "audio_s": 111,
+    "commit_s": null
+  },
+  "total_wall_s": 654,
+  "agents": {
+    "gather_ireland": {"model": "haiku", "duration_ms": 45806, "total_tokens": 35487, "tool_uses": 9},
+    "gather_europe": {"model": "haiku", "duration_ms": 44536, "total_tokens": 35270, "tool_uses": 10},
+    "gather_world": {"model": "haiku", "duration_ms": 97544, "total_tokens": 39639, "tool_uses": 8},
+    "digest_writer": {"model": "sonnet", "duration_ms": 381298, "total_tokens": 56905, "tool_uses": 17}
+  },
+  "cost_estimate_usd": 0.65,
+  "notes": "haiku gatherers ran in parallel; sonnet writer is single largest cost. Audio script-only."
+}

@@ -1,0 +1,363 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-21T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Galway West By-Election Takes Place Amid Campaign Fever",
+        "summary": "Voters in Galway West are heading to the polls for a by-election on May 21, 2026, following campaign activities across the constituency. Election hopefuls have been canvassing extensively throughout the week, including near the residence of President Michael D Higgins. The by-election represents a significant political event for the western region and has generated considerable local media coverage. The election outcome will be closely watched as an indicator of voter sentiment and potential shifts in political preferences.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/galway-west-byelection-7045937-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections"
+        ]
+      },
+      {
+        "headline": "President's Sister Among 14 Irish Citizens Detained in Gaza Flotilla Incident",
+        "summary": "Fourteen Irish activists have been detained following an incident involving a Gaza-bound flotilla, with Dr Margaret Connolly, the sister of President Michael D Higgins, among those held. The Taoiseach has expressed disapproval of the way the detainees are being treated during their detention. The incident has sparked diplomatic concern and commentary from Irish government officials regarding the treatment of the Irish citizens involved. The detention of a close family member of the President has elevated the profile of the incident within Irish political circles and media.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/430-activists-gaza-flotilla-being-taken-to-israel-7045148-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy",
+          "social"
+        ]
+      },
+      {
+        "headline": "National Ambulance Service Pay Dispute to Resume Labour Court Talks",
+        "summary": "The National Ambulance Service pay dispute is set to return to the Labour Court for further negotiations on May 21, 2026. Talks have been ongoing as the service seeks resolution to compensation and working condition grievances affecting ambulance workers. The Labour Court intervention represents an official mediation effort to resolve the labour dispute and restore stability to emergency services. Resolution of the pay dispute is critical for ensuring continued effective operation of the ambulance service across the country.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0521/1574408-ambulance-dispute-talks/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "health"
+        ]
+      },
+      {
+        "headline": "Children's Ombudsman Reports 1,778 Complaints Over Public Services",
+        "summary": "The Ombudsman for Children's Office received 1,778 complaints in the previous year regarding children's public services, with education, child welfare services (Tusla), and healthcare generating the majority of grievances. The office has been actively intervening in cases, including instances where disabled children's support arrangements were changed without proper consultation. The high complaint volume highlights systemic issues across multiple government departments and public agencies responsible for child welfare and education. These findings underscore ongoing challenges in ensuring adequate protection and services for vulnerable children in Ireland.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0521/1574411-children-ombudsman-office-complaints/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/05/21/education-tusla-and-health-services-caused-bulk-of-complaints-to-childrens-ombudsman/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "politics"
+        ]
+      },
+      {
+        "headline": "More Than 100 Charities Report Funding Challenges Amid Uncertain Economic Outlook",
+        "summary": "One in four charities across Ireland are expressing uncertainty about their ability to sustain existing services throughout 2026, according to new reporting. More than 100 charities have raised concerns about funding sustainability and operational challenges ahead. The financial pressures facing the charitable sector reflect broader economic headwinds and reduced donor support in the current climate. These funding challenges threaten the continuity of vital social services provided by non-profit organizations across healthcare, poverty alleviation, and community support sectors.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0521/1574418-charities-funding/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social"
+        ]
+      },
+      {
+        "headline": "Spanish Language Coordinator Killed in Hit-and-Run Incident on Dublin Road",
+        "summary": "Bel\u00e9n Arana N\u00fa\u00f1ez, a 23-year-old Spanish language immersion camp coordinator, was fatally struck by a vehicle on the N11 Bray Road in Loughlinstown, Dublin. The incident occurred on May 20, 2026, and garda\u00ed (Irish police) are appealing for witnesses to come forward with information. The victim was pronounced dead at the scene, and the investigation into the hit-and-run has become a priority for local law enforcement. The incident highlights ongoing road safety concerns on major Dublin thoroughfares.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/20/gardai-appeal-for-witnesses-after-spanish-woman-23-hit-and-killed-by-car-in-dublin/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Noah Donohoe Inquest Continues with Evidence of Teen's Final Movements",
+        "summary": "The inquest into the death of Noah Donohoe, a 14-year-old who disappeared in June 2020, has continued with the presentation of video evidence showing the teenager cycling through Belfast city centre shortly before his disappearance. The footage provides documentary evidence of his last-known movements prior to his death, with his body later discovered in a storm drain. The inquest jury has been reviewing the chronology of events and evidence surrounding the case, which has attracted significant media and public attention. The proceedings aim to establish the circumstances and cause of death in this high-profile case.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/noah-donohoe-2-7046098-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/05/20/footage-of-some-of-noah-donohoes-last-known-movements-show-to-inquest-jury/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Sharlene Mawdsley Sets Personal Record in 400m Sprint Competition",
+        "summary": "Tipperary sprinter Sharlene Mawdsley achieved a new personal record in the 400m event during her first individual outdoor race of the season, surpassing her previous best time from the Paris Olympics. The accomplished athlete continues to demonstrate strong competitive form and progression in track and field athletics. Mawdsley's performance marks a significant personal achievement and reflects her continued development as an elite Irish athlete. The result bodes well for her prospects in upcoming national and international competition.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport/othersport/arid-41848482.html"
+          }
+        ],
+        "tags": [
+          "sport"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-21T08:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "NATO ministers convene as US signals potential withdrawal of security guarantees",
+        "summary": "NATO defence ministers met on May 21 as the Trump administration indicated plans to reduce its commitment to European security, citing burden-sharing concerns. The meeting focused on the alliance's strategic future amid depleted weapons stocks from the ongoing Iran conflict. European nations face growing pressure to increase defence spending and weapons production independently. The potential shift marks a significant departure from post-Cold War security arrangements that have anchored European stability for decades. Member states are now considering enhanced European defence capabilities and deepened Franco-German military cooperation.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/21/nato-ministers-meet-as-us-plans-to-pull-away-from-european-security"
+          }
+        ],
+        "tags": [
+          "defence",
+          "NATO",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Germany proposes Ukraine 'associate member' status in EU without voting rights",
+        "summary": "German Chancellor Friedrich Merz unveiled a proposal to grant Ukraine associate membership in the European Union while it pursues full accession, positioning it as a transitional status that would integrate Ukraine into EU structures while preserving voting power for current member states. The proposal reflects Germany's attempt to balance support for Ukraine with institutional concerns about rapid enlargement. Merz's initiative comes amid ongoing discussions about Ukraine's long-term place in the European order post-conflict. The associate status could provide economic and political benefits while addressing concerns from eastern European nations about decision-making processes. The proposal has sparked debate across EU capitals about the pace and terms of Ukrainian integration.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260521-germany-s-merz-proposes-ukraine-as-eu-associate-member-without-voting-rights"
+          }
+        ],
+        "tags": [
+          "EU",
+          "Ukraine",
+          "governance"
+        ]
+      },
+      {
+        "headline": "German government moves to secure controlling stake in Franco-German weapons manufacturer KNDS",
+        "summary": "German authorities announced plans to acquire a 40% stake in KNDS, the Franco-German defence contractor, with intentions to eventually secure a majority holding through stake consolidation. The move underscores Germany's commitment to strengthening European defence industrial capacity amid heightened security concerns. KNDS produces critical weapons systems including tanks and armoured vehicles for multiple European NATO members. The acquisition represents Germany's broader strategy to consolidate its defence supply chain and reduce dependence on external suppliers. This development signals a significant shift in European military-industrial cooperation and German defence policy priorities.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/21/german-state-to-secure-40-stake-in-knds-weapons-firm-sources-say"
+          }
+        ],
+        "tags": [
+          "defence",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Christian leaders across EU demand windfall tax on fossil fuel companies",
+        "summary": "Faith organizations from across the European Union united to call for a windfall tax on major fossil fuel producers, arguing that energy companies are reaping 'colossal profits' while Europe transitions away from carbon-intensive power. The religious leaders are pressuring the EU to use taxation as a mechanism to fund climate transition efforts and support communities affected by the energy sector's transformation. The joint statement represents an unusual convergence between religious institutions and environmental advocates on energy policy. The demand comes as the EU continues implementing its climate commitments while managing energy security concerns. Church leaders argue that moral responsibility requires redirecting fossil fuel profits toward sustainable energy development and just transition support.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/21/colossal-profits-christian-leaders-lambast-fossil-fuel-giants-as-they-demand-eu-windfall-t"
+          }
+        ],
+        "tags": [
+          "climate",
+          "regulation",
+          "economy"
+        ]
+      },
+      {
+        "headline": "US Trump envoy calls for American military presence return to Greenland",
+        "summary": "US special envoy to Greenland Jeff Landry stated that the Trump administration must rebuild American military footprint in Greenland, citing historical military facilities and Arctic strategic importance. The statement reflects broader Trump administration focus on reasserting US presence in regions it views as geopolitically crucial. Greenland, a Danish autonomous territory, has become a focal point in US strategic planning due to Arctic resource wealth and military positioning relevant to NATO. The remarks have diplomatic implications for Denmark and could affect NATO's northern flank defence posture. The administration's interest in Greenland underscores a shift toward Arctic competition with Russia and China as emerging security priorities.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260521-us-needs-to-put-its-footprint-back-on-greenland-says-trump-envoy"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "NATO"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-21T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US Indicts Former Cuban President Ra\u00fal Castro for 1996 Plane Downing",
+        "summary": "A US grand jury has indicted 94-year-old Ra\u00fal Castro, Cuba's former president, on charges including murder, conspiracy to kill US nationals, and destruction of aircraft related to the 1996 downing of two civilian planes in the Straits of Florida. The indictment marks an escalation in US legal action against Cuban leadership and has prompted reactions from both Havana and the Cuban diaspora in Miami. Cuba's current government characterizes the charges as a political manoeuvre, while Trump administration officials have indicated they do not expect military escalation in response. The move reflects ongoing tensions between Washington and Havana over Cold War-era incidents and current geopolitical relations. This development comes amid broader US-Cuba relations and signals potential shifts in Caribbean policy.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c3r219yxl5eo"
+          },
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFRJQkV3TW5nWGtYdDhIQUdWWGtMSGV6UXlmdldRelFmdFYyTWU4YzZFZkQtZExYVElMU0hpdnJ1TjIxYlU0QWNJaXFjT1dPRmFEajJSd3RORnNlTmpDVlAxNlEwWjA5cUVidWx0SW94T1pqQUlkZy1fU05lcE8ydDY5RnYyamJrLXpBLTM3dTBWYnFWXzZhR09B"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/cubans-react-to-us-indictment-of-former-president-raul-castro"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Nvidia Posts Record $58.3 Billion Profit Amid AI Chip Boom",
+        "summary": "Nvidia has announced record quarterly profits of $58.3 billion and revenue growth driven by unprecedented demand for AI chips powering generative AI systems globally. The chip giant announced an $80 billion stock buyback programme and increased dividend, signalling strong confidence in continued market dominance. This result reflects the broader AI investment boom across technology and enterprise sectors worldwide. The earnings beat analyst expectations and underscore Nvidia's central role in the AI infrastructure buildout. The company's performance has boosted broader technology sector indices and influenced investment strategies globally.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb29TWnM5b0w0bFZfVU1tOGtHQkQ0dG4wTmxHTXU2cXBjYzd1aG9lVTVQNzFPWXNmWUhrNlFteHJCUTMxdEZHak5MNF8zNF81ajFidklQRGxDdy00TGxyNTZSZEc5S3p0eVpwNlBFSzFLcWlrMWhFc1lJV1JUaGo1aDh5bVdIRDlQMXRxcDQ2X1BfSlNCMXNiMk1YdENZa2FmdVBaM3NJSWlyWnJHREZtNDJsUnc3al9ZV2RITUJB"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "trade"
+        ]
+      },
+      {
+        "headline": "WHO Alarmed by Scale and Speed of Ebola Outbreak in Congo; 134 Dead",
+        "summary": "The World Health Organization has expressed serious concern over the rapid spread and magnitude of an Ebola outbreak in the Democratic Republic of Congo, with 134 confirmed deaths reported. Health officials on the ground describe heightened anxiety in affected communities as the rare viral strain spreads swiftly through the region. The outbreak's pace and transmission patterns have alarmed international health authorities, prompting calls for coordinated humanitarian response efforts. The situation underscores ongoing challenges in disease surveillance and outbreak response capacity in sub-Saharan Africa. This emerging health crisis has global implications for infectious disease preparedness and international health cooperation.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzRaSzBEb25URTJ0VEE0cEY5LVlDeDU3OUY5eXR5VV83aVZ0cnA1cXF4TmZpTnZfakZldjhOUUxzbjdqMkRzQUZMaklFNUY4bldiZHRiN0wwNjQya2ZaOTdCNlozaFlsS2FpUEo2dlpTODhtQ3hnUjVtaUh5bEhkcW5vcEI1ZTdXM2ZwanEwT0tzWG03YTFrY2xsbC1mRXlmOWxObEtPbWZFaEVvNENnLWhB"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlhaazRfQnNVdmFGU2xVaWtfeGNwbnRDcW51UnNVdnh4amdVNXBQMUJhLTFVeDNJUEdLeW9zalhnZGl5SWk0VVhWNmJrQ0U2M01JZTVXaWUtUE5kSWp5ODN4Y09kTjdVY3VYVG5peTFLNmVBWEtlbHBvYk5TdXJ4YWQ3T2VQNmQ0VHI5Z1A4UEJydWk5UkpJTjNpODlXNm41dE5PeXFxYVNlYnlDVEVNSU5lQ1lHOVJ5"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Samsung Strike Suspended as Workers Vote on Tentative Labour Deal",
+        "summary": "Samsung workers have suspended a planned strike scheduled to begin on Thursday while union members vote on a tentative labour agreement negotiated with management. The suspension marks a breakthrough in negotiations over compensation, working conditions, and AI-era bonuses that have been central to union demands. Samsung's stock surged on news of the averted labour disruption, benefiting the broader South Korean tech sector. However, concerns remain regarding executive bonus packages amid the agreement, raising questions about wealth distribution within the company. The outcome will have implications for tech sector labour relations globally as the industry grapples with rapid AI integration.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UVmVlNHl2RjhtUWdKLUdMcUdnMEtONldOakJvWHhBMzJiZXI1RWMxc0tqN2k4eThMR3VXRDdWTTJPT3dhRlV4VnBKR05ZdFlVS2hhNUtNM3dJOVN0emJmclVIT2dSYV9CUV9TdFBrcEJOVzFzYzZTYmZNQQ"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Iran Reviews US Response to Nuclear Deal as Trump Indicates Willingness to Wait",
+        "summary": "Iran is reviewing the latest US proposal on nuclear negotiations while the Trump administration signals flexibility on timelines for a renewed agreement. The development suggests ongoing diplomatic engagement between Washington and Tehran over Iran's nuclear programme, a critical geopolitical issue affecting Middle Eastern stability. Trump has indicated he can afford to delay negotiations, suggesting a shift in US urgency compared to previous administrations. The review process underscores the complex negotiations required to bridge differences on uranium enrichment, sanctions relief, and international monitoring. This diplomatic progress amid regional tensions offers potential for de-escalation but remains fragile amid broader US-Iran antagonisms.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlhaazRfQnNVdmFGU2xVaWtfeGNwbnRDcW51UnNVdnh4amdVNXBQMUJhLTFVeDNJUEdLeW9zalhnZGl5SWk0VVhWNmJrQ0U2M01JZTVXaWUtUE5kSWp5ODN4Y09kTjdVY3VYVG5peTFLNmVBWEtlbHBvYk5TdXJ4YWQ3T2VQNmQ0VHI5Z1A4UEJydWk5UkpJTjNpODlXNm41dE5PeXFxYVNlYnlDVEVNSU5lQ1lHOVJ5"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Over 17,000 Evacuated as Major Southern California Wildfire Threatens Homes",
+        "summary": "More than 17,000 residents have been placed under evacuation orders as a rapidly spreading wildfire advances toward populated areas in Southern California. The fire has prompted emergency response from multiple agencies and represents a significant natural disaster threat to thousands of households. Dry conditions and forecasted weather patterns suggest the fire could continue spreading, potentially affecting more communities. The evacuation scale reflects the fire's intensity and the density of nearby residential areas. Wildfires of this magnitude highlight ongoing challenges posed by climate change and drought conditions in western North America.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzhJdlM0WjAtZ2Z3dVRHWElTMDc3QmVJUGEzczFCSHpweTBEaWpZdExwZ1dxQXBrbFhJcm9rZllCNmVRUjNrNkxqUlVkR2JDd0ZLTU1CLUNieTJJcTVrS2hBR2RJbk54S1ZOZlVZRldBSXVHamVFVEc5VURSSVI4dWxXc0pMM3preWxTaS1JRHpHcEh6SHI0Yw"
+          }
+        ],
+        "tags": [
+          "climate",
+          "humanitarian",
+          "disaster"
+        ]
+      },
+      {
+        "headline": "Meta Cuts 8,000 Jobs as Company Pivots Toward AI Competition",
+        "summary": "Meta Platforms has announced significant workforce reductions of 8,000 employees as the company accelerates its pivot toward artificial intelligence development and infrastructure. The layoffs reflect Meta's determination to compete with technology rivals in the AI arms race, despite the company's massive investments in AI lagging behind competitors. The cuts represent another major corporate restructuring in the technology sector as companies realign resources toward AI capabilities. Meta's move signals broader industry trends as established tech giants reassess their workforce and strategic priorities in response to rapid AI advancement. The layoffs affect multiple divisions and underscore the transformative impact of AI on tech sector employment globally.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "trade"
+        ]
+      }
+    ]
+  }
+}

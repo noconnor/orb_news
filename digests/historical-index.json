@@ -230,7 +230,7 @@
     },
     {
       "story_topic": "NATO alliance internal tensions",
-      "historical_event": "France’s Withdrawal from NATO’s Integrated Military Command (1966)",
+      "historical_event": "France's Withdrawal from NATO's Integrated Military Command (1966)",
       "date_first_used": "2026-04-25",
       "wikipedia_url": "https://en.wikipedia.org/wiki/France_and_NATO"
     },
@@ -329,6 +329,18 @@
       "historical_event": "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
       "date_first_used": "2026-05-20",
       "wikipedia_url": "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+    },
+    {
+      "story_topic": "Gaza aid flotilla interception",
+      "historical_event": "The Corfu Channel Case (1947–1949)",
+      "date_first_used": "2026-05-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Corfu_Channel_case"
+    },
+    {
+      "story_topic": "AI semiconductor dominance",
+      "historical_event": "IBM's Mainframe Monopoly (1960s–1970s)",
+      "date_first_used": "2026-05-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_IBM"
     }
   ]
 }

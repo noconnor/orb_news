@@ -1,0 +1,41 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "NATO ministers convene as US signals potential withdrawal of security guarantees",
+      "story_topic": "Iran-US conflict",
+      "historical_event": "France's Withdrawal from NATO's Integrated Military Command (1966)",
+      "date_range": "1966",
+      "summary": "In March 1966, President Charles de Gaulle announced that France would withdraw from NATO's integrated military command structure, ordering all foreign military forces off French soil within a year and relocating NATO headquarters from Paris to Brussels. De Gaulle's action was rooted in his conviction that French sovereignty was incompatible with subordination to American strategic leadership, and that Europe required an independent deterrent capacity rather than reliance on the US nuclear umbrella. The crisis forced a fundamental renegotiation of alliance burden-sharing and accelerated West German rearmament and bilateral Franco-German defence cooperation. The Post-Cold War USAREUR drawdown (1990–2013) offered a subsequent precedent for how European defence posture adapts to reduced American presence on the continent.",
+      "parallel_analysis": "Today's parallel is sharper in one respect: the American signal is coming from the patron rather than a client, making European improvisation both more urgent and more structurally complex. Where de Gaulle's departure tested the alliance's political resilience, a US withdrawal tests its existential foundations — and arrives amid active conflict rather than Cold War stability. The historical lesson is that alliances survive such ruptures by accelerating integration among the remaining members, which is precisely what Berlin's moves on KNDS and Ukraine's EU status appear designed to achieve.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/France_and_NATO",
+        "https://en.wikipedia.org/wiki/United_States_Army_Europe_and_Africa"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "President's Sister Among 14 Irish Citizens Detained in Gaza Flotilla Incident",
+      "story_topic": "Gaza aid flotilla interception",
+      "historical_event": "The Corfu Channel Case (1947–1949)",
+      "date_range": "1947–1949",
+      "summary": "The Corfu Channel Case arose when British Royal Navy ships struck mines in Albanian territorial waters in October 1946, killing 44 sailors, prompting London to bring the matter before the newly formed International Court of Justice. The ICJ's landmark 1949 judgment established that ships of all nations retained the right of innocent passage through international straits during peacetime — a right that could not be 'suspended' by a coastal state's unilateral decision. Equally critically, the court ruled that even justified grievances did not authorise a state to conduct enforcement operations in foreign waters without legal basis, rejecting Britain's subsequent minesweeping mission as a 'manifestation of force' incompatible with international law. The judgment was incorporated into the 1958 and 1982 UN Conventions on the Law of the Sea and remains the foundational statement on navigational freedom in international maritime law.",
+      "parallel_analysis": "Today's flotilla interceptions echo precisely the tension the ICJ addressed: the collision between a state's asserted right to enforce restrictions in disputed waters and other states' claims of navigational freedom on behalf of their nationals. As in the Corfu case, the accumulation of incidents involving nationals of third-party states is generating pressure for a definitive international legal ruling on where enforcement authority ends and unlawful interdiction begins.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Corfu_Channel_case"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Nvidia Posts Record $58.3 Billion Profit Amid AI Chip Boom",
+      "story_topic": "AI semiconductor dominance",
+      "historical_event": "IBM's Mainframe Monopoly (1960s–1970s)",
+      "date_range": "1964–1982",
+      "summary": "From the mid-1960s onward, IBM controlled approximately 70% of the global computing market through its System/360 mainframe architecture, which became the de facto standard for enterprise computing worldwide. The company's dominance rested on a combination of proprietary hardware design, bundled software and services, and deep customer lock-in that made switching to rival systems prohibitively expensive. In 1969 the US Justice Department filed a sweeping antitrust suit against IBM that would run for 13 years before being controversially dropped in 1982, while European manufacturers — ICL, CII, and Siemens — formed cooperative ventures to preserve competitive alternatives. IBM's eventual unbundling of software from hardware in 1969 inadvertently created the independent software industry, demonstrating that dominant positions at technology chokepoints can reshape entire markets in unintended directions.",
+      "parallel_analysis": "Nvidia's position in AI accelerator chips today maps closely onto IBM's System/360 era: a single architecture become the standard, customers locked in through ecosystem dependencies, and regulators beginning to circle. The open question — as it was with IBM — is whether the dominance proves durable or whether competitive alternatives, open standards, or antitrust intervention eventually redistributes the gains.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/History_of_IBM"
+      ]
+    }
+  ]
+}

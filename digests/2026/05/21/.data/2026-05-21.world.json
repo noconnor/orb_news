@@ -1,0 +1,74 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-21T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US Indicts Former Cuban President Raúl Castro for 1996 Plane Downing",
+      "summary": "A US grand jury has indicted 94-year-old Raúl Castro, Cuba's former president, on charges including murder, conspiracy to kill US nationals, and destruction of aircraft related to the 1996 downing of two civilian planes in the Straits of Florida. The indictment marks an escalation in US legal action against Cuban leadership and has prompted reactions from both Havana and the Cuban diaspora in Miami. Cuba's current government characterizes the charges as a political manoeuvre, while Trump administration officials have indicated they do not expect military escalation in response. The move reflects ongoing tensions between Washington and Havana over Cold War-era incidents and current geopolitical relations. This development comes amid broader US-Cuba relations and signals potential shifts in Caribbean policy.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c3r219yxl5eo"},
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFRJQkV3TW5nWGtYdDhIQUdWWGtMSGV6UXlmdldRelFmdFYyTWU4YzZFZkQtZExYVElMU0hpdnJ1TjIxYlU0QWNJaXFjT1dPRmFEajJSd3RORnNlTmpDVlAxNlEwWjA5cUVidWx0SW94T1pqQUlkZy1fU05lcE8ydDY5RnYyamJrLXpBLTM3dTBWYnFWXzZhR09B"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/cubans-react-to-us-indictment-of-former-president-raul-castro"}
+      ],
+      "tags": ["diplomacy", "conflict", "geopolitics"]
+    },
+    {
+      "headline": "Nvidia Posts Record $58.3 Billion Profit Amid AI Chip Boom",
+      "summary": "Nvidia has announced record quarterly profits of $58.3 billion and revenue growth driven by unprecedented demand for AI chips powering generative AI systems globally. The chip giant announced an $80 billion stock buyback programme and increased dividend, signalling strong confidence in continued market dominance. This result reflects the broader AI investment boom across technology and enterprise sectors worldwide. The earnings beat analyst expectations and underscore Nvidia's central role in the AI infrastructure buildout. The company's performance has boosted broader technology sector indices and influenced investment strategies globally.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom"},
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb29TWnM5b0w0bFZfVU1tOGtHQkQ0dG4wTmxHTXU2cXBjYzd1aG9lVTVQNzFPWXNmWUhrNlFteHJCUTMxdEZHak5MNF8zNF81ajFidklQRGxDdy00TGxyNTZSZEc5S3p0eVpwNlBFSzFLcWlrMWhFc1lJV1JUaGo1aDh5bVdIRDlQMXRxcDQ2X1BfSlNCMXNiMk1YdENZa2FmdVBaM3NJSWlyWnJHREZtNDJsUnc3al9ZV2RITUJB"}
+      ],
+      "tags": ["economy", "technology", "trade"]
+    },
+    {
+      "headline": "WHO Alarmed by Scale and Speed of Ebola Outbreak in Congo; 134 Dead",
+      "summary": "The World Health Organization has expressed serious concern over the rapid spread and magnitude of an Ebola outbreak in the Democratic Republic of Congo, with 134 confirmed deaths reported. Health officials on the ground describe heightened anxiety in affected communities as the rare viral strain spreads swiftly through the region. The outbreak's pace and transmission patterns have alarmed international health authorities, prompting calls for coordinated humanitarian response efforts. The situation underscores ongoing challenges in disease surveillance and outbreak response capacity in sub-Saharan Africa. This emerging health crisis has global implications for infectious disease preparedness and international health cooperation.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzRaSzBEb25URTJ0VEE0cEY5LVlDeDU3OUY5eXR5VV83aVZ0cnA1cXF4TmZpTnZfakZldjhOUUxzbjdqMkRzQUZMaklFNUY4bldiZHRiN0wwNjQya2ZaOTdCNlozaFlsS2FpUEo2dlpTODhtQ3hnUjVtaUh5bEhkcW5vcEI1ZTdXM2ZwanEwT0tzWG03YTFrY2xsbC1mRXlmOWxObEtPbWZFaEVvNENnLWhB"},
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlhaazRfQnNVdmFGU2xVaWtfeGNwbnRDcW51UnNVdnh4amdVNXBQMUJhLTFVeDNJUEdLeW9zalhnZGl5SWk0VVhWNmJrQ0U2M01JZTVXaWUtUE5kSWp5ODN4Y09kTjdVY3VYVG5peTFLNmVBWEtlbHBvYk5TdXJ4YWQ3T2VQNmQ0VHI5Z1A4UEJydWk5UkpJTjNpODlXNm41dE5PeXFxYVNlYnlDVEVNSU5lQ1lHOVJ5"}
+      ],
+      "tags": ["health", "humanitarian", "conflict"]
+    },
+    {
+      "headline": "Samsung Strike Suspended as Workers Vote on Tentative Labour Deal",
+      "summary": "Samsung workers have suspended a planned strike scheduled to begin on Thursday while union members vote on a tentative labour agreement negotiated with management. The suspension marks a breakthrough in negotiations over compensation, working conditions, and AI-era bonuses that have been central to union demands. Samsung's stock surged on news of the averted labour disruption, benefiting the broader South Korean tech sector. However, concerns remain regarding executive bonus packages amid the agreement, raising questions about wealth distribution within the company. The outcome will have implications for tech sector labour relations globally as the industry grapples with rapid AI integration.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o"},
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UVmVlNHl2RjhtUWdKLUdMcUdnMEtONldOakJvWHhBMzJiZXI1RWMxc0tqN2k4eThMR3VXRDdWTTJPT3dhRlV4VnBKR05ZdFlVS2hhNUtNM3dJOVN0emJmclVIT2dSYV9CUV9TdFBrcEJOVzFzYzZTYmZNQQ"}
+      ],
+      "tags": ["economy", "trade", "technology"]
+    },
+    {
+      "headline": "Iran Reviews US Response to Nuclear Deal as Trump Indicates Willingness to Wait",
+      "summary": "Iran is reviewing the latest US proposal on nuclear negotiations while the Trump administration signals flexibility on timelines for a renewed agreement. The development suggests ongoing diplomatic engagement between Washington and Tehran over Iran's nuclear programme, a critical geopolitical issue affecting Middle Eastern stability. Trump has indicated he can afford to delay negotiations, suggesting a shift in US urgency compared to previous administrations. The review process underscores the complex negotiations required to bridge differences on uranium enrichment, sanctions relief, and international monitoring. This diplomatic progress amid regional tensions offers potential for de-escalation but remains fragile amid broader US-Iran antagonisms.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlhaazRfQnNVdmFGU2xVaWtfeGNwbnRDcW51UnNVdnh4amdVNXBQMUJhLTFVeDNJUEdLeW9zalhnZGl5SWk0VVhWNmJrQ0U2M01JZTVXaWUtUE5kSWp5ODN4Y09kTjdVY3VYVG5peTFLNmVBWEtlbHBvYk5TdXJ4YWQ3T2VQNmQ0VHI5Z1A4UEJydWk5UkpJTjNpODlXNm41dE5PeXFxYVNlYnlDVEVNSU5lQ1lHOVJ5"}
+      ],
+      "tags": ["diplomacy", "conflict", "geopolitics"]
+    },
+    {
+      "headline": "Over 17,000 Evacuated as Major Southern California Wildfire Threatens Homes",
+      "summary": "More than 17,000 residents have been placed under evacuation orders as a rapidly spreading wildfire advances toward populated areas in Southern California. The fire has prompted emergency response from multiple agencies and represents a significant natural disaster threat to thousands of households. Dry conditions and forecasted weather patterns suggest the fire could continue spreading, potentially affecting more communities. The evacuation scale reflects the fire's intensity and the density of nearby residential areas. Wildfires of this magnitude highlight ongoing challenges posed by climate change and drought conditions in western North America.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzhJdlM0WjAtZ2Z3dVRHWElTMDc3QmVJUGEzczFCSHpweTBEaWpZdExwZ1dxQXBrbFhJcm9rZllCNmVRUjNrNkxqUlVkR2JDd0ZLTU1CLUNieTJJcTVrS2hBR2RJbk54S1ZOZlVZRldBSXVHamVFVEc5VURSSVI4dWxXc0pMM3preWxTaS1JRHpHcEh6SHI0Yw"}
+      ],
+      "tags": ["climate", "humanitarian", "disaster"]
+    },
+    {
+      "headline": "Meta Cuts 8,000 Jobs as Company Pivots Toward AI Competition",
+      "summary": "Meta Platforms has announced significant workforce reductions of 8,000 employees as the company accelerates its pivot toward artificial intelligence development and infrastructure. The layoffs reflect Meta's determination to compete with technology rivals in the AI arms race, despite the company's massive investments in AI lagging behind competitors. The cuts represent another major corporate restructuring in the technology sector as companies realign resources toward AI capabilities. Meta's move signals broader industry trends as established tech giants reassess their workforce and strategic priorities in response to rapid AI advancement. The layoffs affect multiple divisions and underscore the transformative impact of AI on tech sector employment globally.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs"}
+      ],
+      "tags": ["economy", "technology", "trade"]
+    }
+  ]
+}
