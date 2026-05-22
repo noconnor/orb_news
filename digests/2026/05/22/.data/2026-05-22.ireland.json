@@ -1,0 +1,69 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-22T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Voters go to polls in Dublin Central and Galway West bye-elections",
+      "summary": "Irish voters are casting ballots today in two Dáil bye-elections to fill vacant seats in Dublin Central and Galway West constituencies. The bye-elections follow recent resignations and represent significant political contests with multiple candidates vying for the positions. Polling suggests competitive races in both constituencies, with uncertainty around final outcomes. The results will influence the balance of power in the Dáil and could impact government dynamics. Both contests have attracted substantial campaign activity from major political parties over the past week.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0522/1574612-bye-elections-dublin-galway/"}
+      ],
+      "tags": ["politics", "elections"]
+    },
+    {
+      "headline": "Taoiseach Micheál Martin to meet Pope Francis in Vatican",
+      "summary": "Taoiseach Micheál Martin is meeting with Pope Francis at the Vatican, the first such meeting between an Irish leader and a pope since Leo Varadkar's 2018 visit to Pope Francis. The engagement represents a significant diplomatic moment and offers an opportunity to reset relations after what has been described as a 'difficult' period between Ireland and the Vatican. The meeting will likely cover matters of mutual interest including social policy and international affairs. This visit underscores Ireland's continued diplomatic engagement with the Catholic Church leadership. The encounter marks an important moment in Irish-Vatican relations.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/pope-leo-to-meet-taoiseach-micheal-martin-7046799-May2026/"}
+      ],
+      "tags": ["politics", "diplomacy"]
+    },
+    {
+      "headline": "Irish tech sector employment falls to five-year low",
+      "summary": "Technology sector employment in Ireland has declined by 20,300 workers over the past year, reaching its lowest level in five years. The decline signals a significant contraction in the tech industry, which has been a cornerstone of Ireland's economy and employment base. This reduction reflects broader challenges facing the sector, including consolidation and potential shifts in hiring patterns. The figures raise concerns about employment stability in one of Ireland's most important economic sectors. Analysts attribute the decline to structural economic changes and evolving industry dynamics.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/economy/arid-41849013.html"}
+      ],
+      "tags": ["economy", "employment"]
+    },
+    {
+      "headline": "Irish Rail plans €1.8bn commuter rail programme for Cork and surrounding region",
+      "summary": "Irish Rail has announced a major €1.8 billion commuter rail programme designed to deliver DART-like rapid transit service to Cork and its surrounding region, targeting completion by 2032. The ambitious project aims to have two stations operational by late 2028, with full service rollout following. The programme represents one of Ireland's largest infrastructure investments and is intended to transform commuter travel in the south. The project will significantly enhance connectivity and support economic development in the Cork region. Construction and implementation planning are expected to commence soon.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41849088.html"}
+      ],
+      "tags": ["transport", "economy"]
+    },
+    {
+      "headline": "Irish authorities seek solutions for EV charging access in homes without driveways",
+      "summary": "Irish policymakers are addressing infrastructure gaps to enable residents without private driveways to charge electric vehicles and meet government's 2030 electrification targets. The challenge of providing accessible charging infrastructure for apartment dwellers and those without off-street parking has emerged as a significant barrier to EV adoption. Authorities are exploring solutions including public charging networks and shared charging facilities to bridge this gap. The initiative reflects the government's commitment to accelerating the transition to electric vehicles across all sectors of society. Addressing this infrastructure challenge is crucial for achieving Ireland's climate and sustainability goals.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/environment/2026/0522/1574611-electric-car-charging/"}
+      ],
+      "tags": ["environment", "housing", "transport"]
+    },
+    {
+      "headline": "12 Scott medals awarded to gardaí for bravery during historical incidents",
+      "summary": "The Garda Commissioner is presenting 12 Scott medals to retired and deceased gardaí in recognition of exceptional bravery and service during significant historical incidents. The medals honour actions spanning decades, including incidents during the anti-treaty period in 1923 and terrorist activities in the 1970s and 1980s. The awards recognise the extraordinary courage displayed by members of An Garda Síochána in the line of duty. This ceremony celebrates the sacrifice and bravery of officers who served during critical periods in Ireland's history. The Scott medal represents one of the highest honours available within the Garda Síochána.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0522/1574617-scott-medals/"}
+      ],
+      "tags": ["defence", "politics"]
+    },
+    {
+      "headline": "Dublin's Temple Bar celebrates 35 years of business as cultural landmark",
+      "summary": "Temple Bar, Dublin's iconic cultural venue and tourist destination, is marking 35 years of operation following its establishment in 1991 with government legislation that provided tax breaks for its redevelopment. The venue has become synonymous with Dublin's nightlife and cultural scene, hosting countless events and attracting visitors from around the world. The establishment was created through a special legislative framework designed to revitalise the historically run-down area. Over three decades, it has evolved into a significant cultural and economic anchor for Dublin's city centre. The anniversary reflects the venue's importance to Dublin's identity and tourism industry.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0522/1574619-temple-bar/"}
+      ],
+      "tags": ["social", "economy"]
+    }
+  ]
+}

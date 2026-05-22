@@ -1,0 +1,46 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US-Iran tensions intensify amid failed peace talks and military posturing",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_range": "1973–1974",
+      "summary": "When Arab members of OPEC imposed an oil embargo on Western nations in October 1973 in response to US support for Israel during the Yom Kippur War, oil prices quadrupled in a matter of months, triggering the worst recession the Western world had seen since the Great Depression. Petrol rationing, speed limits, and shuttered factories became common across Europe and North America, and the shock permanently reshaped energy policy, nuclear power investment, and strategic reserve planning in every major economy. The crisis exposed how thoroughly European industrial economies depended on a narrow chokepoint of Persian Gulf supply — a vulnerability that decades of diversification have only partially addressed. Iran's current posture over the Strait of Hormuz represents a structurally identical threat: a single actor with the ability to disrupt global energy flows using geography as leverage.",
+      "parallel_analysis": "The difference today is that Iran is not a coalition partner imposing an embargo but a belligerent in an active conflict, meaning the supply disruption risk is both less predictable and potentially more sustained than the 1973 episode. The eurozone contraction and simultaneous inflation reported in May 2026 mirror precisely the stagflationary dynamics that confounded Western central banks in 1973–74. Then as now, policymakers face the impossible bind of using monetary tools designed for demand-side problems to address a supply-side shock rooted in geopolitical decisions beyond their control.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Gaza flotilla activists report violent treatment during Israeli raid",
+      "story_topic": "Gaza aid flotilla interception",
+      "historical_event": "2010 Gaza Flotilla Raid (Mavi Marmara)",
+      "date_range": "2010",
+      "summary": "In May 2010, Israeli commandos intercepted the MV Mavi Marmara in international waters as part of a flotilla attempting to break the Gaza blockade, killing nine Turkish activists and wounding dozens more. The raid caused a profound rupture in Israeli-Turkish relations — until then a cornerstone of Israeli regional diplomacy — and triggered a UN Human Rights Council inquiry that found Israel had used excessive force and violated international humanitarian law. Turkey recalled its ambassador and expelled Israel's, and relations did not normalise until 2016 after years of negotiations. The 2010 episode set the international template by which all subsequent flotilla interceptions are measured, and established that such operations, regardless of their legality under Israeli domestic law, carry severe and lasting diplomatic costs.",
+      "parallel_analysis": "Friday's raid follows that same pattern: the publication of footage by an Israeli minister, likely intended as domestic deterrence signalling, has instead become the primary piece of evidence cited by governments and international organisations condemning the operation. The Corfu Channel case of 1947–1949 and the Aliyah Bet precedent further frame the contested legal and moral terrain, reinforcing that the question of who has the right to challenge maritime blockades has never been cleanly resolved in international law and continues to generate acute diplomatic crises each time it recurs.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/2010_Gaza_flotilla_raid",
+        "https://en.wikipedia.org/wiki/Aliyah_Bet",
+        "https://en.wikipedia.org/wiki/Corfu_Channel_case"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Trump administration to deploy 5,000 US troops to Poland as European security concerns mount",
+      "story_topic": "US NATO forward deployment Eastern Europe",
+      "historical_event": "Exercise REFORGER — Return of Forces to Germany (1969–1993)",
+      "date_range": "1969–1993",
+      "summary": "Throughout the Cold War, NATO relied on annual Exercise REFORGER ('Return of Forces to Germany') to demonstrate that the United States could rapidly reinforce Western Europe in the event of a Soviet attack. Launched in 1969 following President Johnson's announcement of troop reductions in Europe, REFORGER was both a logistical rehearsal and a political signal: it told Moscow that any calculation of NATO's forward strength at a moment of crisis would have to account for a massive and rapid transatlantic reinforcement. At its peak in 1988 the exercise involved around 125,000 troops from six nations, making it the largest European ground manoeuvre since the Second World War. The exercises continued until German reunification and the Soviet dissolution in 1993, after which the forward deterrence rationale appeared temporarily obsolete. Exercise Steadfast Defender succeeded REFORGER in the twenty-first century, inheriting its logic of demonstrating rapid reinforcement capability to a potential adversary watching closely from the east.",
+      "parallel_analysis": "The current US deployment to Poland echoes the REFORGER calculus precisely: a physical forward presence that raises the cost of Russian aggression by ensuring American soldiers would be in harm's way from the first hours of any incursion, making a limited attack on NATO territory a direct engagement with US forces. Where REFORGER was a sustained annual exercise maintained across decades of relative stability, today's deployments are reactive improvisations responding to a war already under way — a measure of how profoundly the European security environment has deteriorated since 1993. The reversal-then-reinstatement pattern of this particular Poland deployment also reflects a new and destabilising variable that REFORGER planners never had to contend with: allied uncertainty about whether American security commitments will hold from one administration to the next.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Exercise_REFORGER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-22T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch_no_results",
+    "dw": "rss_failed_used_websearch_no_results",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran war squeezes Europe's economy as business activity contracts",
+      "summary": "The ongoing conflict in Iran is straining the eurozone economy, with May 2026 data showing business activity contracted at its fastest pace in more than two years. Simultaneously, inflation is rising and energy prices are surging, triggering recession concerns across the European economic bloc. The combined impact of geopolitical instability and commodity price shocks is affecting both manufacturing and services sectors. Eurozone policymakers are closely monitoring the situation amid growing calls for economic stimulus measures. This economic contraction reflects Europe's vulnerability to Middle Eastern geopolitical tensions.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260521-iran-war-squeezes-europe-economy-growth-slumps-prices-surge-energy-shock"}
+      ],
+      "tags": ["economy", "geopolitics", "EU"]
+    },
+    {
+      "headline": "Russia accuses Latvia of assisting Ukraine drone strikes, threatens military response",
+      "summary": "Russian intelligence services have accused Latvia of supporting Ukrainian drone offensive operations without substantiation and warned of potential military consequences. The accusations reflect escalating hybrid warfare tactics employed by Moscow against NATO members in the Baltic region. Latvia has rejected the claims as baseless propaganda aimed at destabilizing the country. This incident underscores rising tensions between Russia and EU member states, particularly those bordering Russia. The threats highlight the precarious security situation for Baltic NATO members amid ongoing conflicts in neighbouring Ukraine.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260521-russian-secret-services-target-latvia-as-ukraine-s-drone-offensive-worries-the-kremlin"}
+      ],
+      "tags": ["defence", "geopolitics", "EU"]
+    },
+    {
+      "headline": "Germany's Merz proposes Ukraine as EU associate member without voting rights",
+      "summary": "German Chancellor Friedrich Merz has proposed granting Ukraine associate membership status within the European Union, allowing representation at key EU institutions while withholding full voting authority during ongoing membership negotiations. This proposal represents a pragmatic compromise aimed at deepening Ukraine's integration with Western structures while maintaining the conditions for eventual full membership. The proposal comes as Ukraine continues its fight against Russian invasion while seeking closer ties to the EU. The associate member status would provide security assurances and economic benefits without the immediate obligation of full member responsibilities. This reflects broader EU efforts to support Ukraine's European orientation.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260521-germany-s-merz-proposes-ukraine-as-eu-associate-member-without-voting-rights"}
+      ],
+      "tags": ["EU", "governance", "diplomacy"]
+    },
+    {
+      "headline": "Trump administration to deploy 5,000 US troops to Poland as European security concerns mount",
+      "summary": "President Trump has announced plans to station 5,000 American military personnel in Poland, reversing an earlier cancellation of this deployment. This decision reflects Washington's expectations that European allies significantly increase their defense spending amid ongoing security challenges. The troop deployment reinforces NATO's eastern flank presence and signals U.S. commitment to supporting Eastern European members facing Russian threats. Poland welcomes the move as bolstering regional security in response to Russian aggression. The deployment comes amid broader discussions within NATO about burden-sharing and European defence investment.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260521-trump-to-deploy-5-000-us-troops-to-poland-after-earlier-plan-was-canceled"}
+      ],
+      "tags": ["defence", "EU", "diplomacy"]
+    },
+    {
+      "headline": "EU pressures European carmakers to diversify semiconductor suppliers",
+      "summary": "European automobile manufacturers are facing regulatory pressure from EU authorities to reduce their dependency on single-source semiconductor suppliers. The diversification mandate reflects lessons learned from recent supply chain disruptions that have affected the automotive industry. EU policymakers seek to strengthen the resilience of critical supply chains by encouraging multi-source sourcing strategies for chip components. This regulation forms part of broader European efforts to reduce strategic dependencies on external suppliers for vital industrial inputs. The policy aims to support both European chip manufacturers and ensure the competitiveness of the auto sector.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/21/european-carmakers-face-eu-pressure-to-diversify-chip-suppliers"}
+      ],
+      "tags": ["regulation", "trade", "economy"]
+    },
+    {
+      "headline": "EU and Mexico address trade barriers amid global economic turbulence",
+      "summary": "The European Union is working to remove remaining trade obstacles with Mexico as part of a broader review of their bilateral trade agreement. This effort occurs against a backdrop of turbulent global economic relations characterized by what the EU describes as hostile trade policies from various quarters. The trade negotiations reflect Europe's strategy to diversify and strengthen partnerships with key non-European allies amid geopolitical and economic uncertainty. Mexico is an important trade partner for the EU, and strengthening ties serves mutual economic interests. The agreement review demonstrates the EU's commitment to maintaining stable trade relationships in an increasingly fractious global environment.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/22/brussels-to-remove-remaining-barriers-with-mexico-as-the-allies-review-their-trade-agreeme"}
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "Air France and Airbus convicted of manslaughter in 2009 Rio-Paris crash",
+      "summary": "Air France and Airbus have been convicted of manslaughter in connection with the 2009 Rio-Paris flight disaster, in which a Boeing 777 crashed over the Atlantic Ocean killing all 228 people aboard. The conviction reflects findings that pilots lost control of the aircraft, with subsequent investigations pointing to technical and human factors. This ruling represents a significant legal development for both companies and the aviation industry's accountability frameworks. The conviction has implications for aircraft manufacturer liability and airline operational responsibility in accident investigations. The case has been closely watched across Europe and by the international aviation community.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/21/air-france-and-airbus-convicted-of-manslaughter-in-2009-rio-paris-crash-over-atlantic"}
+      ],
+      "tags": ["governance", "economy", "EU"]
+    },
+    {
+      "headline": "Dover border queues expected as UK faces first peak holiday period under new EU system",
+      "summary": "Significant border queues are expected at Dover during the approaching holiday period as the UK experiences the first major peak travel season since the EU's new border system was fully implemented. The new customs and immigration procedures are expected to cause delays for travellers crossing the English Channel. UK authorities have prepared contingency measures to manage anticipated congestion at this critical trade and travel chokepoint. The situation reflects ongoing operational challenges in implementing post-Brexit border arrangements between the UK and EU. This is a critical test of the effectiveness of new border procedures for both passenger and commercial traffic.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cpqpygjwywjo"}
+      ],
+      "tags": ["trade", "governance", "EU"]
+    }
+  ]
+}

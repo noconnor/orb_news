@@ -1,0 +1,89 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-22T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Ebola outbreak spreads in DR Congo amid public resistance to containment efforts",
+      "summary": "A significant Ebola outbreak in the Democratic Republic of Congo has claimed at least 134 lives, with the WHO expressing concern over the outbreak's rapid spread. The situation is complicated by public distrust and violent resistance, including incidents where locals set treatment facilities on fire, preventing health authorities from containing infected patients. The outbreak involves a rare species of the virus and is occurring in conflict-affected areas, creating additional obstacles to medical intervention. Authorities struggle to balance burial practices and community concerns while attempting to implement quarantine measures. The humanitarian and public health crisis has drawn international attention and concern from global health organizations.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do"}
+      ],
+      "tags": ["humanitarian", "health", "conflict"]
+    },
+    {
+      "headline": "Gaza flotilla activists report violent treatment during Israeli raid",
+      "summary": "Humanitarian activists aboard the Global Sumud Flotilla attempting to deliver aid to Gaza were intercepted and subjected to what they describe as violent treatment during an Israeli operation. Videos released by an Israeli security minister taunting restrained activists have drawn international condemnation and sparked diplomatic backlash. The flotilla included activists from multiple countries, including an Irish activist, expanding the incident's international dimensions. The activists were subsequently deported from Israel after describing their experiences to international media. The incident raises broader questions about the humanitarian blockade on Gaza and international humanitarian principles.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "US-Iran tensions intensify amid failed peace talks and military posturing",
+      "summary": "Efforts to reach a US-Iran peace deal face significant obstacles as signs of progress collide with continued military tensions and economic uncertainty. The Trump administration has signaled intent to retrieve uranium from Iran while simultaneously engaging in diplomatic negotiations, creating mixed signals about overall strategy. Oil prices have risen amid doubts about breakthrough potential in negotiations, reflecting market concern over geopolitical instability in the Middle East. Iran has stepped up claims to control the Strait of Hormuz, claiming armed forces oversight across over 22,000 square kilometers of critical shipping lanes. The standoff represents one of the most significant geopolitical challenges currently facing the international community.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cq5py64gvwzo"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "US announces 5,000 additional troop deployment to Poland amid NATO tensions",
+      "summary": "The Trump administration announced plans to deploy an additional 5,000 US troops to Poland, following a week after a previously planned 4,000-troop deployment was cancelled. The troop movement signals continued US commitment to NATO's eastern flank at a time of heightened Russian tensions and European security concerns. The deployment comes amid reports of Russian jets intercepting RAF reconnaissance aircraft and escalating tensions between Russia and NATO members. This decision reflects broader US military strategy to reassure Eastern European allies while managing complex geopolitical relationships. The troop presence represents a significant forward positioning of American military assets in a strategically important region.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cedpz9669deo"}
+      ],
+      "tags": ["defence", "diplomacy", "conflict"]
+    },
+    {
+      "headline": "Greenlanders protest US consulate opening amid territorial expansion concerns",
+      "summary": "Hundreds of Greenlanders gathered in Nuuk to protest the opening of a new US consulate, demonstrating public opposition to increased American presence and influence on the autonomous Danish territory. The protest reflects concerns about Trump administration efforts to gain greater control or influence over Greenland, a strategically important Arctic territory. The consulate opening signals intensified US diplomatic engagement with Greenland at a time of growing Arctic geopolitical competition. The demonstrations underscore tensions between Greenland's desire for autonomy and great-power interest in the island's geographic and resource significance. The incident highlights broader questions about sovereignty and strategic competition in the Arctic region.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/greenlanders-protest-opening-of-new-us-consulate-in-nuuk"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo"},
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["diplomacy", "geopolitics", "governance"]
+    },
+    {
+      "headline": "Cuba and US face escalating tensions following indictment of former leader Raúl Castro",
+      "summary": "The Trump administration's indictment of former Cuban leader Raúl Castro has triggered a significant diplomatic crisis between the US and Cuba. Cuba's foreign minister accused Trump administration officials, particularly Secretary of State Marco Rubio, of attempting to 'instigate military aggression' and accused them of spreading 'lies' about the island. The indictment represents aggressive legal action against a former head of state and signals heightened US pressure on Cuba's communist government. Multiple analysts have outlined three potential pathways for how the crisis could escalate or resolve, ranging from continued economic pressure to more direct confrontation. The incident represents a significant shift in US-Cuba relations with potential ramifications for the broader Caribbean region.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Ukraine advances air defence capabilities as Russia continues four-year assault",
+      "summary": "After four years of Russia's military invasion, Ukraine has significantly improved its air defence systems through integration of AI technology and specialized interceptor capabilities designed to counter Russian drone and missile attacks. The enhancements represent critical progress in defending Ukrainian civilians and infrastructure against ongoing aerial bombardment. Ukraine's technological innovations have drawn international attention as a model for modern air defence in contemporary conflict. The improvements reflect both Ukraine's resilience and the substantial support from Western allies providing advanced systems and technology. The development of effective air defences remains crucial to Ukraine's ability to sustain resistance against Russian aggression and protect its population.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo"}
+      ],
+      "tags": ["conflict", "technology", "defence"]
+    },
+    {
+      "headline": "SpaceX advances toward record $2 trillion IPO amid ambitious expansion plans",
+      "summary": "SpaceX has announced plans for a record-breaking stock market debut valuing the company at approximately $2 trillion, encompassing its ambitious vision spanning rockets and artificial intelligence capabilities. The IPO announcement comes as the company delays its Starship launch schedule, postponing tests as the mega share sale preparation advances. The valuation reflects market confidence in SpaceX's technological capabilities and growth potential across multiple sectors. The IPO represents one of the most significant corporate finance events in recent history and signals investor appetite for space technology and innovation. The deal's scale and scope underscore the commercial space industry's emergence as a major economic force with global strategic implications.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cy42w782ejvo"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    }
+  ]
+}

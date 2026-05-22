@@ -1,0 +1,428 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-22T06:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Voters go to polls in Dublin Central and Galway West bye-elections",
+        "summary": "Irish voters are casting ballots today in two D\u00e1il bye-elections to fill vacant seats in Dublin Central and Galway West constituencies. The bye-elections follow recent resignations and represent significant political contests with multiple candidates vying for the positions. Polling suggests competitive races in both constituencies, with uncertainty around final outcomes. The results will influence the balance of power in the D\u00e1il and could impact government dynamics. Both contests have attracted substantial campaign activity from major political parties over the past week.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0522/1574612-bye-elections-dublin-galway/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Taoiseach Miche\u00e1l Martin to meet Pope Francis in Vatican",
+        "summary": "Taoiseach Miche\u00e1l Martin is meeting with Pope Francis at the Vatican, the first such meeting between an Irish leader and a pope since Leo Varadkar's 2018 visit to Pope Francis. The engagement represents a significant diplomatic moment and offers an opportunity to reset relations after what has been described as a 'difficult' period between Ireland and the Vatican. The meeting will likely cover matters of mutual interest including social policy and international affairs. This visit underscores Ireland's continued diplomatic engagement with the Catholic Church leadership. The encounter marks an important moment in Irish-Vatican relations.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/pope-leo-to-meet-taoiseach-micheal-martin-7046799-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Irish tech sector employment falls to five-year low",
+        "summary": "Technology sector employment in Ireland has declined by 20,300 workers over the past year, reaching its lowest level in five years. The decline signals a significant contraction in the tech industry, which has been a cornerstone of Ireland's economy and employment base. This reduction reflects broader challenges facing the sector, including consolidation and potential shifts in hiring patterns. The figures raise concerns about employment stability in one of Ireland's most important economic sectors. Analysts attribute the decline to structural economic changes and evolving industry dynamics.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/business/economy/arid-41849013.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "employment"
+        ]
+      },
+      {
+        "headline": "Irish Rail plans \u20ac1.8bn commuter rail programme for Cork and surrounding region",
+        "summary": "Irish Rail has announced a major \u20ac1.8 billion commuter rail programme designed to deliver DART-like rapid transit service to Cork and its surrounding region, targeting completion by 2032. The ambitious project aims to have two stations operational by late 2028, with full service rollout following. The programme represents one of Ireland's largest infrastructure investments and is intended to transform commuter travel in the south. The project will significantly enhance connectivity and support economic development in the Cork region. Construction and implementation planning are expected to commence soon.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41849088.html"
+          }
+        ],
+        "tags": [
+          "transport",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Irish authorities seek solutions for EV charging access in homes without driveways",
+        "summary": "Irish policymakers are addressing infrastructure gaps to enable residents without private driveways to charge electric vehicles and meet government's 2030 electrification targets. The challenge of providing accessible charging infrastructure for apartment dwellers and those without off-street parking has emerged as a significant barrier to EV adoption. Authorities are exploring solutions including public charging networks and shared charging facilities to bridge this gap. The initiative reflects the government's commitment to accelerating the transition to electric vehicles across all sectors of society. Addressing this infrastructure challenge is crucial for achieving Ireland's climate and sustainability goals.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/environment/2026/0522/1574611-electric-car-charging/"
+          }
+        ],
+        "tags": [
+          "environment",
+          "housing",
+          "transport"
+        ]
+      },
+      {
+        "headline": "12 Scott medals awarded to garda\u00ed for bravery during historical incidents",
+        "summary": "The Garda Commissioner is presenting 12 Scott medals to retired and deceased garda\u00ed in recognition of exceptional bravery and service during significant historical incidents. The medals honour actions spanning decades, including incidents during the anti-treaty period in 1923 and terrorist activities in the 1970s and 1980s. The awards recognise the extraordinary courage displayed by members of An Garda S\u00edoch\u00e1na in the line of duty. This ceremony celebrates the sacrifice and bravery of officers who served during critical periods in Ireland's history. The Scott medal represents one of the highest honours available within the Garda S\u00edoch\u00e1na.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0522/1574617-scott-medals/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Dublin's Temple Bar celebrates 35 years of business as cultural landmark",
+        "summary": "Temple Bar, Dublin's iconic cultural venue and tourist destination, is marking 35 years of operation following its establishment in 1991 with government legislation that provided tax breaks for its redevelopment. The venue has become synonymous with Dublin's nightlife and cultural scene, hosting countless events and attracting visitors from around the world. The establishment was created through a special legislative framework designed to revitalise the historically run-down area. Over three decades, it has evolved into a significant cultural and economic anchor for Dublin's city centre. The anniversary reflects the venue's importance to Dublin's identity and tourism industry.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0522/1574619-temple-bar/"
+          }
+        ],
+        "tags": [
+          "social",
+          "economy"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-22T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch_no_results",
+      "dw": "rss_failed_used_websearch_no_results",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Iran war squeezes Europe's economy as business activity contracts",
+        "summary": "The ongoing conflict in Iran is straining the eurozone economy, with May 2026 data showing business activity contracted at its fastest pace in more than two years. Simultaneously, inflation is rising and energy prices are surging, triggering recession concerns across the European economic bloc. The combined impact of geopolitical instability and commodity price shocks is affecting both manufacturing and services sectors. Eurozone policymakers are closely monitoring the situation amid growing calls for economic stimulus measures. This economic contraction reflects Europe's vulnerability to Middle Eastern geopolitical tensions.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260521-iran-war-squeezes-europe-economy-growth-slumps-prices-surge-energy-shock"
+          }
+        ],
+        "tags": [
+          "economy",
+          "geopolitics",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Russia accuses Latvia of assisting Ukraine drone strikes, threatens military response",
+        "summary": "Russian intelligence services have accused Latvia of supporting Ukrainian drone offensive operations without substantiation and warned of potential military consequences. The accusations reflect escalating hybrid warfare tactics employed by Moscow against NATO members in the Baltic region. Latvia has rejected the claims as baseless propaganda aimed at destabilizing the country. This incident underscores rising tensions between Russia and EU member states, particularly those bordering Russia. The threats highlight the precarious security situation for Baltic NATO members amid ongoing conflicts in neighbouring Ukraine.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260521-russian-secret-services-target-latvia-as-ukraine-s-drone-offensive-worries-the-kremlin"
+          }
+        ],
+        "tags": [
+          "defence",
+          "geopolitics",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Germany's Merz proposes Ukraine as EU associate member without voting rights",
+        "summary": "German Chancellor Friedrich Merz has proposed granting Ukraine associate membership status within the European Union, allowing representation at key EU institutions while withholding full voting authority during ongoing membership negotiations. This proposal represents a pragmatic compromise aimed at deepening Ukraine's integration with Western structures while maintaining the conditions for eventual full membership. The proposal comes as Ukraine continues its fight against Russian invasion while seeking closer ties to the EU. The associate member status would provide security assurances and economic benefits without the immediate obligation of full member responsibilities. This reflects broader EU efforts to support Ukraine's European orientation.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260521-germany-s-merz-proposes-ukraine-as-eu-associate-member-without-voting-rights"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Trump administration to deploy 5,000 US troops to Poland as European security concerns mount",
+        "summary": "President Trump has announced plans to station 5,000 American military personnel in Poland, reversing an earlier cancellation of this deployment. This decision reflects Washington's expectations that European allies significantly increase their defense spending amid ongoing security challenges. The troop deployment reinforces NATO's eastern flank presence and signals U.S. commitment to supporting Eastern European members facing Russian threats. Poland welcomes the move as bolstering regional security in response to Russian aggression. The deployment comes amid broader discussions within NATO about burden-sharing and European defence investment.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260521-trump-to-deploy-5-000-us-troops-to-poland-after-earlier-plan-was-canceled"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU pressures European carmakers to diversify semiconductor suppliers",
+        "summary": "European automobile manufacturers are facing regulatory pressure from EU authorities to reduce their dependency on single-source semiconductor suppliers. The diversification mandate reflects lessons learned from recent supply chain disruptions that have affected the automotive industry. EU policymakers seek to strengthen the resilience of critical supply chains by encouraging multi-source sourcing strategies for chip components. This regulation forms part of broader European efforts to reduce strategic dependencies on external suppliers for vital industrial inputs. The policy aims to support both European chip manufacturers and ensure the competitiveness of the auto sector.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/21/european-carmakers-face-eu-pressure-to-diversify-chip-suppliers"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "trade",
+          "economy"
+        ]
+      },
+      {
+        "headline": "EU and Mexico address trade barriers amid global economic turbulence",
+        "summary": "The European Union is working to remove remaining trade obstacles with Mexico as part of a broader review of their bilateral trade agreement. This effort occurs against a backdrop of turbulent global economic relations characterized by what the EU describes as hostile trade policies from various quarters. The trade negotiations reflect Europe's strategy to diversify and strengthen partnerships with key non-European allies amid geopolitical and economic uncertainty. Mexico is an important trade partner for the EU, and strengthening ties serves mutual economic interests. The agreement review demonstrates the EU's commitment to maintaining stable trade relationships in an increasingly fractious global environment.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/22/brussels-to-remove-remaining-barriers-with-mexico-as-the-allies-review-their-trade-agreeme"
+          }
+        ],
+        "tags": [
+          "trade",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Air France and Airbus convicted of manslaughter in 2009 Rio-Paris crash",
+        "summary": "Air France and Airbus have been convicted of manslaughter in connection with the 2009 Rio-Paris flight disaster, in which a Boeing 777 crashed over the Atlantic Ocean killing all 228 people aboard. The conviction reflects findings that pilots lost control of the aircraft, with subsequent investigations pointing to technical and human factors. This ruling represents a significant legal development for both companies and the aviation industry's accountability frameworks. The conviction has implications for aircraft manufacturer liability and airline operational responsibility in accident investigations. The case has been closely watched across Europe and by the international aviation community.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/21/air-france-and-airbus-convicted-of-manslaughter-in-2009-rio-paris-crash-over-atlantic"
+          }
+        ],
+        "tags": [
+          "governance",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Dover border queues expected as UK faces first peak holiday period under new EU system",
+        "summary": "Significant border queues are expected at Dover during the approaching holiday period as the UK experiences the first major peak travel season since the EU's new border system was fully implemented. The new customs and immigration procedures are expected to cause delays for travellers crossing the English Channel. UK authorities have prepared contingency measures to manage anticipated congestion at this critical trade and travel chokepoint. The situation reflects ongoing operational challenges in implementing post-Brexit border arrangements between the UK and EU. This is a critical test of the effectiveness of new border procedures for both passenger and commercial traffic.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cpqpygjwywjo"
+          }
+        ],
+        "tags": [
+          "trade",
+          "governance",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-22T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Ebola outbreak spreads in DR Congo amid public resistance to containment efforts",
+        "summary": "A significant Ebola outbreak in the Democratic Republic of Congo has claimed at least 134 lives, with the WHO expressing concern over the outbreak's rapid spread. The situation is complicated by public distrust and violent resistance, including incidents where locals set treatment facilities on fire, preventing health authorities from containing infected patients. The outbreak involves a rare species of the virus and is occurring in conflict-affected areas, creating additional obstacles to medical intervention. Authorities struggle to balance burial practices and community concerns while attempting to implement quarantine measures. The humanitarian and public health crisis has drawn international attention and concern from global health organizations.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "health",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Gaza flotilla activists report violent treatment during Israeli raid",
+        "summary": "Humanitarian activists aboard the Global Sumud Flotilla attempting to deliver aid to Gaza were intercepted and subjected to what they describe as violent treatment during an Israeli operation. Videos released by an Israeli security minister taunting restrained activists have drawn international condemnation and sparked diplomatic backlash. The flotilla included activists from multiple countries, including an Irish activist, expanding the incident's international dimensions. The activists were subsequently deported from Israel after describing their experiences to international media. The incident raises broader questions about the humanitarian blockade on Gaza and international humanitarian principles.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "US-Iran tensions intensify amid failed peace talks and military posturing",
+        "summary": "Efforts to reach a US-Iran peace deal face significant obstacles as signs of progress collide with continued military tensions and economic uncertainty. The Trump administration has signaled intent to retrieve uranium from Iran while simultaneously engaging in diplomatic negotiations, creating mixed signals about overall strategy. Oil prices have risen amid doubts about breakthrough potential in negotiations, reflecting market concern over geopolitical instability in the Middle East. Iran has stepped up claims to control the Strait of Hormuz, claiming armed forces oversight across over 22,000 square kilometers of critical shipping lanes. The standoff represents one of the most significant geopolitical challenges currently facing the international community.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cq5py64gvwzo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "US announces 5,000 additional troop deployment to Poland amid NATO tensions",
+        "summary": "The Trump administration announced plans to deploy an additional 5,000 US troops to Poland, following a week after a previously planned 4,000-troop deployment was cancelled. The troop movement signals continued US commitment to NATO's eastern flank at a time of heightened Russian tensions and European security concerns. The deployment comes amid reports of Russian jets intercepting RAF reconnaissance aircraft and escalating tensions between Russia and NATO members. This decision reflects broader US military strategy to reassure Eastern European allies while managing complex geopolitical relationships. The troop presence represents a significant forward positioning of American military assets in a strategically important region.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cedpz9669deo"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Greenlanders protest US consulate opening amid territorial expansion concerns",
+        "summary": "Hundreds of Greenlanders gathered in Nuuk to protest the opening of a new US consulate, demonstrating public opposition to increased American presence and influence on the autonomous Danish territory. The protest reflects concerns about Trump administration efforts to gain greater control or influence over Greenland, a strategically important Arctic territory. The consulate opening signals intensified US diplomatic engagement with Greenland at a time of growing Arctic geopolitical competition. The demonstrations underscore tensions between Greenland's desire for autonomy and great-power interest in the island's geographic and resource significance. The incident highlights broader questions about sovereignty and strategic competition in the Arctic region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/greenlanders-protest-opening-of-new-us-consulate-in-nuuk"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Cuba and US face escalating tensions following indictment of former leader Ra\u00fal Castro",
+        "summary": "The Trump administration's indictment of former Cuban leader Ra\u00fal Castro has triggered a significant diplomatic crisis between the US and Cuba. Cuba's foreign minister accused Trump administration officials, particularly Secretary of State Marco Rubio, of attempting to 'instigate military aggression' and accused them of spreading 'lies' about the island. The indictment represents aggressive legal action against a former head of state and signals heightened US pressure on Cuba's communist government. Multiple analysts have outlined three potential pathways for how the crisis could escalate or resolve, ranging from continued economic pressure to more direct confrontation. The incident represents a significant shift in US-Cuba relations with potential ramifications for the broader Caribbean region.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Ukraine advances air defence capabilities as Russia continues four-year assault",
+        "summary": "After four years of Russia's military invasion, Ukraine has significantly improved its air defence systems through integration of AI technology and specialized interceptor capabilities designed to counter Russian drone and missile attacks. The enhancements represent critical progress in defending Ukrainian civilians and infrastructure against ongoing aerial bombardment. Ukraine's technological innovations have drawn international attention as a model for modern air defence in contemporary conflict. The improvements reflect both Ukraine's resilience and the substantial support from Western allies providing advanced systems and technology. The development of effective air defences remains crucial to Ukraine's ability to sustain resistance against Russian aggression and protect its population.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "technology",
+          "defence"
+        ]
+      },
+      {
+        "headline": "SpaceX advances toward record $2 trillion IPO amid ambitious expansion plans",
+        "summary": "SpaceX has announced plans for a record-breaking stock market debut valuing the company at approximately $2 trillion, encompassing its ambitious vision spanning rockets and artificial intelligence capabilities. The IPO announcement comes as the company delays its Starship launch schedule, postponing tests as the mega share sale preparation advances. The valuation reflects market confidence in SpaceX's technological capabilities and growth potential across multiple sectors. The IPO represents one of the most significant corporate finance events in recent history and signals investor appetite for space technology and innovation. The deal's scale and scope underscore the commercial space industry's emergence as a major economic force with global strategic implications.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cy42w782ejvo"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "trade"
+        ]
+      }
+    ]
+  }
+}
