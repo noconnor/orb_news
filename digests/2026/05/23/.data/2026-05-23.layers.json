@@ -1,0 +1,431 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-23T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_blocked_by_server"
+    },
+    "stories": [
+      {
+        "headline": "Vote counting underway in Galway West and Dublin Central bye-elections",
+        "summary": "Vote counting began at 9am on Saturday for the Galway West and Dublin Central bye-elections following weeks of campaigning. The two seats were vacated by President Catherine Connolly and former finance minister Paschal Donohoe. Early turnout figures showed close to 50% participation in both constituencies. Results are expected by evening as ballot papers are processed. The bye-elections represent significant contests in these key constituencies.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0523/1574836-bye-elections-politics/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/byelection-count-day-7046982-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Fourteen Irish flotilla activists deported by Israel due home Saturday",
+        "summary": "Fourteen Irish citizens among over 400 pro-Palestine activists were deported by Israel on Thursday and flew to Turkey. The group is expected to arrive home on Saturday after being detained during their participation in an aid flotilla mission. Human rights campaigners described the activists as \"pretty shaken\" but in good condition while recuperating in Turkey. Ireland has called for EU-wide action regarding the treatment of activists, with Foreign Affairs Minister Helen McEntee raising concerns about the deportations. The incident has intensified debate about Israel's actions and European responses.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/22/irish-aid-flotilla-detainees-due-to-fly-home-on-saturday-after-being-deported-to-turkey/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/irish-flotilla-activists-expected-to-fly-home-saturday-7047631-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "international",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Dublin Bikes scheme to end after 17 years with council replacement planned",
+        "summary": "The Dublin Bikes bike-sharing program will be discontinued next September after 17 years of operation, with Dublin City Council planning to launch a new council-operated service. The scheme, which launched in 2009, has been loss-making since its inception. The transition marks the end of an era for the popular service while the council develops an alternative model to continue providing bike-sharing infrastructure. A new scheme is expected to be operational following the contract's expiration.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/dublin/2026/05/22/loss-making-since-day-one-dublinbikes-scheme-to-be-discontinued-after-17-years/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/dublin-bikes-scheme-to-come-to-an-end-next-year-with-plans-for-council-to-launch-new-service-7048633-May2026/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "Dublin",
+          "policy"
+        ]
+      },
+      {
+        "headline": "\u20ac1.25 million cannabis haul seized in Dublin and Limerick operations",
+        "summary": "Two men were arrested after \u20ac1.25 million worth of cannabis was seized in separate intelligence-led operations in Dublin and Limerick. The joint seizures were part of coordinated law enforcement activity targeting drug trafficking networks. The operations represent significant successes in the ongoing effort to combat illegal drug distribution in Ireland. The arrests and seizures underscore garda\u00ed focus on dismantling major drug supply chains. Further investigations are continuing into the operations.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/two-men-arrested-after-e1-25m-of-cannabis-seized-in-separate-operations-in-dublin-and-limerick-7048589-May2026/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "drug enforcement"
+        ]
+      },
+      {
+        "headline": "Ireland's population growth reaches 1.6% annually, on track for six million by 2035",
+        "summary": "EU population figures show Ireland's population grew by 1.6% last year, continuing a positive demographic trend. Ireland remains one of only seven EU nations where births exceed deaths, demonstrating natural population increase alongside migration. Population projections indicate Ireland could reach six million residents by 2035 based on current growth rates. This growth reflects Ireland's attractiveness as a destination for both retained youth and international migration. The demographic expansion has significant implications for housing, services, and economic planning.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/22/irelands-population-grew-by-1-6-last-year-eu-figures-show/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "demographics",
+          "society"
+        ]
+      },
+      {
+        "headline": "Planned 72-hour ambulance workers strike called off following HSE talks progress",
+        "summary": "A planned 72-hour strike by ambulance workers was stood down on Friday after negotiations with the HSE achieved sufficient progress. The suspension allows ongoing work-to-rule action, which began on May 11, to continue while talks resume. This development represents a breakthrough in resolving disputes over ambulance service working conditions and staffing. The workers had threatened major disruption to emergency medical services had the strike proceeded. Continued dialogue between union representatives and HSE management is expected to address remaining issues.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/planned-72-hour-work-stoppage-ambulance-workers-stood-down-talks-progress-7047786-May2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "industrial relations"
+        ]
+      },
+      {
+        "headline": "Cork-founded fintech Qashio expanding with 50 new jobs after Dubai resilience",
+        "summary": "Qashio, a Cork-founded payments platform based in Dubai, is creating 50 jobs in Ireland as part of a significant expansion. The fintech company demonstrated resilience during challenges in the Middle East region and is now investing in Irish operations and workforce growth. This expansion represents confidence in the Irish market and workforce capability. The company's decision to grow its Irish presence strengthens the country's fintech sector. The jobs represent a boost to Cork's tech ecosystem and broader Irish employment.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/business/companies/arid-41849811.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "business",
+          "jobs"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-23T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Ukraine strikes Russian oil refinery as military escalates energy infrastructure campaign",
+        "summary": "Ukraine has intensified drone strikes targeting Russian energy infrastructure, with President Zelenskyy confirming attacks on Russian oil refineries as part of a new tactical approach to weaken Moscow's economic capacity. The campaign reflects Ukraine's strategy to disrupt Russian military logistics and fuel supply chains supporting the invasion. Meanwhile, NATO has invited President Zelenskyy to the upcoming NATO summit in Ankara, signaling continued alliance support for Ukraine's defense. Belarus has also emerged as a potential new front, with Ukraine warning of Russian preparations for a fresh offensive through Belarusian territory, though Lukashenka has offered to meet Zelenskyy for talks. This multifaceted military and diplomatic situation underscores the ongoing intensity of the conflict and Europe's strategic focus on supporting Ukraine.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260522-ukraine-hits-russian-oil-refinery-zelensky-says-as-kyiv-intensifies-new-tactic"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/22/ukraines-president-zelenskyy-invited-to-nato-summit-in-ankara-rutte-confirms"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/22/lukashenka-offers-to-meet-zelenskyy-as-ukraine-warns-of-russias-new-offensive-through-bela"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU clinches trade deal with Mexico amid Trump tariff threats and US uncertainty",
+        "summary": "The EU Commission successfully negotiated an updated trade agreement with Mexico on Friday, with President Ursula von der Leyen and European Council President Ant\u00f3nio Costa signing the deal to strengthen European economic ties in Latin America. The agreement comes as the EU simultaneously manages tensions with the Trump administration over trade tariffs, with the US threatening new tariffs by July 4th. The EU has reached a compromise deal on a US trade pact, signaling efforts to navigate the volatile trade environment. These developments reflect Europe's strategy to diversify trade partnerships and reduce economic vulnerability amid rising protectionist pressures from the US. The simultaneous pursuit of agreements with Mexico and the US suggests the EU is hedging its economic bets in uncertain geopolitical times.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/22/eu-clinches-new-trade-deal-with-mexico-to-bolster-its-foothold-in-latin-america"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260520-eu-reaches-deal-us-trade-pact-trump-threatens-new-tariffs-july-4"
+          }
+        ],
+        "tags": [
+          "trade",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Ukraine's path to EU membership complicated by 'associate membership' proposal",
+        "summary": "Ireland's foreign minister has warned that a proposal for 'associate membership' status for Ukraine risks leaving the country in diplomatic limbo, unable to achieve full EU membership aspirations. German Chancellor Friedrich Merz pitched the associate membership concept as an alternative pathway for Ukraine, but Irish officials cautioned this could perpetuate ambiguity about Ukraine's long-term EU integration. The debate reflects broader EU uncertainties about how quickly and fully to integrate Ukraine following its invasion by Russia. Ireland's opposition signals potential divisions within the EU over the appropriate institutional arrangements for Ukraine's post-war European status. This remains a critical issue for Ukraine's strategic orientation and European security architecture.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/22/associate-membership-risks-leaving-ukraine-in-limbo-ireland-warns-after-merz-pitches-bold-"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Spain faces youth housing crisis as rents consume nearly all young workers' income",
+        "summary": "Spain's rental housing market has reached a critical breaking point, with average rents now consuming 98.7% of young workers' gross income for one-person apartments in major cities. The youth emancipation rate plummeted to just 14.5% in 2025, the worst figure on record according to Spain's Youth Council, meaning young adults cannot afford to leave their parents' homes. This crisis reflects a broader housing affordability issue across Europe exacerbated by rising costs and stagnant wages. The figures highlight generational inequality and the structural economic challenges facing younger Europeans. Spain's situation underscores the need for urgent policy interventions across the EU to address housing affordability and youth economic independence.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/05/22/average-rent-now-swallows-987-of-young-workers-pay-for-one-person-flats-in-spain"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Exceptionally high temperatures sweep across Europe amid climate concerns",
+        "summary": "Parts of Europe are experiencing exceptionally high temperatures this weekend, with experts warning that European cities are structurally 'calibrated to the old calendar' and struggling to adapt to elevated May temperatures that are becoming the new normal. The heat wave highlights how urban infrastructure and city planning across Europe were designed for cooler historical climate patterns and are increasingly unprepared for contemporary thermal conditions. Ambient temperature increases are straining public health systems, energy grids, and urban cooling capacity across the continent. The UK has also issued amber heat health alerts for the Midlands, eastern and south-east England, signaling serious public health concerns. This recurring pattern of off-season heat underscores Europe's ongoing vulnerability to climate change impacts and the need for adaptive urban planning and infrastructure investment.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/22/exceptionally-high-temperatures-to-hit-parts-of-europe-this-weekend-which-city-can-cope-th"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/weather/articles/crmp8dlyz3ko"
+          }
+        ],
+        "tags": [
+          "climate",
+          "health",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU industry chief warns against supply chain concentration as China tensions escalate",
+        "summary": "EU Industry Commissioner St\u00e9phane S\u00e9journ\u00e9 has warned European businesses against concentrating their supply chains in a single country, explicitly cautioning against over-reliance on China amid escalating trade tensions between Brussels and Beijing. The commissioner's statement reflects a broader EU strategy of 'de-risking' \u2014 reducing exposure to both the US and China without fully decoupling from either. European companies have become increasingly concerned about supply chain vulnerabilities, particularly in critical sectors, following geopolitical tensions and the impact of the Iran war on global energy markets. The warning signals the EU's pivot toward supply chain diversification and resilience, encouraging businesses to source from multiple regions. This represents a significant shift in European industrial policy away from efficiency-focused globalization toward geopolitically-aware resilience planning.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/22/do-not-get-100-of-your-supply-from-one-country-eu-industry-chief-says"
+          }
+        ],
+        "tags": [
+          "trade",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Germany's business confidence improves despite Iran war energy disruption",
+        "summary": "German business morale has unexpectedly risen in May 2026 despite significant disruptions to European energy markets caused by the Iran war and elevated global energy costs. The improvement in business confidence suggests that Europe's largest economy is demonstrating greater economic resilience than anticipated amid external shocks. This development stands in contrast to broader Eurozone concerns about economic contraction driven by elevated energy prices and inflation pressures stemming from the Strait of Hormuz crisis. Germany's industrial strength and diversified economy appear to be absorbing the energy crisis better than smaller EU economies. The positive sentiment could signal potential economic stabilization across Europe if this German resilience translates to broader EU recovery.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/05/22/german-business-morale-improves-despite-iran-war-disruption-to-energy-markets"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Trump signals NATO uncertainty while preparing US troop deployment to Poland",
+        "summary": "The Trump administration has expressed disappointment with NATO and questioned the alliance's value to the US, raising concerns across Europe about American commitment to Article 5 collective defense guarantees. Simultaneously, the US has announced plans to deploy 5,000 troops to Poland, reversing an earlier cancellation of the deployment and signaling a measured commitment to Eastern European NATO members. The apparent contradiction between Trump's skepticism about NATO and increased military presence in Poland reflects strategic uncertainty within US foreign policy toward Europe. Baltic and Eastern European nations are particularly concerned about the administration's reliability, given historical ambivalence toward NATO funding contributions. This mixed messaging creates diplomatic challenges for European NATO members trying to plan defense strategies and maintain alliance cohesion.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/tv-shows/spotlight/20260522-trump-disappointed-in-nato-plan-b"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260521-trump-to-deploy-5-000-us-troops-to-poland-after-earlier-plan-was-canceled"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "governance"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-23T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "SpaceX launches Starship V3 on historic test flight",
+        "summary": "SpaceX successfully launched its Starship V3 rocket, the largest and most powerful rocket ever built, marking a major milestone in the company's development before its anticipated IPO. The spacecraft completed most of its test flight objectives before executing a planned explosive splashdown in the Indian Ocean. This achievement demonstrates significant progress in reusable super-heavy lift vehicle technology and positions the company closer to long-duration spaceflight and lunar missions. The test flight represents a validation of SpaceX's engineering approach to iterative rapid development. Space ETF valuations have surged in anticipation of SpaceX's public offering.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c62d65y16nno"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "technology",
+          "space",
+          "economy"
+        ]
+      },
+      {
+        "headline": "WHO raises Ebola outbreak in DRC to 'very high' risk with 750+ cases",
+        "summary": "The World Health Organization has elevated the risk assessment for the Ebola outbreak in the Democratic Republic of Congo to 'very high' following nearly 750 suspected cases and deaths along the DRC-Uganda border. Health officials have intensified containment measures and border screening as the virus poses a significant regional threat. The outbreak has disrupted daily life in affected border communities and prompted heightened preparedness across East African nations. Lessons from West Africa's 2014-2016 Ebola epidemic emphasize the importance of speed, resources, and compassionate response. The global risk remains low, but regional spread potential requires urgent intervention and international support.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian",
+          "Africa"
+        ]
+      },
+      {
+        "headline": "Putin vows retaliation after accusing Ukraine of striking Russian drone unit",
+        "summary": "Russian President Vladimir Putin has vowed to retaliate against Ukraine following allegations that Ukrainian forces struck a Russian military unit near Rubicon in Moscow-occupied eastern Ukraine. Ukraine confirmed targeting Russia's elite drone operations unit in what it described as a legitimate military strike. The escalating attacks and counter-attacks underscore the ongoing intensity of the conflict along the front lines. Both sides continue to deny civilian casualties while attributing military significance to their operations. The cycle of retaliation raises concerns about further escalation and potential civilian impact in the disputed territories.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5y74lwx395o"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "Europe"
+        ]
+      },
+      {
+        "headline": "U.S. Secretary of State Rubio visits India for Quad realignment amid strained ties",
+        "summary": "U.S. Secretary of State Marco Rubio has arrived in India ahead of upcoming Quad talks with counterparts from India, Australia, and Japan, signaling an effort to repair strained diplomatic relationships in the Indo-Pacific region. The visit demonstrates the Trump administration's commitment to maintaining strategic partnerships in a region increasingly critical to U.S. geopolitical interests. Rubio has also indicated willingness to support India's energy needs amid ongoing Middle East tensions and Iranian oil sanctions. The diplomatic engagement reflects broader U.S. strategy to counter Chinese influence through multilateral partnerships. This realignment is part of a larger effort to reassure NATO allies and regional partners about U.S. commitment despite earlier policy uncertainties.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/23/nx-s1-5832394/rubio-arrives-india"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "Asia"
+        ]
+      },
+      {
+        "headline": "Over 1.6 million Muslim pilgrims converge on Saudi Arabia for annual Hajj",
+        "summary": "More than 1.6 million Muslim pilgrims have arrived in Saudi Arabia for the annual Hajj pilgrimage, one of Islam's most significant spiritual events and the world's largest annual religious gathering. The pilgrimage represents a global convergence of Muslims from nearly every nation and culture, fulfilling a religious obligation central to Islamic faith. Saudi Arabia has implemented extensive logistical and security arrangements to accommodate the massive influx of pilgrims across Mecca, Medina, and surrounding holy sites. The Hajj generates substantial economic activity and cultural exchange, reinforcing Saudi Arabia's role as custodian of Islam's holiest sites. However, some Palestinians and Gaza residents remain unable to participate due to travel restrictions related to ongoing Middle East conflicts.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/over-1-6-million-pilgrims-arrive-in-saudi-arabia-for-hajj-pilgrimage"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "religion",
+          "global"
+        ]
+      },
+      {
+        "headline": "Iran signals continued diplomacy with U.S. amid stalled nuclear negotiations",
+        "summary": "Tehran has indicated that diplomatic efforts with the United States are ongoing, though no breakthrough agreement has yet been reached in negotiations over Iran's nuclear program and regional tensions. Qatari negotiating teams continue mediation efforts as both sides navigate complex geopolitical challenges. Israeli military operations in Lebanon have reportedly caused over 3,000 deaths and thousands of injuries since March, creating additional pressure for diplomatic resolution. Iran has escalated territorial claims over the Strait of Hormuz, publishing maps asserting 'armed forces oversight' across 22,000 square kilometers of the critical shipping waterway. The diplomatic standoff remains unresolved amid military posturing and competing strategic interests in the region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cq5py64gvwzo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "Middle East"
+        ]
+      },
+      {
+        "headline": "India and Pakistan reportedly exploring quiet diplomatic overture despite public tensions",
+        "summary": "Unofficial voices from both India and Pakistan are quietly exploring the possibility of restarting dialogue, even as both nations maintain public positions of entrenchment regarding longstanding disputes. Behind-the-scenes conversations suggest openness to renewed engagement and restraint among some political and civil society figures. The initiative reflects recognition that military confrontation serves neither country's economic or security interests in an increasingly unstable region. Previous cycles of dialogue have proven fragile, but sustained international pressure and domestic economic concerns may create new opportunities for negotiation. Any formal resumption of talks would require political will from both governments to overcome decades of mistrust and competing territorial claims.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/23/are-india-and-pakistan-quietly-preparing-to-restart-dialogue"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "Asia"
+        ]
+      },
+      {
+        "headline": "South Africa confronts rising tide of anti-migrant violence and xenophobia",
+        "summary": "South Africa is experiencing escalating anti-migrant attacks as xenophobic sentiment intensifies, leaving migrants vulnerable to harassment, employment discrimination, and community violence. The surge in violence targets foreign nationals working in informal economies and competing for scarce resources in economically stressed communities. Migrant workers face not only physical threats but systemic barriers including job loss and social ostracization. Economic inequality and high unemployment rates fuel resentment against foreign workers perceived as taking jobs from South African citizens. International organizations and civil rights groups have called for stronger government intervention to protect vulnerable migrant populations and address root causes of economic desperation.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/23/why-are-anti-migrant-attacks-increasing-in-south-africa"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "conflict",
+          "Africa"
+        ]
+      }
+    ]
+  }
+}

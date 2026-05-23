@@ -1,0 +1,82 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-23T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Ukraine strikes Russian oil refinery as military escalates energy infrastructure campaign",
+      "summary": "Ukraine has intensified drone strikes targeting Russian energy infrastructure, with President Zelenskyy confirming attacks on Russian oil refineries as part of a new tactical approach to weaken Moscow's economic capacity. The campaign reflects Ukraine's strategy to disrupt Russian military logistics and fuel supply chains supporting the invasion. Meanwhile, NATO has invited President Zelenskyy to the upcoming NATO summit in Ankara, signaling continued alliance support for Ukraine's defense. Belarus has also emerged as a potential new front, with Ukraine warning of Russian preparations for a fresh offensive through Belarusian territory, though Lukashenka has offered to meet Zelenskyy for talks. This multifaceted military and diplomatic situation underscores the ongoing intensity of the conflict and Europe's strategic focus on supporting Ukraine.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260522-ukraine-hits-russian-oil-refinery-zelensky-says-as-kyiv-intensifies-new-tactic"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/22/ukraines-president-zelenskyy-invited-to-nato-summit-in-ankara-rutte-confirms"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/22/lukashenka-offers-to-meet-zelenskyy-as-ukraine-warns-of-russias-new-offensive-through-bela"}
+      ],
+      "tags": ["conflict", "defence", "diplomacy"]
+    },
+    {
+      "headline": "EU clinches trade deal with Mexico amid Trump tariff threats and US uncertainty",
+      "summary": "The EU Commission successfully negotiated an updated trade agreement with Mexico on Friday, with President Ursula von der Leyen and European Council President António Costa signing the deal to strengthen European economic ties in Latin America. The agreement comes as the EU simultaneously manages tensions with the Trump administration over trade tariffs, with the US threatening new tariffs by July 4th. The EU has reached a compromise deal on a US trade pact, signaling efforts to navigate the volatile trade environment. These developments reflect Europe's strategy to diversify trade partnerships and reduce economic vulnerability amid rising protectionist pressures from the US. The simultaneous pursuit of agreements with Mexico and the US suggests the EU is hedging its economic bets in uncertain geopolitical times.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/22/eu-clinches-new-trade-deal-with-mexico-to-bolster-its-foothold-in-latin-america"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260520-eu-reaches-deal-us-trade-pact-trump-threatens-new-tariffs-july-4"}
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "Ukraine's path to EU membership complicated by 'associate membership' proposal",
+      "summary": "Ireland's foreign minister has warned that a proposal for 'associate membership' status for Ukraine risks leaving the country in diplomatic limbo, unable to achieve full EU membership aspirations. German Chancellor Friedrich Merz pitched the associate membership concept as an alternative pathway for Ukraine, but Irish officials cautioned this could perpetuate ambiguity about Ukraine's long-term EU integration. The debate reflects broader EU uncertainties about how quickly and fully to integrate Ukraine following its invasion by Russia. Ireland's opposition signals potential divisions within the EU over the appropriate institutional arrangements for Ukraine's post-war European status. This remains a critical issue for Ukraine's strategic orientation and European security architecture.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/22/associate-membership-risks-leaving-ukraine-in-limbo-ireland-warns-after-merz-pitches-bold-"}
+      ],
+      "tags": ["EU", "governance", "diplomacy"]
+    },
+    {
+      "headline": "Spain faces youth housing crisis as rents consume nearly all young workers' income",
+      "summary": "Spain's rental housing market has reached a critical breaking point, with average rents now consuming 98.7% of young workers' gross income for one-person apartments in major cities. The youth emancipation rate plummeted to just 14.5% in 2025, the worst figure on record according to Spain's Youth Council, meaning young adults cannot afford to leave their parents' homes. This crisis reflects a broader housing affordability issue across Europe exacerbated by rising costs and stagnant wages. The figures highlight generational inequality and the structural economic challenges facing younger Europeans. Spain's situation underscores the need for urgent policy interventions across the EU to address housing affordability and youth economic independence.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/05/22/average-rent-now-swallows-987-of-young-workers-pay-for-one-person-flats-in-spain"}
+      ],
+      "tags": ["economy", "social", "regulation"]
+    },
+    {
+      "headline": "Exceptionally high temperatures sweep across Europe amid climate concerns",
+      "summary": "Parts of Europe are experiencing exceptionally high temperatures this weekend, with experts warning that European cities are structurally 'calibrated to the old calendar' and struggling to adapt to elevated May temperatures that are becoming the new normal. The heat wave highlights how urban infrastructure and city planning across Europe were designed for cooler historical climate patterns and are increasingly unprepared for contemporary thermal conditions. Ambient temperature increases are straining public health systems, energy grids, and urban cooling capacity across the continent. The UK has also issued amber heat health alerts for the Midlands, eastern and south-east England, signaling serious public health concerns. This recurring pattern of off-season heat underscores Europe's ongoing vulnerability to climate change impacts and the need for adaptive urban planning and infrastructure investment.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/22/exceptionally-high-temperatures-to-hit-parts-of-europe-this-weekend-which-city-can-cope-th"},
+        {"name": "BBC", "url": "https://www.bbc.com/weather/articles/crmp8dlyz3ko"}
+      ],
+      "tags": ["climate", "health", "governance"]
+    },
+    {
+      "headline": "EU industry chief warns against supply chain concentration as China tensions escalate",
+      "summary": "EU Industry Commissioner Stéphane Séjourné has warned European businesses against concentrating their supply chains in a single country, explicitly cautioning against over-reliance on China amid escalating trade tensions between Brussels and Beijing. The commissioner's statement reflects a broader EU strategy of 'de-risking' — reducing exposure to both the US and China without fully decoupling from either. European companies have become increasingly concerned about supply chain vulnerabilities, particularly in critical sectors, following geopolitical tensions and the impact of the Iran war on global energy markets. The warning signals the EU's pivot toward supply chain diversification and resilience, encouraging businesses to source from multiple regions. This represents a significant shift in European industrial policy away from efficiency-focused globalization toward geopolitically-aware resilience planning.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/22/do-not-get-100-of-your-supply-from-one-country-eu-industry-chief-says"}
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "Germany's business confidence improves despite Iran war energy disruption",
+      "summary": "German business morale has unexpectedly risen in May 2026 despite significant disruptions to European energy markets caused by the Iran war and elevated global energy costs. The improvement in business confidence suggests that Europe's largest economy is demonstrating greater economic resilience than anticipated amid external shocks. This development stands in contrast to broader Eurozone concerns about economic contraction driven by elevated energy prices and inflation pressures stemming from the Strait of Hormuz crisis. Germany's industrial strength and diversified economy appear to be absorbing the energy crisis better than smaller EU economies. The positive sentiment could signal potential economic stabilization across Europe if this German resilience translates to broader EU recovery.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/05/22/german-business-morale-improves-despite-iran-war-disruption-to-energy-markets"}
+      ],
+      "tags": ["economy", "energy", "governance"]
+    },
+    {
+      "headline": "Trump signals NATO uncertainty while preparing US troop deployment to Poland",
+      "summary": "The Trump administration has expressed disappointment with NATO and questioned the alliance's value to the US, raising concerns across Europe about American commitment to Article 5 collective defense guarantees. Simultaneously, the US has announced plans to deploy 5,000 troops to Poland, reversing an earlier cancellation of the deployment and signaling a measured commitment to Eastern European NATO members. The apparent contradiction between Trump's skepticism about NATO and increased military presence in Poland reflects strategic uncertainty within US foreign policy toward Europe. Baltic and Eastern European nations are particularly concerned about the administration's reliability, given historical ambivalence toward NATO funding contributions. This mixed messaging creates diplomatic challenges for European NATO members trying to plan defense strategies and maintain alliance cohesion.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/tv-shows/spotlight/20260522-trump-disappointed-in-nato-plan-b"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260521-trump-to-deploy-5-000-us-troops-to-poland-after-earlier-plan-was-canceled"}
+      ],
+      "tags": ["defence", "diplomacy", "governance"]
+    }
+  ]
+}

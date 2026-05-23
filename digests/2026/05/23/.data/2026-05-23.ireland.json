@@ -1,0 +1,72 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-23T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_blocked_by_server"
+  },
+  "stories": [
+    {
+      "headline": "Vote counting underway in Galway West and Dublin Central bye-elections",
+      "summary": "Vote counting began at 9am on Saturday for the Galway West and Dublin Central bye-elections following weeks of campaigning. The two seats were vacated by President Catherine Connolly and former finance minister Paschal Donohoe. Early turnout figures showed close to 50% participation in both constituencies. Results are expected by evening as ballot papers are processed. The bye-elections represent significant contests in these key constituencies.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0523/1574836-bye-elections-politics/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/byelection-count-day-7046982-May2026/"}
+      ],
+      "tags": ["politics", "elections"]
+    },
+    {
+      "headline": "Fourteen Irish flotilla activists deported by Israel due home Saturday",
+      "summary": "Fourteen Irish citizens among over 400 pro-Palestine activists were deported by Israel on Thursday and flew to Turkey. The group is expected to arrive home on Saturday after being detained during their participation in an aid flotilla mission. Human rights campaigners described the activists as \"pretty shaken\" but in good condition while recuperating in Turkey. Ireland has called for EU-wide action regarding the treatment of activists, with Foreign Affairs Minister Helen McEntee raising concerns about the deportations. The incident has intensified debate about Israel's actions and European responses.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/22/irish-aid-flotilla-detainees-due-to-fly-home-on-saturday-after-being-deported-to-turkey/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/irish-flotilla-activists-expected-to-fly-home-saturday-7047631-May2026/"}
+      ],
+      "tags": ["politics", "international", "diplomacy"]
+    },
+    {
+      "headline": "Dublin Bikes scheme to end after 17 years with council replacement planned",
+      "summary": "The Dublin Bikes bike-sharing program will be discontinued next September after 17 years of operation, with Dublin City Council planning to launch a new council-operated service. The scheme, which launched in 2009, has been loss-making since its inception. The transition marks the end of an era for the popular service while the council develops an alternative model to continue providing bike-sharing infrastructure. A new scheme is expected to be operational following the contract's expiration.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/dublin/2026/05/22/loss-making-since-day-one-dublinbikes-scheme-to-be-discontinued-after-17-years/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/dublin-bikes-scheme-to-come-to-an-end-next-year-with-plans-for-council-to-launch-new-service-7048633-May2026/"}
+      ],
+      "tags": ["transport", "Dublin", "policy"]
+    },
+    {
+      "headline": "€1.25 million cannabis haul seized in Dublin and Limerick operations",
+      "summary": "Two men were arrested after €1.25 million worth of cannabis was seized in separate intelligence-led operations in Dublin and Limerick. The joint seizures were part of coordinated law enforcement activity targeting drug trafficking networks. The operations represent significant successes in the ongoing effort to combat illegal drug distribution in Ireland. The arrests and seizures underscore gardaí focus on dismantling major drug supply chains. Further investigations are continuing into the operations.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/two-men-arrested-after-e1-25m-of-cannabis-seized-in-separate-operations-in-dublin-and-limerick-7048589-May2026/"}
+      ],
+      "tags": ["crime", "drug enforcement"]
+    },
+    {
+      "headline": "Ireland's population growth reaches 1.6% annually, on track for six million by 2035",
+      "summary": "EU population figures show Ireland's population grew by 1.6% last year, continuing a positive demographic trend. Ireland remains one of only seven EU nations where births exceed deaths, demonstrating natural population increase alongside migration. Population projections indicate Ireland could reach six million residents by 2035 based on current growth rates. This growth reflects Ireland's attractiveness as a destination for both retained youth and international migration. The demographic expansion has significant implications for housing, services, and economic planning.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/22/irelands-population-grew-by-1-6-last-year-eu-figures-show/"}
+      ],
+      "tags": ["economy", "demographics", "society"]
+    },
+    {
+      "headline": "Planned 72-hour ambulance workers strike called off following HSE talks progress",
+      "summary": "A planned 72-hour strike by ambulance workers was stood down on Friday after negotiations with the HSE achieved sufficient progress. The suspension allows ongoing work-to-rule action, which began on May 11, to continue while talks resume. This development represents a breakthrough in resolving disputes over ambulance service working conditions and staffing. The workers had threatened major disruption to emergency medical services had the strike proceeded. Continued dialogue between union representatives and HSE management is expected to address remaining issues.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/planned-72-hour-work-stoppage-ambulance-workers-stood-down-talks-progress-7047786-May2026/"}
+      ],
+      "tags": ["health", "industrial relations"]
+    },
+    {
+      "headline": "Cork-founded fintech Qashio expanding with 50 new jobs after Dubai resilience",
+      "summary": "Qashio, a Cork-founded payments platform based in Dubai, is creating 50 jobs in Ireland as part of a significant expansion. The fintech company demonstrated resilience during challenges in the Middle East region and is now investing in Irish operations and workforce growth. This expansion represents confidence in the Irish market and workforce capability. The company's decision to grow its Irish presence strengthens the country's fintech sector. The jobs represent a boost to Cork's tech ecosystem and broader Irish employment.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/companies/arid-41849811.html"}
+      ],
+      "tags": ["economy", "business", "jobs"]
+    }
+  ]
+}
