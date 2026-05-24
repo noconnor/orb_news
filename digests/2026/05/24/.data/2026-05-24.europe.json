@@ -1,0 +1,83 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-24T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russian Ballistic Missile Strikes Kyiv as Tensions Escalate",
+      "summary": "A Russian ballistic missile attack hit Ukraine's capital early Sunday morning, injuring at least five people and damaging residential buildings in the city. The strike came after Moscow threatened retaliation for Ukrainian drone operations in occupied eastern regions. This marks an escalation in the Russia-Ukraine conflict, which directly impacts European security and NATO's eastern flank. The attack demonstrates the ongoing military tensions between Russia and Ukraine, with broader implications for European stability and defence strategy. The incident underscores the conflict's intensity and its continued relevance to EU and NATO concerns.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation"
+        }
+      ],
+      "tags": ["conflict", "defence", "diplomacy"]
+    },
+    {
+      "headline": "Ukraine President Zelenskyy Rejects German Chancellor's EU Associate Membership Proposal",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has rejected German Chancellor Friedrich Merz's proposal for Ukraine to accept 'associate membership' status within the European Union. Zelenskyy insists that Ukraine deserves full EU membership with complete rights and integration. This disagreement highlights ongoing debates within EU leadership about the terms and timeline for Ukrainian accession following the country's application for membership. The dispute reflects tension between Germany's cautious approach and Ukraine's determination for full EU integration. The outcome of these negotiations will shape Ukraine's European future and EU expansion strategy.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership"
+        }
+      ],
+      "tags": ["EU", "governance", "diplomacy"]
+    },
+    {
+      "headline": "F-35 Fighter Jets Arrive in Poland to Strengthen NATO's Eastern Flank",
+      "summary": "Poland has received advanced F-35 multirole fighter aircraft from the United States as part of NATO's broader strategy to strengthen defences along its eastern border. The deployment represents a significant military reinforcement in response to Russian aggression and ongoing security concerns in Eastern Europe. This addition to Poland's air force enhances NATO's capability to respond to potential threats from Russia. The move underscores the alliance's commitment to protecting vulnerable member states on the eastern frontier. The F-35s represent cutting-edge military technology and symbolize transatlantic security cooperation during a period of heightened European tensions.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/05/23/f-35-jets-arrive-in-poland-to-bolster-natos-eastern-flank"
+        }
+      ],
+      "tags": ["defence", "NATO", "governance"]
+    },
+    {
+      "headline": "EU Adopts More Assertive Trade Strategy Amid China and Global Economic Tensions",
+      "summary": "France's trade minister has warned that Europe must abandon what he calls a 'naive' approach to international trade, emphasizing that the EU needs to adopt a less passive stance against countries using commerce as a weapon. The statement reflects growing European concern about trade imbalances with China and other major trading partners who are 'weaponizing' commerce. The EU is seeking to protect its industrial base while addressing longstanding grievances about unfair trading practices. This shift in European trade philosophy signals a move toward more strategic and defensive economic policies. The approach aims to safeguard European competitiveness and industrial capacity in an increasingly contested global marketplace.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/my-europe/2026/05/23/china-wont-win-anything-if-it-destroys-europes-industry-french-minister-tells-euronews"
+        }
+      ],
+      "tags": ["trade", "economy", "EU"]
+    },
+    {
+      "headline": "Record-Breaking Heatwave Sweeps Across UK and Europe",
+      "summary": "A severe heatwave is forecast to bring record-breaking temperatures across the UK and broader European region, with meteorologists expecting fresh national temperature records to be set on the May bank holiday Monday. The extreme heat has already prompted authorities to take action, including France suspending additional border inspections at Dover due to extensive queues caused by the heat conditions. The heatwave represents a significant weather event with implications for infrastructure, public health, and transportation across Europe. Temperatures are expected to intensify further as the system moves across the continent. The event highlights ongoing climate-related challenges facing European nations and the need for heat management strategies.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/weather/articles/c86dy6468epo"
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cp3p2ver9k6o"
+        }
+      ],
+      "tags": ["climate", "governance", "weather"]
+    },
+    {
+      "headline": "Luhansk Strike Kills 18, Escalates Russian-Ukrainian Military Tensions",
+      "summary": "A strike on the Russian-occupied Ukrainian town of Luhansk has resulted in 18 deaths and 42 injuries, according to initial reports. Russia has accused Ukraine of responsibility and threatened retaliation for the attack, further escalating military tensions between the two nations. The incident represents a significant event in the ongoing Russia-Ukraine conflict, with direct implications for European security and regional stability. Both sides are engaged in active military operations and tit-for-tat retaliatory threats. The situation underscores the persistent violence and humanitarian cost of the conflict on European soil.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo"
+        }
+      ],
+      "tags": ["conflict", "defence", "humanitarian"]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-24",
+  "update_type": "morning",
+  "steps": {
+    "step1_setup": 22,
+    "step2_gather": 57,
+    "step2_5_preprocess": 9,
+    "step3_digest_writer": 243,
+    "step4_audio": 108
+  },
+  "total_seconds": 439,
+  "agents": {
+    "ireland_gatherer": {"model": "haiku", "tokens": 46235, "duration_ms": 33232},
+    "europe_gatherer": {"model": "haiku", "tokens": 47574, "duration_ms": 38834},
+    "world_gatherer": {"model": "haiku", "tokens": 48297, "duration_ms": 38048},
+    "digest_writer": {"model": "sonnet", "tokens": 44341, "duration_ms": 234024}
+  },
+  "cost_estimate_usd": {
+    "haiku_gather": 0.014,
+    "sonnet_writer": 0.082,
+    "total": 0.10
+  }
+}

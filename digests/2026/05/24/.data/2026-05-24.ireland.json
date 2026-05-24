@@ -1,0 +1,38 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-24T10:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Social Democrats' Daniel Ennis wins Dublin Central byelection",
+      "summary": "Social Democrat candidate Daniel Ennis was elected as the new Teachta Dála (TD) for Dublin Central on Sunday morning, after nine counts in a closely-watched byelection. Ennis, who has spent only three years in politics before achieving elected office, won the seat previously held by Fine Gael's Paschal Donohoe. The byelection, along with a similarly competitive race in Galway West, captured significant media attention as both constituencies went down to the wire before final counts were completed. This result represents a significant victory for the Social Democrats in one of Ireland's most high-profile constituencies. The outcome reflects voter sentiment as the country continues navigating the post-election political landscape.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/live-blog-counting-of-votes-underway-in-galway-west-and-dublin-central-byelections-7048768-May2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41850354.html"}
+      ],
+      "tags": ["politics", "elections"]
+    },
+    {
+      "headline": "Plans unveiled for £1.3 billion upgrade of Belfast Port",
+      "summary": "A major infrastructure investment was announced earlier this week for a comprehensive £1.3 billion upgrade to Belfast's port facilities, scheduled over the next 25 years. The ambitious development plan aims to significantly modernize port infrastructure and capacity, positioning Belfast to challenge Dublin for a larger share of all-island trade. The upgrade represents one of the largest infrastructure investments in the region and signals confidence in Northern Ireland's economic potential. The project could have substantial implications for cross-border trade flows and regional economic development on the island of Ireland. This initiative demonstrates attempts to strengthen Belfast's competitive position in the increasingly important all-island trade environment.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0524/1574916-belfast-port/"}
+      ],
+      "tags": ["economy", "infrastructure"]
+    },
+    {
+      "headline": "Minister for Education calls on schools to ease financial burden on parents",
+      "summary": "The Minister for Education has called on school principals to ease the financial burden on parents, following complaints from families about some schools demanding the purchase of iPads and other digital devices. The minister's intervention addresses ongoing concerns about the costs families face in maintaining their children's education, particularly around technology requirements imposed by schools. The statement reflects broader discussions about educational affordability and the impact of rising costs on Irish families. School administration bodies will need to review their policies on technology procurement requirements. This issue touches on important questions about educational equity and access for families across different income levels.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0524/1574935-schools-urged-to-ease-financial-burden-on-parents/"}
+      ],
+      "tags": ["education", "social"]
+    }
+  ]
+}

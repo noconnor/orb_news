@@ -1,0 +1,286 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-24T10:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Social Democrats' Daniel Ennis wins Dublin Central byelection",
+        "summary": "Social Democrat candidate Daniel Ennis was elected as the new Teachta D\u00e1la (TD) for Dublin Central on Sunday morning, after nine counts in a closely-watched byelection. Ennis, who has spent only three years in politics before achieving elected office, won the seat previously held by Fine Gael's Paschal Donohoe. The byelection, along with a similarly competitive race in Galway West, captured significant media attention as both constituencies went down to the wire before final counts were completed. This result represents a significant victory for the Social Democrats in one of Ireland's most high-profile constituencies. The outcome reflects voter sentiment as the country continues navigating the post-election political landscape.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/live-blog-counting-of-votes-underway-in-galway-west-and-dublin-central-byelections-7048768-May2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41850354.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Plans unveiled for \u00a31.3 billion upgrade of Belfast Port",
+        "summary": "A major infrastructure investment was announced earlier this week for a comprehensive \u00a31.3 billion upgrade to Belfast's port facilities, scheduled over the next 25 years. The ambitious development plan aims to significantly modernize port infrastructure and capacity, positioning Belfast to challenge Dublin for a larger share of all-island trade. The upgrade represents one of the largest infrastructure investments in the region and signals confidence in Northern Ireland's economic potential. The project could have substantial implications for cross-border trade flows and regional economic development on the island of Ireland. This initiative demonstrates attempts to strengthen Belfast's competitive position in the increasingly important all-island trade environment.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0524/1574916-belfast-port/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "infrastructure"
+        ]
+      },
+      {
+        "headline": "Minister for Education calls on schools to ease financial burden on parents",
+        "summary": "The Minister for Education has called on school principals to ease the financial burden on parents, following complaints from families about some schools demanding the purchase of iPads and other digital devices. The minister's intervention addresses ongoing concerns about the costs families face in maintaining their children's education, particularly around technology requirements imposed by schools. The statement reflects broader discussions about educational affordability and the impact of rising costs on Irish families. School administration bodies will need to review their policies on technology procurement requirements. This issue touches on important questions about educational equity and access for families across different income levels.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0524/1574935-schools-urged-to-ease-financial-burden-on-parents/"
+          }
+        ],
+        "tags": [
+          "education",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-24T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Russian Ballistic Missile Strikes Kyiv as Tensions Escalate",
+        "summary": "A Russian ballistic missile attack hit Ukraine's capital early Sunday morning, injuring at least five people and damaging residential buildings in the city. The strike came after Moscow threatened retaliation for Ukrainian drone operations in occupied eastern regions. This marks an escalation in the Russia-Ukraine conflict, which directly impacts European security and NATO's eastern flank. The attack demonstrates the ongoing military tensions between Russia and Ukraine, with broader implications for European stability and defence strategy. The incident underscores the conflict's intensity and its continued relevance to EU and NATO concerns.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Ukraine President Zelenskyy Rejects German Chancellor's EU Associate Membership Proposal",
+        "summary": "Ukrainian President Volodymyr Zelenskyy has rejected German Chancellor Friedrich Merz's proposal for Ukraine to accept 'associate membership' status within the European Union. Zelenskyy insists that Ukraine deserves full EU membership with complete rights and integration. This disagreement highlights ongoing debates within EU leadership about the terms and timeline for Ukrainian accession following the country's application for membership. The dispute reflects tension between Germany's cautious approach and Ukraine's determination for full EU integration. The outcome of these negotiations will shape Ukraine's European future and EU expansion strategy.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "F-35 Fighter Jets Arrive in Poland to Strengthen NATO's Eastern Flank",
+        "summary": "Poland has received advanced F-35 multirole fighter aircraft from the United States as part of NATO's broader strategy to strengthen defences along its eastern border. The deployment represents a significant military reinforcement in response to Russian aggression and ongoing security concerns in Eastern Europe. This addition to Poland's air force enhances NATO's capability to respond to potential threats from Russia. The move underscores the alliance's commitment to protecting vulnerable member states on the eastern frontier. The F-35s represent cutting-edge military technology and symbolize transatlantic security cooperation during a period of heightened European tensions.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/23/f-35-jets-arrive-in-poland-to-bolster-natos-eastern-flank"
+          }
+        ],
+        "tags": [
+          "defence",
+          "NATO",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU Adopts More Assertive Trade Strategy Amid China and Global Economic Tensions",
+        "summary": "France's trade minister has warned that Europe must abandon what he calls a 'naive' approach to international trade, emphasizing that the EU needs to adopt a less passive stance against countries using commerce as a weapon. The statement reflects growing European concern about trade imbalances with China and other major trading partners who are 'weaponizing' commerce. The EU is seeking to protect its industrial base while addressing longstanding grievances about unfair trading practices. This shift in European trade philosophy signals a move toward more strategic and defensive economic policies. The approach aims to safeguard European competitiveness and industrial capacity in an increasingly contested global marketplace.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/23/china-wont-win-anything-if-it-destroys-europes-industry-french-minister-tells-euronews"
+          }
+        ],
+        "tags": [
+          "trade",
+          "economy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Record-Breaking Heatwave Sweeps Across UK and Europe",
+        "summary": "A severe heatwave is forecast to bring record-breaking temperatures across the UK and broader European region, with meteorologists expecting fresh national temperature records to be set on the May bank holiday Monday. The extreme heat has already prompted authorities to take action, including France suspending additional border inspections at Dover due to extensive queues caused by the heat conditions. The heatwave represents a significant weather event with implications for infrastructure, public health, and transportation across Europe. Temperatures are expected to intensify further as the system moves across the continent. The event highlights ongoing climate-related challenges facing European nations and the need for heat management strategies.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/weather/articles/c86dy6468epo"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cp3p2ver9k6o"
+          }
+        ],
+        "tags": [
+          "climate",
+          "governance",
+          "weather"
+        ]
+      },
+      {
+        "headline": "Luhansk Strike Kills 18, Escalates Russian-Ukrainian Military Tensions",
+        "summary": "A strike on the Russian-occupied Ukrainian town of Luhansk has resulted in 18 deaths and 42 injuries, according to initial reports. Russia has accused Ukraine of responsibility and threatened retaliation for the attack, further escalating military tensions between the two nations. The incident represents a significant event in the ongoing Russia-Ukraine conflict, with direct implications for European security and regional stability. Both sides are engaged in active military operations and tit-for-tat retaliatory threats. The situation underscores the persistent violence and humanitarian cost of the conflict on European soil.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "humanitarian"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-24T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump Says Iran Nuclear Deal 'Largely Negotiated,' Including Strait of Hormuz Reopening",
+        "summary": "US President Trump announced that negotiations with Iran have advanced significantly, with an agreement largely negotiated that would include reopening the Strait of Hormuz, a critical global shipping route. Iranian sources have laid out their position on the potential peace agreement, signalling progress in talks but noting that the key issue of nuclear weapons is not part of an initial framework. The deal represents a major diplomatic development after months of tension between the US and Iran. Tehran has emphasized that nuclear weapons discussions remain a separate matter from the current framework. This potential agreement could have substantial implications for global oil markets and regional stability in the Middle East.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/crmp121z3z8o"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "At Least 82 Killed in Chinese Coal Mine Explosion\u2014Worst Disaster in 16 Years",
+        "summary": "A major coal mine explosion in Shanxi province, China, has claimed at least 82 lives, marking the country's worst mining disaster in 16 years. The blast represents a significant industrial catastrophe with severe humanitarian consequences. The incident highlights ongoing safety concerns in China's coal mining sector, which remains a critical energy source for the nation and global markets. Investigation into the cause of the explosion is underway as rescue and recovery efforts continue. This disaster underscores broader challenges in industrial safety and working conditions in major mining operations.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5y0ve18qlko"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy",
+          "disaster"
+        ]
+      },
+      {
+        "headline": "Russia Launches Massive Missile and Drone Attack on Kyiv; Reports of Hypersonic 'Oreshnik' Deployment",
+        "summary": "Russia conducted a large-scale missile and drone attack on Ukraine's capital, Kyiv, killing at least one person as the conflict continues to escalate. Reports indicate Russia is preparing strikes using the hypersonic 'Oreshnik' missile, a new weapons system that could significantly alter the military dynamics of the ongoing war. The attacks represent continued Russian military pressure on Ukrainian civilian and strategic targets. Ukraine's air defenses remain engaged in defending against the barrage of incoming ordnance. The deployment of advanced weaponry underscores the technological dimensions of the conflict and raises concerns about civilian casualties.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "geopolitics",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Israeli Air Strikes in Southern Lebanon Kill Medics; Funerals Held for Paramedics",
+        "summary": "Israeli military operations in southern Lebanon have resulted in the deaths of paramedics, prompting funeral services for the killed healthcare workers. The strikes mark an escalation of tensions in the region and raise humanitarian concerns regarding the safety of medical personnel operating in conflict zones. The incident underscores broader regional tensions and the impact of military operations on civilian infrastructure and healthcare provision. Israel has continued military operations in southern Lebanon amid ongoing regional instability. The targeting of medical personnel raises questions about adherence to international humanitarian law.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "US Reroutes Passengers from Ebola-Affected Countries Through Designated Airports Amid Outbreak Response",
+        "summary": "The United States has implemented travel restrictions in response to ongoing Ebola outbreaks in Africa, requiring American citizens and permanent residents traveling from affected countries to route through designated airports for screening and monitoring. The move represents a precautionary public health measure designed to prevent the spread of the virus into the US. Multiple Ebola cases have been reported across Congo and Uganda, prompting heightened international vigilance. Health authorities are coordinating with airports to screen travelers and provide guidance. This response reflects global concerns about pandemic preparedness and disease containment in an interconnected world.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Romanian Director Cristian Mungiu Wins Palme d'Or at Cannes Film Festival",
+        "summary": "Romanian filmmaker Cristian Mungiu has received the prestigious Palme d'Or award at the Cannes Film Festival for his film 'Fjord,' a culture-war drama set in Norway. The award represents a significant recognition of Eastern European cinema on the world's most prominent film stage. Mungiu's win highlights the continued relevance of auteur cinema addressing contemporary social and political tensions. The Palme d'Or is the festival's highest honor and signals the film's potential for international distribution and critical acclaim. The recognition underscores the role of cinema in exploring cultural and ideological divides.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival"
+          }
+        ],
+        "tags": [
+          "culture",
+          "diplomacy"
+        ]
+      }
+    ]
+  }
+}

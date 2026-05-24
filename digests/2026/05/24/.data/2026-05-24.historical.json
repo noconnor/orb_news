@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Russia Launches Massive Missile and Drone Attack on Kyiv; Reports of Hypersonic 'Oreshnik' Deployment",
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941) + Korean War Stalemate",
+      "date_range": "1940–1941 / 1950–1953",
+      "summary": "The sustained German aerial assault on British cities during 1940–1941 established a grim template for using airpower against civilian populations to break morale, killing more than 43,000 civilians without producing political capitulation. The Korean War stalemate demonstrated how protracted attritional conflict could persist for years without a decisive breakthrough, with both sides absorbing punishment rather than conceding defeat.",
+      "parallel_analysis": "Russia's sustained campaign of missile and drone strikes against Ukrainian cities follows the coercive bombardment logic — aimed at exhausting civilian resolve and degrading infrastructure rather than winning battlefield engagements outright. Like wartime Britain, Ukrainians have largely adapted to life under aerial threat, and strikes have not produced the political capitulation Moscow appears to seek. The introduction of hypersonic weapons echoes arms races of earlier eras where technological advantage was sought to overcome hardened defences, though history suggests determined populations and adaptive defenders rarely yield to airpower alone.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Trump Says Iran Nuclear Deal 'Largely Negotiated,' Including Strait of Hormuz Reopening",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "The Suez Crisis (1956) + The Tanker War (1984–1988) + Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_range": "1956 / 1973 / 1984–1988",
+      "summary": "The Suez Crisis of 1956 showed how control of a critical maritime chokepoint could become the centrepiece of acute geopolitical confrontation, drawing in superpowers and reshaping regional power dynamics. The Tanker War of 1984–1988 saw Iran and Iraq attack commercial shipping in the Persian Gulf, directly threatening Hormuz traffic and eventually drawing US naval escorts. The 1973 Arab Oil Embargo demonstrated with brutal clarity the economic disruption that follows when oil-producing states weaponise supply, sending inflation spiralling across Western economies.",
+      "parallel_analysis": "Trump's announcement that Hormuz reopening forms part of a negotiated framework echoes the logic of each of these episodes: that maritime access is a tradeable commodity in great-power bargaining, capable of being offered or withheld to extract political concessions. Whether a deal that separates shipping access from nuclear weapons addresses the structural drivers of US-Iran tension — or merely defers the harder reckoning — remains the central question analysts will be debating.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "At Least 82 Killed in Chinese Coal Mine Explosion—Worst Disaster in 16 Years",
+      "story_topic": "China coal mine safety",
+      "historical_event": "The 2005 Sunjiawan Mine Disaster and China's Coal Safety Crisis (2000s)",
+      "date_range": "2000–2010",
+      "summary": "The 2005 Sunjiawan mine disaster in Fuxin, Liaoning province, killed at least 214 miners in a gas explosion — the worst mining disaster in China in at least fifteen years at the time. The government response included stripping the mining company chairman of party membership, holding 31 individuals responsible, and deploying 21 inspection teams across major coal-producing provinces. Annual death tolls across China's coal sector in the early 2000s regularly exceeded 5,000, with nearly 7,000 miners killed across more than 4,000 incidents in 2002 alone. Regulatory crackdowns that followed did reduce headline fatality counts substantially, but critics noted that consolidation often shifted risk rather than eliminating it.",
+      "parallel_analysis": "Sunday's explosion, while smaller in absolute toll than the worst disasters of that era, echoes the same pattern: a major energy economy caught between the demands of industrial output and the human cost of extracting fossil fuels at scale. The question facing Chinese regulators is whether the current episode prompts genuine systemic reform or another cycle of reactive inspection and eventual recurrence.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/2005_Sunjiawan_mine_disaster",
+        "https://en.wikipedia.org/wiki/List_of_coal_mining_accidents_in_China"
+      ]
+    }
+  ]
+}
