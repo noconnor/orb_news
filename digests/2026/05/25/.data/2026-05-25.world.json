@@ -1,0 +1,61 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-25T06:30:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "summary": "US President Trump has instructed negotiators not to rush into an agreement with Iran, tempering expectations around a potential 60-day ceasefire extension deal that would involve reopening the Strait of Hormuz. The statement indicates a more cautious approach to ongoing nuclear negotiations, suggesting deliberation over swift agreement. This reflects broader geopolitical tensions around Iranian sanctions and regional security. The Strait of Hormuz remains a critical global shipping lane, making any agreement's terms significant for international trade and energy markets. Trump's comments suggest the US administration is taking time to weigh all strategic implications before committing to terms.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["diplomacy", "geopolitics", "economy"]
+    },
+    {
+      "headline": "Building collapse in Philippines leaves 3 dead, 17 missing",
+      "summary": "A building collapse in the Philippines has killed at least three people with 17 others still missing as rescue operations continue. Thermal imaging technology has detected signs of life beneath the debris, giving rescuers hope of finding additional survivors. Emergency teams are working to safely excavate the wreckage while ensuring structural stability. The incident highlights ongoing infrastructure safety concerns in the Philippines, particularly around building codes and structural integrity. Rescue efforts are ongoing as authorities attempt to recover survivors before conditions deteriorate further.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/25/building-collapse-in-philippines-leaves-3-dead-17-missing?traffic_source=rss"}
+      ],
+      "tags": ["humanitarian", "disaster"]
+    },
+    {
+      "headline": "Huawei proposes new path for chip development amid US sanctions",
+      "summary": "Huawei has announced a new strategy for semiconductor manufacturing to navigate ongoing US trade restrictions and sanctions. The initiative represents the Chinese tech giant's effort to establish domestic and alternative pathways for chip production, reducing dependence on foreign suppliers and manufacturing partnerships. This move reflects China's broader goal of technological self-sufficiency in critical industries. The strategy has global implications for semiconductor supply chains and tech industry competition between the US and China. Huawei's approach signals how major tech firms are adapting business models in response to escalating international trade tensions.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS04bHUwcjl3V05GLUpjanRzUmRya0NNc1ZUcTR4S3RxSU50S0JTRzFUMnFZX2FRRFRYK0tROVU2TDNkSGJOa3VkZVhueFZZVWthSFlzdkJ4TDZhQ0xGQlp2WWFrbnluQ3g3VzU1dkY2X2kwSi10OGJRcnprbmQxcm9lVzNDa3pORW9sWGZxcXp0R3RPOGtBbklFVmZUQUFUZlJ5UXVkbkhubFdfV18yU0ZMNFg?oc=5"}
+      ],
+      "tags": ["technology", "trade", "geopolitics"]
+    },
+    {
+      "headline": "Russia invites media to view deadly strike on college in Luhansk",
+      "summary": "Russian authorities have invited international media to view the aftermath of a Ukrainian strike that destroyed a college building in occupied Luhansk. The attack resulted in multiple casualties and represents an escalation in the ongoing conflict between Russia and Ukraine, with educational facilities becoming targets. Russia's decision to provide media access to the damage site suggests a messaging strategy aimed at documenting the conflict's impact on civilian infrastructure. The strike highlights the persistent danger to civilians and public institutions in Ukrainian-controlled and occupied territories. The incident underscores the brutal reality of the Russia-Ukraine war now in its third year.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/russia-invites-media-to-view-deadly-strike-on-college-in-luhansk?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "Africa Day 2026 spotlights power, debt and digital control as continent redefines sovereignty",
+      "summary": "Africa Day 2026 has drawn attention to critical issues shaping the continent's future, including economic power dynamics, debt burdens, and digital sovereignty in the face of global technology expansion. African nations are reassessing their position in international trade and technology relationships as they work toward genuine economic independence. The focus on digital control reflects growing concerns about data privacy, tech monopolies, and the digital divide affecting African development. Debt sustainability remains a pressing issue, with many African governments balancing development needs against external obligations. The observance highlights Africa's collective effort to redefine sovereignty and self-determination in the contemporary global order.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss"}
+      ],
+      "tags": ["diplomacy", "economy", "development"]
+    },
+    {
+      "headline": "British sailors prepare to deploy on mine clearing mission to Hormuz with uncertain outcome",
+      "summary": "British naval personnel are preparing for a potential mine-clearing operation in the Strait of Hormuz, though uncertainty remains about whether the mission will ultimately proceed. The deployment reflects ongoing security concerns in one of the world's most critical shipping lanes, which handles millions of barrels of oil daily. British involvement in regional maritime security demonstrates continued Western military presence in the Gulf despite shifting geopolitical dynamics. The hesitation around the mission's implementation suggests diplomatic complexities surrounding such operations in contested waters. Successful clearance of sea mines would improve maritime safety and reduce risks to global commerce and naval vessels.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWNqU281RGxNVlQ5UTlyNnF3aExpaFJuRGZEMjVhaEd6UktfM1A5eEVEc0xlcGNqWm9wQjZmQU5vX3h1ZWVMdDVZeEplZ3hVckFvYXdpeUFMOFRkVkVWOTdJYjV4Q051dFE4eEE4b1RoOXFOZE5uN05kaEhwM2ZkUGxmS1RPSURUNm9Md250VXU0ZG9EZ3lqMA"}
+      ],
+      "tags": ["geopolitics", "defence", "trade"]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-25T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Fine Gael's Sean Kyne wins Galway West by-election as Fianna Fáil faces party criticism",
+      "summary": "Fine Gael candidate Sean Kyne won the Galway West by-election after the final count distribution, returning to the Dáil nearly 18 months after announcing his intention to leave politics. His victory comes as Independent Ireland's Noel Thomas, who had extended his lead in earlier counts, was ultimately overcome. The by-election result signals a setback for Fianna Fáil, which saw poor performances in both Galway West and Dublin Central. Party TDs have begun criticizing leadership, claiming \"selfish\" conduct damaged the party's electoral standing. The result reflects broader voter sentiment and represents a shift in the balance of power in these two key constituencies.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/noel-thomas-ahead-of-sean-kyne-in-galway-west-as-count-to-resume-shortly-7049947-May2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41850735.html"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41850738.html"}
+      ],
+      "tags": ["politics", "elections"]
+    },
+    {
+      "headline": "Government eases planning restrictions for one-off rural housing",
+      "summary": "The Irish government has proposed easing planning rules for one-off housing in rural areas under new policy proposals. The modifications are described as a \"loosening\" rather than a complete removal of existing restrictions, aimed at addressing housing availability concerns. The changes represent an adjustment to the government's planning approach for individual residential properties outside developed areas. This policy shift comes amid ongoing debates about housing affordability and rural development in Ireland. The exact implementation timeline and scope of the easing measures remain subject to further detail.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/housing-planning/2026/05/24/planning-rules-for-one-off-housing-to-be-eased-under-new-proposals/"}
+      ],
+      "tags": ["housing", "economy"]
+    },
+    {
+      "headline": "34 Polish and Lithuanian nationals deported from Ireland on criminality grounds",
+      "summary": "Irish authorities deported 34 men with prior custodial sentences to Poland and Lithuania on a dedicated charter flight. The removal operation included 22 Polish nationals and 12 Lithuanian nationals, all with criminal records justifying their deportation from the state. The deportation was carried out by Irish immigration authorities as part of ongoing efforts to remove foreign national offenders. This action reflects Ireland's commitment to addressing public safety concerns related to individuals with prior convictions. Such charter deportation flights are conducted periodically as part of immigration enforcement operations.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/over-30-polish-lithuanian-nationals-deported-charter-flight-7050537-May2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/05/24/thirty-four-men-deported-to-poland-and-lithuania-from-ireland-on-grounds-of-criminality/"}
+      ],
+      "tags": ["crime", "politics"]
+    },
+    {
+      "headline": "Inquiry finds proper investigation could have prevented ex-garda's abuse",
+      "summary": "Emily Logan, head of Fiosrú (the independent review body), stated that a proper inquiry into initial allegations against former garda Paul Moody in 2017 could have prevented subsequent abuse. The findings highlight systemic failures in how initial complaints were handled within An Garda Síochána. Logan's remarks underscore the importance of timely and thorough investigations into allegations of officer misconduct. The case illustrates broader concerns about institutional accountability and victim protection within law enforcement. The review body's findings are expected to inform recommendations for preventing similar failures in future.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/05/24/proper-inquiry-could-have-stopped-ex-garda-paul-moodys-abuse-head-of-fiosru-says/"}
+      ],
+      "tags": ["crime", "politics"]
+    },
+    {
+      "headline": "Ireland set for very warm weather with temperatures reaching 27 degrees",
+      "summary": "Met Éireann is forecasting very warm temperatures with sunshine across Ireland, with highs of up to 27 degrees Celsius expected today. The warm conditions follow an unusually cold May, with the highest recorded temperature at Phoenix Park having reached 24.9 degrees prior to this warm spell. The forecast indicates continued sunny conditions as part of an extended period of above-average temperatures. This warming trend provides relief after the cooler weather experienced earlier in the month. Such warm spells in late May are relatively uncommon in Ireland's typical climate pattern.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0525/1575068-hot-weather-forecast/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/24/temperatures-to-reach-up-to-27-degrees-as-warm-spell-continues/"}
+      ],
+      "tags": ["weather"]
+    },
+    {
+      "headline": "Diesel leak from Irish Rail fuel storage continues to pollute River Liffey",
+      "summary": "Diesel has been leaking into the River Liffey from Irish Rail fuel storage for over a year, despite being discovered in March 2025. The environmental incident represents an ongoing contamination concern affecting Dublin's main river. The leak's discovery prompted investigation but remedial action has not yet been completed. This situation raises questions about environmental oversight and corporate responsibility in managing hazardous materials near sensitive waterways. The continued leakage poses risks to aquatic life and water quality in the Liffey.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/diesel-leak-river-liffey-samuel-beckett-bridge-7046606-May2026/"}
+      ],
+      "tags": ["environment", "transport"]
+    },
+    {
+      "headline": "Pharmacist registrations decline sharply despite projected demand increases",
+      "summary": "New pharmacist registrations with the Pharmaceutical Society of Ireland (PSI) fell 27 percent in 2025, with only 388 first-time registrants joining the profession. The decline is concerning given projected increases in demand for pharmacy services across Ireland. The drop may signal challenges in attracting new professionals to the field or difficulties meeting entry requirements. Fewer new registrants could impact healthcare delivery, particularly in rural areas where pharmacy services are already constrained. The trend warrants investigation into the underlying causes affecting recruitment to the pharmacy profession.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41850501.html"}
+      ],
+      "tags": ["health", "economy"]
+    }
+  ]
+}

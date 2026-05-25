@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-25",
+  "update_type": "morning",
+  "steps": {
+    "setup_s": 14,
+    "gather_s": 95,
+    "preprocess_s": 17,
+    "digest_s": 274,
+    "audio_s": 142
+  },
+  "total_wallclock_s": 542,
+  "model_usage": {
+    "gather": {"model": "haiku", "agents": 3, "approx_tokens": 119598},
+    "digest": {"model": "sonnet", "agents": 1, "approx_tokens": 48168},
+    "audio": {"model": "none", "method": "edge-tts"}
+  },
+  "cost_estimate_usd": {
+    "haiku_input_per_1m": 1.0,
+    "haiku_output_per_1m": 5.0,
+    "sonnet_input_per_1m": 3.0,
+    "sonnet_output_per_1m": 15.0,
+    "approx_total": 0.34,
+    "notes": "Rough estimate; assumes typical input/output split. Audio free (Edge TTS)."
+  }
+}

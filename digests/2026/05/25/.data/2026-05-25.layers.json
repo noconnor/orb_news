@@ -1,0 +1,340 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-25T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Fine Gael's Sean Kyne wins Galway West by-election as Fianna F\u00e1il faces party criticism",
+        "summary": "Fine Gael candidate Sean Kyne won the Galway West by-election after the final count distribution, returning to the D\u00e1il nearly 18 months after announcing his intention to leave politics. His victory comes as Independent Ireland's Noel Thomas, who had extended his lead in earlier counts, was ultimately overcome. The by-election result signals a setback for Fianna F\u00e1il, which saw poor performances in both Galway West and Dublin Central. Party TDs have begun criticizing leadership, claiming \"selfish\" conduct damaged the party's electoral standing. The result reflects broader voter sentiment and represents a shift in the balance of power in these two key constituencies.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/noel-thomas-ahead-of-sean-kyne-in-galway-west-as-count-to-resume-shortly-7049947-May2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41850735.html"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41850738.html"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Government eases planning restrictions for one-off rural housing",
+        "summary": "The Irish government has proposed easing planning rules for one-off housing in rural areas under new policy proposals. The modifications are described as a \"loosening\" rather than a complete removal of existing restrictions, aimed at addressing housing availability concerns. The changes represent an adjustment to the government's planning approach for individual residential properties outside developed areas. This policy shift comes amid ongoing debates about housing affordability and rural development in Ireland. The exact implementation timeline and scope of the easing measures remain subject to further detail.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/housing-planning/2026/05/24/planning-rules-for-one-off-housing-to-be-eased-under-new-proposals/"
+          }
+        ],
+        "tags": [
+          "housing",
+          "economy"
+        ]
+      },
+      {
+        "headline": "34 Polish and Lithuanian nationals deported from Ireland on criminality grounds",
+        "summary": "Irish authorities deported 34 men with prior custodial sentences to Poland and Lithuania on a dedicated charter flight. The removal operation included 22 Polish nationals and 12 Lithuanian nationals, all with criminal records justifying their deportation from the state. The deportation was carried out by Irish immigration authorities as part of ongoing efforts to remove foreign national offenders. This action reflects Ireland's commitment to addressing public safety concerns related to individuals with prior convictions. Such charter deportation flights are conducted periodically as part of immigration enforcement operations.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/over-30-polish-lithuanian-nationals-deported-charter-flight-7050537-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/05/24/thirty-four-men-deported-to-poland-and-lithuania-from-ireland-on-grounds-of-criminality/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Inquiry finds proper investigation could have prevented ex-garda's abuse",
+        "summary": "Emily Logan, head of Fiosr\u00fa (the independent review body), stated that a proper inquiry into initial allegations against former garda Paul Moody in 2017 could have prevented subsequent abuse. The findings highlight systemic failures in how initial complaints were handled within An Garda S\u00edoch\u00e1na. Logan's remarks underscore the importance of timely and thorough investigations into allegations of officer misconduct. The case illustrates broader concerns about institutional accountability and victim protection within law enforcement. The review body's findings are expected to inform recommendations for preventing similar failures in future.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/05/24/proper-inquiry-could-have-stopped-ex-garda-paul-moodys-abuse-head-of-fiosru-says/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Ireland set for very warm weather with temperatures reaching 27 degrees",
+        "summary": "Met \u00c9ireann is forecasting very warm temperatures with sunshine across Ireland, with highs of up to 27 degrees Celsius expected today. The warm conditions follow an unusually cold May, with the highest recorded temperature at Phoenix Park having reached 24.9 degrees prior to this warm spell. The forecast indicates continued sunny conditions as part of an extended period of above-average temperatures. This warming trend provides relief after the cooler weather experienced earlier in the month. Such warm spells in late May are relatively uncommon in Ireland's typical climate pattern.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0525/1575068-hot-weather-forecast/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/24/temperatures-to-reach-up-to-27-degrees-as-warm-spell-continues/"
+          }
+        ],
+        "tags": [
+          "weather"
+        ]
+      },
+      {
+        "headline": "Diesel leak from Irish Rail fuel storage continues to pollute River Liffey",
+        "summary": "Diesel has been leaking into the River Liffey from Irish Rail fuel storage for over a year, despite being discovered in March 2025. The environmental incident represents an ongoing contamination concern affecting Dublin's main river. The leak's discovery prompted investigation but remedial action has not yet been completed. This situation raises questions about environmental oversight and corporate responsibility in managing hazardous materials near sensitive waterways. The continued leakage poses risks to aquatic life and water quality in the Liffey.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/diesel-leak-river-liffey-samuel-beckett-bridge-7046606-May2026/"
+          }
+        ],
+        "tags": [
+          "environment",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Pharmacist registrations decline sharply despite projected demand increases",
+        "summary": "New pharmacist registrations with the Pharmaceutical Society of Ireland (PSI) fell 27 percent in 2025, with only 388 first-time registrants joining the profession. The decline is concerning given projected increases in demand for pharmacy services across Ireland. The drop may signal challenges in attracting new professionals to the field or difficulties meeting entry requirements. Fewer new registrants could impact healthcare delivery, particularly in rural areas where pharmacy services are already constrained. The trend warrants investigation into the underlying causes affecting recruitment to the pharmacy profession.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41850501.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "economy"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-25T08:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Russia launches massive missile and drone assault on Kyiv with hypersonic Oreshnik weapon",
+        "summary": "Russia carried out one of its largest aerial attacks on Ukraine since the 2022 invasion, deploying 90 missiles and 600 attack drones against Kyiv, including a hypersonic Oreshnik intermediate-range ballistic missile. The assault killed at least four people and injured dozens, with damage reported across every district of Kyiv and destruction of cultural institutions including the Chernobyl museum. Ukrainian air defenses intercepted most drones and more than half the missiles. The attack came in retaliation for a Ukrainian drone strike on a Russian college in Starobilsk. The strikes underscore the escalating nature of the conflict and Russia's continued capability to strike deep within Ukrainian territory.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/we-don-t-know-what-the-death-toll-among-military-personnel-is-kyiv-reels-from-russian-strikes"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "Ukraine"
+        ]
+      },
+      {
+        "headline": "Pope Leo XIV publishes first encyclical on artificial intelligence and human dignity",
+        "summary": "Pope Leo XIV released his first encyclical, 'Magnifica Humanitas' (Magnificent Humanity), on May 25, addressing the theological and ethical implications of artificial intelligence. The document focuses on protecting human dignity in the age of AI, emphasizing that faces, voices, and consciousness are distinctive human features that should not be simulated by machines. The Pope expressed concern that AI systems encroach on the deepest level of human communication and relationships. The encyclical was presented at the Vatican with participation from Christopher Olah of Anthropic, signaling the Catholic Church's engagement with major AI developers on these critical issues.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260525-pope-leo-xiv-ai-manifesto-ethical-risks-global-impact"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Italy holds local elections as test of Meloni government support following justice referendum defeat",
+        "summary": "Over 6 million Italians voted in municipal elections on May 25, in a test of Prime Minister Giorgia Meloni's right-wing coalition government following its recent defeat in a justice reform referendum. The local elections serve as a gauge of public confidence in Meloni's administration and its policy direction. Results will provide insight into the government's political standing ahead of potential general elections. The vote comes amid broader political debate in Italy about constitutional reform and the judiciary.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "http://www.euronews.com/my-europe/2026/05/25/local-elections-over-6-million-italians-vote-in-mayoral-polls-seen-to-be-a-fresh-test-for-"
+          }
+        ],
+        "tags": [
+          "elections",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "EU and United States agree to eliminate tariffs on industrial goods in major trade deal",
+        "summary": "The European Council and European Parliament reached agreement to eliminate tariffs on all US industrial goods and provide preferential market access for certain US agricultural and seafood products. This deal implements the tariff elements of a Joint Statement between the EU and United States, marking a significant shift in transatlantic trade relations. Separately, EU Commission President Ursula von der Leyen and European Council President Ant\u00f3nio Costa signed an updated trade agreement with Mexico to reduce dependence on US and Chinese markets amid rising geopolitical tensions. These trade agreements reflect Europe's strategic efforts to rebalance its economic relationships in a shifting global landscape.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "http://www.euronews.com/2026/05/25/trump-urges-negotiators-to-not-rush-potential-deal-with-iran-as-new-details-emerge"
+          }
+        ],
+        "tags": [
+          "trade",
+          "EU",
+          "economy"
+        ]
+      },
+      {
+        "headline": "EU establishes first harmonized standards for animal welfare and identification of cats and dogs",
+        "summary": "The European Union has approved new harmonized rules establishing the first EU-wide standards for the welfare, breeding, identification, and traceability of cats and dogs across all member states. The regulations make identification and registration mandatory for pets throughout Europe, creating unified standards that improve animal protection and facilitate cross-border pet movement. This represents a significant step in EU regulatory harmonization and reflects the bloc's commitment to consistent animal welfare standards. The rules are designed to ensure minimum welfare conditions across Europe and improve tracking of pets for safety and health purposes.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "UK heads toward record-breaking May heat as temperatures exceed 30 degrees Celsius",
+        "summary": "The United Kingdom is experiencing exceptionally hot weather in late May 2026, with temperatures forecast to reach as high as 34 degrees Celsius, potentially setting a record for the hottest May day in UK history. Eight regions of England have already entered heatwave conditions as heat persists across the country. Meteorological services are monitoring the situation closely as the extreme temperatures pose potential health risks and strain on energy systems. The heatwave reflects broader climate patterns affecting Europe and highlights ongoing concerns about extreme weather events.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/weather/articles/c794j5zwppno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "climate",
+          "weather",
+          "UK"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-25T06:30:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Trump tells US negotiators 'not to rush' into deal with Iran",
+        "summary": "US President Trump has instructed negotiators not to rush into an agreement with Iran, tempering expectations around a potential 60-day ceasefire extension deal that would involve reopening the Strait of Hormuz. The statement indicates a more cautious approach to ongoing nuclear negotiations, suggesting deliberation over swift agreement. This reflects broader geopolitical tensions around Iranian sanctions and regional security. The Strait of Hormuz remains a critical global shipping lane, making any agreement's terms significant for international trade and energy markets. Trump's comments suggest the US administration is taking time to weigh all strategic implications before committing to terms.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "geopolitics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Building collapse in Philippines leaves 3 dead, 17 missing",
+        "summary": "A building collapse in the Philippines has killed at least three people with 17 others still missing as rescue operations continue. Thermal imaging technology has detected signs of life beneath the debris, giving rescuers hope of finding additional survivors. Emergency teams are working to safely excavate the wreckage while ensuring structural stability. The incident highlights ongoing infrastructure safety concerns in the Philippines, particularly around building codes and structural integrity. Rescue efforts are ongoing as authorities attempt to recover survivors before conditions deteriorate further.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/25/building-collapse-in-philippines-leaves-3-dead-17-missing?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "disaster"
+        ]
+      },
+      {
+        "headline": "Huawei proposes new path for chip development amid US sanctions",
+        "summary": "Huawei has announced a new strategy for semiconductor manufacturing to navigate ongoing US trade restrictions and sanctions. The initiative represents the Chinese tech giant's effort to establish domestic and alternative pathways for chip production, reducing dependence on foreign suppliers and manufacturing partnerships. This move reflects China's broader goal of technological self-sufficiency in critical industries. The strategy has global implications for semiconductor supply chains and tech industry competition between the US and China. Huawei's approach signals how major tech firms are adapting business models in response to escalating international trade tensions.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS04bHUwcjl3V05GLUpjanRzUmRya0NNc1ZUcTR4S3RxSU50S0JTRzFUMnFZX2FRRFRYK0tROVU2TDNkSGJOa3VkZVhueFZZVWthSFlzdkJ4TDZhQ0xGQlp2WWFrbnluQ3g3VzU1dkY2X2kwSi10OGJRcnprbmQxcm9lVzNDa3pORW9sWGZxcXp0R3RPOGtBbklFVmZUQUFUZlJ5UXVkbkhubFdfV18yU0ZMNFg?oc=5"
+          }
+        ],
+        "tags": [
+          "technology",
+          "trade",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Russia invites media to view deadly strike on college in Luhansk",
+        "summary": "Russian authorities have invited international media to view the aftermath of a Ukrainian strike that destroyed a college building in occupied Luhansk. The attack resulted in multiple casualties and represents an escalation in the ongoing conflict between Russia and Ukraine, with educational facilities becoming targets. Russia's decision to provide media access to the damage site suggests a messaging strategy aimed at documenting the conflict's impact on civilian infrastructure. The strike highlights the persistent danger to civilians and public institutions in Ukrainian-controlled and occupied territories. The incident underscores the brutal reality of the Russia-Ukraine war now in its third year.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/russia-invites-media-to-view-deadly-strike-on-college-in-luhansk?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Africa Day 2026 spotlights power, debt and digital control as continent redefines sovereignty",
+        "summary": "Africa Day 2026 has drawn attention to critical issues shaping the continent's future, including economic power dynamics, debt burdens, and digital sovereignty in the face of global technology expansion. African nations are reassessing their position in international trade and technology relationships as they work toward genuine economic independence. The focus on digital control reflects growing concerns about data privacy, tech monopolies, and the digital divide affecting African development. Debt sustainability remains a pressing issue, with many African governments balancing development needs against external obligations. The observance highlights Africa's collective effort to redefine sovereignty and self-determination in the contemporary global order.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "development"
+        ]
+      },
+      {
+        "headline": "British sailors prepare to deploy on mine clearing mission to Hormuz with uncertain outcome",
+        "summary": "British naval personnel are preparing for a potential mine-clearing operation in the Strait of Hormuz, though uncertainty remains about whether the mission will ultimately proceed. The deployment reflects ongoing security concerns in one of the world's most critical shipping lanes, which handles millions of barrels of oil daily. British involvement in regional maritime security demonstrates continued Western military presence in the Gulf despite shifting geopolitical dynamics. The hesitation around the mission's implementation suggests diplomatic complexities surrounding such operations in contested waters. Successful clearance of sea mines would improve maritime safety and reduce risks to global commerce and naval vessels.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWNqU281RGxNVlQ5UTlyNnF3aExpaFJuRGZEMjVhaEd6UktfM1A5eEVEc0xlcGNqWm9wQjZmQU5vX3h1ZWVMdDVZeEplZ3hVckFvYXdpeUFMOFRkVkVWOTdJYjV4Q051dFE4eEE4b1RoOXFOZE5uN05kaEhwM2ZkUGxmS1RPSURUNm9Md250VXU0ZG9EZ3lqMA"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "defence",
+          "trade"
+        ]
+      }
+    ]
+  }
+}

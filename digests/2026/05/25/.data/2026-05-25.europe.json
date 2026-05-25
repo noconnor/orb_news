@@ -1,0 +1,63 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-25T08:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia launches massive missile and drone assault on Kyiv with hypersonic Oreshnik weapon",
+      "summary": "Russia carried out one of its largest aerial attacks on Ukraine since the 2022 invasion, deploying 90 missiles and 600 attack drones against Kyiv, including a hypersonic Oreshnik intermediate-range ballistic missile. The assault killed at least four people and injured dozens, with damage reported across every district of Kyiv and destruction of cultural institutions including the Chernobyl museum. Ukrainian air defenses intercepted most drones and more than half the missiles. The attack came in retaliation for a Ukrainian drone strike on a Russian college in Starobilsk. The strikes underscore the escalating nature of the conflict and Russia's continued capability to strike deep within Ukrainian territory.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"},
+        {"name": "France24", "url": "https://www.france24.com/en/we-don-t-know-what-the-death-toll-among-military-personnel-is-kyiv-reels-from-russian-strikes"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv"}
+      ],
+      "tags": ["conflict", "defence", "Ukraine"]
+    },
+    {
+      "headline": "Pope Leo XIV publishes first encyclical on artificial intelligence and human dignity",
+      "summary": "Pope Leo XIV released his first encyclical, 'Magnifica Humanitas' (Magnificent Humanity), on May 25, addressing the theological and ethical implications of artificial intelligence. The document focuses on protecting human dignity in the age of AI, emphasizing that faces, voices, and consciousness are distinctive human features that should not be simulated by machines. The Pope expressed concern that AI systems encroach on the deepest level of human communication and relationships. The encyclical was presented at the Vatican with participation from Christopher Olah of Anthropic, signaling the Catholic Church's engagement with major AI developers on these critical issues.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260525-pope-leo-xiv-ai-manifesto-ethical-risks-global-impact"}
+      ],
+      "tags": ["EU", "governance", "technology"]
+    },
+    {
+      "headline": "Italy holds local elections as test of Meloni government support following justice referendum defeat",
+      "summary": "Over 6 million Italians voted in municipal elections on May 25, in a test of Prime Minister Giorgia Meloni's right-wing coalition government following its recent defeat in a justice reform referendum. The local elections serve as a gauge of public confidence in Meloni's administration and its policy direction. Results will provide insight into the government's political standing ahead of potential general elections. The vote comes amid broader political debate in Italy about constitutional reform and the judiciary.",
+      "sources": [
+        {"name": "EuroNews", "url": "http://www.euronews.com/my-europe/2026/05/25/local-elections-over-6-million-italians-vote-in-mayoral-polls-seen-to-be-a-fresh-test-for-"}
+      ],
+      "tags": ["elections", "governance", "EU"]
+    },
+    {
+      "headline": "EU and United States agree to eliminate tariffs on industrial goods in major trade deal",
+      "summary": "The European Council and European Parliament reached agreement to eliminate tariffs on all US industrial goods and provide preferential market access for certain US agricultural and seafood products. This deal implements the tariff elements of a Joint Statement between the EU and United States, marking a significant shift in transatlantic trade relations. Separately, EU Commission President Ursula von der Leyen and European Council President António Costa signed an updated trade agreement with Mexico to reduce dependence on US and Chinese markets amid rising geopolitical tensions. These trade agreements reflect Europe's strategic efforts to rebalance its economic relationships in a shifting global landscape.",
+      "sources": [
+        {"name": "EuroNews", "url": "http://www.euronews.com/2026/05/25/trump-urges-negotiators-to-not-rush-potential-deal-with-iran-as-new-details-emerge"}
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "EU establishes first harmonized standards for animal welfare and identification of cats and dogs",
+      "summary": "The European Union has approved new harmonized rules establishing the first EU-wide standards for the welfare, breeding, identification, and traceability of cats and dogs across all member states. The regulations make identification and registration mandatory for pets throughout Europe, creating unified standards that improve animal protection and facilitate cross-border pet movement. This represents a significant step in EU regulatory harmonization and reflects the bloc's commitment to consistent animal welfare standards. The rules are designed to ensure minimum welfare conditions across Europe and improve tracking of pets for safety and health purposes.",
+      "sources": [
+        {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["regulation", "EU", "governance"]
+    },
+    {
+      "headline": "UK heads toward record-breaking May heat as temperatures exceed 30 degrees Celsius",
+      "summary": "The United Kingdom is experiencing exceptionally hot weather in late May 2026, with temperatures forecast to reach as high as 34 degrees Celsius, potentially setting a record for the hottest May day in UK history. Eight regions of England have already entered heatwave conditions as heat persists across the country. Meteorological services are monitoring the situation closely as the extreme temperatures pose potential health risks and strain on energy systems. The heatwave reflects broader climate patterns affecting Europe and highlights ongoing concerns about extreme weather events.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/weather/articles/c794j5zwppno?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["climate", "weather", "UK"]
+    }
+  ]
+}
