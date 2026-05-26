@@ -1,0 +1,77 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-26T06:00:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US launches fresh strikes on Iran as nuclear deal talks continue",
+      "summary": "The US military conducted strikes against Iranian targets including missile launch sites and boats in the Persian Gulf on May 25-26, citing self-defense under international law. The strikes mark a significant escalation in an already tense situation, occurring amid ongoing diplomatic negotiations over a potential Iran nuclear agreement and reopening of the Strait of Hormuz. Secretary of State Rubio indicated that a deal could take days to finalize. Iran's government disputed claims that a deal was imminent, tempering expectations of immediate resolution. The strikes have elevated oil prices and raised concerns about inflation. The military action reflects the fragile balance between military deterrence and diplomatic engagement in one of the world's most volatile regions.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Israel intensifies military campaign against Hezbollah in Lebanon",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu announced plans to intensify and escalate military strikes against Hezbollah in Lebanon, vowing to 'smite' the militant group with 'overwhelming' force. Israeli forces have already begun conducting operations in eastern Lebanon following the announcement on May 25-26. The escalation follows a recently extended ceasefire agreement and signals a shift toward a more aggressive military posture in the region. Netanyahu's rhetoric suggests a comprehensive campaign to dismantle Hezbollah's operational capacity. The intensification poses risks of broader regional conflict and has prompted international concern about the humanitarian impact on Lebanese civilians.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cewppdk1187o"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Russia threatens expanded strikes on Kyiv as Ukraine conflict intensifies",
+      "summary": "Russia's Foreign Minister Lavrov announced Russian plans to strike Kyiv sites, following one of the largest aerial assaults on Ukraine's capital over the weekend. The Russian government is also warning foreign nationals to leave Kyiv, signaling expectations of further military operations. Simultaneously, Russian President Putin has introduced debt relief programs for new military recruits, indicating a sustained commitment to the conflict. The escalation reflects Russia's determination to maintain military pressure despite international opposition and diplomatic overtures. The threats to strike civilian areas raise humanitarian concerns and underscore the ongoing severity of the Ukraine conflict.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c1e22n55zn4o"}
+      ],
+      "tags": ["conflict", "humanitarian", "geopolitics"]
+    },
+    {
+      "headline": "WHO warns fast-moving Ebola epidemic in Uganda outpacing response",
+      "summary": "The World Health Organization chief issued urgent warnings about a rapidly spreading Ebola epidemic in Uganda, stating that the outbreak is outpacing the international response efforts. Uganda has confirmed at least seven Ebola cases, with health authorities confirming two additional cases on May 25. The fast-moving nature of the outbreak poses significant challenges for containment and treatment. The Ebola virus remains one of the world's most lethal pathogens, with mortality rates typically exceeding 50 percent. The international community must mobilize resources and expertise rapidly to prevent the outbreak from expanding beyond Uganda's borders.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["health", "humanitarian", "crisis"]
+    },
+    {
+      "headline": "Pope Leo XIV issues historic apology for Vatican's role in slavery legitimization",
+      "summary": "Pope Leo XIV made an unprecedented apology addressing the Vatican's historical role in legitimizing slavery, a significant acknowledgment of the Catholic Church's complicity in one of history's greatest atrocities. The papal statement represents a major step toward reconciliation and accountability within the world's largest Christian denomination. In a related development, the Pope has also issued his first major encyclical, 'Magnifica Humanitas,' which addresses the perils and promises of artificial intelligence, calling for international regulation of AI weapons systems. The pontiff warned that some weapons technologies have moved beyond human control, raising ethical concerns about autonomous systems. These statements reflect the Church's engagement with both historical justice and contemporary technological challenges.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence"}
+      ],
+      "tags": ["religion", "governance", "technology"]
+    },
+    {
+      "headline": "Pakistan suicide bombing near railway kills at least 23 people",
+      "summary": "A suicide bombing near a railway track in southwest Pakistan resulted in at least 23 deaths and numerous injuries, representing a significant terrorist attack on civilian infrastructure. The incident highlights ongoing security challenges in Pakistan's southwestern regions, which have been plagued by militant activity for years. The attack underscores the persistent threat posed by extremist groups operating in Pakistan and the vulnerability of civilian transportation infrastructure. Investigation into the bombing has been launched to identify the perpetrators and their organizational affiliation. The attack has renewed calls for enhanced security measures to protect civilian populations in conflict-affected areas.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["conflict", "security", "humanitarian"]
+    },
+    {
+      "headline": "Bolivia witnesses rising tensions as protesters march toward presidential palace",
+      "summary": "Demonstrations in Bolivia escalated on May 25-26 as protesters marched toward the presidential palace in La Paz, with police maintaining blockades around the area. The protests reflect widespread discontent with the government, though specific grievances vary across different protest groups. Police have maintained a significant security presence to prevent demonstrators from breaching official buildings. The situation remains fluid with potential for further escalation depending on government response and protester actions. Bolivia's recent political history includes several instances of major civil unrest, making the current tensions a significant development in regional governance.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_report-bolivia-protesters-presidential-palace-250526"}
+      ],
+      "tags": ["governance", "social", "diplomacy"]
+    }
+  ]
+}

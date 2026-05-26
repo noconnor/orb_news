@@ -1,0 +1,90 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-26T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Cabinet to consider ban on goods from Israeli settlements",
+      "summary": "Minister for Foreign Affairs and Trade Helen McEntee will bring legislation to the Cabinet on May 26 to prohibit the import of goods from Israeli settlements in the occupied Palestinian territories. This move reflects Ireland's stance on supporting Palestinian rights and implementing trade restrictions aligned with international law positions. The proposal comes amid ongoing Israeli-Palestinian tensions and demonstrates the Irish government's commitment to using trade policy as a diplomatic tool. This legislation would place Ireland among countries taking concrete economic measures regarding the occupation. The decision underscores Ireland's historical support for Palestinian self-determination and its role in EU discussions on the matter.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/politics/2026/0526/1575228-cabinet-israel-trade/"
+        }
+      ],
+      "tags": ["politics", "economy", "trade"]
+    },
+    {
+      "headline": "Former DUP leader Jeffrey Donaldson's sexual offences trial begins",
+      "summary": "The trial of former DUP leader Jeffrey Donaldson on sexual offences charges commenced on May 26, 2026. Donaldson, a consequential figure in four decades of Northern Irish politics, led the DUP from 2021 until his arrest. The trial of the facts of his wife, Eleanor Donaldson, will run concurrently with his proceedings. This case represents a major political development in Northern Ireland, affecting one of the region's most significant unionist politicians. The trial's outcome will have implications for Northern Irish politics and the DUP's leadership.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/05/26/former-dup-leader-jeffrey-donaldsons-sexual-offences-trial-due-to-get-under-way/"
+        }
+      ],
+      "tags": ["politics", "crime"]
+    },
+    {
+      "headline": "Defence Forces deploy advanced security systems during EU presidency",
+      "summary": "Ireland's Defence Forces have detailed elaborate 'layered' security systems designed to protect against potential drone incursions during the country's EU presidency. The measures include shotguns, helicopters, and 'airburst' ammunition as part of a comprehensive anti-drone strategy. The security arrangements reflect lessons learned from conflicts in Ukraine and the Middle East. This multi-layered approach demonstrates Ireland's commitment to maintaining security and demonstrating capability during its EU leadership period. The deployment of such advanced systems underscores the evolving nature of modern defence challenges.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/05/26/shotguns-helicopters-and-airburst-ammunition-to-guard-against-rogue-drones-during-eu-presidency/"
+        }
+      ],
+      "tags": ["defence", "politics"]
+    },
+    {
+      "headline": "Search begins for Seamus Maguire's remains in Armagh bog",
+      "summary": "A search operation has commenced in County Armagh to locate the remains of Seamus Maguire, one of the so-called Disappeared from the Troubles. This search represents an ongoing effort to provide closure to families of victims from the conflict. The Disappeared refer to individuals who were abducted, killed, and secretly buried during the Northern Ireland conflict. This recovery effort is part of broader reconciliation and justice efforts in post-conflict Northern Ireland. The search underscores the enduring legacy of the Troubles and the importance of finding missing persons.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0526/1575194-seamus-maguire-search/"
+        }
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Government to modify accommodation arrangements for Ukrainian residents",
+      "summary": "Minister for Justice and Migration Jim O'Callaghan will seek Government approval on May 26 to change how Ukrainian residents are accommodated in Ireland. This policy shift reflects ongoing considerations about supporting Ukraine's displaced population while managing housing capacity in Ireland. The modification of accommodation arrangements follows Ireland's substantial intake of Ukrainian refugees since the Russian invasion. This decision balances humanitarian commitments with domestic resource constraints. The policy change will affect thousands of Ukrainian families currently residing in Ireland.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/politics/2026/0526/1575237-cabinet-politics/"
+        }
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "CCPC identifies consumer law breaches after inspection blitz",
+      "summary": "The Competition and Consumer Protection Commission (CCPC) has identified a number of potential breaches of consumer law following 80 unannounced inspections of businesses across six counties on May 26. The inspections represent a significant enforcement action aimed at protecting Irish consumers. The CCPC's findings suggest widespread compliance issues in the inspected sectors. These breaches could result in enforcement actions against non-compliant businesses. The inspection campaign demonstrates the CCPC's commitment to actively monitoring market practices and protecting consumer rights.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0526/1575241-ccpc-inspections/"
+        }
+      ],
+      "tags": ["economy", "social"]
+    },
+    {
+      "headline": "Sinn Féin leadership faces pressure to refine party message after electoral setbacks",
+      "summary": "Following two poor byelection results, some members within Sinn Féin believe it may be time to 'refine' the party's approach, though leadership maintains all is well. The byelection losses represent a setback for the party, which has faced challenges in translating poll numbers into electoral gains. Internal discussions within the party suggest recognition that a strategic adjustment may be necessary. This moment reflects ongoing debates within Sinn Féin about messaging and policy direction. The party's response to these setbacks will likely shape Irish politics over the coming months.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/sinn-fein-byelections-7051096-May2026/"
+        }
+      ],
+      "tags": ["politics"]
+    }
+  ]
+}

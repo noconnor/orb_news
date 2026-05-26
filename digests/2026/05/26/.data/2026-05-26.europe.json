@@ -1,0 +1,76 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-26T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia launches devastating missile strikes on Kyiv amid escalating conflict",
+      "summary": "Russia conducted major missile bombardments on Kyiv on May 24-25, deploying hypersonic weapons and striking over 50 targets including residential areas and schools. Moscow threatened fresh strikes and warned foreign residents and diplomats to leave the city. The attacks represent some of the most intensive strikes on the Ukrainian capital in recent months, with French and EU leaders condemning the escalation. Ukraine has responded by intensifying attacks on Russian energy infrastructure, including strikes on oil refineries. The conflict continues to dominate European security concerns and shape regional policy.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260525-russia-threatens-fresh-kyiv-strikes-warns-foreigners-to-leave"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/25/russia-urges-foreign-residents-and-diplomats-to-leave-kyiv-as-it-threatens-more-strikes"}
+      ],
+      "tags": ["conflict", "defence", "geopolitics"]
+    },
+    {
+      "headline": "Pope Leo issues landmark encyclical calling for AI regulation and ethical safeguards",
+      "summary": "Pope Leo released his inaugural encyclical on May 25, titled \"Magnifica Humanitas,\" which warns that artificial intelligence must be 'disarmed' and subjected to robust regulation to prevent digital exploitation and human suffering. The pontiff cautioned that AI could deepen conflicts, dehumanize society, and create 'new digital slaveries' if left unchecked. The Vatican's sweeping manifesto addresses the ethical challenges of technology and calls for international oversight. This marks a significant intervention by the Catholic Church in global technology governance discussions. The message resonates across Europe as policymakers grapple with AI regulation frameworks.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cedppn6002jo"},
+        {"name": "France24", "url": "https://www.france24.com/en/pope-leo-warns-ai-must-be-disarmed-in-landmark-encyclical"}
+      ],
+      "tags": ["governance", "regulation", "technology"]
+    },
+    {
+      "headline": "Europe swelters under record-breaking May heat as climate concerns intensify",
+      "summary": "Europe is experiencing unprecedented spring temperatures, with England potentially breaking its May heat record at 35°C and experts warning of 'heat domes' arriving earlier than historical patterns. Hungarian climate scientists have predicted Budapest could reach 50°C temperatures as climate change accelerates warming across the continent. Spain has announced a €9 billion climate and energy transition plan to address sustainability challenges. The extreme weather has already caused dangerous conditions, including deadly riptides along France's Atlantic coast that killed two swimmers. These temperature records underscore the urgency of Europe's climate action and energy transition policies.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c1l22r59mn5o"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/26/we-can-halt-warming-and-we-must-ipcc-scientist-on-why-europe-keeps-choosing-fossil-fuels"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/25/what-is-a-heat-dome-why-europe-is-sweltering-under-record-breaking-may-temperatures"}
+      ],
+      "tags": ["climate", "economy", "governance"]
+    },
+    {
+      "headline": "Violent anti-government protests erupt in Belgrade amid political tensions",
+      "summary": "Tens of thousands of protesters clashed with police in Belgrade on May 24-25, demanding elections and challenging President Aleksandar Vučić's government. Riot police deployed as demonstrators filled Serbia's capital streets in one of the largest anti-government rallies in recent memory. The violence underscores rising political tensions and public dissatisfaction within the Balkan nation. The protests come as Vučić has been defending Serbia's international relationships, including controversial ties to China. These developments reflect broader Balkan instability and questions about democratic governance in the region.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/protesters-clash-with-police-after-an-anti-government-rally-in-serbia-s-capital"},
+        {"name": "Euronews", "url": "http://www.euronews.com/video/2026/05/25/violent-clashes-break-out-after-mass-protest-in-belgrade"}
+      ],
+      "tags": ["politics", "governance", "social"]
+    },
+    {
+      "headline": "Health emergencies reported across Europe as hantavirus and Ebola cases surface",
+      "summary": "Spain confirmed a second hantavirus case on May 25, with two patients in Madrid quarantine and a dozen others under medical observation following exposure on a cruise ship. Italy reported two suspected Ebola cases in Lombardy on May 25 after travelers returned from Uganda, though authorities stated infection risk remains minimal. French authorities issued warnings about deadly riptides following record-breaking temperatures, resulting in over 30 rescue operations along Atlantic beaches. Separately, research indicates European nurses are leaving the profession due to job insecurity and poor working conditions. These interconnected health challenges reflect pressures on Europe's healthcare systems.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/health/2026/05/25/health-ministry-confirms-second-hantavirus-case-in-spain-2-patients-in-madrid-quarantine"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/25/ebola-alert-in-italy-two-suspected-cases-in-lombardy-after-return-from-uganda"},
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/25/two-swimmers-killed-as-french-authorities-warn-of-deadly-riptides-across-atlantic-coastlin"}
+      ],
+      "tags": ["health", "humanitarian", "governance"]
+    },
+    {
+      "headline": "Germany proposes Ukraine as EU 'associate member' as path to faster integration",
+      "summary": "German Chancellor Merz proposed on May 21 that Ukraine be granted EU 'associate member' status with representation but without voting rights, offering a faster integration pathway than full membership. This proposal reflects growing European support for stronger institutional ties with Ukraine amid the ongoing Russian invasion. The interim status would allow Ukraine closer economic and political alignment with the EU while formal membership processes continue. The proposal signals Western commitment to Ukraine's European future and strengthens coordination between Berlin and Kyiv. This development has significant implications for post-war European architecture and EU expansion strategy.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260521-germany-s-merz-proposes-ukraine-as-eu-associate-member-without-voting-rights"}
+      ],
+      "tags": ["EU", "trade", "geopolitics"]
+    },
+    {
+      "headline": "Lithuanian authorities warn of foreign state involvement in major data breach",
+      "summary": "Lithuania warned on May 25 that a significant data leak affecting its citizens was the work of a foreign state, marking a serious cybersecurity incident with potential geopolitical implications. The attribution to a foreign actor heightens concerns about state-sponsored cyberattacks targeting Baltic nations. This disclosure comes amid broader European vigilance against cyber threats, particularly from adversaries seeking to exploit vulnerabilities in critical systems. The incident underscores the growing sophistication and frequency of state-sponsored cyber operations targeting EU members. Lithuania's experience reflects cybersecurity challenges facing the entire EU bloc.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/25/lithuania-warns-mass-data-leak-was-work-of-foreign-country"}
+      ],
+      "tags": ["defence", "governance", "trade"]
+    }
+  ]
+}
