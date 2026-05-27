@@ -1,0 +1,56 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-27T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "European heat dome breaks May temperature records across continent",
+      "summary": "Extreme heat driven by a persistent weather phenomenon swept across Europe on May 26-27, 2026, with the UK and France setting May temperature records. Spain and Italy issued heat alerts and implemented work restrictions to protect workers from dangerous conditions. Scientists link these extreme events to human-caused climate change and shifting atmospheric patterns. The UK reached 33.5°C, while France experienced similarly unprecedented May temperatures. This warming trend reflects Europe's faster heating compared to other regions globally, driven by emissions, changing air patterns, and Arctic warming amplification.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/weather/articles/cx2114xqv05o"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260527-temperatures-soar-across-europe-as-heat-dome-drives-may-records-heatwave-france-uk-italy-spain"},
+        {"name": "Euronews", "url": "http://www.euronews.com/video/2026/05/26/britons-flock-to-beaches-and-pools-as-uk-breaks-may-heat-record"}
+      ],
+      "tags": ["climate", "weather", "EU"]
+    },
+    {
+      "headline": "Spain's housing crisis deepens as majority view home inheritance as impossible",
+      "summary": "The Spanish housing affordability crisis has reached a critical point, with approximately 61% of Spaniards reporting that home inheritance is unlikely or almost impossible. This statistic underscores the severe decline in housing accessibility across one of Europe's largest economies. The crisis reflects broader EU challenges with housing costs, urban planning, and generational wealth inequality. Spain's situation mirrors difficulties faced across European cities where rapid urbanization and limited affordable stock have created significant barriers for young people and lower-income households. The housing crisis remains a key political issue in Spanish governance.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/05/27/inheritance-no-solution-61-of-spaniards-see-inheriting-a-home-as-almost-impossible"}
+      ],
+      "tags": ["economy", "EU", "governance"]
+    },
+    {
+      "headline": "Train-school bus collision in Belgium leaves four dead and two injured",
+      "summary": "A passenger train collided with a minibus carrying school children at a level crossing in Belgium on May 26, 2026, resulting in four deaths and two injuries. Emergency services and authorities responded to the incident at the crossing, where a full investigation into the circumstances was immediately launched. The accident raises questions about level crossing safety protocols and coordination between rail operators and school transportation services. Incidents of this severity are rare in modern European transport systems but highlight ongoing safety concerns at railway crossings. Authorities are examining whether warning systems and barriers functioned properly at the time of collision.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/my-europe/2026/05/26/train-hits-school-bus-in-belgium-several-victims-reported-minister-says"}
+      ],
+      "tags": ["transport", "governance", "EU"]
+    },
+    {
+      "headline": "Israel intensifies military operations in Lebanon, striking over 100 Hezbollah positions",
+      "summary": "Israeli forces conducted a major escalation against Hezbollah-linked targets on May 27, 2026, striking more than 100 infrastructure sites and positions in southern Lebanon and the Bekaa Valley. Israeli Prime Minister Benjamin Netanyahu vowed to 'crush' the Iran-backed militant group, signaling an intensification of cross-border tensions. The strikes targeted storage facilities, command centers, and observation posts, representing a significant expansion of military operations. This escalation has regional geopolitical implications for European security and energy markets, particularly given the strategic importance of Middle Eastern stability to EU interests. The conflict risks further destabilizing a region already affected by regional tensions and humanitarian crises.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cx211rgngp0o"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/05/27/israel-expands-military-ground-operations-in-southern-lebanon-as-clashes-with-hezbollah-in"}
+      ],
+      "tags": ["conflict", "diplomacy", "EU"]
+    },
+    {
+      "headline": "UK energy bills forecast to rise by £200 annually due to Iran conflict impact",
+      "summary": "UK households are expected to see energy costs increase by approximately £200 per year as a result of geopolitical tensions linked to the Iran conflict affecting global energy markets. A typical household consuming standard amounts of gas and electricity will face these higher bills beginning in the coming months. The price impact reflects supply chain disruptions and market volatility triggered by Middle Eastern tensions. Energy costs across Europe remain volatile due to geopolitical factors beyond EU control. This development highlights Europe's continued vulnerability to global energy market shocks and the strategic importance of energy security to the continent.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/ce8pw464986o"}
+      ],
+      "tags": ["economy", "EU", "trade"]
+    }
+  ]
+}

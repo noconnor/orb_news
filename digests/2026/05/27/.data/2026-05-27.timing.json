@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-27",
+  "update_type": "morning",
+  "steps": {
+    "setup_s": 22,
+    "gather_s": 93,
+    "combine_preprocess_s": 14,
+    "digest_write_s": 285,
+    "audio_s": 109
+  },
+  "total_s": 523,
+  "agents": {
+    "news_gatherer": {
+      "model": "haiku",
+      "count": 3,
+      "total_tokens": 149971
+    },
+    "digest_writer": {
+      "model": "sonnet",
+      "count": 1,
+      "total_tokens": 46769
+    }
+  },
+  "cost_estimate_usd": {
+    "haiku_gatherers": 0.12,
+    "sonnet_digest_writer": 0.42,
+    "total": 0.54
+  },
+  "notes": "Audio generated via Edge TTS (free, no LLM cost)"
+}

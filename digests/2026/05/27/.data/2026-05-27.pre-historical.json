@@ -1,0 +1,347 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "2006 Lebanon War and UN Resolution 1701",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israel intensifies military strikes in Lebanon, killing dozens amid escalating conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Bangladesh faces severe measles outbreak with 60,000+ cases and significant child mortality"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Marshall Plan (1948–1952)",
+        "The Lend-Lease Act (1941)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Stock markets reach new highs amid cautious optimism over fragile US-Iran ceasefire"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'AI semiconductor dominance' — 1 prior parallels, room for more. Must not reuse: IBM's Mainframe Monopoly (1960s–1970s)",
+      "existing_parallels": [
+        "IBM's Mainframe Monopoly (1960s–1970s)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/History_of_IBM"
+      ],
+      "matched_topic": "AI semiconductor dominance",
+      "headline": "Samsung workers approve major pay deal, boosting company shares"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "AI-powered robot laboratories transform scientific research landscape"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ken Paxton defeats incumbent John Cornyn in Trump-backed Texas Senate primary"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Former President Biden sues Department of Justice over interview audio release"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Chemical explosion at US paper mill in Washington kills one and leaves nine missing"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "European heat dome breaks May temperature records across continent"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European political polarisation' — 2 prior parallels, room for more. Must not reuse: The Popular Front (1930s), Founding of the European Political Community (2022)",
+      "existing_parallels": [
+        "The Popular Front (1930s)",
+        "Founding of the European Political Community (2022)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Popular_Front",
+        "https://en.wikipedia.org/wiki/European_Political_Community"
+      ],
+      "matched_topic": "European political polarisation",
+      "headline": "Spain's housing crisis deepens as majority view home inheritance as impossible"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Train-school bus collision in Belgium leaves four dead and two injured"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "10 parallels already used for topic 'Iran-US conflict energy market shock'",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock",
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "2006 Lebanon War and UN Resolution 1701",
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Iran-Iraq War (1980-1988)",
+        "The Winter War (1939-1940)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "Israel intensifies military operations in Lebanon, striking over 100 Hezbollah positions"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Iran-US conflict energy market shock'",
+      "existing_parallels": [
+        "The 1990 Oil Price Shock",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+        "Exercise REFORGER — Return of Forces to Germany (1969–1993)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution",
+        "https://en.wikipedia.org/wiki/Exercise_REFORGER"
+      ],
+      "matched_topic": "Iran-US conflict energy market shock",
+      "headline": "UK energy bills forecast to rise by £200 annually due to Iran conflict impact"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ireland to Significantly Exceed 2030 Climate Emissions Targets, EPA Report Warns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ireland Breaks May Temperature Record as Heat Wave Continues"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Number of Catholics in PSNI Has Stalled, MPs Say, with Further Decline Expected"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Jury Sworn in for Former DUP Leader Jeffrey Donaldson's Sexual Offences Trial"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Bill Passed to Allow Irish Court Testimony in Omagh Bombing Inquiry"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Search Begins for Seamus Maguire, Man 'Disappeared' by IRA 50 Years Ago"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'Valerie's Law parental rights legislation'",
+      "existing_parallels": [
+        "Megan's Law (United States, 1994–1996)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Megan%27s_Law",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Valerie's Law parental rights legislation",
+      "headline": "Cabinet Approves Occupied Territories Bill with Aim for Summer Enactment"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Valerie's Law parental rights legislation",
+      "historical_event": "Megan's Law (United States, 1994–1996)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Megan%27s_Law"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Iran-US conflict energy market shock",
+      "historical_event": "The 1990 Oil Price Shock",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw (1980)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+    },
+    {
+      "story_topic": "European political polarisation",
+      "historical_event": "The Popular Front (1930s)",
+      "date_first_used": "2026-04-19",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Popular_Front"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "2006 Lebanon War and UN Resolution 1701",
+      "date_first_used": "2026-05-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+      "date_first_used": "2026-05-20",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+    },
+    {
+      "story_topic": "AI semiconductor dominance",
+      "historical_event": "IBM's Mainframe Monopoly (1960s–1970s)",
+      "date_first_used": "2026-05-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_IBM"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

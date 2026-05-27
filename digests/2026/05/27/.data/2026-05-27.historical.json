@@ -1,0 +1,43 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Israel intensifies military strikes in Lebanon, killing dozens amid escalating conflict",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 and 2006 Lebanon Wars",
+      "date_range": "1982; 2006–2007",
+      "summary": "Israeli military operations in Lebanon have a long and cyclical history. In 1982, Israel launched Operation Peace for Galilee, driving deep into Lebanese territory and reaching Beirut in an attempt to destroy the PLO's military infrastructure — an operation that evolved into an eighteen-year occupation and spawned Hezbollah itself as a resistance movement. The 2006 Lebanon War, triggered by Hezbollah's cross-border raid and kidnapping of Israeli soldiers, saw Israel conduct a 34-day air and ground campaign; despite heavy bombardment, Hezbollah emerged politically strengthened and UN Resolution 1701 created a nominal buffer that proved difficult to enforce. Both historical campaigns demonstrate a recurring pattern: Israeli military pressure achieves tactical disruption but consistently falls short of strategic elimination, while the humanitarian toll deepens grievances sustaining the organisation across generations.",
+      "parallel_analysis": "The current escalation follows the 1982 and 2006 template closely — large-scale strikes aimed at command nodes and logistics, framed as decisive action, against an adversary with deep reserves of political legitimacy in its home territory. History suggests that tactical success in degrading infrastructure has not previously translated into strategic resolution, and the 2026 campaign begins with this same structural tension unresolved.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "European heat dome breaks May temperature records across continent",
+      "story_topic": "European extreme heat events",
+      "historical_event": "2003 European Heatwave",
+      "date_range": "July–August 2003",
+      "summary": "The summer of 2003 remains the defining benchmark for European extreme heat, producing the hottest conditions on the continent since at least 1540. Caused by a combination of hot continental air from North Africa, anomalously strong southerly winds, and a blocking high that stalled over western Europe, the event saw temperatures reach 47.3°C in Portugal, 41.1°C in France, and 38.5°C in the United Kingdom — records that stood for years. The human toll was catastrophic: approximately 72,000 excess deaths were recorded across the continent, with France alone losing nearly 15,000 people, the majority elderly and living alone without air conditioning. The crisis exposed profound failures in public health systems, emergency preparedness, and building design across Europe. France responded by introducing a national heatwave plan, and the event triggered EU-wide reviews of climate adaptation frameworks. The 2003 heatwave became a turning point in how European governments conceptualised extreme heat as a public health emergency requiring formal planning rather than an exceptional act of nature requiring only an ad hoc response.",
+      "parallel_analysis": "The 2026 heat dome echoes the 2003 event in its geographic scope, its blocking-high atmospheric mechanism, and in the speed with which it has broken May records across multiple countries simultaneously. Europe is, on paper, better prepared today than in 2003 — national heatwave plans exist, early warning systems are operational, and cooling centres have been established in most major cities. The key question, as in 2003, remains whether those systems reach the most vulnerable populations in time, and whether the political will exists to make the deeper structural changes — in building standards, urban design, and agricultural practice — that repeated extreme heat events will increasingly demand.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/2003_European_heatwave"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Stock markets reach new highs amid cautious optimism over fragile US-Iran ceasefire",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis; The Tanker War (1984–1988); The 1990 Oil Price Shock",
+      "date_range": "1973; 1984–1988; 1990",
+      "summary": "The volatility of global energy markets in response to Middle Eastern conflict has deep historical precedent. The 1973 Arab oil embargo quadrupled oil prices in weeks and caused severe recession across Western economies, demonstrating how regional geopolitical decisions could transmit economic shock globally with extraordinary speed. A decade later, the Tanker War phase of the Iran-Iraq conflict saw repeated attacks on oil tankers in the Persian Gulf, driving insurance premiums to prohibitive levels and eventually drawing US naval forces into convoy escort duties — a direct precursor to the pattern of US-Iran maritime brinkmanship that has recurred in subsequent decades. The 1990 oil price shock, triggered by Iraq's invasion of Kuwait, demonstrated how quickly the prospect of supply disruption could spike prices before military intervention restored market confidence.",
+      "parallel_analysis": "The current episode — a ceasefire-driven market rally following months of Iran-linked supply disruption — fits squarely within this historical pattern. Markets price risk in when conflict escalates and rush to price it out on any credible signal of resolution, typically ahead of the underlying geopolitical reality. The asymmetry between rapid financial market recovery and the stickier household-level cost consequences — as illustrated by the concurrent forecast of £200 annual rises in UK energy bills — is itself a recurrent feature of these cycles, visible in the aftermath of each previous oil shock.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock"
+      ]
+    }
+  ]
+}

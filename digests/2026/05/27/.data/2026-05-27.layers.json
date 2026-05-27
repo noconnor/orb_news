@@ -1,0 +1,385 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-27T07:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Ireland to Significantly Exceed 2030 Climate Emissions Targets, EPA Report Warns",
+        "summary": "The Environmental Protection Agency has released a stark assessment that Ireland will significantly overshoot its 2030 greenhouse gas emission reduction targets, with nearly all economic sectors on course to exceed their emissions ceilings. The report indicates that current policy measures are insufficient to meet the nation's commitments under EU climate regulations and the Climate Action Bill. This development creates substantial policy challenges for the government, which faces pressure to strengthen climate action across agriculture, energy, and transport sectors. The findings underscore the urgency of implementing more aggressive emission reduction strategies and renewable energy investments. The failure to meet these targets could result in substantial EU fines and damage Ireland's standing on climate commitments.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0527/1575416-epa-report-emmissions/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/ireland-on-track-to-deliver-only-half-the-reductions-of-greenhouse-gas-emissions-needed-by-2030-7052024-May2026/"
+          }
+        ],
+        "tags": [
+          "climate",
+          "environment",
+          "policy"
+        ]
+      },
+      {
+        "headline": "Ireland Breaks May Temperature Record as Heat Wave Continues",
+        "summary": "Ireland recorded its highest May temperature on record, with temperatures reaching 30.5-30.6\u00b0C in multiple locations including Shannon Airport and County Clare. The record surpassed the previous May high of 29.7\u00b0C and represents an exceptionally rare heat event for the country this early in the season. Meteorologists attribute the record-breaking temperatures to an extreme weather system affecting Ireland and wider Europe, with forecasts indicating temperatures could push even higher in coming days. The extended heat wave has prompted public warnings about hydration and sun safety, with weather authorities characterizing the phenomenon as an extreme event. Beachgoers and outdoor enthusiasts have flocked to recreational areas across the country to capitalize on the unprecedented warm weather.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/met-eireann-weather-forecast-30-degrees-leinster-munster-7051511-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/environment/2026/05/26/hot-weather-to-continue-with-temperatures-of-up-to-30-degrees-forecast/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41851452.html"
+          }
+        ],
+        "tags": [
+          "weather",
+          "climate",
+          "environment"
+        ]
+      },
+      {
+        "headline": "Number of Catholics in PSNI Has Stalled, MPs Say, with Further Decline Expected",
+        "summary": "MPs from the UK Parliament have warned that efforts to make the Police Service of Northern Ireland more representative of Catholic communities have stalled, with the proportion of Catholic officers unlikely to increase further in the near term. The report indicates that dissident Republican threats and intimidation are preventing Catholic officers from publicly disclosing their employment, creating a chilling effect on recruitment and retention efforts. Progress on police diversity, a key component of the Good Friday Agreement policing provisions, has essentially plateaued after decades of gradual improvement. The findings raise concerns about community relations and the legitimacy of policing in areas where Catholic representation remains significantly lower than Catholic population percentages. The situation underscores persistent sectarian tensions and the challenges facing efforts to build inclusive institutions in Northern Ireland.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0527/1575418-psni-commons-report/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/05/27/number-of-catholics-in-psni-has-stalled-and-likely-to-fall-further-mps-say/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence",
+          "social"
+        ]
+      },
+      {
+        "headline": "Jury Sworn in for Former DUP Leader Jeffrey Donaldson's Sexual Offences Trial",
+        "summary": "The trial of former Democratic Unionist Party leader Jeffrey Donaldson on multiple sexual offences charges has officially begun with a jury sworn in, marking a significant moment in Northern Irish politics and justice proceedings. Donaldson, who led the DUP for over a decade and expanded its electoral support across diverse constituencies, was arrested in January 2024 and has faced bail conditions since then. His wife, Eleanor Donaldson, faces concurrent proceedings in separate proceedings related to the same allegations. The prosecution is expected to present its case opening on Wednesday, with the trial anticipated to be lengthy and closely watched given Donaldson's prominence in Northern Irish political circles. The trial represents one of the most high-profile legal proceedings involving a major political leader in recent Northern Irish history.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/trial-of-former-dup-leader-jeffrey-dondalson-to-get-underway-7051318-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/05/26/jury-sworn-in-for-sexual-offences-trial-of-former-dup-leader-jeffrey-donaldson/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Bill Passed to Allow Irish Court Testimony in Omagh Bombing Inquiry",
+        "summary": "Parliament has passed legislation enabling testimony from Irish courts to be used in the UK's ongoing public inquiry into the 1998 Omagh bombing, which killed 29 people in one of the deadliest attacks of the conflict. The bill removes legal barriers that previously prevented Irish witnesses and evidence from being considered in the UK-led inquiry process, representing a significant step in cross-border justice cooperation. The next phase of hearings is scheduled for September, six months later than originally planned, indicating the complex and extensive nature of the investigation. The legislative change reflects efforts by both the Irish and UK governments to achieve accountability and closure for the victims and survivors of the bombing. This development underscores the ongoing importance of the Good Friday Agreement's frameworks for cross-border cooperation on historical justice issues.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/bill-passed-to-allow-irish-court-testimony-be-used-in-uk-omagh-bombing-inquiry-7052457-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence",
+          "social"
+        ]
+      },
+      {
+        "headline": "Search Begins for Seamus Maguire, Man 'Disappeared' by IRA 50 Years Ago",
+        "summary": "A formal search operation has commenced for Seamus Maguire, believed killed and buried by the IRA in 1976 at age 29, marking the first systematic effort to locate the remains of one of Ireland's 'disappeared' victims. Maguire vanished during the conflict and was long suspected to have been killed by republican paramilitaries, but his fate remained unresolved for five decades despite numerous investigations and appeals. The search represents an important symbolic and practical step toward achieving closure for his family and honoring victims of the conflict's extrajudicial killings. The operation involves coordination between garda\u00ed, the PSNI, and other authorities, demonstrating cross-border cooperation on historical justice matters. This case exemplifies the ongoing process of accounting for conflict victims and the enduring importance of transitional justice mechanisms in post-conflict societies.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/first-search-to-get-under-way-for-disappeared-victim-seamus-maguire-7051522-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/26/a-momentous-day-search-begins-for-man-believed-disappeared-by-ira-50-years-ago/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "social",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Cabinet Approves Occupied Territories Bill with Aim for Summer Enactment",
+        "summary": "The Irish Cabinet has approved legislation intended to restrict trade with Israeli settlements in occupied Palestinian territories, with the government targeting summer 2026 for the bill's enactment. The bill has faced amendments and debate around its scope and enforceability, with Justice Minister Jim O'Callaghan indicating that the government is also exploring legal mechanisms to ban certain Israeli officials from entering Ireland. The legislation reflects Ireland's position on the Israeli-Palestinian conflict and represents a significant policy statement by the government on international law and human rights concerns. The bill has generated controversy, with some arguing it does not go far enough and others expressing concern about enforcement and international trade implications. The measure positions Ireland alongside other EU countries seeking to leverage trade policy as a tool for promoting compliance with international humanitarian law.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/mcentee-hopes-occupied-territories-bill-enacted-by-summer-break-7051869-May2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-27T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "European heat dome breaks May temperature records across continent",
+        "summary": "Extreme heat driven by a persistent weather phenomenon swept across Europe on May 26-27, 2026, with the UK and France setting May temperature records. Spain and Italy issued heat alerts and implemented work restrictions to protect workers from dangerous conditions. Scientists link these extreme events to human-caused climate change and shifting atmospheric patterns. The UK reached 33.5\u00b0C, while France experienced similarly unprecedented May temperatures. This warming trend reflects Europe's faster heating compared to other regions globally, driven by emissions, changing air patterns, and Arctic warming amplification.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/weather/articles/cx2114xqv05o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260527-temperatures-soar-across-europe-as-heat-dome-drives-may-records-heatwave-france-uk-italy-spain"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/video/2026/05/26/britons-flock-to-beaches-and-pools-as-uk-breaks-may-heat-record"
+          }
+        ],
+        "tags": [
+          "climate",
+          "weather",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Spain's housing crisis deepens as majority view home inheritance as impossible",
+        "summary": "The Spanish housing affordability crisis has reached a critical point, with approximately 61% of Spaniards reporting that home inheritance is unlikely or almost impossible. This statistic underscores the severe decline in housing accessibility across one of Europe's largest economies. The crisis reflects broader EU challenges with housing costs, urban planning, and generational wealth inequality. Spain's situation mirrors difficulties faced across European cities where rapid urbanization and limited affordable stock have created significant barriers for young people and lower-income households. The housing crisis remains a key political issue in Spanish governance.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/05/27/inheritance-no-solution-61-of-spaniards-see-inheriting-a-home-as-almost-impossible"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Train-school bus collision in Belgium leaves four dead and two injured",
+        "summary": "A passenger train collided with a minibus carrying school children at a level crossing in Belgium on May 26, 2026, resulting in four deaths and two injuries. Emergency services and authorities responded to the incident at the crossing, where a full investigation into the circumstances was immediately launched. The accident raises questions about level crossing safety protocols and coordination between rail operators and school transportation services. Incidents of this severity are rare in modern European transport systems but highlight ongoing safety concerns at railway crossings. Authorities are examining whether warning systems and barriers functioned properly at the time of collision.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/my-europe/2026/05/26/train-hits-school-bus-in-belgium-several-victims-reported-minister-says"
+          }
+        ],
+        "tags": [
+          "transport",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Israel intensifies military operations in Lebanon, striking over 100 Hezbollah positions",
+        "summary": "Israeli forces conducted a major escalation against Hezbollah-linked targets on May 27, 2026, striking more than 100 infrastructure sites and positions in southern Lebanon and the Bekaa Valley. Israeli Prime Minister Benjamin Netanyahu vowed to 'crush' the Iran-backed militant group, signaling an intensification of cross-border tensions. The strikes targeted storage facilities, command centers, and observation posts, representing a significant expansion of military operations. This escalation has regional geopolitical implications for European security and energy markets, particularly given the strategic importance of Middle Eastern stability to EU interests. The conflict risks further destabilizing a region already affected by regional tensions and humanitarian crises.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cx211rgngp0o"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/27/israel-expands-military-ground-operations-in-southern-lebanon-as-clashes-with-hezbollah-in"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "EU"
+        ]
+      },
+      {
+        "headline": "UK energy bills forecast to rise by \u00a3200 annually due to Iran conflict impact",
+        "summary": "UK households are expected to see energy costs increase by approximately \u00a3200 per year as a result of geopolitical tensions linked to the Iran conflict affecting global energy markets. A typical household consuming standard amounts of gas and electricity will face these higher bills beginning in the coming months. The price impact reflects supply chain disruptions and market volatility triggered by Middle Eastern tensions. Energy costs across Europe remain volatile due to geopolitical factors beyond EU control. This development highlights Europe's continued vulnerability to global energy market shocks and the strategic importance of energy security to the continent.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/ce8pw464986o"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "trade"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-27T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Israel intensifies military strikes in Lebanon, killing dozens amid escalating conflict",
+        "summary": "Israeli forces conducted extensive military operations in southern Lebanon on May 27, striking over 100 Hezbollah infrastructure sites and killing at least 31 people in a single day. The strikes follow Prime Minister Benjamin Netanyahu's pledge to intensify action against the Iranian-backed organization. According to the Lebanese Health Ministry, the broader conflict since March 2 has resulted in 3,213 deaths and nearly 10,000 injuries. The escalation occurs amid fragile ceasefire negotiations and raises concerns about regional stability in the Middle East. International observers are monitoring the situation closely as both sides continue military operations.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cx211rgngp0o"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Bangladesh faces severe measles outbreak with 60,000+ cases and significant child mortality",
+        "summary": "Bangladesh is experiencing a major measles crisis with over 60,000 suspected cases documented in approximately two months, resulting in hundreds of child deaths. Health authorities are struggling to contain the outbreak as cases continue to surge across the country. The outbreak highlights critical gaps in vaccination coverage and public health infrastructure in the region. Medical facilities are overwhelmed with pediatric patients, and the humanitarian impact continues to grow. International health organizations are monitoring the situation as a potential concern for regional disease spread.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Stock markets reach new highs amid cautious optimism over fragile US-Iran ceasefire",
+        "summary": "Global financial markets surged to new peaks on May 27 as investors reacted positively to news of a fragile ceasefire agreement between the United States and Iran. The tentative accord has reduced geopolitical risk premiums and encouraged equity buying across major indices. However, analysts caution that the truce remains precarious and subject to collapse if either party violates terms or escalates tensions. The market rally reflects broader confidence that reduced Middle East tensions could support economic growth. Energy prices also stabilized following the ceasefire announcement, benefiting global supply chains.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV9qQk1melo5ZHFLUTQwdUptamlUWFQyVzRzZHNMVTkwVDdWcDgzaVhiYUMwSHZwU0VyTVJZT3lCMTRlTVozVnNEek1aNkNTdW1Ha1JmUXlweHhrbUZCX2dQb1ZZb052bFktd0ROSmhtNDVTblc0RjFpamdUeFFKX2NlRQ"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Samsung workers approve major pay deal, boosting company shares",
+        "summary": "Samsung Electronics workers have approved a significant pay agreement with management, resulting in a surge in the company's share price on May 27. The deal represents a major development in labor negotiations at one of the world's largest technology manufacturers. The approval suggests improved labor relations after periods of tension between unions and company leadership. Market analysts view the agreement positively, seeing it as a sign of stability and confidence in Samsung's future. The settlement may influence wage negotiations across the global semiconductor and electronics industries.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnNjN0xSR3h5UWZkODNvVG9ReTY0NUFnMTU1WkNWM3FHemxDZ1dRVEdYNlFZUmhZQ3NxNlZqRFhDVGZfc0R6eGhVbVVCengyR2FfZ0pvRVhwc1BfM3dMUTMzRzVmS2NPdGYweWNmcWRlYzN6eWpJY3F2ZXJ5VmZpSEFXU0VZZlE3QVNNZWZxSmN5Z0RtSHRfZUNqR3RFWUVtUjYyOUVNQ3VjYWRaVHpkQ1A1dEw1QQ"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "technology"
+        ]
+      },
+      {
+        "headline": "AI-powered robot laboratories transform scientific research landscape",
+        "summary": "Researchers are developing advanced artificial intelligence-powered robot laboratories that are enabling scientists to conduct experiments outside traditional physical lab settings. This technological breakthrough promises to accelerate scientific discovery and make research more accessible globally. The systems raise important questions about the appropriate role of automation in scientific work and the balance between human oversight and machine autonomy. Early adopters report significant increases in research productivity and the ability to run continuous experiments. The technology has implications for fields ranging from drug discovery to materials science and environmental research.",
+        "sources": [
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/05/26/nx-s1-5823706/researchers-are-building-ai-powered-robot-labs-what-does-this-mean-for-science"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Ken Paxton defeats incumbent John Cornyn in Trump-backed Texas Senate primary",
+        "summary": "Texas Attorney General Ken Paxton won a decisive victory over incumbent Senator John Cornyn in the Republican primary runoff on May 27, backed by President Trump's endorsement. The primary contest exceeded $100 million in campaign spending, making it one of the most expensive Senate races. Paxton's victory reflects Trump's continued influence over Republican primary politics and signals potential shifts in Senate Republican leadership and priorities. The outcome will shape the trajectory of the remainder of the Trump administration's legislative agenda and Senate control battles. Democrats view the race as a potential pickup opportunity in November, though Texas remains a Republican-leaning state.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/clypprglrlyo"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "economy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Former President Biden sues Department of Justice over interview audio release",
+        "summary": "Former President Joe Biden filed a lawsuit against the Department of Justice on May 27 regarding the release of interview audio recordings. The legal action marks an escalation in disputes between the former president and the current administration over classified materials and government procedures. The suit raises constitutional questions about executive privilege and the proper handling of sensitive presidential records. The case could have significant implications for how future administrations manage and release records from their predecessors. The lawsuit reflects broader tensions between Biden and the Trump administration over investigative matters.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWxUcDYyeEUwUE5ORlA3OFF2VWZHMWNNTHVJNE4wUEVqdmVzNWtXT3BYdWVTZU5DRWlBaG55SWRTNFpubmdGX2FfWXB4Y18wN2RWSk9SLUtuTGZjRmNtWlRDUmtLNTdpN0ZoaUdPYmQzZjlRRmtSRDdORV9FM05KSURkVmdTXzBXS3JOT1gwRGZpaDJhWU0tZGdPQndOT1BqTy1mSlhTUF9aY1g1S3lfVmE3OA"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "governance",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Chemical explosion at US paper mill in Washington kills one and leaves nine missing",
+        "summary": "A catastrophic tank rupture at a Longview, Washington paper mill on May 27 resulted in one confirmed death, nine injuries, and nine people unaccounted for. Emergency responders launched extensive search and rescue operations at the industrial facility as investigators worked to determine the cause of the explosion. The incident has prompted reviews of safety protocols at similar industrial facilities across the United States. Environmental authorities are monitoring potential impacts from chemical releases into surrounding areas. The accident underscores ongoing concerns about workplace safety and industrial hazard management in manufacturing sectors.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy",
+          "health"
+        ]
+      }
+    ]
+  }
+}

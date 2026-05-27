@@ -1,0 +1,79 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-27T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Israel intensifies military strikes in Lebanon, killing dozens amid escalating conflict",
+      "summary": "Israeli forces conducted extensive military operations in southern Lebanon on May 27, striking over 100 Hezbollah infrastructure sites and killing at least 31 people in a single day. The strikes follow Prime Minister Benjamin Netanyahu's pledge to intensify action against the Iranian-backed organization. According to the Lebanese Health Ministry, the broader conflict since March 2 has resulted in 3,213 deaths and nearly 10,000 injuries. The escalation occurs amid fragile ceasefire negotiations and raises concerns about regional stability in the Middle East. International observers are monitoring the situation closely as both sides continue military operations.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cx211rgngp0o"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Bangladesh faces severe measles outbreak with 60,000+ cases and significant child mortality",
+      "summary": "Bangladesh is experiencing a major measles crisis with over 60,000 suspected cases documented in approximately two months, resulting in hundreds of child deaths. Health authorities are struggling to contain the outbreak as cases continue to surge across the country. The outbreak highlights critical gaps in vaccination coverage and public health infrastructure in the region. Medical facilities are overwhelmed with pediatric patients, and the humanitarian impact continues to grow. International health organizations are monitoring the situation as a potential concern for regional disease spread.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o"}
+      ],
+      "tags": ["health", "humanitarian", "climate"]
+    },
+    {
+      "headline": "Stock markets reach new highs amid cautious optimism over fragile US-Iran ceasefire",
+      "summary": "Global financial markets surged to new peaks on May 27 as investors reacted positively to news of a fragile ceasefire agreement between the United States and Iran. The tentative accord has reduced geopolitical risk premiums and encouraged equity buying across major indices. However, analysts caution that the truce remains precarious and subject to collapse if either party violates terms or escalates tensions. The market rally reflects broader confidence that reduced Middle East tensions could support economic growth. Energy prices also stabilized following the ceasefire announcement, benefiting global supply chains.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV9qQk1melo5ZHFLUTQwdUptamlUWFQyVzRzZHNMVTkwVDdWcDgzaVhiYUMwSHZwU0VyTVJZT3lCMTRlTVozVnNEek1aNkNTdW1Ha1JmUXlweHhrbUZCX2dQb1ZZb052bFktd0ROSmhtNDVTblc0RjFpamdUeFFKX2NlRQ"}
+      ],
+      "tags": ["diplomacy", "economy", "trade"]
+    },
+    {
+      "headline": "Samsung workers approve major pay deal, boosting company shares",
+      "summary": "Samsung Electronics workers have approved a significant pay agreement with management, resulting in a surge in the company's share price on May 27. The deal represents a major development in labor negotiations at one of the world's largest technology manufacturers. The approval suggests improved labor relations after periods of tension between unions and company leadership. Market analysts view the agreement positively, seeing it as a sign of stability and confidence in Samsung's future. The settlement may influence wage negotiations across the global semiconductor and electronics industries.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnNjN0xSR3h5UWZkODNvVG9ReTY0NUFnMTU1WkNWM3FHemxDZ1dRVEdYNlFZUmhZQ3NxNlZqRFhDVGZfc0R6eGhVbVVCengyR2FfZ0pvRVhwc1BfM3dMUTMzRzVmS2NPdGYweWNmcWRlYzN6eWpJY3F2ZXJ5VmZpSEFXU0VZZlE3QVNNZWZxSmN5Z0RtSHRfZUNqR3RFWUVtUjYyOUVNQ3VjYWRaVHpkQ1A1dEw1QQ"}
+      ],
+      "tags": ["economy", "trade", "technology"]
+    },
+    {
+      "headline": "AI-powered robot laboratories transform scientific research landscape",
+      "summary": "Researchers are developing advanced artificial intelligence-powered robot laboratories that are enabling scientists to conduct experiments outside traditional physical lab settings. This technological breakthrough promises to accelerate scientific discovery and make research more accessible globally. The systems raise important questions about the appropriate role of automation in scientific work and the balance between human oversight and machine autonomy. Early adopters report significant increases in research productivity and the ability to run continuous experiments. The technology has implications for fields ranging from drug discovery to materials science and environmental research.",
+      "sources": [
+        {"name": "NPR", "url": "https://www.npr.org/2026/05/26/nx-s1-5823706/researchers-are-building-ai-powered-robot-labs-what-does-this-mean-for-science"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    },
+    {
+      "headline": "Ken Paxton defeats incumbent John Cornyn in Trump-backed Texas Senate primary",
+      "summary": "Texas Attorney General Ken Paxton won a decisive victory over incumbent Senator John Cornyn in the Republican primary runoff on May 27, backed by President Trump's endorsement. The primary contest exceeded $100 million in campaign spending, making it one of the most expensive Senate races. Paxton's victory reflects Trump's continued influence over Republican primary politics and signals potential shifts in Senate Republican leadership and priorities. The outcome will shape the trajectory of the remainder of the Trump administration's legislative agenda and Senate control battles. Democrats view the race as a potential pickup opportunity in November, though Texas remains a Republican-leaning state.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/clypprglrlyo"}
+      ],
+      "tags": ["diplomacy", "economy", "conflict"]
+    },
+    {
+      "headline": "Former President Biden sues Department of Justice over interview audio release",
+      "summary": "Former President Joe Biden filed a lawsuit against the Department of Justice on May 27 regarding the release of interview audio recordings. The legal action marks an escalation in disputes between the former president and the current administration over classified materials and government procedures. The suit raises constitutional questions about executive privilege and the proper handling of sensitive presidential records. The case could have significant implications for how future administrations manage and release records from their predecessors. The lawsuit reflects broader tensions between Biden and the Trump administration over investigative matters.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWxUcDYyeEUwUE5ORlA3OFF2VWZHMWNNTHVJNE4wUEVqdmVzNWtXT3BYdWVTZU5DRWlBaG55SWRTNFpubmdGX2FfWXB4Y18wN2RWSk9SLUtuTGZjRmNtWlRDUmtLNTdpN0ZoaUdPYmQzZjlRRmtSRDdORV9FM05KSURkVmdTXzBXS3JOT1gwRGZpaDJhWU0tZGdPQndOT1BqTy1mSlhTUF9aY1g1S3lfVmE3OA"}
+      ],
+      "tags": ["diplomacy", "governance", "economy"]
+    },
+    {
+      "headline": "Chemical explosion at US paper mill in Washington kills one and leaves nine missing",
+      "summary": "A catastrophic tank rupture at a Longview, Washington paper mill on May 27 resulted in one confirmed death, nine injuries, and nine people unaccounted for. Emergency responders launched extensive search and rescue operations at the industrial facility as investigators worked to determine the cause of the explosion. The incident has prompted reviews of safety protocols at similar industrial facilities across the United States. Environmental authorities are monitoring potential impacts from chemical releases into surrounding areas. The accident underscores ongoing concerns about workplace safety and industrial hazard management in manufacturing sectors.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o"}
+      ],
+      "tags": ["humanitarian", "economy", "health"]
+    }
+  ]
+}
