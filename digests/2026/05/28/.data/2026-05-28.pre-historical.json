@@ -1,0 +1,379 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "US and Iran Exchange Strikes as Military Tensions Escalate"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Ebola Outbreak in DRC Spirals Out of Control, Regional Borders Close"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "2006 Lebanon War and UN Resolution 1701",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israel Designates Southern Lebanon Combat Zone, Orders Mass Evacuation"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European extreme heat events' — 1 prior parallels, room for more. Must not reuse: 2003 European Heatwave",
+      "existing_parallels": [
+        "2003 European Heatwave"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/2003_European_heatwave"
+      ],
+      "matched_topic": "European extreme heat events",
+      "headline": "Unprecedented May Heat Wave Breaks Records Across Europe, Claims Lives"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "10 parallels already used for topic 'Russia-Ukraine aerial terror campaign'",
+      "existing_parallels": [
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "Korean War Stalemate",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Marshall Plan (1948–1952)",
+        "The Lend-Lease Act (1941)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Russia-Ukraine aerial terror campaign",
+      "headline": "Ukraine Seeks Advanced Air Defence as Russia Intensifies Strike Campaign"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Zimbabwe Faces Deadly Malaria Surge Driven by Aid Cuts and Climate Change"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "US-China Taiwan Tensions Carry Risk of Nuclear Escalation"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Attempted Assassination of Ronald Reagan (1981)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Oil Prices Surge Following US Military Action Against Iran"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Finland-Russia border security' — 1 prior parallels, room for more. Must not reuse: The Winter War (1939-1940)",
+      "existing_parallels": [
+        "The Winter War (1939-1940)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Winter_War"
+      ],
+      "matched_topic": "Finland-Russia border security",
+      "headline": "UK and Poland sign landmark defence pact to counter Russian threats"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Norway becomes ninth country to join France's nuclear deterrence umbrella"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Parliament and member states clash on controversial migration return rules"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU examines economic resilience amid Middle East crisis and structural reform needs"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Expansion of EU emissions trading systems signals climate policy intensification"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Albania and Montenegro advance towards EU membership as Commission evaluates progress"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "The Suez Crisis",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "US military conducts second strike against Iran amid ceasefire negotiations"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'tech industry mass layoffs' — 1 prior parallels, room for more. Must not reuse: The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "existing_parallels": [
+        "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Dot-com_bubble"
+      ],
+      "matched_topic": "tech industry mass layoffs",
+      "headline": "Data centres driving up Irish electricity costs by €1.4 billion annually"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Twenty Carlow schools receive threatening emails warning of mass shooting"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European extreme heat events' — 1 prior parallels, room for more. Must not reuse: 2003 European Heatwave",
+      "existing_parallels": [
+        "2003 European Heatwave"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/2003_European_heatwave"
+      ],
+      "matched_topic": "European extreme heat events",
+      "headline": "Record-breaking heat and extended thunderstorm warnings across Ireland"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "100,000 visitors expected at Bloom gardening festival with climate and mental health focus"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Government faces criticism for missing climate action targets, delays expected to 2030s"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "College Green Plaza €80 million Dublin project advances with planning application"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Young children referred to state agency over concerning sexualised behaviour patterns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "€4.2 million cannabis seizure in Clare leads to drug trafficking charges"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Russia-Ukraine aerial terror campaign",
+      "historical_event": "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Finland-Russia border security",
+      "historical_event": "The Winter War (1939-1940)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw (1980)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+    },
+    {
+      "story_topic": "tech industry mass layoffs",
+      "historical_event": "The Dot-Com Bubble and Tech Sector Collapse (2000–2002)",
+      "date_first_used": "2026-04-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "2006 Lebanon War and UN Resolution 1701",
+      "date_first_used": "2026-05-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+      "date_first_used": "2026-05-20",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+    },
+    {
+      "story_topic": "European extreme heat events",
+      "historical_event": "2003 European Heatwave",
+      "date_first_used": "2026-05-27",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2003_European_heatwave"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

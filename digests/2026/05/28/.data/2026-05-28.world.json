@@ -1,0 +1,85 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-28T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US and Iran Exchange Strikes as Military Tensions Escalate",
+      "summary": "The United States conducted military strikes against Iranian targets on May 28, marking the second round of attacks in three days, while Iran's Islamic Revolutionary Guard Corps retaliated by targeting a US airbase near Bandar Abbas. The escalation comes during a fragile ceasefire period and is reportedly connected to ongoing negotiations over a potential deal. Oil prices surged in response to the military action, reflecting global market concerns over regional stability. The strikes underscore the volatile state of US-Iran relations and the risks of further escalation in the Middle East.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTRRSVJycmxrcVZhN2F2OF8zR2JIWW1Ua0F4V1dIV2NIYUxEMGZSRElNYzBVVlRGazQtX1NuZGNmTzZBYWx3cWlCdVg3Q0xPQkVUZHhTM21ReXdrWHNKMDhzVHRiUkJ5N0tSM1BuNl9NbmhCMUFVRFd1N0dYelB2RkpBYmRTZDVQOExXU1JtdlVsaEw1bGR6aHJUR3lFLVN3dl9ERnVnNlF2b2lLdjhkX1dHLUJNZy1HT1dIdVNB"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c98r2qy5809o"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Ebola Outbreak in DRC Spirals Out of Control, Regional Borders Close",
+      "summary": "The Democratic Republic of Congo is facing a severe and rapidly escalating Ebola epidemic that health authorities describe as 'breakneck' in pace, outpacing the world's capacity to respond. Uganda has closed its border with the DRC for four weeks as a containment measure, and the WHO has warned of a 'catastrophic collision' between the disease outbreak and ongoing armed conflict in the region. The surge in cases reflects fragile health infrastructure and resource constraints in affected areas. This represents a critical humanitarian and public health emergency with potential for regional spread.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cdxpdex062yo"}
+      ],
+      "tags": ["humanitarian", "health", "conflict"]
+    },
+    {
+      "headline": "Israel Designates Southern Lebanon Combat Zone, Orders Mass Evacuation",
+      "summary": "Israel's military has declared a large swathe of southern Lebanon south of the Zahrani River as a combat zone and issued evacuation orders for all residents in the affected areas. This military designation represents a significant escalation in tensions along the Israel-Lebanon border and signals preparations for potential large-scale military operations. The order affects thousands of civilians and marks a sharp increase in regional instability. The move comes amid broader Middle Eastern tensions involving Iran, Israel, and US military activities.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Unprecedented May Heat Wave Breaks Records Across Europe, Claims Lives",
+      "summary": "An exceptionally early and intense heat wave is shattering temperature records across Europe in May, with deaths reported as populations struggle with the extreme conditions. The phenomenon is unusual for its timing and severity, with major European cities experiencing unprecedented May temperatures. The heat wave is driving health emergencies and overwhelming public services across the continent. This event reflects broader climate change patterns and underscores the vulnerability of European infrastructure to extreme weather events.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe"}
+      ],
+      "tags": ["climate", "humanitarian", "health"]
+    },
+    {
+      "headline": "Ukraine Seeks Advanced Air Defence as Russia Intensifies Strike Campaign",
+      "summary": "Ukrainian President Zelenskiy has requested advanced air defence systems from the United States as Russia escalates its aerial strike threats against the country. A senior Ukrainian military commander described an imminent 'turning point' in the ongoing war, suggesting a critical phase in the conflict. Russia continues to maintain high-tempo attacks on Ukrainian targets with warnings of major potential barrages. The situation reflects the sustained intensity of the Ukraine conflict and the critical importance of military support from Western allies.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"}
+      ],
+      "tags": ["conflict", "diplomacy", "defence"]
+    },
+    {
+      "headline": "Zimbabwe Faces Deadly Malaria Surge Driven by Aid Cuts and Climate Change",
+      "summary": "Zimbabwe is experiencing a significant surge in malaria cases, with the crisis exposing fragile health systems and mounting treatment shortages across rural areas of the country. The outbreak is driven by a combination of aid cuts and increasingly severe climate change impacts that are creating conditions favourable for disease transmission. Health infrastructure strain is limiting the capacity to diagnose and treat cases effectively. The situation highlights the interconnected nature of development, climate, and public health crises in vulnerable regions.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe"}
+      ],
+      "tags": ["health", "climate", "humanitarian"]
+    },
+    {
+      "headline": "US-China Taiwan Tensions Carry Risk of Nuclear Escalation",
+      "summary": "Analysts and policy experts warn that any military conflict over Taiwan would carry significant risk of nuclear escalation between the United States and China. The assessment underscores the extreme stakes involved in potential confrontation over the self-governed island. Taiwan's leadership has been actively engaging with US officials, including gifting Trump with an autobiography of the TSMC founder, signalling diplomatic efforts amid tensions. The nuclear dimension adds a catastrophic risk factor to the already fraught geopolitical situation in the Asia-Pacific region.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"}
+      ],
+      "tags": ["conflict", "diplomacy", "technology"]
+    },
+    {
+      "headline": "Oil Prices Surge Following US Military Action Against Iran",
+      "summary": "Global oil markets responded sharply to the US military strikes against Iran, with prices jumping significantly as traders assessed geopolitical risk and potential supply disruptions. The market reaction reflects concerns about the fragile balance between military escalation and ongoing peace negotiations. Oil price volatility has broader implications for global energy security and economic activity. The incident demonstrates how regional military conflicts continue to impact global commodity markets and economic stability.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cp3p62xddq4o"}
+      ],
+      "tags": ["economy", "conflict", "trade"]
+    }
+  ]
+}

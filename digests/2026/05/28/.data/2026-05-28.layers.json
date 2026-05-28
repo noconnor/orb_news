@@ -1,0 +1,478 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-28T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Data centres driving up Irish electricity costs by \u20ac1.4 billion annually",
+        "summary": "New research by Friends of the Earth reveals that rapidly growing data centre demand in Ireland has significantly increased energy prices, with the cost ultimately passed on to households through higher electricity bills. Data centres accounted for 22% of Ireland's electricity consumption in 2024, a substantial proportion for industrial infrastructure. The study highlights the hidden economic impact on Irish families as Big Tech companies establish major operations in the country. Energy industry experts warn that without policy intervention, this trend will continue to drive up bills for ordinary consumers. The findings raise questions about Ireland's energy infrastructure planning and the balance between attracting technology investment and protecting household budgets.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/readme/data-centres-and-climate-7052694-May2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41852406.html"
+          },
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0528/1575598-bloom/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Twenty Carlow schools receive threatening emails warning of mass shooting",
+        "summary": "Twenty primary and secondary schools across County Carlow received threatening emails on May 27 warning of a planned mass shooting incident. Garda\u00ed deployed patrols to all primary schools in the county as a precautionary measure and launched an investigation into the origin of the threats. The Special Detective Unit is coordinating with international agencies, including U.S. authorities, to identify and apprehend those responsible for the threats. The incident caused significant disruption and concern among school communities and parents across the region. This follows a broader pattern of similar threatening communications received at schools in other jurisdictions.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41852496.html"
+          },
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/27/twenty-co-carlow-schools-received-emails-threatening-mass-shooting/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "security",
+          "social"
+        ]
+      },
+      {
+        "headline": "Record-breaking heat and extended thunderstorm warnings across Ireland",
+        "summary": "Ireland experienced exceptional weather conditions on May 28, with Shannon Airport recording a provisional temperature of 30.5 degrees Celsius, breaking the May temperature record previously set at 28.4\u00b0C in 1997. Met \u00c9ireann extended thunderstorm warnings to seven counties as unsettled weather patterns persist across the island. The meteorological service has emphasised climate resilience and highlighted the connection between extreme weather events and climate action. The heat record was accompanied by severe weather warnings for multiple regions, creating a mixed weather situation for late May. The exceptional conditions underscore the increasing frequency of extreme weather events in Ireland.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/27/met-eireann-extends-thunderstorm-warning-to-seven-counties/"
+          },
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0528/1575598-bloom/"
+          }
+        ],
+        "tags": [
+          "weather",
+          "climate",
+          "environment"
+        ]
+      },
+      {
+        "headline": "100,000 visitors expected at Bloom gardening festival with climate and mental health focus",
+        "summary": "The Bloom festival in Dublin's Phoenix Park is set to welcome approximately 100,000 visitors during its run, with this year's edition placing strong emphasis on biodiversity, climate action, and mental health. The festival showcases innovations in sustainable gardening and environmental stewardship at a time when Ireland faces significant climate challenges. Exhibitors and garden designers will demonstrate practical approaches to climate-resilient landscaping and sustainable horticulture. Met \u00c9ireann has contributed a dedicated climate resilience garden display to highlight the meteorological service's environmental priorities. The festival provides a major public platform for connecting horticultural practices with broader environmental and health outcomes.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0528/1575598-bloom/"
+          },
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/27/met-eireann-puts-the-focus-on-climate-resilience-with-timely-bloom-show-garden/"
+          }
+        ],
+        "tags": [
+          "social",
+          "environment",
+          "health"
+        ]
+      },
+      {
+        "headline": "Government faces criticism for missing climate action targets, delays expected to 2030s",
+        "summary": "The Irish government has come under criticism for missing its greenhouse gas emission reduction targets, with new projections indicating that significant reductions will not occur until the early 2030s. Environmental organisations and opposition figures have accused the administration of lacking ambition in its climate policy and implementation. Government projections show delays in meeting EU-mandated emissions targets, raising concerns about potential penalties and Ireland's environmental commitments. The criticism highlights the gap between stated climate objectives and actual policy outcomes in the energy, transport, and agriculture sectors. Industry experts warn that maintaining current policy trajectories will make future compliance increasingly difficult and costly.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/environment/2026/05/27/government-accused-of-famine-of-ambition-on-climate-action-after-latest-projection-on-missed-targets/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "climate",
+          "economy"
+        ]
+      },
+      {
+        "headline": "College Green Plaza \u20ac80 million Dublin project advances with planning application",
+        "summary": "A major pedestrian-focused urban regeneration project in College Green, Dublin is moving forward with planning approval expected by summer, representing an \u20ac80 million investment in the city centre. The project prioritises pedestrian access and cyclist facilities, addressing long-standing concerns about traffic congestion and public space quality in the historic district. Supporters of the scheme have praised the design approach, though concerns persist regarding public order management and ongoing maintenance of the refurbished space. The development represents a significant commitment to Dublin's urban centre redevelopment and public realm improvement. The project is expected to enhance the area's accessibility and appeal to both residents and visitors.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/ireland/dublin/2026/05/27/application-for-college-green-plaza-to-be-submitted-by-summer-amid-strong-public-approval/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "economy",
+          "social"
+        ]
+      },
+      {
+        "headline": "Young children referred to state agency over concerning sexualised behaviour patterns",
+        "summary": "More than 100 children and young people, some as young as five years old, were referred to the state child protection agency over the past year for displaying troubling sexualised behaviour. The referrals reflect growing concern among educators, social workers, and parents about early-onset behavioural issues that may indicate abuse or exposure to inappropriate content. The state agency has responded by increasing support and specialist intervention services for affected children and families. Child protection experts note that early intervention is critical for addressing behavioural concerns and preventing escalation. The high number of referrals highlights the importance of robust safeguarding frameworks in schools and community settings.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/children-as-young-as-five-referred-to-agency-for-young-people-displaying-troubling-sexualised-behaviour-7052175-May2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "crime"
+        ]
+      },
+      {
+        "headline": "\u20ac4.2 million cannabis seizure in Clare leads to drug trafficking charges",
+        "summary": "A 40-year-old man from Dublin has been charged in connection with a \u20ac4.2 million cannabis seizure at Shannon Airport in County Clare. The large drug bust represents one of the significant interdictions in recent months and highlights ongoing efforts by law enforcement to disrupt trafficking operations. The arrested individual faced court proceedings following the controlled delivery operation. The seizure demonstrates the scale of drug trafficking activity targeting Ireland as a transit point for European distribution networks. Garda\u00ed continue to investigate the operation to identify other individuals involved in the supply chain.",
+        "sources": [
+          {
+            "name": "The Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/05/27/man-40-charged-in-connection-with-42m-cannabis-seizure-in-co-clare/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "economy",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-28T14:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "UK and Poland sign landmark defence pact to counter Russian threats",
+        "summary": "Prime Minister Keir Starmer and Polish PM Donald Tusk signed a major defence and security treaty on May 28, described as a 'generational uplift' in bilateral relations. The agreement focuses on strengthening joint military capabilities, cyber defence, and coordination in response to Russian aggression across Europe. The treaty includes plans for expanded joint weapons development programmes, including medium-range air defence systems and advanced missile technologies. This follows similar UK defence agreements with Germany and France, signalling Britain's commitment to deepening security cooperation with European allies as Russia remains a persistent regional threat.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260527-starmer-and-tusk-sign-uk%E2%80%93poland-defence-pact-amid-warnings-over-russian-threats"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-26/uk-poland-sign-defense-and-security-pact-to-curb-russia-threat"
+          },
+          {
+            "name": "GOV.UK",
+            "url": "https://www.gov.uk/government/news/uk-and-poland-set-to-sign-major-defence-and-security-treaty-as-pm-steps-up-relationship-with-europe-to-keep-nation-safe"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Norway becomes ninth country to join France's nuclear deterrence umbrella",
+        "summary": "Norway formally joined France's forward nuclear deterrence framework on May 27-28, making it the ninth European nation under the French nuclear umbrella. Under this scheme, member states can host French strategic air forces that spread across the continent to complicate adversary calculations. The other eight countries include Belgium, Denmark, Germany, Greece, Netherlands, Poland, Sweden, and the UK. This move signals a notable shift by traditionally Atlanticist Norway towards closer European defence integration, though Oslo reaffirmed it will not station nuclear weapons on its territory during peacetime nor contribute financially to France's nuclear programme.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260527-norway-becomes-ninth-country-to-come-under-french-nuclear-umbrella"
+          },
+          {
+            "name": "Eastern Herald",
+            "url": "https://easternherald.com/2026/05/28/norway-joins-france-nuclear-deterrence-scheme-macron-store/"
+          },
+          {
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com/news/world/europe/article/3355095/norway-join-frances-nuclear-umbrella-move-away-us-reliance"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU Parliament and member states clash on controversial migration return rules",
+        "summary": "European Union countries and the Parliament have failed to reach agreement on proposed legislation to speed up migrant deportations, including establishing return centres outside EU borders. The contentious 'return regulation' would introduce stricter measures including longer detention periods, entry bans for irregular migrants, and deportation facilities beyond the EU's external boundaries. The disagreement reflects deep divisions within Europe on migration policy, though the EU reports that illegal border crossings fell by 26% in 2025. The new Pact on Migration and Asylum begins full implementation on June 12, 2026, marking a significant shift in how member states handle asylum and returns.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/05/21/eu-countries-and-parliament-clash-on-controversial-return-rules-for-migrants"
+          },
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1011"
+          },
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "migration",
+          "EU",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "EU examines economic resilience amid Middle East crisis and structural reform needs",
+        "summary": "Members of the European Parliament's Economic and Monetary Affairs Committee questioned Eurogroup President Kyriakos Pierrakakis on May 28 regarding the euro area's economic resilience in light of Middle East instability and the need for structural reforms. The discussion highlighted concerns about the eurozone's ability to withstand future economic shocks, with emphasis on the importance of implementing reforms to strengthen regional economic stability. The Committee also noted that the Commission will present new proposals on the EU Emissions Trading System in July 2026, as policymakers balance climate ambitions with energy price concerns affecting member state economies.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          },
+          {
+            "name": "European Parliament",
+            "url": "https://www.europarl.europa.eu/news/en/agenda"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Expansion of EU emissions trading systems signals climate policy intensification",
+        "summary": "The European Union is proceeding with significant expansions to its climate policy framework, with the existing Emissions Trading System (ETS1) being supplemented by a new ETS2 covering road transport, building heating, and small industrial installations. Following a two-year transition period, the comprehensive Pact on Migration and Asylum takes full effect on June 12, 2026. The Commission is scheduled to present further policy proposals in July 2026 to address concerns about high energy prices while maintaining climate commitments. These developments represent an intensification of EU climate regulation across multiple economic sectors, balancing environmental objectives with member state economic considerations.",
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://knowledge4policy.ec.europa.eu/migration-demography/climate-change-induced-migration-clicim-project_en"
+          },
+          {
+            "name": "European Central Bank",
+            "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260505_1~2e47b4c747.en.html"
+          }
+        ],
+        "tags": [
+          "climate",
+          "regulation",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Albania and Montenegro advance towards EU membership as Commission evaluates progress",
+        "summary": "The European Parliament's Foreign Affairs Committee is evaluating the progress made by Albania and Montenegro in their negotiations towards EU membership, with both countries now well advanced in their accession processes. These Balkan nations represent the next wave of potential EU expansion, bringing the union closer to its goal of encompassing the entire European continent. The Committee's ongoing assessment of their reforms and institutional developments will be critical in determining the timeline for their eventual accession. This expansion would represent a significant geopolitical achievement for the EU in consolidating democratic governance and European integration in the region.",
+        "sources": [
+          {
+            "name": "European Parliament",
+            "url": "https://www.europarl.europa.eu/news/en/agenda"
+          },
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "EU",
+          "governance",
+          "elections"
+        ]
+      },
+      {
+        "headline": "US military conducts second strike against Iran amid ceasefire negotiations",
+        "summary": "The US military conducted its second strike against Iranian targets in three days on May 28, 2026, targeting four Iranian drones and a ground control station near the Strait of Hormuz and in Bandar Abbas. According to US Central Command, the strikes targeted systems that posed a threat to regional security and were about to launch additional attacks. The hostilities occur during fragile ceasefire negotiations between the US and Iran following a three-month regional conflict. The strikes have strategic implications for European security given the region's importance to global energy markets and European economic interests, and underscore ongoing Middle East tensions that affect European strategic planning.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c98r2qy5809o"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/05/28/us-military-conducts-second-strike-against-iran-within-days-as-trump-fumes-over-negotiatio"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-28T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "US and Iran Exchange Strikes as Military Tensions Escalate",
+        "summary": "The United States conducted military strikes against Iranian targets on May 28, marking the second round of attacks in three days, while Iran's Islamic Revolutionary Guard Corps retaliated by targeting a US airbase near Bandar Abbas. The escalation comes during a fragile ceasefire period and is reportedly connected to ongoing negotiations over a potential deal. Oil prices surged in response to the military action, reflecting global market concerns over regional stability. The strikes underscore the volatile state of US-Iran relations and the risks of further escalation in the Middle East.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTRRSVJycmxrcVZhN2F2OF8zR2JIWW1Ua0F4V1dIV2NIYUxEMGZSRElNYzBVVlRGazQtX1NuZGNmTzZBYWx3cWlCdVg3Q0xPQkVUZHhTM21ReXdrWHNKMDhzVHRiUkJ5N0tSM1BuNl9NbmhCMUFVRFd1N0dYelB2RkpBYmRTZDVQOExXU1JtdlVsaEw1bGR6aHJUR3lFLVN3dl9ERnVnNlF2b2lLdjhkX1dHLUJNZy1HT1dIdVNB"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c98r2qy5809o"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak in DRC Spirals Out of Control, Regional Borders Close",
+        "summary": "The Democratic Republic of Congo is facing a severe and rapidly escalating Ebola epidemic that health authorities describe as 'breakneck' in pace, outpacing the world's capacity to respond. Uganda has closed its border with the DRC for four weeks as a containment measure, and the WHO has warned of a 'catastrophic collision' between the disease outbreak and ongoing armed conflict in the region. The surge in cases reflects fragile health infrastructure and resource constraints in affected areas. This represents a critical humanitarian and public health emergency with potential for regional spread.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cdxpdex062yo"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "health",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Israel Designates Southern Lebanon Combat Zone, Orders Mass Evacuation",
+        "summary": "Israel's military has declared a large swathe of southern Lebanon south of the Zahrani River as a combat zone and issued evacuation orders for all residents in the affected areas. This military designation represents a significant escalation in tensions along the Israel-Lebanon border and signals preparations for potential large-scale military operations. The order affects thousands of civilians and marks a sharp increase in regional instability. The move comes amid broader Middle Eastern tensions involving Iran, Israel, and US military activities.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Unprecedented May Heat Wave Breaks Records Across Europe, Claims Lives",
+        "summary": "An exceptionally early and intense heat wave is shattering temperature records across Europe in May, with deaths reported as populations struggle with the extreme conditions. The phenomenon is unusual for its timing and severity, with major European cities experiencing unprecedented May temperatures. The heat wave is driving health emergencies and overwhelming public services across the continent. This event reflects broader climate change patterns and underscores the vulnerability of European infrastructure to extreme weather events.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe"
+          }
+        ],
+        "tags": [
+          "climate",
+          "humanitarian",
+          "health"
+        ]
+      },
+      {
+        "headline": "Ukraine Seeks Advanced Air Defence as Russia Intensifies Strike Campaign",
+        "summary": "Ukrainian President Zelenskiy has requested advanced air defence systems from the United States as Russia escalates its aerial strike threats against the country. A senior Ukrainian military commander described an imminent 'turning point' in the ongoing war, suggesting a critical phase in the conflict. Russia continues to maintain high-tempo attacks on Ukrainian targets with warnings of major potential barrages. The situation reflects the sustained intensity of the Ukraine conflict and the critical importance of military support from Western allies.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Zimbabwe Faces Deadly Malaria Surge Driven by Aid Cuts and Climate Change",
+        "summary": "Zimbabwe is experiencing a significant surge in malaria cases, with the crisis exposing fragile health systems and mounting treatment shortages across rural areas of the country. The outbreak is driven by a combination of aid cuts and increasingly severe climate change impacts that are creating conditions favourable for disease transmission. Health infrastructure strain is limiting the capacity to diagnose and treat cases effectively. The situation highlights the interconnected nature of development, climate, and public health crises in vulnerable regions.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe"
+          }
+        ],
+        "tags": [
+          "health",
+          "climate",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "US-China Taiwan Tensions Carry Risk of Nuclear Escalation",
+        "summary": "Analysts and policy experts warn that any military conflict over Taiwan would carry significant risk of nuclear escalation between the United States and China. The assessment underscores the extreme stakes involved in potential confrontation over the self-governed island. Taiwan's leadership has been actively engaging with US officials, including gifting Trump with an autobiography of the TSMC founder, signalling diplomatic efforts amid tensions. The nuclear dimension adds a catastrophic risk factor to the already fraught geopolitical situation in the Asia-Pacific region.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Oil Prices Surge Following US Military Action Against Iran",
+        "summary": "Global oil markets responded sharply to the US military strikes against Iran, with prices jumping significantly as traders assessed geopolitical risk and potential supply disruptions. The market reaction reflects concerns about the fragile balance between military escalation and ongoing peace negotiations. Oil price volatility has broader implications for global energy security and economic activity. The incident demonstrates how regional military conflicts continue to impact global commodity markets and economic stability.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzZxOHNCZVp1dkczdUhTRUdveVliU2xvRmo5M3pFZF82cVFGUldldG1ueVJHLWVQeTdZZmJZSEZJMFo3NjNPbXFXeVJqdG1XcG4wTEtyWHBpQnp0cEtuUGZzWW5uNTA4U1V2ZE1tZThZUU5mdjQtZzFHa0ctRzR4QVFmT2J4R0ZUTDlZUnhfYTB5djl0M2tfMWNTRTdNdmFtV011WFNtaml4U05IOVdsQ3Fn"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cp3p62xddq4o"
+          }
+        ],
+        "tags": [
+          "economy",
+          "conflict",
+          "trade"
+        ]
+      }
+    ]
+  }
+}

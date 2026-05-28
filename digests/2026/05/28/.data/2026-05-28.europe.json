@@ -1,0 +1,130 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-05-28T14:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "UK and Poland sign landmark defence pact to counter Russian threats",
+      "summary": "Prime Minister Keir Starmer and Polish PM Donald Tusk signed a major defence and security treaty on May 28, described as a 'generational uplift' in bilateral relations. The agreement focuses on strengthening joint military capabilities, cyber defence, and coordination in response to Russian aggression across Europe. The treaty includes plans for expanded joint weapons development programmes, including medium-range air defence systems and advanced missile technologies. This follows similar UK defence agreements with Germany and France, signalling Britain's commitment to deepening security cooperation with European allies as Russia remains a persistent regional threat.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260527-starmer-and-tusk-sign-uk%E2%80%93poland-defence-pact-amid-warnings-over-russian-threats"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-26/uk-poland-sign-defense-and-security-pact-to-curb-russia-threat"
+        },
+        {
+          "name": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/uk-and-poland-set-to-sign-major-defence-and-security-treaty-as-pm-steps-up-relationship-with-europe-to-keep-nation-safe"
+        }
+      ],
+      "tags": ["defence", "EU", "diplomacy"]
+    },
+    {
+      "headline": "Norway becomes ninth country to join France's nuclear deterrence umbrella",
+      "summary": "Norway formally joined France's forward nuclear deterrence framework on May 27-28, making it the ninth European nation under the French nuclear umbrella. Under this scheme, member states can host French strategic air forces that spread across the continent to complicate adversary calculations. The other eight countries include Belgium, Denmark, Germany, Greece, Netherlands, Poland, Sweden, and the UK. This move signals a notable shift by traditionally Atlanticist Norway towards closer European defence integration, though Oslo reaffirmed it will not station nuclear weapons on its territory during peacetime nor contribute financially to France's nuclear programme.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260527-norway-becomes-ninth-country-to-come-under-french-nuclear-umbrella"
+        },
+        {
+          "name": "Eastern Herald",
+          "url": "https://easternherald.com/2026/05/28/norway-joins-france-nuclear-deterrence-scheme-macron-store/"
+        },
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3355095/norway-join-frances-nuclear-umbrella-move-away-us-reliance"
+        }
+      ],
+      "tags": ["defence", "EU", "diplomacy"]
+    },
+    {
+      "headline": "EU Parliament and member states clash on controversial migration return rules",
+      "summary": "European Union countries and the Parliament have failed to reach agreement on proposed legislation to speed up migrant deportations, including establishing return centres outside EU borders. The contentious 'return regulation' would introduce stricter measures including longer detention periods, entry bans for irregular migrants, and deportation facilities beyond the EU's external boundaries. The disagreement reflects deep divisions within Europe on migration policy, though the EU reports that illegal border crossings fell by 26% in 2025. The new Pact on Migration and Asylum begins full implementation on June 12, 2026, marking a significant shift in how member states handle asylum and returns.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/my-europe/2026/05/21/eu-countries-and-parliament-clash-on-controversial-return-rules-for-migrants"
+        },
+        {
+          "name": "European Commission",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1011"
+        },
+        {
+          "name": "European Union",
+          "url": "https://european-union.europa.eu/news-and-events_en"
+        }
+      ],
+      "tags": ["migration", "EU", "regulation"]
+    },
+    {
+      "headline": "EU examines economic resilience amid Middle East crisis and structural reform needs",
+      "summary": "Members of the European Parliament's Economic and Monetary Affairs Committee questioned Eurogroup President Kyriakos Pierrakakis on May 28 regarding the euro area's economic resilience in light of Middle East instability and the need for structural reforms. The discussion highlighted concerns about the eurozone's ability to withstand future economic shocks, with emphasis on the importance of implementing reforms to strengthen regional economic stability. The Committee also noted that the Commission will present new proposals on the EU Emissions Trading System in July 2026, as policymakers balance climate ambitions with energy price concerns affecting member state economies.",
+      "sources": [
+        {
+          "name": "European Union",
+          "url": "https://european-union.europa.eu/news-and-events_en"
+        },
+        {
+          "name": "European Parliament",
+          "url": "https://www.europarl.europa.eu/news/en/agenda"
+        }
+      ],
+      "tags": ["economy", "EU", "governance"]
+    },
+    {
+      "headline": "Expansion of EU emissions trading systems signals climate policy intensification",
+      "summary": "The European Union is proceeding with significant expansions to its climate policy framework, with the existing Emissions Trading System (ETS1) being supplemented by a new ETS2 covering road transport, building heating, and small industrial installations. Following a two-year transition period, the comprehensive Pact on Migration and Asylum takes full effect on June 12, 2026. The Commission is scheduled to present further policy proposals in July 2026 to address concerns about high energy prices while maintaining climate commitments. These developments represent an intensification of EU climate regulation across multiple economic sectors, balancing environmental objectives with member state economic considerations.",
+      "sources": [
+        {
+          "name": "European Commission",
+          "url": "https://knowledge4policy.ec.europa.eu/migration-demography/climate-change-induced-migration-clicim-project_en"
+        },
+        {
+          "name": "European Central Bank",
+          "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260505_1~2e47b4c747.en.html"
+        }
+      ],
+      "tags": ["climate", "regulation", "economy"]
+    },
+    {
+      "headline": "Albania and Montenegro advance towards EU membership as Commission evaluates progress",
+      "summary": "The European Parliament's Foreign Affairs Committee is evaluating the progress made by Albania and Montenegro in their negotiations towards EU membership, with both countries now well advanced in their accession processes. These Balkan nations represent the next wave of potential EU expansion, bringing the union closer to its goal of encompassing the entire European continent. The Committee's ongoing assessment of their reforms and institutional developments will be critical in determining the timeline for their eventual accession. This expansion would represent a significant geopolitical achievement for the EU in consolidating democratic governance and European integration in the region.",
+      "sources": [
+        {
+          "name": "European Parliament",
+          "url": "https://www.europarl.europa.eu/news/en/agenda"
+        },
+        {
+          "name": "European Union",
+          "url": "https://european-union.europa.eu/news-and-events_en"
+        }
+      ],
+      "tags": ["EU", "governance", "elections"]
+    },
+    {
+      "headline": "US military conducts second strike against Iran amid ceasefire negotiations",
+      "summary": "The US military conducted its second strike against Iranian targets in three days on May 28, 2026, targeting four Iranian drones and a ground control station near the Strait of Hormuz and in Bandar Abbas. According to US Central Command, the strikes targeted systems that posed a threat to regional security and were about to launch additional attacks. The hostilities occur during fragile ceasefire negotiations between the US and Iran following a three-month regional conflict. The strikes have strategic implications for European security given the region's importance to global energy markets and European economic interests, and underscore ongoing Middle East tensions that affect European strategic planning.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c98r2qy5809o"
+        },
+        {
+          "name": "Euronews",
+          "url": "http://www.euronews.com/2026/05/28/us-military-conducts-second-strike-against-iran-within-days-as-trump-fumes-over-negotiatio"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    }
+  ]
+}

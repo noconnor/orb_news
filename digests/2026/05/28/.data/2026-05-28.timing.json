@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-28",
+  "update_type": "morning",
+  "steps": {
+    "setup_s": 12,
+    "gather_s": 92,
+    "preprocess_s": 0,
+    "digest_write_s": 270,
+    "audio_s": 85
+  },
+  "total_s": 459,
+  "estimated_cost_usd": {
+    "gather_haiku_3x": 0.04,
+    "digest_sonnet": 0.18,
+    "audio_free": 0.0,
+    "total": 0.22
+  }
+}

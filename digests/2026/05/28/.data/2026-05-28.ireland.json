@@ -1,0 +1,82 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-28T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Data centres driving up Irish electricity costs by €1.4 billion annually",
+      "summary": "New research by Friends of the Earth reveals that rapidly growing data centre demand in Ireland has significantly increased energy prices, with the cost ultimately passed on to households through higher electricity bills. Data centres accounted for 22% of Ireland's electricity consumption in 2024, a substantial proportion for industrial infrastructure. The study highlights the hidden economic impact on Irish families as Big Tech companies establish major operations in the country. Energy industry experts warn that without policy intervention, this trend will continue to drive up bills for ordinary consumers. The findings raise questions about Ireland's energy infrastructure planning and the balance between attracting technology investment and protecting household budgets.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/readme/data-centres-and-climate-7052694-May2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41852406.html"},
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0528/1575598-bloom/"}
+      ],
+      "tags": ["economy", "energy", "technology"]
+    },
+    {
+      "headline": "Twenty Carlow schools receive threatening emails warning of mass shooting",
+      "summary": "Twenty primary and secondary schools across County Carlow received threatening emails on May 27 warning of a planned mass shooting incident. Gardaí deployed patrols to all primary schools in the county as a precautionary measure and launched an investigation into the origin of the threats. The Special Detective Unit is coordinating with international agencies, including U.S. authorities, to identify and apprehend those responsible for the threats. The incident caused significant disruption and concern among school communities and parents across the region. This follows a broader pattern of similar threatening communications received at schools in other jurisdictions.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41852496.html"},
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/27/twenty-co-carlow-schools-received-emails-threatening-mass-shooting/"}
+      ],
+      "tags": ["crime", "security", "social"]
+    },
+    {
+      "headline": "Record-breaking heat and extended thunderstorm warnings across Ireland",
+      "summary": "Ireland experienced exceptional weather conditions on May 28, with Shannon Airport recording a provisional temperature of 30.5 degrees Celsius, breaking the May temperature record previously set at 28.4°C in 1997. Met Éireann extended thunderstorm warnings to seven counties as unsettled weather patterns persist across the island. The meteorological service has emphasised climate resilience and highlighted the connection between extreme weather events and climate action. The heat record was accompanied by severe weather warnings for multiple regions, creating a mixed weather situation for late May. The exceptional conditions underscore the increasing frequency of extreme weather events in Ireland.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/27/met-eireann-extends-thunderstorm-warning-to-seven-counties/"},
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0528/1575598-bloom/"}
+      ],
+      "tags": ["weather", "climate", "environment"]
+    },
+    {
+      "headline": "100,000 visitors expected at Bloom gardening festival with climate and mental health focus",
+      "summary": "The Bloom festival in Dublin's Phoenix Park is set to welcome approximately 100,000 visitors during its run, with this year's edition placing strong emphasis on biodiversity, climate action, and mental health. The festival showcases innovations in sustainable gardening and environmental stewardship at a time when Ireland faces significant climate challenges. Exhibitors and garden designers will demonstrate practical approaches to climate-resilient landscaping and sustainable horticulture. Met Éireann has contributed a dedicated climate resilience garden display to highlight the meteorological service's environmental priorities. The festival provides a major public platform for connecting horticultural practices with broader environmental and health outcomes.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0528/1575598-bloom/"},
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/27/met-eireann-puts-the-focus-on-climate-resilience-with-timely-bloom-show-garden/"}
+      ],
+      "tags": ["social", "environment", "health"]
+    },
+    {
+      "headline": "Government faces criticism for missing climate action targets, delays expected to 2030s",
+      "summary": "The Irish government has come under criticism for missing its greenhouse gas emission reduction targets, with new projections indicating that significant reductions will not occur until the early 2030s. Environmental organisations and opposition figures have accused the administration of lacking ambition in its climate policy and implementation. Government projections show delays in meeting EU-mandated emissions targets, raising concerns about potential penalties and Ireland's environmental commitments. The criticism highlights the gap between stated climate objectives and actual policy outcomes in the energy, transport, and agriculture sectors. Industry experts warn that maintaining current policy trajectories will make future compliance increasingly difficult and costly.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/environment/2026/05/27/government-accused-of-famine-of-ambition-on-climate-action-after-latest-projection-on-missed-targets/"}
+      ],
+      "tags": ["politics", "climate", "economy"]
+    },
+    {
+      "headline": "College Green Plaza €80 million Dublin project advances with planning application",
+      "summary": "A major pedestrian-focused urban regeneration project in College Green, Dublin is moving forward with planning approval expected by summer, representing an €80 million investment in the city centre. The project prioritises pedestrian access and cyclist facilities, addressing long-standing concerns about traffic congestion and public space quality in the historic district. Supporters of the scheme have praised the design approach, though concerns persist regarding public order management and ongoing maintenance of the refurbished space. The development represents a significant commitment to Dublin's urban centre redevelopment and public realm improvement. The project is expected to enhance the area's accessibility and appeal to both residents and visitors.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/ireland/dublin/2026/05/27/application-for-college-green-plaza-to-be-submitted-by-summer-amid-strong-public-approval/"}
+      ],
+      "tags": ["transport", "economy", "social"]
+    },
+    {
+      "headline": "Young children referred to state agency over concerning sexualised behaviour patterns",
+      "summary": "More than 100 children and young people, some as young as five years old, were referred to the state child protection agency over the past year for displaying troubling sexualised behaviour. The referrals reflect growing concern among educators, social workers, and parents about early-onset behavioural issues that may indicate abuse or exposure to inappropriate content. The state agency has responded by increasing support and specialist intervention services for affected children and families. Child protection experts note that early intervention is critical for addressing behavioural concerns and preventing escalation. The high number of referrals highlights the importance of robust safeguarding frameworks in schools and community settings.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/children-as-young-as-five-referred-to-agency-for-young-people-displaying-troubling-sexualised-behaviour-7052175-May2026/"}
+      ],
+      "tags": ["health", "social", "crime"]
+    },
+    {
+      "headline": "€4.2 million cannabis seizure in Clare leads to drug trafficking charges",
+      "summary": "A 40-year-old man from Dublin has been charged in connection with a €4.2 million cannabis seizure at Shannon Airport in County Clare. The large drug bust represents one of the significant interdictions in recent months and highlights ongoing efforts by law enforcement to disrupt trafficking operations. The arrested individual faced court proceedings following the controlled delivery operation. The seizure demonstrates the scale of drug trafficking activity targeting Ireland as a transit point for European distribution networks. Gardaí continue to investigate the operation to identify other individuals involved in the supply chain.",
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/05/27/man-40-charged-in-connection-with-42m-cannabis-seizure-in-co-clare/"}
+      ],
+      "tags": ["crime", "economy", "social"]
+    }
+  ]
+}
