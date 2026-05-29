@@ -1,0 +1,43 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US and Iran reach tentative 60-day ceasefire extension agreement pending Trump approval",
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw and the Iran Hostage Crisis (1979–1981); The Tanker War (1984-1988); War Powers Resolution (1973)",
+      "date_range": "1979–1988",
+      "summary": "The Islamic Revolution of 1979 triggered a 444-day hostage crisis when Iranian students seized the US Embassy in Tehran, breaking off diplomatic relations that have never been fully restored. President Carter's failed rescue attempt, Operation Eagle Claw in April 1980, ended in a desert crash killing eight US servicemen, while back-channel negotiations through Algeria eventually secured the hostages' release on the day of Reagan's inauguration in January 1981. The Iran–Iraq War that erupted in 1980 demonstrated how regional instability around the Persian Gulf generates global energy shocks, a lesson repeated in the Tanker War of 1984–1988 when both sides attacked oil shipping and the US Navy became directly embroiled. The War Powers Resolution of 1973 has hovered over every US military engagement in the region since, repeatedly tested but never definitively enforced.",
+      "parallel_analysis": "The pattern running through all these episodes is that US–Iran confrontations tend to be managed through back-channel diplomacy, third-party mediation, and mutual exhaustion rather than decisive military resolution. The current 60-day extension follows the same logic: buying time for talks while preserving the option of renewed force, with the nuclear question standing in place of the hostage crisis as the specific trigger that could unravel progress. Whether this administration has the patience for the long-haul diplomacy such moments historically demand remains the central uncertainty.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Israel intensifies military assault on Lebanon, orders mass evacuations affecting 14% of country",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "The 1982 Lebanon War and the 2006 Lebanon War",
+      "date_range": "1982; 2006",
+      "summary": "Israel's 1982 invasion of Lebanon drew the IDF deep into Beirut, triggered a multinational peacekeeping force, and ended with the Sabra and Shatila massacre and an eighteen-year occupation of the south that ultimately strengthened Hezbollah rather than eliminating it. The 2006 Lebanon War repeated several of that pattern's features: a rapid Israeli air campaign, ground incursions, mass displacement of Lebanese civilians, and a diplomatic resolution through UN Security Council Resolution 1701 that established an expanded UNIFIL force while leaving the underlying political dynamics unresolved. Both historical episodes demonstrated that military operations in Lebanon tend to generate short-term tactical gains but long-term strategic costs, with each cycle of destruction strengthening non-state actors and deepening sectarian fractures.",
+      "parallel_analysis": "The current escalation — evacuation orders covering 14% of the country, a million displaced, and strikes reaching Beirut — is tracking the same trajectory, with US ceasefire mediation playing the role that the UN Security Council performed in 2006. History suggests the critical variable is not whether a ceasefire is eventually reached, but whether the diplomatic framework that emerges can address the underlying sovereignty and disarmament questions that prior ceasefires left unanswered.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Europe swelters under deadly May heatwave shattering temperature records",
+      "story_topic": "European extreme heat events",
+      "historical_event": "2019 European Heatwaves",
+      "date_range": "June–July 2019",
+      "summary": "In the summer of 2019, Europe experienced two distinct heatwaves in late June and late July that shattered all-time temperature records across Belgium, France, Germany, Luxembourg, the Netherlands, and the United Kingdom. France recorded a national all-time high of 46.0°C in Vérargues on 28 June, while Germany reached 42.6°C and the UK hit 38.7°C at Cambridge. Confirmed excess deaths across Europe exceeded 3,900, with France (1,435), the UK (900), Belgium (716), and Germany (500) bearing the heaviest tolls. Research published in August 2019 established that the recorded temperatures would have been 1.5–3°C lower without anthropogenic warming, and that such events would become approximately 3°C stronger by 2050 at current emission rates. The 2019 heatwaves accelerated public and political recognition that extreme heat had become a structural feature of the European climate rather than an exceptional aberration, driving new EU and national heat-emergency protocols.",
+      "parallel_analysis": "The May 2026 heatwave represents a further escalation: arriving earlier in the season, breaking May-specific records rather than all-time records, and occurring against a baseline already elevated by the warming accumulated since 2019. The protocols activated across Europe this week are the direct institutional descendants of the post-2019 reforms, yet the fact that they are needed in late May rather than July underlines how the climate envelope continues to shift beyond the scenarios those reforms were designed to address.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/2019_European_heat_waves"
+      ]
+    }
+  ]
+}

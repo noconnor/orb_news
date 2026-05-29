@@ -1,0 +1,81 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-29T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Woman killed in stabbing attack in Clifden, Co Galway",
+      "summary": "A woman has died following a stabbing attack in Clifden, County Galway, on Thursday morning. She sustained severe neck injuries and was pronounced dead at the scene. Gardaí have arrested a man in connection with the incident as investigations continue. The circumstances surrounding the attack are still being established. The case highlights ongoing concerns about violence in rural communities.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/garda-galway-murder-woman-stabbed-7054291-May2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/28/man-arrested-following-discovery-of-womans-body-in-co-galway/"}
+      ],
+      "tags": ["crime", "galway", "social"]
+    },
+    {
+      "headline": "Electric Ireland announces significant price increases for electricity and gas",
+      "summary": "Electric Ireland has announced price increases affecting approximately 1.1 million electricity customers and 145,000 gas customers. Electricity prices will rise by 8%, while gas costs will climb by 7.7%, a combined impact that could leave many households worse off by more than €250 annually. The increases take effect in coming months and add to existing energy cost pressures on Irish households. The hikes reflect ongoing challenges in energy markets and cost inflation. Consumer and political groups are expected to respond with calls for government support measures.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/electric-ireland-price-increase-2-7054302-May2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/05/28/electric-ireland-to-increase-electricity-prices-by-8-domestic-gas-costs-to-climb-by-77/"}
+      ],
+      "tags": ["economy", "energy", "household"]
+    },
+    {
+      "headline": "Campaign launched to remove 23% VAT on sunscreen products",
+      "summary": "A campaign has been launched calling for Ireland to eliminate the 23% VAT rate on sunscreen products. Under EU law, sunscreen is currently classified as a cosmetic product, subjecting it to the same tax rate as make-up and perfume. Campaigners argue that sunscreen should be reclassified as a health or pharmaceutical product to reduce the tax burden and encourage sun protection, particularly as skin cancer rates remain a public health concern. The campaign is seeking government action to lobby for EU regulatory changes. This initiative highlights ongoing debates about tax policy and public health priorities.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/calls-for-vat-to-be-scrapped-on-sunscreen-7053989-May2026/"}
+      ],
+      "tags": ["economy", "health", "policy"]
+    },
+    {
+      "headline": "Ireland football match disrupted by Palestinian solidarity protesters at Aviva Stadium",
+      "summary": "An Ireland football friendly match at the Aviva Stadium was disrupted by supporters protesting in solidarity with Palestine. Protesters threw tennis balls onto the pitch and chanted slogans calling for a boycott of Israeli fixtures. The incident occurred during a friendly against Qatar and reflects ongoing tensions around Irish sports venues hosting matches involving teams with Israeli connections. The protest highlights deep political divisions among Irish football supporters regarding the Israeli-Palestinian conflict. Security and match officials managed the disruption, though the incident raised questions about fixture selection and crowd management.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/aviva-stadium-israel-protest-2-7055130-May2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/sport/soccer/arid-41853333.html"}
+      ],
+      "tags": ["sport", "politics", "social"]
+    },
+    {
+      "headline": "Noah Donohoe inquest continues: experts examine how teenager entered watercourse",
+      "summary": "The inquest into the death of Belfast teenager Noah Donohoe has entered its 17th week, with expert testimony focusing on how he entered the watercourse where his body was discovered. Forensic and water experts have been providing detailed evidence to the inquest court about the mechanics of how he could have accessed the water. The case has attracted significant public and media attention due to its unusual circumstances and the involvement of cross-border investigation efforts. The inquest is examining all aspects of the events leading to his death in 2020. The case remains sensitive within both Irish and Northern Irish communities.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/05/28/extremely-unlikely-noah-donohoe-entered-watercourse-from-anywhere-but-culvert/"}
+      ],
+      "tags": ["crime", "northern-ireland", "justice"]
+    },
+    {
+      "headline": "Brothers acquitted of attempted murder following violent attack in Offaly",
+      "summary": "Two brothers have been acquitted of attempted murder charges following a shooting incident at a halting site in Offaly. The Central Criminal Court heard evidence describing \"pandemonium\" during the violent attack that left two men shot in the chest and caused children to flee in fear. The acquittal comes after the court found insufficient evidence to support the attempted murder charges, though the incident itself caused significant trauma to the community. The case highlights ongoing tensions within settled and traveller communities in Ireland. Legal observers noted the complexity of the evidence and witness testimony in the case.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/offally-halting-site-attack-7055011-May2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/05/28/brothers-cleared-of-attempted-murder-after-double-shooting/"}
+      ],
+      "tags": ["crime", "courts", "justice"]
+    },
+    {
+      "headline": "Major gaps identified in rehabilitation care for road collision survivors",
+      "summary": "An investigation has revealed significant gaps in care provision for road collision survivors seeking rehabilitation in Ireland. Survivors face waiting lists exceeding 10 months, forcing many to seek rehabilitation services abroad at considerable personal cost. The Irish Examiner's reporting highlights this as a major public health issue requiring government intervention. Healthcare experts and advocacy groups are calling for increased investment in rehabilitation services to address the capacity shortage. The issue affects dozens of families annually whose loved ones suffer serious injuries in road traffic incidents.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41853309.html"}
+      ],
+      "tags": ["health", "social", "transport"]
+    },
+    {
+      "headline": "Special education access crisis: Youghal children forced to travel up to 120km for support",
+      "summary": "Parents in Youghal are campaigning for a local special education unit after children with additional needs are forced to commute up to 120 kilometers daily to access appropriate educational support. The lack of specialized school facilities in the area has created a significant burden on families and students. Educational advocates argue that the distances and travel times compromise both academic and social outcomes for vulnerable young people. The Department of Education is facing pressure to address regional imbalances in special education provision. This case exemplifies broader challenges in rural and regional education equity across Ireland.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41853354.html"}
+      ],
+      "tags": ["health", "education", "social"]
+    }
+  ]
+}

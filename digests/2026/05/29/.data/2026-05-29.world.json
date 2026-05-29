@@ -1,0 +1,78 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-29T12:00:00Z",
+  "source_status": {
+    "reuters": "rss_no_content",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Israel intensifies military assault on Lebanon, orders mass evacuations affecting 14% of country",
+      "summary": "Israel has escalated its military campaign against Lebanon, issuing evacuation orders for all areas south of the Zahrani River affecting approximately 14% of the country's territory, including much of the city of Tyre. Recent Israeli air strikes have killed at least 19 people and wounded 58 others in Lebanon, with the first strike on Beirut in three weeks occurring as tensions escalate. Since March, over one million Lebanese people—nearly a fifth of the country's population—have been displaced by the conflict. US-mediated ceasefire negotiations between Israel and Lebanon are scheduled to resume Thursday with technical discussions, though the ongoing military intensification raises questions about diplomatic prospects. The humanitarian crisis continues to deepen with mass displacement and civilian casualties mounting.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "US and Iran reach tentative 60-day ceasefire extension agreement pending Trump approval",
+      "summary": "The United States and Iran have reached a preliminary memorandum of understanding to extend their current ceasefire for 60 days and begin negotiations toward a permanent resolution to their ongoing conflict. The agreement still requires final approval from President Trump, who requested several days to consider the deal. Key terms include addressing Iran's stockpile of highly enriched uranium during the 60-day negotiation period, with the Trump administration emphasizing the need for complete dismantling of Iran's nuclear program. The agreement comes despite recent escalations, including overnight clashes where US forces shot down four Iranian drones and struck a launch unit near the Strait of Hormuz. Both sides have accused each other of truce violations, making the extended ceasefire period critical for diplomatic progress.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Blue Origin's New Glenn rocket explodes on launchpad in Florida during static fire test",
+      "summary": "Blue Origin experienced a major setback when its New Glenn rocket exploded Thursday night on a launch pad at Cape Canaveral, Florida, during a static fire test. The explosion resulted in the loss of both the brand new booster and its second stage, marking one of the largest rocket explosions in US history and the worst failure in Blue Origin's operational history. No injuries were reported, with all personnel accounted for at the time of the incident. The rocket was being prepared for its fourth launch, which was scheduled to carry Amazon Leo internet satellites to space in the coming weeks. The explosion is a significant setback for Blue Origin's ambitious plans, including partnerships with NASA for lunar base development and the broader competition with SpaceX in the commercial space industry.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/29/blue-origins-new-glenn-rocket-explodes-on-launch-pad?traffic_source=rss"}
+      ],
+      "tags": ["technology", "economy", "conflict"]
+    },
+    {
+      "headline": "Anthropic AI company soars to $965 billion valuation, surpassing OpenAI in market value",
+      "summary": "Anthropic, the AI company behind Claude, has reached a valuation of $965 billion following a major funding round of $65 billion from investors, leapfrogging rival OpenAI in market capitalization. The substantial investment positions Anthropic ahead of the planned initial public offering, reflecting strong investor confidence in the company's AI technology and business model. This dramatic valuation increase underscores the intense competition in the artificial intelligence sector and the massive capital flows into generative AI development. The funding round comes as Anthropic continues to develop and improve its Claude AI platform. The company's ascent to the top of the AI valuation rankings represents a significant shift in the competitive landscape of the generative AI industry.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai?traffic_source=rss"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    },
+    {
+      "headline": "Trump administration designates two Brazilian criminal organizations as terrorist groups",
+      "summary": "The Trump administration has moved to designate two major Brazilian gangs as terrorist organizations, marking an escalation in the US approach to Latin American crime and drug trafficking. The designation is part of a broader policy strategy using crime and gang violence as justification for expanding US military influence across the region. This action represents an intensification of US intervention in Latin American security matters and reflects geopolitical interests in maintaining influence over the hemisphere. The designations carry significant implications for international law enforcement cooperation and military assistance to regional allies. The policy reflects the administration's hardline approach to transnational organized crime in the Western Hemisphere.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss"}
+      ],
+      "tags": ["geopolitics", "conflict", "diplomacy"]
+    },
+    {
+      "headline": "Colombian voters head to polls to choose between competing visions for the nation's future",
+      "summary": "Colombia holds elections today with voters deciding between two distinct visions for the country's political and economic direction. The electoral choice represents a significant moment for Colombia's governance and policy direction. The election comes at a critical juncture for the South American nation as it addresses longstanding issues including security, economic development, and social reform. Voters face competing platforms with different approaches to addressing the country's challenges and priorities. The outcome will shape Colombia's domestic and international policy orientation in the coming years.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/colombias-voters-will-decide-between-two-visions-for-the-country?traffic_source=rss"}
+      ],
+      "tags": ["politics", "governance", "elections"]
+    },
+    {
+      "headline": "Crews recover remains of six workers following Washington state chemical facility tank rupture",
+      "summary": "Recovery operations at a Washington chemical facility have located the remains of six of the nine workers missing after a catastrophic tank rupture incident. The disaster resulted in significant loss of life at the industrial facility, with three additional workers still unaccounted for. The incident represents a major industrial accident with serious safety and environmental implications. Emergency response crews continue search and recovery operations at the site. The accident highlights workplace safety concerns in chemical manufacturing and storage operations.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVI4YkFpLTBBQkZoRU9aVmIyRUVxdGwzS2FCdkQwQ1RQeUNRX3I5MHM5UlIyMzdsNU1JNlNlZHVDUkVwMkwwTXBzdkpxbU9JMklFUnFaRjlxaFI2T0VmbmhJeDljS0xDQ0lkNlUzWFVLekpRV1EyQTlTeVdWYzc5TjU2RU1aaEd5c0MxR3RLNHpGRjNBb1lSSHNzUGNfZkRLTFE"}
+      ],
+      "tags": ["humanitarian", "economy", "conflict"]
+    },
+    {
+      "headline": "US Treasury confirms plans for $250 banknote featuring sitting president Trump",
+      "summary": "The US Treasury Department has confirmed plans to issue a new $250 banknote bearing the likeness of President Trump, marking a historic policy shift. The proposed currency denomination would be the first time in more than a century that a living person has appeared on US currency, breaking with long-standing tradition. The move represents a significant change in American monetary policy and constitutional practice. The new note would join existing US denominations and become part of the nation's currency circulation. The decision reflects the current administration's approach to reshaping American institutions and symbols.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss"}
+      ],
+      "tags": ["governance", "politics", "economy"]
+    }
+  ]
+}

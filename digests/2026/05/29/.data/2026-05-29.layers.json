@@ -1,0 +1,438 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-29T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Woman killed in stabbing attack in Clifden, Co Galway",
+        "summary": "A woman has died following a stabbing attack in Clifden, County Galway, on Thursday morning. She sustained severe neck injuries and was pronounced dead at the scene. Garda\u00ed have arrested a man in connection with the incident as investigations continue. The circumstances surrounding the attack are still being established. The case highlights ongoing concerns about violence in rural communities.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/garda-galway-murder-woman-stabbed-7054291-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/28/man-arrested-following-discovery-of-womans-body-in-co-galway/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "galway",
+          "social"
+        ]
+      },
+      {
+        "headline": "Electric Ireland announces significant price increases for electricity and gas",
+        "summary": "Electric Ireland has announced price increases affecting approximately 1.1 million electricity customers and 145,000 gas customers. Electricity prices will rise by 8%, while gas costs will climb by 7.7%, a combined impact that could leave many households worse off by more than \u20ac250 annually. The increases take effect in coming months and add to existing energy cost pressures on Irish households. The hikes reflect ongoing challenges in energy markets and cost inflation. Consumer and political groups are expected to respond with calls for government support measures.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/electric-ireland-price-increase-2-7054302-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/28/electric-ireland-to-increase-electricity-prices-by-8-domestic-gas-costs-to-climb-by-77/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "household"
+        ]
+      },
+      {
+        "headline": "Campaign launched to remove 23% VAT on sunscreen products",
+        "summary": "A campaign has been launched calling for Ireland to eliminate the 23% VAT rate on sunscreen products. Under EU law, sunscreen is currently classified as a cosmetic product, subjecting it to the same tax rate as make-up and perfume. Campaigners argue that sunscreen should be reclassified as a health or pharmaceutical product to reduce the tax burden and encourage sun protection, particularly as skin cancer rates remain a public health concern. The campaign is seeking government action to lobby for EU regulatory changes. This initiative highlights ongoing debates about tax policy and public health priorities.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/calls-for-vat-to-be-scrapped-on-sunscreen-7053989-May2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "health",
+          "policy"
+        ]
+      },
+      {
+        "headline": "Ireland football match disrupted by Palestinian solidarity protesters at Aviva Stadium",
+        "summary": "An Ireland football friendly match at the Aviva Stadium was disrupted by supporters protesting in solidarity with Palestine. Protesters threw tennis balls onto the pitch and chanted slogans calling for a boycott of Israeli fixtures. The incident occurred during a friendly against Qatar and reflects ongoing tensions around Irish sports venues hosting matches involving teams with Israeli connections. The protest highlights deep political divisions among Irish football supporters regarding the Israeli-Palestinian conflict. Security and match officials managed the disruption, though the incident raised questions about fixture selection and crowd management.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/aviva-stadium-israel-protest-2-7055130-May2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/sport/soccer/arid-41853333.html"
+          }
+        ],
+        "tags": [
+          "sport",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Noah Donohoe inquest continues: experts examine how teenager entered watercourse",
+        "summary": "The inquest into the death of Belfast teenager Noah Donohoe has entered its 17th week, with expert testimony focusing on how he entered the watercourse where his body was discovered. Forensic and water experts have been providing detailed evidence to the inquest court about the mechanics of how he could have accessed the water. The case has attracted significant public and media attention due to its unusual circumstances and the involvement of cross-border investigation efforts. The inquest is examining all aspects of the events leading to his death in 2020. The case remains sensitive within both Irish and Northern Irish communities.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/05/28/extremely-unlikely-noah-donohoe-entered-watercourse-from-anywhere-but-culvert/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "northern-ireland",
+          "justice"
+        ]
+      },
+      {
+        "headline": "Brothers acquitted of attempted murder following violent attack in Offaly",
+        "summary": "Two brothers have been acquitted of attempted murder charges following a shooting incident at a halting site in Offaly. The Central Criminal Court heard evidence describing \"pandemonium\" during the violent attack that left two men shot in the chest and caused children to flee in fear. The acquittal comes after the court found insufficient evidence to support the attempted murder charges, though the incident itself caused significant trauma to the community. The case highlights ongoing tensions within settled and traveller communities in Ireland. Legal observers noted the complexity of the evidence and witness testimony in the case.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/offally-halting-site-attack-7055011-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/05/28/brothers-cleared-of-attempted-murder-after-double-shooting/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "courts",
+          "justice"
+        ]
+      },
+      {
+        "headline": "Major gaps identified in rehabilitation care for road collision survivors",
+        "summary": "An investigation has revealed significant gaps in care provision for road collision survivors seeking rehabilitation in Ireland. Survivors face waiting lists exceeding 10 months, forcing many to seek rehabilitation services abroad at considerable personal cost. The Irish Examiner's reporting highlights this as a major public health issue requiring government intervention. Healthcare experts and advocacy groups are calling for increased investment in rehabilitation services to address the capacity shortage. The issue affects dozens of families annually whose loved ones suffer serious injuries in road traffic incidents.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41853309.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "transport"
+        ]
+      },
+      {
+        "headline": "Special education access crisis: Youghal children forced to travel up to 120km for support",
+        "summary": "Parents in Youghal are campaigning for a local special education unit after children with additional needs are forced to commute up to 120 kilometers daily to access appropriate educational support. The lack of specialized school facilities in the area has created a significant burden on families and students. Educational advocates argue that the distances and travel times compromise both academic and social outcomes for vulnerable young people. The Department of Education is facing pressure to address regional imbalances in special education provision. This case exemplifies broader challenges in rural and regional education equity across Ireland.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41853354.html"
+          }
+        ],
+        "tags": [
+          "health",
+          "education",
+          "social"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-29T06:15:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Europe swelters under deadly May heatwave shattering temperature records",
+        "summary": "An exceptional heat dome is pushing temperatures across Europe to record-breaking levels for May, with the UK recording 35\u00b0C, France hitting its hottest May day ever, and Portugal, Spain, and southern regions experiencing daytime highs of 35-38\u00b0C. Scientists attribute the intensity and frequency of such heat waves to climate change, with what was previously a 1-in-100 year event now occurring roughly every 33 years. The extreme temperatures have already claimed lives, including four teenagers who drowned in English lakes during the heatwave. The combination of rapid temperature spikes and exceptional May heat is described as a \"brutal reminder of climate change\" and has prompted calls from the UN for Europe to shift to clean power to mitigate future impacts. Health officials across the continent have issued warnings and activated emergency protocols.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c3v2yv5207xo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260527-temperatures-soar-across-europe-as-heat-dome-drives-may-records-heatwave-france-uk-italy-spain"
+          },
+          {
+            "name": "EuroNews",
+            "url": "https://www.euronews.com/2026/05/28/a-brutal-reminder-of-climate-change-europes-may-heatwave-sparks-un-calls-to-shift-to-clean"
+          }
+        ],
+        "tags": [
+          "climate",
+          "weather",
+          "health"
+        ]
+      },
+      {
+        "headline": "Russian drone strikes residential building in Romania, escalating regional tensions",
+        "summary": "A Russian drone crashed into a residential apartment building in Galati, Romania near the Ukraine border, injuring two people and causing a fire that prompted evacuations. The incident drew sharp condemnation from Bucharest, which characterized the strike as an \"irresponsible escalation\" of the conflict. Romania, a NATO member state, is increasingly concerned about the spillover of the Ukraine war onto its territory, mirroring broader European fears that Russia may attempt limited attacks against Baltic states, Nordic countries, or NATO territories in the Arctic Circle to test Western resolve. The drone strike represents a direct consequence of the intensifying conflict in neighboring Ukraine and underscores the proximity of the war to NATO's eastern flank.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260529-russian-drone-hits-apartment-building-in-romania-near-ukraine-border"
+          }
+        ],
+        "tags": [
+          "defence",
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU's new Migration and Asylum Pact enters enforcement phase on June 12, 2026",
+        "summary": "The European Union's New Pact on Migration and Asylum will become fully operational on June 12, 2026, after a two-year transition period. The pact shows significant progress in implementation, with illegal border crossings at EU external borders falling 26% in 2025 compared to 2024. Key measures include the operational Entry/Exit System (EES) launched April 10, 2026, and the forthcoming European Travel Information and Authorization System (ETIAS) expected in late 2026. However, negotiations over return regulations\u2014which would introduce offshore deportation centers, longer detention periods, and stricter entry bans\u2014have stalled, with EU Parliament and member states unable to agree by May's deadline and resuming talks June 1. The comprehensive pact represents the EU's most significant overhaul of migration policy in decades.",
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://home-affairs.ec.europa.eu/news/commission-reports-progress-implementing-pact-migration-and-asylum-2026-05-08_en"
+          },
+          {
+            "name": "EuroNews",
+            "url": "https://www.euronews.com/my-europe/2026/05/21/eu-countries-and-parliament-clash-on-controversial-return-rules-for-migrants"
+          }
+        ],
+        "tags": [
+          "migration",
+          "governance",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Energy crisis deepens as gas prices surge 98%, threatening EU economic growth",
+        "summary": "European gas prices have skyrocketed 98% due to Middle East conflict disruptions and constraints on liquefied natural gas supplies, with approximately 20% of global LNG supplies from Qatar transiting through the threatened Strait of Hormuz. EU gas storage inventories stand at approximately 29% of capacity, near seasonal minimums and vulnerable to further supply shocks. The energy crisis is having severe economic consequences: forecasters including Vanguard have downgraded 2026 EU GDP growth from 1.2% to 0.8%, a reduction of 0.4 percentage points, assuming oil averaging $90-$100 per barrel and gas averaging \u20ac60/MWh for one to two quarters. Financial markets are experiencing increased volatility from the shock, with energy derivative trading surging. The European Commission and Eurogroup have initiated policy responses including targeted energy support and fertiliser price interventions.",
+        "sources": [
+          {
+            "name": "European Central Bank",
+            "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260506~1bbd4ed780.en.html"
+          },
+          {
+            "name": "European Stability Mechanism",
+            "url": "https://www.esm.europa.eu/blog/europe-navigating-new-world-what-watch-2026"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "energy"
+        ]
+      },
+      {
+        "headline": "Europe accelerates defense spending as US shifts strategic focus away from continent",
+        "summary": "The United States is reducing its military commitment to NATO, planning significant cuts to fighter jets, strategic bombers, submarines, and other assets in Europe as the 2026 National Defense Strategy prioritizes Indo-Pacific and Middle Eastern theaters. In response, European NATO members are dramatically increasing defense budgets: Germany's spending rose 23% in 2024 and 18% in 2025, projected to reach \u20ac117.2 billion in 2026 and \u20ac162 billion by 2029 (3.2% of GDP); Poland now allocates 4.48% of GDP to defense; and Baltic states allocate 3.38-4.00%. The alliance is implementing new deterrence strategies including \"autonomous zones\" on the eastern flank with unmanned systems, linked sensors, and long-range fires to detect Russian incursions. Congressional restrictions require certification before troop reductions, limiting the scale of US withdrawal. This structural shift marks a fundamental realignment of NATO's defense architecture.",
+        "sources": [
+          {
+            "name": "European Policy Centre",
+            "url": "https://www.epc.eu/publication/americas-new-defence-strategy-and-europes-moment-of-truth/"
+          },
+          {
+            "name": "Defense News",
+            "url": "https://www.defensenews.com/global/europe/2026/05/20/nato-eastern-deterrence-strategy-takes-shape-around-autonomous-zone/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU prepares aggressive tech enforcement amid US trade war threats",
+        "summary": "The European Union is entering an expansionary phase of tech regulation in 2026, with enforcement escalating across multiple frameworks. The AI Act becomes fully enforceable in August 2026, requiring rigorous impact assessments and human oversight for high-risk systems in hiring, law enforcement, and healthcare. The Digital Markets Act and Digital Services Act enforcement will target Apple, Google, Meta, Amazon, and Microsoft, with potential combined fines exceeding \u20ac100 billion. The European Commission is also evaluating the DMA's effectiveness by May 3, 2026, and has launched a new Digital Networks Act to overhaul telecommunications regulation. However, President Trump has threatened \"immediate and substantial retaliation\" against these enforcement actions, raising the prospect of the largest transatlantic trade war in decades. The EU has pledged to stand firm on its regulatory approach despite retaliatory threats.",
+        "sources": [
+          {
+            "name": "ReedSmith Legal Insights",
+            "url": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102lyiv/"
+          },
+          {
+            "name": "The Register",
+            "url": "https://www.theregister.com/2026/01/05/eu_us_tech_regulation"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "trade",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Europe considers diplomatic engagement with Russia as Ukraine war stalls",
+        "summary": "As the Ukraine conflict enters its fifth year with Russia maintaining tactical initiative in parts of the front, European strategic thinking is shifting. Rather than the previous \"maximum weapons for Kiev, minimum dialogue with the Kremlin\" formula, Europe is increasingly debating whether negotiation with Russia is necessary. France24 reports that Europe must first choose an appropriate envoy and align internally on negotiating positions before approaching Russia. Smaller groups of European states have coordinated outreach to Washington to press for a unified transatlantic stance, with some effect seen in coordinated sanctions and US commitment to post-ceasefire security guarantees. However, security officials remain concerned about Russian escalation risks, including potential limited attacks on Baltic coastal states, Swedish or Danish islands, or Arctic NATO territories designed to test Western resolve. The debate reflects growing recognition that military stalemate may require diplomatic solutions.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260528-talk-to-russia-first-europe-needs-to-pick-an-envoy-%E2%80%93-and-know-what-it-wants-to-say"
+          },
+          {
+            "name": "Atlantic Council",
+            "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/europe-needs-ukraine-as-it-looks-to-counter-growing-russian-threat/"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "governance"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-29T12:00:00Z",
+    "source_status": {
+      "reuters": "rss_no_content",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Israel intensifies military assault on Lebanon, orders mass evacuations affecting 14% of country",
+        "summary": "Israel has escalated its military campaign against Lebanon, issuing evacuation orders for all areas south of the Zahrani River affecting approximately 14% of the country's territory, including much of the city of Tyre. Recent Israeli air strikes have killed at least 19 people and wounded 58 others in Lebanon, with the first strike on Beirut in three weeks occurring as tensions escalate. Since March, over one million Lebanese people\u2014nearly a fifth of the country's population\u2014have been displaced by the conflict. US-mediated ceasefire negotiations between Israel and Lebanon are scheduled to resume Thursday with technical discussions, though the ongoing military intensification raises questions about diplomatic prospects. The humanitarian crisis continues to deepen with mass displacement and civilian casualties mounting.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "US and Iran reach tentative 60-day ceasefire extension agreement pending Trump approval",
+        "summary": "The United States and Iran have reached a preliminary memorandum of understanding to extend their current ceasefire for 60 days and begin negotiations toward a permanent resolution to their ongoing conflict. The agreement still requires final approval from President Trump, who requested several days to consider the deal. Key terms include addressing Iran's stockpile of highly enriched uranium during the 60-day negotiation period, with the Trump administration emphasizing the need for complete dismantling of Iran's nuclear program. The agreement comes despite recent escalations, including overnight clashes where US forces shot down four Iranian drones and struck a launch unit near the Strait of Hormuz. Both sides have accused each other of truce violations, making the extended ceasefire period critical for diplomatic progress.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Blue Origin's New Glenn rocket explodes on launchpad in Florida during static fire test",
+        "summary": "Blue Origin experienced a major setback when its New Glenn rocket exploded Thursday night on a launch pad at Cape Canaveral, Florida, during a static fire test. The explosion resulted in the loss of both the brand new booster and its second stage, marking one of the largest rocket explosions in US history and the worst failure in Blue Origin's operational history. No injuries were reported, with all personnel accounted for at the time of the incident. The rocket was being prepared for its fourth launch, which was scheduled to carry Amazon Leo internet satellites to space in the coming weeks. The explosion is a significant setback for Blue Origin's ambitious plans, including partnerships with NASA for lunar base development and the broader competition with SpaceX in the commercial space industry.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/29/blue-origins-new-glenn-rocket-explodes-on-launch-pad?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Anthropic AI company soars to $965 billion valuation, surpassing OpenAI in market value",
+        "summary": "Anthropic, the AI company behind Claude, has reached a valuation of $965 billion following a major funding round of $65 billion from investors, leapfrogging rival OpenAI in market capitalization. The substantial investment positions Anthropic ahead of the planned initial public offering, reflecting strong investor confidence in the company's AI technology and business model. This dramatic valuation increase underscores the intense competition in the artificial intelligence sector and the massive capital flows into generative AI development. The funding round comes as Anthropic continues to develop and improve its Claude AI platform. The company's ascent to the top of the AI valuation rankings represents a significant shift in the competitive landscape of the generative AI industry.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Trump administration designates two Brazilian criminal organizations as terrorist groups",
+        "summary": "The Trump administration has moved to designate two major Brazilian gangs as terrorist organizations, marking an escalation in the US approach to Latin American crime and drug trafficking. The designation is part of a broader policy strategy using crime and gang violence as justification for expanding US military influence across the region. This action represents an intensification of US intervention in Latin American security matters and reflects geopolitical interests in maintaining influence over the hemisphere. The designations carry significant implications for international law enforcement cooperation and military assistance to regional allies. The policy reflects the administration's hardline approach to transnational organized crime in the Western Hemisphere.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "conflict",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Colombian voters head to polls to choose between competing visions for the nation's future",
+        "summary": "Colombia holds elections today with voters deciding between two distinct visions for the country's political and economic direction. The electoral choice represents a significant moment for Colombia's governance and policy direction. The election comes at a critical juncture for the South American nation as it addresses longstanding issues including security, economic development, and social reform. Voters face competing platforms with different approaches to addressing the country's challenges and priorities. The outcome will shape Colombia's domestic and international policy orientation in the coming years.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/colombias-voters-will-decide-between-two-visions-for-the-country?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "politics",
+          "governance",
+          "elections"
+        ]
+      },
+      {
+        "headline": "Crews recover remains of six workers following Washington state chemical facility tank rupture",
+        "summary": "Recovery operations at a Washington chemical facility have located the remains of six of the nine workers missing after a catastrophic tank rupture incident. The disaster resulted in significant loss of life at the industrial facility, with three additional workers still unaccounted for. The incident represents a major industrial accident with serious safety and environmental implications. Emergency response crews continue search and recovery operations at the site. The accident highlights workplace safety concerns in chemical manufacturing and storage operations.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVI4YkFpLTBBQkZoRU9aVmIyRUVxdGwzS2FCdkQwQ1RQeUNRX3I5MHM5UlIyMzdsNU1JNlNlZHVDUkVwMkwwTXBzdkpxbU9JMklFUnFaRjlxaFI2T0VmbmhJeDljS0xDQ0lkNlUzWFVLekpRV1EyQTlTeVdWYzc5TjU2RU1aaEd5c0MxR3RLNHpGRjNBb1lSSHNzUGNfZkRLTFE"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "US Treasury confirms plans for $250 banknote featuring sitting president Trump",
+        "summary": "The US Treasury Department has confirmed plans to issue a new $250 banknote bearing the likeness of President Trump, marking a historic policy shift. The proposed currency denomination would be the first time in more than a century that a living person has appeared on US currency, breaking with long-standing tradition. The move represents a significant change in American monetary policy and constitutional practice. The new note would join existing US denominations and become part of the nation's currency circulation. The decision reflects the current administration's approach to reshaping American institutions and symbols.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "governance",
+          "politics",
+          "economy"
+        ]
+      }
+    ]
+  }
+}
