@@ -1,0 +1,71 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-05-31T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "rss_limited_used_websearch",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "rss_limited_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Israel expands ground invasion into Lebanon as US-Iran peace deal stalls",
+      "summary": "Israeli military forces have advanced beyond the Litani River into southern Lebanon for the first time since 2006, reaching the city of Nabatieh while continuing airstrikes on residential areas. Lebanon's Prime Minister Nawaf Salam accused Israel of pursuing a \"scorched-earth policy\" and collective punishment. The expansion occurs as US-Iran ceasefire negotiations remain incomplete, with Iran's Foreign Ministry stating that a memorandum of understanding has not yet been finalized. US Defense Secretary Pete Hegseth warned that the US military is prepared to resume combat operations in the Gulf if needed, while cautioning Iran against launching strikes if peace talks fail. The conflict, which began with joint US-Israeli operations in February targeting Iran's leadership, has now shifted to a grinding ground war in Lebanon with humanitarian concerns mounting.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting"}
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "China's rapid military buildup threatens regional stability as Japan and Taiwan increase defenses",
+      "summary": "Japan's defense establishment refuted accusations of \"new militarism\" while pointing to China's rapidly accelerating military expansion as the primary source of regional instability. Taiwan scrambled ships and fighter jets to monitor the second Chinese \"joint combat readiness patrol\" in a week, highlighting Beijing's pressure campaign around the island. China's military modernization is eroding Western air superiority assumptions in the Pacific, with estimates suggesting the People's Liberation Army produces around 120 J-20A fifth-generation stealth fighters annually—exceeding US Air Force F-35 procurement. Beyond Taiwan, China is systematically expanding military engagement across the Southwest Pacific, Indian Ocean, and Australia's maritime approaches, normalizing its defense presence through a long-term strategy rather than dramatic shows of force. US Defense Secretary Pete Hegseth acknowledged \"rightful alarm\" over China's buildup while striking a more moderate tone on overall US-China relations at the Shangri-La regional security dialogue.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3JyTWx2MGQwX0JxME5sTjUweXZKRTY1SFh5ZjlnX3NkVXpka3VHZjd3UXlzRzFIbDdOZGR6YVE"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Colombia holds first round of presidential election amid violence and corruption concerns",
+      "summary": "Colombian voters cast ballots on May 31 in the first round of presidential elections to choose a successor to incumbent Gustavo Petro, who is constitutionally barred from seeking a second consecutive term. The three main candidates—left-wing senator Iván Cepeda, right-wing outsider Abelardo de la Espriella, and center-right Paloma Valencia—represent starkly different visions for the nation's future. Violence and corruption remain top voter concerns, with the election taking place amid ongoing security challenges across the country. A candidate requires more than 50 percent of the vote to win outright; otherwise, a runoff will be held on June 21 between the top two vote-getters. Polling suggests Cepeda maintains a lead but will likely fall short of an outright majority, setting up a competitive second round.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election"}
+      ],
+      "tags": ["politics", "election", "diplomacy"]
+    },
+    {
+      "headline": "Rescue operations continue in Laos as more survivors extracted from flooded cave",
+      "summary": "Rescue divers in Laos have successfully pulled four additional villagers from a flooded cave system, continuing a multi-day operation that began when the first survivor was rescued on Friday. The rescue efforts highlight the dangers of seasonal flooding in Southeast Asia and the challenges rescue teams face accessing remote cave systems. Emotional scenes marked each extraction as families were reunited with survivors. The incident underscores the region's vulnerability to heavy rains and flash flooding during monsoon season. International and local rescue workers collaborated to navigate the dangerous conditions and retrieve the trapped individuals.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_more-survivors-pulled-from-flooded-laos-cave-300526"}
+      ],
+      "tags": ["humanitarian", "disaster", "rescue"]
+    },
+    {
+      "headline": "Syria responds to crisis as Euphrates River flooding displaces residents",
+      "summary": "Rescue workers in eastern Syria pulled stranded farmers from flood waters after the Euphrates River burst its banks, causing widespread displacement and emergency response operations. The flooding created dangerous conditions as the swollen river swept away agricultural land and threatened rural communities dependent on the waterway. Syrian rescue teams coordinated efforts to locate and extract residents from isolated areas cut off by rising waters. The incident reflects the region's ongoing vulnerability to natural disasters compounding existing humanitarian challenges. Water management and flood preparedness remain critical issues for communities across the Euphrates watershed.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks"}
+      ],
+      "tags": ["humanitarian", "climate", "disaster"]
+    },
+    {
+      "headline": "Thousands in Peru protest presidential bid of Keiko Fujimori",
+      "summary": "Large demonstrations erupted in Lima as thousands of Peruvians took to the streets to protest the presidential aspirations of Keiko Fujimori, whose father Alberto Fujimori served as Peru's controversial president from 1990 to 2000. The protests reflect ongoing political divisions in Peru regarding the Fujimori family's legacy and their continued influence in national politics. Demonstrators expressed concerns about authoritarianism and human rights issues associated with the Fujimori era. The scale of the opposition indicates significant public concern about a potential return to power by members of the controversial political family. The demonstrations underscore Peru's fraught political landscape and efforts by citizens to shape electoral outcomes.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526"}
+      ],
+      "tags": ["politics", "protest", "democracy"]
+    },
+    {
+      "headline": "Hundreds arrested in France after Champions League celebrations turn chaotic",
+      "summary": "French police arrested hundreds of individuals as celebrations erupted following Paris Saint-Germain's victory over Arsenal in the Champions League final. Thousands of fans gathered in public spaces, with some firing flares and causing civil unrest that prompted a large police response across Paris. French authorities deployed hundreds of officers to manage crowds and prevent violence as celebrations escalated. The incidents highlight the passion surrounding European football's marquee competition and the challenges cities face managing large fan gatherings. PSG's victory marks a significant achievement for the French club in continental competition.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"}
+      ],
+      "tags": ["sport", "society", "order"]
+    }
+  ]
+}

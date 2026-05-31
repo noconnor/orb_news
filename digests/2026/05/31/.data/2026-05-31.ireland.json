@@ -1,0 +1,125 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-05-31T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Dublin Airport braces for record-breaking passenger numbers this bank holiday weekend",
+      "summary": "Dublin Airport is expecting its busiest day in history with predictions of more than 130,000 outbound and inbound passengers on May 31st. The surge coincides with the bank holiday weekend and summer travel season, placing significant demand on airport infrastructure and services. Airport operations have been scaled up to handle the unprecedented volume of travellers. This milestone underscores growing demand for European and international travel from Irish passengers. The airport's management has prepared additional resources to manage queues and ensure smooth passenger flow.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/ireland/2026/0531/1576078-dublin-airport-june/"
+        }
+      ],
+      "tags": ["transport", "economy"]
+    },
+    {
+      "headline": "Man charged with murder of Galway woman as investigation closes quickly",
+      "summary": "Ali Sohrabi, a 35-year-old with no fixed abode, has been charged with the murder of Masoumeh Manojan, a hotel worker and mother of two, who was found dead in Clifden, County Galway. The death occurred between May 27-28, and Sohrabi's arrest came swiftly as part of the garda investigation. He appeared in court facing serious charges. The case has drawn significant media attention across Irish news outlets. The swift resolution represents effective police work in investigating a serious crime.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/man-charged-murder-clifden-galway-7057168-May2026/"
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/05/30/man-appears-in-court-accused-of-murdering-mother-of-two-in-co-galway/"
+        },
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41854332.html"
+        }
+      ],
+      "tags": ["crime", "politics"]
+    },
+    {
+      "headline": "Dublin civil servant accused of leaking state secrets to foreign intelligence handlers",
+      "summary": "Yevgen McKeeffe, a Ukrainian-born Irish citizen employed as a civil servant in Dublin, has been arrested and charged with leaking confidential government information to foreign intelligence handlers. The arrest occurred at Dublin Airport on Thursday after an investigation into information disclosure to unknown operatives. The case raises serious concerns about national security and foreign interference in Irish government operations. McKeeffe appeared in court facing charges related to the alleged disclosure of state secrets. The incident highlights vulnerabilities in government information security protocols.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/05/30/civil-servant-accused-of-leaking-confidential-information-to-foreign-handlers-court-hears/"
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/dublin-civil-servant-charged-with-leaking-government-information-to-a-foreign-intelligence-service-7056660-May2026/"
+        }
+      ],
+      "tags": ["crime", "defence"]
+    },
+    {
+      "headline": "Protesters demand independent inquiry into death of Yves Sakila on Dublin street",
+      "summary": "Around 100 protesters gathered in Dublin to demand an independent investigation into the death of Yves Sakila, a Congolese man who died after being restrained on Henry Street. The incident allegedly followed an accusation of shoplifting, sparking controversy over police restraint practices and racial sensitivity. The demonstration reflects community concerns about the circumstances surrounding his death and calls for accountability. Protesters are pushing for an external probe rather than internal garda investigation. The case has become a focal point for discussions about policing and community relations in Dublin.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/yves-sakila-protest-2-7056843-May2026/"
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/05/30/let-us-be-no-more-silent-protesters-keep-up-pressure-over-death-of-yves-sakila/"
+        }
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "Rising tide of far-right attacks targets Dublin council housing with racial threats",
+      "summary": "Dublin council properties are experiencing a surge in racially motivated attacks and threats, with far-right activists vandalising vacant homes and making inflammatory anti-immigrant statements such as 'Irish only or it burns'. These incidents often follow unfounded rumours that ethnic-minority families are being prioritised for housing allocation ahead of Irish nationals. The attacks exploit existing tensions over council housing shortages in working-class Dublin estates. Far-right groups are using housing frustrations as a recruitment and radicalisation tool. This trend underscores growing concerns about extremism and hate crimes in Ireland's capital.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/05/30/irish-only-or-it-burns-rise-in-racially-motivated-attacks-on-dublin-council-homes/"
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/05/30/irish-only-or-it-burns-how-the-far-right-targets-dublins-council-houses/"
+        }
+      ],
+      "tags": ["crime", "housing", "social"]
+    },
+    {
+      "headline": "Leaving Certificate exams begin next week with pharmacists warning students to manage health during exam season",
+      "summary": "With Leaving Certificate exams set to commence next week, Irish pharmacists are warning students and parents that even minor health conditions like hay fever or poor sleep can significantly impair concentration and academic performance during the high-pressure exam period. The advisory emphasises the importance of managing physical and mental wellbeing while preparing for one of Ireland's most critical educational assessments. Students are being encouraged to prioritise sleep, nutrition, and stress management throughout the exam season. The warning comes as thousands of students across Ireland prepare for examinations that will determine their university and career prospects. Proper health management during this period is critical for optimal exam performance.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/leaving-cert-exam-season-advice-7054828-May2026/"
+        }
+      ],
+      "tags": ["health", "social"]
+    },
+    {
+      "headline": "Alex Coughlan laid to rest following fatal Blanchardstown assault weeks earlier",
+      "summary": "Alex Coughlan, a 37-year-old man, was remembered at his funeral this week following his death from injuries sustained in an assault in Blanchardstown several weeks prior. His sister Zara delivered tributes describing him as the 'glue of the family' and a person of great character. The incident highlighted ongoing concerns about street violence in Dublin communities. Mourners gathered to pay their respects to a man described as having a profound positive impact on his family and those around him. The case reflects broader concerns about assault and violence in Irish urban areas.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/05/30/truly-beautiful-soul-alex-coughlan-remembered-at-funeral-after-blanchardstown-assault/"
+        },
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/alex-coughlan-funeral-7056693-May2026/"
+        }
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "DART rail disruptions continue through bank holiday weekend as maintenance works resume",
+      "summary": "Dublin's DART rail service faces further disruptions this bank holiday weekend as scheduled maintenance works resume between Connolly and Greystones stations. Irish Rail announced extra services on alternative routes to accommodate major outdoor events planned across the capital during the busy weekend. The disruption, while frustrating for commuters, is necessary for infrastructure upkeep and safety. Irish Rail has sought to mitigate inconvenience by providing replacement bus services and increased frequency on unaffected lines. The timing during a major holiday period has drawn mixed reactions from Dublin residents and visitors.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/dart-connolly-greystones-suspended-7055486-May2026/"
+        }
+      ],
+      "tags": ["transport", "economy"]
+    }
+  ]
+}

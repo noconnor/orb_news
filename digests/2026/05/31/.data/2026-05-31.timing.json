@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-31",
+  "update_type": "morning",
+  "total_seconds": 496,
+  "steps": {
+    "gather_parallel_s": 74,
+    "digest_writer_s": 308,
+    "audio_s": 60,
+    "setup_commit_s": 54
+  },
+  "agents": {
+    "gather": "haiku x3",
+    "digest_writer": "sonnet x1"
+  },
+  "estimated_cost_usd": 0.38
+}

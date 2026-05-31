@@ -1,0 +1,46 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Israel expands ground invasion into Lebanon as US-Iran peace deal stalls",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "The 1982 Lebanon War, 2006 Lebanon War, Tanker War, and War Powers Resolution",
+      "date_range": "1973–2006",
+      "summary": "Israel's advance beyond the Litani River echoes two prior incursions into Lebanese territory. In 1982, Operation Peace for Galilee drove deep into Lebanon and resulted in an eighteen-year occupation and the emergence of Hezbollah. The 2006 Lebanon War ended with UN Resolution 1701 establishing a ceasefire but left underlying political dynamics unresolved, with Hezbollah emerging politically strengthened. The Tanker War of 1984–1988 and the Iran-Iraq War demonstrated how conflicts centred on Iran tend to draw in external powers, disrupt Gulf energy flows, and resist clean diplomatic resolution. The War Powers Resolution context highlights the persistent difficulty of constraining US executive military authority once operations begin.",
+      "parallel_analysis": "The current stalled US-Iran negotiations and ongoing ground operations in Lebanon closely replay the pattern established by both 1982 and 2006: initial tactical gains accompanied by strategic complications that outlast the original military rationale. The combination of incomplete ceasefire frameworks, ongoing military operations, and US executive assertions of authority without clear congressional authorisation mirrors the conditions that have historically made Middle Eastern conflicts far more durable than their architects anticipated.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "China's rapid military buildup threatens regional stability as Japan and Taiwan increase defenses",
+      "story_topic": "China Pacific military buildup",
+      "historical_event": "Soviet Naval Buildup Under Admiral Gorshkov (1956–1985)",
+      "date_range": "1956–1985",
+      "summary": "Under Fleet Admiral Sergei Gorshkov, the Soviet Navy transformed from a limited coastal defence force into a global strategic rival to the United States. By 1990 it had grown to over 1,000 ships and 1,170 aircraft, with submarines, missile-armed surface vessels, and naval aviation units deployed across the Mediterranean, the Indian Ocean, and the Pacific. Gorshkov's strategy deliberately avoided matching Western carrier power directly, instead building asymmetric capabilities — fast missile boats, anti-carrier submarines, land-based maritime strike aircraft — designed to deny the US Navy freedom of movement and disrupt Western sea lines of communication. By the 1970s, Soviet submarine technology in some categories exceeded that of the United States, forcing a comprehensive and costly US Navy response.",
+      "parallel_analysis": "China's current approach — outpacing F-35 production with the J-20A stealth fighter, expanding naval reach across the Pacific and Indian Ocean, and applying sustained pressure across multiple theatres simultaneously — follows a recognisably Gorshkovian logic: not to win a direct confrontation, but to erode the margins of Western superiority until the strategic balance shifts. The principal difference is that China is pursuing this from a far larger economic base and with faster industrial capacity than the Soviet Union ever achieved, making the pace of the challenge considerably more acute than anything Gorshkov's planners could have managed.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Soviet_Navy"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Norway joins French nuclear deterrence framework, becoming ninth EU ally under France's nuclear umbrella",
+      "story_topic": "US NATO forward deployment Eastern Europe",
+      "historical_event": "France's Withdrawal from NATO's Integrated Military Command (1966), Exercise REFORGER (1969–1993), and Post-Cold War USAREUR Drawdown",
+      "date_range": "1966–2013",
+      "summary": "France's 1966 withdrawal from NATO's integrated military command under de Gaulle was a unilateral assertion of strategic autonomy that preserved France's independent nuclear force as a sovereign instrument, now available as the foundation for European security leadership. Exercise REFORGER — the annual exercises from 1969 to 1993 demonstrating America's willingness to surge forces back into Western Europe — created a security architecture so dependent on US forward presence that any perceived weakening triggers alternative European arrangements. The post-Cold War drawdown of US Army Europe forces removed much of the physical underpinning of the transatlantic guarantee, leaving European governments to conclude that sovereignty over their own deterrence is a strategic necessity.",
+      "parallel_analysis": "Norway's accession to the French nuclear framework is, in this historical context, less a departure from the transatlantic order than a pragmatic adaptation to its changing terms. The irony is that de Gaulle's 1966 withdrawal — designed as a nationalist rejection of American dominance — has provided the institutional and doctrinal foundation for exactly the kind of multilateral European deterrence framework that now supplements rather than supplants the Atlantic alliance.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/France_and_NATO",
+        "https://en.wikipedia.org/wiki/Exercise_REFORGER",
+        "https://en.wikipedia.org/wiki/United_States_Army_Europe_and_Africa"
+      ]
+    }
+  ]
+}

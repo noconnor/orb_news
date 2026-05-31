@@ -1,0 +1,399 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-05-31T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Dublin Airport braces for record-breaking passenger numbers this bank holiday weekend",
+        "summary": "Dublin Airport is expecting its busiest day in history with predictions of more than 130,000 outbound and inbound passengers on May 31st. The surge coincides with the bank holiday weekend and summer travel season, placing significant demand on airport infrastructure and services. Airport operations have been scaled up to handle the unprecedented volume of travellers. This milestone underscores growing demand for European and international travel from Irish passengers. The airport's management has prepared additional resources to manage queues and ensure smooth passenger flow.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0531/1576078-dublin-airport-june/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Man charged with murder of Galway woman as investigation closes quickly",
+        "summary": "Ali Sohrabi, a 35-year-old with no fixed abode, has been charged with the murder of Masoumeh Manojan, a hotel worker and mother of two, who was found dead in Clifden, County Galway. The death occurred between May 27-28, and Sohrabi's arrest came swiftly as part of the garda investigation. He appeared in court facing serious charges. The case has drawn significant media attention across Irish news outlets. The swift resolution represents effective police work in investigating a serious crime.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/man-charged-murder-clifden-galway-7057168-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/05/30/man-appears-in-court-accused-of-murdering-mother-of-two-in-co-galway/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41854332.html"
+          }
+        ],
+        "tags": [
+          "crime",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Dublin civil servant accused of leaking state secrets to foreign intelligence handlers",
+        "summary": "Yevgen McKeeffe, a Ukrainian-born Irish citizen employed as a civil servant in Dublin, has been arrested and charged with leaking confidential government information to foreign intelligence handlers. The arrest occurred at Dublin Airport on Thursday after an investigation into information disclosure to unknown operatives. The case raises serious concerns about national security and foreign interference in Irish government operations. McKeeffe appeared in court facing charges related to the alleged disclosure of state secrets. The incident highlights vulnerabilities in government information security protocols.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/courts/2026/05/30/civil-servant-accused-of-leaking-confidential-information-to-foreign-handlers-court-hears/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/dublin-civil-servant-charged-with-leaking-government-information-to-a-foreign-intelligence-service-7056660-May2026/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Protesters demand independent inquiry into death of Yves Sakila on Dublin street",
+        "summary": "Around 100 protesters gathered in Dublin to demand an independent investigation into the death of Yves Sakila, a Congolese man who died after being restrained on Henry Street. The incident allegedly followed an accusation of shoplifting, sparking controversy over police restraint practices and racial sensitivity. The demonstration reflects community concerns about the circumstances surrounding his death and calls for accountability. Protesters are pushing for an external probe rather than internal garda investigation. The case has become a focal point for discussions about policing and community relations in Dublin.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/yves-sakila-protest-2-7056843-May2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/05/30/let-us-be-no-more-silent-protesters-keep-up-pressure-over-death-of-yves-sakila/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Rising tide of far-right attacks targets Dublin council housing with racial threats",
+        "summary": "Dublin council properties are experiencing a surge in racially motivated attacks and threats, with far-right activists vandalising vacant homes and making inflammatory anti-immigrant statements such as 'Irish only or it burns'. These incidents often follow unfounded rumours that ethnic-minority families are being prioritised for housing allocation ahead of Irish nationals. The attacks exploit existing tensions over council housing shortages in working-class Dublin estates. Far-right groups are using housing frustrations as a recruitment and radicalisation tool. This trend underscores growing concerns about extremism and hate crimes in Ireland's capital.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/05/30/irish-only-or-it-burns-rise-in-racially-motivated-attacks-on-dublin-council-homes/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/05/30/irish-only-or-it-burns-how-the-far-right-targets-dublins-council-houses/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "housing",
+          "social"
+        ]
+      },
+      {
+        "headline": "Leaving Certificate exams begin next week with pharmacists warning students to manage health during exam season",
+        "summary": "With Leaving Certificate exams set to commence next week, Irish pharmacists are warning students and parents that even minor health conditions like hay fever or poor sleep can significantly impair concentration and academic performance during the high-pressure exam period. The advisory emphasises the importance of managing physical and mental wellbeing while preparing for one of Ireland's most critical educational assessments. Students are being encouraged to prioritise sleep, nutrition, and stress management throughout the exam season. The warning comes as thousands of students across Ireland prepare for examinations that will determine their university and career prospects. Proper health management during this period is critical for optimal exam performance.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/leaving-cert-exam-season-advice-7054828-May2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social"
+        ]
+      },
+      {
+        "headline": "Alex Coughlan laid to rest following fatal Blanchardstown assault weeks earlier",
+        "summary": "Alex Coughlan, a 37-year-old man, was remembered at his funeral this week following his death from injuries sustained in an assault in Blanchardstown several weeks prior. His sister Zara delivered tributes describing him as the 'glue of the family' and a person of great character. The incident highlighted ongoing concerns about street violence in Dublin communities. Mourners gathered to pay their respects to a man described as having a profound positive impact on his family and those around him. The case reflects broader concerns about assault and violence in Irish urban areas.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/05/30/truly-beautiful-soul-alex-coughlan-remembered-at-funeral-after-blanchardstown-assault/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/alex-coughlan-funeral-7056693-May2026/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "DART rail disruptions continue through bank holiday weekend as maintenance works resume",
+        "summary": "Dublin's DART rail service faces further disruptions this bank holiday weekend as scheduled maintenance works resume between Connolly and Greystones stations. Irish Rail announced extra services on alternative routes to accommodate major outdoor events planned across the capital during the busy weekend. The disruption, while frustrating for commuters, is necessary for infrastructure upkeep and safety. Irish Rail has sought to mitigate inconvenience by providing replacement bus services and increased frequency on unaffected lines. The timing during a major holiday period has drawn mixed reactions from Dublin residents and visitors.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/dart-connolly-greystones-suspended-7055486-May2026/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "economy"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-05-31T06:01:23Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "rss_failed_used_websearch",
+      "euronews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Norway joins French nuclear deterrence framework, becoming ninth EU ally under France's nuclear umbrella",
+        "summary": "Norway formally joined France's nuclear deterrence initiative on May 27, 2026, signed by President Emmanuel Macron and Norwegian Prime Minister Jonas Gahr Store in Paris. The agreement makes Norway the ninth country to come under France's \"forward nuclear deterrence\" doctrine, which extends French strategic nuclear protection to European partners. Norway emphasized that participation does not mean deployment of nuclear weapons on its territory in peacetime and represents an additional security layer within NATO rather than a rejection of American guarantees. The framework reflects heightened European security concerns amid geopolitical tensions. Prior signatories include Belgium, Denmark, Germany, Greece, the Netherlands, Poland, Sweden, and the United Kingdom.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20250527-norway-becomes-ninth-country-to-come-under-french-nuclear-umbrella"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-27/macron-says-norway-agrees-to-work-closely-on-nuclear-deterrence"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "EU simplifies AI Act with extended compliance deadlines and new prohibitions on harmful AI content",
+        "summary": "The European Union agreed on May 7, 2026 to amend the AI Act through the Digital Omnibus agreement, marking the first major update since the legislation's adoption in June 2024. High-risk AI system compliance deadlines were extended significantly\u2014from August 2026 to December 2027 for use-based systems and from August 2027 to August 2028 for product-regulated systems. The agreement introduced new prohibitions on AI-generated non-consensual intimate imagery and child sexual abuse material, effective December 2, 2026. The changes aim to balance regulatory compliance with technological innovation while protecting citizens from harmful AI applications. The amendments reduce regulatory duplication and provide businesses additional time to adapt their systems.",
+        "sources": [
+          {
+            "name": "Consilium",
+            "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/05/21/the-eu-simplified-its-toughest-ai-law-what-changed-and-why-it-matters"
+          }
+        ],
+        "tags": [
+          "regulation",
+          "technology",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Austrian protesters block Brenner motorway for eight hours over traffic pollution and noise concerns",
+        "summary": "Approximately 3,000 demonstrators, led by Mayor Karl Muehlsteiger of Gries am Brenner, shut down Austria's vital Brenner motorway on May 31, 2026 to protest rising traffic congestion, noise, and pollution affecting Alpine communities. The protest blocked the key transit route between Germany and Italy from 11:00 am to 7:00 pm local time, with authorities closing the A13 motorway, B182 road, and L38 road in both directions. Communities in Tyrol have long complained about increasing traffic, with lorry numbers more than doubling since 2000 and nearly 11 million cars and 2.5 million commercial vehicles using the route annually. Despite advance warnings of potential major disruptions, traffic impacts were minimal according to Austrian motorway operator reports.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/05/30/austrian-protesters-shut-brenner-motorway-on-saturday-over-pollution"
+          },
+          {
+            "name": "US News",
+            "url": "https://www.usnews.com/news/world/articles/2026-05-30/austrian-protesters-shut-vital-motorway-connecting-germany-to-italy"
+          }
+        ],
+        "tags": [
+          "climate",
+          "transport",
+          "protest"
+        ]
+      },
+      {
+        "headline": "PSG retains Champions League title with penalty shootout victory over Arsenal in Budapest final",
+        "summary": "Paris Saint-Germain defeated Arsenal 4-3 on penalties to win their second consecutive UEFA Champions League title on May 30, 2026, at the Pusk\u00e1s Ar\u00e9na in Budapest. The match ended 1-1 after extra time, with Kai Havertz's sixth-minute opener for Arsenal cancelled out by PSG's Ousmane Demb\u00e9l\u00e9's penalty in the second half. Arsenal's Gabriel blazed over the decisive spot kick, denying the English club their first Champions League title in the club's 140-year history. The victory marks a significant continental achievement for the French club and caps a remarkable European season. Celebrations in Paris following the victory led to hundreds of arrests as police managed unrest among jubilant supporters.",
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/05/30/sport/live-news/arsenal-psg-champions-league-final-score"
+          }
+        ],
+        "tags": [
+          "sport",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Hundreds arrested in France following PSG Champions League victory celebrations and unrest in Paris",
+        "summary": "French police arrested hundreds of people in Paris on May 31, 2026 as thousands of supporters celebrated PSG's Champions League victory over Arsenal in chaotic scenes across the city. Thousands of officers were deployed to manage crowds of jubilant fans, some of whom fired flares and caused unrest in the streets. The celebrations, following the team's dramatic penalty shootout win in Budapest, drew massive crowds to public spaces and required significant police presence to maintain order. Authorities documented numerous arrests related to public disorder during the festivities. The incidents highlight the intensity of French football culture and the challenges authorities face managing large crowds during major sporting events.",
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "sport",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Ukraine conducts fresh military offensive as forces liberate villages and strike Russian oil infrastructure",
+        "summary": "Ukraine's military conducted overnight operations on May 30, 2026 targeting Russian oil infrastructure in occupied territories while advancing on the southern front. Ukrainian forces reportedly liberated the village of Novoselivka in Dnipropetrovsk Oblast from Russian occupation as part of a broader offensive push. The operations reflect continued Ukrainian military activity and efforts to reclaim territory despite the ongoing conflict. International support for Ukraine continues, with Japan purchasing over $14 million in military equipment through NATO weapons programs, though Japan's contributions remain limited to non-lethal assistance. These developments underscore the sustained military pressure and international backing supporting Ukraine's defence efforts against Russian occupation.",
+        "sources": [
+          {
+            "name": "Kyiv Independent",
+            "url": "https://kyivindependent.com/"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/video/2026/05/30/latest-news-bulletin-may-30th-2026-morning"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "defence"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-05-31T06:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "rss_limited_used_websearch",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "rss_limited_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Israel expands ground invasion into Lebanon as US-Iran peace deal stalls",
+        "summary": "Israeli military forces have advanced beyond the Litani River into southern Lebanon for the first time since 2006, reaching the city of Nabatieh while continuing airstrikes on residential areas. Lebanon's Prime Minister Nawaf Salam accused Israel of pursuing a \"scorched-earth policy\" and collective punishment. The expansion occurs as US-Iran ceasefire negotiations remain incomplete, with Iran's Foreign Ministry stating that a memorandum of understanding has not yet been finalized. US Defense Secretary Pete Hegseth warned that the US military is prepared to resume combat operations in the Gulf if needed, while cautioning Iran against launching strikes if peace talks fail. The conflict, which began with joint US-Israeli operations in February targeting Iran's leadership, has now shifted to a grinding ground war in Lebanon with humanitarian concerns mounting.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "China's rapid military buildup threatens regional stability as Japan and Taiwan increase defenses",
+        "summary": "Japan's defense establishment refuted accusations of \"new militarism\" while pointing to China's rapidly accelerating military expansion as the primary source of regional instability. Taiwan scrambled ships and fighter jets to monitor the second Chinese \"joint combat readiness patrol\" in a week, highlighting Beijing's pressure campaign around the island. China's military modernization is eroding Western air superiority assumptions in the Pacific, with estimates suggesting the People's Liberation Army produces around 120 J-20A fifth-generation stealth fighters annually\u2014exceeding US Air Force F-35 procurement. Beyond Taiwan, China is systematically expanding military engagement across the Southwest Pacific, Indian Ocean, and Australia's maritime approaches, normalizing its defense presence through a long-term strategy rather than dramatic shows of force. US Defense Secretary Pete Hegseth acknowledged \"rightful alarm\" over China's buildup while striking a more moderate tone on overall US-China relations at the Shangri-La regional security dialogue.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3JyTWx2MGQwX0JxME5sTjUweXZKRTY1SFh5ZjlnX3NkVXpka3VHZjd3UXlzRzFIbDdOZGR6YVE"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Colombia holds first round of presidential election amid violence and corruption concerns",
+        "summary": "Colombian voters cast ballots on May 31 in the first round of presidential elections to choose a successor to incumbent Gustavo Petro, who is constitutionally barred from seeking a second consecutive term. The three main candidates\u2014left-wing senator Iv\u00e1n Cepeda, right-wing outsider Abelardo de la Espriella, and center-right Paloma Valencia\u2014represent starkly different visions for the nation's future. Violence and corruption remain top voter concerns, with the election taking place amid ongoing security challenges across the country. A candidate requires more than 50 percent of the vote to win outright; otherwise, a runoff will be held on June 21 between the top two vote-getters. Polling suggests Cepeda maintains a lead but will likely fall short of an outright majority, setting up a competitive second round.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election"
+          }
+        ],
+        "tags": [
+          "politics",
+          "election",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Rescue operations continue in Laos as more survivors extracted from flooded cave",
+        "summary": "Rescue divers in Laos have successfully pulled four additional villagers from a flooded cave system, continuing a multi-day operation that began when the first survivor was rescued on Friday. The rescue efforts highlight the dangers of seasonal flooding in Southeast Asia and the challenges rescue teams face accessing remote cave systems. Emotional scenes marked each extraction as families were reunited with survivors. The incident underscores the region's vulnerability to heavy rains and flash flooding during monsoon season. International and local rescue workers collaborated to navigate the dangerous conditions and retrieve the trapped individuals.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_more-survivors-pulled-from-flooded-laos-cave-300526"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "disaster",
+          "rescue"
+        ]
+      },
+      {
+        "headline": "Syria responds to crisis as Euphrates River flooding displaces residents",
+        "summary": "Rescue workers in eastern Syria pulled stranded farmers from flood waters after the Euphrates River burst its banks, causing widespread displacement and emergency response operations. The flooding created dangerous conditions as the swollen river swept away agricultural land and threatened rural communities dependent on the waterway. Syrian rescue teams coordinated efforts to locate and extract residents from isolated areas cut off by rising waters. The incident reflects the region's ongoing vulnerability to natural disasters compounding existing humanitarian challenges. Water management and flood preparedness remain critical issues for communities across the Euphrates watershed.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "climate",
+          "disaster"
+        ]
+      },
+      {
+        "headline": "Thousands in Peru protest presidential bid of Keiko Fujimori",
+        "summary": "Large demonstrations erupted in Lima as thousands of Peruvians took to the streets to protest the presidential aspirations of Keiko Fujimori, whose father Alberto Fujimori served as Peru's controversial president from 1990 to 2000. The protests reflect ongoing political divisions in Peru regarding the Fujimori family's legacy and their continued influence in national politics. Demonstrators expressed concerns about authoritarianism and human rights issues associated with the Fujimori era. The scale of the opposition indicates significant public concern about a potential return to power by members of the controversial political family. The demonstrations underscore Peru's fraught political landscape and efforts by citizens to shape electoral outcomes.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526"
+          }
+        ],
+        "tags": [
+          "politics",
+          "protest",
+          "democracy"
+        ]
+      },
+      {
+        "headline": "Hundreds arrested in France after Champions League celebrations turn chaotic",
+        "summary": "French police arrested hundreds of individuals as celebrations erupted following Paris Saint-Germain's victory over Arsenal in the Champions League final. Thousands of fans gathered in public spaces, with some firing flares and causing civil unrest that prompted a large police response across Paris. French authorities deployed hundreds of officers to manage crowds and prevent violence as celebrations escalated. The incidents highlight the passion surrounding European football's marquee competition and the challenges cities face managing large fan gatherings. PSG's victory marks a significant achievement for the French club in continental competition.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "tags": [
+          "sport",
+          "society",
+          "order"
+        ]
+      }
+    ]
+  }
+}
