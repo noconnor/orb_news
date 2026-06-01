@@ -1,0 +1,78 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-06-01T06:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU nations summon Russian envoys over threats to Kyiv and foreign citizens",
+      "summary": "Belgium, France, Germany, Netherlands, Norway and the European Union have summoned Russian ambassadors after Moscow issued warnings for foreigners and diplomats to leave Kyiv ahead of planned systematic strikes. The move represents a coordinated diplomatic response from multiple EU member states and institutions, signalling unified European opposition to Russian threats and rhetoric. The summons came after Russia announced intentions to conduct extensive strikes on Ukrainian capital, characterizing the threat as unacceptable and a violation of international law. This escalation reflects ongoing tensions as European governments continue to demonstrate solidarity with Ukraine through both diplomatic channels and military support. The incident underscores the EU's commitment to standing against Russian aggression while maintaining channels for potential future negotiations.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/27/belgium-france-latest-countries-to-summon-envoys-following-russia-threats"},
+        {"name": "EU Council", "url": "https://www.consilium.europa.eu/en/policies/eu-solidarity-ukraine/timeline-russia-military-aggression-against-ukraine/"}
+      ],
+      "tags": ["diplomacy", "Ukraine", "EU"]
+    },
+    {
+      "headline": "Ukraine conducts drone strikes on Russian energy infrastructure amid nuclear facility allegations",
+      "summary": "Ukrainian forces struck multiple targets across Russian regions overnight, including an oil pumping station, refinery, and fuel depot, according to Kyiv authorities. Moscow alleged that Ukraine also targeted the Zaporizhzhia nuclear plant, a serious accusation that Ukraine firmly rejected, denying any strikes on the facility. The operation represents continued Ukrainian efforts to damage Russian energy infrastructure and disrupt supply chains supporting the military. This incident highlights the ongoing risks to critical civilian infrastructure and nuclear facilities in the conflict zone, raising international concerns about nuclear safety. The exchange of allegations demonstrates the escalating information warfare component of the conflict.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260531-ukraine-hits-russian-energy-targets-denies-striking-zaporizhzhia-nuclear-plant"}
+      ],
+      "tags": ["conflict", "Ukraine", "energy"]
+    },
+    {
+      "headline": "Israel expands ground offensive in Lebanon, seizing fortress amid European concerns",
+      "summary": "Israeli forces have seized a castle fortress in Lebanon as part of an expanded ground offensive against Hezbollah, with Prime Minister Netanyahu characterizing the advance as a decisive shift in military operations. European governments have expressed significant concerns about the escalation and potential for further regional destabilization. The expansion of Israel's ground campaign represents a significant intensification of the conflict that has implications for regional stability and humanitarian concerns across the Middle East. EU member states and institutions are closely monitoring the situation and considering diplomatic responses. The development underscores the interconnected nature of European strategic interests in Middle Eastern security dynamics.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/cdep04kzz5wo"}
+      ],
+      "tags": ["defence", "Middle East", "diplomacy"]
+    },
+    {
+      "headline": "EU advances energy performance regulations for buildings to achieve zero-emission targets by 2050",
+      "summary": "New EU rules on building energy performance are coming into effect across member states, aimed at modernizing the building stock to reduce energy consumption, lower utility bills, and achieve a fully decarbonized building sector by 2050. The initiative represents a major pillar of the European Union's broader climate and environmental policy framework. Implementation will require significant investment in retrofitting existing structures and enforcing stricter standards for new construction across the bloc. The regulations are designed to support member states in achieving their climate commitments while generating economic benefits through energy savings. This policy reflects the EU's commitment to the green transition and its leadership on climate action.",
+      "sources": [
+        {"name": "EU Council", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/29/forward-look-2026/"}
+      ],
+      "tags": ["EU", "climate", "regulation"]
+    },
+    {
+      "headline": "EU and Japan strengthen cooperation on artificial intelligence and semiconductors",
+      "summary": "The European Union and Japan have agreed to enhance collaboration on artificial intelligence, semiconductor manufacturing, digital infrastructure development, and cross-border data flows. The agreement represents a strategic partnership aimed at reducing dependencies and building resilient technology supply chains between the two economic powers. Cooperation on AI governance standards and semiconductor production capabilities is critical for both regions' economic competitiveness and technological sovereignty. The partnership also includes initiatives on digital infrastructure and mechanisms for facilitating data movement across borders while maintaining privacy and security standards. This collaboration demonstrates the EU's broader strategy to build strategic partnerships beyond the Atlantic as part of its technological autonomy goals.",
+      "sources": [
+        {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["EU", "trade", "technology"]
+    },
+    {
+      "headline": "Ukraine's civilians face mounting dangers as Russian drones target public transport in occupied regions",
+      "summary": "Public bus services in Ukrainian regions under Russian attack face unprecedented security challenges, with Russian drones deliberately targeting buses and killing transport workers. Three transport workers have been killed this year by drone strikes targeting public transport in Kherson and other affected areas. Bus drivers continue operating essential services despite extreme personal risk, highlighting the humanitarian cost of the ongoing conflict on civilian infrastructure and workers. The targeting of public transport represents a particular threat to vulnerable populations who depend on buses for accessing medical care, employment, and basic services. The situation underscores the broader pattern of Russian attacks on civilian infrastructure throughout the conflict.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo"}
+      ],
+      "tags": ["conflict", "Ukraine", "humanitarian"]
+    },
+    {
+      "headline": "Europe's road freight industry faces severe pressure from fuel costs and critical driver shortage",
+      "summary": "The transport sector across Europe confronts mounting challenges from escalating fuel prices and an acute shortage of qualified drivers, creating pressure on an industry fundamental to continental trade and supply chains. Industry leaders report that despite these obstacles, there remain significant untapped opportunities for efficiency improvements across the sector. The workforce aging crisis compounds fuel price pressures, making recruitment and retention of drivers increasingly difficult. Transportation companies are exploring technological solutions and operational innovations to maintain service levels amid rising costs. Addressing these structural challenges requires coordinated attention from industry stakeholders and policymakers across Europe.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/06/01/road-freight-the-silent-drivers-of-trade-face-high-fuel-prices-and-an-ageing-workforce"}
+      ],
+      "tags": ["economy", "regulation", "EU"]
+    },
+    {
+      "headline": "EU announces record humanitarian assistance amid global crisis; 239 million people in need",
+      "summary": "The European Commission has announced substantial humanitarian aid initiatives in response to unprecedented global need, with 239 million people requiring assistance worldwide in 2026. The EU is implementing concrete solutions designed to maximize the effectiveness and impact of its humanitarian funding and operations globally. The scale of humanitarian need reflects multiple concurrent crises including conflicts, natural disasters, and economic disruption across different regions. The Commission's response emphasizes both immediate relief and longer-term capacity building to address root causes of humanitarian emergencies. This commitment underscores the EU's role as a major global humanitarian actor and its responsibility in international crisis response.",
+      "sources": [
+        {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events/news-and-stories_en"}
+      ],
+      "tags": ["humanitarian", "governance", "EU"]
+    }
+  ]
+}

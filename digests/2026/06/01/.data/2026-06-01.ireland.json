@@ -1,0 +1,101 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-06-01T06:00:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Law removing Triple Lock expected to pass by year end",
+      "summary": "Legislation to remove the Triple Lock pension protection mechanism is expected to be enacted by the end of 2026. The Triple Lock, which guarantees that state pensions rise annually by the highest of inflation, wage growth, or 2.5%, has been a cornerstone of Ireland's pension policy for over a decade. The government has signalled its intention to reform this system, with the new law likely to be passed through the Oireachtas before December. This represents a significant shift in social policy with implications for hundreds of thousands of Irish pensioners whose future pension increases may no longer be guaranteed at the higher thresholds currently in place.",
+      "sources": [
+        {
+          "name": "RTE News",
+          "url": "https://www.rte.ie/news/politics/2026/0601/1576150-triple-lock/"
+        }
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "147,000 carers to receive €2,000 grant payment this week",
+      "summary": "Over 147,000 full-time carers across Ireland are set to receive a €2,000 Carer's Support Grant payment this week, according to an announcement by Minister for Social Protection Dara Calleary. The annual grant is paid to eligible carers who provide full-time care to dependents, recognising the significant financial burden of unpaid care work. This payment represents a crucial lifeline for carers who often work without remuneration, helping to offset expenses related to their caring responsibilities. The distribution of the grant demonstrates the government's commitment to supporting one of Ireland's most vulnerable and underrecognised worker groups.",
+      "sources": [
+        {
+          "name": "RTE News",
+          "url": "https://www.rte.ie/news/ireland/2026/0601/1576174-carers-grant/"
+        }
+      ],
+      "tags": ["social", "economy"]
+    },
+    {
+      "headline": "Minister demands elimination of unnecessary red tape across government agencies",
+      "summary": "Minister for Enterprise Peter Burke has announced plans to write to all agencies under his remit demanding they eliminate unnecessary bureaucratic procedures and red tape. The initiative is part of a broader government effort to reduce regulatory burdens on businesses and improve efficiency in public administration. Burke's directive targets redundant processes and outdated requirements that may be hindering business growth and competitiveness. This move reflects ongoing government prioritisation of business-friendly reforms and streamlined governance, particularly in response to industry feedback about administrative complexity.",
+      "sources": [
+        {
+          "name": "RTE News",
+          "url": "https://www.rte.ie/news/politics/2026/0601/1576158-red-tape/"
+        }
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "Irish drivers borrowing more to purchase new vehicles",
+      "summary": "A concerning trend has emerged among Irish car buyers, with increasing numbers taking on higher levels of debt through both Personal Contract Plans (PCPs) and hire-purchase agreements to afford new vehicles. The rising cost of purchasing cars has forced many Irish drivers to borrow greater amounts than in previous years, raising questions about financial sustainability and the risks of overextended household debt. Economic analysts warn that this trend could leave families vulnerable if interest rates rise further or if employment becomes unstable. The situation reflects broader affordability challenges in the Irish economy as the cost of living remains elevated.",
+      "sources": [
+        {
+          "name": "TheJournal.ie",
+          "url": "https://www.thejournal.ie/pcps-hire-purchase-ireland-new-cars-7051364-Jun2026/"
+        }
+      ],
+      "tags": ["economy", "social"]
+    },
+    {
+      "headline": "Women's Mini Marathon celebrates thousands of fundraisers in Dublin",
+      "summary": "Thousands of participants gathered on the streets of Dublin on May 31st for the annual Women's Mini Marathon, a 10-kilometre run that combines sporting achievement with charitable fundraising. The event brings together women of all abilities to raise money for their chosen good causes and charities, creating a vibrant atmosphere of community solidarity and wellness. Participants have described the experience as uniquely magical, with the collective energy of thousands running together creating an unforgettable atmosphere. The Mini Marathon remains one of Dublin's largest participatory sporting events and a major fundraising occasion for Irish charities.",
+      "sources": [
+        {
+          "name": "The Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/06/01/womens-mini-marathon-until-youre-on-the-start-line-you-cant-grasp-the-magic-of-it/"
+        }
+      ],
+      "tags": ["sport", "social"]
+    },
+    {
+      "headline": "Irish public prioritises cost of living and housing over climate concerns",
+      "summary": "A new poll conducted by the Irish Examiner reveals that cost of living, health, and housing have eclipsed climate change as top priorities for Irish people surveyed. While citizens recognise the importance of environmental issues, immediate economic pressures and access to essential services dominate public concern. The survey highlights a disconnect between climate policy ambitions and public sentiment, with many Irish households struggling with energy costs while simultaneously being asked to transition to costlier green alternatives. This finding presents a challenge for policymakers attempting to balance climate commitments with addressing the daily financial pressures faced by Irish families.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/arid-41854605.html"
+        }
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Family of Yves Sakila seeks independent autopsy review",
+      "summary": "The family of Yves Sakila is pursuing an independent review of autopsy findings following concerns about the initial examination. Reports indicate that the original autopsy findings have been classified as inconclusive, prompting family members to request additional expert scrutiny. The family has expressed frustration about receiving limited information regarding the cause of death and the preliminary findings from medical examiners. The case highlights broader questions about autopsy procedures and the rights of families to obtain clarity on circumstances surrounding their loved one's death.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/arid-41854662.html"
+        }
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "€7,700 Rolex gift to former ceann comhairle remains in storage since 2018",
+      "summary": "A valuable Rolex watch valued at €7,700 that was gifted to former Ceann Comhairle Seán Ó Fearghaíl by the president of the UAE's parliament in 2018 remains in storage at the Department of the Taoiseach. Ó Fearghaíl had requested the gift be handed over with instructions that it be auctioned for the Irish charity Trócaire. However, the watch has been held in the government department for eight years without being auctioned or transferred to the charity. The delay in fulfilling the former Ceann Comhairle's charitable wishes raises questions about government administrative processes and oversight of donated items.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/politics/arid-41854443.html"
+        }
+      ],
+      "tags": ["politics", "social"]
+    }
+  ]
+}

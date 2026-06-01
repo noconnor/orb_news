@@ -407,6 +407,18 @@
       "historical_event": "Soviet Naval Buildup Under Admiral Gorshkov (1956–1985)",
       "date_first_used": "2026-05-31",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_Navy"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "Beaufort Castle and the Long Struggle for Southern Lebanon's High Ground (1139–1268)",
+      "date_first_used": "2026-06-01",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Beaufort_Castle,_Lebanon"
+    },
+    {
+      "story_topic": "Ebola DRC outbreak",
+      "historical_event": "Western African Ebola Epidemic (2013–2016)",
+      "date_first_used": "2026-06-01",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Western_African_Ebola_epidemic"
     }
   ]
 }

@@ -1,0 +1,86 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-06-01T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran-US Military Escalation Intensifies as Tensions Reach Critical Point",
+      "summary": "The United States has conducted military strikes against Iranian military targets, with Iran responding with attacks on military installations, marking a significant escalation in regional tensions. The conflict has geopolitical ramifications extending beyond the Middle East, with reports of spillover effects reaching countries like Sri Lanka. Negotiations between the US and Iran on a nuclear agreement remain ongoing amid military hostilities, creating a complex diplomatic situation. Oil markets have reacted sharply to the escalation, with crude prices rising significantly due to concerns about regional stability and potential disruptions to global energy supplies. The situation raises international alarm and has prompted diplomatic interventions, including calls for UN Security Council meetings from Western powers.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/31/nx-s1-5820634/the-terrifying-day-the-u-s-iran-war-reached-a-sleepy-sri-lankan-town"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Israel Expands Military Operations in Lebanon, Capturing Strategic Fortress",
+      "summary": "Israeli forces have escalated military operations in Lebanon, capturing the strategically important Beaufort Castle, a 12th-century medieval fortress overlooking southern Lebanon. Prime Minister Netanyahu characterized the seizure as a decisive shift in the campaign against Hezbollah. The military advance has drawn criticism from European governments concerned about regional destabilization and potential humanitarian consequences. France has escalated diplomatic efforts, calling for a UN Security Council meeting to address the expanding military incursion. The operation signals Israeli intentions for sustained military presence in southern Lebanon and raises tensions across the broader Middle East region.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cdep04kzz5wo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Colombia Heads to Presidential Runoff with Contrasting Political Visions",
+      "summary": "Colombia's presidential election has set up a June 21 runoff between a Trump-aligned right-wing candidate and a leftist senator, reflecting deep political polarization within the nation. The unexpected strength of the outsider right-wing candidate defied pre-election polling predictions. Security has emerged as a dominant campaign issue for voters grappling with public safety concerns. The runoff presents a stark ideological contrast, with questions about the country's geopolitical alignment and approach to regional governance at stake. International observers are monitoring the election closely given Colombia's strategic importance in the Western Hemisphere.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVzVjcmFaRWxEVWQtdW1hYWZQbVh1RENsSThxN2VPWFZKbmI1U2Izc2dJWjhVMUc0aDJCNnhmbThSRGg5VzY0Tk9wVTdBUjduQjlHdUJQNUw4SmtJd29RR0taZlFCWmJuVzBKdWRYUk0wZXpDcURYSzZtUjAwYlFlVmtid2VrWVpwZVg3QXlaYlgzTTNLdWJxemltOWxPcWNuaW02dDZyYmtYaGJBRzZJdWpHUzNGZHdUZ3QyWkphY0ZwVzdwcWdMVVlQRQ?oc=5"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_qt_guest-jorge-restrepo_colombia-elections-310526"}
+      ],
+      "tags": ["elections", "diplomacy", "politics"]
+    },
+    {
+      "headline": "Ebola Outbreak in Democratic Republic of Congo Reaches Critical Levels",
+      "summary": "The Democratic Republic of Congo has confirmed 282 cases of Ebola virus, with the outbreak continuing to spread despite containment efforts. International health organizations characterize the situation as deeply alarming, with rising case numbers and concerns about regional spillover. Uganda is preparing for potential case increases among its population, though budget cuts are limiting preparedness and response capabilities. Brazil is monitoring suspected cases as the disease threatens to achieve international reach beyond Africa. The outbreak highlights challenges in disease control, healthcare infrastructure limitations, and the need for coordinated global health responses to emerging infectious diseases.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXR4SDJ3SzNfOGotdWlvOElTRXRHZG9kSWF2bXRTOXZNXy0xQTZoQ09Pa0VyeHZ6bG9DWEVSNWV4dkFjZ0RwdlpzZ01HZkFuWkV2dmtlaVVjVGdYbFpaaWZGN0QxakNXdFZUMEVXT0MyRVVIdUE5enN6bng2VlRjdFB3Z3ZCWmM5VWFYeTNlS1YxeGtBajB0Zjl4QmpZeUtKdUFMc3JlYXJYOWpGMjAwakEwT25zU1c4QlZqQ05R?oc=5"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c99ldxykz4zo"},
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda"}
+      ],
+      "tags": ["health", "humanitarian", "crisis"]
+    },
+    {
+      "headline": "Ukraine Strikes Russian Energy Infrastructure in Ongoing Conflict",
+      "summary": "Ukrainian forces have conducted drone strikes targeting Russian energy infrastructure including pipelines, refineries, and fuel depots as part of their ongoing military strategy. Ukraine has denied involvement in strikes against nuclear installations, distinguishing between military and civilian infrastructure targeting. The strikes continue a pattern of disrupting Russian logistics and industrial capabilities to pressure Moscow's war effort. Energy infrastructure damage in Russia has implications for global markets and regional stability. The strikes demonstrate Ukrainian capability to project military force deep into Russian territory despite ongoing ground operations.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc29NbGRQTERqM0hUOU9zc1ZhVlFIaGktVUNkRjAtbVoydV9uRGlrSDkwemFHcTQ2ZFh6WUVOd3hwb2xYTWJ3NnpKSGZ1YW8yVjI1NEk5bk5HRDY1b1B0Q1ZycWVmYktIMWVhOEdxdVlXSUc2LWtsTy1TNzUxYVh1ZjloM3NsOFR1TEVaVVVWZHFxQlk4UlRBMnpoWElnYWlxZ01OVUNhbUVCYUVt?oc=5"},
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["conflict", "energy", "geopolitics"]
+    },
+    {
+      "headline": "South Korea Exports Surge to Four-Decade High on AI Chip Boom",
+      "summary": "South Korea has achieved its strongest export growth in 40 years, driven primarily by surging global demand for artificial intelligence semiconductor chips. The technology boom reflects the worldwide acceleration of AI adoption and computing capacity expansion across industries and economies. South Korean manufacturers have captured significant market share in the global AI chip supply chain, positioning the nation as a critical player in emerging technology infrastructure. Export strength signals robust demand for high-performance semiconductors needed to power AI systems and data centers globally. The development demonstrates how geopolitical competition in technology extends to manufacturing and supply chain dominance.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUZaNE0zcldLWGpoVWFONHR4OS12MTZ4Um5rN2xYNkZLdUUyM3JWbDMxX0I0WTFaNXNuRXNnaGJIeGJ3WjdxV1ltams4cGVEeURGX2Jxd1NEV1BsNFNjVHV2Rk02NnR4VGZxQmxlMHU1X1F6UTdvdUxURnJ6bHdKdUNmM0o4elVZbVozSG5McmlkLXQ1eV8tWnNPX3laNmpHOVo2eWl6ZXZKc1VQUldMMTBoQjN4TWlJNnR1MHFwckEzMWstNVdpdGI1WTQ?oc=5"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    },
+    {
+      "headline": "Myanmar Explosion at Rebel-Held Site Kills Dozens",
+      "summary": "A catastrophic explosion in a rebel-held village in Myanmar resulted in significant casualties, with insurgent groups attributing the blast to mining explosives stored near the Chinese border. The incident highlights industrial and mining safety concerns in remote areas controlled by armed groups. The explosion occurred in an area with limited government oversight and international access, complicating response and casualty assessments. The incident demonstrates the complex security environment and economic activities in Myanmar's border regions, where armed groups control significant territory. International relief organizations are monitoring the humanitarian situation and potential need for aid delivery to affected communities.",
+      "sources": [
+        {"name": "AP News (via Google News)", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cglp7p787njo"}
+      ],
+      "tags": ["humanitarian", "conflict", "crisis"]
+    },
+    {
+      "headline": "Breakthrough Treatment Shows Promise for Advanced Pancreatic Cancer",
+      "summary": "Researchers have announced an experimental medication that extends survival for patients with advanced pancreatic cancer, representing a significant breakthrough for treating one of the most lethal malignancies. Pancreatic cancer has historically shown poor prognosis and limited treatment options, making any survival extension meaningful for patients and families. The experimental pill demonstrates the potential of new therapeutic approaches and drug development innovations in oncology. The development could improve quality of life and extend survival duration for thousands of patients globally battling this devastating disease. Further clinical trials and regulatory approval processes will determine broader availability and clinical implementation of the treatment.",
+      "sources": [
+        {"name": "NPR News", "url": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer"}
+      ],
+      "tags": ["health", "technology", "humanitarian"]
+    }
+  ]
+}

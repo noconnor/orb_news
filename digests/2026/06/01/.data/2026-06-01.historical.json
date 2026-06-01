@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Iran-US Military Escalation Intensifies as Tensions Reach Critical Point",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis; Tanker War (1984–1988); Operation Eagle Claw (1980); 1990 Oil Price Shock; War Powers Resolution (1973)",
+      "date_range": "1973–1991",
+      "summary": "The current Iran-US confrontation draws on a long history of military conflict reshaping global energy markets. The Arab Oil Embargo of 1973 demonstrated for the first time how Middle Eastern conflict could abruptly halt supplies to the industrialised world, triggering a quadrupling of prices and plunging Western economies into recession. A decade later, the Iran-Iraq War's Tanker War phase (1984–1988) saw both nations target each other's oil shipping in the Persian Gulf, prompting the United States to re-flag Kuwaiti tankers and conduct direct naval operations to keep the Strait of Hormuz open. Operation Eagle Claw in 1980 illustrated both the depth of US-Iran hostility and the military risks of direct operations on Iranian soil, while the 1990 oil price shock showed how quickly regional instability translates into global economic disruption. The War Powers Resolution of 1973 was born precisely from the lesson that unchecked presidential military action could draw the United States into open-ended conflicts without democratic mandate.",
+      "parallel_analysis": "What distinguishes today's escalation is that it merges all these historical strands simultaneously: direct US-Iran combat, nuclear diplomacy under fire, and an energy shock — while the institutional guardrails that might have constrained earlier presidents are weaker than at any point in living memory. Previous episodes such as the Tanker War contained military-economic interaction within narrower limits; the current conflict has already sent shockwaves into global markets while diplomatic channels remain technically open, creating a uniquely dangerous ambiguity.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Israel Expands Military Operations in Lebanon, Capturing Strategic Fortress",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "Beaufort Castle and the Long Struggle for Southern Lebanon's High Ground (1139–1268)",
+      "date_range": "1139–1268",
+      "summary": "Beaufort Castle's recapture by Israel in 2026 is only the latest episode in an almost nine-century history of successive powers seizing the fortress for the same reason: its unrivalled command of the surrounding terrain. The Crusaders built the stone castle after 1139 on the site of an earlier fortification, recognising that whoever held its heights could observe and threaten movement across much of southern Lebanon and northern Israel. Saladin placed the castle under siege for over a year, from 1189 to April 1190, eventually securing its surrender through negotiation rather than direct assault — such was the difficulty of dislodging a determined garrison from its heights even for the greatest military commander of the age. It passed through Crusader, Templar, and Mamluk hands before the Mamluks under Sultan Baibars finally ended Christian control in 1268. In modern times it passed through PLO occupation (1976–1982), Israeli control (1982–2000), and now Israeli hands once more in 2026.",
+      "parallel_analysis": "The castle's entire history is a monument to the enduring logic that whichever armed force controls elevated positions in mountainous terrain holds a strategic multiplier over any adversary below. Israel's current capture of Beaufort echoes not merely 1982 but eight hundred years of identical reasoning: control the castle, control the valley. The pattern suggests that military possession of Beaufort Castle, while symbolically and tactically significant, has never by itself resolved the underlying political contests that generated the conflict.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Beaufort_Castle,_Lebanon"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Ebola Outbreak in Democratic Republic of Congo Reaches Critical Levels",
+      "story_topic": "Ebola DRC outbreak",
+      "historical_event": "Western African Ebola Epidemic (2013–2016)",
+      "date_range": "2013–2016",
+      "summary": "The 2013–2016 West African Ebola epidemic remains the benchmark against which all subsequent outbreaks are measured. The outbreak began in December 2013 in a single village in Guinea and within months had crossed borders into Liberia and Sierra Leone, countries with weak health systems and porous frontiers ill-suited to containing a rapidly spreading haemorrhagic fever. By the time the WHO declared a Public Health Emergency of International Concern in August 2014, the epidemic was already beyond the containment capacity of the affected nations acting alone. At its peak the outbreak recorded 28,646 confirmed cases and 11,323 deaths, though the WHO acknowledged the actual toll was likely far higher due to underreporting. The eventual containment required contact tracing of over 165,000 individuals across three nations, an international medical deployment of extraordinary scale, and a genuine change in community burial practices. Nigeria's experience offered a contrasting lesson: prompt governmental response and proactive public health measures contained the disease within 20 cases despite an initial airport importation.",
+      "parallel_analysis": "The current DRC outbreak mirrors the early phase of 2014 in its geographic scope, its trajectory across borders, and in the complicating presence of misinformation — making rapid, coordinated international action not merely advisable but essential. The 2014 epidemic demonstrated that delayed international response allowed exponential growth that became enormously more costly to contain; the same dynamic now threatens to unfold in central Africa, with the added complication that budget cuts have weakened the preparedness infrastructure in Uganda, the country most immediately at risk of cross-border spread.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Western_African_Ebola_epidemic"
+      ]
+    }
+  ]
+}

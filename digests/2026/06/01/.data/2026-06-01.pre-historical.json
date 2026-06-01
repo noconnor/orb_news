@@ -1,0 +1,397 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Iran-US Military Escalation Intensifies as Tensions Reach Critical Point"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Israel-Lebanon conflict' — 2 prior parallels, room for more. Must not reuse: 1982 Lebanon War (Operation Peace for Galilee), 2006 Lebanon War and UN Resolution 1701",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "2006 Lebanon War and UN Resolution 1701"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israel Expands Military Operations in Lebanon, Capturing Strategic Fortress"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'US presidential security incident' — 1 prior parallels, room for more. Must not reuse: Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Colombia Heads to Presidential Runoff with Contrasting Political Visions"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Ebola Outbreak in Democratic Republic of Congo Reaches Critical Levels"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "10 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Korean War Stalemate",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Ukraine Strikes Russian Energy Infrastructure in Ongoing Conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'AI semiconductor dominance' — 1 prior parallels, room for more. Must not reuse: IBM's Mainframe Monopoly (1960s–1970s)",
+      "existing_parallels": [
+        "IBM's Mainframe Monopoly (1960s–1970s)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/History_of_IBM"
+      ],
+      "matched_topic": "AI semiconductor dominance",
+      "headline": "South Korea Exports Surge to Four-Decade High on AI Chip Boom"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Finland-Russia border security' — 3 prior parallels, room for more. Must not reuse: The Winter War (1939-1940), The Profumo Affair (1963), Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "The Winter War (1939-1940)",
+        "The Profumo Affair (1963)",
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Profumo_affair",
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "Finland-Russia border security",
+      "headline": "Myanmar Explosion at Rebel-Held Site Kills Dozens"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Breakthrough Treatment Shows Promise for Advanced Pancreatic Cancer"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "The Marshall Plan (1948–1952)",
+        "The Lend-Lease Act (1941)",
+        "The 7 July 2005 London Bombings"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease",
+        "https://en.wikipedia.org/wiki/7_July_2005_London_bombings"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "EU nations summon Russian envoys over threats to Kyiv and foreign citizens"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Ukraine conducts drone strikes on Russian energy infrastructure amid nuclear facility allegations"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "2006 Lebanon War and UN Resolution 1701",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israel expands ground offensive in Lebanon, seizing fortress amid European concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU advances energy performance regulations for buildings to achieve zero-emission targets by 2050"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Finland-Russia border security' — 2 prior parallels, room for more. Must not reuse: The Winter War (1939-1940), IBM's Mainframe Monopoly (1960s–1970s)",
+      "existing_parallels": [
+        "The Winter War (1939-1940)",
+        "IBM's Mainframe Monopoly (1960s–1970s)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/History_of_IBM"
+      ],
+      "matched_topic": "Finland-Russia border security",
+      "headline": "EU and Japan strengthen cooperation on artificial intelligence and semiconductors"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Kuwaiti Oil Fires (1991)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Ukraine's civilians face mounting dangers as Russian drones target public transport in occupied regions"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Europe's road freight industry faces severe pressure from fuel costs and critical driver shortage"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 1 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "EU announces record humanitarian assistance amid global crisis; 239 million people in need"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Valerie's Law parental rights legislation' — 1 prior parallels, room for more. Must not reuse: Megan's Law (United States, 1994–1996)",
+      "existing_parallels": [
+        "Megan's Law (United States, 1994–1996)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Megan%27s_Law"
+      ],
+      "matched_topic": "Valerie's Law parental rights legislation",
+      "headline": "Law removing Triple Lock expected to pass by year end"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'EU Ukraine financial support' — 2 prior parallels, room for more. Must not reuse: The Marshall Plan (1948–1952), The Lend-Lease Act (1941)",
+      "existing_parallels": [
+        "The Marshall Plan (1948–1952)",
+        "The Lend-Lease Act (1941)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease"
+      ],
+      "matched_topic": "EU Ukraine financial support",
+      "headline": "147,000 carers to receive €2,000 grant payment this week"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Minister demands elimination of unnecessary red tape across government agencies"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Irish drivers borrowing more to purchase new vehicles"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Women's Mini Marathon celebrates thousands of fundraisers in Dublin"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Irish public prioritises cost of living and housing over climate concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Family of Yves Sakila seeks independent autopsy review"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "€7,700 Rolex gift to former ceann comhairle remains in storage since 2018"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Valerie's Law parental rights legislation",
+      "historical_event": "Megan's Law (United States, 1994–1996)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Megan%27s_Law"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Finland-Russia border security",
+      "historical_event": "The Winter War (1939-1940)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II (1944-1945)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Marshall Plan (1948–1952)",
+      "date_first_used": "2026-04-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan"
+    },
+    {
+      "story_topic": "US presidential security incident",
+      "historical_event": "Attempted Assassination of Ronald Reagan (1981)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+    },
+    {
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Lend-Lease Act (1941)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lend-Lease"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "2006 Lebanon War and UN Resolution 1701",
+      "date_first_used": "2026-05-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+    },
+    {
+      "story_topic": "AI semiconductor dominance",
+      "historical_event": "IBM's Mainframe Monopoly (1960s–1970s)",
+      "date_first_used": "2026-05-21",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_IBM"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}
