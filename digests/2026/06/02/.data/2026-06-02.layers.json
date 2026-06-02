@@ -1,0 +1,388 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-06-02T06:01:23Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Older people fighting costly legal battles to avoid nursing home placement",
+        "summary": "Long-awaited legislation to address rising legal costs in elder care has still not been finalised, leaving vulnerable older people struggling to navigate the system. The Journal.ie reports that many individuals and families are fighting to keep elderly relatives out of institutional care, but face significant financial and legal barriers. This issue highlights gaps in Irish social policy and healthcare accessibility for the aging population. The legislation, when passed, is expected to provide much-needed clarity and cost relief for families navigating complex elder care decisions. The delay in finalising these protections underscores ongoing challenges in Ireland's approach to long-term care for older citizens.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/investigates-rising-legal-costs-as-people-fight-to-stay-out-of-nursing-homes-7051100-Jun2026/"
+          }
+        ],
+        "tags": [
+          "social",
+          "health",
+          "policy"
+        ]
+      },
+      {
+        "headline": "Cork Luas transport project raises compensation questions for sports clubs",
+        "summary": "Cork's transport minister has called for compensation to be provided to sports clubs that will be impacted by the planned Cork Luas light rail system. The preferred route for the 20km light rail line runs east-west across the city, from Ballincollig to Mahon, potentially affecting various community facilities and sporting venues. The call for compensation reflects concerns about the broader social and community impact of major infrastructure projects in Cork. Local organisations are advocating for proper consultation and financial support to mitigate disruption. This development highlights the need to balance transport infrastructure improvements with community protection in urban planning.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41855121.html"
+          }
+        ],
+        "tags": [
+          "transport",
+          "politics",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Munster GAA introduces policy to prevent jersey colour clashes during matches",
+        "summary": "Munster GAA has announced a new policy aimed at preventing jersey colour clashes in provincial championship matches, improving the experience for players and spectators alike. The policy reflects growing awareness of fairness and inclusivity in sports, particularly addressing concerns about colour blindness among players. This proactive approach demonstrates the GAA's commitment to modernising its operations and ensuring all participants can compete on equal footing. The initiative comes as sports organisations across Ireland increasingly adopt measures to enhance accessibility and reduce barriers for those with visual impairments. The policy is expected to be implemented in upcoming championship matches across the Munster region.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0602/1576245-munster-gaa-colour-blind/"
+          }
+        ],
+        "tags": [
+          "sport",
+          "social"
+        ]
+      },
+      {
+        "headline": "Young man fatally stabbed in Dublin city centre, garda\u00ed seek witnesses",
+        "summary": "A 21-year-old man, named as Qayyum Balogun, was fatally stabbed in Dublin city centre on Monday, June 1st, after attempting to flee from a group of attackers. Garda\u00ed are actively seeking CCTV footage from Grafton Street, Clarendon Street, and Coppinger Row as part of their investigation. The incident represents another violent crime in Dublin's busy shopping district, raising concerns about safety in the city centre. Investigators are appealing to members of the public who may have witnessed the incident or have relevant information to come forward. The death is being treated as a homicide, and garda\u00ed continue to pursue leads in the case.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/06/01/man-21-tried-to-flee-killer-before-being-stabbed-in-dublin-city-centre/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Student doctor encourages Leaving Certificate pupils despite multiple exam failures",
+        "summary": "A student doctor who failed her medical entrance exam multiple times has shared an inspirational message with Leaving Certificate candidates, telling them that 'your best is enough.' The message comes at a critical time as students across Ireland prepare for their final secondary examinations. Her personal story of resilience and perseverance in the face of repeated academic setbacks offers encouragement to young people navigating the stress of high-stakes exams. The initiative reflects growing awareness of mental health and wellbeing among students during exam season. This positive intervention underscores the importance of emotional support and mentoring for young people facing challenging transitions.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0602/1575950-leaving-cert-aghogho-okpara/"
+          }
+        ],
+        "tags": [
+          "education",
+          "social"
+        ]
+      },
+      {
+        "headline": "Aer Lingus updates power bank safety warnings for in-flight use",
+        "summary": "Aer Lingus has issued updated warnings regarding mobile phone power banks on board aircraft, citing safety concerns related to overheating batteries. Data from 37 different airlines shows approximately two flights per week experience issues with battery-related overheating incidents, underscoring the seriousness of the risk. The airline has strengthened its guidance to passengers about the safe use and storage of power banks during flights. This proactive stance reflects broader aviation safety protocols being implemented across the industry in response to increased battery-related incidents. Passengers are advised to follow airline guidelines closely to ensure the safety of themselves and fellow travellers.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/transport/2026/06/01/aer-lingus-updates-warnings-over-mobile-phone-power-banks-on-board-planes/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "safety"
+        ]
+      },
+      {
+        "headline": "Community advocates build case for new special needs school in East Cork",
+        "summary": "Parents and community members in East Cork are mounting a campaign to establish a new dedicated special needs school to address educational placement concerns for children with additional needs. The initiative, titled 'Bridging the Gap,' reflects growing awareness of gaps in special education provision across rural Cork. Local families have reported difficulties accessing appropriate educational facilities and have begun documenting their experiences to build a case for new infrastructure. The campaign highlights inequities in educational access between urban and rural areas in Ireland. This grassroots effort demonstrates parental commitment to ensuring all children have access to appropriate, inclusive educational opportunities in their communities.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41854878.html"
+          }
+        ],
+        "tags": [
+          "education",
+          "social",
+          "politics"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-06-02T06:45:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Russia launches massive missile attack on Ukraine, killing at least nine people",
+        "summary": "Russia conducted a large-scale aerial assault on Ukraine early on June 2, targeting Kyiv and cities across the country with missiles and drones. Ukrainian air defenses intercepted 228 of 265 Shahed-type attack drones, though 27 drones struck targets at 18 locations across the country. Kyiv Mayor Vitali Klitschko reported that two high-rise apartment buildings were hit with fears of people trapped under rubble. Ukraine's military intelligence urged civilians to take air raid alerts seriously as Russia continues its offensive. This represents a major escalation in the ongoing conflict with significant implications for European security.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine"
+          },
+          {
+            "name": "EuroNews",
+            "url": "http://www.euronews.com/2026/06/02/massive-overnight-russian-missiles-rock-ukraine-killing-at-least-nine-people-authorities-s"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "London Underground workers strike over working hours, disrupting Europe's busiest transport network",
+        "summary": "Members of the RMT union went on strike on Tuesday over working hours disputes, affecting London's extensive underground railway system. Further strike action is planned for Thursday as negotiations between the union and transport authorities have failed to reach agreement. The strikes are causing significant disruption to commuters and the broader London economy. This represents ongoing labor tensions within the UK transport sector over working conditions and staffing levels. The dispute underscores broader European concerns about worker rights and transport infrastructure management.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c4g01xv08weo"
+          }
+        ],
+        "tags": [
+          "labour",
+          "transport",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Pentagon plans to reduce US military commitment in Europe faster than expected",
+        "summary": "Senior Pentagon officials announced plans to accelerate reductions in American military involvement in European defense, catching European allies by surprise. The specific changes to troop deployments and military support will be presented to NATO, potentially affecting European security arrangements. This shift reflects changing US strategic priorities and could significantly impact European defense capabilities and NATO cohesion. The announcement raises concerns among European nations about their ability to maintain security in the face of Russian aggression. The move signals a major reassessment of transatlantic security relationships.",
+        "sources": [
+          {
+            "name": "WebSearch (Pentagon/NATO)",
+            "url": "https://eu.news-pravda.com/world/2026/06/01/202609.html"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "EU approves strictest-ever migration law with new return hubs and policies",
+        "summary": "The European Union has approved new migration legislation described as the strictest measures in EU history, including the establishment of return hubs for processing asylum seekers and deportations. The comprehensive reform addresses ongoing debates about immigration policy across Europe and attempts to balance humanitarian concerns with border security. Member states have been working toward this agreement for months amid rising political pressure over migration issues. The new framework is intended to create standardized processes across the EU while maintaining access to asylum procedures. The policy reflects broader European political trends toward stricter immigration controls.",
+        "sources": [
+          {
+            "name": "WebSearch (EU News)",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "migration",
+          "EU",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "United States to significantly reduce visa processing capacity across African embassies",
+        "summary": "The US State Department announced plans to slash the number of embassies and consulates processing visa applications in Africa from approximately 50 to 20 in the coming weeks. This dramatic reduction in diplomatic infrastructure will consolidate visa services and potentially create significant challenges for African nationals seeking to travel to the United States. The move represents a significant shift in American diplomatic engagement with the African continent. While primarily affecting Africa-US relations, the decision has implications for international travel and trans-Atlantic mobility. The consolidation may affect European nations' interests and relationships with African partners.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "http://www.euronews.com/2026/06/02/us-to-slash-number-of-embassies-in-africa-processing-visas"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "trade",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Young French footballers challenge stereotypes through national speaking competition",
+        "summary": "Hundreds of aspiring French footballers are participating in a national speaking competition dedicated to young athletes, challenging the stereotype that sports figures lack intellectual depth or communication skills. The annual competition provides a platform for athletes to develop oratory abilities and demonstrate their broader talents beyond the football pitch. Participants engage in formal speaking contests that evaluate their argumentation, presentation skills, and public speaking abilities. The initiative reflects a broader movement in French sports culture to promote the well-rounded development of young athletes. The competition illustrates European efforts to break down stereotypes and promote inclusive views of athletic achievement.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "http://www.euronews.com/my-europe/2026/06/02/football-doesnt-make-us-stupid-young-french-players-challenge-stereotypes-at-speaking-cont"
+          }
+        ],
+        "tags": [
+          "social",
+          "education",
+          "culture"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-06-02T05:15:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Russia Launches Massive Attack on Ukraine as Conflict Intensifies",
+        "summary": "Russia conducted an extensive military operation targeting cities across Ukraine on June 2, killing at least nine people and injuring others. Kyiv Mayor Vitali Klitschko reported that high-rise apartment buildings were struck, with fears of additional casualties trapped under rubble. The attack represents an escalation in the ongoing conflict that has claimed hundreds of thousands of lives over the past two years. Multiple international sources tracked the assault across Ukrainian territory. This latest offensive demonstrates the continued intensity of the war despite ongoing diplomatic discussions elsewhere.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzJpWFQ4UGVVSjFXNWtsSjBGRG1DdTVNRFg3bnVGTC1qSlRIazIwR19QdFVHRk5ySW1JaTd4bDF5X282cTdFaWhwdXh2Z2hER0hyN2Y2TE9vR1dwVk0zaC1sdUQweXlVelFBa3BrSkFzcXNoM0h1NUR3VFZWaXRPTkFUSk14c1BFVlNSUnEwcG1hVFF5Vndyd3FyTVRfN1NBQXU1T20xT0ljMmpJUnBtNVBJaGgwdnB3WjlXMTdSTQ"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "humanitarian"
+        ]
+      },
+      {
+        "headline": "Trump Attempts Diplomatic Breakthrough as Israel-Hezbollah Fighting Escalates in Lebanon",
+        "summary": "US President Trump claimed a diplomatic breakthrough after discussions with Israeli Prime Minister Netanyahu to halt military escalation toward Lebanon and Beirut. However, Israeli National Security Minister Ben-Gvir indicated resistance to the ceasefire, stating Israel should continue striking Hezbollah targets despite Trump's push for de-escalation. The situation remains volatile as Iran simultaneously halted talks with the US over Israeli actions in Gaza and Lebanon. Multiple sources reported contradictory signals from Israeli leadership regarding compliance with any Trump-brokered agreement. This complex diplomatic situation involves the US, Israel, Iran, and Hezbollah, with global oil market implications given Middle East tensions.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Alphabet Plans $80 Billion Stock Sale to Fund AI Expansion with Berkshire Hathaway Investment",
+        "summary": "Google parent company Alphabet announced plans to raise $80 billion through a stock sale to finance artificial intelligence initiatives, with investment partner Berkshire Hathaway committing $10 billion as part of the deal. This represents a major strategic move by Alphabet to accelerate AI development and compete in the rapidly evolving AI sector. Berkshire Hathaway's involvement marks significant institutional confidence in Alphabet's AI strategy under new CEO Greg Abel. The fundraising effort reflects the enormous capital requirements for developing and deploying advanced AI systems globally. This economic development has ripple effects across tech sector valuations and global investment trends.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Anthropic Files for IPO, Intensifying AI Sector Competition",
+        "summary": "AI company Anthropic filed preliminary IPO paperwork, positioning itself for a potential public offering that could rank among the largest in US history. The filing represents a significant milestone for the AI sector as major AI developers pursue capital market routes to fund rapid growth and development. Anthropic's IPO push directly intensifies competition with OpenAI and other AI firms for market dominance and investment capital. The move reflects investor appetite for AI technology despite regulatory scrutiny and safety concerns being raised by various jurisdictions. This development has global implications for how AI development is financed and governed internationally.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak in Congo Reaches Nearly 300 Confirmed Cases with Over 1,000 Suspected",
+        "summary": "The Democratic Republic of Congo is battling a significant Ebola outbreak with confirmed cases approaching 300 and over 1,000 suspected cases involving the Bundibugyo virus strain. The outbreak poses a serious humanitarian crisis as the Bundibugyo virus currently has no approved treatment available. Survivors have begun describing their recovery experiences, though the lack of specific antiviral treatments complicates patient management across the region. International health organizations are monitoring the situation closely given the potential for the virus to spread beyond Congo's borders. This health crisis represents a critical humanitarian challenge requiring global coordination and medical resource deployment.",
+        "sources": [
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Colombia's Presidential Election Produces Surprise Winner with Pro-Trump Platform",
+        "summary": "Far-right lawyer Abelardo de la Espriella unexpectedly won Colombia's first-round presidential election, defeating left-wing Senator Ivan Cepeda and upending conventional political expectations. De la Espriella's campaign emphasized crime-fighting policies aligned with Trump administration rhetoric, suggesting a shift in Colombian politics toward the right. The result prompted celebration among some constituencies and shock or skepticism among others regarding the implications for Colombia's governance and regional relationships. This electoral outcome reflects broader hemispheric political trends toward more conservative and nationalist leadership. The election result has potential implications for US-Latin American relations and regional security policies.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election"
+          },
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcnoxV2laUzVMZ0dsYTY3aG9kR2ItTi1sNmFUVDlzdkZCaVNJWS1ybElFSkFZNXBEaEVUX3I4VUlNTHFLZUVhUkY1UDg0MlE5b0xVdWZPa1FDVS1pY2g5R3BnbThab09PRzd5WTFqb2pyQXc5dk5rSHZFOFBkUlpwMHo1ZVdfVDd3UGhxZV8zUXFJb3BCQm5XMzBiWTktV3VNdnVxQTJ2QlJnMnZPZVF5NGtlRE5ndlVkYTJqMVBfVW9KWkZvTmVfTVB5djB3U2s"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Denmark's Mette Frederiksen Secures Third Term as Prime Minister",
+        "summary": "Danish Prime Minister Mette Frederiksen successfully secured a third consecutive term in office after months of coalition negotiations. The Social Democratic Party leader is forming a centre-left coalition as a minority government, marking another significant electoral validation of her political platform. Frederiksen's continued leadership reflects voter confidence in her governance despite the complexities of forming stable coalition governments in Denmark's multi-party system. This European political development demonstrates the continued viability of social democratic leadership in Nordic countries. The formation of this government will shape Danish policy on EU relations, immigration, and economic matters.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cn7p3e34x5no"
+          },
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjNUdkd6THlCejY0TzQxLTZDVnRRbWVRNm5KLUNXX1BxQ2lzLXRPN0ZZd1lFVTdxc0xuZTZSMFFmYXNsWl9kOG5acjF5RHVWZmJuVTJjQ2pqdVA3aDJWdmRDTE5oMFFIVGZuUUZrdjA5MlFaNVd1UzB4Q0c3dEtsOGE5RF8xT0VyN1BnUEFlbjUwUENDa2w0X3AxNHU"
+          }
+        ],
+        "tags": [
+          "politics",
+          "governance",
+          "economy"
+        ]
+      },
+      {
+        "headline": "US Crude Exports Reach Record Levels Amid Middle East Tensions and Energy Market Volatility",
+        "summary": "US crude oil shipments hit record levels in May as global supply constraints tightened due to escalating tensions in the Middle East, particularly involving Iran. The surge in American crude exports reflects the broader energy market dynamics created by geopolitical instability in a critical world energy region. International oil prices have responded to uncertainty over US-Iran negotiations and ongoing Israeli-Hezbollah conflict affecting regional stability. Energy markets are closely watching Middle East developments, with prices reflecting premium risk assessments for potential supply disruptions. This economic development has implications for global inflation, transportation costs, and energy policy worldwide.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXpYSkhEUGc2bmV1d2MxQ201MjlkN2VQbmVWcVJycVdaWDUta0ZaNFRSV1Zycnp0RWNGTWlYQzdKVFg5RktPZXVtOWhUX1JHbDQ0aTBMbGk5MDVGUWVkUUt5R19CWUtMOUEzekJJNDlqRkRNZHN3SGdxVHVXc1QxTU1KMXZRS19haU9XXzRTTFhOaThNQzB0Qmh5NGZCRDV3X09LUVROQy1ZV3ZWbFVvU2wyYUxuVDhFUVlfRDNJTnhWTzdG"
+          }
+        ],
+        "tags": [
+          "economy",
+          "trade",
+          "conflict"
+        ]
+      }
+    ]
+  }
+}

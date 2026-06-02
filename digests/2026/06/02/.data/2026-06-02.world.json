@@ -1,0 +1,129 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-06-02T05:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia Launches Massive Attack on Ukraine as Conflict Intensifies",
+      "summary": "Russia conducted an extensive military operation targeting cities across Ukraine on June 2, killing at least nine people and injuring others. Kyiv Mayor Vitali Klitschko reported that high-rise apartment buildings were struck, with fears of additional casualties trapped under rubble. The attack represents an escalation in the ongoing conflict that has claimed hundreds of thousands of lives over the past two years. Multiple international sources tracked the assault across Ukrainian territory. This latest offensive demonstrates the continued intensity of the war despite ongoing diplomatic discussions elsewhere.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo"
+        },
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzJpWFQ4UGVVSjFXNWtsSjBGRG1DdTVNRFg3bnVGTC1qSlRIazIwR19QdFVHRk5ySW1JaTd4bDF5X282cTdFaWhwdXh2Z2hER0hyN2Y2TE9vR1dwVk0zaC1sdUQweXlVelFBa3BrSkFzcXNoM0h1NUR3VFZWaXRPTkFUSk14c1BFVlNSUnEwcG1hVFF5Vndyd3FyTVRfN1NBQXU1T20xT0ljMmpJUnBtNVBJaGgwdnB3WjlXMTdSTQ"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "humanitarian"]
+    },
+    {
+      "headline": "Trump Attempts Diplomatic Breakthrough as Israel-Hezbollah Fighting Escalates in Lebanon",
+      "summary": "US President Trump claimed a diplomatic breakthrough after discussions with Israeli Prime Minister Netanyahu to halt military escalation toward Lebanon and Beirut. However, Israeli National Security Minister Ben-Gvir indicated resistance to the ceasefire, stating Israel should continue striking Hezbollah targets despite Trump's push for de-escalation. The situation remains volatile as Iran simultaneously halted talks with the US over Israeli actions in Gaza and Lebanon. Multiple sources reported contradictory signals from Israeli leadership regarding compliance with any Trump-brokered agreement. This complex diplomatic situation involves the US, Israel, Iran, and Hezbollah, with global oil market implications given Middle East tensions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges"
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "Alphabet Plans $80 Billion Stock Sale to Fund AI Expansion with Berkshire Hathaway Investment",
+      "summary": "Google parent company Alphabet announced plans to raise $80 billion through a stock sale to finance artificial intelligence initiatives, with investment partner Berkshire Hathaway committing $10 billion as part of the deal. This represents a major strategic move by Alphabet to accelerate AI development and compete in the rapidly evolving AI sector. Berkshire Hathaway's involvement marks significant institutional confidence in Alphabet's AI strategy under new CEO Greg Abel. The fundraising effort reflects the enormous capital requirements for developing and deploying advanced AI systems globally. This economic development has ripple effects across tech sector valuations and global investment trends.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans"
+        },
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y"
+        }
+      ],
+      "tags": ["economy", "technology", "trade"]
+    },
+    {
+      "headline": "Anthropic Files for IPO, Intensifying AI Sector Competition",
+      "summary": "AI company Anthropic filed preliminary IPO paperwork, positioning itself for a potential public offering that could rank among the largest in US history. The filing represents a significant milestone for the AI sector as major AI developers pursue capital market routes to fund rapid growth and development. Anthropic's IPO push directly intensifies competition with OpenAI and other AI firms for market dominance and investment capital. The move reflects investor appetite for AI technology despite regulatory scrutiny and safety concerns being raised by various jurisdictions. This development has global implications for how AI development is financed and governed internationally.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc"
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large"
+        }
+      ],
+      "tags": ["economy", "technology", "trade"]
+    },
+    {
+      "headline": "Ebola Outbreak in Congo Reaches Nearly 300 Confirmed Cases with Over 1,000 Suspected",
+      "summary": "The Democratic Republic of Congo is battling a significant Ebola outbreak with confirmed cases approaching 300 and over 1,000 suspected cases involving the Bundibugyo virus strain. The outbreak poses a serious humanitarian crisis as the Bundibugyo virus currently has no approved treatment available. Survivors have begun describing their recovery experiences, though the lack of specific antiviral treatments complicates patient management across the region. International health organizations are monitoring the situation closely given the potential for the virus to spread beyond Congo's borders. This health crisis represents a critical humanitarian challenge requiring global coordination and medical resource deployment.",
+      "sources": [
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates"
+        }
+      ],
+      "tags": ["health", "humanitarian", "conflict"]
+    },
+    {
+      "headline": "Colombia's Presidential Election Produces Surprise Winner with Pro-Trump Platform",
+      "summary": "Far-right lawyer Abelardo de la Espriella unexpectedly won Colombia's first-round presidential election, defeating left-wing Senator Ivan Cepeda and upending conventional political expectations. De la Espriella's campaign emphasized crime-fighting policies aligned with Trump administration rhetoric, suggesting a shift in Colombian politics toward the right. The result prompted celebration among some constituencies and shock or skepticism among others regarding the implications for Colombia's governance and regional relationships. This electoral outcome reflects broader hemispheric political trends toward more conservative and nationalist leadership. The election result has potential implications for US-Latin American relations and regional security policies.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election"
+        },
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcnoxV2laUzVMZ0dsYTY3aG9kR2ItTi1sNmFUVDlzdkZCaVNJWS1ybElFSkFZNXBEaEVUX3I4VUlNTHFLZUVhUkY1UDg0MlE5b0xVdWZPa1FDVS1pY2g5R3BnbThab09PRzd5WTFqb2pyQXc5dk5rSHZFOFBkUlpwMHo1ZVdfVDd3UGhxZV8zUXFJb3BCQm5XMzBiWTktV3VNdnVxQTJ2QlJnMnZPZVF5NGtlRE5ndlVkYTJqMVBfVW9KWkZvTmVfTVB5djB3U2s"
+        }
+      ],
+      "tags": ["politics", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Denmark's Mette Frederiksen Secures Third Term as Prime Minister",
+      "summary": "Danish Prime Minister Mette Frederiksen successfully secured a third consecutive term in office after months of coalition negotiations. The Social Democratic Party leader is forming a centre-left coalition as a minority government, marking another significant electoral validation of her political platform. Frederiksen's continued leadership reflects voter confidence in her governance despite the complexities of forming stable coalition governments in Denmark's multi-party system. This European political development demonstrates the continued viability of social democratic leadership in Nordic countries. The formation of this government will shape Danish policy on EU relations, immigration, and economic matters.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cn7p3e34x5no"
+        },
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjNUdkd6THlCejY0TzQxLTZDVnRRbWVRNm5KLUNXX1BxQ2lzLXRPN0ZZd1lFVTdxc0xuZTZSMFFmYXNsWl9kOG5acjF5RHVWZmJuVTJjQ2pqdVA3aDJWdmRDTE5oMFFIVGZuUUZrdjA5MlFaNVd1UzB4Q0c3dEtsOGE5RF8xT0VyN1BnUEFlbjUwUENDa2w0X3AxNHU"
+        }
+      ],
+      "tags": ["politics", "governance", "economy"]
+    },
+    {
+      "headline": "US Crude Exports Reach Record Levels Amid Middle East Tensions and Energy Market Volatility",
+      "summary": "US crude oil shipments hit record levels in May as global supply constraints tightened due to escalating tensions in the Middle East, particularly involving Iran. The surge in American crude exports reflects the broader energy market dynamics created by geopolitical instability in a critical world energy region. International oil prices have responded to uncertainty over US-Iran negotiations and ongoing Israeli-Hezbollah conflict affecting regional stability. Energy markets are closely watching Middle East developments, with prices reflecting premium risk assessments for potential supply disruptions. This economic development has implications for global inflation, transportation costs, and energy policy worldwide.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXpYSkhEUGc2bmV1d2MxQ201MjlkN2VQbmVWcVJycVdaWDUta0ZaNFRSV1Zycnp0RWNGTWlYQzdKVFg5RktPZXVtOWhUX1JHbDQ0aTBMbGk5MDVGUWVkUUt5R19CWUtMOUEzekJJNDlqRkRNZHN3SGdxVHVXc1QxTU1KMXZRS19haU9XXzRTTFhOaThNQzB0Qmh5NGZCRDV3X09LUVROQy1ZV3ZWbFVvU2wyYUxuVDhFUVlfRDNJTnhWTzdG"
+        }
+      ],
+      "tags": ["economy", "trade", "conflict"]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-06-02T06:45:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia launches massive missile attack on Ukraine, killing at least nine people",
+      "summary": "Russia conducted a large-scale aerial assault on Ukraine early on June 2, targeting Kyiv and cities across the country with missiles and drones. Ukrainian air defenses intercepted 228 of 265 Shahed-type attack drones, though 27 drones struck targets at 18 locations across the country. Kyiv Mayor Vitali Klitschko reported that two high-rise apartment buildings were hit with fears of people trapped under rubble. Ukraine's military intelligence urged civilians to take air raid alerts seriously as Russia continues its offensive. This represents a major escalation in the ongoing conflict with significant implications for European security.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine"},
+        {"name": "EuroNews", "url": "http://www.euronews.com/2026/06/02/massive-overnight-russian-missiles-rock-ukraine-killing-at-least-nine-people-authorities-s"}
+      ],
+      "tags": ["conflict", "defence", "geopolitics"]
+    },
+    {
+      "headline": "London Underground workers strike over working hours, disrupting Europe's busiest transport network",
+      "summary": "Members of the RMT union went on strike on Tuesday over working hours disputes, affecting London's extensive underground railway system. Further strike action is planned for Thursday as negotiations between the union and transport authorities have failed to reach agreement. The strikes are causing significant disruption to commuters and the broader London economy. This represents ongoing labor tensions within the UK transport sector over working conditions and staffing levels. The dispute underscores broader European concerns about worker rights and transport infrastructure management.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c4g01xv08weo"}
+      ],
+      "tags": ["labour", "transport", "governance"]
+    },
+    {
+      "headline": "Pentagon plans to reduce US military commitment in Europe faster than expected",
+      "summary": "Senior Pentagon officials announced plans to accelerate reductions in American military involvement in European defense, catching European allies by surprise. The specific changes to troop deployments and military support will be presented to NATO, potentially affecting European security arrangements. This shift reflects changing US strategic priorities and could significantly impact European defense capabilities and NATO cohesion. The announcement raises concerns among European nations about their ability to maintain security in the face of Russian aggression. The move signals a major reassessment of transatlantic security relationships.",
+      "sources": [
+        {"name": "WebSearch (Pentagon/NATO)", "url": "https://eu.news-pravda.com/world/2026/06/01/202609.html"}
+      ],
+      "tags": ["defence", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "EU approves strictest-ever migration law with new return hubs and policies",
+      "summary": "The European Union has approved new migration legislation described as the strictest measures in EU history, including the establishment of return hubs for processing asylum seekers and deportations. The comprehensive reform addresses ongoing debates about immigration policy across Europe and attempts to balance humanitarian concerns with border security. Member states have been working toward this agreement for months amid rising political pressure over migration issues. The new framework is intended to create standardized processes across the EU while maintaining access to asylum procedures. The policy reflects broader European political trends toward stricter immigration controls.",
+      "sources": [
+        {"name": "WebSearch (EU News)", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["migration", "EU", "regulation"]
+    },
+    {
+      "headline": "United States to significantly reduce visa processing capacity across African embassies",
+      "summary": "The US State Department announced plans to slash the number of embassies and consulates processing visa applications in Africa from approximately 50 to 20 in the coming weeks. This dramatic reduction in diplomatic infrastructure will consolidate visa services and potentially create significant challenges for African nationals seeking to travel to the United States. The move represents a significant shift in American diplomatic engagement with the African continent. While primarily affecting Africa-US relations, the decision has implications for international travel and trans-Atlantic mobility. The consolidation may affect European nations' interests and relationships with African partners.",
+      "sources": [
+        {"name": "EuroNews", "url": "http://www.euronews.com/2026/06/02/us-to-slash-number-of-embassies-in-africa-processing-visas"}
+      ],
+      "tags": ["diplomacy", "trade", "governance"]
+    },
+    {
+      "headline": "Young French footballers challenge stereotypes through national speaking competition",
+      "summary": "Hundreds of aspiring French footballers are participating in a national speaking competition dedicated to young athletes, challenging the stereotype that sports figures lack intellectual depth or communication skills. The annual competition provides a platform for athletes to develop oratory abilities and demonstrate their broader talents beyond the football pitch. Participants engage in formal speaking contests that evaluate their argumentation, presentation skills, and public speaking abilities. The initiative reflects a broader movement in French sports culture to promote the well-rounded development of young athletes. The competition illustrates European efforts to break down stereotypes and promote inclusive views of athletic achievement.",
+      "sources": [
+        {"name": "EuroNews", "url": "http://www.euronews.com/my-europe/2026/06/02/football-doesnt-make-us-stupid-young-french-players-challenge-stereotypes-at-speaking-cont"}
+      ],
+      "tags": ["social", "education", "culture"]
+    }
+  ]
+}

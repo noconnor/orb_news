@@ -1,0 +1,90 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-06-02T06:01:23Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Older people fighting costly legal battles to avoid nursing home placement",
+      "summary": "Long-awaited legislation to address rising legal costs in elder care has still not been finalised, leaving vulnerable older people struggling to navigate the system. The Journal.ie reports that many individuals and families are fighting to keep elderly relatives out of institutional care, but face significant financial and legal barriers. This issue highlights gaps in Irish social policy and healthcare accessibility for the aging population. The legislation, when passed, is expected to provide much-needed clarity and cost relief for families navigating complex elder care decisions. The delay in finalising these protections underscores ongoing challenges in Ireland's approach to long-term care for older citizens.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/investigates-rising-legal-costs-as-people-fight-to-stay-out-of-nursing-homes-7051100-Jun2026/"
+        }
+      ],
+      "tags": ["social", "health", "policy"]
+    },
+    {
+      "headline": "Cork Luas transport project raises compensation questions for sports clubs",
+      "summary": "Cork's transport minister has called for compensation to be provided to sports clubs that will be impacted by the planned Cork Luas light rail system. The preferred route for the 20km light rail line runs east-west across the city, from Ballincollig to Mahon, potentially affecting various community facilities and sporting venues. The call for compensation reflects concerns about the broader social and community impact of major infrastructure projects in Cork. Local organisations are advocating for proper consultation and financial support to mitigate disruption. This development highlights the need to balance transport infrastructure improvements with community protection in urban planning.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/munster/arid-41855121.html"
+        }
+      ],
+      "tags": ["transport", "politics", "economy"]
+    },
+    {
+      "headline": "Munster GAA introduces policy to prevent jersey colour clashes during matches",
+      "summary": "Munster GAA has announced a new policy aimed at preventing jersey colour clashes in provincial championship matches, improving the experience for players and spectators alike. The policy reflects growing awareness of fairness and inclusivity in sports, particularly addressing concerns about colour blindness among players. This proactive approach demonstrates the GAA's commitment to modernising its operations and ensuring all participants can compete on equal footing. The initiative comes as sports organisations across Ireland increasingly adopt measures to enhance accessibility and reduce barriers for those with visual impairments. The policy is expected to be implemented in upcoming championship matches across the Munster region.",
+      "sources": [
+        {
+          "name": "RTE News",
+          "url": "https://www.rte.ie/news/2026/0602/1576245-munster-gaa-colour-blind/"
+        }
+      ],
+      "tags": ["sport", "social"]
+    },
+    {
+      "headline": "Young man fatally stabbed in Dublin city centre, gardaí seek witnesses",
+      "summary": "A 21-year-old man, named as Qayyum Balogun, was fatally stabbed in Dublin city centre on Monday, June 1st, after attempting to flee from a group of attackers. Gardaí are actively seeking CCTV footage from Grafton Street, Clarendon Street, and Coppinger Row as part of their investigation. The incident represents another violent crime in Dublin's busy shopping district, raising concerns about safety in the city centre. Investigators are appealing to members of the public who may have witnessed the incident or have relevant information to come forward. The death is being treated as a homicide, and gardaí continue to pursue leads in the case.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/06/01/man-21-tried-to-flee-killer-before-being-stabbed-in-dublin-city-centre/"
+        }
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "Student doctor encourages Leaving Certificate pupils despite multiple exam failures",
+      "summary": "A student doctor who failed her medical entrance exam multiple times has shared an inspirational message with Leaving Certificate candidates, telling them that 'your best is enough.' The message comes at a critical time as students across Ireland prepare for their final secondary examinations. Her personal story of resilience and perseverance in the face of repeated academic setbacks offers encouragement to young people navigating the stress of high-stakes exams. The initiative reflects growing awareness of mental health and wellbeing among students during exam season. This positive intervention underscores the importance of emotional support and mentoring for young people facing challenging transitions.",
+      "sources": [
+        {
+          "name": "RTE News",
+          "url": "https://www.rte.ie/news/2026/0602/1575950-leaving-cert-aghogho-okpara/"
+        }
+      ],
+      "tags": ["education", "social"]
+    },
+    {
+      "headline": "Aer Lingus updates power bank safety warnings for in-flight use",
+      "summary": "Aer Lingus has issued updated warnings regarding mobile phone power banks on board aircraft, citing safety concerns related to overheating batteries. Data from 37 different airlines shows approximately two flights per week experience issues with battery-related overheating incidents, underscoring the seriousness of the risk. The airline has strengthened its guidance to passengers about the safe use and storage of power banks during flights. This proactive stance reflects broader aviation safety protocols being implemented across the industry in response to increased battery-related incidents. Passengers are advised to follow airline guidelines closely to ensure the safety of themselves and fellow travellers.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/transport/2026/06/01/aer-lingus-updates-warnings-over-mobile-phone-power-banks-on-board-planes/"
+        }
+      ],
+      "tags": ["transport", "safety"]
+    },
+    {
+      "headline": "Community advocates build case for new special needs school in East Cork",
+      "summary": "Parents and community members in East Cork are mounting a campaign to establish a new dedicated special needs school to address educational placement concerns for children with additional needs. The initiative, titled 'Bridging the Gap,' reflects growing awareness of gaps in special education provision across rural Cork. Local families have reported difficulties accessing appropriate educational facilities and have begun documenting their experiences to build a case for new infrastructure. The campaign highlights inequities in educational access between urban and rural areas in Ireland. This grassroots effort demonstrates parental commitment to ensuring all children have access to appropriate, inclusive educational opportunities in their communities.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/munster/arid-41854878.html"
+        }
+      ],
+      "tags": ["education", "social", "politics"]
+    }
+  ]
+}
