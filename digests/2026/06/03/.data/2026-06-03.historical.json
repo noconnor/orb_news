@@ -1,0 +1,50 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US and Iran Launch Escalating Military Strikes as Gulf Tensions Spike",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Synthesis: Tanker War, 1973 Oil Crisis, Iran–Iraq War, War Powers Resolution",
+      "date_range": "1973–1991",
+      "summary": "The current US-Iran exchange of direct strikes echoes multiple prior escalation cycles in the Gulf. During the Tanker War phase of the Iran–Iraq conflict, Iranian forces attacked neutral shipping until the US Navy responded with Operation Praying Mantis in 1988. The 1973 oil crisis demonstrated how Gulf-region conflict translates immediately into global energy price shocks. The Iran–Iraq War (1980–1988) showed extended Gulf campaigns can persist far longer than expected while global powers manoeuvre around them. The War Powers Resolution precedent illustrates how Congressional pressure has historically shaped the pace and scope of US military operations in the region.",
+      "parallel_analysis": "The combination of direct military exchange, energy market volatility, and Gulf-state exposure visible today maps closely onto the compounding pressure cycles seen in each of these earlier episodes. Each prior cycle de-escalated only after explicit diplomatic frameworks were constructed or one side's capacity was significantly degraded — suggesting the current confrontation has further to run before structural resolution is possible.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Russia Escalates Assault on Ukraine with Massive Overnight Attacks",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Synthesis: Strategic Bombing WWII, Korean War Stalemate, Allied Oil Campaign WWII, Kuwaiti Oil Fires",
+      "date_range": "1940–1991",
+      "summary": "Russia's sustained civilian and infrastructure targeting echoes WWII strategic bombing campaigns premised on breaking civilian morale — a theory that proved wrong in both the British and German cases, where populations adapted and resistance hardened. The Kuwaiti oil fires of 1991 offer a compressed precedent of infrastructure destruction used as a parting tactic to impose long-term costs. The Korean War stalemate demonstrated that a determined belligerent can sustain punishment across years and still negotiate from relative strength. The Allied Oil Campaign of WWII shows systematic infrastructure targeting can ultimately degrade operational capacity, but requires years and overwhelming material commitment.",
+      "parallel_analysis": "Russia's current intensification, however grave its immediate humanitarian cost, fits within a historical pattern where strategic bombardment reshapes the negotiating landscape without itself producing resolution. The timing — with Western diplomatic attention divided across multiple concurrent crises — suggests Moscow is calculating that sustained pressure now will strengthen its hand whenever formal talks resume.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Israel Continues Southern Lebanon Operations as Hezbollah Tensions Persist",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "Synthesis: 1982 Lebanon War, 2006 Lebanon War / UNSCR 1701, Beaufort Castle, Tanker War, Iran–Iraq War",
+      "date_range": "1139–2006",
+      "summary": "The disjunction between diplomatic restraint signals and continued ground operations mirrors the 1982 Lebanon War, when Israeli forces advanced well beyond stated objectives even as ceasefire calls mounted. The 2006 Lebanon War and UN Security Council Resolution 1701 offer a direct template: a ceasefire framework was negotiated internationally while ground operations continued until the final hours, and the resolution's disarmament provisions for Hezbollah were never enforced. The medieval fortress at Beaufort Castle in southern Lebanon — fought over from the Crusades through modern times — illustrates how the strategic terrain of southern Lebanon has drawn successive military campaigns regardless of political frameworks nominally governing the region.",
+      "parallel_analysis": "The current situation — a partial ceasefire holding at the political level while military operations continue on the ground — fits squarely within a long historical pattern in which Lebanon's southern theatre resists clean resolution. Hezbollah's simultaneous Iranian patron now directly engaged with the United States adds a layer of interconnected risk that was absent in 1982 and 2006, making the current episode potentially more structurally complex than its predecessors.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Beaufort_Castle,_Lebanon",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ]
+    }
+  ]
+}

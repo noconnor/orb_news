@@ -1,0 +1,62 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-06-03T09:15:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU Strikes Major Migration Deal for Increased Deportations and Third-Country Detention",
+      "summary": "The European Union has advanced sweeping migration reforms to increase deportations and establish detention centers in third countries, marking a significant policy shift. The deal aims to address migration challenges through more restrictive measures and offshore detention facilities. The policy draws comparisons to restrictive immigration approaches implemented in other regions. The agreement represents growing pressure within the EU to take harder stances on asylum and migration control. This development signals a major shift in EU migration policy priorities across member states.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/eu-strikes-migration-deal-for-more-deportations-and-detention-centers-abroad"}
+      ],
+      "tags": ["EU", "migration", "regulation"]
+    },
+    {
+      "headline": "Russia Employs 'Diversification Prevention' Strategy Against Armenia, Expert Analysis Shows",
+      "summary": "According to a Stonehill College professor, Russia is attempting to prevent Armenia from diversifying its foreign connectivity and independence. Armenia is not simply pivoting away from Russia but rather pursuing a strategy of 'diversifying its foreign policy' and emerging as a more independent state. This reflects broader geopolitical tensions in the South Caucasus region as former Soviet states seek greater autonomy. The situation underscores Russia's efforts to maintain influence over post-Soviet countries. Expert commentary indicates Armenia is navigating complex diplomatic relationships while seeking greater strategic independence.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/tv-shows/a-propos/20260602-russia-trying-to-prevent-armenia-s-diversification-of-connectivity-expert-says"}
+      ],
+      "tags": ["geopolitics", "defence", "diplomacy"]
+    },
+    {
+      "headline": "Civil Unrest at UK Rally Over Student Death: Protesters and Police Clash",
+      "summary": "Violent clashes erupted at a UK protest in Southampton following the death of an 18-year-old student who was handcuffed while fatally wounded. Police were pelted with missiles as a large crowd gathered near the incident location, expressing outrage over the circumstances of the death. The incident highlights ongoing tensions between communities and law enforcement in the UK. Video evidence and witness accounts from the protest indicate serious questions about police conduct and accountability. The unrest reflects broader concerns about police procedures and use of force in the United Kingdom.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c1m2d0ny50no"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260602-i-can-t-breathe-outrage-violence-after-uk-police-handcuff-dying-student"}
+      ],
+      "tags": ["governance", "social"]
+    },
+    {
+      "headline": "British Post Office Scandal: Oldest Victim Accepts Honour",
+      "summary": "Betty Brown, the oldest victim of Britain's Post Office scandal, has accepted an honour from the King while addressing the systematic injustices that affected hundreds of people. She stated that she is accepting the recognition on behalf of all victims of the scandal involving false convictions and prosecutions. The Post Office scandal represents one of the UK's largest miscarriages of justice, with victims having been wrongfully accused and convicted based on faulty software evidence. The King reportedly told Brown the scandal was 'dreadful,' signifying high-level acknowledgment of the injustice. The ongoing remediation of this scandal reflects broader concerns about institutional accountability and justice reform.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/czr2dlerv0zo"}
+      ],
+      "tags": ["governance", "justice"]
+    },
+    {
+      "headline": "South West Water Fined £1.8 Million Over Devon Parasite Outbreak",
+      "summary": "South West Water has been issued a substantial £1.8 million fine following a parasite outbreak in Devon that resulted in widespread illness. Four people were hospitalized and over 140 cases of sickness and diarrhea were reported in the affected region. The fine reflects regulatory action against the utility company for water quality failures and public health risks. The outbreak represents a significant public health incident in southwestern England. The penalty underscores regulatory enforcement on water quality standards and company accountability in the UK.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c62xevydk05o"}
+      ],
+      "tags": ["regulation", "health"]
+    },
+    {
+      "headline": "Archaeologists Uncover Centuries of History Beneath Notre-Dame Square in Paris",
+      "summary": "Research teams conducting excavations at Notre-Dame Cathedral have discovered Roman relics and medieval ruins as Paris prepares to create a greener square by 2028. The archaeological dig, reaching 4 meters deep, is revealing artifacts spanning multiple historical periods beneath the famous cathedral. The project combines urban renewal with historical preservation, uncovering evidence of Paris's layered history. The findings provide new insights into the site's significance across Roman and medieval periods. The excavation demonstrates how major urban redevelopment projects can yield important archaeological discoveries.",
+      "sources": [
+        {"name": "EuroNews", "url": "http://www.euronews.com/culture/2026/06/03/archaeologists-uncover-centuries-of-history-beneath-notre-dame-square"}
+      ],
+      "tags": ["culture", "EU"]
+    }
+  ]
+}

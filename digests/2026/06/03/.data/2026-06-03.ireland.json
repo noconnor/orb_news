@@ -1,0 +1,72 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-06-03T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Record 146,553 students begin Leaving Certificate and Junior Cycle exams",
+      "summary": "A record number of Irish students commenced their State examinations this morning, with 146,553 candidates sitting the Leaving Certificate, Leaving Certificate Applied, and Junior Certificate across the country. The exams mark a significant milestone for Irish secondary education, with written examinations beginning this week. This represents growth in student numbers undertaking State assessments. The examinations are a critical juncture for students' educational progression and future opportunities. Success in these exams typically determines university entry and career pathways for Irish youth.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/education/2026/0603/1576457-state-examinations/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/06/03/number-sitting-leaving-cert-climbs-to-record-level/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41855838.html"}
+      ],
+      "tags": ["education", "politics"]
+    },
+    {
+      "headline": "Government made aware of errors in Aughinish Alumina export data to Russia",
+      "summary": "Official figures showing 83% of Aughinish Alumina's exports going to Russia have been identified as inaccurate, with the Minister stating that only about 45% of exports to Russia occurred in the first quarter of 2026. The Limerick facility is a significant employer and industrial asset in Ireland, making the accuracy of trade data critical for government policy assessment. The discrepancy raises questions about the reliability of export statistics and may affect Ireland's relationship with Russian trade. The correction demonstrates the importance of accurate data in informing government economic decisions and international relations policy.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/06/02/government-made-aware-of-errors-in-aughinish-alumina-export-data/"}
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "Civil servant remanded in custody on suspicion of leaking Government details to foreign agency",
+      "summary": "A civil servant, Yevgen McKeeffe, has been remanded in custody on charges of allegedly obtaining and supplying official Irish Government information to a foreign intelligence service in exchange for personal benefit. The case represents a serious breach of national security and raises concerns about the protection of sensitive government information. The alleged criminal conduct underscores vulnerabilities within state institutions regarding classified material. Such incidents have significant implications for government security protocols and public trust in state institutions. The case is being treated as a matter of national importance given the sensitive nature of allegedly compromised information.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/courts/2026/06/02/civil-servant-accused-of-leaking-government-information-to-foreign-agency-remanded-in-custody/"}
+      ],
+      "tags": ["politics", "crime"]
+    },
+    {
+      "headline": "Rescue operation concludes with one recovered, one missing after fishing vessel sinks in Carlingford Lough",
+      "summary": "A rescue operation was conducted in Carlingford Lough following the sinking of fishing vessel Jas Josephine, with one person successfully rescued from the water. A second individual remains missing following the incident. The rescue operation highlights the dangers faced by those working in maritime industries around the Irish coast. Carlingford Lough, situated between Northern Ireland and the Republic, is an important fishing area. The incident underscores the need for maritime safety protocols and the responsiveness of emergency services to maritime emergencies.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/rescue-operation-carlingford-lough-7058562-Jun2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/06/02/rescue-operation-under-way-after-boat-sinks-in-carlingford-lough/"}
+      ],
+      "tags": ["transport", "social"]
+    },
+    {
+      "headline": "Health insurance premiums rise 10.6% as coverage levels decline nationwide",
+      "summary": "Private health insurance costs have increased significantly by 10.6%, while the percentage of the Irish population with active health insurance coverage has declined and now covers less than half the population. The rising costs are making private health insurance increasingly unaffordable for many Irish households, contributing to reduced coverage rates. This trend has important implications for the two-tiered Irish healthcare system and access to private medical services. The combination of higher premiums and declining uptake suggests increasing financial pressure on Irish families regarding healthcare costs. The figures underscore ongoing concerns about the affordability and accessibility of healthcare in Ireland.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/business/economy/arid-41855667.html"}
+      ],
+      "tags": ["health", "economy"]
+    },
+    {
+      "headline": "Ireland bids to host UEFA Women's Champions League final",
+      "summary": "The Football Association of Ireland is pursuing hosting rights for the UEFA Women's Champions League final, capitalizing on rising interest and investment in women's football nationally. The bid reflects growing momentum in women's sport in Ireland and the country's commitment to advancing gender equality in athletics. Hosting a major UEFA final would bring significant international profile and economic benefits to Ireland. The bid demonstrates confidence in Ireland's infrastructure and ability to stage world-class sporting events. Success would further elevate women's football's profile in Irish sports culture and provide a platform for growing the sport domestically.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41855736.html"}
+      ],
+      "tags": ["sport", "politics"]
+    },
+    {
+      "headline": "Minister Helen McEntee to discuss OECD competitiveness and innovation in Paris",
+      "summary": "Foreign Affairs Minister Helen McEntee is attending an OECD meeting in Paris to discuss competitiveness, innovation, and economic resilience. The engagement reflects Ireland's participation in international economic policy discussions and its focus on maintaining competitiveness in a changing global landscape. Ireland's involvement in OECD forums demonstrates the country's commitment to evidence-based policymaking and collaborative approaches to economic challenges. The meeting provides an opportunity to exchange best practices with other developed economies and influence international economic policy frameworks. Such engagements are important for Ireland's positioning within international institutions and global economic governance.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0603/1576454-mcentee-meeting-paris/"}
+      ],
+      "tags": ["politics", "economy"]
+    }
+  ]
+}

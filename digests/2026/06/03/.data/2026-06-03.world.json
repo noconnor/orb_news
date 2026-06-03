@@ -1,0 +1,84 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-06-03T06:15:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "US and Iran Launch Escalating Military Strikes as Gulf Tensions Spike",
+      "summary": "The United States launched fresh strikes on Iran's Qeshm Island on June 3, prompting Iranian forces to target Kuwait and Bahrain in retaliation. This escalation represents a significant breakdown in diplomatic efforts, with negotiations stalled at a critical juncture. The Iranian Revolutionary Guard Corps (IRGC) targeted US military installations while the US conducted self-defence operations against Iranian forces in the Persian Gulf region. Oil markets surged in response to the escalating hostilities, with energy prices rising sharply amid concerns of further regional destabilization. The strikes underscore heightened tensions between Washington and Tehran with potential global economic ramifications for energy markets and international security.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c5yx135yg53o"}
+      ],
+      "tags": ["conflict", "diplomacy", "economy"]
+    },
+    {
+      "headline": "Israel Continues Southern Lebanon Operations as Hezbollah Tensions Persist",
+      "summary": "Israeli forces killed 11 people in Lebanon on June 3, continuing military operations despite diplomatic assurances from the Trump administration that Israel and Hezbollah would de-escalate. While a partial ceasefire arrangement appears to be holding in terms of restraint against Beirut, ground operations in southern Lebanon continue with significant casualties. Prime Minister Benjamin Netanyahu faces domestic pressure from hawkish voices within Israel who have criticized him for not pursuing more aggressive bombing campaigns in Beirut. The UN chief has proposed intervention options to help end the conflict following the withdrawal of peacekeepers from Lebanon. The situation remains volatile with ongoing military engagement despite the broader framework of de-escalation efforts.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c936zvne0l6o"}
+      ],
+      "tags": ["conflict", "diplomacy"]
+    },
+    {
+      "headline": "Russia Escalates Assault on Ukraine with Massive Overnight Attacks",
+      "summary": "Russia launched one of its most significant assaults on Ukrainian territory in months, with missiles and drone strikes killing at least 22 civilians across the country on June 2-3. The attacks targeted multiple locations across Ukraine, including the capital Kyiv, in what officials describe as a major escalation in the ongoing conflict. Civilian casualties and infrastructure damage continue to mount as Moscow intensifies military pressure across Ukrainian territory. The scale and coordination of the attacks indicate Russia's commitment to sustained offensive operations despite international diplomatic efforts. The strikes represent a continuation of the broader pattern of escalating violence in Eastern Europe with significant humanitarian consequences.",
+      "sources": [
+        {"name": "AP News", "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "NPR", "url": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes"}
+      ],
+      "tags": ["conflict", "humanitarian"]
+    },
+    {
+      "headline": "North American Trade Partners Move to Extend USMCA Agreement for 16 Years",
+      "summary": "Mexico and Canada have formally requested a 16-year extension of the United States-Mexico-Canada Agreement (USMCA), seeking to maintain the trade framework that governs North American commerce. The move comes amid broader trade discussions between the Trump administration and its North American partners, with Mexico and Canada pushing to secure long-term certainty for trade relationships. The extension request represents a significant negotiation point in US trade policy, affecting billions of dollars in cross-border commerce and economic integration. Both countries view the agreement's renewal as critical to regional economic stability and investment confidence. The timing of the extension request reflects the importance of resolving trade uncertainties in the current geopolitical environment.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/mexico-and-canada-push-to-extend-usmca-trade-pact"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo"}
+      ],
+      "tags": ["trade", "economy", "diplomacy"]
+    },
+    {
+      "headline": "Ebola Outbreak in Democratic Republic of Congo Continues to Claim Lives",
+      "summary": "The World Health Organization reported suspected Ebola cases in the Democratic Republic of Congo, with 116 cases remaining under investigation after hundreds were ruled out through epidemiological verification. The virus continues to strike with significant force in lower-resource settings where medical capacity is limited, presenting ongoing public health challenges. Healthcare workers and researchers are working to contain the outbreak and implement prevention protocols, though the disease's severity in resource-limited environments hampers response efforts. The situation underscores the vulnerability of regions with limited healthcare infrastructure to viral outbreaks with high mortality rates. International health organizations continue to monitor and support response efforts as the situation develops.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/06/02/g-s1-125222/ebola-outbreak-prevention-symptoms"}
+      ],
+      "tags": ["health", "humanitarian"]
+    },
+    {
+      "headline": "Tunisia's Court Sentences Ennahdha Opposition Leader to Life in Prison",
+      "summary": "A Tunisian court sentenced Rached Ghannouchi, leader of the opposition Ennahdha party, to life in prison on June 3 on charges of forming a 'terrorist alliance' alongside other defendants receiving extended sentences. The sentencing marks a significant escalation in Tunisia's political tensions and represents a major action against an established opposition movement. The charges and convictions raise international concerns about judicial independence and the treatment of political opponents in North Africa's most developed democracy. The case reflects broader political instability in Tunisia following recent constitutional and governance changes. The sentencing is likely to intensify political polarization and international scrutiny of Tunisia's commitment to democratic principles.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/3/tunisian-court-sentences-ennahdha-leader-rached-ghannouchi-to-life-in-prison"}
+      ],
+      "tags": ["politics", "governance"]
+    },
+    {
+      "headline": "Microsoft Develops AI-Designed Quantum Chip, Targets Commercial Systems by 2029",
+      "summary": "Microsoft unveiled a quantum computing chip designed using artificial intelligence, marking significant progress in quantum technology development with commercial systems targeted for 2029. The company's breakthrough demonstrates the application of AI in advancing quantum computing capabilities, combining two cutting-edge technology fields. This advancement could have major implications for computational power and the resolution of complex problems across industries including cryptography, materials science, and optimization. Microsoft's timeline suggests imminent practical applications of quantum computing in commercial settings. The development represents a major step toward realizing the transformative potential of quantum technology in solving previously intractable computational challenges.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["technology", "economy"]
+    },
+    {
+      "headline": "ChatGPT Reaches 1 Billion Monthly Active Users in Record Time",
+      "summary": "OpenAI's ChatGPT application achieved 1 billion monthly active users, marking an unprecedented milestone in adoption speed for a consumer application. The rapid growth reflects widespread integration of generative AI into everyday workflows and consumer applications across industries. ChatGPT's user base expansion demonstrates the accelerating adoption of artificial intelligence tools by the global population. The milestone signals the mainstream acceptance of large language models and their practical utility in various applications. This growth trajectory underscores the transformative impact of generative AI on technology adoption patterns and the competitive landscape for tech companies worldwide.",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"}
+      ],
+      "tags": ["technology", "economy"]
+    }
+  ]
+}
