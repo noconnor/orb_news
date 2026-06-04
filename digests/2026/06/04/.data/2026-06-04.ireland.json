@@ -1,0 +1,77 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-06-04T06:15:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Taoiseach to Meet Hungarian Prime Minister as European Diplomatic Relations Strengthen",
+      "summary": "The Irish Taoiseach will hold talks with Hungary's newly elected Prime Minister Peter Magyar in Budapest on June 4. This bilateral meeting represents an important engagement in Irish-European diplomatic relations, particularly as Hungary navigates a transition in leadership. The talks underscore Ireland's commitment to strengthening relationships across the European Union. Such high-level political meetings contribute to the broader European governance framework and Ireland's role within it. The meeting comes amid evolving political dynamics within Central Europe.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/politics/2026/0604/1576678-taoiseach-hungary-peter-magyar/"}
+      ],
+      "tags": ["politics", "diplomacy"]
+    },
+    {
+      "headline": "Government Backs FAI Bid to Host 2029 Women's Champions League Final in Dublin",
+      "summary": "The Irish government announced support for the Football Association of Ireland's effort to host the UEFA Women's Champions League Final in Dublin in 2029, with discussion of funding packages to support the bid. This would represent a major sporting and cultural event for Ireland, bringing international football prominence to the country. The government's backing strengthens Ireland's chances of securing the prestigious tournament. Hosting such an event would boost tourism, economic activity, and Ireland's profile in international sports. The FAI is positioning Dublin as a world-class venue for elite women's football competition.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/06/03/government-to-back-fais-bid-for-2029-womens-champions-league-final-in-dublin/"}
+      ],
+      "tags": ["politics", "sport"]
+    },
+    {
+      "headline": "Cabinet Approves New Special Needs Assistant Redeployment Plan Limiting School Losses",
+      "summary": "The Irish cabinet approved a revised special needs assistant (SNA) redeployment scheme that limits losses to no more than one position per school per year, following earlier public opposition to larger proposed cuts. The plan addresses concerns about maintaining adequate support for students with additional educational needs across Irish schools. This represents a compromise between budgetary pressures and educational service preservation. The decision comes after significant pushback from schools, parents, and unions over the impact on vulnerable students. The capped redeployment approach seeks to balance fiscal responsibility with educational accessibility.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/education/2026/06/03/school-will-not-lose-more-than-one-sna-per-year-under-new-redeployment-plans/"}
+      ],
+      "tags": ["politics", "health"]
+    },
+    {
+      "headline": "New Rules Allow Public to Report Cash Access Difficulties to Central Bank",
+      "summary": "The Central Bank of Ireland introduced new rules enabling members of the public to directly notify the institution about difficulties accessing cash services in their communities. This policy change addresses growing concerns about banking accessibility, particularly in rural and underserved areas. Citizens can now formally report problems with local cash services, creating a mechanism to monitor financial inclusion. The new framework aims to ensure that Ireland's banking system maintains adequate access to physical currency for all communities. This represents a direct policy response to challenges in the Irish financial services landscape.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0604/1576658-cash-access-central-bank/"}
+      ],
+      "tags": ["economy", "social"]
+    },
+    {
+      "headline": "Data Centre Consumption Straining Irish Electricity Grid, UN Report Warns",
+      "summary": "A United Nations analysis has warned that Ireland's data centre sector accounts for approximately 21% of national electricity consumption—significantly higher than the 4% average in the United States and 1% in China. Current forecasts predict this could exceed 30% within the coming years, creating a critical infrastructure and energy sustainability challenge for the nation. Ireland's position as a European hub for data processing has driven rapid growth in server farms and computing facilities. The disproportionate energy demand threatens Ireland's ability to meet climate targets and maintain reliable grid capacity. The UN report characterizes Ireland's situation as a cautionary tale for other countries developing data centre economies.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/06/03/irelands-data-centre-strain-a-cautionary-tale-for-rest-of-world-un-says/"}
+      ],
+      "tags": ["economy", "climate"]
+    },
+    {
+      "headline": "Dublin Commuter Belt Leads Ireland in Electric Vehicle Adoption Surge",
+      "summary": "Counties surrounding Dublin—Kildare, Meath, Wicklow, and Laois—are leading Ireland's electric vehicle adoption, reflecting growing consumer interest in sustainable transport across the commuter belt. This regional trend demonstrates strong public engagement with climate-friendly transportation solutions in areas with significant daily commuter populations. The data suggests that access to charging infrastructure and urban proximity are driving EV uptake in these regions. This shift supports Ireland's broader commitments to reducing transport sector emissions. The commuter belt's embrace of electric cars signals market transformation in Ireland's automotive sector.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/electric-cars-ireland-2-7059857-Jun2026/"}
+      ],
+      "tags": ["economy", "climate"]
+    },
+    {
+      "headline": "Research Finds No Rural-Urban Divide on Climate Change in Ireland",
+      "summary": "A new Economic and Social Research Institute (ESRI) study reveals that Irish farmers and non-farmers do not significantly differ in their environmental positions, contradicting common assumptions about rural-urban climate change attitudes. The research indicates that misconceptions between farmer and non-farmer communities may be more pronounced than actual differences in their views. Both groups show similar levels of concern for environmental issues and climate action. The findings suggest more common ground exists on sustainability than public discourse often reflects. This research challenges polarized narratives about Irish rural and urban environmental perspectives.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/no-evidence-of-urban-rural-divide-climate-change-ireland-7059388-Jun2026/"}
+      ],
+      "tags": ["social", "climate"]
+    },
+    {
+      "headline": "Young People Anxious About Artificial Intelligence Impact on Employment Prospects",
+      "summary": "New research from the National Youth Council of Ireland reveals significant anxiety among young people regarding artificial intelligence's potential impact on employment opportunities and career prospects. The study captures growing concerns within Ireland's youth population about technological disruption in labour markets. Young professionals and students express uncertainty about which skills will remain valuable as AI capabilities expand. The findings highlight a need for education and policy responses addressing automation and workforce preparation. This anxiety reflects broader global concerns about AI's economic implications but with specific Irish youth demographics.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0604/1576639-ai-employment-report/"}
+      ],
+      "tags": ["social", "economy"]
+    }
+  ]
+}

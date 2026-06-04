@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "new",
+      "story_headline": "Israel and Lebanon Agree Ceasefire as Regional Tensions Escalate",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "The Taif Agreement — End of the Lebanese Civil War (1989)",
+      "date_range": "1989",
+      "summary": "The 1989 Taif Agreement, formally known as the National Reconciliation Accord, was negotiated in Saudi Arabia to end fifteen years of Lebanese civil war that had killed approximately 150,000 people. Signed on 22 October and ratified by parliament on 5 November, the accord restructured Lebanon's confessional power-sharing system, reducing Christian-to-Muslim parliamentary representation from 6:5 to 1:1 and shifting executive authority from the Maronite president to the Council of Ministers. Saudi Arabia led the mediation while the United States, Syria, and Iran worked behind the scenes to shape the outcome. The agreement mandated Syrian military withdrawal within two years — a provision Syria ignored for sixteen years until 2005. Hezbollah was controversially exempted from militia disarmament on the grounds of its role as a resistance force against Israeli occupation, a carve-out that would define Lebanese politics for decades. The accord ended open warfare but entrenched the same external dependencies and armed factional structures that had made war possible, and failed to resolve the underlying economic and ideological tensions.",
+      "parallel_analysis": "Today's Israel-Lebanon ceasefire, reached after Israel's deepest ground offensive into Lebanese territory in two decades, carries the same structural ambiguity as the Taif Agreement. It may freeze the fighting, but the underlying contest between Iran-backed forces, Israeli security imperatives, and Lebanese state sovereignty remains unresolved — just as it was when Lebanese parliamentarians gathered in Saudi Arabia in 1989. Externally brokered agreements in Lebanon have repeatedly silenced the guns without eliminating the conditions that produce conflict, and the rapid Iranian drone strike on Kuwait hours after the ceasefire announcement illustrates how fragile such arrangements remain when regional actors maintain independent military capabilities.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Taif_Agreement"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "US House Passes War Powers Resolution Challenging Trump on Iran Military Operations",
+      "story_topic": "NATO alliance internal tensions",
+      "historical_event": "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+      "date_range": "1973–present",
+      "summary": "The 1973 War Powers Resolution was passed over President Nixon's veto in the aftermath of the Vietnam War, establishing the framework requiring the executive to report military engagements to Congress within 48 hours and withdraw forces within 60 days without explicit authorisation. Every subsequent president has declined to fully acknowledge its constitutional authority. The Tanker War of 1984–1988 saw US forces drawn incrementally into the Iran-Iraq confrontation — culminating in the USS Stark incident — while Congress agitated ineffectually on the sidelines. Operation Eagle Claw, the disastrous 1980 rescue mission into Iran, exposed the gap between executive military ambition and congressional oversight. France's 1966 withdrawal from NATO's integrated military command illustrated how domestic political constraints can rupture security arrangements when executive action outpaces democratic legitimacy.",
+      "parallel_analysis": "The 215–208 House vote, while largely symbolic without Senate ratification, represents the most direct congressional challenge to Trump's Iran operations yet, and fits squarely into the five-decade pattern of Congress asserting the War Powers principle it lacks the constitutional tools to fully enforce. The breakthrough of four Republican crossover votes signals that the political calculus on open-ended Gulf military engagement is beginning to shift within the president's own party.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/France_and_NATO"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Ukraine Reports Territorial Gains as Russia Suffers Second Consecutive Month of Losses",
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "Korean War Stalemate and Armistice Negotiations (1951–1953)",
+      "date_range": "1951–1953",
+      "summary": "After the initial dramatic advances and retreats of 1950–1951, the Korean War settled into a grinding stalemate near the 38th parallel, with armistice talks commencing at Kaesong in July 1951 even as fighting continued. For two years, negotiators haggled over prisoner of war repatriation and demarcation lines while commanders launched costly offensives for marginal terrain gains, each side using battlefield results as diplomatic leverage. The armistice was finally signed at Panmunjom on 27 July 1953, freezing rather than resolving the underlying political conflict. The Allied Oil Campaign of 1944–1945 offers a parallel for Ukraine's long-range strike strategy: sustained attacks on Axis fuel refineries degraded operational capacity over time, a logic Ukrainian commanders are consciously applying to Russian energy and military logistics infrastructure.",
+      "parallel_analysis": "Ukraine's second consecutive month of net territorial gains, even as a peace framework reportedly nears 90–95 percent completion between Trump and Zelenskyy, mirrors the Korean War dynamic precisely: territorial recovery serves as diplomatic currency, and neither side wishes to accept a ceasefire from a position of perceived weakness. Whether May's momentum can be sustained will depend on Western ammunition availability and whether diplomatic progress accelerates or halts the fighting before a formal agreement is reached.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+      ]
+    }
+  ]
+}

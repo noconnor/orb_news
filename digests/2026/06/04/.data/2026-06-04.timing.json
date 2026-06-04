@@ -1,0 +1,16 @@
+{
+  "date": "2026-06-04",
+  "update_type": "morning",
+  "steps_seconds": {
+    "setup": 8,
+    "gather": 127,
+    "write_digest": 305,
+    "audio": 93
+  },
+  "total_seconds": 559,
+  "agent_tokens": {
+    "gather_haiku_x3": 77097,
+    "digest_writer_sonnet": 52373
+  },
+  "cost_estimate_usd": 0.2188
+}

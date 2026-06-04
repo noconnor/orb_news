@@ -1,0 +1,420 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-06-04T06:15:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Taoiseach to Meet Hungarian Prime Minister as European Diplomatic Relations Strengthen",
+        "summary": "The Irish Taoiseach will hold talks with Hungary's newly elected Prime Minister Peter Magyar in Budapest on June 4. This bilateral meeting represents an important engagement in Irish-European diplomatic relations, particularly as Hungary navigates a transition in leadership. The talks underscore Ireland's commitment to strengthening relationships across the European Union. Such high-level political meetings contribute to the broader European governance framework and Ireland's role within it. The meeting comes amid evolving political dynamics within Central Europe.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/politics/2026/0604/1576678-taoiseach-hungary-peter-magyar/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Government Backs FAI Bid to Host 2029 Women's Champions League Final in Dublin",
+        "summary": "The Irish government announced support for the Football Association of Ireland's effort to host the UEFA Women's Champions League Final in Dublin in 2029, with discussion of funding packages to support the bid. This would represent a major sporting and cultural event for Ireland, bringing international football prominence to the country. The government's backing strengthens Ireland's chances of securing the prestigious tournament. Hosting such an event would boost tourism, economic activity, and Ireland's profile in international sports. The FAI is positioning Dublin as a world-class venue for elite women's football competition.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/06/03/government-to-back-fais-bid-for-2029-womens-champions-league-final-in-dublin/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "sport"
+        ]
+      },
+      {
+        "headline": "Cabinet Approves New Special Needs Assistant Redeployment Plan Limiting School Losses",
+        "summary": "The Irish cabinet approved a revised special needs assistant (SNA) redeployment scheme that limits losses to no more than one position per school per year, following earlier public opposition to larger proposed cuts. The plan addresses concerns about maintaining adequate support for students with additional educational needs across Irish schools. This represents a compromise between budgetary pressures and educational service preservation. The decision comes after significant pushback from schools, parents, and unions over the impact on vulnerable students. The capped redeployment approach seeks to balance fiscal responsibility with educational accessibility.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/education/2026/06/03/school-will-not-lose-more-than-one-sna-per-year-under-new-redeployment-plans/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "health"
+        ]
+      },
+      {
+        "headline": "New Rules Allow Public to Report Cash Access Difficulties to Central Bank",
+        "summary": "The Central Bank of Ireland introduced new rules enabling members of the public to directly notify the institution about difficulties accessing cash services in their communities. This policy change addresses growing concerns about banking accessibility, particularly in rural and underserved areas. Citizens can now formally report problems with local cash services, creating a mechanism to monitor financial inclusion. The new framework aims to ensure that Ireland's banking system maintains adequate access to physical currency for all communities. This represents a direct policy response to challenges in the Irish financial services landscape.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0604/1576658-cash-access-central-bank/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social"
+        ]
+      },
+      {
+        "headline": "Data Centre Consumption Straining Irish Electricity Grid, UN Report Warns",
+        "summary": "A United Nations analysis has warned that Ireland's data centre sector accounts for approximately 21% of national electricity consumption\u2014significantly higher than the 4% average in the United States and 1% in China. Current forecasts predict this could exceed 30% within the coming years, creating a critical infrastructure and energy sustainability challenge for the nation. Ireland's position as a European hub for data processing has driven rapid growth in server farms and computing facilities. The disproportionate energy demand threatens Ireland's ability to meet climate targets and maintain reliable grid capacity. The UN report characterizes Ireland's situation as a cautionary tale for other countries developing data centre economies.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/06/03/irelands-data-centre-strain-a-cautionary-tale-for-rest-of-world-un-says/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Dublin Commuter Belt Leads Ireland in Electric Vehicle Adoption Surge",
+        "summary": "Counties surrounding Dublin\u2014Kildare, Meath, Wicklow, and Laois\u2014are leading Ireland's electric vehicle adoption, reflecting growing consumer interest in sustainable transport across the commuter belt. This regional trend demonstrates strong public engagement with climate-friendly transportation solutions in areas with significant daily commuter populations. The data suggests that access to charging infrastructure and urban proximity are driving EV uptake in these regions. This shift supports Ireland's broader commitments to reducing transport sector emissions. The commuter belt's embrace of electric cars signals market transformation in Ireland's automotive sector.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/electric-cars-ireland-2-7059857-Jun2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Research Finds No Rural-Urban Divide on Climate Change in Ireland",
+        "summary": "A new Economic and Social Research Institute (ESRI) study reveals that Irish farmers and non-farmers do not significantly differ in their environmental positions, contradicting common assumptions about rural-urban climate change attitudes. The research indicates that misconceptions between farmer and non-farmer communities may be more pronounced than actual differences in their views. Both groups show similar levels of concern for environmental issues and climate action. The findings suggest more common ground exists on sustainability than public discourse often reflects. This research challenges polarized narratives about Irish rural and urban environmental perspectives.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/no-evidence-of-urban-rural-divide-climate-change-ireland-7059388-Jun2026/"
+          }
+        ],
+        "tags": [
+          "social",
+          "climate"
+        ]
+      },
+      {
+        "headline": "Young People Anxious About Artificial Intelligence Impact on Employment Prospects",
+        "summary": "New research from the National Youth Council of Ireland reveals significant anxiety among young people regarding artificial intelligence's potential impact on employment opportunities and career prospects. The study captures growing concerns within Ireland's youth population about technological disruption in labour markets. Young professionals and students express uncertainty about which skills will remain valuable as AI capabilities expand. The findings highlight a need for education and policy responses addressing automation and workforce preparation. This anxiety reflects broader global concerns about AI's economic implications but with specific Irish youth demographics.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0604/1576639-ai-employment-report/"
+          }
+        ],
+        "tags": [
+          "social",
+          "economy"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-06-04T06:30:00Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Ukraine reports territorial gains as Russia suffers second consecutive month of losses",
+        "summary": "According to the Institute for the Study of War, Ukraine recaptured more territory than it lost in May 2026, marking the second consecutive month of net territorial gains. Ukraine has executed successful tactical counterattacks and long-range strikes that have slowed Russian advances in Eastern Ukraine. A Ukrainian drone strike targeted a Russian warship at the Kronstadt naval base near St. Petersburg, while a separate strike killed at least three people in Crimea. The territorial reversal represents a significant shift after months of Russian advance, with data showing Russian forces lost 93 square miles of Ukrainian territory over the past four weeks. This momentum comes as diplomatic negotiations progress, with Presidents Trump and Zelenskyy reported to have agreed on 90-95 percent of a peace proposal.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/ukraine-pushed-russia-back-in-may-for-second-month-running-isw-finds"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260604-ukrainian-strike-kills-three-in-crimea-after-kyiv-targets-st-petersburg-energy-military-sites"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Israel and Lebanon agree to conditional ceasefire following US-led diplomatic talks",
+        "summary": "Israel and Lebanon have reached a conditional ceasefire agreement mediated through US-led diplomatic efforts, with both countries rejecting 'any attempt, by any state or non-state actor, to hold Lebanon's future hostage.' The ceasefire comes as Israel has recently escalated its attacks and is conducting its deepest ground offensive into Lebanon in two decades. The agreement represents a significant de-escalation in regional tensions following months of heightened military operations. The diplomatic resolution demonstrates continued international engagement in regional conflict resolution, with implications for broader Middle Eastern stability and European security interests.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/2026/06/04/israel-and-lebanon-agree-to-conditional-ceasefire-following-us-led-talks"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "conflict",
+          "defence"
+        ]
+      },
+      {
+        "headline": "EU faces energy crisis as inflation rises and fuel supplies run critically low",
+        "summary": "Europe is grappling with an ongoing energy crisis stemming from conflict over key trade routes and oil supplies, driving up living costs across the continent. The European Commission warned in late April that the EU has only six weeks of remaining jet fuel supplies, though it currently faces no fuel shortages. The energy crisis is directly impacting economic performance, with annual headline inflation rising to 3 percent in April, driven by a 10.9 percent increase in energy prices alone. Energy costs continue to exceed expectations and weigh heavily on European economies. Senior political leaders and experts gathered at the Brussels Economic Security Forum on 4-5 June to discuss Europe's response to strategic energy dependencies and economic governance challenges.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260506~1bbd4ed780.en.html"
+          }
+        ],
+        "tags": [
+          "economy",
+          "climate",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Portugal faces general strike as unions protest labour reforms",
+        "summary": "A general strike disrupted transport, schools, and hospitals across Portugal as unions protested labour reforms that they argue weaken workers' rights. The strike represents growing social tension over employment conditions and government policy in the EU member state. The action reflects broader European concerns about labour protection and workers' rights as governments implement economic restructuring. The disruption to essential services underscores the intensity of opposition to the proposed changes and broader discontent with labour market reforms across Southern Europe.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "governance",
+          "social",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Migrant labour abuse in Italy highlighted following deadly attack on agricultural workers",
+        "summary": "Four migrant fruit pickers were killed in a burned-out van in Calabria, prompting national discussion about systematic labour exploitation in southern Italy. The deadly attack has brought attention to the dangerous conditions and abusive practices that migrant workers face in agricultural industries across Europe. Investigations into the incident have revealed patterns of labour abuse and unsafe working conditions that extend beyond this single tragedy. The case highlights broader EU migration and labour protection challenges, particularly in countries with significant agricultural sectors reliant on migrant workers. European policymakers are examining enforcement of labour standards and worker protections across member states.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/deadly-attack-on-migrants-highlights-issue-of-labour-abuse-in-italy"
+          }
+        ],
+        "tags": [
+          "migration",
+          "social",
+          "governance"
+        ]
+      },
+      {
+        "headline": "EU Green Week 2026 emphasizes nature-positive economy as pillar of European prosperity",
+        "summary": "The 26th edition of EU Green Week puts the spotlight on the business case for nature, demonstrating that a nature-positive economy is essential for Europe's prosperity, resilience, and competitiveness. The initiative brings together business leaders, policymakers, and environmental experts to advance climate and biodiversity commitments across the EU. The focus on nature-positive economics reflects the European Union's broader climate strategy and commitment to the 2040 'tobacco-free generation' targets alongside environmental sustainability goals. The conference highlights how economic development and environmental protection can be aligned to strengthen European economies. Policy discussions are advancing proposals for reviewing EU excise duties on tobacco and related products as part of comprehensive public health and climate strategies.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://green-week.event.europa.eu/index_en"
+          }
+        ],
+        "tags": [
+          "climate",
+          "regulation",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Justice and Home Affairs Council discusses Schengen security and migration system upgrades",
+        "summary": "The EU Justice and Home Affairs Council met on 4-5 June 2026 to address critical issues affecting European mobility and security. Ministers discussed the overall state of the Schengen area and reviewed implementation of large-scale IT systems including the Entry/Exit System and ETIAS (European Travel Information and Authorisation System). Negotiations between Parliament and Council are underway to reach agreement on updates to the air passenger rights regulation, focusing on compensation thresholds and passenger protections. The meeting reflects ongoing EU efforts to balance security concerns with mobility across member states. Discussions highlight the complexity of managing border security and passenger rights in an integrated European system.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/press-briefing-justice-and-home-affairs-council-of-4-and-5-june-2026/"
+          }
+        ],
+        "tags": [
+          "governance",
+          "migration",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "European Union Prize for Literature announces 2026 winners across Central and Eastern Europe",
+        "summary": "The jury of the European Union Prize for Literature has announced the 2026 winners, with Dora Kapr\u00e1lov\u00e1 from Czechia winning the Grand Prix with 'Mariborsk\u00e1 hypn\u00f3za' (Maribor Hypnosis), while special mentions went to H\u00e9l\u00e8ne Fr\u00e9d\u00e9rick from France and Vladimir Vujovi\u0107 from Montenegro. The awards celebrate literary excellence and cultural achievement across the European Union. The selection highlights diverse voices from Central Europe, Western Europe, and the Balkans. The EU Prize for Literature recognises outstanding literary works and contributes to European cultural cohesion and the promotion of European literature internationally.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-06-04T05:00:40Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Israel and Lebanon agree to ceasefire as regional tensions escalate",
+        "summary": "Israel and Lebanon announced implementation of a ceasefire agreement, rejecting 'any attempt, by any state or non-state actor, to hold Lebanon's future hostage.' The agreement comes amid escalating Middle East tensions, including Iranian drone strikes on Kuwait's airport that killed at least one person. The ceasefire represents a significant diplomatic development in a region marked by increased military activity and sectarian tensions. However, the implementation faces immediate challenges as regional actors continue to test the agreement's boundaries. The ceasefire's success will be crucial for regional stability and international efforts to prevent further escalation.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZVSDV2aHBYOHM1bjdsRUdfWGFMSzNySlMxNElEaUhvWElEVmdBdnlXd2dKekZsSnB0RHNpbXMzV2o0ZEhESjJGYUlpZjgwT2x5NWEwUHZ0UnB5bV9zOEhFUEROQlJtZkM3LXdGSG9fLTFJa2RnSk40V3ZVWUNnSnRoa0N2STlsYi1aT0JQckpkM05nSml0VA?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "Middle East"
+        ]
+      },
+      {
+        "headline": "US House passes war powers resolution challenging Trump on Iran military operations",
+        "summary": "The US House of Representatives voted 215-208 to approve a war powers resolution directing President Trump to end military hostilities with Iran, marking a rare bipartisan rebuke of the administration's approach to the conflict. Four Republicans joined Democrats to pass the measure after three previous failed attempts, demonstrating growing congressional pressure on the White House's Iran policy. The resolution, though largely symbolic without Senate approval, signals significant internal debate within American government over military engagement in the Middle East. The vote reflects broader tensions between executive and legislative branches over war powers authority. This congressional action has international implications for US regional policy and alliance relationships.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21Kb1NONEJ3ckoxR3N4d3c?oc=5"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cj6pldg39deo"
+          },
+          {
+            "name": "NPR News",
+            "url": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Iranian drone strikes Kuwait airport, escalating Middle East tensions amid ceasefire implementation",
+        "summary": "Iranian drones attacked Kuwait's airport in a strike that killed at least one person, testing the fragile Israel-Lebanon ceasefire agreement announced hours earlier. The attack represents direct Iranian military action in the Gulf region and signals that regional actors remain willing to engage in hostile operations despite diplomatic efforts. Kuwait's government reported the incident as tensions continue to simmer across the broader Middle East conflict zone. The drone strike underscores the complexity of achieving lasting peace when multiple state and non-state actors maintain military capabilities and competing interests. The incident raises questions about whether the ceasefire framework can contain regional escalation involving major powers.",
+        "sources": [
+          {
+            "name": "AP News (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWw3aG9uNmppOHRXVF9yQ2tkOGdlN3g5c2FnQllkOUxxYXhqSUVoUlRYc21pVHlHdjNFOE1nbDZjNlYta2dsVW4tUV9kekZFM2NVWUZ2UGRXSzZkXzBmSm54VTdlb2FBQkdsVHJnQ0R1aEJncGF5N2xPaEdGVDdWZG1vaS1WQU9EeVJZZWJzQlgyaWV1S21MNmhQT1pXb0tNbXBrbzQ0bmRaQXFjQ3JETEpCVVM3Zw?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "geopolitics",
+          "Middle East"
+        ]
+      },
+      {
+        "headline": "SpaceX announces $1.77 trillion valuation ahead of historic IPO",
+        "summary": "Elon Musk's SpaceX announced plans to launch a historic initial public offering with a valuation of approximately $1.77 trillion, seeking to raise roughly $75 billion by selling shares at $135 per share. The IPO represents one of the largest capital raises in history and reflects enormous investor appetite for space technology and commercial space exploration. The company's valuation underscores the growing commercial importance of space industries and satellite technologies for global communications and infrastructure. Success in this offering could reshape the commercial space sector and influence investment patterns in technology and aerospace globally. The IPO is expected to have significant implications for space industry development, competition, and innovation worldwide.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "business"
+        ]
+      },
+      {
+        "headline": "China imposes one-year ban on four New Zealand MPs over Taiwan visit",
+        "summary": "China announced a one-year ban on four New Zealand Members of Parliament who recently visited Taiwan, escalating diplomatic tensions between Beijing and Wellington over the island's political status. The lawmakers were informed of the ban upon returning from their Taiwan visit last month, representing China's punitive response to what it views as foreign interference in its internal affairs. The action reflects Beijing's hardened stance on Taiwan-related diplomatic engagement and its willingness to use targeted sanctions against foreign legislators. The ban underscores growing geopolitical competition between China and Western democracies over Taiwan's status and influence in the Asia-Pacific region. The incident highlights how Taiwan remains a flashpoint in international relations and a litmus test for countries' diplomatic relationships with Beijing.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cx21r1y223ro"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "diplomacy",
+          "Taiwan"
+        ]
+      },
+      {
+        "headline": "Germany blames Russia for 'bitter defeat' in UN Security Council election bid",
+        "summary": "Germany attributed its failure to secure a seat on the UN Security Council to Russian opposition, with officials claiming Moscow deliberately stirred up international sentiment against Germany's bid due to Berlin's support for Ukraine. The election result represents a significant diplomatic setback for Germany and reflects deepening geopolitical divisions at the United Nations over the Ukraine conflict. Germany's loss of the Security Council seat limits its ability to influence major international security decisions during a period of heightened global tensions. Russia's alleged campaign against Germany demonstrates how the Ukraine conflict is reshaping alliances and voting patterns within international institutions. The outcome underscores the polarization of UN diplomacy along Cold War-style divisions between Western and Russian-aligned blocs.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cgmp3pg71edo"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "governance",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Meta accuses Australia of breaching trade agreement, invokes US trade action threat",
+        "summary": "Meta Platforms accused Australia of breaching its Free Trade Agreement (FTA) and indicated the company may pursue US trade action against the country, escalating a dispute between the technology giant and the Australian government. The conflict centers on Australia's regulatory approach to technology companies and content standards. Meta's invocation of potential US trade mechanisms represents a significant escalation in the dispute and demonstrates how tech companies are willing to leverage international trade tools to challenge regulatory decisions. The controversy highlights growing tensions between major technology firms and democratic governments over content regulation and corporate accountability. The dispute has broader implications for how international trade agreements will be applied to digital economy disputes going forward.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3hsQ0NuendWbVRWZE9hV2ZYa1paeXZRY0ExcnFMWG02WDJTYUdFTGN6cV9ocEJrMkhKcWlfUGIwZnNjZ0R0bC1NQUFVamI0bHFzX1pHNEEwbFFRTGxUNERaOEFYaFZCdVFTQmFaZ0lQZnl6R3ZpbWdtUWxHM1NYSGlqYU9uckJQaml3SDRhTEY3SjZ3cFJ1VzNEOURsNU41a29fZVBnYmxKQUM4X3hPUGx6QzA5WjQ?oc=5"
+          }
+        ],
+        "tags": [
+          "trade",
+          "technology",
+          "economy"
+        ]
+      },
+      {
+        "headline": "South Korea and China agree first flight rights expansion in seven years",
+        "summary": "South Korea and China announced their first expansion of flight rights in seven years, marking a diplomatic warming between the two major East Asian economies after years of tension. The agreement expands air transportation connections and signals improved bilateral relations between Seoul and Beijing. The expansion addresses years of constraints on aviation routes and reflects both countries' interest in strengthening economic and diplomatic ties. The agreement comes amid broader efforts to stabilize Asia-Pacific geopolitics following various regional disputes. The development has implications for regional trade, tourism, and the broader stability of East Asia's diplomatic landscape.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1QxREpieWlNUlQzMEtrbGVVOWVKd3F0YnJpejhHWjlhTDJ5Q19vQldfNDZjeXdJWHBBUlBvTHAyVkRMSGNjaEU1MDEybVFwRzNqYVgtWF80b3lCQU5Yb1BiYVAwRDdjcFM1Tlp2Q2Q0UEdzREVoakdUVlBYRjJoWGN6QWg1SmIzNnFUQURCMkVweFk4Z2xiaDZ0S2xyLXpjTkRvNTQ2YVg5bVNrUmc2MnVudw?oc=5"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "trade",
+          "economy"
+        ]
+      }
+    ]
+  }
+}

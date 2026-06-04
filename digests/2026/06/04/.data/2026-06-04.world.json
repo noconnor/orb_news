@@ -1,0 +1,121 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-06-04T05:00:40Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Israel and Lebanon agree to ceasefire as regional tensions escalate",
+      "summary": "Israel and Lebanon announced implementation of a ceasefire agreement, rejecting 'any attempt, by any state or non-state actor, to hold Lebanon's future hostage.' The agreement comes amid escalating Middle East tensions, including Iranian drone strikes on Kuwait's airport that killed at least one person. The ceasefire represents a significant diplomatic development in a region marked by increased military activity and sectarian tensions. However, the implementation faces immediate challenges as regional actors continue to test the agreement's boundaries. The ceasefire's success will be crucial for regional stability and international efforts to prevent further escalation.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZVSDV2aHBYOHM1bjdsRUdfWGFMSzNySlMxNElEaUhvWElEVmdBdnlXd2dKekZsSnB0RHNpbXMzV2o0ZEhESjJGYUlpZjgwT2x5NWEwUHZ0UnB5bV9zOEhFUEROQlJtZkM3LXdGSG9fLTFJa2RnSk40V3ZVWUNnSnRoa0N2STlsYi1aT0JQckpkM05nSml0VA?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "Middle East"]
+    },
+    {
+      "headline": "US House passes war powers resolution challenging Trump on Iran military operations",
+      "summary": "The US House of Representatives voted 215-208 to approve a war powers resolution directing President Trump to end military hostilities with Iran, marking a rare bipartisan rebuke of the administration's approach to the conflict. Four Republicans joined Democrats to pass the measure after three previous failed attempts, demonstrating growing congressional pressure on the White House's Iran policy. The resolution, though largely symbolic without Senate approval, signals significant internal debate within American government over military engagement in the Middle East. The vote reflects broader tensions between executive and legislative branches over war powers authority. This congressional action has international implications for US regional policy and alliance relationships.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21Kb1NONEJ3ckoxR3N4d3c?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cj6pldg39deo"
+        },
+        {
+          "name": "NPR News",
+          "url": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote"
+        }
+      ],
+      "tags": ["conflict", "diplomacy", "governance"]
+    },
+    {
+      "headline": "Iranian drone strikes Kuwait airport, escalating Middle East tensions amid ceasefire implementation",
+      "summary": "Iranian drones attacked Kuwait's airport in a strike that killed at least one person, testing the fragile Israel-Lebanon ceasefire agreement announced hours earlier. The attack represents direct Iranian military action in the Gulf region and signals that regional actors remain willing to engage in hostile operations despite diplomatic efforts. Kuwait's government reported the incident as tensions continue to simmer across the broader Middle East conflict zone. The drone strike underscores the complexity of achieving lasting peace when multiple state and non-state actors maintain military capabilities and competing interests. The incident raises questions about whether the ceasefire framework can contain regional escalation involving major powers.",
+      "sources": [
+        {
+          "name": "AP News (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWw3aG9uNmppOHRXVF9yQ2tkOGdlN3g5c2FnQllkOUxxYXhqSUVoUlRYc21pVHlHdjNFOE1nbDZjNlYta2dsVW4tUV9kekZFM2NVWUZ2UGRXSzZkXzBmSm54VTdlb2FBQkdsVHJnQ0R1aEJncGF5N2xPaEdGVDdWZG1vaS1WQU9EeVJZZWJzQlgyaWV1S21MNmhQT1pXb0tNbXBrbzQ0bmRaQXFjQ3JETEpCVVM3Zw?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf"
+        }
+      ],
+      "tags": ["conflict", "geopolitics", "Middle East"]
+    },
+    {
+      "headline": "SpaceX announces $1.77 trillion valuation ahead of historic IPO",
+      "summary": "Elon Musk's SpaceX announced plans to launch a historic initial public offering with a valuation of approximately $1.77 trillion, seeking to raise roughly $75 billion by selling shares at $135 per share. The IPO represents one of the largest capital raises in history and reflects enormous investor appetite for space technology and commercial space exploration. The company's valuation underscores the growing commercial importance of space industries and satellite technologies for global communications and infrastructure. Success in this offering could reshape the commercial space sector and influence investment patterns in technology and aerospace globally. The IPO is expected to have significant implications for space industry development, competition, and innovation worldwide.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo"
+        }
+      ],
+      "tags": ["technology", "economy", "business"]
+    },
+    {
+      "headline": "China imposes one-year ban on four New Zealand MPs over Taiwan visit",
+      "summary": "China announced a one-year ban on four New Zealand Members of Parliament who recently visited Taiwan, escalating diplomatic tensions between Beijing and Wellington over the island's political status. The lawmakers were informed of the ban upon returning from their Taiwan visit last month, representing China's punitive response to what it views as foreign interference in its internal affairs. The action reflects Beijing's hardened stance on Taiwan-related diplomatic engagement and its willingness to use targeted sanctions against foreign legislators. The ban underscores growing geopolitical competition between China and Western democracies over Taiwan's status and influence in the Asia-Pacific region. The incident highlights how Taiwan remains a flashpoint in international relations and a litmus test for countries' diplomatic relationships with Beijing.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cx21r1y223ro"
+        }
+      ],
+      "tags": ["geopolitics", "diplomacy", "Taiwan"]
+    },
+    {
+      "headline": "Germany blames Russia for 'bitter defeat' in UN Security Council election bid",
+      "summary": "Germany attributed its failure to secure a seat on the UN Security Council to Russian opposition, with officials claiming Moscow deliberately stirred up international sentiment against Germany's bid due to Berlin's support for Ukraine. The election result represents a significant diplomatic setback for Germany and reflects deepening geopolitical divisions at the United Nations over the Ukraine conflict. Germany's loss of the Security Council seat limits its ability to influence major international security decisions during a period of heightened global tensions. Russia's alleged campaign against Germany demonstrates how the Ukraine conflict is reshaping alliances and voting patterns within international institutions. The outcome underscores the polarization of UN diplomacy along Cold War-style divisions between Western and Russian-aligned blocs.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cgmp3pg71edo"
+        }
+      ],
+      "tags": ["geopolitics", "governance", "diplomacy"]
+    },
+    {
+      "headline": "Meta accuses Australia of breaching trade agreement, invokes US trade action threat",
+      "summary": "Meta Platforms accused Australia of breaching its Free Trade Agreement (FTA) and indicated the company may pursue US trade action against the country, escalating a dispute between the technology giant and the Australian government. The conflict centers on Australia's regulatory approach to technology companies and content standards. Meta's invocation of potential US trade mechanisms represents a significant escalation in the dispute and demonstrates how tech companies are willing to leverage international trade tools to challenge regulatory decisions. The controversy highlights growing tensions between major technology firms and democratic governments over content regulation and corporate accountability. The dispute has broader implications for how international trade agreements will be applied to digital economy disputes going forward.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3hsQ0NuendWbVRWZE9hV2ZYa1paeXZRY0ExcnFMWG02WDJTYUdFTGN6cV9ocEJrMkhKcWlfUGIwZnNjZ0R0bC1NQUFVamI0bHFzX1pHNEEwbFFRTGxUNERaOEFYaFZCdVFTQmFaZ0lQZnl6R3ZpbWdtUWxHM1NYSGlqYU9uckJQaml3SDRhTEY3SjZ3cFJ1VzNEOURsNU41a29fZVBnYmxKQUM4X3hPUGx6QzA5WjQ?oc=5"
+        }
+      ],
+      "tags": ["trade", "technology", "economy"]
+    },
+    {
+      "headline": "South Korea and China agree first flight rights expansion in seven years",
+      "summary": "South Korea and China announced their first expansion of flight rights in seven years, marking a diplomatic warming between the two major East Asian economies after years of tension. The agreement expands air transportation connections and signals improved bilateral relations between Seoul and Beijing. The expansion addresses years of constraints on aviation routes and reflects both countries' interest in strengthening economic and diplomatic ties. The agreement comes amid broader efforts to stabilize Asia-Pacific geopolitics following various regional disputes. The development has implications for regional trade, tourism, and the broader stability of East Asia's diplomatic landscape.",
+      "sources": [
+        {
+          "name": "Reuters (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1QxREpieWlNUlQzMEtrbGVVOWVKd3F0YnJpejhHWjlhTDJ5Q19vQldfNDZjeXdJWHBBUlBvTHAyVkRMSGNjaEU1MDEybVFwRzNqYVgtWF80b3lCQU5Yb1BiYVAwRDdjcFM1Tlp2Q2Q0UEdzREVoakdUVlBYRjJoWGN6QWg1SmIzNnFUQURCMkVweFk4Z2xiaDZ0S2xyLXpjTkRvNTQ2YVg5bVNrUmc2MnVudw?oc=5"
+        }
+      ],
+      "tags": ["diplomacy", "trade", "economy"]
+    }
+  ]
+}

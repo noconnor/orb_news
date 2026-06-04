@@ -1,0 +1,79 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-06-04T06:30:00Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Ukraine reports territorial gains as Russia suffers second consecutive month of losses",
+      "summary": "According to the Institute for the Study of War, Ukraine recaptured more territory than it lost in May 2026, marking the second consecutive month of net territorial gains. Ukraine has executed successful tactical counterattacks and long-range strikes that have slowed Russian advances in Eastern Ukraine. A Ukrainian drone strike targeted a Russian warship at the Kronstadt naval base near St. Petersburg, while a separate strike killed at least three people in Crimea. The territorial reversal represents a significant shift after months of Russian advance, with data showing Russian forces lost 93 square miles of Ukrainian territory over the past four weeks. This momentum comes as diplomatic negotiations progress, with Presidents Trump and Zelenskyy reported to have agreed on 90-95 percent of a peace proposal.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/ukraine-pushed-russia-back-in-may-for-second-month-running-isw-finds"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260604-ukrainian-strike-kills-three-in-crimea-after-kyiv-targets-st-petersburg-energy-military-sites"}
+      ],
+      "tags": ["conflict", "diplomacy", "defence"]
+    },
+    {
+      "headline": "Israel and Lebanon agree to conditional ceasefire following US-led diplomatic talks",
+      "summary": "Israel and Lebanon have reached a conditional ceasefire agreement mediated through US-led diplomatic efforts, with both countries rejecting 'any attempt, by any state or non-state actor, to hold Lebanon's future hostage.' The ceasefire comes as Israel has recently escalated its attacks and is conducting its deepest ground offensive into Lebanon in two decades. The agreement represents a significant de-escalation in regional tensions following months of heightened military operations. The diplomatic resolution demonstrates continued international engagement in regional conflict resolution, with implications for broader Middle Eastern stability and European security interests.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo"},
+        {"name": "Euronews", "url": "http://www.euronews.com/2026/06/04/israel-and-lebanon-agree-to-conditional-ceasefire-following-us-led-talks"}
+      ],
+      "tags": ["diplomacy", "conflict", "defence"]
+    },
+    {
+      "headline": "EU faces energy crisis as inflation rises and fuel supplies run critically low",
+      "summary": "Europe is grappling with an ongoing energy crisis stemming from conflict over key trade routes and oil supplies, driving up living costs across the continent. The European Commission warned in late April that the EU has only six weeks of remaining jet fuel supplies, though it currently faces no fuel shortages. The energy crisis is directly impacting economic performance, with annual headline inflation rising to 3 percent in April, driven by a 10.9 percent increase in energy prices alone. Energy costs continue to exceed expectations and weigh heavily on European economies. Senior political leaders and experts gathered at the Brussels Economic Security Forum on 4-5 June to discuss Europe's response to strategic energy dependencies and economic governance challenges.",
+      "sources": [
+        {"name": "European Union", "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260506~1bbd4ed780.en.html"}
+      ],
+      "tags": ["economy", "climate", "governance"]
+    },
+    {
+      "headline": "Portugal faces general strike as unions protest labour reforms",
+      "summary": "A general strike disrupted transport, schools, and hospitals across Portugal as unions protested labour reforms that they argue weaken workers' rights. The strike represents growing social tension over employment conditions and government policy in the EU member state. The action reflects broader European concerns about labour protection and workers' rights as governments implement economic restructuring. The disruption to essential services underscores the intensity of opposition to the proposed changes and broader discontent with labour market reforms across Southern Europe.",
+      "sources": [
+        {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["governance", "social", "economy"]
+    },
+    {
+      "headline": "Migrant labour abuse in Italy highlighted following deadly attack on agricultural workers",
+      "summary": "Four migrant fruit pickers were killed in a burned-out van in Calabria, prompting national discussion about systematic labour exploitation in southern Italy. The deadly attack has brought attention to the dangerous conditions and abusive practices that migrant workers face in agricultural industries across Europe. Investigations into the incident have revealed patterns of labour abuse and unsafe working conditions that extend beyond this single tragedy. The case highlights broader EU migration and labour protection challenges, particularly in countries with significant agricultural sectors reliant on migrant workers. European policymakers are examining enforcement of labour standards and worker protections across member states.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/deadly-attack-on-migrants-highlights-issue-of-labour-abuse-in-italy"}
+      ],
+      "tags": ["migration", "social", "governance"]
+    },
+    {
+      "headline": "EU Green Week 2026 emphasizes nature-positive economy as pillar of European prosperity",
+      "summary": "The 26th edition of EU Green Week puts the spotlight on the business case for nature, demonstrating that a nature-positive economy is essential for Europe's prosperity, resilience, and competitiveness. The initiative brings together business leaders, policymakers, and environmental experts to advance climate and biodiversity commitments across the EU. The focus on nature-positive economics reflects the European Union's broader climate strategy and commitment to the 2040 'tobacco-free generation' targets alongside environmental sustainability goals. The conference highlights how economic development and environmental protection can be aligned to strengthen European economies. Policy discussions are advancing proposals for reviewing EU excise duties on tobacco and related products as part of comprehensive public health and climate strategies.",
+      "sources": [
+        {"name": "European Union", "url": "https://green-week.event.europa.eu/index_en"}
+      ],
+      "tags": ["climate", "regulation", "economy"]
+    },
+    {
+      "headline": "Justice and Home Affairs Council discusses Schengen security and migration system upgrades",
+      "summary": "The EU Justice and Home Affairs Council met on 4-5 June 2026 to address critical issues affecting European mobility and security. Ministers discussed the overall state of the Schengen area and reviewed implementation of large-scale IT systems including the Entry/Exit System and ETIAS (European Travel Information and Authorisation System). Negotiations between Parliament and Council are underway to reach agreement on updates to the air passenger rights regulation, focusing on compensation thresholds and passenger protections. The meeting reflects ongoing EU efforts to balance security concerns with mobility across member states. Discussions highlight the complexity of managing border security and passenger rights in an integrated European system.",
+      "sources": [
+        {"name": "European Union", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/press-briefing-justice-and-home-affairs-council-of-4-and-5-june-2026/"}
+      ],
+      "tags": ["governance", "migration", "regulation"]
+    },
+    {
+      "headline": "European Union Prize for Literature announces 2026 winners across Central and Eastern Europe",
+      "summary": "The jury of the European Union Prize for Literature has announced the 2026 winners, with Dora Kaprálová from Czechia winning the Grand Prix with 'Mariborská hypnóza' (Maribor Hypnosis), while special mentions went to Hélène Frédérick from France and Vladimir Vujović from Montenegro. The awards celebrate literary excellence and cultural achievement across the European Union. The selection highlights diverse voices from Central Europe, Western Europe, and the Balkans. The EU Prize for Literature recognises outstanding literary works and contributes to European cultural cohesion and the promotion of European literature internationally.",
+      "sources": [
+        {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events/featured-news_en"}
+      ],
+      "tags": ["governance", "EU"]
+    }
+  ]
+}
