@@ -1,0 +1,79 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-06-10T05:01:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "ok",
+    "npr": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Iran Retaliates Against US Military Strikes with Missile and Drone Attacks on Regional Targets",
+      "summary": "Iran launched a major military response following US strikes near the Strait of Hormuz, targeting US bases in Jordan, Bahrain, and Kuwait with missiles and drones. The escalation began after the US attacked Iranian ports and islands over the downing of an American patrol helicopter. President Trump had vowed to respond to Iran's initial actions, triggering this cycle of military exchanges. The attacks have spooked global financial markets, with oil prices rising nearly 1% as investors worry about supply disruptions. The confrontation represents a dangerous escalation in US-Iran tensions with potential implications for global energy security and regional stability.",
+      "sources": [
+        {"name": "Reuters (via Google News)", "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz"},
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/cze9359gglyo"}
+      ],
+      "tags": ["conflict", "diplomacy", "geopolitics"]
+    },
+    {
+      "headline": "TSMC, World's Largest Chipmaker, Warns of Potential Price Increases Amid Surging AI Demand",
+      "summary": "Taiwan Semiconductor Manufacturing Company executives discussed the implications of the AI boom in a rare interview, signaling that rising production costs may necessitate price increases for microchips. As the world's dominant chipmaker, TSMC's pricing decisions have global ramifications for the technology industry and consumer electronics. The cost pressures reflect both increased demand from AI development and geopolitical complexities surrounding semiconductor manufacturing. TSMC's potential price hikes could impact everything from smartphones to data centers worldwide. This development highlights how competitive pressures in advanced chip production are reshaping technology economics globally.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo"}
+      ],
+      "tags": ["technology", "economy", "trade"]
+    },
+    {
+      "headline": "Myanmar Military Gains Ground as Rebels Face Losses in Ongoing Conflict",
+      "summary": "Rebel forces in Myanmar are losing territorial ground as the military intensifies its campaign with forced recruitment of soldiers. The BBC traveled with rebel units to frontline positions to document how the civil war is unfolding across the country. The military's aggressive recruitment tactics and forward momentum suggest a shift in the balance of power in the conflict. The humanitarian impact of ongoing fighting and forced conscription raises serious concerns for civilians caught in the crossfire. This development could reshape Myanmar's political future and regional stability in Southeast Asia.",
+      "sources": [
+        {"name": "BBC World", "url": "https://www.bbc.com/news/articles/c20y6966xqzo"}
+      ],
+      "tags": ["conflict", "humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "Air Canada Pilot Charged with Fraud After Flying 17 Years Without Proper License",
+      "summary": "A former Air Canada captain was charged with fraud for allegedly commanding more than 900 flights without the required pilot credentials over a 17-year period. The case raises serious questions about aviation safety oversight and how such a massive oversight in licensing could persist undetected for nearly two decades. Airlines worldwide rely on rigorous certification processes, making this breach of protocols alarming to industry regulators and passenger safety advocates. The investigation suggests potential gaps in both pilot verification procedures and ongoing credential monitoring by major carriers. This scandal has implications for aviation safety standards across the industry globally.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/6/10/air-canada-pilot-accused-of-flying-for-17-years-without-proper-licence"}
+      ],
+      "tags": ["economy", "humanitarian", "trade"]
+    },
+    {
+      "headline": "Bolivia Government Authorizes Military Action to Suppress Nationwide Protests",
+      "summary": "The Bolivian government approved military measures to respond to escalating nationwide protests, marking a significant escalation in state response to civil unrest. The authorization allows armed forces to intervene against demonstrators, raising human rights concerns and reflecting deepening political divisions in the country. Mass protests indicate widespread dissatisfaction with government policies, though specific grievances vary across regions and groups. The use of military force against civilians represents a serious shift in Bolivia's approach to managing domestic dissent. International observers are monitoring the situation closely as it could set precedent for government responses to civil unrest across the region.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bolivia-approves-military-measures-against-nationwide-protests"}
+      ],
+      "tags": ["conflict", "humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "Belfast Erupts in Violence Following Refugee Stabbing Attack, Vehicles Torched",
+      "summary": "Violent unrest gripped Belfast after a Sudanese man was arrested in connection with a stabbing attack in north Belfast. Protesters torched cars and buildings in the subsequent riots, illustrating the rapid escalation from a localized crime to widespread civil disorder. The incident highlights tensions around immigration and integration in Northern Ireland and raised broader questions about public safety and community relations. Police and emergency services struggled to contain the violence as it spread across multiple neighborhoods. The outbreak reflects simmering social tensions that can rapidly boil over in response to triggering incidents.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack"}
+      ],
+      "tags": ["humanitarian", "conflict", "social"]
+    },
+    {
+      "headline": "Brazil Intercepts 108 Cuban Immigrants as Asylum Seekers Surge in Region",
+      "summary": "Brazilian authorities intercepted 108 Cuban immigrants amid a documented increase in asylum applications from the Caribbean nation. The interception reflects changing migration patterns in Latin America as Cubans increasingly seek entry to other countries in the region. Brazil's immigration enforcement is struggling to manage the growing flow of asylum seekers despite increased interception efforts. The trend suggests deteriorating conditions in Cuba or growing economic desperation that is driving larger numbers to attempt migration. This migration pressure is creating policy challenges across multiple Latin American countries dealing with asylum applications.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications"}
+      ],
+      "tags": ["humanitarian", "economy", "diplomacy"]
+    },
+    {
+      "headline": "South Korea's Stock Market Boom Creates Generation of Novice Investors",
+      "summary": "South Korea's surging stock market is attracting first-time investors in record numbers, marking a significant shift in national investment patterns. Historically, property ownership has dominated Korean wealth-building strategies, but the booming equity market is drawing retail investors into stocks. The phenomenon reflects both strong market performance and changing attitudes among younger Koreans toward wealth accumulation. Economic analysts are watching the trend closely to assess whether this represents a sustainable shift in savings behavior or potential bubble formation. The development has implications for South Korea's economic growth and financial stability as more citizens build wealth in equity markets.",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/6/10/south-koreas-booming-stock-market-mints-a-generation-of-novice-investors"}
+      ],
+      "tags": ["economy", "technology", "trade"]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-06-10T10:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Bill Kenneally Report Finds 'Clear and Serious Dereliction of Duty' by Gardaí",
+      "summary": "A comprehensive investigative report into decades of sexual abuse by Bill Kenneally has revealed systemic failures in law enforcement response, with findings describing serious dereliction of duty by senior Garda officers even by 1980s standards. The state will issue formal apologies to victims, who have also sought apologies from gardaí, Fianna Fáil, and the Diocese of Waterford. One survivor described finally feeling listened to after being told by gardaí in 1985 that he was too young to report his abuse as a 14-year-old, highlighting a missed opportunity for early intervention. The report underscores institutional failures in protecting vulnerable citizens from abusive individuals. This landmark inquiry has prompted significant government and institutional accountability.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/bill-kenneally-final-report-released-7064718-Jun2026/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/kenneally-victims-apology-7065051-Jun2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/06/09/bill-kenneally-abhorrent-crimesand-significant-issues-of-public-concern-raised-in-landmark-investigative-report/"}
+      ],
+      "tags": ["crime", "justice", "politics"]
+    },
+    {
+      "headline": "Cardiac Specialists Strike Over Pay Dispute Delays Open-Heart Surgeries",
+      "summary": "Up to 14 open-heart surgeries have been delayed this week as cardiac specialists strike over unresolved pay disputes. The HSE has failed to implement Labour Court recommendations on perfusionist pay scales, forcing cardiac units to scale back operations. The strike represents escalating tensions between healthcare workers and management over compensation and working conditions. Delayed surgeries create serious risks for patients requiring urgent cardiac interventions. The dispute highlights ongoing staffing and remuneration challenges within Ireland's healthcare system.",
+      "sources": [
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/hse-strike-ireland-7064414-Jun2026/"}
+      ],
+      "tags": ["health", "economy", "social"]
+    },
+    {
+      "headline": "Government Must Borrow to Fund New Savings Funds, Fiscal Advisory Council Warns",
+      "summary": "The Irish Fiscal Advisory Council has cautioned that two government-established long-term savings funds designed to retain corporation tax revenues will have to be part-funded by borrowing. Despite criticism for not deploying windfall corporate tax revenue, the government has actually been spending accumulated funds and will need to borrow to maintain intended contributions. The warning raises questions about fiscal strategy and the sustainability of the savings fund model. This development signals potential constraints on the government's future spending capacity and public investment plans. The council's assessment underscores the complexity of managing Ireland's volatile tax revenues.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0610/1577650-fiscal-advisory-council-savings-funds/"},
+        {"name": "TheJournal.ie", "url": "https://www.thejournal.ie/irish-government-will-borrow-to-save-7065086-Jun2026/"}
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "Immigrants Make Higher Fiscal Contribution Than Irish-Born, ESRI Study Finds",
+      "summary": "Research from the Economic and Social Research Institute (ESRI) reveals that foreign-born residents have made a higher fiscal contribution than Irish-born on average over the past 20 years. The study provides evidence-based analysis of immigration's economic impact on Irish public finances. The findings challenge narratives around immigrant contributions to the state and support integration-focused policy discussions. The research comes amid ongoing national debate about immigration policy and social cohesion. The data offers important context for policy decisions regarding immigration and social investment.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/social-affairs/2026/06/10/immigrants-make-higher-fiscal-contribution-than-irish-born-esri-study-finds/"}
+      ],
+      "tags": ["economy", "social", "politics"]
+    },
+    {
+      "headline": "Belfast Knife Attack Sparks Unrest; Multiple Arrests Made",
+      "summary": "A stabbing incident in Belfast prompted civil unrest, with several homes and a bus set on fire as hundreds took to the streets in response. Police made arrests as tensions escalated across the city following the serious knife attack. The incident reflects ongoing security concerns and communal tensions in Northern Ireland. Vehicles were deliberately torched during the disturbances, requiring emergency response coordination. The situation underscores persistent challenges around community safety and interethnic relations in Belfast.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/06/09/arrest-made-after-man-seriously-injured-in-belfast-stabbing/"}
+      ],
+      "tags": ["crime", "social"]
+    },
+    {
+      "headline": "Government Invests €460 Million in Seven New Research Centres",
+      "summary": "The Irish government has announced a significant €460 million investment programme establishing seven new research centres across the country. The investment aims to strengthen Ireland's research capability and competitiveness in key sectors. The initiative represents a substantial commitment to knowledge infrastructure and scientific advancement. The new centres will contribute to economic development and innovation ecosystems. This funding decision signals government prioritization of research and development as a driver of future economic growth.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0610/1577624-research-centres/"}
+      ],
+      "tags": ["economy", "politics"]
+    },
+    {
+      "headline": "Family Carers Face Severe Financial Strain; 71% Report Difficulty",
+      "summary": "A Family Carers Ireland report indicates that 71 percent of family carers face significant financial difficulty while providing care for relatives. One mother caring for disabled twin children emphasizes that respite care is critical for carers' wellbeing and sustainability. Family carers provide essential unpaid support to the healthcare and social care system but often lack adequate financial support themselves. The report highlights the relentless nature of caregiving responsibilities without sufficient state support. These findings underscore the need for enhanced respite services and financial assistance for Ireland's family carers.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/social-affairs/2026/06/09/its-relentless-mother-caring-for-disabled-twin-children-says-respite-critical-for-carers/"}
+      ],
+      "tags": ["health", "social", "economy"]
+    },
+    {
+      "headline": "Dáil to Debate Further Motion Opposing Ireland's Football Match Against Israel",
+      "summary": "The Dáil is scheduled to debate another motion in opposition to Ireland's autumn football internationals against Israel. The motion reflects ongoing political and public concern about the fixture. The debate will provide another opportunity for parliamentarians to express positions on the controversial match. The continued focus on this issue demonstrates its significance in Irish political discourse. The government and FAI face pressure to resolve the matter ahead of the fixture.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0610/1577649-israel-soccer-boycott/"}
+      ],
+      "tags": ["politics", "sport"]
+    }
+  ]
+}

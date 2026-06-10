@@ -1,0 +1,414 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-06-10T10:30:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Bill Kenneally Report Finds 'Clear and Serious Dereliction of Duty' by Garda\u00ed",
+        "summary": "A comprehensive investigative report into decades of sexual abuse by Bill Kenneally has revealed systemic failures in law enforcement response, with findings describing serious dereliction of duty by senior Garda officers even by 1980s standards. The state will issue formal apologies to victims, who have also sought apologies from garda\u00ed, Fianna F\u00e1il, and the Diocese of Waterford. One survivor described finally feeling listened to after being told by garda\u00ed in 1985 that he was too young to report his abuse as a 14-year-old, highlighting a missed opportunity for early intervention. The report underscores institutional failures in protecting vulnerable citizens from abusive individuals. This landmark inquiry has prompted significant government and institutional accountability.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/bill-kenneally-final-report-released-7064718-Jun2026/"
+          },
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/kenneally-victims-apology-7065051-Jun2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/06/09/bill-kenneally-abhorrent-crimesand-significant-issues-of-public-concern-raised-in-landmark-investigative-report/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "justice",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Cardiac Specialists Strike Over Pay Dispute Delays Open-Heart Surgeries",
+        "summary": "Up to 14 open-heart surgeries have been delayed this week as cardiac specialists strike over unresolved pay disputes. The HSE has failed to implement Labour Court recommendations on perfusionist pay scales, forcing cardiac units to scale back operations. The strike represents escalating tensions between healthcare workers and management over compensation and working conditions. Delayed surgeries create serious risks for patients requiring urgent cardiac interventions. The dispute highlights ongoing staffing and remuneration challenges within Ireland's healthcare system.",
+        "sources": [
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/hse-strike-ireland-7064414-Jun2026/"
+          }
+        ],
+        "tags": [
+          "health",
+          "economy",
+          "social"
+        ]
+      },
+      {
+        "headline": "Government Must Borrow to Fund New Savings Funds, Fiscal Advisory Council Warns",
+        "summary": "The Irish Fiscal Advisory Council has cautioned that two government-established long-term savings funds designed to retain corporation tax revenues will have to be part-funded by borrowing. Despite criticism for not deploying windfall corporate tax revenue, the government has actually been spending accumulated funds and will need to borrow to maintain intended contributions. The warning raises questions about fiscal strategy and the sustainability of the savings fund model. This development signals potential constraints on the government's future spending capacity and public investment plans. The council's assessment underscores the complexity of managing Ireland's volatile tax revenues.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0610/1577650-fiscal-advisory-council-savings-funds/"
+          },
+          {
+            "name": "TheJournal.ie",
+            "url": "https://www.thejournal.ie/irish-government-will-borrow-to-save-7065086-Jun2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Immigrants Make Higher Fiscal Contribution Than Irish-Born, ESRI Study Finds",
+        "summary": "Research from the Economic and Social Research Institute (ESRI) reveals that foreign-born residents have made a higher fiscal contribution than Irish-born on average over the past 20 years. The study provides evidence-based analysis of immigration's economic impact on Irish public finances. The findings challenge narratives around immigrant contributions to the state and support integration-focused policy discussions. The research comes amid ongoing national debate about immigration policy and social cohesion. The data offers important context for policy decisions regarding immigration and social investment.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/social-affairs/2026/06/10/immigrants-make-higher-fiscal-contribution-than-irish-born-esri-study-finds/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "social",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Belfast Knife Attack Sparks Unrest; Multiple Arrests Made",
+        "summary": "A stabbing incident in Belfast prompted civil unrest, with several homes and a bus set on fire as hundreds took to the streets in response. Police made arrests as tensions escalated across the city following the serious knife attack. The incident reflects ongoing security concerns and communal tensions in Northern Ireland. Vehicles were deliberately torched during the disturbances, requiring emergency response coordination. The situation underscores persistent challenges around community safety and interethnic relations in Belfast.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/06/09/arrest-made-after-man-seriously-injured-in-belfast-stabbing/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "social"
+        ]
+      },
+      {
+        "headline": "Government Invests \u20ac460 Million in Seven New Research Centres",
+        "summary": "The Irish government has announced a significant \u20ac460 million investment programme establishing seven new research centres across the country. The investment aims to strengthen Ireland's research capability and competitiveness in key sectors. The initiative represents a substantial commitment to knowledge infrastructure and scientific advancement. The new centres will contribute to economic development and innovation ecosystems. This funding decision signals government prioritization of research and development as a driver of future economic growth.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0610/1577624-research-centres/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Family Carers Face Severe Financial Strain; 71% Report Difficulty",
+        "summary": "A Family Carers Ireland report indicates that 71 percent of family carers face significant financial difficulty while providing care for relatives. One mother caring for disabled twin children emphasizes that respite care is critical for carers' wellbeing and sustainability. Family carers provide essential unpaid support to the healthcare and social care system but often lack adequate financial support themselves. The report highlights the relentless nature of caregiving responsibilities without sufficient state support. These findings underscore the need for enhanced respite services and financial assistance for Ireland's family carers.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/social-affairs/2026/06/09/its-relentless-mother-caring-for-disabled-twin-children-says-respite-critical-for-carers/"
+          }
+        ],
+        "tags": [
+          "health",
+          "social",
+          "economy"
+        ]
+      },
+      {
+        "headline": "D\u00e1il to Debate Further Motion Opposing Ireland's Football Match Against Israel",
+        "summary": "The D\u00e1il is scheduled to debate another motion in opposition to Ireland's autumn football internationals against Israel. The motion reflects ongoing political and public concern about the fixture. The debate will provide another opportunity for parliamentarians to express positions on the controversial match. The continued focus on this issue demonstrates its significance in Irish political discourse. The government and FAI face pressure to resolve the matter ahead of the fixture.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0610/1577649-israel-soccer-boycott/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "sport"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-06-10T06:01:23Z",
+    "source_status": {
+      "bbc": "ok",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_blocked_domain",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "EU announces 21st sanctions package against Russia with military entry ban and oil price cap",
+        "summary": "The European Commission announced a comprehensive 21st package of anti-Russian sanctions on June 9, 2026, marking a significant escalation in EU pressure on Moscow. The package includes a lifelong ban on entry to the Schengen zone for all Russian military personnel involved in the special military operation in Ukraine. The EU also plans to extend the current price cap for Russian oil at $44 per barrel to prevent excessive profits from rising global prices. The measure reflects coordinated European action to maintain economic and military pressure on Russia while supporting Ukraine's defense. European leaders are backing diplomatic efforts alongside sanctions, with Ukrainian President Zelensky reporting positive conversations with US envoys about a potential ceasefire negotiation.",
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://eu.news-pravda.com/world/2026/06/09/205748.html"
+          }
+        ],
+        "tags": [
+          "EU",
+          "sanctions",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Franco-German fighter jet project scrapped, widening defence partnership rift",
+        "summary": "The long-standing European defence partnership between France and Germany has encountered a major setback with the scrapping of their joint flagship fighter jet project. The decision highlights growing discord between the two nations on defence strategy and future military cooperation. The cancellation of this high-profile collaborative initiative underscores tensions over European defence spending priorities and industrial coordination. The development has implications for broader EU defence autonomy and the future of cross-border European weapons programmes. French and German officials will need to navigate rebuilding trust on defence matters while pursuing alternative collaboration frameworks.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/ckg02541ykpo"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Spain's housing crisis deepens as rental costs consume up to half of wages",
+        "summary": "Spain's rental housing market has deteriorated significantly, with the average share of wages spent on housing rising 12 percentage points since 2019. In major cities like Madrid and Catalonia, renters are struggling as housing costs have reached crisis levels, consuming up to half of average wages. The escalation reflects broader European challenges with housing affordability and the mismatch between wages and property values across the continent. Spain's housing crisis exemplifies wider EU-wide issues affecting younger generations and lower-income households. The situation demands urgent policy responses from Spanish authorities and may influence broader EU housing policy discussions.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/business/2026/06/09/spain-trapped-in-rental-crisis-up-to-half-of-wages-go-on-housing"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "Pope Leo XIV addresses mental health crisis and domestic violence in Barcelona visit",
+        "summary": "Pope Leo XIV travelled to Barcelona on June 9, 2026, where he addressed what he described as the 'invisible and widespread malaise' of depression and mental health challenges across Europe. At a prayer vigil, the Pope heard personal testimonies from young people, including a survivor of a suicide attempt, and called for public health systems to prioritize mental wellbeing. His remarks acknowledged the growing mental health crisis affecting European youth and communities. The Pope's visit to Barcelona, including a stop in Madrid at the Santa Maria de la Almudena Cathedral with Queen Sofia, underscored the spiritual dimensions of addressing social wellbeing across Europe. The papal message resonated with thousands of attendees gathered for religious services and ceremonies.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260609-pope-warns-growing-mental-health-crisis-domestic-violence-barcelona-vigil"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/video/2026/06/09/spain-thousands-gather-as-pope-leo-xiv-reaches-barcelona"
+          }
+        ],
+        "tags": [
+          "social",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Belfast unrest escalates as anti-immigration protests turn violent following street stabbing",
+        "summary": "Violent unrest erupted in Belfast following a serious street stabbing incident on June 9, 2026, prompting far-right figures to mobilize anti-immigration demonstrations across the UK. Multiple fires broke out across the city with cars and homes burning, as police and emergency services responded to disorder overnight. A man of Sudanese nationality was arrested in connection with the violent assault, which was captured on video and widely shared on social media. The incident and subsequent protests reflect rising tensions around immigration and community relations in Northern Ireland. UK political leaders called for calm as the situation highlighted underlying social divisions and concerns about community integration across the region.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/videos/c5yzpg514v0o"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260609-uk-leaders-urge-calm-as-far-right-figures-call-for-anti-migrant-protests-over-belfast-stabbing"
+          },
+          {
+            "name": "Euronews",
+            "url": "http://www.euronews.com/video/2026/06/10/cars-and-homes-burn-as-unrest-erupts-in-belfast-after-knife-attack"
+          }
+        ],
+        "tags": [
+          "migration",
+          "defence",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Russian military strikes kill four in Ukraine's Kharkiv region amid escalating conflict",
+        "summary": "Russian military attacks on the Kharkiv region of Ukraine, including strikes on the city of Chuguiv, resulted in at least four deaths and ten injuries on June 9, 2026. The assaults caused significant structural damage to civilian infrastructure, continuing a pattern of escalation in military operations affecting Ukrainian civilians. The strikes underscore the ongoing human cost of the conflict and the vulnerability of civilian populations in eastern Ukraine. European leaders have expressed concern over Russian military actions while supporting continued aid and diplomatic efforts to resolve the conflict. The incident reinforces the urgency of international efforts to broker a ceasefire and protect civilian populations.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260609-russian-strikes-kill-four-in-ukraine-kharkiv-region"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "EU"
+        ]
+      },
+      {
+        "headline": "European Union advances technological sovereignty agenda with semiconductors and AI initiatives",
+        "summary": "The European Commission unveiled a European technological sovereignty package designed to strengthen the EU's capacity in semiconductors, artificial intelligence, cloud computing, and open-source software. The initiative represents a strategic effort to reduce European dependence on non-European technology platforms and establish leadership in critical digital sectors. The package includes coordinated investments and regulatory frameworks to accelerate European innovation and competitiveness. During the 2026 European Sustainable Energy Week, Commissioner Dubravka \u0160uica launched T-MED, a programme aimed at accelerating cooperation in renewable energy and clean technology across the Euro-Mediterranean region. These initiatives reflect the EU's commitment to digital autonomy and economic resilience in the face of global technological competition.",
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://european-union.europa.eu/news-and-events_en"
+          }
+        ],
+        "tags": [
+          "EU",
+          "regulation",
+          "trade"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-06-10T05:01:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "ok",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Iran Retaliates Against US Military Strikes with Missile and Drone Attacks on Regional Targets",
+        "summary": "Iran launched a major military response following US strikes near the Strait of Hormuz, targeting US bases in Jordan, Bahrain, and Kuwait with missiles and drones. The escalation began after the US attacked Iranian ports and islands over the downing of an American patrol helicopter. President Trump had vowed to respond to Iran's initial actions, triggering this cycle of military exchanges. The attacks have spooked global financial markets, with oil prices rising nearly 1% as investors worry about supply disruptions. The confrontation represents a dangerous escalation in US-Iran tensions with potential implications for global energy security and regional stability.",
+        "sources": [
+          {
+            "name": "Reuters (via Google News)",
+            "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz"
+          },
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/cze9359gglyo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "TSMC, World's Largest Chipmaker, Warns of Potential Price Increases Amid Surging AI Demand",
+        "summary": "Taiwan Semiconductor Manufacturing Company executives discussed the implications of the AI boom in a rare interview, signaling that rising production costs may necessitate price increases for microchips. As the world's dominant chipmaker, TSMC's pricing decisions have global ramifications for the technology industry and consumer electronics. The cost pressures reflect both increased demand from AI development and geopolitical complexities surrounding semiconductor manufacturing. TSMC's potential price hikes could impact everything from smartphones to data centers worldwide. This development highlights how competitive pressures in advanced chip production are reshaping technology economics globally.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo"
+          }
+        ],
+        "tags": [
+          "technology",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Myanmar Military Gains Ground as Rebels Face Losses in Ongoing Conflict",
+        "summary": "Rebel forces in Myanmar are losing territorial ground as the military intensifies its campaign with forced recruitment of soldiers. The BBC traveled with rebel units to frontline positions to document how the civil war is unfolding across the country. The military's aggressive recruitment tactics and forward momentum suggest a shift in the balance of power in the conflict. The humanitarian impact of ongoing fighting and forced conscription raises serious concerns for civilians caught in the crossfire. This development could reshape Myanmar's political future and regional stability in Southeast Asia.",
+        "sources": [
+          {
+            "name": "BBC World",
+            "url": "https://www.bbc.com/news/articles/c20y6966xqzo"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Air Canada Pilot Charged with Fraud After Flying 17 Years Without Proper License",
+        "summary": "A former Air Canada captain was charged with fraud for allegedly commanding more than 900 flights without the required pilot credentials over a 17-year period. The case raises serious questions about aviation safety oversight and how such a massive oversight in licensing could persist undetected for nearly two decades. Airlines worldwide rely on rigorous certification processes, making this breach of protocols alarming to industry regulators and passenger safety advocates. The investigation suggests potential gaps in both pilot verification procedures and ongoing credential monitoring by major carriers. This scandal has implications for aviation safety standards across the industry globally.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/6/10/air-canada-pilot-accused-of-flying-for-17-years-without-proper-licence"
+          }
+        ],
+        "tags": [
+          "economy",
+          "humanitarian",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Bolivia Government Authorizes Military Action to Suppress Nationwide Protests",
+        "summary": "The Bolivian government approved military measures to respond to escalating nationwide protests, marking a significant escalation in state response to civil unrest. The authorization allows armed forces to intervene against demonstrators, raising human rights concerns and reflecting deepening political divisions in the country. Mass protests indicate widespread dissatisfaction with government policies, though specific grievances vary across regions and groups. The use of military force against civilians represents a serious shift in Bolivia's approach to managing domestic dissent. International observers are monitoring the situation closely as it could set precedent for government responses to civil unrest across the region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bolivia-approves-military-measures-against-nationwide-protests"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Belfast Erupts in Violence Following Refugee Stabbing Attack, Vehicles Torched",
+        "summary": "Violent unrest gripped Belfast after a Sudanese man was arrested in connection with a stabbing attack in north Belfast. Protesters torched cars and buildings in the subsequent riots, illustrating the rapid escalation from a localized crime to widespread civil disorder. The incident highlights tensions around immigration and integration in Northern Ireland and raised broader questions about public safety and community relations. Police and emergency services struggled to contain the violence as it spread across multiple neighborhoods. The outbreak reflects simmering social tensions that can rapidly boil over in response to triggering incidents.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "conflict",
+          "social"
+        ]
+      },
+      {
+        "headline": "Brazil Intercepts 108 Cuban Immigrants as Asylum Seekers Surge in Region",
+        "summary": "Brazilian authorities intercepted 108 Cuban immigrants amid a documented increase in asylum applications from the Caribbean nation. The interception reflects changing migration patterns in Latin America as Cubans increasingly seek entry to other countries in the region. Brazil's immigration enforcement is struggling to manage the growing flow of asylum seekers despite increased interception efforts. The trend suggests deteriorating conditions in Cuba or growing economic desperation that is driving larger numbers to attempt migration. This migration pressure is creating policy challenges across multiple Latin American countries dealing with asylum applications.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications"
+          }
+        ],
+        "tags": [
+          "humanitarian",
+          "economy",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "South Korea's Stock Market Boom Creates Generation of Novice Investors",
+        "summary": "South Korea's surging stock market is attracting first-time investors in record numbers, marking a significant shift in national investment patterns. Historically, property ownership has dominated Korean wealth-building strategies, but the booming equity market is drawing retail investors into stocks. The phenomenon reflects both strong market performance and changing attitudes among younger Koreans toward wealth accumulation. Economic analysts are watching the trend closely to assess whether this represents a sustainable shift in savings behavior or potential bubble formation. The development has implications for South Korea's economic growth and financial stability as more citizens build wealth in equity markets.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/6/10/south-koreas-booming-stock-market-mints-a-generation-of-novice-investors"
+          }
+        ],
+        "tags": [
+          "economy",
+          "technology",
+          "trade"
+        ]
+      }
+    ]
+  }
+}

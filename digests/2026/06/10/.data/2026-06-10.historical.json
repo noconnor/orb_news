@@ -1,0 +1,46 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Iran Retaliates Against US Military Strikes with Missile and Drone Attacks on Regional Targets",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "The Tanker War, the 1973 Oil Crisis, and Operation Eagle Claw (synthesis)",
+      "date_range": "1973–2003",
+      "summary": "The current exchange activates a long chain of precedents in which military action near Persian Gulf oil infrastructure immediately reprices global energy markets and forces allied governments to choose sides. The Arab Oil Embargo of 1973 demonstrated how conflict-driven supply constraints could trigger global recession within months. The Tanker War of 1984–1988 brought the pattern directly into the Strait of Hormuz, when Iraqi and Iranian attacks on shipping drew in US naval escorts and nearly sparked a direct superpower confrontation. Operation Eagle Claw in 1980 illustrated how a single US military operation inside Iranian territory could inflame domestic politics in both countries for decades. The Iran-Iraq War showed that a prolonged Gulf conflict can be sustained far longer than either side anticipates, with humanitarian and economic costs accumulating well beyond early projections.",
+      "parallel_analysis": "Each of these precedents suggests that the current tit-for-tat dynamic, once established, is extremely difficult to walk back without a formal diplomatic framework. The absence of any active negotiating channel between Washington and Tehran at this moment is therefore the most alarming structural feature of the crisis. History consistently shows that escalation ladders in the Gulf region are far easier to climb than to descend.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Belfast Erupts in Violence Following Refugee Stabbing Attack, Vehicles Torched",
+      "story_topic": "Belfast anti-immigration riots",
+      "historical_event": "1958 Notting Hill Race Riots",
+      "date_range": "August–September 1958",
+      "summary": "The 1958 Notting Hill race riots erupted in west London when a street altercation involving a West Indian man became the pretext for more than a week of organised mob violence against Caribbean immigrant communities. Mobs of three to four hundred white youths, marshalled in part by far-right groups including Oswald Mosley's Union Movement and the White Defence League, attacked West Indian homes nightly. Police arrested over 140 people, and nine white ringleaders received exemplary five-year sentences. Declassified files later revealed that senior officers had deliberately downplayed the racial character of the violence in their public statements despite contrary testimony from officers on the ground. The riots followed months of escalating violent attacks on Black residents and were fuelled by explicitly organised far-right recruitment in working-class neighbourhoods, leaving a decade-long deterioration in police-community trust as their most lasting consequence.",
+      "parallel_analysis": "The Belfast unrest mirrors the 1958 pattern precisely: a triggering incident involving a person of foreign origin, coordinated far-right amplification via the communications technology of the day, mobs targeting immigrant communities, and official denials of organised intent. The 1958 experience demonstrates that how authorities frame and prosecute the violence in the immediate aftermath matters enormously for whether disorder subsides or deepens into a sustained pattern of communal conflict. The structural difference — social media replacing word-of-mouth and leaflets — only accelerates the mobilisation timeline, compressing what took days in 1958 into hours.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1958_Notting_Hill_race_riots"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "EU announces 21st sanctions package against Russia with military entry ban and oil price cap",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II, 1973 Oil Crisis, Korean War, Luxembourg Compromise (synthesis)",
+      "date_range": "1944–1966",
+      "summary": "The Allied Oil Campaign of World War II (1944–1945) demonstrated that systematic targeting of an enemy's energy supply chain could be decisive in shortening a conflict, but only once sustained at overwhelming scale over many months. The Arab Oil Embargo of 1973 showed the reverse dynamic: a state actor wielding energy as a weapon against industrialised economies, causing recession and forcing structural changes that persisted for decades. The EU price cap is an attempt to thread this needle — maintaining supply while denying revenue — echoing Korean War-era debates about how to use economic pressure without triggering broader escalation. The Luxembourg Compromise of 1965–1966, when France extracted a de facto unanimous veto on EU decisions, remains a reminder that EU unanimity requirements on sanctions are permanently fragile under sustained economic pressure.",
+      "parallel_analysis": "The EU's 21st sanctions package reflects a sustained but internally contested strategy: each successive round requires unanimous agreement from member states facing very different energy exposures, making incremental tightening more politically difficult than the package numbering implies. The travel ban on military personnel, while largely symbolic in immediate effect, echoes post-war accountability frameworks and establishes a long-term record that may outlast the conflict itself. History suggests that economic coercion of this kind works slowly and unevenly, and that the coalition sustaining it is always more fragile than its public posture suggests.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+      ]
+    }
+  ]
+}

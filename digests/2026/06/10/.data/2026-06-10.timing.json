@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-10",
+  "update_type": "morning",
+  "steps": {
+    "setup_and_gather": {
+      "start": 1781067609,
+      "end": 1781067709,
+      "duration_s": 100
+    },
+    "historical_and_digest": {
+      "start": 1781067709,
+      "end": 1781067981,
+      "duration_s": 272
+    },
+    "audio": {
+      "start": 1781067981,
+      "end": 1781068102,
+      "duration_s": 121
+    },
+    "commit": {
+      "start": 1781068102,
+      "end": 1781068130,
+      "duration_s": 28
+    }
+  },
+  "total_duration_s": 521,
+  "token_estimate": {
+    "text_file_bytes": 103867,
+    "baseline_tokens": 25966,
+    "estimated_input_tokens": 77898,
+    "haiku_input": 35054,
+    "haiku_output": 7010,
+    "sonnet_input": 27264,
+    "sonnet_output": 6816,
+    "opus_input": 30000,
+    "opus_output": 8000,
+    "estimated_cost_usd": 1.29
+  }
+}

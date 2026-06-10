@@ -1,0 +1,72 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-06-10T06:01:23Z",
+  "source_status": {
+    "bbc": "ok",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_blocked_domain",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "EU announces 21st sanctions package against Russia with military entry ban and oil price cap",
+      "summary": "The European Commission announced a comprehensive 21st package of anti-Russian sanctions on June 9, 2026, marking a significant escalation in EU pressure on Moscow. The package includes a lifelong ban on entry to the Schengen zone for all Russian military personnel involved in the special military operation in Ukraine. The EU also plans to extend the current price cap for Russian oil at $44 per barrel to prevent excessive profits from rising global prices. The measure reflects coordinated European action to maintain economic and military pressure on Russia while supporting Ukraine's defense. European leaders are backing diplomatic efforts alongside sanctions, with Ukrainian President Zelensky reporting positive conversations with US envoys about a potential ceasefire negotiation.",
+      "sources": [
+        {"name": "European Commission", "url": "https://eu.news-pravda.com/world/2026/06/09/205748.html"}
+      ],
+      "tags": ["EU", "sanctions", "defence"]
+    },
+    {
+      "headline": "Franco-German fighter jet project scrapped, widening defence partnership rift",
+      "summary": "The long-standing European defence partnership between France and Germany has encountered a major setback with the scrapping of their joint flagship fighter jet project. The decision highlights growing discord between the two nations on defence strategy and future military cooperation. The cancellation of this high-profile collaborative initiative underscores tensions over European defence spending priorities and industrial coordination. The development has implications for broader EU defence autonomy and the future of cross-border European weapons programmes. French and German officials will need to navigate rebuilding trust on defence matters while pursuing alternative collaboration frameworks.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/articles/ckg02541ykpo"}
+      ],
+      "tags": ["defence", "EU", "governance"]
+    },
+    {
+      "headline": "Spain's housing crisis deepens as rental costs consume up to half of wages",
+      "summary": "Spain's rental housing market has deteriorated significantly, with the average share of wages spent on housing rising 12 percentage points since 2019. In major cities like Madrid and Catalonia, renters are struggling as housing costs have reached crisis levels, consuming up to half of average wages. The escalation reflects broader European challenges with housing affordability and the mismatch between wages and property values across the continent. Spain's housing crisis exemplifies wider EU-wide issues affecting younger generations and lower-income households. The situation demands urgent policy responses from Spanish authorities and may influence broader EU housing policy discussions.",
+      "sources": [
+        {"name": "Euronews", "url": "http://www.euronews.com/business/2026/06/09/spain-trapped-in-rental-crisis-up-to-half-of-wages-go-on-housing"}
+      ],
+      "tags": ["economy", "EU", "regulation"]
+    },
+    {
+      "headline": "Pope Leo XIV addresses mental health crisis and domestic violence in Barcelona visit",
+      "summary": "Pope Leo XIV travelled to Barcelona on June 9, 2026, where he addressed what he described as the 'invisible and widespread malaise' of depression and mental health challenges across Europe. At a prayer vigil, the Pope heard personal testimonies from young people, including a survivor of a suicide attempt, and called for public health systems to prioritize mental wellbeing. His remarks acknowledged the growing mental health crisis affecting European youth and communities. The Pope's visit to Barcelona, including a stop in Madrid at the Santa Maria de la Almudena Cathedral with Queen Sofia, underscored the spiritual dimensions of addressing social wellbeing across Europe. The papal message resonated with thousands of attendees gathered for religious services and ceremonies.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260609-pope-warns-growing-mental-health-crisis-domestic-violence-barcelona-vigil"},
+        {"name": "Euronews", "url": "http://www.euronews.com/video/2026/06/09/spain-thousands-gather-as-pope-leo-xiv-reaches-barcelona"}
+      ],
+      "tags": ["social", "governance", "EU"]
+    },
+    {
+      "headline": "Belfast unrest escalates as anti-immigration protests turn violent following street stabbing",
+      "summary": "Violent unrest erupted in Belfast following a serious street stabbing incident on June 9, 2026, prompting far-right figures to mobilize anti-immigration demonstrations across the UK. Multiple fires broke out across the city with cars and homes burning, as police and emergency services responded to disorder overnight. A man of Sudanese nationality was arrested in connection with the violent assault, which was captured on video and widely shared on social media. The incident and subsequent protests reflect rising tensions around immigration and community relations in Northern Ireland. UK political leaders called for calm as the situation highlighted underlying social divisions and concerns about community integration across the region.",
+      "sources": [
+        {"name": "BBC News", "url": "https://www.bbc.com/news/videos/c5yzpg514v0o"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260609-uk-leaders-urge-calm-as-far-right-figures-call-for-anti-migrant-protests-over-belfast-stabbing"},
+        {"name": "Euronews", "url": "http://www.euronews.com/video/2026/06/10/cars-and-homes-burn-as-unrest-erupts-in-belfast-after-knife-attack"}
+      ],
+      "tags": ["migration", "defence", "governance"]
+    },
+    {
+      "headline": "Russian military strikes kill four in Ukraine's Kharkiv region amid escalating conflict",
+      "summary": "Russian military attacks on the Kharkiv region of Ukraine, including strikes on the city of Chuguiv, resulted in at least four deaths and ten injuries on June 9, 2026. The assaults caused significant structural damage to civilian infrastructure, continuing a pattern of escalation in military operations affecting Ukrainian civilians. The strikes underscore the ongoing human cost of the conflict and the vulnerability of civilian populations in eastern Ukraine. European leaders have expressed concern over Russian military actions while supporting continued aid and diplomatic efforts to resolve the conflict. The incident reinforces the urgency of international efforts to broker a ceasefire and protect civilian populations.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260609-russian-strikes-kill-four-in-ukraine-kharkiv-region"}
+      ],
+      "tags": ["conflict", "defence", "EU"]
+    },
+    {
+      "headline": "European Union advances technological sovereignty agenda with semiconductors and AI initiatives",
+      "summary": "The European Commission unveiled a European technological sovereignty package designed to strengthen the EU's capacity in semiconductors, artificial intelligence, cloud computing, and open-source software. The initiative represents a strategic effort to reduce European dependence on non-European technology platforms and establish leadership in critical digital sectors. The package includes coordinated investments and regulatory frameworks to accelerate European innovation and competitiveness. During the 2026 European Sustainable Energy Week, Commissioner Dubravka Šuica launched T-MED, a programme aimed at accelerating cooperation in renewable energy and clean technology across the Euro-Mediterranean region. These initiatives reflect the EU's commitment to digital autonomy and economic resilience in the face of global technological competition.",
+      "sources": [
+        {"name": "European Commission", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["EU", "regulation", "trade"]
+    }
+  ]
+}
