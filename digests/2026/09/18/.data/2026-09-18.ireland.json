@@ -1,0 +1,77 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-09-18T12:00:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "rss_failed_used_websearch",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "EU Finance Ministers Gather in Dublin to Discuss Energy Crisis",
+      "summary": "EU finance ministers and Central Bank governors are meeting in Dublin today for an informal gathering to address Europe's energy crisis and instability in the Middle East. The high-level meeting brings together key economic decision-makers from across the European Union to coordinate responses to energy market pressures and geopolitical tensions. Ireland, as the host nation and current EU presidency holder, is positioned at the centre of these critical economic discussions. The meeting reflects growing concerns across the EU about energy security and its impact on member states' economies. Ireland's role in facilitating these discussions underscores its strategic importance within the European economic framework.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0918/1591983-dublin-castle/"}
+      ],
+      "tags": ["EU", "energy", "economy"]
+    },
+    {
+      "headline": "Taoiseach Meets UK PM to Inject 'Momentum' into Partnership",
+      "summary": "Taoiseach Micheál Martin is meeting with UK Prime Minister Andy Burnham to reinforce the partnership between Ireland and the United Kingdom. Martin described the meeting as an opportunity to 'inject further momentum' into bilateral relations between the two governments. The discussion reflects ongoing efforts to strengthen cross-border cooperation and political ties despite historical complexities. Such high-level engagements are crucial for addressing shared challenges including trade, security, and community relations. The meeting demonstrates Ireland's commitment to maintaining robust diplomatic relations with its closest neighbour.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/2026/0918/1591991-taoiseach-burnham/"}
+      ],
+      "tags": ["politics", "diplomacy", "UK-Ireland"]
+    },
+    {
+      "headline": "Ukrainian President Zelenskiy Arrives in Dublin for EU Presidency Ceremony",
+      "summary": "President Volodymyr Zelenskiy has landed in Dublin ahead of Ireland's formal opening of its European Union presidency. The arrival represents a major diplomatic moment, highlighting Ukraine's continued engagement with the EU during its ongoing conflict with Russia. Zelenskiy's presence at the presidency opening ceremony underscores the EU's commitment to supporting Ukraine and maintaining its solidarity during the war. The visit provides an opportunity to discuss EU support mechanisms, aid packages, and Ukraine's path toward EU membership. Ireland's first EU presidency since 2004 has begun with strong emphasis on European security and geopolitical challenges.",
+      "sources": [
+        {"name": "BreakingNews.ie", "url": "https://www.breakingnews.ie/ireland/"}
+      ],
+      "tags": ["diplomacy", "EU", "international"]
+    },
+    {
+      "headline": "Ireland Signs Long-Range Military Radar Acquisition Order with France",
+      "summary": "Ireland has signed an acquisition order with France for the delivery of long-range military radars under the Military Radar Programme. This strategic defence purchase represents a significant investment in Ireland's air defence and surveillance capabilities. The radars will enhance Ireland's ability to monitor airspace and respond to security threats across the country. The acquisition from France demonstrates Ireland's modernisation of its defence infrastructure and commitment to strengthening national security. The programme reflects Ireland's ongoing efforts to upgrade military technology and maintain operational readiness.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/ireland/2026/0918/1592009-defence-radar-order/"}
+      ],
+      "tags": ["defence", "security", "military"]
+    },
+    {
+      "headline": "Rural Ireland Faces Critical GP Access Shortage with Extended Wait Times",
+      "summary": "More than half of people living in rural Ireland have had to wait two days or more to secure a general practitioner appointment, according to an Ipsos/B&A poll commissioned by the Irish Examiner. The survey also revealed that over a quarter of rural respondents do not feel they have adequate access to an emergency department in their area. These findings highlight persistent healthcare inequality between urban and rural communities despite government pledges to increase doctor numbers in rural regions. The overcrowding of emergency departments and shortage of GP availability represents a serious public health challenge for rural populations. Addressing rural healthcare access has become a priority issue for policymakers seeking to ensure equitable health services across Ireland.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/"}
+      ],
+      "tags": ["health", "rural", "healthcare"]
+    },
+    {
+      "headline": "Nearly 500 People Detained Pre-Deportation as IHREC Raises Rights Concerns",
+      "summary": "Ireland's Human Rights and Equality Commission (IHREC) has raised concerns about immigration detention practices under Immigration Minister Helen McEntee, with nearly 500 people held in custody awaiting deportation. The watchdog has highlighted an overreliance on prisons for immigration detentions and a lack of independent oversight over these cases. Many detainees face wait periods of up to a month before deportation proceedings are concluded. IHREC's concerns focus on the absence of adequate non-custodial alternatives and insufficient parliamentary accountability in immigration detention decisions. The report reflects broader tensions around immigration policy, human rights protections, and the adequacy of Ireland's detention oversight mechanisms.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/ireland-deportation-detention-figures-7164419-Sep2026/"}
+      ],
+      "tags": ["social", "immigration", "human-rights"]
+    },
+    {
+      "headline": "Irish Rail Seeks Alternative Contract After Firing Indra for Signalling System",
+      "summary": "Irish Rail has announced plans to directly award a contract to Siemens Mobility following its termination of the agreement with Indra for the new signalling system. The decision comes after significant issues with the Indra contract, forcing Irish Rail to seek alternative solutions to keep trains operating. Siemens Mobility represents a proven alternative for implementing modern rail signalling infrastructure. The dispute and subsequent contract termination have highlighted challenges in major infrastructure procurement and project delivery. This development underscores the complexities of modernising Ireland's rail network and ensuring reliable transportation services.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/transport/2026/09/18/having-fired-company-behind-new-signalling-system-irish-rail-needs-an-alternative-to-keep-its-trains-running/"}
+      ],
+      "tags": ["transport", "infrastructure", "rail"]
+    },
+    {
+      "headline": "Department Store Brown Thomas Arnotts Partners with Stripe for Digital Payments",
+      "summary": "Brown Thomas Arnotts, Ireland's prominent department store group, has announced a partnership with financial technology company Stripe to provide a new payments platform. The collaboration aims to enhance the in-store and online shopping experience for customers across the retail operation. Stripe's payments technology will enable streamlined transaction processing and improved customer convenience. The partnership reflects broader trends in Irish retail toward digital transformation and modernisation of payment systems. The deal demonstrates continued investment in Ireland's retail sector and adoption of fintech solutions by established businesses.",
+      "sources": [
+        {"name": "RTE News", "url": "https://www.rte.ie/news/2026/0918/1591970-stripe-brown-thomas-arnotts/"}
+      ],
+      "tags": ["business", "economy", "retail"]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-09-18T12:00:00Z",
+  "source_status": {
+    "bbc": "rss_failed_used_websearch",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Russia holds parliamentary elections amid Ukraine war",
+      "summary": "Voting began in Russia's three-day parliamentary election on September 18, 2026, with polls opening first in the Far East. President Vladimir Putin's United Russia party is virtually assured to win the election, which determines 450 seats in the State Duma. The election occurs during the fifth year of Russia's ongoing conflict with Ukraine, as Russians navigate economic pressures from inflation and war-related costs. Preliminary polling suggests United Russia will maintain its majority, with the party expected to secure around 46% of votes. The election reflects the continued dominance of Putin's political establishment despite public concerns about the war's economic impact.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260918-live-voting-begins-in-russia-s-parliamentary-elections"
+        }
+      ],
+      "tags": ["governance", "elections", "conflict"]
+    },
+    {
+      "headline": "Russia and China block UN resolution on Iran nuclear monitoring",
+      "summary": "Russia and China exercised their veto power to block a US-backed United Nations resolution seeking to extend the mandate of the UN expert panel monitoring Iran's nuclear activities. The proposal failed in an 11-2 vote at the UN Security Council, with Somalia and Pakistan abstaining. The vetoes prevent renewal of the international monitoring framework designed to track Iran's compliance with nuclear sanctions. This action reflects broader geopolitical tensions between Western nations and the Russia-China alliance on international security matters. The blocked resolution underscores ongoing disputes over Iran's nuclear program and multilateral security governance.",
+      "sources": [
+        {
+          "name": "EuroNews",
+          "url": "https://www.euronews.com/2026/09/18/russia-and-china-veto-us-backed-resolution-to-monitor-iran-nuclear-sanctions"
+        }
+      ],
+      "tags": ["diplomacy", "governance", "trade"]
+    },
+    {
+      "headline": "US military base expansion in Poland moves forward",
+      "summary": "President Trump announced that the United States and Poland are achieving 'major progress' toward establishing a permanent American military installation in Poland, with a location announcement expected soon. The move aims to strengthen NATO's eastern border and reflects broader reviews of American troop deployments across Europe amid the ongoing Ukraine conflict. Poland formally submitted its proposal for a new permanent US military base to the US Secretary of Defense in June 2026, marking a significant step in deepening US-Polish military cooperation. Trump also signaled plans to send an additional 5,000 troops to Poland, though specific deployment details remain forthcoming. This expansion demonstrates NATO allies' efforts to fortify their eastern flank in response to security concerns.",
+      "sources": [
+        {
+          "name": "France24",
+          "url": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland"
+        }
+      ],
+      "tags": ["defence", "diplomacy", "governance"]
+    },
+    {
+      "headline": "Sweden's center-left opposition wins narrow election victory",
+      "summary": "Sweden held parliamentary elections on September 13, 2026, resulting in a narrow victory for the center-left opposition coalition over the incumbent right-wing governing bloc. The red-green bloc secured 176 seats compared to 173 for the centre-right conservative bloc, giving them a slim majority to form the next government. The Social Democrats remained the largest party despite recording their worst election result in more than a century. The Sweden Democrats, the far-right party, lost votes for the first time since entering parliament, signaling a shift in Swedish electoral dynamics. Final results were still being confirmed as late ballots from overseas and other sources continued to be counted.",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/09/16/europe/sweden-election-center-left-opposition-wins-intl"
+        }
+      ],
+      "tags": ["elections", "governance", "politics"]
+    },
+    {
+      "headline": "EU advances climate policy framework with 2040 emissions reduction target",
+      "summary": "The European Union has finalized updates to its climate policy framework, establishing a binding 2040 target for a 90% reduction in net greenhouse gas emissions compared to 1990 levels. The amended European Climate Law entered into effect on April 7, 2026, setting the regulatory foundation for the EU's climate strategy through mid-century. The regulatory update encompasses revisions to the Corporate Sustainability Reporting Directive, European Sustainability Reporting Standards, and the EU Taxonomy framework. Simultaneously, the EU is reviewing its Emissions Trading System amid pressure from some member states concerned about energy costs and competitiveness. This represents a decisive phase for European climate and energy policy as the Commission prepares post-2030 rules.",
+      "sources": [
+        {
+          "name": "Cleary Gottlieb",
+          "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-09-16"
+        }
+      ],
+      "tags": ["climate", "regulation", "EU"]
+    },
+    {
+      "headline": "NATO pledges 70 billion euros to support Ukraine in 2026",
+      "summary": "At the NATO Ankara Summit in July 2026, alliance members pledged to provide 70 billion euros in combined military equipment, assistance, and training to Ukraine throughout 2026. NATO allies committed to sustaining at least an equivalent level of assistance through 2027, ensuring continued support for Ukraine's defense against Russian aggression. The pledge reflects NATO's determination to support Ukrainian sovereignty as the conflict enters its sixth year. Secretary General Mark Rutte outlined three core priorities: increasing allied defense investment, bolstering transatlantic defense industrial production, and maintaining robust support for Ukraine. The commitment underscores Europe's strategic focus on countering Russian military aggression in Eastern Europe.",
+      "sources": [
+        {
+          "name": "NATO Official",
+          "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/the-ankara-summit-declaration"
+        }
+      ],
+      "tags": ["defence", "diplomacy", "conflict"]
+    }
+  ]
+}

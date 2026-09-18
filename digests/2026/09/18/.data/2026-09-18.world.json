@@ -1,0 +1,91 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-09-18T06:00:00Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "rss_failed_domain_blocked",
+    "npr": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Bank of Japan raises benchmark interest rate to 31-year high of 1.25%",
+      "summary": "The Bank of Japan raised its benchmark interest rate from 1.0% to 1.25%, marking the highest level in over three decades. The decision reflects the central bank's confidence in economic recovery and aims to counter persistent inflation pressures. This move comes after months of gradual policy normalization and signals Japan's commitment to exiting accommodative monetary policy. The rate increase has immediate ripple effects through currency and equity markets globally, particularly as investors reassess carry-trade positions. Other central banks are likely to monitor Japan's actions closely as they continue their own inflation-fighting efforts.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises"
+        }
+      ],
+      "tags": ["economy", "monetary-policy", "markets"]
+    },
+    {
+      "headline": "Saudi oil exports plummet as Houthi control of Red Sea disrupts global shipping",
+      "summary": "Saudi Arabian oil exports through the critical Bab el-Mandeb strait have collapsed, falling from 3.5 million barrels per day in early July to nearly zero by August. Houthi consolidation of territories near the strait has effectively blocked approximately 10% of global seaborne oil traffic, creating a severe energy bottleneck. Saudi Aramco confirms that the East-West Pipeline has reached maximum capacity of 7.0 million barrels per day with no buffer for further disruptions. Asian buyers are forced to reroute oil around Africa via the Cape of Good Hope, adding 30 days of transit time and significantly increasing costs. This disruption threatens global energy security and has prompted international responses, including Italian naval deployment to the region.",
+      "sources": [
+        {
+          "name": "CNN Business",
+          "url": "https://www.cnn.com/2026/09/11/business/bab-al-mandeb-strait-houthi-global-economy"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/17/from-yanbu-to-sohar-tracking-saudi-arabias-alternative-oil-routes"
+        },
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/business/energy/2026/07/26/saudi-arabia-shifts-to-suez-as-houthis-drive-bab-al-mandeb-oil-exports-to-near-zero/"
+        }
+      ],
+      "tags": ["economy", "energy", "geopolitics", "trade"]
+    },
+    {
+      "headline": "Russia systematically holding thousands of Ukrainian POWs, demanding favors from families",
+      "summary": "Russia is believed to be holding thousands of Ukrainian soldiers and civilians as prisoners of war, while systematically exploiting their families through social media extortion. According to recent reports, Russian forces contact family members of captured Ukrainians on social media, demanding they conduct espionage activities such as checking security at key locations or participating in anti-government demonstrations. This represents a systematic abuse of prisoners and their families to undermine Ukrainian morale and security. Ukraine's Human Rights Ombudsman has documented evidence of torture affecting 95% of Ukrainian POWs and brutal executions of at least 337 prisoners. This crisis highlights the humanitarian catastrophe of the ongoing conflict and the weaponization of family relationships by Russian authorities.",
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives"
+        }
+      ],
+      "tags": ["conflict", "humanitarian", "diplomacy"]
+    },
+    {
+      "headline": "Italy to deploy warships to protect shipping through Bab al-Mandeb strait",
+      "summary": "Italy's defence minister announced deployment of Italian warships to the Bab al-Mandeb strait to protect commercial shipping against threats to this critical waterway. The decision comes amid severe economic concerns about the disruption to global trade and energy supplies caused by the security situation in the Red Sea. Italy's unilateral action reflects frustration with slower EU-wide responses to the crisis. The deployment underscores the strategic importance of maintaining open sea lanes for approximately 10% of global maritime commerce. This move represents a coordinated international effort to counter threats to one of the world's most critical chokepoints for energy and trade.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb"
+        }
+      ],
+      "tags": ["geopolitics", "defence", "trade"]
+    },
+    {
+      "headline": "South Korea's Lee rules out military deployment to Middle East conflict",
+      "summary": "South Korea's President Lee Jae-myung stated that the country will not deploy military personnel to become involved in Middle East regional conflicts. The statement comes amid rising tensions in the region and represents a clear policy position on military intervention. South Korea's decision reflects careful balance between maintaining alliances and avoiding direct involvement in regional instability. The pronouncement signals to regional actors and allies South Korea's strategic priorities and limits on military commitments. This position has implications for broader regional security arrangements and military partnerships in the Indo-Pacific.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com"
+        }
+      ],
+      "tags": ["geopolitics", "diplomacy", "defence"]
+    },
+    {
+      "headline": "Drone attacks by Colombian armed groups more than double in early 2026",
+      "summary": "Colombia is experiencing a significant escalation in drone attacks conducted by armed groups, with the number of incidents more than doubling in the first half of 2026. These attacks represent an evolution in conflict tactics as non-state actors gain access to and operational capability with unmanned systems. Civilians caught in the crossfire between armed groups and government forces face mounting risks from this new technology of conflict. The trend highlights the spread of drone warfare capabilities beyond state militaries to regional armed groups. This development poses new challenges for Colombian security forces and illustrates how technological advances are reshaping regional conflicts.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026"
+        }
+      ],
+      "tags": ["conflict", "technology", "humanitarian"]
+    }
+  ]
+}

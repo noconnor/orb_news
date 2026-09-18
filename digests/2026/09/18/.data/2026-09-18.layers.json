@@ -1,0 +1,354 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-09-18T12:00:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "rss_failed_used_websearch",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "EU Finance Ministers Gather in Dublin to Discuss Energy Crisis",
+        "summary": "EU finance ministers and Central Bank governors are meeting in Dublin today for an informal gathering to address Europe's energy crisis and instability in the Middle East. The high-level meeting brings together key economic decision-makers from across the European Union to coordinate responses to energy market pressures and geopolitical tensions. Ireland, as the host nation and current EU presidency holder, is positioned at the centre of these critical economic discussions. The meeting reflects growing concerns across the EU about energy security and its impact on member states' economies. Ireland's role in facilitating these discussions underscores its strategic importance within the European economic framework.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0918/1591983-dublin-castle/"
+          }
+        ],
+        "tags": [
+          "EU",
+          "energy",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Taoiseach Meets UK PM to Inject 'Momentum' into Partnership",
+        "summary": "Taoiseach Miche\u00e1l Martin is meeting with UK Prime Minister Andy Burnham to reinforce the partnership between Ireland and the United Kingdom. Martin described the meeting as an opportunity to 'inject further momentum' into bilateral relations between the two governments. The discussion reflects ongoing efforts to strengthen cross-border cooperation and political ties despite historical complexities. Such high-level engagements are crucial for addressing shared challenges including trade, security, and community relations. The meeting demonstrates Ireland's commitment to maintaining robust diplomatic relations with its closest neighbour.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0918/1591991-taoiseach-burnham/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "diplomacy",
+          "UK-Ireland"
+        ]
+      },
+      {
+        "headline": "Ukrainian President Zelenskiy Arrives in Dublin for EU Presidency Ceremony",
+        "summary": "President Volodymyr Zelenskiy has landed in Dublin ahead of Ireland's formal opening of its European Union presidency. The arrival represents a major diplomatic moment, highlighting Ukraine's continued engagement with the EU during its ongoing conflict with Russia. Zelenskiy's presence at the presidency opening ceremony underscores the EU's commitment to supporting Ukraine and maintaining its solidarity during the war. The visit provides an opportunity to discuss EU support mechanisms, aid packages, and Ukraine's path toward EU membership. Ireland's first EU presidency since 2004 has begun with strong emphasis on European security and geopolitical challenges.",
+        "sources": [
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/ireland/"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "EU",
+          "international"
+        ]
+      },
+      {
+        "headline": "Ireland Signs Long-Range Military Radar Acquisition Order with France",
+        "summary": "Ireland has signed an acquisition order with France for the delivery of long-range military radars under the Military Radar Programme. This strategic defence purchase represents a significant investment in Ireland's air defence and surveillance capabilities. The radars will enhance Ireland's ability to monitor airspace and respond to security threats across the country. The acquisition from France demonstrates Ireland's modernisation of its defence infrastructure and commitment to strengthening national security. The programme reflects Ireland's ongoing efforts to upgrade military technology and maintain operational readiness.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/ireland/2026/0918/1592009-defence-radar-order/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "security",
+          "military"
+        ]
+      },
+      {
+        "headline": "Rural Ireland Faces Critical GP Access Shortage with Extended Wait Times",
+        "summary": "More than half of people living in rural Ireland have had to wait two days or more to secure a general practitioner appointment, according to an Ipsos/B&A poll commissioned by the Irish Examiner. The survey also revealed that over a quarter of rural respondents do not feel they have adequate access to an emergency department in their area. These findings highlight persistent healthcare inequality between urban and rural communities despite government pledges to increase doctor numbers in rural regions. The overcrowding of emergency departments and shortage of GP availability represents a serious public health challenge for rural populations. Addressing rural healthcare access has become a priority issue for policymakers seeking to ensure equitable health services across Ireland.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/"
+          }
+        ],
+        "tags": [
+          "health",
+          "rural",
+          "healthcare"
+        ]
+      },
+      {
+        "headline": "Nearly 500 People Detained Pre-Deportation as IHREC Raises Rights Concerns",
+        "summary": "Ireland's Human Rights and Equality Commission (IHREC) has raised concerns about immigration detention practices under Immigration Minister Helen McEntee, with nearly 500 people held in custody awaiting deportation. The watchdog has highlighted an overreliance on prisons for immigration detentions and a lack of independent oversight over these cases. Many detainees face wait periods of up to a month before deportation proceedings are concluded. IHREC's concerns focus on the absence of adequate non-custodial alternatives and insufficient parliamentary accountability in immigration detention decisions. The report reflects broader tensions around immigration policy, human rights protections, and the adequacy of Ireland's detention oversight mechanisms.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/ireland-deportation-detention-figures-7164419-Sep2026/"
+          }
+        ],
+        "tags": [
+          "social",
+          "immigration",
+          "human-rights"
+        ]
+      },
+      {
+        "headline": "Irish Rail Seeks Alternative Contract After Firing Indra for Signalling System",
+        "summary": "Irish Rail has announced plans to directly award a contract to Siemens Mobility following its termination of the agreement with Indra for the new signalling system. The decision comes after significant issues with the Indra contract, forcing Irish Rail to seek alternative solutions to keep trains operating. Siemens Mobility represents a proven alternative for implementing modern rail signalling infrastructure. The dispute and subsequent contract termination have highlighted challenges in major infrastructure procurement and project delivery. This development underscores the complexities of modernising Ireland's rail network and ensuring reliable transportation services.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/transport/2026/09/18/having-fired-company-behind-new-signalling-system-irish-rail-needs-an-alternative-to-keep-its-trains-running/"
+          }
+        ],
+        "tags": [
+          "transport",
+          "infrastructure",
+          "rail"
+        ]
+      },
+      {
+        "headline": "Department Store Brown Thomas Arnotts Partners with Stripe for Digital Payments",
+        "summary": "Brown Thomas Arnotts, Ireland's prominent department store group, has announced a partnership with financial technology company Stripe to provide a new payments platform. The collaboration aims to enhance the in-store and online shopping experience for customers across the retail operation. Stripe's payments technology will enable streamlined transaction processing and improved customer convenience. The partnership reflects broader trends in Irish retail toward digital transformation and modernisation of payment systems. The deal demonstrates continued investment in Ireland's retail sector and adoption of fintech solutions by established businesses.",
+        "sources": [
+          {
+            "name": "RTE News",
+            "url": "https://www.rte.ie/news/2026/0918/1591970-stripe-brown-thomas-arnotts/"
+          }
+        ],
+        "tags": [
+          "business",
+          "economy",
+          "retail"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-09-18T12:00:00Z",
+    "source_status": {
+      "bbc": "rss_failed_used_websearch",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Russia holds parliamentary elections amid Ukraine war",
+        "summary": "Voting began in Russia's three-day parliamentary election on September 18, 2026, with polls opening first in the Far East. President Vladimir Putin's United Russia party is virtually assured to win the election, which determines 450 seats in the State Duma. The election occurs during the fifth year of Russia's ongoing conflict with Ukraine, as Russians navigate economic pressures from inflation and war-related costs. Preliminary polling suggests United Russia will maintain its majority, with the party expected to secure around 46% of votes. The election reflects the continued dominance of Putin's political establishment despite public concerns about the war's economic impact.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260918-live-voting-begins-in-russia-s-parliamentary-elections"
+          }
+        ],
+        "tags": [
+          "governance",
+          "elections",
+          "conflict"
+        ]
+      },
+      {
+        "headline": "Russia and China block UN resolution on Iran nuclear monitoring",
+        "summary": "Russia and China exercised their veto power to block a US-backed United Nations resolution seeking to extend the mandate of the UN expert panel monitoring Iran's nuclear activities. The proposal failed in an 11-2 vote at the UN Security Council, with Somalia and Pakistan abstaining. The vetoes prevent renewal of the international monitoring framework designed to track Iran's compliance with nuclear sanctions. This action reflects broader geopolitical tensions between Western nations and the Russia-China alliance on international security matters. The blocked resolution underscores ongoing disputes over Iran's nuclear program and multilateral security governance.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "https://www.euronews.com/2026/09/18/russia-and-china-veto-us-backed-resolution-to-monitor-iran-nuclear-sanctions"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "governance",
+          "trade"
+        ]
+      },
+      {
+        "headline": "US military base expansion in Poland moves forward",
+        "summary": "President Trump announced that the United States and Poland are achieving 'major progress' toward establishing a permanent American military installation in Poland, with a location announcement expected soon. The move aims to strengthen NATO's eastern border and reflects broader reviews of American troop deployments across Europe amid the ongoing Ukraine conflict. Poland formally submitted its proposal for a new permanent US military base to the US Secretary of Defense in June 2026, marking a significant step in deepening US-Polish military cooperation. Trump also signaled plans to send an additional 5,000 troops to Poland, though specific deployment details remain forthcoming. This expansion demonstrates NATO allies' efforts to fortify their eastern flank in response to security concerns.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Sweden's center-left opposition wins narrow election victory",
+        "summary": "Sweden held parliamentary elections on September 13, 2026, resulting in a narrow victory for the center-left opposition coalition over the incumbent right-wing governing bloc. The red-green bloc secured 176 seats compared to 173 for the centre-right conservative bloc, giving them a slim majority to form the next government. The Social Democrats remained the largest party despite recording their worst election result in more than a century. The Sweden Democrats, the far-right party, lost votes for the first time since entering parliament, signaling a shift in Swedish electoral dynamics. Final results were still being confirmed as late ballots from overseas and other sources continued to be counted.",
+        "sources": [
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/09/16/europe/sweden-election-center-left-opposition-wins-intl"
+          }
+        ],
+        "tags": [
+          "elections",
+          "governance",
+          "politics"
+        ]
+      },
+      {
+        "headline": "EU advances climate policy framework with 2040 emissions reduction target",
+        "summary": "The European Union has finalized updates to its climate policy framework, establishing a binding 2040 target for a 90% reduction in net greenhouse gas emissions compared to 1990 levels. The amended European Climate Law entered into effect on April 7, 2026, setting the regulatory foundation for the EU's climate strategy through mid-century. The regulatory update encompasses revisions to the Corporate Sustainability Reporting Directive, European Sustainability Reporting Standards, and the EU Taxonomy framework. Simultaneously, the EU is reviewing its Emissions Trading System amid pressure from some member states concerned about energy costs and competitiveness. This represents a decisive phase for European climate and energy policy as the Commission prepares post-2030 rules.",
+        "sources": [
+          {
+            "name": "Cleary Gottlieb",
+            "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-09-16"
+          }
+        ],
+        "tags": [
+          "climate",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "NATO pledges 70 billion euros to support Ukraine in 2026",
+        "summary": "At the NATO Ankara Summit in July 2026, alliance members pledged to provide 70 billion euros in combined military equipment, assistance, and training to Ukraine throughout 2026. NATO allies committed to sustaining at least an equivalent level of assistance through 2027, ensuring continued support for Ukraine's defense against Russian aggression. The pledge reflects NATO's determination to support Ukrainian sovereignty as the conflict enters its sixth year. Secretary General Mark Rutte outlined three core priorities: increasing allied defense investment, bolstering transatlantic defense industrial production, and maintaining robust support for Ukraine. The commitment underscores Europe's strategic focus on countering Russian military aggression in Eastern Europe.",
+        "sources": [
+          {
+            "name": "NATO Official",
+            "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/the-ankara-summit-declaration"
+          }
+        ],
+        "tags": [
+          "defence",
+          "diplomacy",
+          "conflict"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-09-18T06:00:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "rss_failed_domain_blocked",
+      "npr": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Bank of Japan raises benchmark interest rate to 31-year high of 1.25%",
+        "summary": "The Bank of Japan raised its benchmark interest rate from 1.0% to 1.25%, marking the highest level in over three decades. The decision reflects the central bank's confidence in economic recovery and aims to counter persistent inflation pressures. This move comes after months of gradual policy normalization and signals Japan's commitment to exiting accommodative monetary policy. The rate increase has immediate ripple effects through currency and equity markets globally, particularly as investors reassess carry-trade positions. Other central banks are likely to monitor Japan's actions closely as they continue their own inflation-fighting efforts.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises"
+          }
+        ],
+        "tags": [
+          "economy",
+          "monetary-policy",
+          "markets"
+        ]
+      },
+      {
+        "headline": "Saudi oil exports plummet as Houthi control of Red Sea disrupts global shipping",
+        "summary": "Saudi Arabian oil exports through the critical Bab el-Mandeb strait have collapsed, falling from 3.5 million barrels per day in early July to nearly zero by August. Houthi consolidation of territories near the strait has effectively blocked approximately 10% of global seaborne oil traffic, creating a severe energy bottleneck. Saudi Aramco confirms that the East-West Pipeline has reached maximum capacity of 7.0 million barrels per day with no buffer for further disruptions. Asian buyers are forced to reroute oil around Africa via the Cape of Good Hope, adding 30 days of transit time and significantly increasing costs. This disruption threatens global energy security and has prompted international responses, including Italian naval deployment to the region.",
+        "sources": [
+          {
+            "name": "CNN Business",
+            "url": "https://www.cnn.com/2026/09/11/business/bab-al-mandeb-strait-houthi-global-economy"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/17/from-yanbu-to-sohar-tracking-saudi-arabias-alternative-oil-routes"
+          },
+          {
+            "name": "The National",
+            "url": "https://www.thenationalnews.com/business/energy/2026/07/26/saudi-arabia-shifts-to-suez-as-houthis-drive-bab-al-mandeb-oil-exports-to-near-zero/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "energy",
+          "geopolitics",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Russia systematically holding thousands of Ukrainian POWs, demanding favors from families",
+        "summary": "Russia is believed to be holding thousands of Ukrainian soldiers and civilians as prisoners of war, while systematically exploiting their families through social media extortion. According to recent reports, Russian forces contact family members of captured Ukrainians on social media, demanding they conduct espionage activities such as checking security at key locations or participating in anti-government demonstrations. This represents a systematic abuse of prisoners and their families to undermine Ukrainian morale and security. Ukraine's Human Rights Ombudsman has documented evidence of torture affecting 95% of Ukrainian POWs and brutal executions of at least 337 prisoners. This crisis highlights the humanitarian catastrophe of the ongoing conflict and the weaponization of family relationships by Russian authorities.",
+        "sources": [
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Italy to deploy warships to protect shipping through Bab al-Mandeb strait",
+        "summary": "Italy's defence minister announced deployment of Italian warships to the Bab al-Mandeb strait to protect commercial shipping against threats to this critical waterway. The decision comes amid severe economic concerns about the disruption to global trade and energy supplies caused by the security situation in the Red Sea. Italy's unilateral action reflects frustration with slower EU-wide responses to the crisis. The deployment underscores the strategic importance of maintaining open sea lanes for approximately 10% of global maritime commerce. This move represents a coordinated international effort to counter threats to one of the world's most critical chokepoints for energy and trade.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "defence",
+          "trade"
+        ]
+      },
+      {
+        "headline": "South Korea's Lee rules out military deployment to Middle East conflict",
+        "summary": "South Korea's President Lee Jae-myung stated that the country will not deploy military personnel to become involved in Middle East regional conflicts. The statement comes amid rising tensions in the region and represents a clear policy position on military intervention. South Korea's decision reflects careful balance between maintaining alliances and avoiding direct involvement in regional instability. The pronouncement signals to regional actors and allies South Korea's strategic priorities and limits on military commitments. This position has implications for broader regional security arrangements and military partnerships in the Indo-Pacific.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "diplomacy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Drone attacks by Colombian armed groups more than double in early 2026",
+        "summary": "Colombia is experiencing a significant escalation in drone attacks conducted by armed groups, with the number of incidents more than doubling in the first half of 2026. These attacks represent an evolution in conflict tactics as non-state actors gain access to and operational capability with unmanned systems. Civilians caught in the crossfire between armed groups and government forces face mounting risks from this new technology of conflict. The trend highlights the spread of drone warfare capabilities beyond state militaries to regional armed groups. This development poses new challenges for Colombian security forces and illustrates how technological advances are reshaping regional conflicts.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "technology",
+          "humanitarian"
+        ]
+      }
+    ]
+  }
+}

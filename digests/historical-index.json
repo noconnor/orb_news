@@ -437,6 +437,18 @@
       "historical_event": "1958 Notting Hill Race Riots",
       "date_first_used": "2026-06-10",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1958_Notting_Hill_race_riots"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Piracy off the coast of Somalia",
+      "date_first_used": "2026-09-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia"
+    },
+    {
+      "story_topic": "Bank of Japan monetary tightening",
+      "historical_event": "The Volcker Shock",
+      "date_first_used": "2026-09-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Volcker"
     }
   ]
 }
