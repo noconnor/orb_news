@@ -1,0 +1,73 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-09-19T12:30:00Z",
+  "source_status": {
+    "bbc": "rss_failed_used_websearch",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "rss_no_today_articles_used_websearch",
+    "euronews": "rss_no_today_articles_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Russia Holds Wartime Parliamentary Election as Putin Consolidates Power",
+      "summary": "Russia conducted its first parliamentary election since launching its full-scale invasion of Ukraine in 2022, with voting held over three days as Kyiv faced renewed missile attacks. The election saw virtually no genuine opposition to President Putin's United Russia party, with the EU condemning the process as lacking democratic competition and featuring systematised repression of opposition forces. Voting occurred in Russian-controlled territories including Donetsk, part of Moscow's effort to maintain domestic political control while prosecuting the war. The timing coincided with ongoing Ukrainian-Western diplomatic efforts and continued Russian military operations against Ukrainian cities. Kremlin officials presented the election as a demonstration of public support for the war effort.",
+      "sources": [
+        {"name": "France 24", "url": "https://www.france24.com/en/europe/20260918-live-voting-begins-in-russia-s-parliamentary-elections"},
+        {"name": "Deutsche Welle", "url": "https://www.dw.com"},
+        {"name": "BBC News", "url": "https://www.bbc.com/news"}
+      ],
+      "tags": ["politics", "geopolitics", "conflict"]
+    },
+    {
+      "headline": "Macron Orders Defence Plan Against Escalating Russian Hybrid Attacks",
+      "summary": "French President Emmanuel Macron announced a comprehensive protection plan for critical infrastructure following intensified Russian hybrid warfare operations against Europe. Macron cited multiple recent Russian attacks including drone strikes on civilian transport, attempted incursions in Leipzig, missile launches near Danish vessels, and airspace violations across European countries. The plan focuses on defending France's defence industrial and technological base from cyber and drone attacks, reflecting growing concerns across the EU about Russian shadow operations. Macron emphasised that Russia aims to intimidate and derail Western support for Ukraine, but stated the response will be strategic strengthening rather than capitulation. This announcement signals coordinated European defensive measures against non-conventional Russian threats.",
+      "sources": [
+        {"name": "France 24", "url": "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks"},
+        {"name": "Deutsche Welle", "url": "https://www.dw.com"},
+        {"name": "BBC News", "url": "https://www.bbc.com/news"}
+      ],
+      "tags": ["defence", "cybersecurity", "EU"]
+    },
+    {
+      "headline": "EU Extends Strategic Partnership Offer to Canada as Trump Trade Tensions Mount",
+      "summary": "European Commission President Ursula von der Leyen proposed making Canada the European Union's first 'associate member' as Ottawa seeks closer economic and security ties amid escalating trade tensions with the United States. Canadian Prime Minister Mark Carney visited Europe to explore a 'unique alliance' that would move beyond the existing CETA trade agreement to create a broader prosperity and security space. Von der Leyen emphasised that the EU and Canada 'see the world with the same eyes' on issues including artificial intelligence, climate change, geopolitics, and Arctic security. Carney clarified that the alliance is not intended as a rival power bloc but rather a democratic partnership focused on shared values. This proposal represents a significant geopolitical shift as Canada diversifies away from its traditional US-dependent trade relationship.",
+      "sources": [
+        {"name": "Deutsche Welle", "url": "https://www.dw.com"},
+        {"name": "CNN", "url": "https://www.cnn.com/2026/09/17/business/mark-carney-canada-us-intl"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html"}
+      ],
+      "tags": ["EU", "diplomacy", "trade", "governance"]
+    },
+    {
+      "headline": "Kyiv Comes Under Renewed Russian Missile and Drone Barrage",
+      "summary": "The Ukrainian capital Kyiv came under fire from Russian missiles and drones, prompting air defence responses and temporary evacuation alerts lasting approximately 40 minutes. Russian forces struck civilian and military targets across the capital and surrounding regions, with no immediate reports of casualties but significant alarm across the city. The attack was part of a broader Russian offensive that also targeted Ukrainian cargo vessels in the Black Sea and the southern port city of Odesa, where two strikes killed at least 10 people and damaged critical infrastructure. The attacks occurred while Russians were voting in parliamentary elections, demonstrating Moscow's simultaneous pursuit of both military aggression and domestic political consolidation. This represents the continuation of a relentless Russian campaign to degrade Ukrainian infrastructure and civilian morale.",
+      "sources": [
+        {"name": "France 24", "url": "https://www.france24.com/en/europe/20260918-live-voting-begins-in-russia-s-parliamentary-elections"},
+        {"name": "US News & World Report", "url": "https://www.usnews.com/news/world/articles/2026-09-18/ukrainian-capital-kyiv-under-missile-attack-mayor-says"},
+        {"name": "Euronews", "url": "https://www.euronews.com"}
+      ],
+      "tags": ["conflict", "defence", "Ukraine"]
+    },
+    {
+      "headline": "Trump Administration and Denmark Reach Deal Granting US Permanent Control of Greenland's Security",
+      "summary": "President Donald Trump announced that the United States has reached an agreement with Denmark and Greenland that grants the US permanent control over Greenland's security arrangements, marking a significant shift in Arctic geopolitics. The deal reflects growing strategic competition for Arctic resources and influence in the region as climate change opens new shipping routes and resource opportunities. The arrangement signals renewed American focus on the Arctic as a strategic theatre and has implications for NATO's northern flank and Denmark's role as a NATO member. European allies expressed concern about the US assertion of security dominance over the Arctic territory, viewing it as part of a broader pattern of American unilateralism. This development underscores rising tensions between the Trump administration and traditional allies over geopolitical priorities.",
+      "sources": [
+        {"name": "Deutsche Welle", "url": "https://www.dw.com"},
+        {"name": "France 24", "url": "https://www.france24.com/en/europe"},
+        {"name": "BBC News", "url": "https://www.bbc.com/news"}
+      ],
+      "tags": ["defence", "geopolitics", "NATO", "Arctic"]
+    },
+    {
+      "headline": "Germany's Manufacturing Sector Shows Signs of Economic Recovery",
+      "summary": "German industrial leaders expressed growing optimism that Europe's largest economy is emerging from an extended period of economic weakness, signalling a potential turning point for the broader European economy. Manufacturers reported increased confidence in production capacity and future demand, suggesting business sentiment is stabilising after months of subdued activity. Germany's economic recovery is critical for the EU, as the country represents the locomotive of European growth and its manufacturing sector is vital to regional competitiveness and employment. The positive indicators come as Europe faces headwinds from geopolitical tensions and the US trade environment, making domestic economic strength increasingly important. This optimism could provide foundation for broader eurozone recovery if sustained through the coming months.",
+      "sources": [
+        {"name": "Deutsche Welle", "url": "https://www.dw.com"},
+        {"name": "BBC News", "url": "https://www.bbc.com/news"},
+        {"name": "France 24", "url": "https://www.france24.com/en/europe"}
+      ],
+      "tags": ["economy", "EU", "manufacturing"]
+    }
+  ]
+}

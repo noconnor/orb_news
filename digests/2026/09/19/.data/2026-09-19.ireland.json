@@ -1,0 +1,101 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-09-19T06:45:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "failed_old_content"
+  },
+  "stories": [
+    {
+      "headline": "Defence Forces cut soldiers' rations amid budget constraints",
+      "summary": "The Irish Defence Forces have drastically curtailed military spending, reducing soldiers' rations and suspending major naval projects including a planned radar upgrade. Sources confirm that spending remains paused except for critical maritime operations. The cuts underscore significant budget pressures facing Ireland's military infrastructure. Defence and operational capabilities have become increasingly strained by financial constraints. This represents a major shift in how Ireland's armed forces can sustain personnel and modernization efforts.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/09/19/soldiers-rations-cut-naval-radar-plan-paused-as-defence-forces-ordered-to-save-millions/"
+        }
+      ],
+      "tags": ["defence", "budget", "policy"]
+    },
+    {
+      "headline": "University of Galway deficit threatens teaching jobs",
+      "summary": "University of Galway is facing significant financial difficulties and seeking to implement a 7% cost reduction across all operations. Year-end funding gaps have become increasingly difficult to manage, raising concerns about potential staffing reductions. The university's financial struggles reflect broader challenges in Ireland's higher education funding environment. Teaching positions are at risk as the institution works to balance its budget. This crisis could impact educational capacity and student experience at one of Ireland's major universities.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/education/2026/09/19/university-of-galway-deficit-threatens-teaching-jobs/"
+        }
+      ],
+      "tags": ["education", "budget", "economy"]
+    },
+    {
+      "headline": "Gardaí launch €60,000 fraud investigation at greyhound racing tracks",
+      "summary": "Irish police have opened a significant fraud inquiry focusing on cash handling irregularities at greyhound racing venues across the country. The investigation centers on stadiums in Limerick, Mullingar, and one unnamed location, with the Comptroller and Auditor General flagging concerns. The €60,000 scale of the investigation indicates substantial financial discrepancies in the greyhound racing sector. Cash handling procedures and administrative controls at these facilities are under scrutiny. This investigation highlights vulnerabilities in financial oversight within Ireland's greyhound racing industry.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/2026/09/19/60000-fraud-investigation-opened-at-greyhound-racing-tracks/"
+        }
+      ],
+      "tags": ["crime", "investigation", "sport"]
+    },
+    {
+      "headline": "Ireland's nightlife is changing — but the laws governing it are stuck in the past",
+      "summary": "Ireland's nightlife sector faces mounting challenges as the number of nightclubs has fallen sharply in recent years. Operators struggle with costly licensing requirements, outdated legislation, and difficulties securing funding and transport links to venues. The legal framework governing nightlife has not kept pace with changes in how Irish people socialize and entertainment venues operate. These regulatory obstacles are making it increasingly difficult for the sector to remain viable. The mismatch between current regulations and contemporary nightlife needs represents a policy gap that industry stakeholders argue must be addressed.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/business/economy/arid-41912872.html"
+        }
+      ],
+      "tags": ["regulation", "economy", "social"]
+    },
+    {
+      "headline": "The GAA can build Croke Park. So why not build houses? South Kerry's radical solution",
+      "summary": "Falling school numbers, soaring house prices, and rural depopulation are forcing GAA clubs to rethink how Gaelic games survive in South Kerry. Some clubs are exploring radical solutions including using GAA-owned land for residential development to address the region's housing crisis and generate revenue. This proposal reflects the severe housing shortage affecting rural Ireland and the economic pressures facing community organizations. GAA facilities and land ownership represent a significant asset that could help address rural development challenges. The tension between preserving sporting heritage and solving housing shortages highlights difficult choices facing Irish communities.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/sport/gaa/arid-41913049.html"
+        }
+      ],
+      "tags": ["housing", "social", "economy"]
+    },
+    {
+      "headline": "Achill Island farmer challenges Mayo council over land ownership and Keel campsite",
+      "summary": "A decades-old dispute over commonage ownership on Achill Island has raised questions about the legal basis for a council-run campsite. A local farmer is challenging Mayo County Council regarding the land rights underlying the recreational facility. The dispute highlights unresolved property ownership issues affecting resource management on the island. Legal clarity on commonage ownership is essential for resolving competing claims over land use. This case exemplifies broader challenges in managing shared land resources and establishing clear governance frameworks in rural Irish areas.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/spotlight/arid-41913091.html"
+        }
+      ],
+      "tags": ["governance", "local", "property"]
+    },
+    {
+      "headline": "Controversy and protest for Republic of Ireland games like no other",
+      "summary": "Nations League fixtures featuring Israel are dominating the Football Association of Ireland's agenda, with ongoing demonstrations marking the matches. The fixtures have generated significant controversy and protest activity around Irish football venues. The involvement of Israeli teams in UEFA competitions has sparked social and political debate in Ireland. Demonstrations continue as the FAI navigates the sensitive intersections of sports and geopolitical issues. These fixtures represent unprecedented controversy for Irish football on the international stage.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/footbal-israel-ireland-explainer-7166878-Sep2026/"
+        }
+      ],
+      "tags": ["sport", "social", "politics"]
+    },
+    {
+      "headline": "Catherine Connolly meets Donegal diaspora in Scotland",
+      "summary": "The Irish President visited a Glasgow exhibition honoring Donegal emigrants who relocated to Scotland for employment opportunities in previous generations. The exhibition featured stories of notable Donegal-born figures including former Irish goalkeeper Packie Bonner. The event celebrates Ireland's diaspora and historical migration patterns between Ireland and Scotland. Presidential engagement with diaspora communities reinforces cultural ties and acknowledges the historical significance of Irish emigration. The visit underscores Ireland's ongoing relationship with communities of Irish descent abroad.",
+      "sources": [
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/09/19/catherine-connolly-meets-the-donegal-diaspora-in-scotland-including-packie-bonner/"
+        }
+      ],
+      "tags": ["culture", "diaspora", "society"]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "US and Denmark Strike Deal for Permanent American Security Control of Greenland",
+      "story_topic": "NATO alliance internal tensions",
+      "historical_event": "France's Withdrawal from NATO's Integrated Military Command (1966); Post-Cold War USAREUR Drawdown (1990–2013); War Powers Resolution (1973)",
+      "date_range": "1966–2013",
+      "summary": "France left NATO's integrated military command in 1966 rather than accept American command of forces on its own soil, a rupture that took decades to heal. The later drawdown of US Army forces from Europe after the Cold War, and Washington's recurring domestic disputes over war-making authority under the War Powers Resolution, both turn on how much control a smaller ally keeps once a larger partner decides its territory is strategically indispensable.",
+      "parallel_analysis": "Denmark's formal sovereignty over Greenland survives the new deal on paper, but the practical balance of power on the island shifts decisively toward the United States, echoing earlier NATO-era tensions between alliance solidarity and a member state's control over its own territory.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/France_and_NATO",
+        "https://en.wikipedia.org/wiki/United_States_Army_Europe_and_Africa",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Ukraine Conflict Intensifies as US Approves $2.7 Billion Arms Sale and Tightens Russia Sanctions",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis; Allied Oil Campaign of World War II (1944-1945); The Lend-Lease Act (1941); The Marshall Plan (1948–1952)",
+      "date_range": "1941–1973",
+      "summary": "The 1973 oil embargo showed how quickly an energy supply shock can reorder global diplomacy, while the Allied oil campaign against Germany demonstrated that starving an adversary of fuel can shorten a war as effectively as battlefield victories. Lend-Lease and the Marshall Plan both used sustained American material support to keep a partner in the fight, or rebuild it afterward.",
+      "parallel_analysis": "New tariffs of up to 100 percent on buyers of Russian oil revive the logic of using energy markets as a lever of war, while the $2.7 billion arms package continues a decades-old American pattern of sustained material backing for an ally under pressure.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Lend-Lease",
+        "https://en.wikipedia.org/wiki/Marshall_Plan"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Russia Holds Wartime Parliamentary Election as Putin Consolidates Power",
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "Korean War Stalemate; The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+      "date_range": "1950–1966",
+      "summary": "The Korean War stalled into a stalemate that outlasted several changes of government on both sides and was ultimately frozen by an armistice rather than resolved. The Empty Chair Crisis showed how a state can use domestic political theatre to project strength and force other parties to accept its terms while the underlying dispute remains unsettled.",
+      "parallel_analysis": "Russia's uncontested wartime election lets the Kremlin project unity and domestic backing for the invasion even as the war itself remains unresolved on the battlefield, much as earlier stalemated conflicts were managed through politics rather than victory.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+      ]
+    }
+  ]
+}
