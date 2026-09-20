@@ -1,0 +1,86 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-09-20T05:01:51Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "ok",
+    "irishexaminer": "ok",
+    "breakingnews": "ok_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Midlands Prison overcrowded with nine prisoners overdosed via drone delivery",
+      "summary": "Nine prisoners overdosed at Midlands Prison on Friday after a drone delivered toxic drugs into a prison yard. Two prison officers were assaulted during the incident, and three prisoners required hospitalisation. The overdose incident highlights ongoing security challenges within the Irish prison system regarding contraband access. Investigations are ongoing into how the drone managed to penetrate prison security. The Irish Prison Service has stated it is committed to preventing the access of contraband, including drugs, into prisons.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/09/19/investigations-ongoing-after-nine-prisoners-overdosed-at-midlands-prison-on-friday/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/midlands-prison-overdoses-7167471-Sep2026/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/arid-41913247.html"}
+      ],
+      "tags": ["crime", "prison", "health"]
+    },
+    {
+      "headline": "Nikita Hand opens up on ongoing trauma following Conor McGregor trial",
+      "summary": "Nikita Hand gave her first interview since the conclusion of the Conor McGregor trial, discussing the lasting psychological impact of the case. Hand revealed she still experiences intense panic attacks as a result of the alleged assault and subsequent legal proceedings. She has recently given birth to her second daughter and emphasised that there is no such thing as a perfect victim. The interview marks a significant moment of public reflection on a high-profile Irish legal case that captured national and international attention.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/nikita-hand-interview-7167270-Sep2026/"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/09/19/i-still-get-panic-attacks-nikita-hand-on-impact-of-conor-mcgregor-trial/"},
+        {"name": "BreakingNews.ie", "url": "https://www.breakingnews.ie/ireland/i-still-get-panic-attacks-nikita-hand-on-impact-of-conor-mcgregor-trial-1949850.html"}
+      ],
+      "tags": ["crime", "legal", "society"]
+    },
+    {
+      "headline": "Six people discovered in container at Rosslare Europort; man released without charge",
+      "summary": "A man was arrested following the discovery of six people in a container at Rosslare Europort. He was subsequently released without charge as gardaí continue their investigation. A file is being prepared for the Director of Public Prosecutions. The incident raises questions about border security and human trafficking at Ireland's major shipping port. The discovery underscores ongoing concerns about exploitation networks operating through Irish ports.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/crime-law/2026/09/19/man-arrested-in-connection-with-discovery-of-people-in-container-at-rosslare-europort-released-without-charge/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/rosslare-europort-lorry-discovery-7167268-Sep2026/"}
+      ],
+      "tags": ["crime", "transport", "security"]
+    },
+    {
+      "headline": "Limerick woman dies after septic tank trench collapse in workplace accident",
+      "summary": "Elizabeth Lynch, 44, a mother of three from Kilmeedy, Co Limerick, died after a trench collapsed while being dug for a septic tank installation. The workplace fatality has been referred to the Health and Safety Authority (HSA) by An Garda Síochána for investigation. The incident highlights ongoing concerns about workplace safety standards in construction and groundwork sectors across Ireland. Her death marks a tragic loss for her family and community.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/09/19/woman-dies-after-trench-collapse-in-co-limerick/"},
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/munster/arid-41913151.html"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/kilmeedy-workplace-incident-7167222-Sep2026/"}
+      ],
+      "tags": ["safety", "workplace", "limerick"]
+    },
+    {
+      "headline": "Families struggle with basic needs as cost-of-living crisis deepens across Ireland",
+      "summary": "A major cost-of-living protest in Dublin highlighted the growing financial pressure on Irish households, with families forced to make impossible choices between affording food and heating their homes. Rising rents emerged as a critical concern during the demonstration, held ahead of the October 6 budget announcement. Economic hardship is spreading across multiple sectors of Irish society. Government officials are facing increasing pressure to address housing affordability and energy costs in the upcoming budget.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/09/19/people-forced-to-choose-between-feeding-their-children-or-putting-on-the-heat-protest-told/"},
+        {"name": "BreakingNews.ie", "url": "https://www.breakingnews.ie/ireland/people-forced-to-choose-between-feeding-their-children-or-putting-on-the-heat-protest-told-1949872.html"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/cost-of-living-protest-dublin-september-2026-7167456-Sep2026/"}
+      ],
+      "tags": ["economy", "housing", "health"]
+    },
+    {
+      "headline": "Defence Forces ordered to slash spending; soldiers' rations and naval projects cut",
+      "summary": "The Irish Defence Forces have been ordered to implement major cost-saving measures, including cutting soldiers' rations and pausing naval radar development plans. Military sources revealed that all spending has been suspended except for critical expenses that could prevent ships from going to sea. The budget restrictions raise concerns about military readiness and defence capabilities. Government officials have indicated that the savings are necessary to manage broader fiscal constraints.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/ireland/2026/09/19/soldiers-rations-cut-naval-radar-plan-paused-as-defence-forces-ordered-to-save-millions/"}
+      ],
+      "tags": ["defence", "government", "economy"]
+    },
+    {
+      "headline": "Helen McEntee and Neale Richmond heading to UN General Assembly in New York",
+      "summary": "Justice Minister Helen McEntee and Fine Gael foreign affairs spokesperson Neale Richmond are traveling to New York to participate in UN meetings. McEntee will highlight her key priorities to international colleagues, including developments in the Middle East and the ongoing conflict in Ukraine. The delegation reflects Ireland's continued engagement with major global issues. The meetings take place alongside the UN General Assembly, providing a platform for Ireland to raise its policy positions on international affairs.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/helen-mcentee-un-new-york-7167549-Sep2026/"}
+      ],
+      "tags": ["politics", "defence", "government"]
+    },
+    {
+      "headline": "RTÉ confirms broadcast of contentious Ireland vs Israel Nations League matches",
+      "summary": "RTÉ has announced it will broadcast the Republic of Ireland's upcoming Nations League football matches against Israel. The broadcaster has stated there will be no studio presentation or punditry during the matches, a decision made amid controversy surrounding the fixtures. Protests are expected in the lead-up to the games scheduled over the next two weeks. The decision reflects ongoing societal divisions over Ireland's sports engagements with Israel. The FAI faces mounting pressure from various groups regarding these matches.",
+      "sources": [
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/rte-ireland-israel-broadcast-7167308-Sep2026/"}
+      ],
+      "tags": ["sport", "politics", "society"]
+    }
+  ]
+}

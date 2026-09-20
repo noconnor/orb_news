@@ -1,0 +1,517 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+        "Saturn V — The Apollo 4 Test Flight (1967)",
+        "Piracy off the coast of Somalia"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution",
+        "https://en.wikipedia.org/wiki/Saturn_V",
+        "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Iran sets conditions for war talks, demands end to conflict and US naval blockade lift"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Gulf infrastructure attacks'",
+      "existing_parallels": [
+        "Kuwaiti Oil Fires (1991)",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Gulf infrastructure attacks",
+      "headline": "Saudi Arabia intercepts Houthi missile in first attack on Riyadh since escalation began"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Russia holds parliamentary election in illegally annexed Ukrainian territories for first time"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ebola DRC outbreak' — 1 prior parallels, room for more. Must not reuse: Western African Ebola Epidemic (2013–2016)",
+      "existing_parallels": [
+        "Western African Ebola Epidemic (2013–2016)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Western_African_Ebola_epidemic"
+      ],
+      "matched_topic": "Ebola DRC outbreak",
+      "headline": "DR Congo launches Ebola vaccination campaign for frontline health workers amid escalating outbreak"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "White House bans journalists from CNN, MS NOW, and Politico, raising press freedom concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'China coal mine safety' — 2 prior parallels, room for more. Must not reuse: The 2005 Sunjiawan Mine Disaster and China's Coal Safety Crisis (2000s), List of Coal Mining Accidents in China (2000–2010 peak era)",
+      "existing_parallels": [
+        "The 2005 Sunjiawan Mine Disaster and China's Coal Safety Crisis (2000s)",
+        "List of Coal Mining Accidents in China (2000–2010 peak era)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/2005_Sunjiawan_mine_disaster",
+        "https://en.wikipedia.org/wiki/List_of_coal_mining_accidents_in_China"
+      ],
+      "matched_topic": "China coal mine safety",
+      "headline": "Peruvian journalist 'China Polo' shot dead after threatening to expose police corruption"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'China Pacific military buildup' — 2 prior parallels, room for more. Must not reuse: Soviet Naval Buildup Under Admiral Gorshkov (1956–1985), IBM's Mainframe Monopoly (1960s–1970s)",
+      "existing_parallels": [
+        "Soviet Naval Buildup Under Admiral Gorshkov (1956–1985)",
+        "IBM's Mainframe Monopoly (1960s–1970s)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Soviet_Navy",
+        "https://en.wikipedia.org/wiki/History_of_IBM"
+      ],
+      "matched_topic": "China Pacific military buildup",
+      "headline": "US-Denmark military agreement secures expanded American presence in Greenland"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Israel-Lebanon conflict'",
+      "existing_parallels": [
+        "1982 Lebanon War (Operation Peace for Galilee)",
+        "2006 Lebanon War and UN Resolution 1701",
+        "Beaufort Castle and the Long Struggle for Southern Lebanon's High Ground (1139–1268)",
+        "The Taif Agreement — End of the Lebanese Civil War (1989)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Beaufort_Castle,_Lebanon",
+        "https://en.wikipedia.org/wiki/Taif_Agreement",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Israel-Lebanon conflict",
+      "headline": "Israel strikes ambulance teams and paramedics in southern Lebanon amid escalating conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European political polarisation' — 3 prior parallels, room for more. Must not reuse: The Popular Front (1930s), Founding of the European Political Community (2022), 1958 Notting Hill Race Riots",
+      "existing_parallels": [
+        "The Popular Front (1930s)",
+        "Founding of the European Political Community (2022)",
+        "1958 Notting Hill Race Riots"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Popular_Front",
+        "https://en.wikipedia.org/wiki/European_Political_Community",
+        "https://en.wikipedia.org/wiki/1958_Notting_Hill_race_riots"
+      ],
+      "matched_topic": "European political polarisation",
+      "headline": "Germany braces for key state elections as far-right AfD seeks another breakthrough"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "US and Denmark reach deal over Greenland's security and control"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Russia-Ukraine war stalemate'",
+      "existing_parallels": [
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The Winter War (1939-1940)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "France's Withdrawal from NATO's Integrated Military Command (1966)",
+        "Post-Cold War USAREUR Drawdown (1990–2013)",
+        "War Powers Resolution (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/France_and_NATO",
+        "https://en.wikipedia.org/wiki/United_States_Army_Europe_and_Africa",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Russia-Ukraine war stalemate",
+      "headline": "Germany's defence chief Carsten Breuer chosen to head NATO military committee"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Migration crisis intensifies at Spain's Ceuta enclave as thousands seek entry to Europe"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European political polarisation' — 3 prior parallels, room for more. Must not reuse: The Popular Front (1930s), Founding of the European Political Community (2022), 1958 Notting Hill Race Riots",
+      "existing_parallels": [
+        "The Popular Front (1930s)",
+        "Founding of the European Political Community (2022)",
+        "1958 Notting Hill Race Riots"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Popular_Front",
+        "https://en.wikipedia.org/wiki/European_Political_Community",
+        "https://en.wikipedia.org/wiki/1958_Notting_Hill_race_riots"
+      ],
+      "matched_topic": "European political polarisation",
+      "headline": "Dutch police clash with far-right protesters at anti-immigration rally in The Hague"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "16 parallels already used for topic 'Russia-Ukraine war stalemate'",
+      "existing_parallels": [
+        "Korean War Stalemate",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "France's Withdrawal from NATO's Integrated Military Command (1966)",
+        "Post-Cold War USAREUR Drawdown (1990–2013)",
+        "War Powers Resolution (1973)",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The Winter War (1939-1940)",
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "The Marshall Plan (1948–1952)",
+        "The Lend-Lease Act (1941)",
+        "Exercise REFORGER — Return of Forces to Germany (1969–1993)",
+        "Post-Cold War US Army Europe Drawdown (1990–2013)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/France_and_NATO",
+        "https://en.wikipedia.org/wiki/United_States_Army_Europe_and_Africa",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease",
+        "https://en.wikipedia.org/wiki/Exercise_REFORGER",
+        "https://en.wikipedia.org/wiki/United_States_Army_Europe_and_Africa",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Russia-Ukraine war stalemate",
+      "headline": "Putin claims Europe is 'preparing for war' amid NATO expansion concerns"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Germany cuts fuel taxes to ease energy costs before state elections"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'US presidential security incident' — 1 prior parallels, room for more. Must not reuse: Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Luxembourg airport resumes operations after drone disruptions halt flights"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'US presidential security incident' — 1 prior parallels, room for more. Must not reuse: Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Midlands Prison overcrowded with nine prisoners overdosed via drone delivery"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Nikita Hand opens up on ongoing trauma following Conor McGregor trial"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Finland-Russia border security' — 2 prior parallels, room for more. Must not reuse: The Winter War (1939-1940), Attempted Assassination of Ronald Reagan (1981)",
+      "existing_parallels": [
+        "The Winter War (1939-1940)",
+        "Attempted Assassination of Ronald Reagan (1981)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+      ],
+      "matched_topic": "Finland-Russia border security",
+      "headline": "Six people discovered in container at Rosslare Europort; man released without charge"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Limerick woman dies after septic tank trench collapse in workplace accident"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Families struggle with basic needs as cost-of-living crisis deepens across Ireland"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Defence Forces ordered to slash spending; soldiers' rations and naval projects cut"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "6 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Piracy off the coast of Somalia",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Helen McEntee and Neale Richmond heading to UN General Assembly in New York"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "RTÉ confirms broadcast of contentious Ireland vs Israel Nations League matches"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "Korean War Stalemate",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "story_topic": "Gulf infrastructure attacks",
+      "historical_event": "Kuwaiti Oil Fires (1991)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Finland-Russia border security",
+      "historical_event": "The Winter War (1939-1940)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine war stalemate",
+      "historical_event": "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+      "date_first_used": "2026-04-05",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luxembourg_compromise"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "1982 Lebanon War (Operation Peace for Galilee)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw (1980)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Irish Land War (1879-1882)",
+      "date_first_used": "2026-04-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Land_War"
+    },
+    {
+      "story_topic": "European political polarisation",
+      "historical_event": "The Popular Front (1930s)",
+      "date_first_used": "2026-04-19",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Popular_Front"
+    },
+    {
+      "story_topic": "US presidential security incident",
+      "historical_event": "Attempted Assassination of Ronald Reagan (1981)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "2006 Lebanon War and UN Resolution 1701",
+      "date_first_used": "2026-05-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2006_Lebanon_War"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+      "date_first_used": "2026-05-20",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+    },
+    {
+      "story_topic": "China coal mine safety",
+      "historical_event": "The 2005 Sunjiawan Mine Disaster and China's Coal Safety Crisis (2000s)",
+      "date_first_used": "2026-05-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2005_Sunjiawan_mine_disaster"
+    },
+    {
+      "story_topic": "China coal mine safety",
+      "historical_event": "List of Coal Mining Accidents in China (2000–2010 peak era)",
+      "date_first_used": "2026-05-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_coal_mining_accidents_in_China"
+    },
+    {
+      "story_topic": "China Pacific military buildup",
+      "historical_event": "Soviet Naval Buildup Under Admiral Gorshkov (1956–1985)",
+      "date_first_used": "2026-05-31",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_Navy"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "Beaufort Castle and the Long Struggle for Southern Lebanon's High Ground (1139–1268)",
+      "date_first_used": "2026-06-01",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Beaufort_Castle,_Lebanon"
+    },
+    {
+      "story_topic": "Ebola DRC outbreak",
+      "historical_event": "Western African Ebola Epidemic (2013–2016)",
+      "date_first_used": "2026-06-01",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Western_African_Ebola_epidemic"
+    },
+    {
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "The Taif Agreement — End of the Lebanese Civil War (1989)",
+      "date_first_used": "2026-06-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Taif_Agreement"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Piracy off the coast of Somalia",
+      "date_first_used": "2026-09-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

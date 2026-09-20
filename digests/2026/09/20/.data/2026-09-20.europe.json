@@ -1,0 +1,80 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-09-20T06:15:00Z",
+  "source_status": {
+    "bbc": "rss_failed_used_websearch",
+    "guardian": "rss_failed_used_websearch",
+    "dw": "rss_failed_used_websearch",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "Germany braces for key state elections as far-right AfD seeks another breakthrough",
+      "summary": "Germany faces pivotal state elections in Berlin and Mecklenburg-Western Pomerania on September 22, with Chancellor Merz's leadership on the line as the anti-immigration Alternative for Germany (AfD) party aims to replicate recent electoral successes. The AfD has emerged as a major force in German politics, challenging traditional parties. The elections will test voter sentiment on immigration policy, economic management, and European integration. Results are expected to reshape Germany's political landscape and influence broader European policy directions on these critical issues.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough"},
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/09/19/tense-berlin-election-finale-who-is-to-emerge-strongest-in-the-capital"}
+      ],
+      "tags": ["politics", "elections", "EU"]
+    },
+    {
+      "headline": "US and Denmark reach deal over Greenland's security and control",
+      "summary": "The United States and Denmark announced an agreement giving Washington significant strategic control over Greenland's security while maintaining Danish sovereignty over the Arctic territory. Trump claimed the deal gives the US 'permanent control' over the island, though Danish Prime Minister Frederiksen characterized it differently as a security cooperation arrangement. The agreement reflects growing US geopolitical interest in the Arctic region amid climate change and strategic competition. Specific terms of the arrangement remain partially unclear, raising questions about long-term implications for Danish-US relations and Arctic governance.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/us-and-denmark-reach-deal-on-greenland-trump-claims-permanent-control-over-island"},
+        {"name": "Euronews", "url": "https://www.euronews.com/2026/09/19/us-and-denmark-reach-deal-over-greenlands-security"}
+      ],
+      "tags": ["governance", "diplomacy", "defence"]
+    },
+    {
+      "headline": "Germany's defence chief Carsten Breuer chosen to head NATO military committee",
+      "summary": "Germany's Defence Minister Carsten Breuer was elected as the next chair of NATO's Military Committee, the alliance's top military advisory position. Breuer will take office in July 2027 for a three-year term, serving as a key strategic advisor to NATO member states. The appointment reflects Germany's increased role in European security and defence matters following Russia's invasion of Ukraine. This position underscores NATO's reliance on German military expertise and Germany's commitment to collective European defence.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/09/19/germanys-defence-chief-carsten-breuer-chosen-to-head-nato-military-committee"}
+      ],
+      "tags": ["defence", "EU", "governance"]
+    },
+    {
+      "headline": "Migration crisis intensifies at Spain's Ceuta enclave as thousands seek entry to Europe",
+      "summary": "Spain's North African enclave of Ceuta faces escalating migration pressure with thousands of people attempting to reach European territory. Police launched operations to clear migrants from beaches and relocated hundreds to temporary port facilities following recent record influx. However, the new port facility rapidly ran out of capacity, forcing migrants back to beaches and streets. The situation highlights the ongoing strain on Europe's external borders and the complexities of Mediterranean migration routes. Spanish authorities continue to struggle with managing the humanitarian and security dimensions of the crisis.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/spain-s-police-launch-operation-to-clear-migrants-off-ceuta-beach"},
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/09/19/thousands-of-migrants-return-to-beaches-in-ceuta-after-new-port-facility-runs-out-of-space"}
+      ],
+      "tags": ["migration", "governance", "EU"]
+    },
+    {
+      "headline": "Dutch police clash with far-right protesters at anti-immigration rally in The Hague",
+      "summary": "Dutch riot police clashed with approximately 500 far-right protesters in The Hague during an anti-immigration rally. Police deployed water cannons and dogs after demonstrators threw fireworks and performed Nazi salutes, reflecting tensions in Dutch society over immigration and asylum policies. The incident demonstrates growing far-right activism across Northern Europe challenging mainstream political consensus. These protests coincide with broader right-wing movements gaining electoral traction across the European continent, particularly on immigration-related issues.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/09/19/dutch-police-clash-with-hundreds-of-far-right-protesters-at-anti-immigration-rally"}
+      ],
+      "tags": ["politics", "migration", "governance"]
+    },
+    {
+      "headline": "Putin claims Europe is 'preparing for war' amid NATO expansion concerns",
+      "summary": "Russian President Vladimir Putin asserted that Europe is preparing for military conflict, claiming NATO is expanding its influence with intentions to prepare for confrontation. Putin's statement reflects ongoing tensions between Russia and the Western alliance following the invasion of Ukraine. NATO and Western nations maintain that military support to Ukraine represents defensive measures against Russian aggression, not preparation for offensive war. The dispute underscores deep strategic divisions between Russia and Europe over security arrangements and the future of the post-Cold War order.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war"}
+      ],
+      "tags": ["conflict", "defence", "EU"]
+    },
+    {
+      "headline": "Germany cuts fuel taxes to ease energy costs before state elections",
+      "summary": "Germany announced plans to reduce fuel taxes by approximately 17 cents per liter beginning in October, aiming to lower soaring petrol prices for consumers. The measure comes as Chancellor Merz faces the state elections with his party facing anticipated electoral defeats. Rising fuel costs have become a significant political issue across Europe as economies struggle with energy price volatility. The tax cut reflects both immediate economic pressures on households and the political urgency governments feel to address energy affordability ahead of electoral contests.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260919-germany-cuts-energy-tax-to-lower-soaring-petrol-prices"}
+      ],
+      "tags": ["economy", "regulation", "EU"]
+    },
+    {
+      "headline": "Luxembourg airport resumes operations after drone disruptions halt flights",
+      "summary": "Luxembourg airport resumed operations after unauthorised drones temporarily halted flights, disrupting regional air traffic. The airport warned of continued delays as airlines worked to restore normal schedules. The incident highlights Europe's ongoing struggle to manage drone security threats at critical infrastructure. Such disruptions carry significant economic and logistical consequences, prompting airports and aviation authorities to strengthen security protocols and develop more effective counter-drone measures.",
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/09/19/operations-resume-at-luxembourg-airport-after-unauthorised-drones-halt-flights"}
+      ],
+      "tags": ["governance", "EU", "regulation"]
+    }
+  ]
+}

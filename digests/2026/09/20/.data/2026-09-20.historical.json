@@ -1,0 +1,44 @@
+{
+  "parallels": [
+    {
+      "type": "new",
+      "story_headline": "US and Denmark reach deal over Greenland's security and control",
+      "story_topic": "Greenland US-Denmark security agreement",
+      "historical_event": "The 1951 Agreement Concerning the Defense of Greenland",
+      "date_range": "1951",
+      "summary": "On 27 April 1951, Denmark and the United States signed a defense agreement that let Washington build and run military bases in Greenland, including Thule Air Base (now Pituffik Space Base), inside NATO's framework, while Denmark kept formal sovereignty. Danish negotiators at the time complained that the American draft barely mentioned Denmark and read as if Greenland had been sold to the United States. The deal held for decades and anchored US Arctic defense inside a multilateral alliance structure rather than a bilateral one.",
+      "parallel_analysis": "Today's arrangement echoes the same tension: an American administration seeking operational control that outruns the language of the agreement, and a Danish government working to keep the deal framed as cooperation rather than cession. The 1951 precedent suggests the ambiguity itself may prove durable.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Military_in_Greenland"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Iran sets conditions for war talks, demands end to conflict and US naval blockade lift",
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988) and the 1973 Oil Crisis",
+      "date_range": "1973-1988",
+      "summary": "The Tanker War of 1984-1988 saw both Iran and Iraq attack neutral shipping in the Gulf, drawing the US Navy into escorting tankers through the Strait of Hormuz. The Arab Oil Embargo and 1973 Oil Crisis showed how quickly a Middle East conflict can be weaponised through control of oil and shipping routes. The wider Iran-Iraq War also used access to sea lanes as leverage in ceasefire negotiations.",
+      "parallel_analysis": "These episodes suggest blockades and shipping disruptions tend to function as pressure points traded away at the negotiating table rather than decisive military tools, which fits the exchange Tehran now appears to be proposing.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Israel strikes ambulance teams and paramedics in southern Lebanon amid escalating conflict",
+      "story_topic": "Israel-Lebanon conflict",
+      "historical_event": "The 1982 and 2006 Lebanon Wars",
+      "date_range": "1982-2006",
+      "summary": "The 1982 Lebanon War, Israel's Operation Peace for Galilee, was launched to push hostile forces back from Israel's northern border and led to a prolonged Israeli occupation of southern Lebanon. The 2006 Lebanon War ended with UN Security Council Resolution 1701, calling for a buffer zone and Hezbollah's withdrawal north of the Litani River. The 1989 Taif Agreement, which ended Lebanon's civil war, likewise struggled to settle control of the south.",
+      "parallel_analysis": "Each settlement bought time rather than resolution, and each broke down once one side judged the cost of restraint too high. Strikes on medical workers point to the same dynamic recurring, as the rules meant to contain the conflict erode under escalation.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+        "https://en.wikipedia.org/wiki/2006_Lebanon_War",
+        "https://en.wikipedia.org/wiki/Taif_Agreement"
+      ]
+    }
+  ]
+}

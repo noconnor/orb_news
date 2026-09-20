@@ -1,0 +1,473 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-09-20T05:01:51Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "ok",
+      "irishexaminer": "ok",
+      "breakingnews": "ok_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Midlands Prison overcrowded with nine prisoners overdosed via drone delivery",
+        "summary": "Nine prisoners overdosed at Midlands Prison on Friday after a drone delivered toxic drugs into a prison yard. Two prison officers were assaulted during the incident, and three prisoners required hospitalisation. The overdose incident highlights ongoing security challenges within the Irish prison system regarding contraband access. Investigations are ongoing into how the drone managed to penetrate prison security. The Irish Prison Service has stated it is committed to preventing the access of contraband, including drugs, into prisons.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/09/19/investigations-ongoing-after-nine-prisoners-overdosed-at-midlands-prison-on-friday/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/midlands-prison-overdoses-7167471-Sep2026/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/arid-41913247.html"
+          }
+        ],
+        "tags": [
+          "crime",
+          "prison",
+          "health"
+        ]
+      },
+      {
+        "headline": "Nikita Hand opens up on ongoing trauma following Conor McGregor trial",
+        "summary": "Nikita Hand gave her first interview since the conclusion of the Conor McGregor trial, discussing the lasting psychological impact of the case. Hand revealed she still experiences intense panic attacks as a result of the alleged assault and subsequent legal proceedings. She has recently given birth to her second daughter and emphasised that there is no such thing as a perfect victim. The interview marks a significant moment of public reflection on a high-profile Irish legal case that captured national and international attention.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/nikita-hand-interview-7167270-Sep2026/"
+          },
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/09/19/i-still-get-panic-attacks-nikita-hand-on-impact-of-conor-mcgregor-trial/"
+          },
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/ireland/i-still-get-panic-attacks-nikita-hand-on-impact-of-conor-mcgregor-trial-1949850.html"
+          }
+        ],
+        "tags": [
+          "crime",
+          "legal",
+          "society"
+        ]
+      },
+      {
+        "headline": "Six people discovered in container at Rosslare Europort; man released without charge",
+        "summary": "A man was arrested following the discovery of six people in a container at Rosslare Europort. He was subsequently released without charge as garda\u00ed continue their investigation. A file is being prepared for the Director of Public Prosecutions. The incident raises questions about border security and human trafficking at Ireland's major shipping port. The discovery underscores ongoing concerns about exploitation networks operating through Irish ports.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/crime-law/2026/09/19/man-arrested-in-connection-with-discovery-of-people-in-container-at-rosslare-europort-released-without-charge/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/rosslare-europort-lorry-discovery-7167268-Sep2026/"
+          }
+        ],
+        "tags": [
+          "crime",
+          "transport",
+          "security"
+        ]
+      },
+      {
+        "headline": "Limerick woman dies after septic tank trench collapse in workplace accident",
+        "summary": "Elizabeth Lynch, 44, a mother of three from Kilmeedy, Co Limerick, died after a trench collapsed while being dug for a septic tank installation. The workplace fatality has been referred to the Health and Safety Authority (HSA) by An Garda S\u00edoch\u00e1na for investigation. The incident highlights ongoing concerns about workplace safety standards in construction and groundwork sectors across Ireland. Her death marks a tragic loss for her family and community.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/09/19/woman-dies-after-trench-collapse-in-co-limerick/"
+          },
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/munster/arid-41913151.html"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/kilmeedy-workplace-incident-7167222-Sep2026/"
+          }
+        ],
+        "tags": [
+          "safety",
+          "workplace",
+          "limerick"
+        ]
+      },
+      {
+        "headline": "Families struggle with basic needs as cost-of-living crisis deepens across Ireland",
+        "summary": "A major cost-of-living protest in Dublin highlighted the growing financial pressure on Irish households, with families forced to make impossible choices between affording food and heating their homes. Rising rents emerged as a critical concern during the demonstration, held ahead of the October 6 budget announcement. Economic hardship is spreading across multiple sectors of Irish society. Government officials are facing increasing pressure to address housing affordability and energy costs in the upcoming budget.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/09/19/people-forced-to-choose-between-feeding-their-children-or-putting-on-the-heat-protest-told/"
+          },
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/ireland/people-forced-to-choose-between-feeding-their-children-or-putting-on-the-heat-protest-told-1949872.html"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/cost-of-living-protest-dublin-september-2026-7167456-Sep2026/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "housing",
+          "health"
+        ]
+      },
+      {
+        "headline": "Defence Forces ordered to slash spending; soldiers' rations and naval projects cut",
+        "summary": "The Irish Defence Forces have been ordered to implement major cost-saving measures, including cutting soldiers' rations and pausing naval radar development plans. Military sources revealed that all spending has been suspended except for critical expenses that could prevent ships from going to sea. The budget restrictions raise concerns about military readiness and defence capabilities. Government officials have indicated that the savings are necessary to manage broader fiscal constraints.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/ireland/2026/09/19/soldiers-rations-cut-naval-radar-plan-paused-as-defence-forces-ordered-to-save-millions/"
+          }
+        ],
+        "tags": [
+          "defence",
+          "government",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Helen McEntee and Neale Richmond heading to UN General Assembly in New York",
+        "summary": "Justice Minister Helen McEntee and Fine Gael foreign affairs spokesperson Neale Richmond are traveling to New York to participate in UN meetings. McEntee will highlight her key priorities to international colleagues, including developments in the Middle East and the ongoing conflict in Ukraine. The delegation reflects Ireland's continued engagement with major global issues. The meetings take place alongside the UN General Assembly, providing a platform for Ireland to raise its policy positions on international affairs.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/helen-mcentee-un-new-york-7167549-Sep2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence",
+          "government"
+        ]
+      },
+      {
+        "headline": "RT\u00c9 confirms broadcast of contentious Ireland vs Israel Nations League matches",
+        "summary": "RT\u00c9 has announced it will broadcast the Republic of Ireland's upcoming Nations League football matches against Israel. The broadcaster has stated there will be no studio presentation or punditry during the matches, a decision made amid controversy surrounding the fixtures. Protests are expected in the lead-up to the games scheduled over the next two weeks. The decision reflects ongoing societal divisions over Ireland's sports engagements with Israel. The FAI faces mounting pressure from various groups regarding these matches.",
+        "sources": [
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/rte-ireland-israel-broadcast-7167308-Sep2026/"
+          }
+        ],
+        "tags": [
+          "sport",
+          "politics",
+          "society"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-09-20T06:15:00Z",
+    "source_status": {
+      "bbc": "rss_failed_used_websearch",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Germany braces for key state elections as far-right AfD seeks another breakthrough",
+        "summary": "Germany faces pivotal state elections in Berlin and Mecklenburg-Western Pomerania on September 22, with Chancellor Merz's leadership on the line as the anti-immigration Alternative for Germany (AfD) party aims to replicate recent electoral successes. The AfD has emerged as a major force in German politics, challenging traditional parties. The elections will test voter sentiment on immigration policy, economic management, and European integration. Results are expected to reshape Germany's political landscape and influence broader European policy directions on these critical issues.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/09/19/tense-berlin-election-finale-who-is-to-emerge-strongest-in-the-capital"
+          }
+        ],
+        "tags": [
+          "politics",
+          "elections",
+          "EU"
+        ]
+      },
+      {
+        "headline": "US and Denmark reach deal over Greenland's security and control",
+        "summary": "The United States and Denmark announced an agreement giving Washington significant strategic control over Greenland's security while maintaining Danish sovereignty over the Arctic territory. Trump claimed the deal gives the US 'permanent control' over the island, though Danish Prime Minister Frederiksen characterized it differently as a security cooperation arrangement. The agreement reflects growing US geopolitical interest in the Arctic region amid climate change and strategic competition. Specific terms of the arrangement remain partially unclear, raising questions about long-term implications for Danish-US relations and Arctic governance.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/us-and-denmark-reach-deal-on-greenland-trump-claims-permanent-control-over-island"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/09/19/us-and-denmark-reach-deal-over-greenlands-security"
+          }
+        ],
+        "tags": [
+          "governance",
+          "diplomacy",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Germany's defence chief Carsten Breuer chosen to head NATO military committee",
+        "summary": "Germany's Defence Minister Carsten Breuer was elected as the next chair of NATO's Military Committee, the alliance's top military advisory position. Breuer will take office in July 2027 for a three-year term, serving as a key strategic advisor to NATO member states. The appointment reflects Germany's increased role in European security and defence matters following Russia's invasion of Ukraine. This position underscores NATO's reliance on German military expertise and Germany's commitment to collective European defence.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/09/19/germanys-defence-chief-carsten-breuer-chosen-to-head-nato-military-committee"
+          }
+        ],
+        "tags": [
+          "defence",
+          "EU",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Migration crisis intensifies at Spain's Ceuta enclave as thousands seek entry to Europe",
+        "summary": "Spain's North African enclave of Ceuta faces escalating migration pressure with thousands of people attempting to reach European territory. Police launched operations to clear migrants from beaches and relocated hundreds to temporary port facilities following recent record influx. However, the new port facility rapidly ran out of capacity, forcing migrants back to beaches and streets. The situation highlights the ongoing strain on Europe's external borders and the complexities of Mediterranean migration routes. Spanish authorities continue to struggle with managing the humanitarian and security dimensions of the crisis.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/spain-s-police-launch-operation-to-clear-migrants-off-ceuta-beach"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/09/19/thousands-of-migrants-return-to-beaches-in-ceuta-after-new-port-facility-runs-out-of-space"
+          }
+        ],
+        "tags": [
+          "migration",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Dutch police clash with far-right protesters at anti-immigration rally in The Hague",
+        "summary": "Dutch riot police clashed with approximately 500 far-right protesters in The Hague during an anti-immigration rally. Police deployed water cannons and dogs after demonstrators threw fireworks and performed Nazi salutes, reflecting tensions in Dutch society over immigration and asylum policies. The incident demonstrates growing far-right activism across Northern Europe challenging mainstream political consensus. These protests coincide with broader right-wing movements gaining electoral traction across the European continent, particularly on immigration-related issues.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/09/19/dutch-police-clash-with-hundreds-of-far-right-protesters-at-anti-immigration-rally"
+          }
+        ],
+        "tags": [
+          "politics",
+          "migration",
+          "governance"
+        ]
+      },
+      {
+        "headline": "Putin claims Europe is 'preparing for war' amid NATO expansion concerns",
+        "summary": "Russian President Vladimir Putin asserted that Europe is preparing for military conflict, claiming NATO is expanding its influence with intentions to prepare for confrontation. Putin's statement reflects ongoing tensions between Russia and the Western alliance following the invasion of Ukraine. NATO and Western nations maintain that military support to Ukraine represents defensive measures against Russian aggression, not preparation for offensive war. The dispute underscores deep strategic divisions between Russia and Europe over security arrangements and the future of the post-Cold War order.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "defence",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Germany cuts fuel taxes to ease energy costs before state elections",
+        "summary": "Germany announced plans to reduce fuel taxes by approximately 17 cents per liter beginning in October, aiming to lower soaring petrol prices for consumers. The measure comes as Chancellor Merz faces the state elections with his party facing anticipated electoral defeats. Rising fuel costs have become a significant political issue across Europe as economies struggle with energy price volatility. The tax cut reflects both immediate economic pressures on households and the political urgency governments feel to address energy affordability ahead of electoral contests.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260919-germany-cuts-energy-tax-to-lower-soaring-petrol-prices"
+          }
+        ],
+        "tags": [
+          "economy",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Luxembourg airport resumes operations after drone disruptions halt flights",
+        "summary": "Luxembourg airport resumed operations after unauthorised drones temporarily halted flights, disrupting regional air traffic. The airport warned of continued delays as airlines worked to restore normal schedules. The incident highlights Europe's ongoing struggle to manage drone security threats at critical infrastructure. Such disruptions carry significant economic and logistical consequences, prompting airports and aviation authorities to strengthen security protocols and develop more effective counter-drone measures.",
+        "sources": [
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/my-europe/2026/09/19/operations-resume-at-luxembourg-airport-after-unauthorised-drones-halt-flights"
+          }
+        ],
+        "tags": [
+          "governance",
+          "EU",
+          "regulation"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-09-20T06:00:00Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "rss_failed",
+      "npr": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Iran sets conditions for war talks, demands end to conflict and US naval blockade lift",
+        "summary": "Iran's security chief has communicated Tehran's demands for resuming negotiations to end the ongoing war, including a full ceasefire on all fronts and the lifting of the US naval blockade. The conditions were relayed to the United States through Qatar as an intermediary. Iran's Supreme National Security Council secretary Mohsen Rezaei told Al Jazeera that Tehran is awaiting a response from the Trump administration. The development represents a significant diplomatic opening amid the escalating regional conflict. The talks reflect broader international efforts to de-escalate tensions in the Middle East.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "Middle East"
+        ]
+      },
+      {
+        "headline": "Saudi Arabia intercepts Houthi missile in first attack on Riyadh since escalation began",
+        "summary": "Saudi Arabia's air defences successfully intercepted a ballistic missile fired by Yemen's Houthi rebels targeting Riyadh, marking the first missile attack on the capital since recent escalation in hostilities. The strike represented a significant escalation in the ongoing conflict between the Saudi-led coalition and Houthi forces. Saudi Arabia and Turkey have coordinated closely on security matters, with Ankara pledging military support to bolster Saudi Arabia's defences against intensifying Houthi attacks. The attack underscores growing threats to regional stability and critical energy infrastructure. International concern continues to mount over the humanitarian toll of the conflict.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Russia holds parliamentary election in illegally annexed Ukrainian territories for first time",
+        "summary": "Russia conducted parliamentary elections for the first time in the Ukrainian regions it has illegally annexed since its 2022 full-scale invasion. The vote represents an attempt by Moscow to solidify control over occupied territories and further entrench its position despite ongoing military conflict. The election drew international condemnation as a violation of international law and Ukrainian sovereignty. Russia announced the three-day voting process as part of efforts to consolidate the Kremlin's power and demonstrate political control in contested areas. The move further escalates geopolitical tensions and challenges to the international legal order.",
+        "sources": [
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+          },
+          {
+            "name": "AP News via Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "diplomacy",
+          "governance"
+        ]
+      },
+      {
+        "headline": "DR Congo launches Ebola vaccination campaign for frontline health workers amid escalating outbreak",
+        "summary": "The Democratic Republic of Congo has initiated trials of a new Ebola vaccine specifically targeting health workers at the centre of the country's escalating outbreak. The campaign will see 50,000 frontline staff receive the vaccine to protect against a different Ebola strain, with 20,000 health workers enrolled in a one-year clinical trial. The vaccination programme represents a critical public health response to the growing humanitarian crisis. The initiative aims to protect medical personnel working directly with Ebola patients while generating data on vaccine efficacy. The outbreak continues to pose significant risks to both regional and global health security.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises"
+          }
+        ],
+        "tags": [
+          "health",
+          "humanitarian",
+          "Africa"
+        ]
+      },
+      {
+        "headline": "White House bans journalists from CNN, MS NOW, and Politico, raising press freedom concerns",
+        "summary": "The Trump administration has barred journalists from CNN, MS NOW, and Politico from accessing the White House, with reporters being physically denied entry to White House grounds. The press ban represents a significant action against media outlets and raises international concerns about press freedom and democratic principles. News organisations have characterised the action as 'a ban on the free press' and pointed to the constitutional importance of independent media oversight. The move comes amid broader tensions between the administration and major news organisations. The incident has drawn criticism from press freedom advocates and international observers concerned about democratic norms.",
+        "sources": [
+          {
+            "name": "AP News via Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
+          }
+        ],
+        "tags": [
+          "governance",
+          "diplomacy",
+          "technology"
+        ]
+      },
+      {
+        "headline": "Peruvian journalist 'China Polo' shot dead after threatening to expose police corruption",
+        "summary": "Peruvian journalist known as 'China Polo' has been assassinated after publicly threatening to expose police corruption and organised crime connections. The journalist was killed just one week after receiving death threats, highlighting severe risks faced by media workers investigating law enforcement and criminal networks in Peru. The murder underscores the dangerous environment for press freedom in the region and the vulnerability of investigative journalists pursuing corruption stories. The killing has drawn international attention to press safety issues in Latin America. The incident reflects broader challenges to media independence and accountability journalism in countries with organised crime activity.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "governance"
+        ]
+      },
+      {
+        "headline": "US-Denmark military agreement secures expanded American presence in Greenland",
+        "summary": "The Trump administration has secured a binding agreement with Denmark to expand US military presence and strategic capabilities in Greenland. The deal maintains Denmark's sovereignty over the territory while allowing the United States to strengthen its Arctic military posture in response to growing geopolitical competition. Denmark's government has publicly confirmed that the agreement is 'binding' while stressing it does not compromise national sovereignty or territorial integrity. The arrangement reflects broader American strategic interest in Arctic dominance amid competition with Russia and China. The agreement underscores the geopolitical importance of the Arctic region in contemporary great power competition.",
+        "sources": [
+          {
+            "name": "AP News via Reuters",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3VpRkZyY3B5MENtdkZiUFFhRzBMd25SZU9kMFZia2JxTEM4bFNvUFY5aTVzU2RDeXFIcWVGTVl4bUJrVzRTYkgyRVVfeXlhR1lFekxFVGFvaW42eEMyUEE0d1BJMnlFbjRzOXRhbGdnaDhiTFFTMnZQSUM0TVp4RDB6aXpBNTVqNUZUbHZFUFlIaWltTmFR"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "defence",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Israel strikes ambulance teams and paramedics in southern Lebanon amid escalating conflict",
+        "summary": "Israeli air strikes have targeted ambulance teams and paramedics providing emergency medical care in southern Lebanon, with multiple back-to-back strikes hitting the city of Nabatieh. The attacks on medical personnel represent a significant escalation in the conflict and raise serious humanitarian concerns regarding the protection of civilian medical workers. The strikes occurred amid broader escalation in Israel-Hezbollah hostilities along the Lebanon border. International humanitarian organisations have expressed alarm at the targeting of emergency medical services, which should be protected under international law. The incidents underscore the worsening humanitarian situation affecting civilians in the region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon"
+          },
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "health"
+        ]
+      }
+    ]
+  }
+}
