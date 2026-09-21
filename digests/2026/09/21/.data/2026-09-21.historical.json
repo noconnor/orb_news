@@ -1,0 +1,46 @@
+{
+  "parallels": [
+    {
+      "type": "synthesis",
+      "story_headline": "Russia's United Russia party dominates elections amid intensifying Ukraine conflict",
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Strategic Bombing in World War II / Oil Campaign of World War II / Winter War",
+      "date_range": "1939-1945",
+      "summary": "Wartime aerial bombing campaigns targeting civilian and energy infrastructure, and a smaller state absorbing a larger neighbour's offensive while political institutions kept functioning.",
+      "parallel_analysis": "Bombing infrastructure rarely ends a war outright but tends to harden domestic political consolidation around the incumbent government, as seen in today's United Russia election result following the Moscow drone strikes.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Winter_War"
+      ]
+    },
+    {
+      "type": "synthesis",
+      "story_headline": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen / Vessels trickle through Strait of Hormuz",
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "1973 Oil Crisis / Tanker War / 1990 Oil Price Shock / Suez Crisis / Piracy off the coast of Somalia",
+      "date_range": "1956-2011",
+      "summary": "Repeated historical episodes where threats to Gulf or Red Sea shipping lanes and Middle East supply disruptions produced global oil-price shocks and forced costly rerouting of shipping.",
+      "parallel_analysis": "The current thinning of vessel traffic through the Strait of Hormuz mirrors past chokepoint disruptions, suggesting the slowdown will persist while the underlying Iran-US standoff continues.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia"
+      ]
+    },
+    {
+      "type": "new",
+      "story_headline": "Germany's CDU/Merz party suffers heavy losses in state elections as AfD surges",
+      "story_topic": "European political polarisation",
+      "historical_event": "Weimar Republic political fragmentation",
+      "date_range": "1919-1933",
+      "summary": "The Weimar Republic's proportional-representation system let smaller and more radical parties win seats, producing chronic coalition instability; after the 1929-30 economic crisis, the Nazi Party grew from a marginal force to the largest party in the Reichstag by mid-1932.",
+      "parallel_analysis": "Today's split result, with the AfD surging in the northeast and the Left winning Berlin outright, echoes the same pattern of a splintering centre and gains at both political extremes that recurred throughout Weimar-era German elections, though the stakes are not equivalent.",
+      "wikipedia_urls": [
+        "https://en.wikipedia.org/wiki/Weimar_Republic"
+      ]
+    }
+  ]
+}

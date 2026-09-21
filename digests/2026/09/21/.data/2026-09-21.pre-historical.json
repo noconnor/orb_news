@@ -1,0 +1,429 @@
+{
+  "stories": [
+    {
+      "recommendation": "synthesis",
+      "reason": "7 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "The 1990 Oil Price Shock",
+        "Piracy off the coast of Somalia",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "5 parallels already used for topic 'US presidential security incident'",
+      "existing_parallels": [
+        "Attempted Assassination of Ronald Reagan (1981)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "US presidential security incident",
+      "headline": "Powerful explosions at Syrian army site near Aleppo injure at least four"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Ethiopian armed groups forge alliance against government"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Iran-US conflict global economic shock' — 2 prior parallels, room for more. Must not reuse: Arab Oil Embargo and the 1973 Oil Crisis, Piracy off the coast of Somalia",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Piracy off the coast of Somalia"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Xi rolls into Trump summit with China's trade engine roaring"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'EU Ukraine financial support' — 2 prior parallels, room for more. Must not reuse: The Marshall Plan (1948–1952), The Lend-Lease Act (1941)",
+      "existing_parallels": [
+        "The Marshall Plan (1948–1952)",
+        "The Lend-Lease Act (1941)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Marshall_Plan",
+        "https://en.wikipedia.org/wiki/Lend-Lease"
+      ],
+      "matched_topic": "EU Ukraine financial support",
+      "headline": "Trump administration readies sweeping sanctions against ICC, reports say"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "8 parallels already used for topic 'Iran-US conflict global economic shock'",
+      "existing_parallels": [
+        "Arab Oil Embargo and the 1973 Oil Crisis",
+        "Piracy off the coast of Somalia",
+        "The Suez Crisis",
+        "The 1990 Oil Price Shock",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/1973_oil_crisis",
+        "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia",
+        "https://en.wikipedia.org/wiki/Suez_Crisis",
+        "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict global economic shock",
+      "headline": "Vessels trickle through Strait of Hormuz as Middle East conflict persists"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Imran Khan's family says three sisters detained ahead of Islamabad march"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Tropical Storm Polo forms off southwestern Mexico"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "12 parallels already used for topic 'Russia-Ukraine oil infrastructure strikes'",
+      "existing_parallels": [
+        "Allied Oil Campaign of World War II (1944-1945)",
+        "Korean War Stalemate",
+        "Strategic Bombing in World War II (The Blitz and German Terror Bombing, 1940–1941)",
+        "The Empty Chair Crisis and Luxembourg Compromise (France, 1965–1966)",
+        "Kuwaiti Oil Fires (1991)",
+        "The Winter War (1939-1940)",
+        "The Popular Front (1930s)",
+        "Founding of the European Political Community (2022)",
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II",
+        "https://en.wikipedia.org/wiki/Korean_War",
+        "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Luxembourg_compromise",
+        "https://en.wikipedia.org/wiki/Kuwaiti_oil_fires",
+        "https://en.wikipedia.org/wiki/Winter_War",
+        "https://en.wikipedia.org/wiki/Popular_Front",
+        "https://en.wikipedia.org/wiki/European_Political_Community",
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Russia-Ukraine oil infrastructure strikes",
+      "headline": "Russia's United Russia party dominates elections amid intensifying Ukraine conflict"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European political polarisation' — 2 prior parallels, room for more. Must not reuse: The Popular Front (1930s), Founding of the European Political Community (2022)",
+      "existing_parallels": [
+        "The Popular Front (1930s)",
+        "Founding of the European Political Community (2022)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Popular_Front",
+        "https://en.wikipedia.org/wiki/European_Political_Community"
+      ],
+      "matched_topic": "European political polarisation",
+      "headline": "Germany's CDU/Merz party suffers heavy losses in state elections as AfD surges"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "France faces highest public debt level since 1978 amid fiscal austerity measures"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "EU Parliament approves major customs code reform targeting e-commerce and international trade"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'European political polarisation' — 3 prior parallels, room for more. Must not reuse: The Popular Front (1930s), Founding of the European Political Community (2022), 1958 Notting Hill Race Riots",
+      "existing_parallels": [
+        "The Popular Front (1930s)",
+        "Founding of the European Political Community (2022)",
+        "1958 Notting Hill Race Riots"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Popular_Front",
+        "https://en.wikipedia.org/wiki/European_Political_Community",
+        "https://en.wikipedia.org/wiki/1958_Notting_Hill_race_riots"
+      ],
+      "matched_topic": "European political polarisation",
+      "headline": "Italy's Meloni government implements anti-immigration policies including burqa ban in schools"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'EU-US transatlantic trade liberalisation' — 1 prior parallels, room for more. Must not reuse: The Uruguay Round and the Birth of the WTO (1986–1994)",
+      "existing_parallels": [
+        "The Uruguay Round and the Birth of the WTO (1986–1994)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Uruguay_Round"
+      ],
+      "matched_topic": "EU-US transatlantic trade liberalisation",
+      "headline": "France and Canada signal closer diplomatic ties amid strained US-EU relations"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'China coal mine safety' — 2 prior parallels, room for more. Must not reuse: The 2005 Sunjiawan Mine Disaster and China's Coal Safety Crisis (2000s), List of Coal Mining Accidents in China (2000–2010 peak era)",
+      "existing_parallels": [
+        "The 2005 Sunjiawan Mine Disaster and China's Coal Safety Crisis (2000s)",
+        "List of Coal Mining Accidents in China (2000–2010 peak era)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/2005_Sunjiawan_mine_disaster",
+        "https://en.wikipedia.org/wiki/List_of_coal_mining_accidents_in_China"
+      ],
+      "matched_topic": "China coal mine safety",
+      "headline": "US and China launch AI dialogue to address shared governance concerns"
+    },
+    {
+      "recommendation": "synthesis",
+      "reason": "4 parallels already used for topic 'Iran-US conflict'",
+      "existing_parallels": [
+        "The Tanker War (1984-1988)",
+        "Iran-Iraq War (1980-1988)",
+        "Operation Eagle Claw (1980)",
+        "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Tanker_war",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+      ],
+      "matched_topic": "Iran-US conflict",
+      "headline": "Omagh Bombing Inquest Resumes with Key Witnesses"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Budget 2027 Described as 'Watershed Moment' for Ireland's Future"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Taoiseach and Irish Ministers Travel to UN General Assembly"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "Continuing topic 'Ireland fuel protests' — 3 prior parallels, room for more. Must not reuse: UK Fuel Protests of 2000, French Yellow Vest (Gilets Jaunes) Protests, Irish Land War (1879-1882)",
+      "existing_parallels": [
+        "UK Fuel Protests of 2000",
+        "French Yellow Vest (Gilets Jaunes) Protests",
+        "Irish Land War (1879-1882)"
+      ],
+      "existing_urls": [
+        "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom",
+        "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+        "https://en.wikipedia.org/wiki/Land_War"
+      ],
+      "matched_topic": "Ireland fuel protests",
+      "headline": "Low Pay 'Endemic' in Ireland's Labour Market, Research Shows"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Hospitality Sector Faces Viability Crisis from Rising Costs"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Foreign Minister Helen McEntee Highlights Plight of Afghan Women"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Siro Broadband Provider Targets Ireland's Underserved Business Parks"
+    },
+    {
+      "recommendation": "new_parallel",
+      "reason": "New topic — no entries in historical index",
+      "existing_parallels": [],
+      "existing_urls": [],
+      "matched_topic": null,
+      "headline": "Dublin Office Space Demand Remains Weak as Remote Working Expands"
+    }
+  ],
+  "relevant_index_entries": [
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "The Tanker War (1984-1988)",
+      "date_first_used": "2026-04-02",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanker_war"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Arab Oil Embargo and the 1973 Oil Crisis",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Iran-Iraq War (1980-1988)",
+      "date_first_used": "2026-04-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War"
+    },
+    {
+      "story_topic": "Russia-Ukraine oil infrastructure strikes",
+      "historical_event": "Allied Oil Campaign of World War II (1944-1945)",
+      "date_first_used": "2026-04-04",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oil_campaign_of_World_War_II"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "Operation Eagle Claw (1980)",
+      "date_first_used": "2026-04-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "UK Fuel Protests of 2000",
+      "date_first_used": "2026-04-10",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "French Yellow Vest (Gilets Jaunes) Protests",
+      "date_first_used": "2026-04-13",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_vests_protests"
+    },
+    {
+      "story_topic": "Ireland fuel protests",
+      "historical_event": "Irish Land War (1879-1882)",
+      "date_first_used": "2026-04-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Land_War"
+    },
+    {
+      "story_topic": "European political polarisation",
+      "historical_event": "The Popular Front (1930s)",
+      "date_first_used": "2026-04-19",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Popular_Front"
+    },
+    {
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Marshall Plan (1948–1952)",
+      "date_first_used": "2026-04-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan"
+    },
+    {
+      "story_topic": "US presidential security incident",
+      "historical_event": "Attempted Assassination of Ronald Reagan (1981)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan"
+    },
+    {
+      "story_topic": "EU Ukraine financial support",
+      "historical_event": "The Lend-Lease Act (1941)",
+      "date_first_used": "2026-04-26",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lend-Lease"
+    },
+    {
+      "story_topic": "Iran-US conflict",
+      "historical_event": "War Powers Resolution — Congressional Pushback on Presidential Military Authority (1973)",
+      "date_first_used": "2026-05-20",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/War_Powers_Resolution"
+    },
+    {
+      "story_topic": "China coal mine safety",
+      "historical_event": "The 2005 Sunjiawan Mine Disaster and China's Coal Safety Crisis (2000s)",
+      "date_first_used": "2026-05-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/2005_Sunjiawan_mine_disaster"
+    },
+    {
+      "story_topic": "China coal mine safety",
+      "historical_event": "List of Coal Mining Accidents in China (2000–2010 peak era)",
+      "date_first_used": "2026-05-24",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_coal_mining_accidents_in_China"
+    },
+    {
+      "story_topic": "EU-US transatlantic trade liberalisation",
+      "historical_event": "The Uruguay Round and the Birth of the WTO (1986–1994)",
+      "date_first_used": "2026-05-25",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Uruguay_Round"
+    },
+    {
+      "story_topic": "Iran-US conflict global economic shock",
+      "historical_event": "Piracy off the coast of Somalia",
+      "date_first_used": "2026-09-18",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Piracy_off_the_coast_of_Somalia"
+    }
+  ],
+  "index_path": "/Users/noconnor/Env/git/noconnor/orb_news/digests/historical-index.json"
+}

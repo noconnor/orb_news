@@ -1,0 +1,396 @@
+{
+  "ireland": {
+    "layer": "ireland",
+    "fetched_at": "2026-09-21T07:00:00Z",
+    "source_status": {
+      "rte": "ok",
+      "thejournal": "ok",
+      "irishtimes": "rss_failed_used_websearch",
+      "irishexaminer": "ok",
+      "breakingnews": "rss_failed_used_websearch"
+    },
+    "stories": [
+      {
+        "headline": "Omagh Bombing Inquest Resumes with Key Witnesses",
+        "summary": "The public inquest into the 1998 Omagh bombing is resuming with witnesses expected to give evidence in coming weeks about events leading up to the attack that killed 29 people. The inquest aims to establish the full circumstances of the bombing, one of the deadliest incidents during the conflict. This represents a significant moment in the long-running effort to achieve truth and justice for victims of the Real IRA attack. The proceedings reflect ongoing commitments to historical accountability and closure for affected families and communities.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ulster/2026/0921/1592281-omagh-bombing-inquest/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "crime",
+          "justice"
+        ]
+      },
+      {
+        "headline": "Budget 2027 Described as 'Watershed Moment' for Ireland's Future",
+        "summary": "Minister Simon Harris has characterized the upcoming Budget 2027 as a critical watershed moment for Ireland's future direction and priorities. The budget is expected to set the tone for economic policy and public spending in the coming year amid ongoing debates about public services, taxation, and economic management. Harris's framing suggests significant policy decisions and resource allocations are being planned. The budget announcement follows weeks of discussion about minimum wages, cost-of-living pressures, and business viability concerns.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/2026/0921/1592282-budget-politics-ireland/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "economy",
+          "budget"
+        ]
+      },
+      {
+        "headline": "Taoiseach and Irish Ministers Travel to UN General Assembly",
+        "summary": "The Taoiseach and government ministers are heading to New York for the 81st United Nations General Assembly High-Level Week. The delegation will participate in the annual gathering where world leaders address global challenges and Ireland's priorities at the international level. This appearance allows Ireland to present its positions on key global issues including conflicts, climate policy, and development. The attendance underscores Ireland's active engagement with international diplomacy and the UN system.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0921/1592290-ireland-un-assembly/"
+          },
+          {
+            "name": "The Journal.ie",
+            "url": "https://www.thejournal.ie/un-general-assembly-2-7165663-Sep2026/"
+          }
+        ],
+        "tags": [
+          "politics",
+          "defence"
+        ]
+      },
+      {
+        "headline": "Low Pay 'Endemic' in Ireland's Labour Market, Research Shows",
+        "summary": "New research from University College Dublin has found that low pay is endemic across Ireland's labour market, with one in three workers earning less than a living wage. These workers struggle to make ends meet despite being in full-time employment, highlighting a systemic issue in wage structures. The findings fuel ongoing debate about minimum wage policy, with the Small Firms Association urging government to reject proposed increases due to concerns about business viability. The research underscores broader challenges around cost-of-living pressures and income adequacy.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0921/1592267-business-pay-ireland/"
+          },
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/business/2026/0921/1592269-minimum-wage-business/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Hospitality Sector Faces Viability Crisis from Rising Costs",
+        "summary": "Pubs and hospitality businesses across Ireland are facing mounting pressure from rising operational costs that threaten their viability, according to new research released today. The sector struggles with increased energy costs, wages, and supply chain expenses that are difficult to pass on to customers without losing trade. This follows broader economic pressures affecting Irish businesses and adds to the case made by business groups regarding minimum wage increases. The findings highlight vulnerabilities in a sector that is culturally significant and economically important to many communities.",
+        "sources": [
+          {
+            "name": "RT\u00c9 News",
+            "url": "https://www.rte.ie/news/ireland/2026/0921/1592289-hospitality-costs/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "business",
+          "social"
+        ]
+      },
+      {
+        "headline": "Foreign Minister Helen McEntee Highlights Plight of Afghan Women",
+        "summary": "Foreign Affairs Minister Helen McEntee has emphasized the ongoing crisis facing Afghan women and girls, noting that more than 2.6 million girls have been denied access to secondary education since the Taliban took control in 2021. McEntee's statement underscores Ireland's commitment to international advocacy on human rights and women's rights issues. The remarks reflect Ireland's engagement with global humanitarian concerns and women's empowerment as a priority in foreign policy. McEntee stressed that the situation of Afghan women and girls must remain a priority on the international agenda.",
+        "sources": [
+          {
+            "name": "Irish Examiner",
+            "url": "https://www.irishexaminer.com/news/politics/arid-41913448.html"
+          }
+        ],
+        "tags": [
+          "defence",
+          "politics",
+          "social"
+        ]
+      },
+      {
+        "headline": "Siro Broadband Provider Targets Ireland's Underserved Business Parks",
+        "summary": "Internet provider Siro is expanding its efforts to reach businesses stuck in Ireland's broadband deserts, with particular focus on the Republic's approximately 600 business parks that lack adequate connectivity. Companies in these areas face significant competitive disadvantages due to poor internet infrastructure. Siro's initiative represents an effort to close the digital divide and support business growth in underserved regions. The move addresses a longstanding infrastructure gap that has hampered rural and regional economic development.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/business/2026/09/21/internet-provider-siro-targets-companies-stuck-in-irelands-fibre-broadband-deserts/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "transport",
+          "politics"
+        ]
+      },
+      {
+        "headline": "Dublin Office Space Demand Remains Weak as Remote Working Expands",
+        "summary": "Demand for office space in Dublin remains weak, largely driven by the expansion of remote working arrangements that reduce employers' need for centralized physical workplaces. Even premium properties in Dublin are taking years to find tenants, illustrating the structural shift in office space utilization. The slowdown reflects broader economic changes following the pandemic and shifts in workplace culture. This trend has implications for Dublin's commercial real estate market, property investors, and the city's economic recovery.",
+        "sources": [
+          {
+            "name": "Irish Times",
+            "url": "https://www.irishtimes.com/business/2026/09/21/demand-for-office-space-in-dublin-is-weak-largely-because-remote-working-is-expanding/"
+          }
+        ],
+        "tags": [
+          "economy",
+          "business"
+        ]
+      }
+    ]
+  },
+  "europe": {
+    "layer": "europe",
+    "fetched_at": "2026-09-21T12:00:00Z",
+    "source_status": {
+      "bbc": "rss_failed_used_websearch",
+      "guardian": "rss_failed_used_websearch",
+      "dw": "rss_failed_used_websearch",
+      "france24": "ok",
+      "euronews": "ok"
+    },
+    "stories": [
+      {
+        "headline": "Russia's United Russia party dominates elections amid intensifying Ukraine conflict",
+        "summary": "Putin's ruling United Russia party secured a substantial parliamentary majority in voting on September 20-21, 2026, despite cyberattacks and a major Ukrainian drone attack on Moscow. Ukraine launched what it described as the largest aerial bombardment of the Russian capital to date, causing casualties and infrastructure damage on the final voting day. Moscow responded by pledging to intensify strikes on Kyiv and other Ukrainian targets in retaliation. The election results reinforce Moscow's political control as the Russia-Ukraine war continues to escalate with direct attacks on civilian infrastructure and population centers. The concurrent military operations underscore the conflict's deepening impact on European security and regional stability.",
+        "sources": [
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260921-live-united-russia-dominates-in-elections-moscow-vows-revenge-after-massive-drone-attack"
+          },
+          {
+            "name": "France24",
+            "url": "https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "elections",
+          "geopolitics"
+        ]
+      },
+      {
+        "headline": "Germany's CDU/Merz party suffers heavy losses in state elections as AfD surges",
+        "summary": "Exit polls from German state elections in Berlin and Mecklenburg-Western Pomerania show Friedrich Merz's CDU-led bloc facing significant electoral losses, while the far-right Alternative for Germany (AfD) party is surging in popularity. The Left party captured victory in Berlin, marking a sharp political realignment. These state-level results signal growing voter dissatisfaction with center-right governance and rising support for anti-establishment parties across Germany. The electoral shifts could reshape coalitions and policy priorities at both state and federal levels, with implications for EU-wide political dynamics and Germany's role within European governance structures.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "https://www.euronews.com/my-europe/2026/09/21/germany-the-left-triumphs-in-berlin-as-afd-surges-in-mecklenburg-western-pomerania"
+          }
+        ],
+        "tags": [
+          "elections",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "France faces highest public debt level since 1978 amid fiscal austerity measures",
+        "summary": "France is grappling with a mounting fiscal crisis as its public debt reaches levels not seen since 1978, placing strain on the country's finances and EU budgetary commitments. The French government is preparing a \u20ac54 billion spending cuts package for 2027 in an effort to rein in public expenditure and meet EU fiscal framework requirements. The debt crisis reflects broader economic pressures across the eurozone and raises questions about France's ability to maintain public services and investment while complying with EU fiscal discipline rules. This situation has significant implications for European economic stability and the credibility of the EU's fiscal governance framework.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "https://www.euronews.com/business/2026/09/21/france-debt-set-for-highest-level-since-1978-as-fiscal-strain-grows"
+          }
+        ],
+        "tags": [
+          "economy",
+          "EU",
+          "regulation"
+        ]
+      },
+      {
+        "headline": "EU Parliament approves major customs code reform targeting e-commerce and international trade",
+        "summary": "The European Parliament has approved a comprehensive reform of the EU Customs Code introducing stricter regulatory requirements for e-commerce transactions and establishing a new centralized customs authority based in Lille. A new handling fee for goods ordered directly from non-EU countries will take effect by November 2026. The reform aims to enhance EU control over imports, generate additional revenue through customs procedures, and create more uniform trade rules across member states. This represents a significant shift in how the EU manages external trade and digital commerce, with implications for businesses, consumers, and trade relationships with non-EU countries.",
+        "sources": [
+          {
+            "name": "European Union",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "trade",
+          "regulation",
+          "EU"
+        ]
+      },
+      {
+        "headline": "Italy's Meloni government implements anti-immigration policies including burqa ban in schools",
+        "summary": "Italian Prime Minister Giorgia Meloni's government has announced a ban on burqas in schools and introduced caps on foreign student enrollment, representing an intensification of the country's anti-immigration stance. These policies reflect broader European tensions over migration, integration, and cultural identity. The measures target visible religious dress in educational settings and restrict international student access, aligning with Meloni's nationalist political platform. Such policies in a major EU member state contribute to ongoing debates within Europe over immigration policy, religious freedom, and the balance between national sovereignty and EU anti-discrimination principles.",
+        "sources": [
+          {
+            "name": "Euronews / European Union sources",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "migration",
+          "governance",
+          "EU"
+        ]
+      },
+      {
+        "headline": "France and Canada signal closer diplomatic ties amid strained US-EU relations",
+        "summary": "France and Canada have announced plans to deepen their diplomatic and economic relationship, signaling a strategic pivot toward strengthening ties outside traditional transatlantic frameworks. This development reflects broader concerns about US reliability and changing geopolitical alignments in North America and Europe. The closer France-Canada relationship could reshape trade partnerships and diplomatic coordination, particularly on issues affecting both countries such as climate policy, defense cooperation, and trade regulation. The initiative underscores evolving European strategies to diversify international partnerships and reduce dependency on traditional US-led alliances.",
+        "sources": [
+          {
+            "name": "Euronews / EU News",
+            "url": "https://european-union.europa.eu/news-and-events/featured-news_en"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "trade",
+          "EU"
+        ]
+      },
+      {
+        "headline": "US and China launch AI dialogue to address shared governance concerns",
+        "summary": "The United States and China have announced plans to establish a formal dialogue channel focused on artificial intelligence governance, aiming to communicate shared concerns about AI development and regulation. Economic officials from both countries met on September 20-21, 2026 to discuss creating mechanisms for ongoing communication about AI standards, safety, and international governance frameworks. This dialogue precedes broader economic discussions at leaders' summits planned for late September. The AI dialogue has indirect implications for Europe, as EU regulators and policymakers are developing their own AI governance frameworks that could be influenced by US-China positions on international AI standards.",
+        "sources": [
+          {
+            "name": "EuroNews",
+            "url": "https://www.euronews.com/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns"
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "technology",
+          "trade"
+        ]
+      }
+    ]
+  },
+  "world": {
+    "layer": "world",
+    "fetched_at": "2026-09-21T05:03:14.539713Z",
+    "source_status": {
+      "reuters": "ok",
+      "apnews": "ok",
+      "aljazeera": "ok",
+      "bbcworld": "rss_failed_used_websearch",
+      "npr": "rss_failed_no_articles_found"
+    },
+    "stories": [
+      {
+        "headline": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+        "summary": "Iran has warned the United States against conducting new strikes on Iranian territory, promising retaliation without limitations. The warning comes as fighting continues to escalate in Yemen, where Iranian-backed forces have intensified their military operations. The escalating tensions between Iran and the US represent a critical flashpoint in Middle Eastern geopolitics, with potential implications for regional stability and global energy markets. The conflict has already disrupted shipping lanes and displaced thousands of civilians. Continued military escalation risks widening the conflict beyond Yemen and Iran.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "geopolitics",
+          "Middle East"
+        ]
+      },
+      {
+        "headline": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+        "summary": "A series of powerful explosions rocked a Syrian military ammunition depot south of Aleppo, injuring at least four people. Officials have urged civilians to evacuate the surrounding area near al-Eis following the blasts. The cause of the explosions remains unclear, though ammunition depot incidents in conflict zones often indicate ongoing military tensions or potential attacks. The incident underscores the volatile security situation in northern Syria, which remains contested between various armed groups. Such explosions pose risks not only to military personnel but also to civilian populations in the region.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "Middle East",
+          "Syria"
+        ]
+      },
+      {
+        "headline": "Ethiopian armed groups forge alliance against government",
+        "summary": "Previously rival armed groups in Ethiopia have announced a new military alliance against the government, marking a significant shift in the conflict landscape. Former adversaries say they will set aside their differences to confront the government, raising fears that the conflict could expand significantly. The development suggests a potential escalation of the humanitarian crisis in Ethiopia, where ongoing conflict has already displaced millions. The alliance could fundamentally alter the balance of power in the country and destabilize the wider East African region. International observers are watching closely as the situation could trigger a major refugee crisis.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "conflict",
+          "humanitarian",
+          "Africa"
+        ]
+      },
+      {
+        "headline": "Xi rolls into Trump summit with China's trade engine roaring",
+        "summary": "Chinese President Xi Jinping is preparing for a summit with President Trump as China's economy demonstrates strong performance. The meeting represents a critical moment in US-China relations at a time when Beijing's economic momentum could strengthen its negotiating position. Trade tensions between the two nations have long been a source of global economic uncertainty, affecting markets and supply chains worldwide. The summit offers potential opportunities for dialogue on tariffs, technology competition, and bilateral trade agreements. The outcome of these talks could have significant implications for global commerce and geopolitical alignments.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjdmUF9fTEcySTFqT2t2NUZsd1prTmZjTjJVbmZwOVVVQzVCYV9tem5YNGRVUUdYT05uRTlXTWFheEh5azN5blpURFI1YXItOEJBZWZRRDlLQkx3aGJsdkZia0M2WEpaNHRhTTVmOEpUeU5FdWRPYVN1dUV1bVZrbHpzVEhZZzBrRXNXMTYzOTZzQTVETVkxM1pJT3JIZlpucUJoQTVFaE5LX28?oc=5"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "trade",
+          "economy"
+        ]
+      },
+      {
+        "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
+        "summary": "The Trump administration is preparing comprehensive sanctions against the International Criminal Court, according to multiple reports. The proposed measures could disrupt critical ICC operations including financial systems, information technology services, and ongoing investigations. Such sanctions would represent an unprecedented challenge to the legitimacy and independence of the international judicial system. The move reflects ongoing tensions between the US government and the ICC over investigations into American personnel and allies. This development has significant implications for international law, global justice mechanisms, and US relations with countries that support the ICC.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "international law",
+          "diplomacy"
+        ]
+      },
+      {
+        "headline": "Vessels trickle through Strait of Hormuz as Middle East conflict persists",
+        "summary": "Maritime traffic through the Strait of Hormuz, one of the world's most critical shipping chokepoints, has dropped significantly as Middle East tensions persist. The reduced vessel flow reflects growing concerns about ship safety and the risks of military escalation in the region. The Strait handles roughly a third of global seaborne traded oil, making reduced shipping volumes a concern for global energy markets and economies worldwide. The conflict has prompted many shipping companies to reroute through longer, more expensive routes or avoid the region entirely. Continued disruption to this vital waterway could drive energy prices higher and impact global economic stability.",
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHdMbF8wY2pMdE0tcHdWa3l5dkc5MGpKWVJEZW9VUnV2UTFlaTlVbVpOZ1pQN241SWZOLU4zWDd3ODlBTUhhZmlmaE1jUGltMzRKUF9xRl9CT2ZpMnNxcXkxOXdQeHJHajFzMkpoNWVnS3N6X3ExamF1ejcyQ3I1LW5DVHRXTXQ5MVVtTEE1cmtxLWhGMURaZ19pajA1blpROVVxRXQ3MHE4Zy1BLUVybldpUm01NU0?oc=5"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "economy",
+          "trade"
+        ]
+      },
+      {
+        "headline": "Imran Khan's family says three sisters detained ahead of Islamabad march",
+        "summary": "Three sisters of Pakistani opposition leader Imran Khan have been detained in Lahore ahead of a planned march demanding his release. The detention reflects ongoing political tensions and alleged crackdowns on the Pakistan Tehreek-e-Insaf party and its supporters. Imran Khan remains imprisoned despite claims of political persecution by his supporters, who argue his prosecution is motivated by political rather than legal grounds. The arrest of his family members highlights the deteriorating political freedoms and human rights situation in Pakistan. The planned march threatens to escalate civil unrest in Islamabad amid already tense domestic political conditions.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss"
+          }
+        ],
+        "tags": [
+          "geopolitics",
+          "humanitarian",
+          "South Asia"
+        ]
+      },
+      {
+        "headline": "Tropical Storm Polo forms off southwestern Mexico",
+        "summary": "Tropical Storm Polo has formed in the eastern Pacific Ocean off the southwestern coast of Mexico. The system poses potential risks to Mexico's coastal regions and could bring heavy rainfall and dangerous conditions to populated areas. Climate patterns in the Pacific have been driving increased tropical system activity, raising concerns about disaster preparedness and evacuation procedures. The storm's track and intensity remain subject to change as weather systems evolve. Officials in Mexico have begun issuing advisories and preparing emergency response protocols in potentially affected regions.",
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmJtZjhTNzh6OVR1SGotWXNSR1l3MG5WVWhYM1B4SWc0VU90UjJnZ1pocl9ZQUhuTWZ5bkVCNFpLcW9MZHJpTHYxR1NIOGNOY09hZlVkVlRrQkQ3SDh2Vlg4d3lscThaS1k0OE1qdHludEtEa0xnN0REcDFSYVUwaXNXUlpFQjFZWEcwMklQTUxmUQ"
+          }
+        ],
+        "tags": [
+          "climate",
+          "weather",
+          "humanitarian"
+        ]
+      }
+    ]
+  }
+}

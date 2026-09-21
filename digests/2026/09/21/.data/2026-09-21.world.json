@@ -1,0 +1,133 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-09-21T05:03:14.539713Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "rss_failed_used_websearch",
+    "npr": "rss_failed_no_articles_found"
+  },
+  "stories": [
+    {
+      "headline": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+      "summary": "Iran has warned the United States against conducting new strikes on Iranian territory, promising retaliation without limitations. The warning comes as fighting continues to escalate in Yemen, where Iranian-backed forces have intensified their military operations. The escalating tensions between Iran and the US represent a critical flashpoint in Middle Eastern geopolitics, with potential implications for regional stability and global energy markets. The conflict has already disrupted shipping lanes and displaced thousands of civilians. Continued military escalation risks widening the conflict beyond Yemen and Iran.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "geopolitics",
+        "Middle East"
+      ]
+    },
+    {
+      "headline": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+      "summary": "A series of powerful explosions rocked a Syrian military ammunition depot south of Aleppo, injuring at least four people. Officials have urged civilians to evacuate the surrounding area near al-Eis following the blasts. The cause of the explosions remains unclear, though ammunition depot incidents in conflict zones often indicate ongoing military tensions or potential attacks. The incident underscores the volatile security situation in northern Syria, which remains contested between various armed groups. Such explosions pose risks not only to military personnel but also to civilian populations in the region.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "Middle East",
+        "Syria"
+      ]
+    },
+    {
+      "headline": "Ethiopian armed groups forge alliance against government",
+      "summary": "Previously rival armed groups in Ethiopia have announced a new military alliance against the government, marking a significant shift in the conflict landscape. Former adversaries say they will set aside their differences to confront the government, raising fears that the conflict could expand significantly. The development suggests a potential escalation of the humanitarian crisis in Ethiopia, where ongoing conflict has already displaced millions. The alliance could fundamentally alter the balance of power in the country and destabilize the wider East African region. International observers are watching closely as the situation could trigger a major refugee crisis.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "humanitarian",
+        "Africa"
+      ]
+    },
+    {
+      "headline": "Xi rolls into Trump summit with China's trade engine roaring",
+      "summary": "Chinese President Xi Jinping is preparing for a summit with President Trump as China's economy demonstrates strong performance. The meeting represents a critical moment in US-China relations at a time when Beijing's economic momentum could strengthen its negotiating position. Trade tensions between the two nations have long been a source of global economic uncertainty, affecting markets and supply chains worldwide. The summit offers potential opportunities for dialogue on tariffs, technology competition, and bilateral trade agreements. The outcome of these talks could have significant implications for global commerce and geopolitical alignments.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjdmUF9fTEcySTFqT2t2NUZsd1prTmZjTjJVbmZwOVVVQzVCYV9tem5YNGRVUUdYT05uRTlXTWFheEh5azN5blpURFI1YXItOEJBZWZRRDlLQkx3aGJsdkZia0M2WEpaNHRhTTVmOEpUeU5FdWRPYVN1dUV1bVZrbHpzVEhZZzBrRXNXMTYzOTZzQTVETVkxM1pJT3JIZlpucUJoQTVFaE5LX28?oc=5"
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "trade",
+        "economy"
+      ]
+    },
+    {
+      "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
+      "summary": "The Trump administration is preparing comprehensive sanctions against the International Criminal Court, according to multiple reports. The proposed measures could disrupt critical ICC operations including financial systems, information technology services, and ongoing investigations. Such sanctions would represent an unprecedented challenge to the legitimacy and independence of the international judicial system. The move reflects ongoing tensions between the US government and the ICC over investigations into American personnel and allies. This development has significant implications for international law, global justice mechanisms, and US relations with countries that support the ICC.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "international law",
+        "diplomacy"
+      ]
+    },
+    {
+      "headline": "Vessels trickle through Strait of Hormuz as Middle East conflict persists",
+      "summary": "Maritime traffic through the Strait of Hormuz, one of the world's most critical shipping chokepoints, has dropped significantly as Middle East tensions persist. The reduced vessel flow reflects growing concerns about ship safety and the risks of military escalation in the region. The Strait handles roughly a third of global seaborne traded oil, making reduced shipping volumes a concern for global energy markets and economies worldwide. The conflict has prompted many shipping companies to reroute through longer, more expensive routes or avoid the region entirely. Continued disruption to this vital waterway could drive energy prices higher and impact global economic stability.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHdMbF8wY2pMdE0tcHdWa3l5dkc5MGpKWVJEZW9VUnV2UTFlaTlVbVpOZ1pQN241SWZOLU4zWDd3ODlBTUhhZmlmaE1jUGltMzRKUF9xRl9CT2ZpMnNxcXkxOXdQeHJHajFzMkpoNWVnS3N6X3ExamF1ejcyQ3I1LW5DVHRXTXQ5MVVtTEE1cmtxLWhGMURaZ19pajA1blpROVVxRXQ3MHE4Zy1BLUVybldpUm01NU0?oc=5"
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "economy",
+        "trade"
+      ]
+    },
+    {
+      "headline": "Imran Khan's family says three sisters detained ahead of Islamabad march",
+      "summary": "Three sisters of Pakistani opposition leader Imran Khan have been detained in Lahore ahead of a planned march demanding his release. The detention reflects ongoing political tensions and alleged crackdowns on the Pakistan Tehreek-e-Insaf party and its supporters. Imran Khan remains imprisoned despite claims of political persecution by his supporters, who argue his prosecution is motivated by political rather than legal grounds. The arrest of his family members highlights the deteriorating political freedoms and human rights situation in Pakistan. The planned march threatens to escalate civil unrest in Islamabad amid already tense domestic political conditions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "humanitarian",
+        "South Asia"
+      ]
+    },
+    {
+      "headline": "Tropical Storm Polo forms off southwestern Mexico",
+      "summary": "Tropical Storm Polo has formed in the eastern Pacific Ocean off the southwestern coast of Mexico. The system poses potential risks to Mexico's coastal regions and could bring heavy rainfall and dangerous conditions to populated areas. Climate patterns in the Pacific have been driving increased tropical system activity, raising concerns about disaster preparedness and evacuation procedures. The storm's track and intensity remain subject to change as weather systems evolve. Officials in Mexico have begun issuing advisories and preparing emergency response protocols in potentially affected regions.",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmJtZjhTNzh6OVR1SGotWXNSR1l3MG5WVWhYM1B4SWc0VU90UjJnZ1pocl9ZQUhuTWZ5bkVCNFpLcW9MZHJpTHYxR1NIOGNOY09hZlVkVlRrQkQ3SDh2Vlg4d3lscThaS1k0OE1qdHludEtEa0xnN0REcDFSYVUwaXNXUlpFQjFZWEcwMklQTUxmUQ"
+        }
+      ],
+      "tags": [
+        "climate",
+        "weather",
+        "humanitarian"
+      ]
+    }
+  ]
+}

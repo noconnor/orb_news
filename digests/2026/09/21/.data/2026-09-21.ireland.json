@@ -1,0 +1,79 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-09-21T07:00:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "ok",
+    "irishtimes": "rss_failed_used_websearch",
+    "irishexaminer": "ok",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Omagh Bombing Inquest Resumes with Key Witnesses",
+      "summary": "The public inquest into the 1998 Omagh bombing is resuming with witnesses expected to give evidence in coming weeks about events leading up to the attack that killed 29 people. The inquest aims to establish the full circumstances of the bombing, one of the deadliest incidents during the conflict. This represents a significant moment in the long-running effort to achieve truth and justice for victims of the Real IRA attack. The proceedings reflect ongoing commitments to historical accountability and closure for affected families and communities.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ulster/2026/0921/1592281-omagh-bombing-inquest/"}
+      ],
+      "tags": ["politics", "crime", "justice"]
+    },
+    {
+      "headline": "Budget 2027 Described as 'Watershed Moment' for Ireland's Future",
+      "summary": "Minister Simon Harris has characterized the upcoming Budget 2027 as a critical watershed moment for Ireland's future direction and priorities. The budget is expected to set the tone for economic policy and public spending in the coming year amid ongoing debates about public services, taxation, and economic management. Harris's framing suggests significant policy decisions and resource allocations are being planned. The budget announcement follows weeks of discussion about minimum wages, cost-of-living pressures, and business viability concerns.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/2026/0921/1592282-budget-politics-ireland/"}
+      ],
+      "tags": ["politics", "economy", "budget"]
+    },
+    {
+      "headline": "Taoiseach and Irish Ministers Travel to UN General Assembly",
+      "summary": "The Taoiseach and government ministers are heading to New York for the 81st United Nations General Assembly High-Level Week. The delegation will participate in the annual gathering where world leaders address global challenges and Ireland's priorities at the international level. This appearance allows Ireland to present its positions on key global issues including conflicts, climate policy, and development. The attendance underscores Ireland's active engagement with international diplomacy and the UN system.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0921/1592290-ireland-un-assembly/"},
+        {"name": "The Journal.ie", "url": "https://www.thejournal.ie/un-general-assembly-2-7165663-Sep2026/"}
+      ],
+      "tags": ["politics", "defence"]
+    },
+    {
+      "headline": "Low Pay 'Endemic' in Ireland's Labour Market, Research Shows",
+      "summary": "New research from University College Dublin has found that low pay is endemic across Ireland's labour market, with one in three workers earning less than a living wage. These workers struggle to make ends meet despite being in full-time employment, highlighting a systemic issue in wage structures. The findings fuel ongoing debate about minimum wage policy, with the Small Firms Association urging government to reject proposed increases due to concerns about business viability. The research underscores broader challenges around cost-of-living pressures and income adequacy.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0921/1592267-business-pay-ireland/"},
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/business/2026/0921/1592269-minimum-wage-business/"}
+      ],
+      "tags": ["economy", "politics", "social"]
+    },
+    {
+      "headline": "Hospitality Sector Faces Viability Crisis from Rising Costs",
+      "summary": "Pubs and hospitality businesses across Ireland are facing mounting pressure from rising operational costs that threaten their viability, according to new research released today. The sector struggles with increased energy costs, wages, and supply chain expenses that are difficult to pass on to customers without losing trade. This follows broader economic pressures affecting Irish businesses and adds to the case made by business groups regarding minimum wage increases. The findings highlight vulnerabilities in a sector that is culturally significant and economically important to many communities.",
+      "sources": [
+        {"name": "RTÉ News", "url": "https://www.rte.ie/news/ireland/2026/0921/1592289-hospitality-costs/"}
+      ],
+      "tags": ["economy", "business", "social"]
+    },
+    {
+      "headline": "Foreign Minister Helen McEntee Highlights Plight of Afghan Women",
+      "summary": "Foreign Affairs Minister Helen McEntee has emphasized the ongoing crisis facing Afghan women and girls, noting that more than 2.6 million girls have been denied access to secondary education since the Taliban took control in 2021. McEntee's statement underscores Ireland's commitment to international advocacy on human rights and women's rights issues. The remarks reflect Ireland's engagement with global humanitarian concerns and women's empowerment as a priority in foreign policy. McEntee stressed that the situation of Afghan women and girls must remain a priority on the international agenda.",
+      "sources": [
+        {"name": "Irish Examiner", "url": "https://www.irishexaminer.com/news/politics/arid-41913448.html"}
+      ],
+      "tags": ["defence", "politics", "social"]
+    },
+    {
+      "headline": "Siro Broadband Provider Targets Ireland's Underserved Business Parks",
+      "summary": "Internet provider Siro is expanding its efforts to reach businesses stuck in Ireland's broadband deserts, with particular focus on the Republic's approximately 600 business parks that lack adequate connectivity. Companies in these areas face significant competitive disadvantages due to poor internet infrastructure. Siro's initiative represents an effort to close the digital divide and support business growth in underserved regions. The move addresses a longstanding infrastructure gap that has hampered rural and regional economic development.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/business/2026/09/21/internet-provider-siro-targets-companies-stuck-in-irelands-fibre-broadband-deserts/"}
+      ],
+      "tags": ["economy", "transport", "politics"]
+    },
+    {
+      "headline": "Dublin Office Space Demand Remains Weak as Remote Working Expands",
+      "summary": "Demand for office space in Dublin remains weak, largely driven by the expansion of remote working arrangements that reduce employers' need for centralized physical workplaces. Even premium properties in Dublin are taking years to find tenants, illustrating the structural shift in office space utilization. The slowdown reflects broader economic changes following the pandemic and shifts in workplace culture. This trend has implications for Dublin's commercial real estate market, property investors, and the city's economic recovery.",
+      "sources": [
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/business/2026/09/21/demand-for-office-space-in-dublin-is-weak-largely-because-remote-working-is-expanding/"}
+      ],
+      "tags": ["economy", "business"]
+    }
+  ]
+}
