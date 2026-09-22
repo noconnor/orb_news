@@ -1,0 +1,71 @@
+{
+  "layer": "europe",
+  "fetched_at": "2026-09-22T12:30:00Z",
+  "source_status": {
+    "bbc": "rss_failed",
+    "guardian": "rss_failed",
+    "dw": "rss_failed",
+    "france24": "ok",
+    "euronews": "ok"
+  },
+  "stories": [
+    {
+      "headline": "German regional elections show surge in far-right support amid coalition challenges",
+      "summary": "Germany's weekend regional elections resulted in significant gains for the far-right AfD party, which led in Mecklenburg-Western Pomerania while Die Linke dominated in Berlin. Chancellor Friedrich Merz's ruling CDU-SPD coalition suffered substantial losses in the eastern states. Merz responded by pledging to maintain the coalition despite the setbacks. The elections reflect growing political fragmentation in Europe's largest economy and rising support for anti-establishment parties across key electoral regions.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260921-five-takeaways-from-germanys-regional-elections-after-far-right-gains"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260921-germany-merz-vows-to-keep-ruling-coalition-together-after-election-defeats"}
+      ],
+      "tags": ["politics", "governance", "elections"]
+    },
+    {
+      "headline": "EU member states deadlock on lifting sanctions against Russian oligarchs Usmanov and Fridman",
+      "summary": "European Union member states failed to reach consensus on removing billionaires Alisher Usmanov and Mikhail Fridman from EU sanctions lists during negotiations on September 22. The disagreement centers on whether the sanctions should be lifted, with envoys technically agreeing to proceed absent government objections, but formal finalization did not occur. Ukraine's Foreign Minister Andriy Sybiga publicly denounced the proposed removal as unacceptable, complicating EU coordination on Russia policy. The deadlock reflects broader tensions within the bloc regarding sanctions enforcement and Russia relations.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260922-eu-fails-to-agree-on-lifting-sanctions-on-russian-oligarchs"},
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260921-live-united-russia-dominates-in-elections-moscow-vows-revenge-after-massive-drone-attack"}
+      ],
+      "tags": ["EU", "sanctions", "Russia", "governance"]
+    },
+    {
+      "headline": "UK and US conduct first-ever torpedo test from autonomous underwater vessel",
+      "summary": "The United Kingdom and United States successfully completed their inaugural test-firing of a torpedo from an unmanned underwater craft on September 22, marking a significant milestone in AUKUS defense collaboration. The test demonstrates progress toward developing self-directed naval systems that can operate independently. This development underscores growing investment in autonomous military technology and reflects strengthened defense partnerships between Anglo-American allies. The capability has implications for naval strategy and deterrence in the Atlantic and potentially other strategic regions.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260922-uk-and-us-make-first-ever-torpedo-test-from-uncrewed-vessel"}
+      ],
+      "tags": ["defence", "technology", "military"]
+    },
+    {
+      "headline": "EU fines Google €403 million for unauthorized location data usage between 2018 and 2020",
+      "summary": "Ireland's Data Protection Commission announced a €403 million penalty against Google for improperly using location information spanning from mid-2018 to early 2020. The fine represents one of the EU's major tech enforcement actions under digital regulations. Critics have noted the substantial eight-year delay between the conduct and enforcement action. The decision demonstrates the EU's continued commitment to regulating technology giants under its privacy framework while raising questions about the speed of regulatory enforcement processes.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260921-eu-fines-google-%E2%82%AC403-million-for-improperly-using-location-data"}
+      ],
+      "tags": ["regulation", "technology", "EU"]
+    },
+    {
+      "headline": "European Commission announces new sustainability rules for data centres to manage energy and water consumption",
+      "summary": "The European Commission unveiled new sustainability regulations aimed at monitoring water and energy consumption of data centres, which are increasingly critical infrastructure for AI and digital services. While the framework establishes monitoring requirements immediately, mandatory minimum performance standards will not take effect until 2027. The initiative reflects EU efforts to balance digital transformation and AI development with climate and resource sustainability goals. Data centre operators across Europe will need to prepare for compliance with the emerging standards.",
+      "sources": [
+        {"name": "WebSearch results", "url": "https://european-union.europa.eu/news-and-events_en"}
+      ],
+      "tags": ["EU", "climate", "regulation", "technology"]
+    },
+    {
+      "headline": "European Commission and Philippines reach substantial agreement on free-trade deal",
+      "summary": "European Commission President Ursula von der Leyen announced on September 22 that the EU and the Philippines have reached a substantial agreement on a free-trade deal following direct discussions with Philippine President Ferdinand Marcos Jr. The accord aims to deepen economic ties between the EU and Southeast Asia. The agreement represents the EU's continued strategy of expanding trade relationships beyond traditional partners and strengthening economic influence in the Indo-Pacific region.",
+      "sources": [
+        {"name": "WebSearch results", "url": "https://lufkindailynews.com/news_reuters/business/eu-and-philippines-reach-substantial-agreement-on-free-trade-deal/article_1d7f7f2d-d150-5ff6-a29c-f4159f24fcb7.html"}
+      ],
+      "tags": ["trade", "EU", "economy"]
+    },
+    {
+      "headline": "British Museum restricts photography of Bayeux Tapestry amid overwhelming visitor demand",
+      "summary": "The British Museum implemented a photography prohibition for the historic 1,000-year-old Bayeux Tapestry, which is on loan from France, to manage unprecedented visitor congestion. Capacity for viewing the artifact has been fully booked through the end of the year, forcing the museum to implement access restrictions. The extreme demand reflects major public interest in the medieval artifact but has created logistical challenges. The photograph ban aims to accelerate visitor flow while preserving the viewing experience for those who secure tickets.",
+      "sources": [
+        {"name": "France24", "url": "https://www.france24.com/en/europe/20260921-bayeux-tapestry-craze-prompts-photo-ban-at-british-museum"}
+      ],
+      "tags": ["culture", "Europe"]
+    }
+  ]
+}

@@ -461,6 +461,18 @@
       "historical_event": "Weimar Republic political fragmentation",
       "date_first_used": "2026-09-21",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Weimar_Republic"
+    },
+    {
+      "story_topic": "Global AI governance body",
+      "historical_event": "Atoms for Peace and the founding of the IAEA (1953-1957)",
+      "date_first_used": "2026-09-22",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency"
+    },
+    {
+      "story_topic": "German far-right electoral surge / coalition fragmentation",
+      "historical_event": "1930 German federal election (Weimar Republic)",
+      "date_first_used": "2026-09-22",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/1930_German_federal_election"
     }
   ]
 }

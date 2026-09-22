@@ -1,0 +1,94 @@
+{
+  "layer": "ireland",
+  "fetched_at": "2026-09-22T06:30:00Z",
+  "source_status": {
+    "rte": "ok",
+    "thejournal": "rss_failed_used_websearch",
+    "irishtimes": "ok",
+    "irishexaminer": "rss_failed_used_websearch",
+    "breakingnews": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "7 in 10 young adults considering leaving Ireland for better life abroad",
+      "summary": "A national youth council survey reveals that nearly 70% of young adults are contemplating emigration, citing housing costs, cost of living, and lack of good employment opportunities as primary drivers. This represents a significant challenge for Ireland's workforce retention and demographic sustainability. The survey highlights long-standing concerns about housing affordability and economic opportunity that continue to push younger generations toward seeking better living standards abroad. The findings underscore persistent structural issues in the Irish economy that require policy attention to stem emigration and brain drain.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/2026/0922/1592427-youth-council-survey/"
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/09/22/seven-out-of-10-young-people-consider-emigrating-in-pursuit-of-better-life/"
+        }
+      ],
+      "tags": ["economy", "housing", "social"]
+    },
+    {
+      "headline": "Pregnant women denied access to mental health support as perinatal services restrict care",
+      "summary": "A Journal investigation reveals critical gaps in Ireland's perinatal mental health services, with pregnant women and new mothers facing lengthy wait times, geographic barriers, and inconsistent access to specialist care. The findings show that maternal deaths by suicide increased to 17 between 2019-2024, compared to 9 in the previous five-year period. Five of six specialist mental health hubs now restrict referrals beyond six months postpartum despite HSE guidelines allowing support up to one year. Women in rural areas must travel hours to access multidisciplinary care, and many remain unaware services exist. A maternal mental health advocate described Ireland's perinatal care as \"inconsistent, unclear, and very unequal,\" while the government has indicated plans to expand consultant-led teams to all maternity hospitals.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/investigates-perinatal-mental-health-services-7166693-Sep2026/"
+        }
+      ],
+      "tags": ["health", "social", "politics"]
+    },
+    {
+      "headline": "Maternity leave sick certificate requirement 'completely ridiculous,' minister says",
+      "summary": "Minister Helen McEntee has called for urgent reform of maternity leave procedures after Social Democrats leader Holly Cairns faced significant issues during her recent maternity leave. Despite new legislation formalizing maternity leave for Oireachtas members in October 2024, there is no system allowing TDs to formally mark themselves absent for maternity leave within the parliamentary expenses framework. Cairns was forced to repay €8,500 in allowances and submit sick certificates to account for her absence or face financial penalties. McEntee emphasized the absurdity of requiring sick certificates for maternity leave and called for systematic changes to prevent women from navigating confusing bureaucratic procedures. The issue highlights broader systemic gaps in how Irish institutions accommodate women's reproductive rights.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/holly-cairns-maternity-leave-7168693-Sep2026/"
+        }
+      ],
+      "tags": ["politics", "social", "housing"]
+    },
+    {
+      "headline": "Childcare costs create barrier to parenthood for 63% of rural Irish families",
+      "summary": "The Rural Ireland Thinks survey reveals that childcare costs are an increasingly significant impediment to having children, with 63% of respondents agreeing in 2026, up substantially from 55% in 2024. Only 38% of respondents believe the government has done enough to reduce childcare costs, while access to childcare facilities in rural areas has declined from 37% to 27% agreement between 2024 and 2026. Corporate providers avoid rural areas due to lower profitability, while small providers struggle with rising operational costs and staff retention issues. Rural mothers report that lack of childcare affects workplace opportunities, pension entitlements, and business prospects. The survey underscores how childcare affordability and availability act as barriers to family formation across rural Ireland.",
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/arid-41913391.html"
+        }
+      ],
+      "tags": ["economy", "housing", "social"]
+    },
+    {
+      "headline": "Legal aid certificate approvals plummet 93% in July, Law Society warns of access to justice crisis",
+      "summary": "The Law Society has raised serious concerns about a dramatic 93% collapse in legal aid certificate grants during July, signaling a critical failure in access to justice for low-income Irish citizens. The sharp drop represents a systemic breakdown in the legal aid system's ability to provide support for citizens who cannot afford legal representation. This comes amid ongoing fee disputes between solicitors and the government over legal aid payments. The dramatic decline in approvals threatens vulnerable populations' ability to obtain legal assistance for essential matters ranging from family law to housing disputes and criminal defence.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/2026/0922/1592440-solicitor-fee-dispute/"
+        }
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Gaza scholarship student challenges Justice Minister in High Court over visa denial",
+      "summary": "Hafez Alrayyes, a 20-year-old Palestinian student who received a fully funded scholarship to study engineering at Trinity College Dublin, has filed a judicial review case against Justice Minister Jim O'Callaghan after his Irish student visa was denied. Represented by Phoenix Law with barristers Blinne Ní Ghrálaigh and Eamonn Dornan, Alrayyes is challenging the visa refusal decision in the High Court. The case raises questions about Ireland's immigration policies toward international scholars and the criteria for visa approval. Court hearings are scheduled for September 28-29, 2026, with substantive proceedings to follow. The case highlights potential barriers facing talented international students seeking to study in Ireland.",
+      "sources": [
+        {
+          "name": "The Journal.ie",
+          "url": "https://www.thejournal.ie/hafez-al-rayyes-visa-case-7168543-Sep2026/"
+        }
+      ],
+      "tags": ["politics", "social"]
+    },
+    {
+      "headline": "Minimum wage increase in 2024 produced modest price increases, ESRI research finds",
+      "summary": "The Economic and Social Research Institute has released findings on the economic effects of Ireland's 2024 minimum wage increase, showing that the policy change produced restrained pricing effects across the economy. The research indicates that minimum wage increases, a key policy tool for addressing income inequality and cost of living pressures, have not triggered the significant inflation spike some critics feared. The ESRI's analysis provides evidence-based perspective on the wage-setting debate and suggests that minimum wage policy can be deployed without proportional inflationary consequences, supporting discussions on future wage-setting decisions in Ireland.",
+      "sources": [
+        {
+          "name": "RTÉ News",
+          "url": "https://www.rte.ie/news/2026/0922/1592431-esri-minimum-wage/"
+        }
+      ],
+      "tags": ["economy"]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "layer": "world",
+  "fetched_at": "2026-09-22T05:02:59.604807Z",
+  "source_status": {
+    "reuters": "ok",
+    "apnews": "ok",
+    "aljazeera": "ok",
+    "bbcworld": "rss_failed_used_websearch",
+    "npr": "rss_failed_used_websearch"
+  },
+  "stories": [
+    {
+      "headline": "Iran-Israel Conflict Intensifies as UNGA Convenes, G7 Presses Iran on Houthis",
+      "summary": "As world leaders gather at the United Nations General Assembly, tensions in the Middle East escalate with active military operations and international diplomatic pressure. Iran's Islamic Revolutionary Guard Corps demands that the US and Israel withdraw from the region, while the Group of Seven calls on Iran to stop arming Houthi militants. The UK has agreed to provide air-to-air refuelling support to Saudi jets conducting counter-Houthi operations, marking further internationalization of the conflict. Trump is returning to the UNGA platform amid scrutiny over his earlier Iran policies and ongoing military engagement. The broader geopolitical situation reflects deepening divisions and the struggle to manage multiple regional conflicts simultaneously.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS01waTFweHdPbVI1QkNWSXlpQzMxd1FsX0lCcnBpNlQ4dFFVeDdTLWkxNmJNWEdBUi1iZ3VYQ0JjbGdIeGY4Q0ZZXzB6NW9fdVpkSXpLSzdvSzBKNHVBZDNVVGJJV1ZDZXNYMGpwVW9fMklhN0hjMVRia3FNcGFITkVrd1QyTVc4SWI3VXpyelRzbG5uTVZjZkNEZ1lETnpObGs4?oc=5"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "diplomacy",
+        "geopolitics"
+      ]
+    },
+    {
+      "headline": "Twenty Countries Propose Global AI Oversight Body to Manage Emerging Dangers",
+      "summary": "In a significant step toward international AI governance, twenty countries including Germany, South Africa, and Canada have jointly proposed the creation of a global oversight body to manage artificial intelligence risks. The initiative seeks to establish international standards and enforcement mechanisms for AI safety and ethical deployment across borders. This comes as major tech companies, including Alibaba, race to develop increasingly powerful AI models with trillions of parameters. The proposed institution would represent the first coordinated international effort to regulate AI development at a systemic level. The move reflects growing global concern about AI's potential risks and the need for unified standards in a rapidly evolving technological landscape.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "technology",
+        "governance",
+        "international-policy"
+      ]
+    },
+    {
+      "headline": "Typhoon Dujuan Strikes Japan with Deaths and Widespread Disruption",
+      "summary": "Typhoon Dujuan has impacted Japan with deadly consequences, killing at least two people and causing significant travel chaos in the densely populated region near Tokyo. The storm brought destructive flooding and hazardous conditions as it moved northeast away from Japan's eastern coast into the Pacific Ocean. Major transportation infrastructure has been disrupted, affecting commuter networks and causing widespread disruption to daily life across the affected regions. The typhoon's path of destruction highlights the vulnerability of even developed nations to extreme weather events. Japan's experience with Typhoon Dujuan underscores the ongoing threat posed by increasingly intense weather patterns in Asia-Pacific.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "climate",
+        "natural-disaster",
+        "humanitarian"
+      ]
+    },
+    {
+      "headline": "Brazil's Presidential Election Heats Up as Lula and Bolsonaro Camp Locked in Tight Race",
+      "summary": "Brazil's October presidential election is shaping up to be a competitive contest as recent polling shows the leftist Luiz In\u00e1cio Lula da Silva and right-wing Fl\u00e1vio Bolsonaro in a statistical tie. Lula is pursuing his fourth non-consecutive term as Brazil's president, running against the Bolsonaro political faction. The tight race reflects deep political divisions within Latin America's largest economy, with significant implications for economic policy and regional relations. Voter sentiment appears divided between continuity and change as the nation prepares for one of its most consequential elections in years. The outcome could reshape Brazil's approach to major issues including Amazon conservation, economic management, and international relations.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "politics",
+        "economy",
+        "diplomacy"
+      ]
+    },
+    {
+      "headline": "Alibaba Unveils AI Model with 5-10 Trillion Parameters Amid Global Tech Competition",
+      "summary": "Chinese tech giant Alibaba has announced plans to develop a massive AI language model with between 5 and 10 trillion parameters, alongside the unveiling of a new proprietary chip for AI processing. The announcement represents a significant escalation in the global AI arms race, particularly positioning China as a major competitor in cutting-edge AI development. Alibaba's move demonstrates the pace of AI innovation and the substantial investment major technology companies are committing to maintain competitive advantage. The new model and chip infrastructure underscore the critical importance of computational power and intellectual property in the emerging AI economy. This development has broader implications for technological sovereignty and the distribution of AI capabilities across different regions and companies.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5"
+        }
+      ],
+      "tags": [
+        "technology",
+        "economy",
+        "competition"
+      ]
+    },
+    {
+      "headline": "Mali Marks Independence Anniversary While Battling Expanding Armed Group Threats",
+      "summary": "Mali observes its 66th independence anniversary amid a deepening security crisis that threatens the nation's stability and territorial control. Armed groups continue to expand their operational reach across the country, while the government struggles to maintain control of critical supply routes and infrastructure. The security situation represents a humanitarian concern, with civilian populations caught in escalating violence. International observers have raised alarm about the deteriorating conditions and the potential for further destabilization in West Africa. Mali's independence celebration this year is overshadowed by the urgent challenges of combating insurgency and restoring state authority across the nation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "humanitarian",
+        "security"
+      ]
+    },
+    {
+      "headline": "UN Expert Accuses US of Potential 'Crimes Against Humanity' in Caribbean and Pacific Operations",
+      "summary": "A United Nations expert has raised serious allegations that US military strikes on suspected drug trafficking vessels in the Caribbean and Pacific regions may constitute crimes against humanity. The expert reports that US forces have killed 223 people across 68 separate attacks over the past year in operations targeting alleged drug boats. The accusations focus on the legality and proportionality of the strikes, as well as whether proper verification procedures were followed before engagement. This represents a significant international law concern regarding the balance between counter-narcotics operations and civilian protection obligations. The allegations underscore broader debates about military operations in international waters and the application of international humanitarian law in counternarcotics enforcement.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "humanitarian",
+        "international-law"
+      ]
+    },
+    {
+      "headline": "Asian Tech Markets Rally on Investment Sentiment, Dollar Strengthens Amid Rate-Hike Expectations",
+      "summary": "Technology stocks across Asia surged in trading driven by optimistic investor sentiment, with major indexes benefiting from strong gains in the sector. The US dollar strengthened against major currency pairs as market participants priced in expectations for continued interest rate increases from central banks. The tech rally reflects confidence in earnings growth and innovation within the sector, despite ongoing global economic uncertainties. Currency movements underscore the interconnected nature of global financial markets and the influence of monetary policy expectations on exchange rates. These market dynamics have implications for international trade flows and capital allocation decisions across Asia-Pacific and beyond.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FBVf95cUxQWDZHQ1hMWnNLYkprbHNRMXdGRzk1Q2RSQm00bWVvYzN4Uy1PNHJ2bHQ1WmZsUE5pSmUzTHBFUXQzaHBnb01UQXV5ZUljTFl2cS1fbHhFMUtDblA3NHRjeXRzbEpYMjNZempPSmRPbEpIajV0T1BuRDl1SQ?oc=5"
+        }
+      ],
+      "tags": [
+        "economy",
+        "trade",
+        "technology"
+      ]
+    }
+  ]
+}
